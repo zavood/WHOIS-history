@@ -5,23 +5,25 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KASPERSKY.COM
+   Domain Name: WARNERARTISTS.NET
    Registrar: MARKMONITOR INC.
    Whois Server: whois.markmonitor.com
    Referral URL: http://www.markmonitor.com
-   Name Server: NS.MACOMNET.RU
-   Name Server: NS1.KASPERSKYLABS.NET
-   Name Server: NS2.KASPERSKYLABS.NET
-   Name Server: NS2.MACOMNET.RU
-   Name Server: NS3.KASPERSKYLABS.NET
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: J4.NSTLD.COM
+   Name Server: K4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 26-nov-2010
-   Creation Date: 09-oct-1997
-   Expiration Date: 08-oct-2015
+   Updated Date: 22-dec-2010
+   Creation Date: 22-jan-2009
+   Expiration Date: 22-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 18:37:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 18:36:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -82,45 +84,47 @@ MarkMonitor.com reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by this policy.
 
 Registrant:
-        Jeremy Baucom
-        Kaspersky Lab ZAO
-        10/1 1st Volokolamsky Proezd
-         Moscow  123060
-        RU
-        domain-management@kaspersky.com +7.4957978700 Fax: +7.4957978700
+        Domain Admin
+        Warner Communications Inc.
+        One Time Warner Center
+         New York NY 10019
+        US
+        domain_billing@timeinc.net +1.2124846920 Fax: +1.2124014758
 
-    Domain Name: kaspersky.com
+    Domain Name: warnerartists.net
 
         Registrar Name: Markmonitor.com
         Registrar Whois: whois.markmonitor.com
         Registrar Homepage: http://www.markmonitor.com
 
     Administrative Contact:
-        Jeremy Baucom
-        Kaspersky Lab ZAO
-        10/1 1st Volokolamsky Proezd
-         Moscow  123060
-        RU
-        domain-management@kaspersky.com +7.4957978700 Fax: +7.4957978700
+        Domain Admin
+        Warner Communications Inc.
+        One Time Warner Center
+         New York NY 10019
+        US
+        domain_billing@timeinc.net +1.2124846920 Fax: +1.2124014758
     Technical Contact, Zone Contact:
-        Jeremy Baucom
-        Kaspersky Lab ZAO
-        10/1 1st Volokolamsky Proezd
-         Moscow  123060
-        RU
-        domain-management@kaspersky.com +7.4957978700 Fax: +7.4957978700
+        Domain Administrator
+        Warner Music Inc
+        75 Rockerfeller Plaza
+         New York NY 10019
+        US
+        dns-admin@wmg-is.com +1.2122752175 Fax:
 
-    Created on..............: 1997-10-08.
-    Expires on..............: 2015-10-07.
-    Record last updated on..: 2011-05-10.
+    Created on..............: 2009-01-22.
+    Expires on..............: 2013-01-22.
+    Record last updated on..: 2011-05-13.
 
     Domain servers in listed order:
 
-    ns3.kasperskylabs.net
-    ns1.kasperskylabs.net
-    ns2.macomnet.ru
-    ns.macomnet.ru
-    ns2.kasperskylabs.net
+    l4.nstld.com
+    j4.nstld.com
+    f4.nstld.com
+    h4.nstld.com
+    g4.nstld.com
+    k4.nstld.com
+    a4.nstld.com
 
 
 
