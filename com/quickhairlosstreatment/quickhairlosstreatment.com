@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ESET.COM
-   Registrar: REGISTER.COM, INC.
-   Whois Server: whois.register.com
-   Referral URL: http://www.register.com
-   Name Server: E.NS.LANECHANGE.INFO
-   Name Server: NS1.LANECHANGE.NET
-   Name Server: NS2.LANECHANGE.NET
-   Name Server: NS3.LANECHANGE.NET
-   Name Server: NS4.LANECHANGE.NET
-   Status: clientTransferProhibited
-   Updated Date: 04-mar-2010
-   Creation Date: 18-apr-2001
-   Expiration Date: 18-apr-2013
+   Domain Name: QUICKHAIRLOSSTREATMENT.COM
+   Registrar: HOSTOPIA.COM INC. D/B/A APLUS.NET
+   Whois Server: whois.names4ever.com
+   Referral URL: http://www.aplus.net
+   Name Server: NS41.HOSTFORWEB.NET
+   Name Server: NS42.HOSTFORWEB.NET
+   Status: ok
+   Updated Date: 18-nov-2010
+   Creation Date: 01-dec-2004
+   Expiration Date: 01-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:03:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:04:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,74 +52,58 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The data in Register.com's WHOIS database is provided to you by
-Register.com for information purposes only, that is, to assist you in
+The data in Aplus.net's WHOIS database is provided to you by
+Aplus.net for information purposes only, that is, to assist you in
 obtaining information about or related to a domain name registration
-record.  Register.com makes this information available &quot;as is,&quot; and
+record.  Aplus.net makes this information available &quot;as is,&quot; and
 does not guarantee its accuracy.  By submitting a WHOIS query, you
 agree that you will use this data only for lawful purposes and that,
 under no circumstances will you use this data to: (1) allow, enable,
 or otherwise support the transmission of mass unsolicited, commercial
 advertising or solicitations via direct mail, electronic mail, or by
 telephone; or (2) enable high volume, automated, electronic processes
-that apply to Register.com (or its systems).  The compilation,
+that apply to Aplus.net (or its systems).  The compilation,
 repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of Register.com.
-Register.com reserves the right to modify these terms at any time.
+prohibited without the prior written consent of Aplus.net.
+Aplus.net reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      ESET, spol. s r.o.
-      Peter Pasko
-      Einsteinova 24 Aupark Tower, 16th Floor
-      Bratislava,   85101
-      SK
-      Phone: +421.232244111
-      Email: sysadmin@eset.com
+      Domain Listing Agent
+      110 East Broward Boulevard, Suite 1650
+      Fort Lauderdale, FL 33301
+      USA
+      Phone: 1-877-977-8577
+      Email: quickhairlosstreatment.com@domainlistingagent.com
 
 
+   Registrar Name....: Aplus.net
+   Registrar Homepage: www.aplus.net
 
-   Registrar Name....: Register.com
-   Registrar Whois...: whois.register.com
-   Registrar Homepage: www.register.com
-
-   Domain Name: eset.com
-      Created on..............: 2001-04-18
-      Expires on..............: 2013-04-18
+   Domain Name: quickhairlosstreatment.com
+      Created on..............: 2004-12-01
+      Expires on..............: 2011-12-01
 
    Administrative Contact:
-      ESET, spol. s r.o.
-      Anton Zajac
-      610 W Ash St, Ste 1900 Suite 1900
-      San Diego, CA 92101
-      US
-      Phone: +1.6198765404
-      Email: sysadmin@eset.com
+      Domain Listing Agent
+      110 East Broward Boulevard, Suite 1650
+      Fort Lauderdale, FL 33301
+      USA
+      Phone: 1-877-977-8577
+      Email: quickhairlosstreatment.com@domainlistingagent.com
 
 
    Technical  Contact:
-      ESET, spol. s r.o.
-      Anton Zajac
-      610 W Ash St Suite 1900
-      San Diego, CA 92101
-      US
-      Phone: +1.6198765404
-      Email: sysadmin@eset.com
+      Domain Listing Agent
+      110 East Broward Boulevard, Suite 1650
+      Fort Lauderdale, FL 33301
+      USA
+      Phone: 1-877-977-8577
+      Email: quickhairlosstreatment.com@domainlistingagent.com
 
 
    DNS Servers:
-      e.ns.lanechange.info
-      ns4.lanechange.net
-      ns2.lanechange.net
-      ns3.lanechange.net
-      ns1.lanechange.net
-
-
-
-Visit AboutUs.org for more information about eset.com
-
-&lt;A HREF=&quot;http://www.aboutus.org/eset.com&quot;&gt;AboutUs: eset.com&lt;/A&gt;
-
-Register your domain name at http://www.register.com
+      ns41.hostforweb.net
+      ns42.hostforweb.net
 

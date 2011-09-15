@@ -5,21 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MYWEIGHTLOSSMADESIMPLE.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS33.DOMAINCONTROL.COM
-   Name Server: NS34.DOMAINCONTROL.COM
+   Domain Name: CUSTOMOUTDOORPRODUCTS.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.DISCOUNTASP.NET
+   Name Server: NS2.DISCOUNTASP.NET
+   Name Server: NS3.DISCOUNTASP.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 13-aug-2011
-   Creation Date: 12-aug-2009
-   Expiration Date: 12-aug-2012
+   Updated Date: 05-jan-2011
+   Creation Date: 03-feb-2005
+   Expiration Date: 03-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:04:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:03:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Custom Outdoor Products
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MYWEIGHTLOSSMADESIMPLE.COM
+   Domain Name: CUSTOMOUTDOORPRODUCTS.COM
 
    Domain servers in listed order:
-      NS33.DOMAINCONTROL.COM
-      NS34.DOMAINCONTROL.COM
+      NS1.DISCOUNTASP.NET
+      NS2.DISCOUNTASP.NET
+      NS3.DISCOUNTASP.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MYWEIGHTLOSSMADESIMPLE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=CUSTOMOUTDOORPRODUCTS.COM

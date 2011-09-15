@@ -1,0 +1,17 @@
+
+domain:   fv.fi
+descr:    DNA Oy
+descr:    05925096
+address:  ISP-Tuotanto
+address:  PL 153
+address:  15101
+address:  Lahti
+phone:    044 0440
+status:   Granted
+created:  4.3.2011
+expires:  4.3.2014
+nserver: ns1.fv.fi [OK] 217.78.199.102
+nserver: ns2.kv9.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

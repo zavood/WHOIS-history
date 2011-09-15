@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; labatteriedeguyancourt.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      labatteriedeguyancourt.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CDG303-FRNIC
+admin-c:     FD3205-FRNIC
+tech-c:      JS980-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL14320-FRNIC
+registrar:   INOVAGORA
+anniversary: 27/11
+created:     27/11/2006
+last-update: 03/04/2009
+source:      FRNIC
+
+ns-list:     NSL14320-FRNIC
+nserver:     ns1.inovawork.net
+nserver:     ns2.inovawork.net
+nserver:     ns3.inovawork.net
+source:      FRNIC
+
+registrar:   INOVAGORA
+type:        Isp Option 2
+address:     6 bis, Rue Fournier Sarlov&egrave;ze
+address:     COMPIEGNE
+country:     FR
+phone:       +33 3 44 86 41 30
+fax-no:      +33 3 44 86 45 72
+e-mail:      contact@inovagora.net
+website:     http://www.inovagora.net
+anonymous:   NO
+registered:  01/07/2005
+source:      FRNIC
+
+nic-hdl:     JS980-FRNIC
+type:        ROLE
+contact:     Inovagora
+address:     Inovagora
+address:     16, rue Martel
+address:     60200 Compi&egrave;gne
+country:     FR
+phone:       +33 3 44 36 78 51
+e-mail:      tech@inovagora.net
+admin-c:     BE264-FRNIC
+tech-c:      BE264-FRNIC
+changed:     17/07/2006 tech@inovagora.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CDG303-FRNIC
+type:        ORGANIZATION
+contact:     Commune de Guyancourt
+address:     14, rue Ambroise Croizat
+address:     B.P. 32
+address:     78041 Guyancourt
+country:     FR
+phone:       +33 1 30 48 33 33
+e-mail:      webmaster@ville-guyancourt.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     FD3205-FRNIC
+type:        PERSON
+contact:     Francois Deligne
+address:     Mairie de Guyancourt
+address:     14, rue Ambroise Croizat
+address:     78280 Guyancourt
+country:     FR
+phone:       +33 1 30 48 33 33
+fax-no:      +33 1 30 48 33 49
+e-mail:      webmaster@ville-guyancourt.fr
+changed:     03/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

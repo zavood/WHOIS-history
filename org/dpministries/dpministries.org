@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152813298-LROR
+Domain Name:DPMINISTRIES.ORG
+Created On:25-May-2008 16:21:41 UTC
+Last Updated On:24-Apr-2011 22:14:23 UTC
+Expiration Date:25-May-2012 16:21:41 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:P-30216967
+Registrant Name:Shigenari Odo
+Registrant Organization:Personal
+Registrant Street1:Yafuso 3-24-3 None
+Registrant Street2:
+Registrant Street3:
+Registrant City:Urasoe-City
+Registrant State/Province:Okinawa-ken
+Registrant Postal Code:901-2127
+Registrant Country:JP
+Registrant Phone:+81.988778032
+Registrant Phone Ext.:
+Registrant FAX:+81.662416585
+Registrant FAX Ext.:
+Registrant Email:minaminokaze.okinawa@gmail.com
+Admin ID:P-30216967
+Admin Name:Shigenari Odo
+Admin Organization:Personal
+Admin Street1:Yafuso 3-24-3 None
+Admin Street2:
+Admin Street3:
+Admin City:Urasoe-City
+Admin State/Province:Okinawa-ken
+Admin Postal Code:901-2127
+Admin Country:JP
+Admin Phone:+81.988778032
+Admin Phone Ext.:
+Admin FAX:+81.662416585
+Admin FAX Ext.:
+Admin Email:minaminokaze.okinawa@gmail.com
+Tech ID:P-30216967
+Tech Name:Shigenari Odo
+Tech Organization:Personal
+Tech Street1:Yafuso 3-24-3 None
+Tech Street2:
+Tech Street3:
+Tech City:Urasoe-City
+Tech State/Province:Okinawa-ken
+Tech Postal Code:901-2127
+Tech Country:JP
+Tech Phone:+81.988778032
+Tech Phone Ext.:
+Tech FAX:+81.662416585
+Tech FAX Ext.:
+Tech Email:minaminokaze.okinawa@gmail.com
+Name Server:NS1.VALUE-DOMAIN.COM
+Name Server:NS2.VALUE-DOMAIN.COM
+Name Server:NS3.VALUE-DOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

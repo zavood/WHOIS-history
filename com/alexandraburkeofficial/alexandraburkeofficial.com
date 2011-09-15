@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MYWEIGHTLOSSMADESIMPLE.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS33.DOMAINCONTROL.COM
-   Name Server: NS34.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-aug-2011
-   Creation Date: 12-aug-2009
-   Expiration Date: 12-aug-2012
+   Domain Name: ALEXANDRABURKEOFFICIAL.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS1.NETNAMES.NET
+   Name Server: NS2.NETNAMES.NET
+   Name Server: NS5.NETNAMES.NET
+   Name Server: NS6.NETNAMES.NET
+   Status: ok
+   Updated Date: 21-jul-2011
+   Creation Date: 12-sep-2008
+   Expiration Date: 12-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:04:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:03:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-   Domains by Proxy, Inc.
+  Sony Music Entertainment UK Ltd (SONYMUSI936)
+  9 Derry Street
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MYWEIGHTLOSSMADESIMPLE.COM
+  London, N/A, W8 5HY
+  GB
 
-   Domain servers in listed order:
-      NS33.DOMAINCONTROL.COM
-      NS34.DOMAINCONTROL.COM
+  Domain name: alexandraburkeofficial.com
 
+Technical contact:
+  Administrator, Domain (DA6481495)
+  NetNames Hostmaster
+  3rd Floor Prospero House
+  241 Borough High Street
+  Borough, London, SE1 1GA
+  GB
+  corporate-services@netnames.com
+  +44.2070159370 Fax: +44.2070159375
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MYWEIGHTLOSSMADESIMPLE.COM
+Administrative contact:
+  Ayers, Daniel (DA144518)
+  Sony Music Entertainment UK
+  9 Derry Street
+
+  London, London, W8 5HY
+  GB
+  uk.domains@sonymusic.com
+  +44.2073618000 Fax: +44.2073686513
+
+Record created:           2010-11-18 04:06:24
+Record last updated:      2011-07-28 08:35:15
+Record expires:           2012-09-12 15:37:00
+
+Domain servers in listed order:
+  ns1.netnames.net (NS1NE607511)
+  ns2.netnames.net (NS2NE079931)
+  ns5.netnames.net (NS5NE81411)
+  ns6.netnames.net (NS6NE187561)

@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MYWEIGHTLOSSMADESIMPLE.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS33.DOMAINCONTROL.COM
-   Name Server: NS34.DOMAINCONTROL.COM
+   Domain Name: AUTOMATTIC.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS1.AUTOMATTIC.COM
+   Name Server: NS2.AUTOMATTIC.COM
+   Name Server: NS3.AUTOMATTIC.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 13-aug-2011
-   Creation Date: 12-aug-2009
-   Expiration Date: 12-aug-2012
+   Updated Date: 27-dec-2009
+   Creation Date: 19-jun-2004
+   Expiration Date: 19-jun-2014
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:04:13 UTC &lt;&lt;&lt;
 
@@ -76,15 +77,16 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Automattic, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MYWEIGHTLOSSMADESIMPLE.COM
+   Domain Name: AUTOMATTIC.COM
 
    Domain servers in listed order:
-      NS33.DOMAINCONTROL.COM
-      NS34.DOMAINCONTROL.COM
+      NS1.AUTOMATTIC.COM
+      NS2.AUTOMATTIC.COM
+      NS3.AUTOMATTIC.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MYWEIGHTLOSSMADESIMPLE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=AUTOMATTIC.COM

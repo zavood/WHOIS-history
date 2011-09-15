@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D31254637-LROR
+Domain Name:JEFFERSONCOUNTYLIBRARY.ORG
+Created On:12-Jul-2000 17:20:07 UTC
+Last Updated On:10-Mar-2009 20:58:46 UTC
+Expiration Date:12-Jul-2013 17:20:07 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-LZ7JVY5U7QBI
+Registrant Name:John Manning
+Registrant Organization:Jefferson County Library
+Registrant Street1:5678 State Rd PP
+Registrant Street2:
+Registrant Street3:
+Registrant City:High Ridge
+Registrant State/Province:MO
+Registrant Postal Code:63049
+Registrant Country:US
+Registrant Phone:+1.6366778689
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jmanning@jeffcolib.org
+Admin ID:DOT-PE22N3KJ95IF
+Admin Name:John Manning
+Admin Organization:Jefferson County Library
+Admin Street1:5678 State Rd PP
+Admin Street2:
+Admin Street3:
+Admin City:High Ridge
+Admin State/Province:MO
+Admin Postal Code:63049
+Admin Country:US
+Admin Phone:+1.6366778689
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jmanning@jeffcolib.org
+Tech ID:DOT-N653BF6SYXUF
+Tech Name:John Manning
+Tech Organization:Jefferson County Library
+Tech Street1:5678 State Rd PP
+Tech Street2:
+Tech Street3:
+Tech City:High Ridge
+Tech State/Province:MO
+Tech Postal Code:63049
+Tech Country:US
+Tech Phone:+1.6366778689
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jmanning@jeffcolib.org
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154362805-LROR
+Domain Name:JFOOBAR.ORG
+Created On:30-Sep-2008 07:16:37 UTC
+Last Updated On:06-Oct-2010 13:40:15 UTC
+Expiration Date:30-Sep-2011 07:16:37 UTC
+Sponsoring Registrar:Key-Systems GmbH (R51-LROR)
+Status:OK
+Registrant ID:P-22916
+Registrant Name:Wilco Jansen
+Registrant Organization:Jansen IT Services
+Registrant Street1:Marjolein 8
+Registrant Street2:
+Registrant Street3:
+Registrant City:WIJHE
+Registrant State/Province:-
+Registrant Postal Code:8131GD
+Registrant Country:NL
+Registrant Phone:+31.570524911
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@byte.nl
+Admin ID:P-22916
+Admin Name:Wilco Jansen
+Admin Organization:Jansen IT Services
+Admin Street1:Marjolein 8
+Admin Street2:
+Admin Street3:
+Admin City:WIJHE
+Admin State/Province:-
+Admin Postal Code:8131GD
+Admin Country:NL
+Admin Phone:+31.570524911
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@byte.nl
+Tech ID:P-2399221
+Tech Name:Willem de Groot
+Tech Organization:Byte Internet
+Tech Street1:Paleisstraat 1 -5
+Tech Street2:
+Tech Street3:
+Tech City:AMSTERDAM
+Tech State/Province:-
+Tech Postal Code:1012RB
+Tech Country:NL
+Tech Phone:+31.205216226
+Tech Phone Ext.:
+Tech FAX:+31.206255922
+Tech FAX Ext.:
+Tech Email:hostmaster@byte.nl
+Name Server:NSA.BYTE.NL
+Name Server:NSB.BYTE.NL
+Name Server:NSC.BYTE.NL
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

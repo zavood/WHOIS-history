@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MYWEIGHTLOSSMADESIMPLE.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS33.DOMAINCONTROL.COM
-   Name Server: NS34.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 13-aug-2011
-   Creation Date: 12-aug-2009
-   Expiration Date: 12-aug-2012
+   Domain Name: IYASHIBA.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: DNS0.HETEML.JP
+   Name Server: DNS1.HETEML.JP
+   Status: ok
+   Updated Date: 01-jul-2011
+   Creation Date: 18-aug-2006
+   Expiration Date: 18-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:04:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:04:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+GMO Internet, Inc. whois server 2.0
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
+Domain Handle: None
+Domain Name: iyashiba.com
+Created On: 2006-08-18 05:35:27.0
+Last Updated On: 2011-07-01 14:07:57.0
+Expiration Date: 2013-08-18 05:35:27.0
+Status: ACTIVE
+Registrant Name: makoto nakayashiki
+Registrant Organization: Balance Hearts Co.,Ltd
+Registrant Street1: 2-1-20 Minamimorimachi Kita-ku
+Registrant Street2: Minamimorimachi Enshin Bilg 5F
+Registrant City: Osaka-shi
+Registrant State: Osaka
+Registrant Postal Code: 5300054
+Registrant Country: JP
+Registrant Phone: 81-6-6367-5751
+Registrant Fax: 81-6-6367-5752
+Registrant Email: info@e-shizen.jp
+Admin Name: makoto nakayashiki
+Admin Organization: Balance Hearts Co.,Ltd
+Admin Street1: 2-1-20 Minamimorimachi Kita-ku
+Admin Street2: Minamimorimachi Enshin Bilg 5F
+Admin City: Osaka-shi
+Admin State: Osaka
+Admin Postal Code: 5300054
+Admin Country: JP
+Admin Phone: 81-6-6367-5751
+Admin Fax: 81-6-6367-5752
+Admin Email: info@e-shizen.jp
+Billing Name: makoto nakayashiki
+Billing Organization: Balance Hearts Co.,Ltd
+Billing Street1: 2-1-20 Minamimorimachi Kita-ku
+Billing Street2: Minamimorimachi Enshin Bilg 5F
+Billing City: Osaka-shi
+Billing State: Osaka
+Billing Postal Code: 5300054
+Billing Country: JP
+Billing Phone: 81-6-6367-5751
+Billing Fax: 81-6-6367-5752
+Billing Email: info@e-shizen.jp
+Tech Name: makoto nakayashiki
+Tech Organization: Balance Hearts Co.,Ltd
+Tech Street1: 2-1-20 Minamimorimachi Kita-ku
+Tech Street2: Minamimorimachi Enshin Bilg 5F
+Tech City: Osaka-shi
+Tech State: Osaka
+Tech Postal Code: 5300054
+Tech Country: JP
+Tech Phone: 81-6-6367-5751
+Tech Fax: 81-6-6367-5752
+Tech Email: info@e-shizen.jp
+Name Server: dns1.heteml.jp
+Name Server: dns0.heteml.jp
 
-Registrant:
-   Domains by Proxy, Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MYWEIGHTLOSSMADESIMPLE.COM
-
-   Domain servers in listed order:
-      NS33.DOMAINCONTROL.COM
-      NS34.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MYWEIGHTLOSSMADESIMPLE.COM
