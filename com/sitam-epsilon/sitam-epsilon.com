@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 19-mar-2008
    Expiration Date: 19-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 22:06:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:41:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Monday, 12-Sep-2011 00:07:09 CEST
-# gmt time      : Sunday, 11-Sep-2011 22:07:09 GMT
+# local time    : Thursday, 15-Sep-2011 11:42:21 CEST
+# gmt time      : Thursday, 15-Sep-2011 09:42:21 GMT
 # last modify   : Saturday, 19-Mar-2011 13:45:08 CET
-# request from  : 192.168.248.1:40299
+# request from  : 192.168.248.1:43833
 
 Domain name: sitam-epsilon.com
 

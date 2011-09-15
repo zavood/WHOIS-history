@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 06:43:58 (BRT -03:00)
+
+domain:      opusce.com.br
+owner:       Opus Comercio Exterior Ltda.
+ownerid:     001.631.729/0001-29
+responsible: Adriano Silveira
+country:     BR
+owner-c:     ADS105
+admin-c:     ADS105
+tech-c:      SNS
+billing-c:   ADS105
+nserver:     ns1.tecla.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.tecla.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     19991214 #231983
+expires:     20141214
+changed:     20090807
+status:      published
+
+nic-hdl-br:  ADS105
+person:      Adriano Silveira
+e-mail:      adriano@opusce.com.br
+created:     19991214
+changed:     20090515
+
+nic-hdl-br:  SNS
+person:      Equipe de Suporte IFXWEB
+e-mail:      goldsuporte@web2go.com.br
+created:     19971218
+changed:     20101011
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

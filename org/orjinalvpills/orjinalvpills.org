@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160434419-LROR
+Domain Name:ORJINALVPILLS.ORG
+Created On:18-Oct-2010 07:06:39 UTC
+Last Updated On:18-Dec-2010 03:48:53 UTC
+Expiration Date:18-Oct-2011 07:06:39 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_11348888
+Registrant Name:Ahmet Coskun
+Registrant Organization:Naturel Ecza - Ahmet Coskun
+Registrant Street1:Kadikoy
+Registrant Street2:
+Registrant Street3:
+Registrant City:Istanbul
+Registrant State/Province:N/A
+Registrant Postal Code:34000
+Registrant Country:TR
+Registrant Phone:+90.05419233423
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:naturelecza@hotmail.com
+Admin ID:DI_11348888
+Admin Name:Ahmet Coskun
+Admin Organization:Naturel Ecza - Ahmet Coskun
+Admin Street1:Kadikoy
+Admin Street2:
+Admin Street3:
+Admin City:Istanbul
+Admin State/Province:N/A
+Admin Postal Code:34000
+Admin Country:TR
+Admin Phone:+90.05419233423
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:naturelecza@hotmail.com
+Tech ID:DI_11348888
+Tech Name:Ahmet Coskun
+Tech Organization:Naturel Ecza - Ahmet Coskun
+Tech Street1:Kadikoy
+Tech Street2:
+Tech Street3:
+Tech City:Istanbul
+Tech State/Province:N/A
+Tech Postal Code:34000
+Tech Country:TR
+Tech Phone:+90.05419233423
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:naturelecza@hotmail.com
+Name Server:NS2469.HOSTGATOR.COM
+Name Server:NS2470.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
