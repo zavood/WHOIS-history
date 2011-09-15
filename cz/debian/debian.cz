@@ -1,0 +1,75 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 04:49:28 2011
+
+domain:       debian.cz
+registrant:   SB:CZLUG
+admin-c:      JK1220-RIPE
+nsset:        NSS:YENYA:2
+registrar:    REG-WEB4U
+status:       paid and in zone
+registered:   17.04.1998 02:00:00
+changed:      14.06.2007 18:29:00
+expire:       11.10.2011
+
+contact:      SB:CZLUG
+org:          &Auml;Œesk&Atilde;&copy; sdru&Aring;&frac34;en&Atilde;&shy; u&Aring;&frac34;ivatel&Aring;&macr; OS Linux
+name:         &Auml;Œesk&Atilde;&copy; sdru&Aring;&frac34;en&Atilde;&shy; u&Aring;&frac34;ivatel&Aring;&macr; OS Linux
+address:      Botanick&Atilde;&iexcl; 68a
+address:      Brno
+address:      602 00
+address:      CZ
+e-mail:       vybor@linux.cz
+registrar:    REG-WEB4U
+created:      10.08.2001 22:13:00
+changed:      14.06.2007 16:25:00
+
+contact:      JK1220-RIPE
+name:         Jan Kasprzak
+address:      Zikova
+address:      Brno
+address:      628 00
+address:      CZ
+phone:        +420.549494346
+fax-no:       +420.541212322
+e-mail:       kas@yenya.net
+registrar:    REG-WEB4U
+created:      10.08.2001 22:13:00
+changed:      14.06.2007 16:55:00
+
+nsset:        NSS:YENYA:2
+nserver:      ns2.debian.cz (212.20.112.4)
+nserver:      anxur.fi.muni.cz
+tech-c:       JK1220-RIPE
+tech-c:       SB:YENYA
+registrar:    REG-WEB4U
+created:      01.10.2007 02:00:00
+
+contact:      SB:YENYA
+org:          YENYA
+name:         Jan Kasprzak
+address:      Zikova
+address:      Brno
+address:      628 00
+address:      CZ
+e-mail:       kas@fi.muni.cz
+registrar:    REG-WEB4U
+created:      16.11.2004 16:25:00
+
+

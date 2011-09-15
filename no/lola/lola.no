@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: LOL56D-NORID
+Domain Name................: lola.no
+Domain Holder Handle.......: JB161O-NORID
+Registrar Handle...........: REG5-NORID
+Legal-c Handle.............: JB2290P-NORID
+Tech-c Handle..............: WAR19R-NORID
+Name Server Handle.........: NSDA68H-NORID
+Name Server Handle.........: NSDA81H-NORID
+
+Additional information:
+Created:         2008-02-21
+Last updated:    2011-02-23
+
+NORID Handle...............: JB161O-NORID
+Type.......................: organization
+Name.......................: JONAS BRUSSELMANS
+Id Type....................: organization_number
+Id Number..................: 991235620
+Registrar Handle...........: REG5-NORID
+Post Address...............: Skogveien 6
+Postal Code................: NO-1430
+Postal Area................: &Aring;S
+Country....................: NO
+Mobile Phone Number........: +47.93286885
+Email Address..............: jonas@akryhl.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
