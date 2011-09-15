@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POKEMONFACEOFF.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
+   Domain Name: PLATOSCLOSETGENEVA.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS1.TREEFORT.COM
+   Name Server: NS2.TREEFORT.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-sep-2010
-   Creation Date: 25-sep-2008
-   Expiration Date: 25-sep-2012
+   Updated Date: 26-mar-2011
+   Creation Date: 25-mar-2010
+   Expiration Date: 25-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:09:25 UTC &lt;&lt;&lt;
 
@@ -52,5 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+You can have used the whois service &gt; 20 times today, try again tommorrow.

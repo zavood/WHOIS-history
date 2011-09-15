@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POKEMONFACEOFF.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
+   Domain Name: PLATOSCLOSETMENTOR.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS1.TREEFORT.COM
+   Name Server: NS2.TREEFORT.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-sep-2010
-   Creation Date: 25-sep-2008
-   Expiration Date: 25-sep-2012
+   Updated Date: 11-nov-2010
+   Creation Date: 15-nov-2007
+   Expiration Date: 15-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:09:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:09:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+platosclosetmentor.com
+
+Registrant:
+         Merry Beth Hovey  (swiess@winmarkcorporation.com)
+        Platos Closet - Winmark Corporation
+        4200 Dahlberg Drive Suite 100
+        Minneapolis, MN  55422
+        US
+        7635208500
+
+
+Domain Name: platosclosetmentor.com
+
+
+
+
+Administrative, Technical, Billing Contact:
+         Merry Beth Hovey  (swiess@winmarkcorporation.com)
+        Platos Closet - Winmark Corporation
+        4200 Dahlberg Drive Suite 100
+        Minneapolis, MN  55422
+        US
+        7635208500
+
+
+
+
+
+   Record created on Nov 15 2007.
+   Record expires on Nov 15 2011.
+Domain servers:
+        ns1.treefort.com
+        ns2.treefort.com
+
+
+
+Domain Service Provider:
+   Treefort, Inc.
+   612-285-5625
+   support@treefort.com
+   http://www.treefort.com
+
+

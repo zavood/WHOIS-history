@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POKEMONFACEOFF.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-sep-2010
-   Creation Date: 25-sep-2008
-   Expiration Date: 25-sep-2012
+   Domain Name: PARLONSCHASSE.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: DE394.ISPFR.NET
+   Name Server: DNS.ISPFR.NET
+   Status: ok
+   Updated Date: 01-sep-2011
+   Creation Date: 24-sep-2002
+   Expiration Date: 24-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:09:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:09:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name : PARLONSCHASSE.COM
+Created On : 2002-09-24
+Expiration Date : 2012-09-24
+Status : ACTIVE
+Registrant Name : PHILIPPE ROBIC
+Registrant Street1 : 17 lot le petit rible
+Registrant City : SAINT-NOLFF
+Registrant State/Province  :
+Registrant Postal Code : 56250
+Registrant Country : FR
+Admin Name : PHILIPPE ROBIC
+Admin Street1 : 17 lot le petit rible
+Admin City : SAINT-NOLFF
+Admin State/Province : FR
+Admin Postal Code : 56250
+Admin Country : FR
+Admin Phone : +33.297530491
+Admin Email : pnrobic@free.fr
+Tech Name : NUXIT
+Tech Street1 : 400 avenue Roumanille
+Tech City : Sophia Antipolis Cedex
+Tech State/Province : FR
+Tech Postal Code : 06903
+Tech Country : FR
+Tech Phone : +33.899563600
+Tech Email : domains@nuxit.com
+Billing Name : NUXIT
+Billing Street1 : 400 avenue Roumanille
+Billing City : Sophia Antipolis Cedex
+Billing State/Province : FR
+Billing Postal Code : 06903
+Billing Country : FR
+Billing Phone : +33.899563600
+Billing Email : domains@nuxit.com
+Name Server : DE394.ISPFR.NET
+Name Server : DNS.ISPFR.NET
+Registrar Name : Namebay

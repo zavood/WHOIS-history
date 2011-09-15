@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POKEMONFACEOFF.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-sep-2010
-   Creation Date: 25-sep-2008
-   Expiration Date: 25-sep-2012
+   Domain Name: BIGSKYCOMICS.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS77.DOMAINCONTROL.COM
+   Name Server: NS78.DOMAINCONTROL.COM
+   Status: pendingDelete
+   Updated Date: 10-sep-2011
+   Creation Date: 29-jun-2007
+   Expiration Date: 29-jun-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:09:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:08:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+No match for &quot;bigskycomics.com&quot; in the registrar database.
+

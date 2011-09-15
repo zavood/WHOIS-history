@@ -1,0 +1,34 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: NOR19577D-NORID
+Domain Name................: norwegianrain.no
+Domain Holder Handle.......: NRA227O-NORID
+Registrar Handle...........: REG5-NORID
+Legal-c Handle.............: AH5135P-NORID
+Tech-c Handle..............: WAR19R-NORID
+Name Server Handle.........: NSDA68H-NORID
+Name Server Handle.........: NSDA81H-NORID
+
+Additional information:
+Created:         2008-02-13
+Last updated:    2011-02-15
+
+NORID Handle...............: NRA227O-NORID
+Type.......................: organization
+Name.......................: NORWEGIAN RAIN AS
+Id Type....................: organization_number
+Id Number..................: 992386754
+Registrar Handle...........: REG5-NORID
+Post Address...............: Tollbudgaten 13
+Postal Code................: NO-0152
+Postal Area................: OSLO
+Country....................: NO
+Mobile Phone Number........: +47.99603411
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

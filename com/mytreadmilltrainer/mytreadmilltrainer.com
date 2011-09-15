@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POKEMONFACEOFF.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
+   Domain Name: MYTREADMILLTRAINER.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-sep-2010
-   Creation Date: 25-sep-2008
-   Expiration Date: 25-sep-2012
+   Updated Date: 24-oct-2010
+   Creation Date: 31-oct-2007
+   Expiration Date: 31-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:09:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:08:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,36 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+
+Registrant:
+elkaim, yuri
+   yuri elkaim
+   3B - 377 Parkside Dr.
+   Toronto, Ontario M6R 2Z6
+   CA
+
+   Domain Name: MYTREADMILLTRAINER.COM
+
+   Administrative Contact:
+      elkaim, yuri		yuri_elkaim@yahoo.ca
+      yuri elkaim
+      3B - 377 Parkside Dr.
+      Toronto, Ontario M6R 2Z6
+      CA
+      416-766-3960
+
+
+   Record expires on 31-Oct-2011.
+   Record created on 31-Oct-2007.
+   Database last updated on 14-Sep-2011 21:59:30 EDT.
+
+   Domain servers in listed order:
+
+   NS1.BLUEHOST.COM             74.220.195.31
+   NS2.BLUEHOST.COM             69.89.16.4
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+

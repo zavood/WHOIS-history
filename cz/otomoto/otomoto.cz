@@ -1,0 +1,62 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 04:09:17 2011
+
+domain:       otomoto.cz
+registrant:   ACTIVE24-TRADUSAA
+admin-c:      ACTIVE24-TRADUSADMIN
+nsset:        NSS:TRADUS3
+registrar:    REG-MARKMONITOR
+status:       paid and in zone
+registered:   19.01.2007 19:25:00
+changed:      20.10.2010 14:33:14
+expire:       19.01.2012
+
+contact:      ACTIVE24-TRADUSAA
+org:          Tradus Allegro AG
+name:         Domain Administrator
+address:      Baarerstrasse 2
+address:      Zug
+address:      6300
+address:      CH
+address:      CH
+e-mail:       admin@internationaladmin.com
+registrar:    REG-ACTIVE24
+created:      12.10.2010 15:32:47
+
+contact:      ACTIVE24-TRADUSADMIN
+org:          Tradus Allegro AG
+name:         Domain Administrator
+address:      Baarerstrasse 2
+address:      Zug
+address:      6300
+address:      CH
+address:      CH
+e-mail:       domains@allegro.pl
+registrar:    REG-ACTIVE24
+created:      12.10.2010 20:43:18
+
+nsset:        NSS:TRADUS3
+nserver:      gtmdc2.allegro.pl
+nserver:      gtmdc3.allegro.pl
+tech-c:       ACTIVE24-TRADUSADMIN
+registrar:    REG-ACTIVE24
+created:      19.10.2010 19:46:01
+
+

@@ -5,17 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: POKEMONFACEOFF.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
+   Domain Name: PHILADELPHIASUNROOM.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.OCTANEDNS.COM
+   Name Server: NS2.OCTANEDNS.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-sep-2010
-   Creation Date: 25-sep-2008
-   Expiration Date: 25-sep-2012
+   Updated Date: 13-oct-2010
+   Creation Date: 12-oct-2005
+   Expiration Date: 12-oct-2011
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:09:25 UTC &lt;&lt;&lt;
 
@@ -52,5 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+philadelphiasunroom.com is FOR SALE for US$750.00
+Please visit www.fabdom.com/philadelphiasunroom.com now to purchase
+this domain name.
+
+Domain philadelphiasunroom.com:
+  Protopixel Pty Ltd
+  P O Box 757
+  Fortitude Valley, QLD 4006 AU
+
+Administrative contact:
+Technical contact:
+Billing contact:
+  Protopixel Pty Ltd
+  Domain Hostmaster
+  domain_hostmaster@protopixel.com
+  P O Box 757
+  Fortitude Valley, QLD 4006 AU
+  Phone: +61.73007005
+  Fax: +61.73007001
+
+Record dates:
+  Record created on: 2005-10-12 07:46:46 UTC
+  Record modified on: 2010-10-13 07:16:41 UTC
+  Record expires on: 2011-10-12 UTC
+
+Nameservers:
+  ns2.octanedns.com:
+    208.122.226.214
+  ns1.octanedns.com:
+    208.122.229.18
+
+Note: Automated collection of data from this database is strictly prohibited.
+
