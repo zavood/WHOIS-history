@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MORECURVES.COM
+   Domain Name: CHANNELORAMA.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS69.DOMAINCONTROL.COM
-   Name Server: NS70.DOMAINCONTROL.COM
+   Name Server: VNS1.A2HOSTING.COM
+   Name Server: VNS2.A2HOSTING.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-mar-2011
-   Creation Date: 11-mar-2011
-   Expiration Date: 11-mar-2013
+   Updated Date: 08-mar-2011
+   Creation Date: 23-mar-2010
+   Expiration Date: 23-mar-2013
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:14:37 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Rachna Sood
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MORECURVES.COM
+   Domain Name: CHANNELORAMA.COM
 
    Domain servers in listed order:
-      NS69.DOMAINCONTROL.COM
-      NS70.DOMAINCONTROL.COM
+      VNS1.A2HOSTING.COM
+      VNS2.A2HOSTING.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MORECURVES.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=CHANNELORAMA.COM

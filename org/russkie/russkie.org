@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105806368-LROR
+Domain Name:RUSSKIE.ORG
+Created On:28-Feb-2005 18:02:26 UTC
+Last Updated On:25-Apr-2011 21:30:09 UTC
+Expiration Date:28-Feb-2012 18:02:26 UTC
+Sponsoring Registrar:DomainPeople, Inc. (R30-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DP-2157111
+Registrant Name:Ekaterina Loginova
+Registrant Organization:Ekaterina G Loginova
+Registrant Street1:13, Krzhizhanovskogo st.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Moscow
+Registrant State/Province:Moscow
+Registrant Postal Code:117218
+Registrant Country:RU
+Registrant Phone:+7.951291967
+Registrant Phone Ext.:
+Registrant FAX:+7.951292125
+Registrant FAX Ext.:
+Registrant Email:nic@inforos.ru
+Admin ID:DP-2157112
+Admin Name:Denis V Turin Turin
+Admin Organization:IRZ, ANO
+Admin Street1:13, Krzhizhanovskogo st., Moscow
+Admin Street2:
+Admin Street3:
+Admin City:Moscow
+Admin State/Province:Moscow
+Admin Postal Code:117218
+Admin Country:RU
+Admin Phone:+7.4957188411
+Admin Phone Ext.:
+Admin FAX:+7.4957188411
+Admin FAX Ext.:
+Admin Email:nic@inforos.ru
+Tech ID:DP-2157112
+Tech Name:Denis V Turin Turin
+Tech Organization:IRZ, ANO
+Tech Street1:13, Krzhizhanovskogo st., Moscow
+Tech Street2:
+Tech Street3:
+Tech City:Moscow
+Tech State/Province:Moscow
+Tech Postal Code:117218
+Tech Country:RU
+Tech Phone:+7.4957188411
+Tech Phone Ext.:
+Tech FAX:+7.4957188411
+Tech FAX Ext.:
+Tech Email:nic@inforos.ru
+Name Server:NS1.INFOROS.RU
+Name Server:NS2.INFOROS.RU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

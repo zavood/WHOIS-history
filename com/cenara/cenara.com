@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MORECURVES.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS69.DOMAINCONTROL.COM
-   Name Server: NS70.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: CENARA.COM
+   Registrar: DOMAININFO AB D/B/A DOMAININFO.COM
+   Whois Server: whois.domaininfo.com
+   Referral URL: http://www.domaininfo.com
+   Name Server: NS.BLIXTVIK.NET
+   Name Server: NS2.BLIXTVIK.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 11-mar-2011
-   Creation Date: 11-mar-2011
-   Expiration Date: 11-mar-2013
+   Updated Date: 19-jul-2011
+   Creation Date: 19-feb-2000
+   Expiration Date: 19-feb-2016
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:14:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:14:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,47 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+----------------------------------------------------------------------------
+You agree that you will not reproduce, sell, transfer, or modify any of the
+data presented in response to your search request, or use of any such data
+for commercial purpose, without the prior express written permission of
+Domaininfo AB - domaininfo.com
+Register your name in 200+ top level domains at http://www.domaininfo.com domaininfo.com
+----------------------------------------------------------------------------
+Registrar: domaininfo.com
+Domain Name: cenara.com
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+[Owner of domain name]
+AllTele Allm&Atilde;&curren;nna Svenska Telefonaktiebolaget
+Box 42017
+Stockholm, 12612
+SE
 
+[Administrative contact]
+AllTele Allm&Atilde;&curren;nna Svenska Telefonaktiebolaget
+Box 42017
+Stockholm, 12612
+SE
 
-Registrant:
-   Domains by Proxy, Inc.
+Email: noc@alltele.se
+Phone: +46 91 0798000
+Fax: null
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: MORECURVES.COM
+[Technical contact]
+AllTele Allm&Atilde;&curren;nna Svenska Telefonaktiebolaget
+Box 42017
+Stockholm, 12612
+SE
 
-   Domain servers in listed order:
-      NS69.DOMAINCONTROL.COM
-      NS70.DOMAINCONTROL.COM
+Email: noc@alltele.se
+Phone: +46 91 0798000
+Fax: null
 
+Record created: 19 FEB 2000
+Record last changed: 12 MAY 2011
+Record expires: 19 FEB 2016
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MORECURVES.COM
+Name servers according to DNS:
+ns2.blixtvik.net.
+ns.blixtvik.net.
+

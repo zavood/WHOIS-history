@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; darjeeling.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      darjeeling.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    DL552-FRNIC
+admin-c:     JR2011-FRNIC
+tech-c:      DT1958-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2951-FRNIC
+registrar:   NAMESHIELD
+anniversary: 04/08
+created:     03/07/2001
+last-update: 15/06/2009
+source:      FRNIC
+
+ns-list:     NSL2951-FRNIC
+nserver:     observatoire.observatoiredesmarques.fr [62.93.195.146]
+nserver:     ns2.observatoiredesmarques.fr [80.74.69.8]
+source:      FRNIC
+
+registrar:   NAMESHIELD
+type:        Isp Option 1
+address:     16 Rue de St P&eacute;tersbourg
+address:     PARIS
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      jpbechu@nameshield.net
+website:     http://www.nameshield.net
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     DL552-FRNIC
+type:        ORGANIZATION
+contact:     DELTA LINGERIE
+address:     8-10, rue de Provigny
+address:     94230 Cachan
+country:     FR
+phone:       +33 1 41 24 10 03
+fax-no:      +33 1 41 24 10 03
+e-mail:      juridique@chantelle.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JR2011-FRNIC
+type:        PERSON
+contact:     Juridique Responsable
+address:     CHANTELLE SA
+address:     8-10, rue de Provigny B.P. 137
+address:     94234 Cachan
+country:     FR
+phone:       +33 1 41 24 10 03
+fax-no:      +33 1 41 24 16 70
+e-mail:      juridique@chantelle.fr
+changed:     15/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DT1958-FRNIC
+type:        PERSON
+contact:     Department Technical
+address:     NAMESHIELD
+address:     27, rue des arenes
+address:     49100 Angers
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      technical@nameshield.net
+changed:     12/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 27-jan-2009
    Expiration Date: 27-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 04:58:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:13:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -63,8 +63,8 @@ cheap, easy website creation.
 ******************************************************************
 
 Domain Name: 		ISLANDWEBSERVICES.COM
-Date Created:		Tue 27-January-2009
-Date Expires:		Sun 27-January-2013
+Created Date:		27-Jan-2009
+Expiry Date:		27-Jan-2013
 Nameserver:		ns.123-reg.co.uk
 Nameserver:		ns2.123-reg.co.uk
 Registrant Name:	Liam Thom
@@ -85,7 +85,7 @@ Technical Address:	Uxbridge
 Technical Address:	Middlesex
 Technical Address:	UB11 1FF
 Technical Address:	United Kingdom
-Technical E-Mail:	services@123-reg.co.uk
+Technical Email:	services@123-reg.co.uk
 Technical Tel:		+44.8712309525
 Technical Fax:		+44.8701650437
 Administrative Name:	Liam Thom
@@ -97,7 +97,7 @@ Administrative Address:	Ventnor
 Administrative Address:	Isle of Wight
 Administrative Address:	PO38 3NN
 Administrative Address:	United Kingdom
-Administrative E-Mail:	liam@islandwebservices.co.uk
+Administrative Email:	liam@islandwebservices.co.uk
 Administrative Tel:	+44.1983721264
 Administrative Fax:
 

@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158878673-LROR
+Domain Name:CHRISTIANCOMOGENEALOGY.ORG
+Created On:14-Apr-2010 21:33:27 UTC
+Last Updated On:15-Apr-2011 01:22:22 UTC
+Expiration Date:14-Apr-2012 21:33:27 UTC
+Sponsoring Registrar:FastDomain Inc. (R1455-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:FAST-14307576
+Registrant Name:Patricia Hobbs
+Registrant Street1:1220 Holder Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Clever
+Registrant State/Province:Missouri
+Registrant Postal Code:65631
+Registrant Country:US
+Registrant Phone:+1.4172341245
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:pecunia@cleverwelding.com
+Admin ID:FAST-14307576
+Admin Name:Patricia Hobbs
+Admin Street1:1220 Holder Rd.
+Admin Street2:
+Admin Street3:
+Admin City:Clever
+Admin State/Province:Missouri
+Admin Postal Code:65631
+Admin Country:US
+Admin Phone:+1.4172341245
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:pecunia@cleverwelding.com
+Tech ID:FAST-12785242
+Tech Name:Bluehost Inc
+Tech Organization:Bluehost.com
+Tech Street1:1958 South 950 East
+Tech Street2:
+Tech Street3:
+Tech City:Provo
+Tech State/Province:Utah
+Tech Postal Code:84606
+Tech Country:US
+Tech Phone:+1.8017659400
+Tech Phone Ext.:
+Tech FAX:+1.8017651992
+Tech FAX Ext.:
+Tech Email:whois@bluehost.com
+Name Server:NS1.BLUEHOST.COM
+Name Server:NS2.BLUEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,92 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; akamai.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      akamai.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    A18491-FRNIC
+admin-c:     LC2094-FRNIC
+tech-c:      AH2003-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL35148-FRNIC
+registrar:   Tucows.com CO
+anniversary: 20/10
+created:     16/08/2000
+last-update: 25/01/2010
+source:      FRNIC
+
+ns-list:     NSL35148-FRNIC
+nserver:     prod-unix-extdns01.akamai.com
+nserver:     prod-unix-extdns02.akamai.com
+nserver:     asia2.akam.net
+source:      FRNIC
+
+registrar:   Tucows.com CO
+type:        Isp Option 1
+address:     96 Mowat Avenue
+address:     M6K 3M1 TORONTO
+country:     CA
+phone:       +1 416 535 0123
+fax-no:      +1 416 531 55 84
+e-mail:      servicebureau@tucows.com
+website:     http://www.tucows.com
+anonymous:   NO
+registered:  24/01/2005
+source:      FRNIC
+
+nic-hdl:     A18491-FRNIC
+type:        ORGANIZATION
+contact:     AKAMAI
+address:     112, avenue Kleber
+address:     75116 Paris
+country:     FR
+phone:       +1 6174443000
+e-mail:      hostmaster-billing@akamai.com
+changed:     23/02/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     LC2094-FRNIC
+type:        PERSON
+contact:     Larry Cashdollar
+address:     Akamai
+address:     112, avenue Kleber
+address:     75116 Paris
+country:     FR
+phone:       +1.6174443000
+e-mail:      hostmaster-billing@akamai.com
+changed:     07/11/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AH2003-FRNIC
+type:        PERSON
+contact:     Akamai Hostmaster
+address:     Akamai Technologies, Inc.
+address:     8, Cambridge Center
+address:     02142 Cambridge Ma
+country:     US
+phone:       +1.6174443000
+e-mail:      hostmaster-billing@akamai.com
+changed:     19/10/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
