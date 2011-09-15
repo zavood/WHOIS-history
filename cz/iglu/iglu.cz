@@ -1,0 +1,57 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 03:45:43 2011
+
+domain:       iglu.cz
+registrant:   SB:SUBJ_PETR_CHROMEC
+admin-c:      PETR_CHROMEC
+nsset:        NSS:SUBJ_PETR_CHROMEC:1
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   06.06.2002 18:51:00
+changed:      06.06.2007 15:25:00
+expire:       05.06.2012
+
+contact:      SB:SUBJ_PETR_CHROMEC
+name:         Petr Chromec
+address:      Havl&Atilde;&shy;&Auml;çkova 168
+address:      Hostivice
+address:      25301
+address:      CZ
+e-mail:       petr.chromec@seznam.cz
+registrar:    REG-INTERNET-CZ
+created:      06.06.2002 18:26:00
+changed:      09.09.2003 17:06:00
+
+contact:      PETR_CHROMEC
+name:         Petr Chromec
+address:      CZ
+e-mail:       petr.chromec@seznam.cz
+registrar:    REG-CZNIC
+created:      06.06.2002 18:11:00
+
+nsset:        NSS:SUBJ_PETR_CHROMEC:1
+nserver:      ns1.iglu.cz (81.0.254.56)
+nserver:      ns4.iglu.cz (81.0.213.97)
+tech-c:       SB:SUBJ_PETR_CHROMEC
+tech-c:       PETR_CHROMEC
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+
+

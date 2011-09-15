@@ -1,0 +1,25 @@
+[Domain]
+Domain: ocean.lv
+Status: active
+Changed: 2003-12-10T13:33:04+02:00
+
+[Holder]
+Type: Legal person
+Name: SIA &quot;Ocean Group&quot;
+Email: roberts@ocean.lv
+Phone: +371 29266060
+Address: Bruklenu iela 40, Riga, LV-1002, Latvia
+RegNr: 40003378913
+
+[Tech]
+Type: Natural person
+Email: roberts@ocean.lv
+Phone: +371 29266060
+
+[Nservers]
+Nserver: ws.ocean.lv
+Nserver: ns.ocean.lv
+Nserver: ns2.ocean.lv
+
+[Whois]
+Updated: 2011-09-14T23:12:25.553175+00:00

@@ -1,0 +1,60 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 03:45:16 2011
+
+domain:       netuje.cz
+registrant:   SB:INETCZ-PDR0OC-59478
+admin-c:      INETCZ-PDR0OC-59478
+nsset:        NSS:INETCZ-PDR0OC-59478:1
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   19.03.2006 04:45:00
+changed:      19.03.2007 16:25:00
+expire:       19.03.2013
+
+contact:      SB:INETCZ-PDR0OC-59478
+name:         Pavel &Aring;&nbsp;i&Aring;&iexcl;ka
+address:      &Auml;Œeskobratrsk&Atilde;&iexcl; 11
+address:      Praha 3
+address:      13000
+address:      CZ
+e-mail:       punjab@punjabcz.net
+registrar:    REG-INTERNET-CZ
+created:      11.12.2003 10:05:00
+
+contact:      INETCZ-PDR0OC-59478
+name:         Pavel &Aring;&nbsp;i&Aring;&iexcl;ka
+address:      &Auml;Œeskobratrsk&Atilde;&iexcl; 11
+address:      Praha 3
+address:      13000
+address:      CZ
+phone:        +420.608063516
+e-mail:       punjab@punjabcz.net
+registrar:    REG-INTERNET-CZ
+created:      11.12.2003 10:05:00
+
+nsset:        NSS:INETCZ-PDR0OC-59478:1
+nserver:      ns1.profitux.cz (82.208.47.132)
+nserver:      ns2.profitux.cz (109.123.219.40)
+tech-c:       INETCZ-PDR0OC-59478
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+changed:      27.01.2011 18:20:17
+
+
