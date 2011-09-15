@@ -1,0 +1,99 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; telestar.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      telestar.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    TS1470-FRNIC
+admin-c:     CW2518-FRNIC
+tech-c:      AL6293-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL27531-FRNIC
+registrar:   ALCYONIS
+anniversary: 24/07
+created:     24/07/2000
+last-update: 15/04/2009
+source:      FRNIC
+
+ns-list:     NSL27531-FRNIC
+nserver:     ns0.alcyonis.fr [217.28.64.11]
+nserver:     ns2.alcyonis.fr [217.28.64.4]
+nserver:     ns4.alcyonis.fr [62.39.93.70]
+source:      FRNIC
+
+registrar:   ALCYONIS
+type:        Isp Option 2
+address:     Le Th&eacute;l&egrave;me
+address:     1503 Route des Dolines
+address:     SOPHIA ANTIPOLIS
+country:     FR
+phone:       +33 4 97 24 40 00
+fax-no:      +33 4 92 38 06 30
+e-mail:      info@alcyonis.fr
+website:     http://www.alcyonis.fr/
+anonymous:   NO
+registered:  09/06/1998
+source:      FRNIC
+
+nic-hdl:     TS1470-FRNIC
+type:        ORGANIZATION
+contact:     TELE STAR
+address:     19-21, rue Emile Duclaux
+address:     92150 Suresnes
+country:     FR
+phone:       +33 4 89 61 41 20
+e-mail:      nic@alcyonis.fr
+changed:     12/07/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CW2518-FRNIC
+type:        PERSON
+contact:     Christophe Weber
+address:     TELE STAR
+address:     19-21, rue Emile Duclaux
+address:     92150 Suresnes
+country:     FR
+phone:       +33 1 41 33 51 30
+fax-no:      +33 1 41 33 57 32
+e-mail:      christophe.weber@emapfrance.com
+notify:      christophe.weber@emapfrance.com
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AL6293-FRNIC
+type:        ROLE
+contact:     Alcyonis Contact
+address:     c/o CICA
+address:     2229, route des Cretes
+address:     06560 Sophia Antipolis
+country:     FR
+phone:       +33 4 92 94 23 80
+fax-no:      +33 4 92 94 23 81
+e-mail:      nic@alcyonis.fr
+admin-c:     JC1200-FRNIC
+tech-c:      JC1200-FRNIC
+notify:      nic@alcyonis.fr
+changed:     28/06/2001 nic@alcyonis.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

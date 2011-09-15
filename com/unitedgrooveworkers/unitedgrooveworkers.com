@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PAMPEREDPETMOBILE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.URBANVERVE.COM
-   Name Server: NS2.URBANVERVE.COM
-   Status: ok
-   Updated Date: 21-dec-2010
-   Creation Date: 10-jan-2008
-   Expiration Date: 10-jan-2012
+   Domain Name: UNITEDGROOVEWORKERS.COM
+   Registrar: ADVANCED INTERNET TECHNOLOGIES, INC.
+   Whois Server: whois.aitdomains.com
+   Referral URL: http://www.aitdomains.com
+   Name Server: NS43.DOMAINCONTROL.COM
+   Name Server: NS44.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 05-dec-2010
+   Creation Date: 04-dec-2006
+   Expiration Date: 04-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:31:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:32:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,40 +54,63 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... pamperedpetmobile.com
-  Creation Date........ 2008-01-11
-  Registration Date.... 2008-01-11
-  Expiry Date.......... 2012-01-11
-  Organisation Name.... harold davenport
-  Organisation Address. 18255 Colgate St.
-  Organisation Address.
-  Organisation Address. Dearborn Heights
-  Organisation Address. 48125
-  Organisation Address. MI
-  Organisation Address. UNITED STATES
+The Data in THE NAMEIT CORPORATION WHOIS database is provided by
+THE NAMEIT CORPORATION for information purposes, and to assist persons
+in obtaining information about or related to a domain name registration record.
+THE NAMEIT CORPORATION does not guarantee its accuracy.  By submitting a
+WHOIS query, you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial advertising
+or solicitations via e-mail (spam); or  (2) enable high volume, automated,
+electronic processes that apply to THE NAMEIT
+CORPORATION (or its systems).
 
-Admin Name........... harold davenport
-  Admin Address........ 18255 Colgate St.
-  Admin Address........
-  Admin Address........ Dearborn Heights
-  Admin Address........ 48125
-  Admin Address........ MI
-  Admin Address........ UNITED STATES
-  Admin Email.......... akita7334@yahoo.com
-  Admin Phone.......... +1.8665859471
-  Admin Fax............
+THE NAMEIT CORPORATION reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-Tech Name............ YahooDomains TechContact
-  Tech Address......... 701 First Ave.
-  Tech Address.........
-  Tech Address......... Sunnyvale
-  Tech Address......... 94089
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain.tech@YAHOO-INC.COM
-  Tech Phone........... +1.4089162124
-  Tech Fax.............
-  Name Server.......... ns1.urbanverve.com
-  Name Server.......... ns2.urbanverve.com
+Domain Name:	unitedgrooveworkers.com
+Registrar:	THE NAME IT CORPORATION DBA NAMESERVICES.NET
 
+
+Registrant Contact
+
+Name:		Michael J  Morgan
+Address:	296 Chesterfield
+		Rochester, NY  14612
+		US
+
+Email Address:	mmorgan@dawnbreaker.com
+Phone Number:	(515)329-8181
+
+
+Administrative Contact
+
+Name:		Michael J  Morgan
+Address:	296 Chesterfield
+		Rochester, NY  14612
+		US
+
+Email Address:	mmorgan@dawnbreaker.com
+Phone Number:	(515)329-8181
+
+
+Technical Contact
+
+Name:		Michael J  Morgan
+Address:	296 Chesterfield
+		Rochester, NY  14612
+		US
+
+Email Address:	mmorgan@dawnbreaker.com
+Phone Number:	(515)329-8181
+
+
+Record Created on........ 2006-12-04 15:05:33.065
+Record last updated on... 2010-12-05 03:31:01.437
+Expire on................ 2011-12-04 03:31:00.585
+
+Domain Nameservers in listed order:
+
+	ns43.domaincontrol.com
+ 	ns44.domaincontrol.com
 

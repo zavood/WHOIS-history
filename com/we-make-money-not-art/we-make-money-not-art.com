@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PAMPEREDPETMOBILE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.URBANVERVE.COM
-   Name Server: NS2.URBANVERVE.COM
-   Status: ok
-   Updated Date: 21-dec-2010
-   Creation Date: 10-jan-2008
-   Expiration Date: 10-jan-2012
+   Domain Name: WE-MAKE-MONEY-NOT-ART.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS43.DOMAINCONTROL.COM
+   Name Server: NS44.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 31-dec-2010
+   Creation Date: 21-jan-2004
+   Expiration Date: 21-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:31:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:32:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-Domain Name.......... pamperedpetmobile.com
-  Creation Date........ 2008-01-11
-  Registration Date.... 2008-01-11
-  Expiry Date.......... 2012-01-11
-  Organisation Name.... harold davenport
-  Organisation Address. 18255 Colgate St.
-  Organisation Address.
-  Organisation Address. Dearborn Heights
-  Organisation Address. 48125
-  Organisation Address. MI
-  Organisation Address. UNITED STATES
-
-Admin Name........... harold davenport
-  Admin Address........ 18255 Colgate St.
-  Admin Address........
-  Admin Address........ Dearborn Heights
-  Admin Address........ 48125
-  Admin Address........ MI
-  Admin Address........ UNITED STATES
-  Admin Email.......... akita7334@yahoo.com
-  Admin Phone.......... +1.8665859471
-  Admin Fax............
-
-Tech Name............ YahooDomains TechContact
-  Tech Address......... 701 First Ave.
-  Tech Address.........
-  Tech Address......... Sunnyvale
-  Tech Address......... 94089
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain.tech@YAHOO-INC.COM
-  Tech Phone........... +1.4089162124
-  Tech Fax.............
-  Name Server.......... ns1.urbanverve.com
-  Name Server.......... ns2.urbanverve.com
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
 
+Registrant:
+   we make money not art
+
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: WE-MAKE-MONEY-NOT-ART.COM
+
+   Domain servers in listed order:
+      NS43.DOMAINCONTROL.COM
+      NS44.DOMAINCONTROL.COM
+
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=WE-MAKE-MONEY-NOT-ART.COM

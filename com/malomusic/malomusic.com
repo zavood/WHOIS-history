@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PAMPEREDPETMOBILE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.URBANVERVE.COM
-   Name Server: NS2.URBANVERVE.COM
-   Status: ok
-   Updated Date: 21-dec-2010
-   Creation Date: 10-jan-2008
-   Expiration Date: 10-jan-2012
+   Domain Name: MALOMUSIC.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: NS3.WSPISP.NET
+   Name Server: NS4.WSPISP.NET
+   Status: clientTransferProhibited
+   Updated Date: 28-jul-2011
+   Creation Date: 17-dec-1998
+   Expiration Date: 17-dec-2014
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:31:33 UTC &lt;&lt;&lt;
 
@@ -52,40 +52,71 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... pamperedpetmobile.com
-  Creation Date........ 2008-01-11
-  Registration Date.... 2008-01-11
-  Expiry Date.......... 2012-01-11
-  Organisation Name.... harold davenport
-  Organisation Address. 18255 Colgate St.
-  Organisation Address.
-  Organisation Address. Dearborn Heights
-  Organisation Address. 48125
-  Organisation Address. MI
-  Organisation Address. UNITED STATES
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
-Admin Name........... harold davenport
-  Admin Address........ 18255 Colgate St.
-  Admin Address........
-  Admin Address........ Dearborn Heights
-  Admin Address........ 48125
-  Admin Address........ MI
-  Admin Address........ UNITED STATES
-  Admin Email.......... akita7334@yahoo.com
-  Admin Phone.......... +1.8665859471
-  Admin Fax............
 
-Tech Name............ YahooDomains TechContact
-  Tech Address......... 701 First Ave.
-  Tech Address.........
-  Tech Address......... Sunnyvale
-  Tech Address......... 94089
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain.tech@YAHOO-INC.COM
-  Tech Phone........... +1.4089162124
-  Tech Fax.............
-  Name Server.......... ns1.urbanverve.com
-  Name Server.......... ns2.urbanverve.com
+   Registrant:
+      Malo Music
+      Arcelio Garcia
+      2548 N. Idyllwild Ave
+      Rialto, CA 92377
+      US
+      Phone: +1.9095349603
+      Email: malomusicinc@aol.com
 
+
+
+   Registrar Name....: Register.com
+   Registrar Whois...: whois.register.com
+   Registrar Homepage: www.register.com
+
+   Domain Name: malomusic.com
+      Created on..............: 1998-12-17
+      Expires on..............: 2014-12-17
+
+   Administrative Contact:
+      Malo Music
+      Richard Valenzuela Sr
+      2548 N. Idyllwild Ave
+      Rialto, CA 92377
+      US
+      Phone: +1.9095349603
+      Email: malomusicinc@aol.com
+
+
+   Technical  Contact:
+      Registercom
+      Domain Registrar
+      575 8th Avenue
+      New York, NY 10018
+      US
+      Phone: 1-902-7492701
+      Email: domainregistrar@register.com
+
+
+   DNS Servers:
+      ns4.wspisp.net
+      ns3.wspisp.net
+
+
+
+Visit AboutUs.org for more information about malomusic.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/malomusic.com&quot;&gt;AboutUs: malomusic.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
 

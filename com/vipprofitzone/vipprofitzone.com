@@ -5,22 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LIVINGOPRAH.COM
-   Registrar: MYDOMAIN, INC.
-   Whois Server: whois.namesdirect.com
-   Referral URL: http://www.namesdirect.com
-   Name Server: NS1.MYDOMAIN.COM
-   Name Server: NS2.MYDOMAIN.COM
-   Name Server: NS3.MYDOMAIN.COM
-   Name Server: NS4.MYDOMAIN.COM
+   Domain Name: VIPPROFITZONE.COM
+   Registrar: 000DOMAINS LLC
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.THEPLANET.COM
+   Name Server: NS2.THEPLANET.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 27-oct-2009
-   Creation Date: 14-dec-2007
-   Expiration Date: 14-dec-2011
+   Updated Date: 14-sep-2011
+   Creation Date: 26-aug-2004
+   Expiration Date: 26-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:32:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:32:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,30 +73,46 @@ time. By submitting an inquiry, you agree to these terms of usage
 and limitations of warranty.  Please limit your queries to 10 per
 minute and one connection.
 
+   Domain Services Provided By:
+      000domains, support@000domains.com
+      http://www.000domains.com
+
 Registrant:
-   robyn okrant
-   4859 n rockwell #3
-   chicago, il  60625
+   c/o VIPPROFITZONE.COM
+   P.O. Box 821650
+   Vancouver, WA  98682
    US
 
-   Registrar: NAMESDIRECT
-   Domain Name: LIVINGOPRAH.COM
-      Created on: 14-DEC-07
-      Expires on: 14-DEC-11
-      Last Updated on: 27-OCT-09
+   Registrar: 000DOM
+   Domain Name: VIPPROFITZONE.COM
+      Created on: 26-AUG-04
+      Expires on: 26-AUG-12
+      Last Updated on: 06-AUG-11
 
-   Administrative, Technical Contact:
-      okrant, robyn  thatrobyn@hotmail.com
-      4859 n rockwell #3
-      chicago, il  60625
+   Administrative Contact:
+      uGeGne@PRIVACYPOST.COM
+      c/o VIPPROFITZONE.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
       US
-      7735069773
+      +1.360-449-5933
+
+   Technical Contact:
+      sxhxuW@PRIVACYPOST.COM
+      c/o VIPPROFITZONE.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
+      US
+      +1.360-449-5933
 
 
    Domain servers in listed order:
-      NS1.MYDOMAIN.COM
-      NS2.MYDOMAIN.COM
-      NS3.MYDOMAIN.COM
-      NS4.MYDOMAIN.COM
+      NS1.THEPLANET.COM
+      NS2.THEPLANET.COM
+
+This listing is a Whois Privacy Customer. Mail correspondence to this
+address must be sent via USPS Express Mail(TM) or USPS Certified
+Mail(R); all other mail will not be processed. Be sure to include
+the domain name in the address.
 
 End of Whois Information

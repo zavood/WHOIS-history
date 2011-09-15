@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PAMPEREDPETMOBILE.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: NS1.URBANVERVE.COM
-   Name Server: NS2.URBANVERVE.COM
-   Status: ok
-   Updated Date: 21-dec-2010
-   Creation Date: 10-jan-2008
-   Expiration Date: 10-jan-2012
+   Domain Name: MGREENTAX.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.NAMERESOLVE.COM
+   Name Server: NS2.NAMERESOLVE.COM
+   Name Server: NS3.NAMERESOLVE.COM
+   Name Server: NS4.NAMERESOLVE.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 27-apr-2011
+   Creation Date: 05-may-2008
+   Expiration Date: 05-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:31:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:31:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,40 +56,52 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... pamperedpetmobile.com
-  Creation Date........ 2008-01-11
-  Registration Date.... 2008-01-11
-  Expiry Date.......... 2012-01-11
-  Organisation Name.... harold davenport
-  Organisation Address. 18255 Colgate St.
-  Organisation Address.
-  Organisation Address. Dearborn Heights
-  Organisation Address. 48125
-  Organisation Address. MI
-  Organisation Address. UNITED STATES
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-Admin Name........... harold davenport
-  Admin Address........ 18255 Colgate St.
-  Admin Address........
-  Admin Address........ Dearborn Heights
-  Admin Address........ 48125
-  Admin Address........ MI
-  Admin Address........ UNITED STATES
-  Admin Email.......... akita7334@yahoo.com
-  Admin Phone.......... +1.8665859471
-  Admin Fax............
+Registrant:
+   MICHAEL GREEN TAX &amp; FINANCIAL
+   25115 W. AVENUE STANFORD
+   SUITE 110
+   SANTA CLARITA, CA  91355
+   US
 
-Tech Name............ YahooDomains TechContact
-  Tech Address......... 701 First Ave.
-  Tech Address.........
-  Tech Address......... Sunnyvale
-  Tech Address......... 94089
-  Tech Address......... CA
-  Tech Address......... UNITED STATES
-  Tech Email........... domain.tech@YAHOO-INC.COM
-  Tech Phone........... +1.4089162124
-  Tech Fax.............
-  Name Server.......... ns1.urbanverve.com
-  Name Server.......... ns2.urbanverve.com
+   Registrar: DOTSTER
+   Domain Name: MGREENTAX.COM
+      Created on: 05-MAY-08
+      Expires on: 05-MAY-13
+      Last Updated on: 27-APR-11
+
+   Administrative, Technical Contact:
+      GREEN, MICHAEL  debbie@mgreentax.com
+      MICHAEL GREEN TAX &amp; FINANCIAL
+      25115 W. AVENUE STANFORD
+      SUITE 110
+      SANTA CLARITA, CA  91355
+      US
+      661-257-4111
 
 
+   Domain servers in listed order:
+      NS1.NAMERESOLVE.COM
+      NS2.NAMERESOLVE.COM
+      NS3.NAMERESOLVE.COM
+      NS4.NAMERESOLVE.COM
+
+End of Whois Information
