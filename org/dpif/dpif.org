@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104680637-LROR
+Domain Name:DPIF.ORG
+Created On:27-Jul-2004 07:04:04 UTC
+Last Updated On:12-May-2011 13:10:53 UTC
+Expiration Date:27-Jul-2012 07:04:04 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:4D3933566474FE6E
+Registrant Name:Steen Christensen
+Registrant Organization:Pianokompagniet
+Registrant Street1:Skt. Pauls Gade 25
+Registrant Street2:
+Registrant Street3:
+Registrant City:AArhus C
+Registrant State/Province:
+Registrant Postal Code:8000
+Registrant Country:DK
+Registrant Phone:+45.70238088
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sc@pianokompagniet.dk
+Admin ID:4D3933566474FE6E
+Admin Name:Steen Christensen
+Admin Organization:Pianokompagniet
+Admin Street1:Skt. Pauls Gade 25
+Admin Street2:
+Admin Street3:
+Admin City:AArhus C
+Admin State/Province:
+Admin Postal Code:8000
+Admin Country:DK
+Admin Phone:+45.70238088
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sc@pianokompagniet.dk
+Tech ID:7bb648849622a9c2
+Tech Name:Surftown Domains
+Tech Organization:SurftownA/S
+Tech Street1:Lauptrupsgade9,1
+Tech Street2:Forabuseandsecurityissuesconta
+Tech Street3:ctabuse@surf-town.net
+Tech City:CopenhagenOE
+Tech State/Province:
+Tech Postal Code:2100
+Tech Country:DK
+Tech Phone:+45.70702474
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dns@surf-town.net
+Name Server:NS1.SURF-TOWN.NET
+Name Server:NS2.SURF-TOWN.NET
+Name Server:NS3.SURF-TOWN.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
