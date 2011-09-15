@@ -1,0 +1,51 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% This is ARNES whois database
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Rights restricted by copyright.
+% See http://www.arnes.si/domene/whois-legal.html
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The WHOIS service offered by Arnes, .si Registry, is
+% provided for information purposes only. It allows persons
+% to check whether a specific domain name is still available
+% or not and to obtain information related to the registration
+% records of existing domain names.
+%
+% This WHOIS service accepts and displays only ASCII characters.
+%
+% Arnes cannot be held liable should the stored information
+% prove to be wrong, incomplete or inaccurate in any sense.
+%
+% By submitting a query you agree not to use the information
+% made available to:
+%      o Allow, enable or otherwise support the transmission
+%        of unsolicited, commercial advertising or other solicitations
+%        whether via email or otherwise;
+%      o Target advertising in any possible way;
+%      o Cause nuisance in any possible way to the registrants
+%        by sending (whether by automated, electronic processes
+%        capable of enabling high volumes or other possible
+%        means) messages to them;
+%      o copy, extract and/or publish contents of the WHOIS database.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+domain:			us-rs.si
+registrar:		Ministrstvo za javno upravo - DEUP
+registrar-url:		http://www.mju.gov.si/
+nameserver:		kanin.arnes.si	(193.2.1.87)
+nameserver:		ns1.gov.si	(193.2.236.251)
+nameserver:		ns2.gov.si	(193.2.237.23)
+status:			ok
+created:		1998-04-08
+expire:			2012-06-06
+source:			ARNES
+
+Domain holder:
+NOT DISCLOSED
+
+Tech:
+NOT DISCLOSED
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% For more information, please visit http://www.registry.si/whois.html
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

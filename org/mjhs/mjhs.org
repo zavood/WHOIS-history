@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2712180-LROR
+Domain Name:MJHS.ORG
+Created On:03-Sep-1998 04:00:00 UTC
+Last Updated On:29-Oct-2010 18:31:33 UTC
+Expiration Date:02-Sep-2018 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:15184323-NSI
+Registrant Name:Stephen Ng
+Registrant Organization:Metropolitan Jewish Health System
+Registrant Street1:6405 7TH AVENUE
+Registrant Street2:
+Registrant Street3:
+Registrant City:BROOKLYN
+Registrant State/Province:NY
+Registrant Postal Code:11220-4711
+Registrant Country:US
+Registrant Phone:+1.7189218849
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:DomainAdmin@MJHS.ORG
+Admin ID:15184323-NSI
+Admin Name:Stephen Ng
+Admin Organization:Metropolitan Jewish Health System
+Admin Street1:6405 7TH AVENUE
+Admin Street2:
+Admin Street3:
+Admin City:BROOKLYN
+Admin State/Province:NY
+Admin Postal Code:11220-4711
+Admin Country:US
+Admin Phone:+1.7189218849
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:DomainAdmin@MJHS.ORG
+Tech ID:15184323-NSI
+Tech Name:Stephen Ng
+Tech Organization:Metropolitan Jewish Health System
+Tech Street1:6405 7TH AVENUE
+Tech Street2:
+Tech Street3:
+Tech City:BROOKLYN
+Tech State/Province:NY
+Tech Postal Code:11220-4711
+Tech Country:US
+Tech Phone:+1.7189218849
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:DomainAdmin@MJHS.ORG
+Name Server:AUTH00.NS.UU.NET
+Name Server:AUTH100.NS.UU.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

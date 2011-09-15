@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 05:51:39 (BRT -03:00)
+
+domain:      achafacil.com.br
+owner:       RW TELE-SERVICOS E PUBLICIDADE LTDA
+ownerid:     067.483.438/0001-49
+responsible: Ronaldo Ribeiro Mendes
+country:     BR
+owner-c:     RRM17
+admin-c:     RRM17
+tech-c:      RRM17
+billing-c:   RRM17
+nserver:     ns1.achafacil.com.br 200.170.88.66
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.achafacil.com.br 200.170.88.67
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     19970801 #49996
+expires:     20120801
+changed:     20110712
+status:      published
+
+nic-hdl-br:  RRM17
+person:      RONALDO RIBEIRO MENDES
+e-mail:      admin@rwteleservicos.com.br
+created:     19981005
+changed:     20070817
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

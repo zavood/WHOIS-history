@@ -1,0 +1,50 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 10:51:49 2011
+
+domain:       tym.cz
+registrant:   NODUS
+admin-c:      NODUS
+nsset:        NODUS
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   23.04.2006 17:45:00
+changed:      21.07.2011 16:39:15
+expire:       23.04.2012
+
+contact:      NODUS
+org:          Nodus Technologies spol. s.r.o
+name:         Nodus Technologies
+address:      Tachovsk&Atilde;&iexcl; 1439/14
+address:      Praha 5
+address:      15300
+address:      CZ
+e-mail:       domeny@nodus.cz
+registrar:    REG-IGNUM
+created:      26.12.2007 00:52:03
+changed:      04.12.2009 12:36:01
+
+nsset:        NODUS
+nserver:      ns.nodus.cz (91.121.79.113)
+nserver:      ns2.nodus.cz (93.99.92.60)
+tech-c:       NODUS
+registrar:    REG-IGNUM
+created:      18.07.2011 15:04:02
+
+

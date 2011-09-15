@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 10-dec-2002
    Expiration Date: 10-dec-2018
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:27:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:45:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,82 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- Secar Bohemia, a.s.
- Kamenice 550
- Praha - vychod, CZ 251 68
- CZ
-
- Domain name: SHERLOG.COM
-
-
- Administrative Contact:
-    Secar Bohemia, a.s., Secar Bohemia, a.s.  novak@secar.cz
-    Kamenice 550
-    Praha - vychod, CZ 251 68
-    CZ
-    +420.000000000
- Technical Contact:
-    Jakubcova, Jaroslava  domain@forpsi.com
-    Ktis 2
-    Ktis,  384 03
-    CZ
-    +420.383835353    Fax: +420.383835354
-
-
-
- Registration Service Provider:
-    INTERNET CZ, a.s., domain@forpsi.com
-    00420-38-3835353
-
-
-
- Registrar of Record: TUCOWS, INC.
- Record last updated on 03-Sep-2009.
- Record expires on 10-Dec-2018.
- Record created on 10-Dec-2002.
-
- Registrar Domain Name Help Center:
-    http://tucowsdomains.com
-
- Domain servers in listed order:
-    NS1.SECAR.CZ
-    NS2.SECAR.CZ
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-Tucows makes this information available &quot;as is,&quot; and does not guarantee its
-accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Tucows.
-
-Tucows reserves the right to terminate your access to the Tucows WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
-
-Tucows reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

@@ -1,0 +1,79 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 10:48:41 2011
+
+domain:       lomcovak.cz
+registrant:   SB:RV592-RIPE_XX
+admin-c:      RV592-RIPE
+nsset:        NSS:C4:1
+registrar:    REG-GENREG
+status:       paid and in zone
+registered:   18.10.1998 02:00:00
+changed:      05.04.2011 11:48:44
+expire:       29.10.2011
+
+contact:      SB:RV592-RIPE_XX
+org:          Ing.Roman Vojtech
+name:         Ing.Roman Vojtech
+address:      U Studanky 31
+address:      Praha
+address:      170 00
+address:      CZ
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      01.04.2011 16:17:07
+
+contact:      RV592-RIPE
+name:         Roman Vojtech
+address:      CZ
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      19.10.2007 17:21:01
+
+nsset:        NSS:C4:1
+nserver:      ns.skok.cz
+nserver:      ns2.skok.cz
+tech-c:       C4.JAN.CHYSKY
+tech-c:       SB:C4
+registrar:    REG-GENREG
+created:      01.10.2007 02:00:00
+
+contact:      C4.JAN.CHYSKY
+name:         Jan Chysk&Atilde;&frac12;
+address:      Wilsonova 579
+address:      Slan&Atilde;&frac12;
+address:      27401
+address:      CZ
+e-mail:       chysky@c4.cz
+registrar:    REG-GENREG
+created:      21.07.2006 01:15:00
+
+contact:      SB:C4
+org:          &Auml;åESK&Atilde;ù WEBHOSTING s.r.o.
+name:         &Auml;åESK&Atilde;ù WEBHOSTING s.r.o.
+address:      Wilsonova 579
+address:      Slan&Atilde;&frac12;
+address:      27401
+address:      CZ
+e-mail:       chysky@c4.cz
+registrar:    REG-GENREG
+created:      20.07.2006 13:15:00
+changed:      20.07.2006 23:35:00
+
+
