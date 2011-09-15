@@ -5,14 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-MEDIAPLEX.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-MEDIAPLEX.COM
+   Domain Name: WILKENS-US.COM
+   Registrar: CATALOG.COM, INC.
+   Whois Server: whois.catalog.com
+   Referral URL: http://www.catalog.com
+   Name Server: NS1.BEHOSTED.COM
+   Name Server: NS2.BEHOSTED.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 29-jun-2011
+   Creation Date: 28-jun-2003
+   Expiration Date: 28-jun-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:15:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:14:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +53,56 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain: wilkens-us.com
+
+The data in Catalog.com's WHOIS database is provided by Catalog.com
+for informational purposes only.  Catalog.com does not guarantee its
+accuracy.  By submitting a WHOIS query, you agree that you will use
+this Data only for lawful purposes and that, under no circumstances
+will you use this data to:  (1) allow, enable, or otherwise support
+the transmission of mass unsolicited, commercial advertising or
+solicitations via e-mail (spam); or  (2) enable high volume, automated,
+electronic processes that apply to Catalog.com (or its systems).
+Catalog.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
+
+
+Domain: wilkens-us.com
+
+Status:ACTIVE
+
+
+Registrant
+astrid (CTLGDN-250505)
+3165 westbrook road
+suwanee, ga  30024
+US
+
+Admin Contact:
+     astrid wilkens (250546)
+     3165 westbrook road
+     suwanee,ga,US  30024
+   email:astridstoeckli@bluewin.ch
+   ph:+770.9322112
+
+Tech Contact:
+     astrid wilkens (250545)
+     3165 westbrook road
+     suwanee,ga,US  30024
+   email:astridstoeckli@bluewin.ch
+   ph:+770.9322112
+
+Created on 30-jun-2003
+Updated on 21-jun-2010
+Expires on 28-jun-2005
+
+Domain servers in listed order:
+  ns1.behosted.com        216.40.213.39
+  ns2.behosted.com        216.40.213.179
+
+
+Catalog.com Providing Domains, Webhosting, Advertising, Search,
+And The Best in Discount Online Shopping
+You Can Earn Money With Catalog.com's Net Search Today
+http://www.catalog.com/
+

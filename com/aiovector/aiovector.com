@@ -5,14 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-MEDIAPLEX.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-MEDIAPLEX.COM
+   Domain Name: AIOVECTOR.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DOMAIN.COI.VN
+   Name Server: MR.COI.VN
+   Name Server: NS1.COI.VN
+   Name Server: NS2.COI.VN
+   Status: clientTransferProhibited
+   Updated Date: 06-may-2011
+   Creation Date: 03-jun-2010
+   Expiration Date: 03-jun-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:15:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:13:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +53,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+
+
+Domain name: aiovector.com
+
+Registrant Contact:
+   Nguyn Anh Ch
+   Nguyn Anh Ch Nguyn Anh Ch ()
+
+   Fax:
+   None
+   None
+   HCM, SG 70000
+   VN
+
+Administrative Contact:
+   Nguyn Anh Ch
+   Nguyn Anh Ch Nguyn Anh Ch (china_063@yahoo.com)
+   +199.8551999
+   Fax: +199.8551999
+   None
+   None
+   HCM, SG 70000
+   VN
+
+Technical Contact:
+   Nguyn Anh Ch
+   Nguyn Anh Ch Nguyn Anh Ch (china_063@yahoo.com)
+   +199.8551999
+   Fax: +199.8551999
+   None
+   None
+   HCM, SG 70000
+   VN
+
+Status: Locked
+
+Name Servers:
+   domain.coi.vn
+   mr.coi.vn
+   ns1.coi.vn
+   ns2.coi.vn
+
+Creation date: 04 Jun 2010 04:21:00
+Expiration date: 03 Jun 2012 23:21:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
