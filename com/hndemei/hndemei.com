@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GARRISONEVEREST.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: DNS1.STABLETRANSIT.COM
-   Name Server: DNS2.STABLETRANSIT.COM
-   Status: ok
-   Updated Date: 11-aug-2011
-   Creation Date: 08-aug-2002
-   Expiration Date: 08-aug-2013
+   Domain Name: HNDEMEI.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS.YOVOLE.COM
+   Name Server: NS1.YOVOLE.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 01-jun-2011
+   Creation Date: 04-jun-2008
+   Expiration Date: 04-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:36:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:37:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,65 +52,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.bizcn.com
+Whois Server: whois.bizcn.com
 
+Domain name: hndemei.com
 
-Registrant:
-	 Joshua Claflin info@garrisoneverest.com 303.847.4981
-	 Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
+Registrant Contact:
+   tiandayao
+   dayao tian hndemei@126.com
+   0737-6203555 fax: 0737-6203555
+   yiyang gaokeyuan 8 hao
+   yiyang HN 413000
+   CN
 
+Administrative Contact:
+   dayao tian hndemei@126.com
+   0737-6203555 fax: 0737-6203555
+   yiyang gaokeyuan 8 hao
+   yiyang HN 413000
+   CN
 
-Domain Name:garrisoneverest.com
-Record last updated at 2011-08-11 05:35:41
-Record created on 2002/8/9
-Record expired on 2013/8/9
+Technical Contact:
+   dayao tian hndemei@126.com
+   0737-6203555 fax: 0737-6203555
+   yiyang gaokeyuan 8 hao
+   yiyang HN 413000
+   CN
 
+Billing Contact:
+   dayao tian hndemei@126.com
+   0737-6203555 fax: 0737-6203555
+   yiyang gaokeyuan 8 hao
+   yiyang HN 413000
+   CN
 
-Domain servers in listed order:
-	 dns1.stabletransit.com 	 dns2.stabletransit.com
+DNS:
+ns.yovole.com
+ns1.yovole.com
 
-Administrator:
-	 Name-- Joshua Claflin
- EMail-: (info@garrisoneverest.com)
- tel --: 3038474981
-	 org: Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
-
-Technical Contactor:
-	 Name-- Joshua Claflin
- EMail-: (info@garrisoneverest.com)
- tel --: 303.847.4981
-	 org: Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
-
-Billing Contactor:
-	 Name-- Joshua Claflin
- EMail-: (info@garrisoneverest.com)
- tel --: 303.847.4981
-	 org: Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
-
-
-Registration Service Provider:
-	name: IPOWER, Inc.
-	tel: +1.8885114678
- 	fax: +1.7819988340
- 	web:
+Created: 2008-06-05
+Expires: 2012-06-05

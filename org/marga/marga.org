@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104178070-LROR
+Domain Name:MARGA.ORG
+Created On:01-Apr-2004 07:33:29 UTC
+Last Updated On:28-May-2011 03:52:51 UTC
+Expiration Date:01-Apr-2012 07:33:29 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:MK45-GANDI
+Registrant Name:Michael Katz
+Registrant Street1:46 Estabrook St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Leandro
+Registrant State/Province:6
+Registrant Postal Code:94577
+Registrant Country:US
+Registrant Phone:+1.5104834005
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:41ad678129ee9443a7a83995de107406-mk45@contact.gandi.net
+Admin ID:MK45-GANDI
+Admin Name:Michael Katz
+Admin Street1:46 Estabrook St.
+Admin Street2:
+Admin Street3:
+Admin City:San Leandro
+Admin State/Province:6
+Admin Postal Code:94577
+Admin Country:US
+Admin Phone:+1.5104834005
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:41ad678129ee9443a7a83995de107406-mk45@contact.gandi.net
+Tech ID:MK45-GANDI
+Tech Name:Michael Katz
+Tech Street1:46 Estabrook St.
+Tech Street2:
+Tech Street3:
+Tech City:San Leandro
+Tech State/Province:6
+Tech Postal Code:94577
+Tech Country:US
+Tech Phone:+1.5104834005
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:41ad678129ee9443a7a83995de107406-mk45@contact.gandi.net
+Name Server:NS1.DREAMHOST.COM
+Name Server:NS2.DREAMHOST.COM
+Name Server:NS3.DREAMHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

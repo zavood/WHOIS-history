@@ -1,0 +1,39 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: MTV23D-NORID
+Domain Name................: mtv.no
+Domain Holder Handle.......: MNAF2O-NORID
+Registrar Handle...........: REG466-NORID
+Legal-c Handle.............: TJ1784P-NORID
+Tech-c Handle..............: MK2783P-NORID
+Name Server Handle.........: PDNS20H-NORID
+Name Server Handle.........: PDNS38H-NORID
+Name Server Handle.........: PDNS51H-NORID
+Name Server Handle.........: PDNS64H-NORID
+Name Server Handle.........: PDNS77H-NORID
+Name Server Handle.........: PDNS90H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-10-18
+
+NORID Handle...............: MNAF2O-NORID
+Type.......................: organization
+Name.......................: MTV NETWORKS AB FILIAL I NORGE
+Id Type....................: organization_number
+Id Number..................: 990712832
+Registrar Handle...........: REG466-NORID
+Post Address...............: Rosenkrantzgate 4
+Postal Code................: NO-0159
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22991910
+Email Address..............: domreg-admin@mtvn.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

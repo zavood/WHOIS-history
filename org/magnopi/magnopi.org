@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156450982-LROR
+Domain Name:MAGNOPI.ORG
+Created On:17-Jun-2009 21:07:13 UTC
+Last Updated On:18-Jul-2010 02:22:33 UTC
+Expiration Date:17-Jun-2012 21:07:13 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:dcce0e68486a2318
+Registrant Name:Edward  Magno
+Registrant Organization:Specter Private Investigations
+Registrant Street1:6110 Lancewood Way
+Registrant Street2:
+Registrant Street3:
+Registrant City:Naples
+Registrant State/Province:FL
+Registrant Postal Code:34116
+Registrant Country:US
+Registrant Phone:+1.2393483080
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:emagno@comcast.net
+Admin ID:dcce0e68486a2318
+Admin Name:Edward  Magno
+Admin Organization:Specter Private Investigations
+Admin Street1:6110 Lancewood Way
+Admin Street2:
+Admin Street3:
+Admin City:Naples
+Admin State/Province:FL
+Admin Postal Code:34116
+Admin Country:US
+Admin Phone:+1.2393483080
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:emagno@comcast.net
+Tech ID:8470141a4984366e
+Tech Name:Domain  Administrator
+Tech Street1:70 Blanchard Road
+Tech Street2:
+Tech Street3:
+Tech City:Burlington
+Tech State/Province:MA
+Tech Postal Code:01803
+Tech Country:US
+Tech Phone:+1.8772456228
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domreg@globat.com
+Name Server:NS1.GLOBAT.COM
+Name Server:NS2.GLOBAT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

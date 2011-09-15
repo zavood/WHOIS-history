@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GARRISONEVEREST.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: DNS1.STABLETRANSIT.COM
-   Name Server: DNS2.STABLETRANSIT.COM
+   Domain Name: LIONBACKER.COM
+   Registrar: ADVANCED INTERNET TECHNOLOGIES, INC.
+   Whois Server: whois.aitdomains.com
+   Referral URL: http://www.aitdomains.com
+   Name Server: NS6.LUNARPAGES.COM
+   Name Server: NS7.LUNARPAGES.COM
    Status: ok
-   Updated Date: 11-aug-2011
-   Creation Date: 08-aug-2002
-   Expiration Date: 08-aug-2013
+   Updated Date: 26-mar-2009
+   Creation Date: 17-jun-2004
+   Expiration Date: 17-jun-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:36:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:36:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,65 +51,64 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+The Data in THE NAMEIT CORPORATION WHOIS database is provided by
+THE NAMEIT CORPORATION for information purposes, and to assist persons
+in obtaining information about or related to a domain name registration record.
+THE NAMEIT CORPORATION does not guarantee its accuracy.  By submitting a
+WHOIS query, you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial advertising
+or solicitations via e-mail (spam); or  (2) enable high volume, automated,
+electronic processes that apply to THE NAMEIT
+CORPORATION (or its systems).
 
+THE NAMEIT CORPORATION reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-Registrant:
-	 Joshua Claflin info@garrisoneverest.com 303.847.4981
-	 Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
+Domain Name:	lionbacker.com
+Registrar:	THE NAME IT CORPORATION DBA NAMESERVICES.NET
 
 
-Domain Name:garrisoneverest.com
-Record last updated at 2011-08-11 05:35:41
-Record created on 2002/8/9
-Record expired on 2013/8/9
+Registrant Contact
+
+Name:		Paul J  Donaghy
+Address:	2208 Lariat Trail
+		Frisco, TX  75034
+		US
+
+Email Address:	pjdonaghy@gmail.com
+Phone Number:	(972)294-8393
 
 
-Domain servers in listed order:
-	 dns1.stabletransit.com 	 dns2.stabletransit.com
+Administrative Contact
 
-Administrator:
-	 Name-- Joshua Claflin
- EMail-: (info@garrisoneverest.com)
- tel --: 3038474981
-	 org: Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
+Name:		Paul J  Donaghy
+Address:	2208 Lariat Trail
+		Frisco, TX  75034
+		US
 
-Technical Contactor:
-	 Name-- Joshua Claflin
- EMail-: (info@garrisoneverest.com)
- tel --: 303.847.4981
-	 org: Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
-
-Billing Contactor:
-	 Name-- Joshua Claflin
- EMail-: (info@garrisoneverest.com)
- tel --: 303.847.4981
-	 org: Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
+Email Address:	pjdonaghy@gmail.com
+Phone Number:	(972)294-8393
 
 
-Registration Service Provider:
-	name: IPOWER, Inc.
-	tel: +1.8885114678
- 	fax: +1.7819988340
- 	web:
+Technical Contact
+
+Name:		Paul J  Donaghy
+Address:	2208 Lariat Trail
+		Frisco, TX  75034
+		US
+
+Email Address:	pjdonaghy@gmail.com
+Phone Number:	(972)294-8393
+
+
+Record Created on........ 2004-06-17 12:51:52.991
+Record last updated on... 2009-03-26 21:58:43.009
+Expire on................ 2014-06-17 21:58:41.885
+
+Domain Nameservers in listed order:
+
+	ns6.lunarpages.com
+ 	ns7.lunarpages.com
+

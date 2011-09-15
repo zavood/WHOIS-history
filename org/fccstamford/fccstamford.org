@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D26282346-LROR
+Domain Name:FCCSTAMFORD.ORG
+Created On:03-May-2000 17:28:52 UTC
+Last Updated On:04-May-2011 01:25:21 UTC
+Expiration Date:03-May-2012 17:28:52 UTC
+Sponsoring Registrar:TierraNet Inc. dba DomainDiscover (R86-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:TNTN-0000440495
+Registrant Name:Bill Hensley
+Registrant Organization:First Congregational Church
+Registrant Street1:Walton Place
+Registrant Street2:
+Registrant Street3:
+Registrant City:Stamford
+Registrant State/Province:CT
+Registrant Postal Code:06901
+Registrant Country:US
+Registrant Phone:+1.2033230200
+Registrant Phone Ext.:
+Registrant FAX:+1.2033482270
+Registrant FAX Ext.:
+Registrant Email:fccstamford@gmail.com
+Admin ID:TNTN-0000440495
+Admin Name:Bill Hensley
+Admin Organization:First Congregational Church
+Admin Street1:Walton Place
+Admin Street2:
+Admin Street3:
+Admin City:Stamford
+Admin State/Province:CT
+Admin Postal Code:06901
+Admin Country:US
+Admin Phone:+1.2033230200
+Admin Phone Ext.:
+Admin FAX:+1.2033482270
+Admin FAX Ext.:
+Admin Email:fccstamford@gmail.com
+Tech ID:TNTN-0000838860
+Tech Name:Virginia Peters
+Tech Organization:Ink Tank Industries
+Tech Street1:1069 East Main Street
+Tech Street2:
+Tech Street3:
+Tech City:Stamford
+Tech State/Province:CT
+Tech Postal Code:06902
+Tech Country:US
+Tech Phone:+1.2032742717
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:vtp@inktankind.com
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

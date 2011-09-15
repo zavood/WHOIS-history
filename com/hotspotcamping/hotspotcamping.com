@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GARRISONEVEREST.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: DNS1.STABLETRANSIT.COM
-   Name Server: DNS2.STABLETRANSIT.COM
+   Domain Name: HOTSPOTCAMPING.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS1.MCB.DK
+   Name Server: NS2.MCB.DK
+   Name Server: NS3.MCB.DK
    Status: ok
-   Updated Date: 11-aug-2011
-   Creation Date: 08-aug-2002
-   Expiration Date: 08-aug-2013
+   Updated Date: 23-aug-2011
+   Creation Date: 20-oct-2003
+   Expiration Date: 20-oct-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:36:18 UTC &lt;&lt;&lt;
 
@@ -51,65 +52,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
-
-
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-	 Joshua Claflin info@garrisoneverest.com 303.847.4981
-	 Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
+  Neslein Kommunikation Aps (NESLEINK1083051)
+  Knudslundvej 19
 
+  Broendby, , 2605
+  DK
 
-Domain Name:garrisoneverest.com
-Record last updated at 2011-08-11 05:35:41
-Record created on 2002/8/9
-Record expired on 2013/8/9
+  Domain name: hotspotcamping.com
 
+Technical contact:
+  Hostmaster, Fuzion (FH1083053)
+  Fuzion A/S
+  Silkeborgvej 53
+
+  Aarhus, 8000
+  DK
+  hostmaster@fuzion.dk
+  +45.70277720 Fax: +45.70277720
+
+Administrative contact:
+  Hostmaster, Technical (TH1083052)
+  Struer Net A/S
+  Kildegarden 5
+
+  Struer, 7600
+  DK
+  Hostmaster@struer.net
+  +45.70254505 Fax: +45.70254506
+
+Record created:           2011-08-23 13:57:37
+Record last updated:      2011-08-23 13:57:53
+Record expires:           2012-10-20 19:41:00
 
 Domain servers in listed order:
-	 dns1.stabletransit.com 	 dns2.stabletransit.com
-
-Administrator:
-	 Name-- Joshua Claflin
- EMail-: (info@garrisoneverest.com)
- tel --: 3038474981
-	 org: Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
-
-Technical Contactor:
-	 Name-- Joshua Claflin
- EMail-: (info@garrisoneverest.com)
- tel --: 303.847.4981
-	 org: Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
-
-Billing Contactor:
-	 Name-- Joshua Claflin
- EMail-: (info@garrisoneverest.com)
- tel --: 303.847.4981
-	 org: Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
-
-
-Registration Service Provider:
-	name: IPOWER, Inc.
-	tel: +1.8885114678
- 	fax: +1.7819988340
- 	web:
+  ns1.mcb.dk (NSMCBDK991)
+  ns2.mcb.dk (NSMCBDK483)
+  ns3.mcb.dk (NSMCBDK802)

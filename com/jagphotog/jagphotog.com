@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GARRISONEVEREST.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: DNS1.STABLETRANSIT.COM
-   Name Server: DNS2.STABLETRANSIT.COM
+   Domain Name: JAGPHOTOG.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS47.DOMAINCONTROL.COM
+   Name Server: NS48.DOMAINCONTROL.COM
    Status: ok
-   Updated Date: 11-aug-2011
-   Creation Date: 08-aug-2002
-   Expiration Date: 08-aug-2013
+   Updated Date: 14-sep-2011
+   Creation Date: 03-aug-2009
+   Expiration Date: 03-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:36:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:36:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,65 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
+No match for &quot;jagphotog.com&quot; in the registrar database.
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
-
-
-Registrant:
-	 Joshua Claflin info@garrisoneverest.com 303.847.4981
-	 Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
-
-
-Domain Name:garrisoneverest.com
-Record last updated at 2011-08-11 05:35:41
-Record created on 2002/8/9
-Record expired on 2013/8/9
-
-
-Domain servers in listed order:
-	 dns1.stabletransit.com 	 dns2.stabletransit.com
-
-Administrator:
-	 Name-- Joshua Claflin
- EMail-: (info@garrisoneverest.com)
- tel --: 3038474981
-	 org: Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
-
-Technical Contactor:
-	 Name-- Joshua Claflin
- EMail-: (info@garrisoneverest.com)
- tel --: 303.847.4981
-	 org: Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
-
-Billing Contactor:
-	 Name-- Joshua Claflin
- EMail-: (info@garrisoneverest.com)
- tel --: 303.847.4981
-	 org: Garrison Everest IAD
-	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
-
-
-Registration Service Provider:
-	name: IPOWER, Inc.
-	tel: +1.8885114678
- 	fax: +1.7819988340
- 	web:
