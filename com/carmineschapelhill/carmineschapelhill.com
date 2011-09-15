@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-163.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-163.COM.MORE.INFO.AT.PFBANK.COM
-163.COM.CN
-163.COM
+   Domain Name: CARMINESCHAPELHILL.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS.DNSPROTECT.COM
+   Name Server: NS2.DNSPROTECT.COM
+   Status: clientTransferProhibited
+   Updated Date: 12-dec-2010
+   Creation Date: 10-jan-2008
+   Expiration Date: 10-jan-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:46:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:46:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -49,3 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+
+
+Domain name: carmineschapelhill.com
+
+Registrant Contact:
+   Carmines Chapel Hill
+   Darius Robustelli ()
+
+   Fax:
+   1800 East Franklin Street
+   Chapel Hill, NC 27514
+   US
+
+Administrative Contact:
+   Carmines Chapel Hill
+   Darius Robustelli (darius@carmineschapelhill.com)
+   +1.9199294300
+   Fax:
+   1800 East Franklin Street
+   Chapel Hill, NC 27514
+   US
+
+Technical Contact:
+   Carmines Chapel Hill
+   Darius Robustelli (darius@carmineschapelhill.com)
+   +1.9199294300
+   Fax:
+   1800 East Franklin Street
+   Chapel Hill, NC 27514
+   US
+
+Status: Locked
+
+Name Servers:
+   ns.dnsprotect.com
+   ns2.dnsprotect.com
+
+Creation date: 10 Jan 2008 22:24:21
+Expiration date: 10 Jan 2012 22:24:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

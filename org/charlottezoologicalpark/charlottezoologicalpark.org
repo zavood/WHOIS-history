@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158666864-LROR
+Domain Name:CHARLOTTEZOOLOGICALPARK.ORG
+Created On:22-Mar-2010 21:04:29 UTC
+Last Updated On:17-Aug-2011 00:26:04 UTC
+Expiration Date:22-Mar-2014 21:04:29 UTC
+Sponsoring Registrar:FastDomain Inc. (R1455-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:FAST-15826245
+Registrant Name:Matt Marsee
+Registrant Organization:Matt Marsee
+Registrant Street1:PO Box 472751
+Registrant Street2:
+Registrant Street3:
+Registrant City:Charlotte
+Registrant State/Province:North Carolina
+Registrant Postal Code:28247
+Registrant Country:US
+Registrant Phone:+1.7043571901
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:matt.marsee@charlottezoologicalpark.org
+Admin ID:FAST-15826246
+Admin Name:Matt Marsee
+Admin Organization:Matt Marsee
+Admin Street1:PO Box 472751
+Admin Street2:
+Admin Street3:
+Admin City:Charlotte
+Admin State/Province:North Carolina
+Admin Postal Code:28247
+Admin Country:US
+Admin Phone:+1.7043571901
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:matt.marsee@charlottezoologicalpark.org
+Tech ID:FAST-15826248
+Tech Name:K.L. Peterson
+Tech Organization:IPOWER, Inc.
+Tech Street1:70 Blanchard Road
+Tech Street2:
+Tech Street3:
+Tech City:Burlington
+Tech State/Province:Massachusetts
+Tech Postal Code:01803
+Tech Country:US
+Tech Phone:+1.8885114678
+Tech Phone Ext.:
+Tech FAX:+1.7812726550
+Tech FAX Ext.:
+Tech Email:support@ipower.com
+Name Server:NS2.IPOWER.COM
+Name Server:NS1.IPOWER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
