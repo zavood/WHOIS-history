@@ -1,0 +1,93 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 05:30:52 2011
+
+domain:       uplink.cz
+registrant:   KRAJA
+admin-c:      KRAJCIROVIC
+nsset:        UPLINK
+registrar:    REG-GRANSY
+status:       paid and in zone
+registered:   01.09.2008 00:12:29
+changed:      04.09.2008 17:29:03
+expire:       01.09.2013
+
+contact:      KRAJA
+name:         Michal Kraj&Auml;ç&Atilde;&shy;rovi&Auml;ç
+address:      Jecna 533/23
+address:      Praha
+address:      12000
+address:      CZ
+e-mail:       michal@krajcirovic.cz
+registrar:    REG-MOJEID
+created:      01.10.2007 10:22:42
+changed:      18.10.2009 17:37:07
+
+contact:      KRAJCIROVIC
+name:         Michal Krajcirovic
+address:      Jecna 533/23
+address:      Praha
+address:      12000
+address:      CZ
+e-mail:       michal@krajcirovic.cz
+registrar:    REG-GRANSY
+created:      07.02.2008 11:51:00
+changed:      15.07.2011 22:51:54
+
+nsset:        UPLINK
+nserver:      ns1.uplink.cz (93.170.18.12)
+nserver:      ns2.uplink.cz (91.201.21.115)
+nserver:      ns3.uplink.cz
+tech-c:       CID:MARTIN-MALEK
+registrar:    REG-GENREG
+created:      04.09.2008 17:24:11
+changed:      12.06.2011 23:36:11
+
+contact:      CID:MARTIN-MALEK
+name:         Martin M&Atilde;&iexcl;lek
+address:      Erbenova 2
+address:      Plzen
+address:      30100
+address:      Czech Republic
+address:      CZ
+registrar:    REG-GRANSY
+created:      21.05.2010 13:44:27
+
+nsset:        UPLINK.CZ
+nserver:      ns1.uplink.cz
+nserver:      ns3.uplink.cz
+nserver:      ns2.uplink.cz
+tech-c:       KRAJCZ
+registrar:    REG-IGNUM
+created:      21.08.2009 09:08:31
+
+contact:      KRAJCZ
+org:          activo systems s.r.o.
+name:         Michal Krajcirovic
+address:      Borivojova 878/35
+address:      Praha 3
+address:      130 00
+address:      CZ
+phone:        +420.774804727
+e-mail:       michal@krajcirovic.cz
+registrar:    REG-IGNUM
+created:      21.08.2009 08:48:34
+changed:      31.12.2010 10:57:06
+
+
