@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: SEA1109D-NORID
+Domain Name................: seafood.no
+Domain Holder Handle.......: EFFA5O-NORID
+Registrar Handle...........: REG359-NORID
+Legal-c Handle.............: JSL65P-NORID
+Tech-c Handle..............: HA2335P-NORID
+Name Server Handle.........: DNSI287H-NORID
+Name Server Handle.........: DNSI288H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2011-02-11
+
+NORID Handle...............: EFFA5O-NORID
+Type.......................: organization
+Name.......................: EKSPORTUTVALGET FOR FISK AS
+Id Type....................: organization_number
+Id Number..................: 988597627
+Registrar Handle...........: REG359-NORID
+Post Address...............: Strandvegen 106
+Postal Code................: NO-9006
+Postal Area................: TROMS&Oslash;
+Country....................: NO
+Phone Number...............: +47.77603333
+Email Address..............: webmaster@seafood.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-12
+

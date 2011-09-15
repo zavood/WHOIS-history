@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D147924720-LROR
+Domain Name:WIKILENGUA.ORG
+Created On:01-Jun-2007 09:29:25 UTC
+Last Updated On:18-May-2011 04:26:48 UTC
+Expiration Date:01-Jun-2013 09:29:25 UTC
+Sponsoring Registrar:Nominalia Internet S.L. (R89-LROR)
+Status:OK
+Registrant ID:NOM_P_26416201
+Registrant Name:FUNDACION DEL ESPANOL URGENTE (FUNDEU)
+Registrant Street1:C/ESPRONCEDA, 32
+Registrant Street2:
+Registrant Street3:
+Registrant City:MADRID
+Registrant State/Province:MADRID
+Registrant Postal Code:28003
+Registrant Country:ES
+Registrant Phone:+34.913464741
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@fvegayasoc.com
+Admin ID:NOM_12359901
+Admin Name:Joaquin Muller-Thissen Bergareche
+Admin Organization:FUNDACION DEL ESPANOL URGENTE (FUNDEU)
+Admin Street1:C/Espronceda, 32
+Admin Street2:
+Admin Street3:
+Admin City:Madrid
+Admin State/Province:MADRID
+Admin Postal Code:28003
+Admin Country:ES
+Admin Phone:+34.913467441
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@fvegayasoc.com
+Tech ID:NOM_1
+Tech Name:Technical Department
+Tech Organization:Nominalia Internet SL
+Tech Street1:Josep Pla 2, Torres Diagonal Litoral, Edificio B3, planta 3-D
+Tech Street2:
+Tech Street3:
+Tech City:Barcelona
+Tech State/Province:Barcelona
+Tech Postal Code:08019
+Tech Country:ES
+Tech Phone:+34.935074360
+Tech Phone Ext.:
+Tech FAX:+34.933102360
+Tech FAX Ext.:
+Tech Email:tecnico@nominalia.com
+Name Server:DNS1.NOMINALIA.COM
+Name Server:DNS2.NOMINALIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

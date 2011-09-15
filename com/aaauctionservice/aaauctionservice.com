@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JAGUARUSA.COM
+   Domain Name: AAAUCTIONSERVICE.COM
    Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
    Whois Server: whois.melbourneit.com
    Referral URL: http://www.melbourneit.com
-   Name Server: GYDNS04.JLREXT.COM
-   Name Server: WHDNS04.JLREXT.COM
-   Status: clientTransferProhibited
-   Updated Date: 10-aug-2011
-   Creation Date: 26-mar-1997
-   Expiration Date: 27-mar-2012
+   Name Server: NS1.DNSJUNCTION.COM
+   Name Server: NS2.DNSJUNCTION.COM
+   Status: ok
+   Updated Date: 18-sep-2010
+   Creation Date: 03-oct-2001
+   Expiration Date: 03-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:00:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:02:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,40 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... jaguarusa.com
-  Creation Date........ 1997-03-26
-  Registration Date.... 2008-05-29
-  Expiry Date.......... 2012-03-27
-  Organisation Name.... Jaguar Cars Limited
-  Organisation Address. 20600 Rotunda Drive
+Domain Name.......... aaauctionservice.com
+  Creation Date........ 2001-10-03
+  Registration Date.... 2001-10-03
+  Expiry Date.......... 2011-10-03
+  Organisation Name.... Thomas Lawrence
+  Organisation Address. PO Box 61359
   Organisation Address.
-  Organisation Address. Dearborn
-  Organisation Address. 48121
-  Organisation Address. -
-  Organisation Address. UNITED STATES
+  Organisation Address. Sunnyvale
+  Organisation Address. 94088
+  Organisation Address. CA
+  Organisation Address. US
 
-Admin Name........... Administrative Contact J
-  Admin Address........ 20600 Rotunda Drive
-  Admin Address........
-  Admin Address........ Dearborn
-  Admin Address........ 48121
-  Admin Address........ -
-  Admin Address........ UNITED STATES
-  Admin Email.......... dnsmgr@ford.com
-  Admin Phone.......... +1.3133903476
+Admin Name........... Admin PrivateRegContact
+  Admin Address........ PO Box 61359
+  Admin Address........ registered post accepted only
+  Admin Address........ Sunnyvale
+  Admin Address........ 94088
+  Admin Address........ CA
+  Admin Address........ US
+  Admin Email.......... contact@myprivateregistration.com
+  Admin Phone.......... +1.5105952002
   Admin Fax............
 
-Tech Name............ DNS Admin
-  Tech Address......... Banbury Road
-  Tech Address.........
-  Tech Address......... Gaydon
-  Tech Address......... CV35 0RG
-  Tech Address......... Warwick
-  Tech Address......... GREAT BRITAIN (UK)
-  Tech Email........... dnsadmin@jaguarlandrover.com
-  Tech Phone........... +44.1926641111
-  Tech Fax............. +44.1926649403
-  Name Server.......... whdns04.jlrext.com
-  Name Server.......... gydns04.jlrext.com
+Tech Name............ TECH PrivateRegContact
+  Tech Address......... PO Box 61359
+  Tech Address......... registered post accepted only
+  Tech Address......... Sunnyvale
+  Tech Address......... 94088
+  Tech Address......... CA
+  Tech Address......... US
+  Tech Email........... contact@myprivateregistration.com
+  Tech Phone........... +1.5105952002
+  Tech Fax.............
+  Name Server.......... ns1.dnsjunction.com
+  Name Server.......... ns2.dnsjunction.com
 
 
