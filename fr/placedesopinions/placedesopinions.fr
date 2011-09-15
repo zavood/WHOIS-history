@@ -1,0 +1,83 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; placedesopinions.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      placedesopinions.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SSFS2-FRNIC
+admin-c:     SSFS2-FRNIC
+tech-c:      WS8507-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2224-FRNIC
+registrar:   WEB SOLUTIONS APS
+anniversary: 26/10
+created:     25/04/2005
+last-update: 26/10/2010
+source:      FRNIC
+
+ns-list:     NSL2224-FRNIC
+nserver:     ns.web-solutions.dk
+nserver:     ns2.web-solutions.dk
+source:      FRNIC
+
+registrar:   WEB SOLUTIONS APS
+type:        Isp Option 2
+address:     Nyhavn 43A
+address:     DK-1051 COPENHAGEN
+country:     DK
+phone:       +45 70 26 20 25
+fax-no:      +45 70 26 20 24
+e-mail:      hostmaster@web-solutions.dk
+website:     http://www.web-solutions.dk
+anonymous:   NO
+registered:  04/08/2000
+source:      FRNIC
+
+nic-hdl:     SSFS2-FRNIC
+type:        ORGANIZATION
+contact:     Survey Sampling France S.A.R.L.
+address:     Survey Sampling France S.A.R.L.
+address:     22, rue de Dunkerque
+address:     75010 Paris
+country:     FR
+phone:       +33 1 42 85 01 25
+e-mail:      scott_sharp@surveysampling.com
+changed:     27/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     WS8507-FRNIC
+type:        ROLE
+contact:     Web Solutions ApS
+address:     Web Solutions ApS
+address:     Nyhavn 43A
+address:     1051 Copenhagen City
+address:     DK
+phone:       +45 70262025
+e-mail:      allan@web-solutions.dk
+trouble:     www.web-solutions.dk
+admin-c:     AP2489-FRNIC
+tech-c:      AP2489-FRNIC
+remarks:     Domain name registration and management world-wide
+notify:      allan@web-solutions.dk
+changed:     12/07/2007 allan@web-solutions.dk
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

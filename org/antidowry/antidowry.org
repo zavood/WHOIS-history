@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154311889-LROR
+Domain Name:ANTIDOWRY.ORG
+Created On:24-Sep-2008 16:06:54 UTC
+Last Updated On:25-Sep-2010 01:23:20 UTC
+Expiration Date:24-Sep-2011 16:06:54 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ONLC-3460798-4
+Registrant Name:SIFF
+Registrant Organization:Save Indian Family
+Registrant Street1:MG Road
+Registrant Street2:MG Road
+Registrant Street3:
+Registrant City:Bangalore
+Registrant State/Province:Karnataka
+Registrant Postal Code:560001
+Registrant Country:IN
+Registrant Phone:+91.8000000000
+Registrant Phone Ext.:1111
+Registrant FAX:+91.8000000000
+Registrant FAX Ext.:
+Registrant Email:newageindian@gmail.com
+Admin ID:ONLC-3460798-1
+Admin Name:SIFF
+Admin Organization:Save Indian Family
+Admin Street1:MG Road
+Admin Street2:MG Road
+Admin Street3:
+Admin City:Bangalore
+Admin State/Province:Karnataka
+Admin Postal Code:560001
+Admin Country:IN
+Admin Phone:+91.8000000000
+Admin Phone Ext.:1111
+Admin FAX:+91.8000000000
+Admin FAX Ext.:
+Admin Email:newageindian@gmail.com
+Tech ID:ONLC-3460798-2
+Tech Name:SIFF
+Tech Organization:Save Indian Family
+Tech Street1:MG Road
+Tech Street2:MG Road
+Tech Street3:
+Tech City:Bangalore
+Tech State/Province:Karnataka
+Tech Postal Code:560001
+Tech Country:IN
+Tech Phone:+91.8000000000
+Tech Phone Ext.:1111
+Tech FAX:+91.8000000000
+Tech FAX Ext.:
+Tech Email:newageindian@gmail.com
+Name Server:NS585.WEBSITEWELCOME.COM
+Name Server:NS586.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

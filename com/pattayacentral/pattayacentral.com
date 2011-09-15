@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MOCHIADS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: A.NS.MOCHIMEDIA.NET
-   Name Server: B.NS.MOCHIMEDIA.NET
-   Status: ok
-   Updated Date: 27-dec-2010
-   Creation Date: 20-jan-2005
-   Expiration Date: 20-jan-2012
+   Domain Name: PATTAYACENTRAL.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS1.PARKED.COM
+   Name Server: NS2.PARKED.COM
+   Status: clientTransferProhibited
+   Updated Date: 14-nov-2010
+   Creation Date: 06-nov-2008
+   Expiration Date: 06-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:43:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:42:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Domain pattayacentral.com
+
+Date Registered: 2008-11-6
+Date Modified: 2010-11-14
+Expiry Date: 2011-11-6
+
+DNS1: ns2.parked.com
+DNS2: ns1.parked.com
+
+Registrant
+    Private Whois pattayacentral.com
+    Private Whois pattayacentral.com  uwnpug74d958fb7ddd58@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o pattayacentral.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Administrative Contact
+    Private Whois pattayacentral.com
+    Private Whois pattayacentral.com  uunq6hh4d958fb7f2e85@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o pattayacentral.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Technical Contact
+    Private Whois pattayacentral.com
+    Private Whois pattayacentral.com  ltgs1wh4d958fb7e7162@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o pattayacentral.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;
