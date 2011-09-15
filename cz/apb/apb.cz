@@ -1,0 +1,74 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 04:30:12 2011
+
+domain:       apb.cz
+registrant:   SB:APINT-CZ
+admin-c:      LT312-RIPE
+nsset:        NSS:LT312-RIPE_XX:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   09.04.2001 22:01:00
+changed:      22.05.2007 11:15:00
+expire:       09.04.2012
+
+contact:      SB:APINT-CZ
+name:         AU PAIR INTERNATIONAL CZ - Martin Tlust&Atilde;&frac12;
+address:      Kuzm&Atilde;&shy;nova 336
+address:      Kralupy nad Vltavou
+address:      278 01
+address:      CZ
+e-mail:       au-pair@kralupy.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      03.04.2008 12:06:09
+
+contact:      LT312-RIPE
+name:         Libor Toms
+address:      Ruzove udoli 248
+address:      Kralupy nad Vltavou
+address:      278 01
+address:      CZ
+phone:        +420 603441037
+e-mail:       gsl@kralupy.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+changed:      29.07.2003 18:31:00
+
+nsset:        NSS:LT312-RIPE_XX:1
+nserver:      ns.lachtan.cz
+nserver:      kpy01.kralupy.cz
+tech-c:       SB:LT312-RIPE_XX
+tech-c:       LT312-RIPE
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+
+contact:      SB:LT312-RIPE_XX
+org:          GSL - Libor Toms
+name:         GSL - Libor Toms
+address:      Ruzove udoli 248
+address:      Kralupy nad Vltavou
+address:      278 01
+address:      CZ
+e-mail:       gsl@kralupy.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      31.08.2003 12:06:00
+
+

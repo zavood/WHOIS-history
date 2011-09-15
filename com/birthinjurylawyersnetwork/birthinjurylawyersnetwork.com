@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GROUPZ.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DEVILS.GROUPZ.NET
-   Name Server: DUKE.GROUPZ.NET
-   Name Server: ZNET.GROUPZ.NET
+   Domain Name: BIRTHINJURYLAWYERSNETWORK.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS.RACKSPACE.COM
+   Name Server: NS2.RACKSPACE.COM
    Status: clientTransferProhibited
-   Updated Date: 02-jul-2011
-   Creation Date: 17-jul-1995
-   Expiration Date: 16-jul-2012
+   Updated Date: 30-dec-2010
+   Creation Date: 22-jun-2000
+   Expiration Date: 22-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:28:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:29:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+   Robert Goldwater
+   15849 N. 71st St., #100
+   Scottsdale, AZ 85254
+   US
 
-http://www.networksolutions.com/whois/index.jhtml
+   Domain Name: BIRTHINJURYLAWYERSNETWORK.COM
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Administrative Contact, Technical Contact, Zone Contact:
+      Robert Goldwater
+      15849 N. 71st St., #100
+      Scottsdale, AZ 85254
+      US
+      (480)990-1400
+      (480)990-1405 [fax]
+      bob@bobgoldwater.com
 
-Whois Query: groupz.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:18:49 EDT 2011
-Reason Code: IE
+   Domain created on 22-Jun-2000
+   Domain expires on 22-Jun-2013
+   Last updated on 30-Dec-2010
+
+   Domain servers in listed order:
+
+      NS.RACKSPACE.COM
+      NS2.RACKSPACE.COM
+
+
+

@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GROUPZ.NET
+   Domain Name: FIRSTLIGHTERA.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DEVILS.GROUPZ.NET
-   Name Server: DUKE.GROUPZ.NET
-   Name Server: ZNET.GROUPZ.NET
+   Name Server: NS1.VERTICALSEARCHWORKS.COM
+   Name Server: NS2.VERTICALSEARCHWORKS.COM
    Status: clientTransferProhibited
-   Updated Date: 02-jul-2011
-   Creation Date: 17-jul-1995
-   Expiration Date: 16-jul-2012
+   Updated Date: 05-oct-2010
+   Creation Date: 01-nov-2005
+   Expiration Date: 01-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:28:54 UTC &lt;&lt;&lt;
 
@@ -68,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: groupz.net
+Whois Query: firstlightera.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:18:49 EDT 2011
+Date and Time of Query: Wed Sep 14 22:18:41 EDT 2011
 Reason Code: IE

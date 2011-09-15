@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GROUPZ.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DEVILS.GROUPZ.NET
-   Name Server: DUKE.GROUPZ.NET
-   Name Server: ZNET.GROUPZ.NET
-   Status: clientTransferProhibited
-   Updated Date: 02-jul-2011
-   Creation Date: 17-jul-1995
-   Expiration Date: 16-jul-2012
+   Domain Name: CENTURY21-BJ-PARIS-19.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.VALIDNAME.COM
+   Name Server: NS2.VALIDNAME.COM
+   Status: ok
+   Updated Date: 08-apr-2011
+   Creation Date: 08-apr-2011
+   Expiration Date: 08-apr-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:28:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:29:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: groupz.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:18:49 EDT 2011
-Reason Code: IE
+Domain Name : CENTURY21-BJ-PARIS-19.COM
+Created On : 2011-04-08
+Expiration Date : 2014-04-08
+Status : ACTIVE
+Registrant Name : St Martin Immobilier
+Registrant Street1 : nc
+Registrant Street2 : nc
+Registrant City : nc
+Registrant State/Province  : FR
+Registrant Postal Code : nc
+Registrant Country : FR
+Admin Name : Naxos
+Admin Street1 : 17 place de la r?sistance
+Admin City : Issy les moulineaux
+Admin State/Province : Ile de france
+Admin Postal Code : 92130
+Admin Country : FR
+Admin Phone : +33.155954500
+Admin Email : gestiondns@naxos-fr.net
+Tech Name : Naxos
+Tech Street1 : 17 place de la r?sistance
+Tech City : Issy les moulineaux
+Tech State/Province : Ile de france
+Tech Postal Code : 92130
+Tech Country : FR
+Tech Phone : +33.155954500
+Tech Email : gestiondns@naxos-fr.net
+Billing Name : Naxos
+Billing Street1 : 17 place de la r?sistance
+Billing City : Issy les moulineaux
+Billing State/Province : Ile de france
+Billing Postal Code : 92130
+Billing Country : FR
+Billing Phone : +33.155954500
+Billing Email : gestiondns@naxos-fr.net
+Name Server : NS1.VALIDNAME.COM
+Name Server : NS2.VALIDNAME.COM
+Registrar Name : Namebay

@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GROUPZ.NET
+   Domain Name: THEBUS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DEVILS.GROUPZ.NET
-   Name Server: DUKE.GROUPZ.NET
-   Name Server: ZNET.GROUPZ.NET
+   Name Server: CLOVER.SOVER.NET
+   Name Server: MAPLE.SOVER.NET
    Status: clientTransferProhibited
-   Updated Date: 02-jul-2011
-   Creation Date: 17-jul-1995
-   Expiration Date: 16-jul-2012
+   Updated Date: 15-feb-2011
+   Creation Date: 10-jul-1997
+   Expiration Date: 09-jul-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:28:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:28:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: groupz.net
+Whois Query: thebus.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:18:49 EDT 2011
+Date and Time of Query: Wed Sep 14 22:18:46 EDT 2011
 Reason Code: IE

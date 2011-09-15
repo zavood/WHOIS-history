@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GROUPZ.NET
+   Domain Name: BELLTECHLOGIX.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DEVILS.GROUPZ.NET
-   Name Server: DUKE.GROUPZ.NET
-   Name Server: ZNET.GROUPZ.NET
+   Name Server: DCA-ANS-01.INET.QWEST.NET
+   Name Server: DNS.BELLIND.COM
+   Name Server: NS03-IN.BELLIND.COM
+   Name Server: SVL-ANS-01.INET.QWEST.NET
    Status: clientTransferProhibited
-   Updated Date: 02-jul-2011
-   Creation Date: 17-jul-1995
-   Expiration Date: 16-jul-2012
+   Updated Date: 04-mar-2011
+   Creation Date: 19-apr-2000
+   Expiration Date: 19-apr-2014
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:28:54 UTC &lt;&lt;&lt;
 
@@ -68,7 +69,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: groupz.net
+Whois Query: belltechlogix.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:18:49 EDT 2011
+Date and Time of Query: Wed Sep 14 22:19:30 EDT 2011
 Reason Code: IE

@@ -1,0 +1,65 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T14:30:13+12:00
+domain_name: wired.co.nz
+query_status: 200 Active
+domain_dateregistered: 1996-09-10T00:00:00+12:00
+domain_datebilleduntil: 2012-08-20T00:00:00+12:00
+domain_datelastmodified: 2011-08-15T09:40:21+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: RegisterDirect
+registrar_address1: P O Box 1520
+registrar_address2: Christchurch Mail Centre
+registrar_city: Christchurch
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 3 962-9516
+registrar_fax: +64 3 962-9513
+registrar_email: hostmaster@registerdirect.net
+%
+registrant_contact_name: Wired Internet Solutions Ltd
+registrant_contact_address1: PO Box 750
+registrant_contact_city: CHRISTCHURCH
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 3 377 8460
+registrant_contact_fax: +64 3 379 3729
+registrant_contact_email: mike@wired.co.nz
+%
+admin_contact_name: Technical Officer
+admin_contact_address1: PO Box 750
+admin_contact_city: CHRISTCHURCH
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 3 377 8460
+admin_contact_fax: +64 3 379 3729
+admin_contact_email: mike@wired.co.nz
+%
+technical_contact_name: Hostmaster
+technical_contact_address1: PO Box 1520
+technical_contact_address2: Christchurch Mail Centre
+technical_contact_city: Christchurch
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 3 962 9516
+technical_contact_fax: +64 3 962 9513
+technical_contact_email: hostmaster@registerdirect.net.nz
+%
+ns_name_01: ns1.registerdirect.net.nz
+ns_name_02: ns2.registerdirect.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

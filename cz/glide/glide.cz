@@ -1,0 +1,76 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 04:30:32 2011
+
+domain:       glide.cz
+registrant:   SB:PMGL
+admin-c:      PMGL1
+nsset:        FORPSI
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   23.01.2002 18:22:00
+changed:      16.10.2008 19:58:54
+expire:       07.02.2012
+
+contact:      SB:PMGL
+org:          Paragliding club Plzen
+name:         Lud&Auml;›k Hor&Atilde;&iexcl;k
+address:      Smrkov&Atilde;&iexcl; 8
+address:      Plze&Aring;ˆ
+address:      312 00
+address:      CZ
+e-mail:       ludek.horak@atlas.cz
+registrar:    REG-INTERNET-CZ
+created:      23.01.2002 15:18:00
+changed:      16.02.2005 07:15:00
+
+contact:      PMGL1
+name:         Lud&Auml;›k Hor&Atilde;&iexcl;k
+address:      Jezdeck&Atilde;&iexcl;
+address:      Dob&Aring;™any
+address:      334 41
+address:      CZ
+phone:        +420.603446267
+e-mail:       ludek.horak@atlas.cz
+registrar:    REG-INTERNET-CZ
+created:      24.01.2005 18:15:00
+changed:      25.01.2005 00:05:00
+
+nsset:        FORPSI
+nserver:      ns.forpsi.net
+nserver:      ns.forpsi.cz (81.2.209.185)
+nserver:      ns.forpsi.it
+tech-c:       FORPSI
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 10:19:47
+changed:      30.09.2010 10:21:36
+
+contact:      FORPSI
+org:          INTERNET CZ, a.s.
+name:         Stefano Cecconi
+address:      Kti&Aring;&iexcl; 2
+address:      Kti&Aring;&iexcl;
+address:      38403
+address:      CZ
+fax-no:       +420.383835354
+registrar:    REG-INTERNET-CZ
+created:      04.08.2008 14:42:08
+changed:      06.06.2011 13:55:12
+
+

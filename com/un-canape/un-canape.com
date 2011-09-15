@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GROUPZ.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DEVILS.GROUPZ.NET
-   Name Server: DUKE.GROUPZ.NET
-   Name Server: ZNET.GROUPZ.NET
-   Status: clientTransferProhibited
-   Updated Date: 02-jul-2011
-   Creation Date: 17-jul-1995
-   Expiration Date: 16-jul-2012
+   Domain Name: UN-CANAPE.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.VALIDNAME.COM
+   Name Server: NS2.VALIDNAME.COM
+   Status: ok
+   Updated Date: 23-dec-2010
+   Creation Date: 07-jan-2008
+   Expiration Date: 07-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:28:54 UTC &lt;&lt;&lt;
 
@@ -52,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: groupz.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:18:49 EDT 2011
-Reason Code: IE
+Domain Name : UN-CANAPE.COM
+Created On : 2008-01-07
+Expiration Date : 2012-01-07
+Status : ACTIVE
+Registrant Name : Atout design SARL
+Registrant Street1 : chemin de l'oasis
+Registrant City : allauch
+Registrant State/Province  :
+Registrant Postal Code : 13190
+Registrant Country : FR
+Admin Name : Do you soft
+Admin Street1 : 17 place pierre semard
+Admin City : Beziers
+Admin State/Province : FR
+Admin Postal Code : 34500
+Admin Country : FR
+Admin Phone : +33.467365978
+Admin Email : ndd@powerboutique.com
+Tech Name : Do you soft
+Tech Street1 : 17 place pierre semard
+Tech City : Beziers
+Tech State/Province : FR
+Tech Postal Code : 34500
+Tech Country : FR
+Tech Phone : +33.467365978
+Tech Email : ndd@powerboutique.com
+Billing Name : Atout design SARL
+Billing Street1 : chemin de l'oasis
+Billing City : allauch
+Billing State/Province : FR
+Billing Postal Code : 13190
+Billing Country : FR
+Billing Phone : +33.0663085875
+Billing Email : atout.design@orange.fr
+Name Server : NS1.VALIDNAME.COM
+Name Server : NS2.VALIDNAME.COM
+Registrar Name : Namebay
