@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D658532-LROR
+Domain Name:NEGA-BSA.ORG
+Created On:09-Jul-1997 04:00:00 UTC
+Last Updated On:08-Jun-2011 17:56:32 UTC
+Expiration Date:08-Jul-2012 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33468124
+Registrant Name:Gerry Resciniti
+Registrant Organization:Northeast Georgia Council
+Registrant Street1:P.O. Box 399
+Registrant Street2:
+Registrant Street3:
+Registrant City:Jefferson
+Registrant State/Province:Georgia
+Registrant Postal Code:30549
+Registrant Country:US
+Registrant Phone:+1.7066932446
+Registrant Phone Ext.:
+Registrant FAX:+1.7066934849
+Registrant FAX Ext.:
+Registrant Email:domains@nega-bsa.org
+Admin ID:CR33468126
+Admin Name:Gerry Resciniti
+Admin Organization:Northeast Georgia Council
+Admin Street1:P.O. Box 399
+Admin Street2:
+Admin Street3:
+Admin City:Jefferson
+Admin State/Province:Georgia
+Admin Postal Code:30549
+Admin Country:US
+Admin Phone:+1.7066932446
+Admin Phone Ext.:
+Admin FAX:+1.7066934849
+Admin FAX Ext.:
+Admin Email:domains@nega-bsa.org
+Tech ID:CR33468125
+Tech Name:Gerry Resciniti
+Tech Organization:Northeast Georgia Council
+Tech Street1:P.O. Box 399
+Tech Street2:
+Tech Street3:
+Tech City:Jefferson
+Tech State/Province:Georgia
+Tech Postal Code:30549
+Tech Country:US
+Tech Phone:+1.7066932446
+Tech Phone Ext.:
+Tech FAX:+1.7066934849
+Tech FAX Ext.:
+Tech Email:domains@nega-bsa.org
+Name Server:NS1.NEWWORLDHOSTING.COM
+Name Server:NS2.NEWWORLDHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

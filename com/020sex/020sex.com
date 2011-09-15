@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOHNCOMPANIES.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1C.JOHNCOMPANIES.COM
-   Name Server: NS2C.JOHNCOMPANIES.COM
-   Name Server: NS3C.JOHNCOMPANIES.COM
-   Status: clientTransferProhibited
-   Updated Date: 08-aug-2011
-   Creation Date: 18-dec-2001
-   Expiration Date: 18-dec-2011
+   Domain Name: 020SEX.COM
+   Registrar: SEARCHNAME.CA INTERNET SERVICES CORPORATION
+   Whois Server: whois.searchname.ca
+   Referral URL: http://www.searchname.ca
+   Name Server: DNS.POOL.COM
+   Name Server: DNS2.POOL.COM
+   Status: ok
+   Updated Date: 25-apr-2011
+   Creation Date: 25-apr-2011
+   Expiration Date: 25-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:42:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:42:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,24 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+We are unable to process your request at this time.
+The whois information is unavailable for this domain for one of the following reasons:
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+(1) Too many simulataneous connections from your host;
+(2) The domain you requested is not with this Registrar;
+(3) You have exceeded your query limit;
+(4) Your IP address has been restricted;
+(5) Whois data is not available for this domain - check back in 48 hours when our server is updated;
+(6) Access has been restricted to ensure operational stability;
+(7) A system error has occurred;
+(8) The time limit for your request has expired;
+(9) The IP address provided is not valid or the host specified by the IP address does not exist;
+(10) There is an error in what you have inputed or requested;
+(11) An unknown error has occurred;
+(12) The domain is not currently registered;
+(13) The domain you requested contains invalid characters;
+(14) The domain you requested is too long;
+(15) The domain you requested begins or ends with a dash;
+(16) The domain you requested is a third or fourth level domain;
+(17) You did not specify a domain name.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: johncompanies.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:33:22 EDT 2011
-Reason Code: IE

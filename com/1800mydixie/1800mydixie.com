@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOHNCOMPANIES.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1C.JOHNCOMPANIES.COM
-   Name Server: NS2C.JOHNCOMPANIES.COM
-   Name Server: NS3C.JOHNCOMPANIES.COM
+   Domain Name: 1800MYDIXIE.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: ADNS.CS.SITEPROTECT.COM
+   Name Server: BDNS.CS.SITEPROTECT.COM
    Status: clientTransferProhibited
-   Updated Date: 08-aug-2011
-   Creation Date: 18-dec-2001
-   Expiration Date: 18-dec-2011
+   Updated Date: 30-aug-2010
+   Creation Date: 08-mar-2009
+   Expiration Date: 08-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:42:48 UTC &lt;&lt;&lt;
 
@@ -52,23 +51,36 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+SULLIVANT, ALLEN
+   ALLEN SULLIVANT
+   5700 STONE BROOK DRIVE
+   BRENTWOOD, TN 37027
+   US
 
-http://www.networksolutions.com/whois/index.jhtml
+   Domain Name: 1800MYDIXIE.COM
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Administrative Contact:
+      SULLIVANT, ALLEN		reb4life@bellsouth.net
+      ALLEN SULLIVANT
+      5700 STONE BROOK DRIVE
+      BRENTWOOD, TN 37027
+      US
+      615-373-0058
 
-Whois Query: johncompanies.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:33:22 EDT 2011
-Reason Code: IE
+
+   Record expires on 08-Mar-2012.
+   Record created on 30-Aug-2010.
+   Database last updated on 14-Sep-2011 22:38:35 EDT.
+
+   Domain servers in listed order:
+
+   ADNS.CS.SITEPROTECT.COM      64.26.28.8
+   BDNS.CS.SITEPROTECT.COM      64.41.123.9
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+

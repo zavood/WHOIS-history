@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOHNCOMPANIES.COM
+   Domain Name: VOLIA.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1C.JOHNCOMPANIES.COM
-   Name Server: NS2C.JOHNCOMPANIES.COM
-   Name Server: NS3C.JOHNCOMPANIES.COM
+   Name Server: NS1.VOLIA.NET
+   Name Server: NS2.VOLIA.NET
    Status: clientTransferProhibited
-   Updated Date: 08-aug-2011
-   Creation Date: 18-dec-2001
-   Expiration Date: 18-dec-2011
+   Updated Date: 05-may-2011
+   Creation Date: 05-may-2000
+   Expiration Date: 05-may-2021
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:42:48 UTC &lt;&lt;&lt;
 
@@ -68,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: johncompanies.com
+Whois Query: volia.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:33:22 EDT 2011
+Date and Time of Query: Wed Sep 14 22:33:20 EDT 2011
 Reason Code: IE

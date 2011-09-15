@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: JOHNCOMPANIES.COM
+   Domain Name: AIRMASTERPROPELLERS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1C.JOHNCOMPANIES.COM
-   Name Server: NS2C.JOHNCOMPANIES.COM
-   Name Server: NS3C.JOHNCOMPANIES.COM
+   Name Server: NS1.NAMESERVER.NET.NZ
+   Name Server: NS2.NAMESERVER.NET.NZ
    Status: clientTransferProhibited
-   Updated Date: 08-aug-2011
-   Creation Date: 18-dec-2001
-   Expiration Date: 18-dec-2011
+   Updated Date: 22-jul-2010
+   Creation Date: 29-oct-2000
+   Expiration Date: 29-oct-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:42:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:43:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: johncompanies.com
+Whois Query: airmasterpropellers.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:33:22 EDT 2011
+Date and Time of Query: Wed Sep 14 22:32:48 EDT 2011
 Reason Code: IE
