@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D35432951-LROR
+Domain Name:LUGATGT.ORG
+Created On:22-Sep-2000 17:49:17 UTC
+Last Updated On:19-Apr-2008 17:30:09 UTC
+Expiration Date:22-Sep-2011 17:49:17 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-462162-Gandi
+Registrant Name:Linux User Group at GA Tech
+Registrant Organization:Linux User Group at GA Tech
+Registrant Street1:900 NE 18th Ave
+Registrant Street2:Apt. 1403
+Registrant Street3:
+Registrant City:Fort Lauderdale
+Registrant State/Province:FL
+Registrant Postal Code:FL
+Registrant Country:US
+Registrant Phone:+1.4045797741
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cbae37a4eb9523e82ee005478960a770-463951@owner.gandi.net
+Admin ID:MI298-GANDI
+Admin Name:Michael Imamura
+Admin Street1:846 Cityscape Plz NE
+Admin Street2:
+Admin Street3:
+Admin City:Atlanta
+Admin State/Province:GA
+Admin Postal Code:30308
+Admin Country:US
+Admin Phone:+1.40443533080
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:735deae6b74c62aba4202552a9a6cc14-mi298@contact.gandi.net
+Tech ID:ON11-GANDI
+Tech Name:Ola Nordstrom
+Tech Street1:Whois Protege / Obfuscated whois
+Tech Street2:Gandi, 15 place de la Nation
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:75011
+Tech Country:FR
+Tech Phone:+33.170377666
+Tech Phone Ext.:
+Tech FAX:+33.143730576
+Tech FAX Ext.:
+Tech Email:fa2c4ca16dcfeb79e5be91b835c68f7b-29709@contact.gandi.net
+Name Server:NS6.GANDI.NET
+Name Server:NS1.CETIO.US
+Name Server:NS2.CETIO.US
+Name Server:NS.LUGATGT.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

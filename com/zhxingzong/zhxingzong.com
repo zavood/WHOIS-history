@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SNAPFILES.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.RACKSYS.COM
-   Name Server: NS2.RACKSYS.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 17-jul-2006
-   Creation Date: 07-may-2003
-   Expiration Date: 07-may-2013
+   Domain Name: ZHXINGZONG.COM
+   Registrar: TODAYNIC.COM, INC.
+   Whois Server: whois.todaynic.com
+   Referral URL: http://www.NOW.CN
+   Name Server: PARK5100.01ISP.COM
+   Name Server: PARK5101.01ISP.NET
+   Status: pendingDelete
+   Updated Date: 12-sep-2011
+   Creation Date: 13-jul-2010
+   Expiration Date: 13-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:39:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:46:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Dear Valued Customer,
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+This message is a reminder to help you keep the contact data associated with your domain
+registration up-to-date. Our records include the following information:
 
+
+Domain name: zhxingzong.com
+Status: Active
+
+Protection Status: public
+( make contact info private at http://www.now.cn/domain/domainPrivate.php )
 
 Registrant:
-   WebAttack Inc.
+Name: Xing ZhongKeJi CO.LTD.
+Organization: ZhuHaiXingZhongDianZiKeJi CO.LTD.
+Address: 408Shi  GaoLe Building  No. 1068 ZhuHaiJiuZhouDaDaoZhongDuan
+City: ZhuHai
+Province/state: GD
+Country: CN
+Postal Code: 519000
+Email: xingzhongdz@163.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SNAPFILES.COM
+Administrative Contact:
+Name: Xing ZhongKeJi CO.LTD.
+Organization: ZhuHaiXingZhongDianZiKeJi CO.LTD.
+Address: 408Shi  GaoLe Building  No. 1068 ZhuHaiJiuZhouDaDaoZhongDuan
+City: ZhuHai
+Province/state: GD
+Country: CN
+Postal Code: 519000
+Phone: +86.7566203268
+Fax: +86.7566203268
+Email: xingzhongdz@163.com
 
-   Domain servers in listed order:
-      NS1.RACKSYS.COM
-      NS2.RACKSYS.COM
+Technical Contact:
+Name: Xing ZhongKeJi CO.LTD.
+Organization: ZhuHaiXingZhongDianZiKeJi CO.LTD.
+Address: 408Shi  GaoLe Building  No. 1068 ZhuHaiJiuZhouDaDaoZhongDuan
+City: ZhuHai
+Province/state: GD
+Country: CN
+Postal Code: 519000
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SNAPFILES.COM
+Nameserver Information:
+    ns3.01isp.com
+    ns4.01isp.net
+
+Create: 2010-07-13 15:14:10
+Update: 2011-07-14
+Expired: 2011-07-13
+QueryTimes: 61
+
+
+If any of the information above is inaccurate, you must correct it by visiting our website or contact us.
+(If your review indicates that all of the information above is accurate, you do not need to take any action.)
+Please remember that under the terms of your registration agreement, the provision of false Whois information
+can be grounds for cancellation of your domain name registration.
+Todaynic.com,Inc. reserves the right to modify these terms at any time.

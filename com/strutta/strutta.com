@@ -5,19 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SNAPFILES.COM
+   Domain Name: STRUTTA.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.RACKSYS.COM
-   Name Server: NS2.RACKSYS.COM
+   Name Server: NS1.EASYDNS.COM
+   Name Server: NS2.EASYDNS.COM
+   Name Server: NS3.EASYDNS.ORG
+   Name Server: NS6.EASYDNS.NET
+   Name Server: REMOTE1.EASYDNS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 17-jul-2006
-   Creation Date: 07-may-2003
-   Expiration Date: 07-may-2013
+   Updated Date: 15-mar-2009
+   Creation Date: 18-mar-2007
+   Expiration Date: 18-mar-2017
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:39:03 UTC &lt;&lt;&lt;
 
@@ -76,15 +79,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   WebAttack Inc.
+   Strutta.com Media Inc
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SNAPFILES.COM
+   Domain Name: STRUTTA.COM
 
    Domain servers in listed order:
-      NS1.RACKSYS.COM
-      NS2.RACKSYS.COM
+      NS1.EASYDNS.COM
+      NS2.EASYDNS.COM
+      REMOTE1.EASYDNS.COM
+      NS6.EASYDNS.NET
+      NS3.EASYDNS.ORG
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SNAPFILES.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=STRUTTA.COM
