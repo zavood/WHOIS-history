@@ -1,0 +1,114 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148761070-LROR
+Domain Name:KOMIKFIKRALAR.ORG
+Created On:31-Jul-2007 20:59:32 UTC
+Last Updated On:27-Jun-2011 16:16:35 UTC
+Expiration Date:31-Jul-2012 20:59:32 UTC
+Sponsoring Registrar:Nics Telekomunikasyon Ticaret Ltd. Sti (R1812-LROR)
+Status:OK
+Registrant ID:NICP-68124
+Registrant Name:nuri nuri
+Registrant Organization:nuri
+Registrant Street1:manisa
+Registrant Street2:
+Registrant Street3:
+Registrant City:manisa
+Registrant State/Province:manisa
+Registrant Postal Code:45000
+Registrant Country:TR
+Registrant Phone:+90.0000000000
+Registrant Phone Ext.:
+Registrant FAX:+90.0000000090
+Registrant FAX Ext.:
+Registrant Email:nuriavci@gmail.com
+Admin ID:P-1710165
+Admin Name:mujox mujox
+Admin Organization:mujox
+Admin Street1:istanbul
+Admin Street2:
+Admin Street3:
+Admin City:istanbul
+Admin State/Province:
+Admin Postal Code:34600
+Admin Country:TR
+Admin Phone:+90.00000000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mujox34@hotmail.com
+Admin ID:NICP-68124
+Admin Name:nuri nuri
+Admin Organization:nuri
+Admin Street1:manisa
+Admin Street2:
+Admin Street3:
+Admin City:manisa
+Admin State/Province:manisa
+Admin Postal Code:45000
+Admin Country:TR
+Admin Phone:+90.0000000000
+Admin Phone Ext.:
+Admin FAX:+90.0000000090
+Admin FAX Ext.:
+Admin Email:nuriavci@gmail.com
+Tech ID:P-1710165
+Tech Name:mujox mujox
+Tech Organization:mujox
+Tech Street1:istanbul
+Tech Street2:
+Tech Street3:
+Tech City:istanbul
+Tech State/Province:
+Tech Postal Code:34600
+Tech Country:TR
+Tech Phone:+90.00000000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mujox34@hotmail.com
+Tech ID:NICP-68124
+Tech Name:nuri nuri
+Tech Organization:nuri
+Tech Street1:manisa
+Tech Street2:
+Tech Street3:
+Tech City:manisa
+Tech State/Province:manisa
+Tech Postal Code:45000
+Tech Country:TR
+Tech Phone:+90.0000000000
+Tech Phone Ext.:
+Tech FAX:+90.0000000090
+Tech FAX Ext.:
+Tech Email:nuriavci@gmail.com
+Name Server:NS42.KEBIRHOST.COM
+Name Server:NS43.KEBIRHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

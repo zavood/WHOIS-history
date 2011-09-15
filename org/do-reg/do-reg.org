@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D88643523-LROR
+Domain Name:DO-REG.ORG
+Created On:23-Jul-2002 03:22:41 UTC
+Last Updated On:30-Jun-2011 15:20:53 UTC
+Expiration Date:23-Jul-2012 03:22:41 UTC
+Sponsoring Registrar:Firstserver, Inc. (R1277-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DOREG-000-002201
+Registrant Name:FirstServer Inc.
+Registrant Organization:FirstServer Inc.
+Registrant Street1:NishiSinbashiDaiichiHouki Buil
+Registrant Street2:
+Registrant Street3:
+Registrant City:Nishi Shinbashi,Minato-ku
+Registrant State/Province:Tokyo
+Registrant Postal Code:105-0003
+Registrant Country:JP
+Registrant Phone:+81.662613332
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:makot-i@firstserver.co.jp
+Admin ID:DOREG-000-002202
+Admin Name:FirstServer Inc.
+Admin Organization:FirstServer Inc.
+Admin Street1:NishiSinbashiDaiichiHouki Buil
+Admin Street2:
+Admin Street3:
+Admin City:Nishi Shinbashi,Minato-ku
+Admin State/Province:Tokyo
+Admin Postal Code:105-0003
+Admin Country:JP
+Admin Phone:+81.662613332
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:makot-i@firstserver.co.jp
+Tech ID:DOREG-000-002203
+Tech Name:FirstServer Inc.
+Tech Organization:FirstServer Inc.
+Tech Street1:NishiSinbashiDaiichiHouki Buil
+Tech Street2:
+Tech Street3:
+Tech City:Nishi Shinbashi,Minato-ku
+Tech State/Province:Tokyo
+Tech Postal Code:105-0003
+Tech Country:JP
+Tech Phone:+81.662613332
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:makot-i@firstserver.co.jp
+Name Server:NS1.JP.DO-REG.ORG
+Name Server:NS2.JP.DO-REG.ORG
+Name Server:NS3.JP.DO-REG.ORG
+Name Server:NS4.JP.DO-REG.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1414-LROR
+Domain Name:OAS.ORG
+Created On:23-Jun-1994 04:00:00 UTC
+Last Updated On:24-May-2006 21:18:19 UTC
+Expiration Date:22-Jun-2015 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:5724874-NSI
+Registrant Name:OrganizationofAmerican States
+Registrant Organization:OrganizationofAmerican States
+Registrant Street1:1889 F ST NW
+Registrant Street2:
+Registrant Street3:
+Registrant City:WASHINGTON
+Registrant State/Province:DC
+Registrant Postal Code:20006-4400
+Registrant Country:US
+Registrant Phone:+1.2024583000
+Registrant Phone Ext.:
+Registrant FAX:+1.231231234
+Registrant FAX Ext.:
+Registrant Email:ngochicoa@oas.org
+Admin ID:5724874-NSI
+Admin Name:OrganizationofAmerican States
+Admin Organization:OrganizationofAmerican States
+Admin Street1:1889 F ST NW
+Admin Street2:
+Admin Street3:
+Admin City:WASHINGTON
+Admin State/Province:DC
+Admin Postal Code:20006-4400
+Admin Country:US
+Admin Phone:+1.2024583000
+Admin Phone Ext.:
+Admin FAX:+1.231231234
+Admin FAX Ext.:
+Admin Email:ngochicoa@oas.org
+Tech ID:5724873-NSI
+Tech Name:Juan Carlos Garcia
+Tech Organization:Organization of American States
+Tech Street1:1889 F ST NW #546
+Tech Street2:
+Tech Street3:
+Tech City:WASHINGTON
+Tech State/Province:DC
+Tech Postal Code:20006-4400
+Tech Country:US
+Tech Phone:+1.2024586963
+Tech Phone Ext.:
+Tech FAX:+1.2024586212
+Tech FAX Ext.:
+Tech Email:jcgarcia@oas.org
+Name Server:AUTH3.DNS.RCN.NET
+Name Server:AUTH1.DNS.RCN.NET
+Name Server:OASUNIX1.OAS.ORG
+Name Server:AUTH2.DNS.RCN.NET
+Name Server:AUTH4.DNS.RCN.NET
+Name Server:OASUNIX2.OAS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

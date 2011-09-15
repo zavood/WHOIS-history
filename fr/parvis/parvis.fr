@@ -1,0 +1,110 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; parvis.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      parvis.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    P1326-FRNIC
+admin-c:     BT209-FRNIC
+tech-c:      OH251-FRNIC
+tech-c:      MK32-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5419-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 23/12
+created:     23/12/2003
+last-update: 02/05/2006
+source:      FRNIC
+
+ns-list:     NSL5419-FRNIC
+nserver:     ns4.oleane.net
+nserver:     ns5.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     P1326-FRNIC
+type:        ORGANIZATION
+contact:     PARVIS
+address:     63, rue Sainte Anne
+address:     75002 Paris
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     BT209-FRNIC
+type:        PERSON
+contact:     Bruno Tardif
+address:     PARVIS
+address:     63, rue Sainte Anne
+address:     75002 Paris
+country:     FR
+phone:       +33 1 44 55 02 86
+fax-no:      +33 1 44 55 02 82
+e-mail:      EXT-PARVIS.TARDIF@sncf.fr
+changed:     22/12/2003 cgi@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MK32-FRNIC
+type:        PERSON
+contact:     Mederic Kehr
+address:     PARVIS
+address:     63, rue Sainte Anne
+address:     75002 Paris
+country:     FR
+phone:       +33 1 44 55 02 83
+fax-no:      +33 1 44 55 02 82
+e-mail:      MEDERIC.KEHR@parvis.fr
+changed:     22/12/2003 cgi@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

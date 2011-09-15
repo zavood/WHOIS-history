@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D542915-LROR
+Domain Name:CENTURYCENTER.ORG
+Created On:16-Mar-1996 05:00:00 UTC
+Last Updated On:18-Feb-2010 15:32:17 UTC
+Expiration Date:17-Mar-2012 05:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuydtfdUR7Pr0rFT
+Registrant Name:Web Master
+Registrant Organization:Century Center
+Registrant Street1:c/o Interlink Companies
+Registrant Street2:P.O. Box 1045
+Registrant Street3:
+Registrant City:Elkhart
+Registrant State/Province:IN
+Registrant Postal Code:46515
+Registrant Country:US
+Registrant Phone:+1.5745241000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@elkhart.net
+Admin ID:tuydtfdUR7Pr0rFT
+Admin Name:Web Master
+Admin Organization:Century Center
+Admin Street1:c/o Interlink Companies
+Admin Street2:P.O. Box 1045
+Admin Street3:
+Admin City:Elkhart
+Admin State/Province:IN
+Admin Postal Code:46515
+Admin Country:US
+Admin Phone:+1.5745241000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@elkhart.net
+Tech ID:tuqZp0J2O55ie4MW
+Tech Name:Tech Support ElkhartNet
+Tech Organization:Interlink Companies
+Tech Street1:P.O. Box 1045
+Tech Street2:
+Tech Street3:
+Tech City:Elkhart
+Tech State/Province:IN
+Tech Postal Code:46515-1045
+Tech Country:US
+Tech Phone:+1.5745241000
+Tech Phone Ext.:
+Tech FAX:+1.5745241001
+Tech FAX Ext.:
+Tech Email:hostmaster@elkhart.net
+Name Server:ELK1.ELKHART.NET
+Name Server:ELK2.ELKHART.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
