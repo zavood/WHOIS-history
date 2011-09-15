@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D102630529-LROR
+Domain Name:ARDEOLA.ORG
+Created On:13-Nov-2003 16:20:29 UTC
+Last Updated On:21-Dec-2010 08:55:26 UTC
+Expiration Date:13-Nov-2013 16:20:29 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_4866598
+Registrant Name:Gestion de dominios SEO-BirdLife
+Registrant Organization:Sociedad Espanola de Ornitologia
+Registrant Street1:c/ Melquiades Biencinto, 34
+Registrant Street2:
+Registrant Street3:
+Registrant City:Madrid
+Registrant State/Province:Madrid
+Registrant Postal Code:28053
+Registrant Country:ES
+Registrant Phone:+34.914340910
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@seo.org
+Admin ID:DI_4866600
+Admin Name:Gestion de dominios SEO-BirdLife
+Admin Organization:Sociedad Espanola de Ornitologia
+Admin Street1:c/ Melquiades Biencinto, 34
+Admin Street2:
+Admin Street3:
+Admin City:Madrid
+Admin State/Province:Madrid
+Admin Postal Code:28053
+Admin Country:ES
+Admin Phone:+34.914340910
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@seo.org
+Tech ID:DI_4866602
+Tech Name:Gestion de dominios SEO-BirdLife
+Tech Organization:Sociedad Espanola de Ornitologia
+Tech Street1:c/ Melquiades Biencinto, 34
+Tech Street2:
+Tech Street3:
+Tech City:Madrid
+Tech State/Province:Madrid
+Tech Postal Code:28053
+Tech Country:ES
+Tech Phone:+34.914340910
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@seo.org
+Name Server:NS1.CDMON.NET
+Name Server:NS2.CDMON.NET
+Name Server:NS3.CDMON.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

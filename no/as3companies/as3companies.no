@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: AS111D-NORID
+Domain Name................: as3companies.no
+Domain Holder Handle.......: JA653O-NORID
+Registrar Handle...........: REG164-NORID
+Legal-c Handle.............: LK768P-NORID
+Tech-c Handle..............: SH3846P-NORID
+Name Server Handle.........: NSAS16H-NORID
+Name Server Handle.........: NSAS40H-NORID
+Name Server Handle.........: NSAS56H-NORID
+
+Additional information:
+Created:         2007-01-05
+Last updated:    2011-01-07
+
+NORID Handle...............: JA653O-NORID
+Type.......................: organization
+Name.......................: Jobpartner 3 AS
+Id Type....................: organization_number
+Id Number..................: 983603912
+Registrar Handle...........: REG164-NORID
+Post Address...............: C.J Hambros Plass 2c, 2 etg.
+Postal Code................: NO-0164
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22996208
+Email Address..............: lk@as3.dk
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

@@ -1,0 +1,108 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; energie-info.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      energie-info.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LMND6-FRNIC
+admin-c:     SM7368-FRNIC
+tech-c:      DTC32-FRNIC
+tech-c:      MIDT4-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL4732-FRNIC
+registrar:   MELBOURNE IT LIMITED
+anniversary: 17/12
+created:     03/10/2006
+last-update: 27/06/2011
+source:      FRNIC
+
+ns-list:     NSL4732-FRNIC
+nserver:     ns0.ornis.net
+nserver:     ns1.ornis.net
+source:      FRNIC
+
+registrar:   MELBOURNE IT LIMITED
+type:        Isp Option 1
+address:     Level 2
+address:     120 King St
+address:     3000 MELBOURNE, VICTORIA
+country:     AU
+phone:       +61 3 8624 2400
+fax-no:      +61 3 8624 2499
+e-mail:      admin@melbourneitdbs.com
+website:     http://www.melbourneit.com.au
+anonymous:   NO
+registered:  16/03/2007
+source:      FRNIC
+
+nic-hdl:     LMND6-FRNIC
+type:        ORGANIZATION
+contact:     LE MEDIATEUR NATIONAL DE L'ENERGIE
+address:     15, rue Pasquier
+address:     75008 Paris
+country:     FR
+phone:       +33 1 44 94 66 00
+e-mail:      communication@energie-mediateur.fr
+changed:     24/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SM7368-FRNIC
+type:        PERSON
+contact:     Sophie Marin
+address:     LE MEDIATEUR NATIONAL DE L'ENERGIE
+address:     15, rue Pasquier
+address:     75008 Paris
+country:     FR
+phone:       +33 1 44 94 66 00
+e-mail:      admin-dns@ornis.net
+changed:     24/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DTC32-FRNIC
+type:        PERSON
+contact:     Domains Technical Contact
+address:     RISC GROUP IT Solutions
+address:     24-26, quai Alphonse le Gallo
+address:     92100 Boulogne Billancourt
+country:     FR
+phone:       +33 1 56 37 73 73
+e-mail:      noc-dns@risc-group.com
+changed:     13/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MIDT4-FRNIC
+type:        PERSON
+contact:     Melbourne It Dbs Tech
+address:     Melbourne IT DBS Inc
+address:     636, Ellis Street
+address:     94043 Mountain View
+country:     US
+phone:       +1 8669073267
+fax-no:      +1 6506182574
+e-mail:      tech@melbourneitdbs.com
+changed:     21/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

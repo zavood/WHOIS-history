@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; deepsilver.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      deepsilver.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SD1775-FRNIC
+admin-c:     KS136-FRNIC
+tech-c:      ST395-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2985-FRNIC
+registrar:   ASCIO TECHNOLOGIES Inc.
+anniversary: 04/11
+created:     04/11/2005
+last-update: 07/11/2005
+source:      FRNIC
+
+ns-list:     NSL2985-FRNIC
+nserver:     ns1.ascio.net
+nserver:     ns2.ascio.net
+nserver:     ns3.ascio.net
+source:      FRNIC
+
+registrar:   ASCIO TECHNOLOGIES Inc.
+type:        Isp Option 1
+address:     Islands Brygge 55
+address:     DK-2300 COPENHAGUE S
+country:     DK
+phone:       +45 33 88 61 00
+fax-no:      +45 33 88 61 01
+e-mail:      nicrelations@ascio.com
+website:     http://www.ascio.com
+anonymous:   NO
+registered:  18/01/2001
+source:      FRNIC
+
+nic-hdl:     KS136-FRNIC
+type:        PERSON
+contact:     Krueger Stephan
+address:     SG Diffusion
+address:     1, place du Marivel
+address:     92316 S&egrave;vres Cedex
+country:     FR
+phone:       +33 1 41 14 39 30
+e-mail:      s.krueger@kochmedia.com
+changed:     04/11/2005 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SD1775-FRNIC
+type:        ORGANIZATION
+contact:     SG Diffusion
+address:     1, place du Marivel
+address:     92316 S&egrave;vres Cedex
+country:     FR
+phone:       +33 1 41 14 39 30
+fax-no:      +33 1411441
+e-mail:      s.krueger@kochmedia.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ST395-FRNIC
+type:        ROLE
+contact:     Speednames Technical
+address:     Islands Brygge 55
+address:     Copenhagen S
+address:     2300 DK
+e-mail:      hostmaster@speednames.com
+admin-c:     ST394-FRNIC
+tech-c:      ST394-FRNIC
+changed:     21/07/2005 callback@speednic.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

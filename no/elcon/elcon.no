@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: ELC118D-NORID
+Domain Name................: elcon.no
+Domain Holder Handle.......: SCBA8O-NORID
+Registrar Handle...........: REG164-NORID
+Legal-c Handle.............: KT1661P-NORID
+Tech-c Handle..............: SH4153P-NORID
+Name Server Handle.........: NSAS16H-NORID
+Name Server Handle.........: NSAS40H-NORID
+Name Server Handle.........: NSAS56H-NORID
+
+Additional information:
+Created:         2000-02-02
+Last updated:    2011-04-01
+
+NORID Handle...............: SCBA8O-NORID
+Type.......................: organization
+Name.......................: Santander Consumer Bank AS
+Id Type....................: organization_number
+Id Number..................: 983521592
+Registrar Handle...........: REG164-NORID
+Post Address...............: Strandveien 18
+Postal Code................: NO-1325
+Postal Area................: Lysaker
+Country....................: NO
+Phone Number...............: +47.21083000
+Fax Number.................: +47.21083352
+Email Address..............: domener@santander.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

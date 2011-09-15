@@ -1,0 +1,55 @@
+% Access to RESTENA DNS-LU WHOIS information is provided to assist persons
+% in determining the content of a domain name registration record in the LU
+% registration database. The data in this record is provided by RESTENA DNS-LU
+% for information purposes only, and RESTENA DNS-LU does not guarantee its
+% accuracy. Compilation, repackaging, dissemination or other use of the
+% WHOIS database in its entirety, or of a substantial part thereof, is not
+% allowed without the prior written permission of RESTENA DNS-LU.
+%
+% By submitting a WHOIS query, you agree to abide by this policy. You acknowledge
+% that the use of the WHOIS database is regulated by the ACCEPTABLE USE POLICY
+% (http://www.dns.lu/en/EN-LUCharteUtil.html), that you are aware of its
+% content, and that you accept its terms and conditions.
+%
+% You agree especially that you will use this data only for lawful purposes and
+% that you will not use this data to:
+% (1) allow, enable, or otherwise support the transmission of mass unsolicited,
+% commercial advertising or solicitations via e-mail (spam); or
+% (2) enable high volume, automated, electronic processes that apply to
+% RESTENA DNS-LU (or its systems).
+%
+% All rights reserved.
+%
+% powered by Whois Server 3.1, (c) dns.be
+%
+% WHOIS foyer
+domainname:	foyer.lu
+domaintype:	ACTIVE
+nserver:	ns1.pt.lu
+nserver:	ns1.foyer.lu [194.154.209.231]
+ownertype:	ORGANISATION
+registered:	21/09/2000
+org-name:	Foyer Finance
+org-address:	12, rue Leon Laval
+org-zipcode:	3372
+org-city:	Leudelange
+org-country:	LU
+adm-name:	Durbach Marc
+adm-address:	Foyer Finance
+adm-address:	12, rue Leon Laval
+adm-zipcode:	3372
+adm-city:	Leudelange
+adm-country:	LU
+adm-email:	dum@foyer.lu
+tec-name:	Durbach Marc
+tec-address:	Foyer Finance
+tec-address:	12, rue Leon Laval
+tec-zipcode:	3372
+tec-city:	Leudelange
+tec-country:	LU
+tec-email:	dum@foyer.lu
+registrar-name:		EuroDNS SA
+registrar-email:	support@eurodns.com
+registrar-url:		http://www.eurodns.com
+registrar-country:	LU
+

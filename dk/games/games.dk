@@ -1,0 +1,30 @@
+# Hello 174.142.225.246. Your session has been logged.
+#
+# Copyright (c) 2002 - 2011 by DK Hostmaster A/S
+#
+# The data in the DK Whois database is provided by DK Hostmaster A/S
+# for information purposes only, and to assist persons in obtaining
+# information about or related to a domain name registration record.
+# We do not guarantee its accuracy. We will reserve the right to remove
+# access for entities abusing the data, without notice.
+#
+# Any use of this material to target advertising or similar activities
+# are explicitly forbidden and will be prosecuted. DK Hostmaster A/S
+# requests to be notified of any such activities or suspicions thereof.
+
+Domain:               games.dk
+DNS:                  games.dk
+Registered:           1997-01-31
+Expires:              2012-03-31
+Registration period:  2 years
+VID:                  no
+Status:               Active
+
+Nameservers
+Hostname:             ns1.ascio.net
+Hostname:             ns2.ascio.net
+Hostname:             ns3.ascio.net
+
+# Use option --show-handles to get handle information.
+# Whois HELP for more help.
+

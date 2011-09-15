@@ -1,0 +1,37 @@
+# Copyright (c) 1997- .SE (The Internet Infrastructure Foundation).
+# All rights reserved.
+
+# The information obtained through searches, or otherwise, is protected
+# by the Swedish Copyright Act (1960:729) and international conventions.
+# It is also subject to database protection according to the Swedish
+# Copyright Act.
+
+# Any use of this material to target advertising or
+# similar activities is forbidden and will be prosecuted.
+# If any of the information below is transferred to a third
+# party, it must be done in its entirety. This server must
+# not be used as a backend for a search engine.
+
+# Result of search for registered domain names under
+# the .SE top level domain.
+
+# The data is in the UTF-8 character set and the result is
+# printed with eight bits.
+
+state:            active
+domain:           almega.se
+holder:           olbalm1715-00001
+admin-c:          -
+tech-c:           ASCIO7144-778879
+billing-c:        -
+created:          1995-04-27
+modified:         2011-02-22
+expires:          2011-12-31
+transferred:      2009-03-07
+nserver:          ns4.ascio.net
+nserver:          ns3.ascio.net
+nserver:          ns2.ascio.net
+nserver:          ns1.ascio.net
+dnssec:           unsigned delegation
+status:           ok
+registrar:        Ascio
