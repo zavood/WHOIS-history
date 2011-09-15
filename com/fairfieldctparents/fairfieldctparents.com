@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORTRESSOFBAILEYTUDE.COM
+   Domain Name: FAIRFIELDCTPARENTS.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LUNARMANIA.COM
-   Name Server: NS2.LUNARMANIA.COM
-   Status: ok
-   Updated Date: 04-mar-2011
-   Creation Date: 06-mar-2008
-   Expiration Date: 06-mar-2012
+   Name Server: DNS1.REGISTEREDSITE.COM
+   Name Server: DNS2.REGISTEREDSITE.COM
+   Name Server: DNS3.REGISTEREDSITE.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 15-jul-2011
+   Creation Date: 10-jun-2008
+   Expiration Date: 10-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:02:37 UTC &lt;&lt;&lt;
 

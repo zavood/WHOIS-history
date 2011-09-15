@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORTRESSOFBAILEYTUDE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LUNARMANIA.COM
-   Name Server: NS2.LUNARMANIA.COM
-   Status: ok
-   Updated Date: 04-mar-2011
-   Creation Date: 06-mar-2008
-   Expiration Date: 06-mar-2012
+   Domain Name: HIALEAHAUTODEALERS.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.OCTANEDNS.COM
+   Name Server: NS2.OCTANEDNS.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 04-sep-2011
+   Creation Date: 03-sep-2004
+   Expiration Date: 03-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:02:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:03:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+hialeahautodealers.com is FOR SALE for US$1299.00
+Please visit www.fabdom.com/hialeahautodealers.com now to purchase
+this domain name.
+
+Domain hialeahautodealers.com:
+  Protopixel Pty Ltd
+  P O Box 757
+  Fortitude Valley, QLD 4006 AU
+
+Administrative contact:
+Technical contact:
+Billing contact:
+  Protopixel Pty Ltd
+  Domain Hostmaster
+  domain_hostmaster@protopixel.com
+  P O Box 757
+  Fortitude Valley, QLD 4006 AU
+  Phone: +61.73007005
+  Fax: +61.73007001
+
+Record dates:
+  Record created on: 2004-09-03 08:28:46 UTC
+  Record modified on: 2010-09-04 07:26:13 UTC
+  Record expires on: 2011-09-03 UTC
+
+Nameservers:
+  ns2.octanedns.com:
+    208.122.226.214
+  ns1.octanedns.com:
+    208.122.229.18
+
+Note: Automated collection of data from this database is strictly prohibited.
+

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FORTRESSOFBAILEYTUDE.COM
+   Domain Name: EQUIPMENTADVISOR.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LUNARMANIA.COM
-   Name Server: NS2.LUNARMANIA.COM
+   Name Server: NS.RECYCLE.NET
+   Name Server: NS2.SENTEX.CA
    Status: ok
-   Updated Date: 04-mar-2011
-   Creation Date: 06-mar-2008
-   Expiration Date: 06-mar-2012
+   Updated Date: 30-sep-2010
+   Creation Date: 04-dec-2006
+   Expiration Date: 04-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:02:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:03:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
