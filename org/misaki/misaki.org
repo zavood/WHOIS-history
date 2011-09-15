@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6295400-LROR
+Domain Name:MISAKI.ORG
+Created On:06-May-1999 17:21:43 UTC
+Last Updated On:28-Apr-2008 15:07:48 UTC
+Expiration Date:06-May-2013 17:20:01 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:7A98120EF7241BF5
+Registrant Name:VALUE DOMAIN
+Registrant Organization:DIGIROCK, INC.
+Registrant Street1:Chuo-ku Bakurou-cho 4-7-5
+Registrant Street2:Honmachi TS Building 6F
+Registrant Street3:
+Registrant City:Osaka-shi
+Registrant State/Province:Osaka-fu
+Registrant Postal Code:541-0059
+Registrant Country:JP
+Registrant Phone:+81.662416585
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain-contact@digi-rock.com
+Admin ID:7A98120EF7241BF5
+Admin Name:VALUE DOMAIN
+Admin Organization:DIGIROCK, INC.
+Admin Street1:Chuo-ku Bakurou-cho 4-7-5
+Admin Street2:Honmachi TS Building 6F
+Admin Street3:
+Admin City:Osaka-shi
+Admin State/Province:Osaka-fu
+Admin Postal Code:541-0059
+Admin Country:JP
+Admin Phone:+81.662416585
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domain-contact@digi-rock.com
+Tech ID:7A98120EF7241BF5
+Tech Name:VALUE DOMAIN
+Tech Organization:DIGIROCK, INC.
+Tech Street1:Chuo-ku Bakurou-cho 4-7-5
+Tech Street2:Honmachi TS Building 6F
+Tech Street3:
+Tech City:Osaka-shi
+Tech State/Province:Osaka-fu
+Tech Postal Code:541-0059
+Tech Country:JP
+Tech Phone:+81.662416585
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain-contact@digi-rock.com
+Name Server:NS1.DNS.NE.JP
+Name Server:NS2.DNS.NE.JP
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
