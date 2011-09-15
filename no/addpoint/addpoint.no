@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: ADD162D-NORID
+Domain Name................: addpoint.no
+Domain Holder Handle.......: AA4103O-NORID
+Registrar Handle...........: REG38-NORID
+Legal-c Handle.............: VG343P-NORID
+Tech-c Handle..............: AAH21R-NORID
+Name Server Handle.........: DNSA116H-NORID
+Name Server Handle.........: DNSA133H-NORID
+
+Additional information:
+Created:         2001-09-20
+Last updated:    2010-10-11
+
+NORID Handle...............: AA4103O-NORID
+Type.......................: organization
+Name.......................: Addpoint AS
+Id Type....................: organization_number
+Id Number..................: 887179662
+Registrar Handle...........: REG38-NORID
+Post Address...............: c/o Grindheim, Harald Bothners veg 5
+Postal Code................: NO-7051
+Postal Area................: Trondheim
+Country....................: NO
+Mobile Phone Number........: +47.40233040
+Email Address..............: viktor@addpoint.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

@@ -1,0 +1,46 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 03:46:47 2011
+
+domain:       piksla.cz
+registrant:   FORPSI-AK2-S242112
+nsset:        IC_NSSET
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   24.09.2008 06:51:03
+changed:      24.09.2008 11:50:15
+expire:       24.09.2012
+
+contact:      FORPSI-AK2-S242112
+name:         Bc.Jan Martin&Atilde;&iexcl;k
+address:      Na Valtick&Atilde;&copy; 36
+address:      B&Aring;™eclav
+address:      69141
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      24.09.2008 06:51:02
+
+nsset:        IC_NSSET
+nserver:      ns1.ic.cz
+nserver:      ns2.ic.cz
+tech-c:       FORPSI-AK2-S242112
+registrar:    REG-INTERNET-CZ
+created:      24.09.2008 11:50:14
+
+

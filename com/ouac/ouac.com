@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ARVEL.COM
+   Domain Name: OUAC.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS5.IXWEBHOSTING.COM
-   Name Server: NS6.IXWEBHOSTING.COM
+   Name Server: DBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: DMTU.MT.NS.ELS-GMS.ATT.NET
    Status: clientTransferProhibited
-   Updated Date: 04-dec-2008
-   Creation Date: 08-dec-1998
-   Expiration Date: 07-dec-2011
+   Updated Date: 14-dec-2008
+   Creation Date: 11-feb-1996
+   Expiration Date: 12-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:46:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:46:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: arvel.com
+Whois Query: ouac.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:42:26 EDT 2011
+Date and Time of Query: Wed Sep 14 21:37:36 EDT 2011
 Reason Code: IE

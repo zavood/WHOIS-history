@@ -1,0 +1,31 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'rcirib.ir'
+
+
+domain:		rcirib.ir
+ascii:		rcirib.ir
+remarks:	(Domain Holder) Research Center of IRIB
+remarks:	(Domain Holder Address) Research Center of IRIB, Floor 2jame jam building, valiasr streetTehran, IR1999713113, IR
+holder-c:	---
+admin-c:	re118-irnic
+tech-c:		re118-irnic
+nserver:	ns1.irib.ir
+nserver:	ns2.rcirib.ir
+last-updated:	2011-05-18
+source:		IRNIC # Filtered
+
+nic-hdl:	re118-irnic
+org:		Research Center Of Islamic Republic of Iran Broadcasting
+e-mail:		rcirib@irib.ir
+address:	2nd floor, Jame-e-jam Building, Hotel Esteghlal St., Vali-e-Asr Ave.,, Tehran, Tehran, IR
+phone:		+982122167043
+fax-no:		+982122013594
+source:		IRNIC # Filtered
+

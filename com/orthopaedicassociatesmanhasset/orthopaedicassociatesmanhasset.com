@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ARVEL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS5.IXWEBHOSTING.COM
-   Name Server: NS6.IXWEBHOSTING.COM
+   Domain Name: ORTHOPAEDICASSOCIATESMANHASSET.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS1-HOSTS.SRSPLUS.COM
+   Name Server: NS2-HOSTS.SRSPLUS.COM
    Status: clientTransferProhibited
-   Updated Date: 04-dec-2008
-   Creation Date: 08-dec-1998
-   Expiration Date: 07-dec-2011
+   Updated Date: 20-jul-2011
+   Creation Date: 23-oct-2006
+   Expiration Date: 23-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:46:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:47:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+orthopaedicassociatesmanhasset.com
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Registrant:
+         Hilary Hudesman  (abjvsmurjxm@privateregistration.srsplus.com)
+        Orthopaedic Associates of Manhasset, P.C
+	ATTN: orthopaedicassociatesmanhasset.com
+	c/o SRSPlus Private Registration
+	P.O. Box 459
+	Drums, PA 18222
+	570-708-8760
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain Name: orthopaedicassociatesmanhasset.com
 
-http://www.networksolutions.com/whois/index.jhtml
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: arvel.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:42:26 EDT 2011
-Reason Code: IE
+
+Administrative, Technical, Billing Contact:
+         iHealthSpot, Inc. Mark DePauw  (abjvsmurjxm@privateregistration.srsplus.com)
+        iHealthSpot, Inc.
+	ATTN: orthopaedicassociatesmanhasset.com
+	c/o SRSPlus Private Registration
+	P.O. Box 459
+	Drums, PA 18222
+	570-708-8760
+
+
+
+
+   Record created on Oct 23 2006.
+   Record expires on Oct 23 2012.
+Domain servers:
+        ns1-hosts.srsplus.com
+        ns2-hosts.srsplus.com
+
+
+
+Domain Service Provider:
+   iHealthSpot, Inc.
+   954-978-2184
+   kseifers@ihealthspot.com
+   www.ihealthspot.com
+
+
