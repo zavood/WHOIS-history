@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: VIR455D-NORID
+Domain Name................: virtualoslo.no
+Domain Holder Handle.......: ENIE2O-NORID
+Registrar Handle...........: REG752-NORID
+Legal-c Handle.............: TL2877P-NORID
+Tech-c Handle..............: JH10R-NORID
+Name Server Handle.........: NSTA78H-NORID
+Name Server Handle.........: NSTA79H-NORID
+Name Server Handle.........: NSTA80H-NORID
+
+Additional information:
+Created:         2009-04-01
+Last updated:    2011-04-01
+
+NORID Handle...............: ENIE2O-NORID
+Type.......................: organization
+Name.......................: EIREWAY NORGE INGRID EIDE
+Id Type....................: organization_number
+Id Number..................: 986950966
+Registrar Handle...........: REG752-NORID
+Post Address...............: Kirkbakk &Oslash;stre
+Postal Code................: NO-2540
+Postal Area................: TOLGA
+Country....................: NO
+Phone Number...............: +47.62494601
+Fax Number.................: +47.62494512
+Email Address..............: eireway@eireway.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

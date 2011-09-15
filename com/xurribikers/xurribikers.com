@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEBIGDEALSHOW.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: DNS1.NETTICA.COM
-   Name Server: DNS2.NETTICA.COM
+   Domain Name: XURRIBIKERS.COM
+   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
+   Whois Server: whois.nicline.com
+   Referral URL: http://www.nicline.com
+   Name Server: DNS5.SERVIDORESDNS.NET
+   Name Server: DNS6.SERVIDORESDNS.NET
    Status: ok
-   Updated Date: 25-feb-2011
-   Creation Date: 29-jan-2007
-   Expiration Date: 29-jan-2012
+   Updated Date: 15-sep-2010
+   Creation Date: 14-sep-2004
+   Expiration Date: 14-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:06:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:06:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,57 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
+Arsys Internet's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+Arsys Internet does not guarantee the accuracy of the information
+contained in the WHOIS. Arsys Internet allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be use for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+
+
+Domain name: xurribikers.com
+
 Registrant:
-  Jonas Ensby (JONASENS287)
-  Odvar Solbergsvei 76
+      Joan Domenech Serra  (SROW-128118)
 
-  Oslo, , N-0970
-  NO
+   joandom@telefonica.net
+   Mossen Cinto Verdaguer, 73
+   SANT VICENc DE MONTALT   BARCELONA
+   08394        ES
+   +34 609304456
 
-  Domain name: thebigdealshow.com
-
-Technical contact:
-  Ensby, Johs (BJ48)
-  Business to Web AS
-  Kirkegata 5
-
-  Oslo, N-0153
-  NO
-  admin@b2w.com
-  +47.22700007 Fax: +47.21552150
 
 Administrative contact:
-  Ensby, Jonas (JE3005)
-  Jonas Ensby
-  Odvar Solbergsvei 76
+   Joan Domenech Serra   (SRCO-170189)
+   joandom@telefonica.net
+   Mossen Cinto Verdaguer, 73
+   SANT VICENc DE MONTALT   BARCELONA
+   08394        ES
+   +34 609304456
 
-  Oslo, N-0970
-  NO
-  jonas@ensby.no
-  +47.93856930 Fax:
 
-Record created:           2010-10-08 11:16:46
-Record last updated:      2011-02-25 11:02:50
-Record expires:           2012-01-29 16:44:00
+Technical contact:
+   Joan Domenech Serra   (SRCO-170190)
+   joandom@telefonica.net
+   Mossen Cinto Verdaguer, 73
+   SANT VICENc DE MONTALT   BARCELONA
+   08394        ES
+   +34 609304456
+
 
 Domain servers in listed order:
-  dns1.nettica.com (DNSNETTI309)
-  dns2.nettica.com (DNSNETTI699)
+   dns5.servidoresdns.net  217.76.128.130
+   DNS6.SERVIDORESDNS.NET  217.76.129.130
+
+
+Created:       14 Sep 2004 09:25:29:790   UTC
+Expires:       14 Sep 2011 07:25:32:000   UTC
+Last updated:  15 Sep 2010 12:03:27:873   UTC
+
+
+

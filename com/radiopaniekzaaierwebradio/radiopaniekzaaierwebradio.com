@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEBIGDEALSHOW.COM
+   Domain Name: RADIOPANIEKZAAIERWEBRADIO.COM
    Registrar: ASCIO TECHNOLOGIES, INC.
    Whois Server: whois.ascio.com
    Referral URL: http://www.ascio.com
-   Name Server: DNS1.NETTICA.COM
-   Name Server: DNS2.NETTICA.COM
+   Name Server: NS01.ONE.COM
+   Name Server: NS02.ONE.COM
    Status: ok
-   Updated Date: 25-feb-2011
-   Creation Date: 29-jan-2007
-   Expiration Date: 29-jan-2012
+   Updated Date: 09-jun-2011
+   Creation Date: 08-jun-2010
+   Expiration Date: 08-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:06:47 UTC &lt;&lt;&lt;
 
@@ -70,38 +70,28 @@ Ascio Technologies WHOIS information, you agree to these terms.
 NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
 INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-  Jonas Ensby (JONASENS287)
-  Odvar Solbergsvei 76
+  Ferdi Kappen (730453)
+  Hengelosestraat 72A
 
-  Oslo, , N-0970
-  NO
+  Enschede, , 7514AJ
+  NL
 
-  Domain name: thebigdealshow.com
+  Domain name: radiopaniekzaaierwebradio.com
 
-Technical contact:
-  Ensby, Johs (BJ48)
-  Business to Web AS
-  Kirkegata 5
+Administrative and Technical contact:
+  Master, Host (HM6761)
+  One.com
+  Kalvebod Brygge 45
 
-  Oslo, N-0153
-  NO
-  admin@b2w.com
-  +47.22700007 Fax: +47.21552150
+  Copenhagen V, 1560
+  DK
+  hostmaster@one.com
+  +45.46907100 Fax: +45.70205872
 
-Administrative contact:
-  Ensby, Jonas (JE3005)
-  Jonas Ensby
-  Odvar Solbergsvei 76
-
-  Oslo, N-0970
-  NO
-  jonas@ensby.no
-  +47.93856930 Fax:
-
-Record created:           2010-10-08 11:16:46
-Record last updated:      2011-02-25 11:02:50
-Record expires:           2012-01-29 16:44:00
+Record created:           2010-06-08 22:38:56
+Record last updated:      2010-06-08 22:39:00
+Record expires:           2012-06-08 00:00:00
 
 Domain servers in listed order:
-  dns1.nettica.com (DNSNETTI309)
-  dns2.nettica.com (DNSNETTI699)
+  ns01.one.com (NSONECOM535)
+  ns02.one.com (NSONECOM617)

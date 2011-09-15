@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEBIGDEALSHOW.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: DNS1.NETTICA.COM
-   Name Server: DNS2.NETTICA.COM
-   Status: ok
-   Updated Date: 25-feb-2011
-   Creation Date: 29-jan-2007
-   Expiration Date: 29-jan-2012
+   Domain Name: VETCRAFTSPORTFISHING.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS.INMOTIONHOSTING.COM
+   Name Server: NS2.INMOTIONHOSTING.COM
+   Status: clientTransferProhibited
+   Updated Date: 23-aug-2011
+   Creation Date: 22-aug-2002
+   Expiration Date: 22-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:06:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:05:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,57 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
+
 Registrant:
-  Jonas Ensby (JONASENS287)
-  Odvar Solbergsvei 76
+   Vetcraft Sport Fishing
+   2 Taylor Chase Ln
+   West Chester, PA 19382-7097
+   US
 
-  Oslo, , N-0970
-  NO
+   Domain Name: VETCRAFTSPORTFISHING.COM
 
-  Domain name: thebigdealshow.com
+   Administrative Contact:
+      Vetcraft Sport Fishing
+      Harvey Yenkinson
+      2 Taylor Chase Ln
+      West Chester, PA 19382-7097
+      US
+      (610)793-4468
+      vetcraft@aol.com
 
-Technical contact:
-  Ensby, Johs (BJ48)
-  Business to Web AS
-  Kirkegata 5
+   Technical Contact, Zone Contact:
+      Vetcraft Sport Fishing
+      Harvey Yenkinson
+      2 Taylor Chase Ln
+      West Chester, PA 19382-7097
+      US
+      (410)733-5948
+      vetcraft@aol.com
 
-  Oslo, N-0153
-  NO
-  admin@b2w.com
-  +47.22700007 Fax: +47.21552150
+   Domain created on 22-Aug-2002
+   Domain expires on 22-Aug-2012
+   Last updated on 27-May-2010
 
-Administrative contact:
-  Ensby, Jonas (JE3005)
-  Jonas Ensby
-  Odvar Solbergsvei 76
+   Domain servers in listed order:
 
-  Oslo, N-0970
-  NO
-  jonas@ensby.no
-  +47.93856930 Fax:
+      NS.INMOTIONHOSTING.COM
+      NS2.INMOTIONHOSTING.COM
 
-Record created:           2010-10-08 11:16:46
-Record last updated:      2011-02-25 11:02:50
-Record expires:           2012-01-29 16:44:00
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
 
-Domain servers in listed order:
-  dns1.nettica.com (DNSNETTI309)
-  dns2.nettica.com (DNSNETTI699)

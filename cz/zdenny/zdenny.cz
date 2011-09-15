@@ -16,51 +16,38 @@
 %
 %
 % Whoisd Server Version: 3.4.0
-% Timestamp: Thu Sep 15 05:07:17 2011
+% Timestamp: Thu Sep 15 05:08:08 2011
 
-domain:       tslbrno.cz
-registrant:   SB:SCH3517KREJCI4774
-admin-c:      CH3517KREJCI4774
-admin-c:      MATKLOUB
+domain:       zdenny.cz
+registrant:   SB:GIGAWEBCZ_38
+admin-c:      GIGAWEBCZ_37
 nsset:        FORPSI
 registrar:    REG-INTERNET-CZ
 status:       paid and in zone
-registered:   27.03.2006 13:45:00
-changed:      17.10.2008 04:42:03
-expire:       27.03.2012
+registered:   30.06.2001 17:32:00
+changed:      23.08.2008 20:03:03
+expire:       30.06.2012
 
-contact:      SB:SCH3517KREJCI4774
-name:         Vladim&Atilde;&shy;r Krej&Auml;ç&Atilde;&shy;
-address:      Obl&Atilde;&iexcl; 54
-address:      Brno
-address:      634 00
+contact:      SB:GIGAWEBCZ_38
+name:         Zdenek Abraham
+address:      gen. Stefanika 2
+address:      Prerov
+address:      75000
 address:      CZ
-e-mail:       v.krejci@chello.cz
+e-mail:       zdenny@morgus.cz
 registrar:    REG-INTERNET-CZ
-created:      27.03.2006 12:35:00
+created:      10.08.2001 22:13:00
 
-contact:      CH3517KREJCI4774
-name:         Vladim&Atilde;&shy;r Krej&Auml;ç&Atilde;&shy;
-address:      Obl&Atilde;&iexcl; 54
-address:      Brno
-address:      634 00
+contact:      GIGAWEBCZ_37
+name:         Zdenek Abraham
+address:      gen. Stefanika 2
+address:      Prerov
+address:      75000
 address:      CZ
-phone:        +420.603472492
-e-mail:       v.krejci@chello.cz
+phone:        +420 608537122
+e-mail:       zdenny@morgus.cz
 registrar:    REG-INTERNET-CZ
-created:      27.03.2006 12:25:00
-
-contact:      MATKLOUB
-name:         Matej Kloubek
-address:      Nadrazni 42/82
-address:      Praha 5
-address:      15000
-address:      CZ
-phone:        +420.777811029
-e-mail:       podpora@cesky-hosting.cz
-registrar:    REG-GENREG
-created:      11.07.2003 20:11:00
-changed:      26.09.2007 11:35:00
+created:      10.08.2001 22:13:00
 
 nsset:        FORPSI
 nserver:      ns.forpsi.net

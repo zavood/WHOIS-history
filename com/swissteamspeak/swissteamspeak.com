@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEBIGDEALSHOW.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: DNS1.NETTICA.COM
-   Name Server: DNS2.NETTICA.COM
+   Domain Name: SWISSTEAMSPEAK.COM
+   Registrar: HETZNER ONLINE AG
+   Whois Server: whois.your-server.de
+   Referral URL: http://www.hetzner.de
+   Name Server: NS1.INFOMANIAK.CH
+   Name Server: NS2.INFOMANIAK.CH
    Status: ok
-   Updated Date: 25-feb-2011
-   Creation Date: 29-jan-2007
-   Expiration Date: 29-jan-2012
+   Updated Date: 12-jan-2011
+   Creation Date: 06-jan-2009
+   Expiration Date: 06-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:06:47 UTC &lt;&lt;&lt;
 
@@ -51,57 +51,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  Jonas Ensby (JONASENS287)
-  Odvar Solbergsvei 76
 
-  Oslo, , N-0970
-  NO
+domain:                       swissteamspeak.com
+expiration_date:              2013-01-06 10:59:57
+last_update:                  2011-01-15 01:37:19
 
-  Domain name: thebigdealshow.com
+nameserver:                   ns1.infomaniak.ch
+nameserver:                   ns2.infomaniak.ch
 
-Technical contact:
-  Ensby, Johs (BJ48)
-  Business to Web AS
-  Kirkegata 5
+registrant-name:              Mieli Adrien
+registrant-organization:      Swiss Teamspeak
+registrant-type:              PERSON
+registrant-address:           Ch.des Tulipiers 5
+registrant-postcode:          1040
+registrant-city:              Saint-Barthelemy
+registrant-country:           CH
 
-  Oslo, N-0153
-  NO
-  admin@b2w.com
-  +47.22700007 Fax: +47.21552150
+admin-c-name:                 NPO SwissTeamspeak
+admin-c-organization:         Swiss Teamspeak
+admin-c-type:                 PERSON
+admin-c-address:              Chemin des Grands-Pins 4
+admin-c-postcode:             2000
+admin-c-city:                 Neuchatel
+admin-c-country:              CH
+admin-c-phone:                +41798009562
+admin-c-email:                admin@swissteamspeak.org
 
-Administrative contact:
-  Ensby, Jonas (JE3005)
-  Jonas Ensby
-  Odvar Solbergsvei 76
+tech-c-name:                  NPO SwissTeamspeak
+tech-c-organization:          Swiss Teamspeak
+tech-c-type:                  PERSON
+tech-c-address:               Chemin des Grands-Pins 4
+tech-c-postcode:              2000
+tech-c-city:                  Neuchatel
+tech-c-country:               CH
+tech-c-phone:                 +41798009562
+tech-c-email:                 admin@swissteamspeak.org
 
-  Oslo, N-0970
-  NO
-  jonas@ensby.no
-  +47.93856930 Fax:
+zone-c-name:                  NPO SwissTeamspeak
+zone-c-organization:          Swiss Teamspeak
+zone-c-type:                  PERSON
+zone-c-address:               Chemin des Grands-Pins 4
+zone-c-postcode:              2000
+zone-c-city:                  Neuchatel
+zone-c-country:               CH
+zone-c-phone:                 +41798009562
+zone-c-email:                 admin@swissteamspeak.org
 
-Record created:           2010-10-08 11:16:46
-Record last updated:      2011-02-25 11:02:50
-Record expires:           2012-01-29 16:44:00
 
-Domain servers in listed order:
-  dns1.nettica.com (DNSNETTI309)
-  dns2.nettica.com (DNSNETTI699)

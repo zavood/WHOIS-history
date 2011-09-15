@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEBIGDEALSHOW.COM
+   Domain Name: SNEFRIDSFAMILIE.COM
    Registrar: ASCIO TECHNOLOGIES, INC.
    Whois Server: whois.ascio.com
    Referral URL: http://www.ascio.com
-   Name Server: DNS1.NETTICA.COM
-   Name Server: DNS2.NETTICA.COM
+   Name Server: NS1.123HJEMMESIDE.DK
+   Name Server: NS2.123HJEMMESIDE.DK
    Status: ok
-   Updated Date: 25-feb-2011
-   Creation Date: 29-jan-2007
-   Expiration Date: 29-jan-2012
+   Updated Date: 06-jun-2011
+   Creation Date: 05-jun-2009
+   Expiration Date: 05-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:06:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:07:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,38 +70,28 @@ Ascio Technologies WHOIS information, you agree to these terms.
 NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
 INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-  Jonas Ensby (JONASENS287)
-  Odvar Solbergsvei 76
+  Snefrid Heiland (624528)
+  Jensejordet soer 14
 
-  Oslo, , N-0970
+  Skien, , 3739
   NO
 
-  Domain name: thebigdealshow.com
+  Domain name: snefridsfamilie.com
 
-Technical contact:
-  Ensby, Johs (BJ48)
-  Business to Web AS
-  Kirkegata 5
+Administrative and Technical contact:
+  Ansvarlig, Domaene (DA12319)
+  123hjemmeside ApS
+  Nyhavn 43B 1st floor
 
-  Oslo, N-0153
-  NO
-  admin@b2w.com
-  +47.22700007 Fax: +47.21552150
+  Copenhagen, 1051
+  DK
+  domains@123hjemmmeside.dk
+  +45.33321712 Fax: +45.33321714
 
-Administrative contact:
-  Ensby, Jonas (JE3005)
-  Jonas Ensby
-  Odvar Solbergsvei 76
-
-  Oslo, N-0970
-  NO
-  jonas@ensby.no
-  +47.93856930 Fax:
-
-Record created:           2010-10-08 11:16:46
-Record last updated:      2011-02-25 11:02:50
-Record expires:           2012-01-29 16:44:00
+Record created:           2009-06-05 08:06:35
+Record last updated:      2009-06-05 08:06:43
+Record expires:           2012-06-05 00:00:00
 
 Domain servers in listed order:
-  dns1.nettica.com (DNSNETTI309)
-  dns2.nettica.com (DNSNETTI699)
+  ns1.123hjemmeside.dk (NSHJEMME593)
+  ns2.123hjemmeside.dk (NSHJEMME578)

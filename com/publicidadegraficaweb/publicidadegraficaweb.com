@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEBIGDEALSHOW.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: DNS1.NETTICA.COM
-   Name Server: DNS2.NETTICA.COM
-   Status: ok
-   Updated Date: 25-feb-2011
-   Creation Date: 29-jan-2007
-   Expiration Date: 29-jan-2012
+   Domain Name: PUBLICIDADEGRAFICAWEB.COM
+   Registrar: UNIVERSO ONLINE S/A (UOL)
+   Whois Server: whois.host.uol.com.br
+   Referral URL: http://registrar.host.uol.com.br
+   Name Server: NS1.DOMINIOS.UOL.COM.BR
+   Name Server: NS2.DOMINIOS.UOL.COM.BR
+   Name Server: NS3.DOMINIOS.UOL.COM.BR
+   Status: clientTransferProhibited
+   Updated Date: 27-jul-2011
+   Creation Date: 19-sep-2009
+   Expiration Date: 19-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:06:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:07:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,57 +52,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
+% UOL HOST whois server
 
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Searching for publicidadegraficaweb.com.  Found 1 record(s) matching publicidadegraficaweb.com.
+
+Domain:              publicidadegraficaweb.com
+Nameserver:          ns1.dominios.uol.com.br
+Nameserver:          ns2.dominios.uol.com.br
+Nameserver:          ns3.dominios.uol.com.br
+Created:             20090919
+Updated:             20110727
+
 Registrant:
-  Jonas Ensby (JONASENS287)
-  Odvar Solbergsvei 76
 
-  Oslo, , N-0970
-  NO
+Name:                Carlos Alberto Narcizo Souza
+Organization:        Carlos Alberto Narcizo Souza
+E-mail:              publicidade-grafica-web@uol.com.br
+Address:             R BALTAZAR BRUM 162 null
+Address:             03667000
+Address:             SAO PAULO - SP
+Phone:               55 11 26857567
+Country:             BRASIL
+Created:             20090919
+Updated:             20090919
 
-  Domain name: thebigdealshow.com
+Administrative Contact:
 
-Technical contact:
-  Ensby, Johs (BJ48)
-  Business to Web AS
-  Kirkegata 5
+Name:                Carlos Alberto Narcizo Souza
+Organization:        Carlos Alberto Narcizo Souza
+E-mail:              publicidade-grafica-web@uol.com.br
+Address:             R BALTAZAR BRUM 162 null
+Address:             03667000
+Address:             SAO PAULO - SP
+Phone:               55 11 26857567
+Country:             BRASIL
+Created:             20090919
+Updated:             20090919
 
-  Oslo, N-0153
-  NO
-  admin@b2w.com
-  +47.22700007 Fax: +47.21552150
+Technical Contact:
 
-Administrative contact:
-  Ensby, Jonas (JE3005)
-  Jonas Ensby
-  Odvar Solbergsvei 76
+Name:                Carlos Alberto Narcizo Souza
+Organization:        Carlos Alberto Narcizo Souza
+E-mail:              publicidade-grafica-web@uol.com.br
+Address:             R BALTAZAR BRUM 162 null
+Address:             03667000
+Address:             SAO PAULO - SP
+Phone:               55 11 26857567
+Country:             BRASIL
+Created:             20090919
+Updated:             20090919
 
-  Oslo, N-0970
-  NO
-  jonas@ensby.no
-  +47.93856930 Fax:
-
-Record created:           2010-10-08 11:16:46
-Record last updated:      2011-02-25 11:02:50
-Record expires:           2012-01-29 16:44:00
-
-Domain servers in listed order:
-  dns1.nettica.com (DNSNETTI309)
-  dns2.nettica.com (DNSNETTI699)

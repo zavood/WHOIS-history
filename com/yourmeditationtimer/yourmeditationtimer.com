@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEBIGDEALSHOW.COM
-   Registrar: ASCIO TECHNOLOGIES, INC.
-   Whois Server: whois.ascio.com
-   Referral URL: http://www.ascio.com
-   Name Server: DNS1.NETTICA.COM
-   Name Server: DNS2.NETTICA.COM
+   Domain Name: YOURMEDITATIONTIMER.COM
+   Registrar: REALTIME REGISTER BV
+   Whois Server: whois.yoursrs.com
+   Referral URL: http://www.realtimeregister.com
+   Name Server: NS3.FIRSTFIND.NL
+   Name Server: NS4.FIRSTFIND.NL
    Status: ok
-   Updated Date: 25-feb-2011
-   Creation Date: 29-jan-2007
-   Expiration Date: 29-jan-2012
+   Updated Date: 25-aug-2011
+   Creation Date: 25-aug-2009
+   Expiration Date: 25-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:06:47 UTC &lt;&lt;&lt;
 
@@ -51,57 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in Ascio Technologies' WHOIS database is provided
-by Ascio Technologies for information purposes only. By submitting
-a WHOIS query, you agree that you will use this data
-only for lawful purpose. In addition, you agree not to use the data to:
-(a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising
-or solicitations to entities other than the data recipient' s
-own existing customers; or
-(b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator
-or ICANN-Accredited registrar, except as reasonably necessary
-to register domain names or modify existing registrations.
-Ascio Technologies reserves the right to
-modify these terms at any time. By accessing and using
-Ascio Technologies WHOIS information, you agree to these terms.
-
-NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
-INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
-Registrant:
-  Jonas Ensby (JONASENS287)
-  Odvar Solbergsvei 76
-
-  Oslo, , N-0970
-  NO
-
-  Domain name: thebigdealshow.com
-
-Technical contact:
-  Ensby, Johs (BJ48)
-  Business to Web AS
-  Kirkegata 5
-
-  Oslo, N-0153
-  NO
-  admin@b2w.com
-  +47.22700007 Fax: +47.21552150
-
-Administrative contact:
-  Ensby, Jonas (JE3005)
-  Jonas Ensby
-  Odvar Solbergsvei 76
-
-  Oslo, N-0970
-  NO
-  jonas@ensby.no
-  +47.93856930 Fax:
-
-Record created:           2010-10-08 11:16:46
-Record last updated:      2011-02-25 11:02:50
-Record expires:           2012-01-29 16:44:00
-
-Domain servers in listed order:
-  dns1.nettica.com (DNSNETTI309)
-  dns2.nettica.com (DNSNETTI699)
+Domain Name:yourmeditationtimer.com
+Name Server:ns3.firstfind.nl
+Name Server:ns4.firstfind.nl
+Created On:2009-08-25
+Last Updated On:2011-08-26
+Expiration Date:2012-08-25
+Dealer:yourhosting
+Registrant ID:sophie_df@hotmail.com
+Registrant Name:S. de Feijter
+Registrant Organization:
+Registrant Street1:Molenstraat 17
+Registrant Street2:
+Registrant Street3:
+Registrant City:Utrecht
+Registrant State/Province:
+Registrant Postal Code:3512 CL
+Registrant Country:NL
+Registrant Phone:+31.638928627
+Registrant Fax:
+Registrant Email:sophie_df@hotmail.com
+Admin ID:admin@yourhosting.nl
+Admin Name:Valentijn Borstlap
+Admin Organization:YourHosting BV
+Admin Street1:Schrevenweg 5
+Admin Street2:
+Admin Street3:
+Admin City:Zwolle
+Admin State/Province:Overijssel
+Admin Postal Code:8024 HB
+Admin Country:NL
+Admin Phone:+31.384530752
+Admin Fax:+31.384524734
+Admin Email:admin@yourhosting.nl
+Billing ID:billing@yourhosting.nl
+Billing Name:Valentijn Borstlap
+Billing Organization:YourHosting BV
+Billing Street1:Schrevenweg 5
+Billing Street2:
+Billing Street3:
+Billing City:Zwolle
+Billing State/Province:Overijssel
+Billing Postal Code:8024 HB
+Billing Country:NL
+Billing Phone:+31.384530752
+Billing Fax:+31.384524734
+Billing Email:billing@yourhosting.nl
+Tech ID:tech@yourhosting.nl
+Tech Name:Valentijn Borstlap
+Tech Organization:YourHosting BV
+Tech Street1:Schrevenweg 5
+Tech Street2:
+Tech Street3:
+Tech City:Zwolle
+Tech State/Province:Overijssel
+Tech Postal Code:8024 HB
+Tech Country:NL
+Tech Phone:+31.384530752
+Tech Fax:+31.384524734
+Tech Email:tech@yourhosting.nl

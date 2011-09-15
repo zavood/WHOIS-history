@@ -1,0 +1,86 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; incomm.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      incomm.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    C13132-FRNIC
+admin-c:     NH81-FRNIC
+tech-c:      NH81-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL62-FRNIC
+registrar:   GROUP NBT FRANCE
+anniversary: 15/05
+created:     14/12/2004
+last-update: 15/05/2010
+source:      FRNIC
+
+ns-list:     NSL62-FRNIC
+nserver:     ns0.netbenefit.co.uk
+nserver:     ns1.netbenefit.co.uk
+source:      FRNIC
+
+registrar:   GROUP NBT FRANCE
+type:        Isp Option 1
+address:     Green Side
+address:     400 Avenue Roumanille - BP 296
+address:     SOPHIA ANTIPOLIS CEDEX
+country:     FR
+phone:       +33 4 97 21 22 12
+fax-no:      +33 4 97 21 22 11
+e-mail:      info@netbenefit.fr
+website:     http://www.netbenefit.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     C13132-FRNIC
+type:        ORGANIZATION
+contact:     COMM
+address:     17, avenue des Mondaults
+address:     33270 Floirac
+country:     FR
+phone:       +33 5 57 77 36 36
+e-mail:      corporate-services@netnames.com
+changed:     15/05/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     NH81-FRNIC
+type:        ROLE
+contact:     NetBenefit Hostmaster
+address:     NetBenefit
+address:     Green Side
+address:     400, avenue Roumanille
+address:     B.P. 296
+address:     06906 Sophia Antipolis Cedex
+country:     FR
+phone:       +33 4 97 21 22 12
+e-mail:      dom@vip.fr
+trouble:     Questions de support : mailto:support@netbenefit.fr
+trouble:     Problemes de SPAM : mailto:abuse@netbenefit.fr
+admin-c:     PC377-FRNIC
+tech-c:      PC377-FRNIC
+tech-c:      EC641-FRNIC
+notify:      dom@vip.fr
+changed:     13/10/2006 dom@vip.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

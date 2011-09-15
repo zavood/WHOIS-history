@@ -1,0 +1,80 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; quinze-vingts.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      quinze-vingts.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CHND3-FRNIC
+admin-c:     JS980-FRNIC
+tech-c:      JS980-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6768-FRNIC
+registrar:   INOVAGORA
+anniversary: 14/05
+created:     04/04/1996
+last-update: 12/03/2009
+source:      FRNIC
+
+ns-list:     NSL6768-FRNIC
+nserver:     ns1.inovawork.net
+nserver:     ns2.inovawork.net
+source:      FRNIC
+
+registrar:   INOVAGORA
+type:        Isp Option 2
+address:     6 bis, Rue Fournier Sarlov&egrave;ze
+address:     COMPIEGNE
+country:     FR
+phone:       +33 3 44 86 41 30
+fax-no:      +33 3 44 86 45 72
+e-mail:      contact@inovagora.net
+website:     http://www.inovagora.net
+anonymous:   NO
+registered:  01/07/2005
+source:      FRNIC
+
+nic-hdl:     CHND3-FRNIC
+type:        ORGANIZATION
+contact:     CENTRE HOSPITALIER NATIONAL D OPHTALMOLOGIE DES QUIZE VINGTS
+address:     28, rue de Charenton
+address:     75571 Paris
+country:     FR
+phone:       +33 1 40 02 15 20
+fax-no:      +33 1 46 28 60 66
+e-mail:      dir@quinze-vingts.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JS980-FRNIC
+type:        ROLE
+contact:     Inovagora
+address:     Inovagora
+address:     16, rue Martel
+address:     60200 Compi&egrave;gne
+country:     FR
+phone:       +33 3 44 36 78 51
+e-mail:      tech@inovagora.net
+admin-c:     BE264-FRNIC
+tech-c:      BE264-FRNIC
+changed:     17/07/2006 tech@inovagora.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
