@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SANTAMARINADEXINZO.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.NOMINALIA.COM
-   Name Server: DNS2.NOMINALIA.COM
+   Domain Name: VIETNAM-CAMBODIATRAVEL.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS1.HOSTMONSTER.COM
+   Name Server: NS2.HOSTMONSTER.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 20-apr-2011
-   Creation Date: 23-jan-2006
-   Expiration Date: 23-jan-2012
+   Status: clientUpdateProhibited
+   Updated Date: 08-apr-2011
+   Creation Date: 27-nov-2010
+   Expiration Date: 27-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:37:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:33:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +53,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+   Phung Quang Dung
+   51 Khuong Thuong
+   Dong Da
+   Hanoi, Vietnam  0084
+   VN
 
-http://www.networksolutions.com/whois/index.jhtml
+   Registrar: NAMESDIRECT
+   Domain Name: VIETNAM-CAMBODIATRAVEL.COM
+      Created on: 27-NOV-10
+      Expires on: 27-NOV-11
+      Last Updated on: 08-APR-11
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Administrative, Technical Contact:
+      Quang Dung, Phung  qdungeng@gmail.com
+      51 Khuong Thuong
+      Dong Da
+      Hanoi, Vietnam  0084
+      VN
+      0084979816679
 
-Whois Query: santamarinadexinzo.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 17:33:21 EDT 2011
-Reason Code: IE
+
+   Domain servers in listed order:
+      NS1.HOSTMONSTER.COM
+      NS2.HOSTMONSTER.COM
+
+End of Whois Information

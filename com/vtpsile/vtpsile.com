@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SANTAMARINADEXINZO.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.NOMINALIA.COM
-   Name Server: DNS2.NOMINALIA.COM
-   Status: clientTransferProhibited
-   Updated Date: 20-apr-2011
-   Creation Date: 23-jan-2006
-   Expiration Date: 23-jan-2012
+   Domain Name: VTPSILE.COM
+   Registrar: REGTIME LTD.
+   Whois Server: whois.regtime.net
+   Referral URL: http://www.webnames.ru
+   Name Server: NS1.NAMESELF.COM
+   Name Server: NS2.NAMESELF.COM
+   Status: ok
+   Updated Date: 21-jul-2011
+   Creation Date: 21-jul-2011
+   Expiration Date: 21-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:37:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:35:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+% Regtime Ltd. WHOIS server
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain name: vtpsile.com
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Name servers:
+    ns1.nameself.com
+    ns2.nameself.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Registrar: Regtime Ltd.
+Creation date: 2011-07-21
+Expiration date: 2012-07-21
 
-Whois Query: santamarinadexinzo.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 17:33:21 EDT 2011
-Reason Code: IE
+Registrant:
+    Vasily Nemon
+    Email: fundomlong@yandex.ru
+    Organization: Vasily Nemon
+    Address: ul. Marshaka, 4, kv. 81
+    City: Moskva
+    State: Moskovskaja obl
+    ZIP: 456854
+    Country: RU
+    Phone: +7.4956348957
+    Fax: +7.4956348957
+Administrative Contact:
+    Vasily Nemon
+    Email: fundomlong@yandex.ru
+    Organization: Vasily Nemon
+    Address: ul. Marshaka, 4, kv. 81
+    City: Moskva
+    State: Moskovskaja obl
+    ZIP: 456854
+    Country: RU
+    Phone: +7.4956348957
+    Fax: +7.4956348957
+Technical Contact:
+    Vasily Nemon
+    Email: fundomlong@yandex.ru
+    Organization: Vasily Nemon
+    Address: ul. Marshaka, 4, kv. 81
+    City: Moskva
+    State: Moskovskaja obl
+    ZIP: 456854
+    Country: RU
+    Phone: +7.4956348957
+    Fax: +7.4956348957
+Billing Contact:
+    Vasily Nemon
+    Email: fundomlong@yandex.ru
+    Organization: Vasily Nemon
+    Address: ul. Marshaka, 4, kv. 81
+    City: Moskva
+    State: Moskovskaja obl
+    ZIP: 456854
+    Country: RU
+    Phone: +7.4956348957
+    Fax: +7.4956348957
+

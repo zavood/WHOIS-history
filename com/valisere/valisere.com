@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SANTAMARINADEXINZO.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.NOMINALIA.COM
-   Name Server: DNS2.NOMINALIA.COM
+   Domain Name: VALISERE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: J4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientTransferProhibited
-   Updated Date: 20-apr-2011
-   Creation Date: 23-jan-2006
-   Expiration Date: 23-jan-2012
+   Updated Date: 02-aug-2011
+   Creation Date: 08-sep-1997
+   Expiration Date: 07-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:37:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:27:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +55,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... valisere.com
+  Creation Date........ 1997-09-08
+  Registration Date.... 2009-08-19
+  Expiry Date.......... 2012-09-08
+  Organisation Name.... Triumph International Holding GmbH
+  Organisation Address. Marsstrasse 40
+  Organisation Address.
+  Organisation Address. Muenchen
+  Organisation Address. 80335
+  Organisation Address. -
+  Organisation Address. GERMANY
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Erich Wohlmuth
+  Admin Address........ Marsstrasse 40
+  Admin Address........
+  Admin Address........ Muenchen
+  Admin Address........ 80323
+  Admin Address........ -
+  Admin Address........ GERMANY
+  Admin Email.......... erich.wohlmuth@triumph-international.de
+  Admin Phone.......... +1.498951118527
+  Admin Fax............ +1.498951118555
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Erich Wohlmuth
+  Tech Address......... Marsstrasse 40
+  Tech Address.........
+  Tech Address......... Muenchen
+  Tech Address......... 80335
+  Tech Address......... Muenchen
+  Tech Address......... GERMANY
+  Tech Email........... hostmaster@triumph.com
+  Tech Phone........... +49.89511180
+  Tech Fax............. +49.8951118888
+  Name Server.......... H4.NSTLD.COM
+  Name Server.......... J4.NSTLD.COM
+  Name Server.......... A4.NSTLD.COM
+  Name Server.......... F4.NSTLD.COM
+  Name Server.......... L4.NSTLD.COM
+  Name Server.......... G4.NSTLD.COM
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: santamarinadexinzo.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 17:33:21 EDT 2011
-Reason Code: IE

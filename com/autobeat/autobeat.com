@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SANTAMARINADEXINZO.COM
+   Domain Name: AUTOBEAT.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.NOMINALIA.COM
-   Name Server: DNS2.NOMINALIA.COM
+   Name Server: CNDNS1.CNPAPERS.NET
+   Name Server: CNDNS2.CNPAPERS.NET
    Status: clientTransferProhibited
-   Updated Date: 20-apr-2011
-   Creation Date: 23-jan-2006
-   Expiration Date: 23-jan-2012
+   Updated Date: 08-mar-2011
+   Creation Date: 17-mar-1999
+   Expiration Date: 17-mar-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:37:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:34:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: santamarinadexinzo.com
+Whois Query: autobeat.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 17:33:21 EDT 2011
+Date and Time of Query: Thu Sep 15 17:25:35 EDT 2011
 Reason Code: IE

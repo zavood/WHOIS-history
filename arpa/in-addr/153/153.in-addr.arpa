@@ -1,0 +1,24 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       153.in-addr.arpa
+
+organisation: Administered by APNIC
+
+nserver:      apnic1.dnsnode.net.
+nserver:      ns1.apnic.net.
+nserver:      ns2.lacnic.net.
+nserver:      ns3.apnic.net.
+nserver:      ns4.apnic.net.
+nserver:      sec1.authdns.ripe.net.
+nserver:      tinnie.arin.net.
+ds-rdata:     37147 5 1 3b1305e2e1d3f1fab70752dfda9d87aa44b35a56
+ds-rdata:     37147 5 2 4442ccc46180d85e05e0e0fde4a9b0316de364065af68252cbca158dcd87a3ee
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+changed:      2011-05-03
+source:       IANA
+

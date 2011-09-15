@@ -5,18 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SANTAMARINADEXINZO.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.NOMINALIA.COM
-   Name Server: DNS2.NOMINALIA.COM
+   Domain Name: VERTBAUDET.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: J4.NSTLD.COM
+   Name Server: K4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientTransferProhibited
-   Updated Date: 20-apr-2011
-   Creation Date: 23-jan-2006
-   Expiration Date: 23-jan-2012
+   Updated Date: 11-feb-2011
+   Creation Date: 02-apr-1997
+   Expiration Date: 03-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:37:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:30:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +56,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... vertbaudet.com
+  Creation Date........ 1997-04-02
+  Registration Date.... 2011-02-01
+  Expiry Date.......... 2012-04-04
+  Organisation Name.... SADAS
+  Organisation Address. 216 rue Winoc Chocqueel
+  Organisation Address.
+  Organisation Address. Tourcoing
+  Organisation Address. 59200
+  Organisation Address. NA
+  Organisation Address. FRANCE
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Departement Juridique
+  Admin Address........ 110 rue de Blanchemaille
+  Admin Address........
+  Admin Address........ Roubaix
+  Admin Address........ 59100
+  Admin Address........ NA
+  Admin Address........ FRANCE
+  Admin Email.......... departementjuridique@redcats.com
+  Admin Phone.......... +33.320696000
+  Admin Fax............ +33.320240337
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ VeriSign Sweden
+  Tech Address......... Box 7101
+  Tech Address.........
+  Tech Address......... Malmo
+  Tech Address......... 200 42
+  Tech Address......... Malmo
+  Tech Address......... SWEDEN
+  Tech Email........... domain@SE.EURO909.COM
+  Tech Phone........... +46.406919150
+  Tech Fax............. +46.406919159
+  Name Server.......... a4.nstld.com
+  Name Server.......... h4.nstld.com
+  Name Server.......... k4.nstld.com
+  Name Server.......... g4.nstld.com
+  Name Server.......... j4.nstld.com
+  Name Server.......... f4.nstld.com
+  Name Server.......... l4.nstld.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: santamarinadexinzo.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 17:33:21 EDT 2011
-Reason Code: IE
