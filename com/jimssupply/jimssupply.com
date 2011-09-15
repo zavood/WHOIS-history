@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INSURANCESEEKERONLINE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS2425.HOSTGATOR.COM
-   Name Server: NS2426.HOSTGATOR.COM
+   Domain Name: JIMSSUPPLY.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.ARRIVAL.NET
+   Name Server: NS2.ARRIVAL.NET
+   Name Server: NS3.ARRIVAL.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-mar-2011
-   Creation Date: 05-mar-2010
-   Expiration Date: 05-mar-2012
+   Updated Date: 02-sep-2011
+   Creation Date: 18-sep-1996
+   Expiration Date: 17-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:05:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:05:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +52,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
+
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: jimssupply.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 21:55:14 EDT 2011
+Reason Code: IE

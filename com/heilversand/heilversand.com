@@ -5,19 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INSURANCESEEKERONLINE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS2425.HOSTGATOR.COM
-   Name Server: NS2426.HOSTGATOR.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-mar-2011
-   Creation Date: 05-mar-2010
-   Expiration Date: 05-mar-2012
+   Domain Name: HEILVERSAND.COM
+   Registrar: 1ST ANTAGUS INTERNET GMBH
+   Whois Server: whois.antagus.de
+   Name Server: NS1.NS-SERVE.NET
+   Name Server: NS2.NS-SERVE.NET
+   Status: ok
+   Updated Date: 12-aug-2011
+   Creation Date: 14-aug-2003
+   Expiration Date: 14-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:05:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:04:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +50,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Whois Server Version 2.1 at whois.tmagnic.net
+
+Database contains ONLY .COM, .NET, .TV, .CC domains.
+
+Owner Contact:
+   Klaus Zweydinger
+   Dr. Annelie Weiske &amp; Klaus R. Zweydinger GbR
+   Im Herling 23
+   Lobbach, 74931, DE
+
+   Punycode Name:  heilversand.com
+   Unicode Name:   heilversand.com
+
+   Admin Contact
+      Klaus Zweydinger
+      Dr. Annelie Weiske &amp; Klaus R. Zweydinger GbR
+      zweydinger@zweydinger.de
+      Im Herling 23
+      Lobbach, 74931, DE
+      phone: +49.6226970561
+
+   Technical Contact
+      Klaus Zweydinger
+      Dr. Annelie Weiske &amp; Klaus R. Zweydinger GbR
+      zweydinger@zweydinger.de
+      Im Herling 23
+      Lobbach, 74931, DE
+      phone: +49.6226970561
+
+   Zone Contact
+      Klaus Zweydinger
+      Dr. Annelie Weiske &amp; Klaus R. Zweydinger GbR
+      zweydinger@zweydinger.de
+      Im Herling 23
+      Lobbach, 74931, DE
+      phone: +49.6226970561
+
+   Record expires on: 2012-08-14 00:00:00
+
+   Domain servers in listed order:
+
+      ns1.ns-serve.net 193.254.189.162
+      ns2.ns-serve.net 83.243.59.34
+
+
+

@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INSURANCESEEKERONLINE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS2425.HOSTGATOR.COM
-   Name Server: NS2426.HOSTGATOR.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-mar-2011
-   Creation Date: 05-mar-2010
-   Expiration Date: 05-mar-2012
+   Domain Name: HORSEHAIRFABRIC.COM
+   Registrar: CRONON AG
+   Whois Server: whois.tmagnic.net
+   Referral URL: http://www.cronon.net
+   Name Server: NS1.WEBMAILER.DE
+   Name Server: NS2.WEBMAILER.DE
+   Status: ok
+   Updated Date: 03-sep-2011
+   Creation Date: 02-sep-1999
+   Expiration Date: 02-sep-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:05:08 UTC &lt;&lt;&lt;
 
@@ -52,5 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Whois Server Version 2.1 at whois.tmagnic.net
+
+Database contains ONLY .COM, .NET, .TV, .CC domains.
+
+Owner Contact:
+
+   Emil Rotter OHG
+   Ahornallee 9
+   Berlin, D-14050, DE
+
+   Punycode Name:  horsehairfabric.com
+   Unicode Name:   horsehairfabric.com
+
+   Admin Contact
+      Detlef Luedtke
+      Emil Rotter OHG
+      emil-rotter@t-online.de
+      Ahornallee 9
+      Berlin, 14050, DE
+      phone: +49 303025151
+
+   Technical Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Zone Contact
+      Hostmaster Strato Rechenzentrum
+      Cronon AG Professional IT-Services
+      hostmaster@cronon-isp.net
+      Emmy-Noether-Str. 10
+      Karlsruhe, D-76131, DE
+      phone: +49 72166320305
+
+   Record expires on: 2012-09-02 11:32:50
+
+   Domain servers in listed order:
+
+      ns2.webmailer.de
+      ns1.webmailer.de
+
+
+

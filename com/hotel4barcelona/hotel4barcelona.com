@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INSURANCESEEKERONLINE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS2425.HOSTGATOR.COM
-   Name Server: NS2426.HOSTGATOR.COM
+   Domain Name: HOTEL4BARCELONA.COM
+   Registrar: PLANETDOMAIN PTY LTD.
+   Whois Server: whois.planetdomain.com
+   Referral URL: http://www.planetdomain.com
+   Name Server: DNS1.HOTELFRONTMARITIM.COM
+   Name Server: DNS2.HOTELFRONTMARITIM.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-mar-2011
-   Creation Date: 05-mar-2010
-   Expiration Date: 05-mar-2012
+   Updated Date: 16-mar-2011
+   Creation Date: 13-may-2009
+   Expiration Date: 13-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:05:08 UTC &lt;&lt;&lt;
 
@@ -52,5 +51,9 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Server is currently processing a high volume of requests.
+
+Please try again in a few seconds.
+
+

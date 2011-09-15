@@ -5,19 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: INSURANCESEEKERONLINE.COM
+   Domain Name: HALFORDSANNUALREPORT2008.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS2425.HOSTGATOR.COM
-   Name Server: NS2426.HOSTGATOR.COM
+   Name Server: DNS1.NETTICA.COM
+   Name Server: DNS2.NETTICA.COM
+   Name Server: DNS3.NETTICA.COM
+   Name Server: DNS4.NETTICA.COM
+   Name Server: DNS5.NETTICA.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-mar-2011
-   Creation Date: 05-mar-2010
-   Expiration Date: 05-mar-2012
+   Updated Date: 01-jun-2010
+   Creation Date: 30-jun-2008
+   Expiration Date: 30-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:05:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:03:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
