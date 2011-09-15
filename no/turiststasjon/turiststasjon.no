@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: TUR1203D-NORID
+Domain Name................: turiststasjon.no
+Domain Holder Handle.......: AL379O-NORID
+Registrar Handle...........: REG5-NORID
+Legal-c Handle.............: JL2169P-NORID
+Tech-c Handle..............: WAR19R-NORID
+Name Server Handle.........: NSDA68H-NORID
+Name Server Handle.........: NSDA81H-NORID
+
+Additional information:
+Created:         2001-02-28
+Last updated:    2011-03-02
+
+NORID Handle...............: AL379O-NORID
+Type.......................: organization
+Name.......................: ATLE LUNDE
+Id Type....................: organization_number
+Id Number..................: 980784444
+Registrar Handle...........: REG5-NORID
+Post Address...............: Postboks B
+Postal Code................: NO-6841
+Postal Area................: Skei
+Country....................: NO
+Phone Number...............: +47.57727114
+Email Address..............: jonny@lofnes.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

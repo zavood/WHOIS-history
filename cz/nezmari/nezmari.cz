@@ -1,0 +1,70 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 04:33:06 2011
+
+domain:       nezmari.cz
+registrant:   SB:JS1112-RIPE_XX
+admin-c:      JS1112-RIPE
+nsset:        NSS:WEB4CE
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   09.07.2001 16:31:00
+changed:      26.02.2008 20:09:03
+expire:       09.07.2014
+
+contact:      SB:JS1112-RIPE_XX
+name:         Jiri STUDIHRAD
+address:      JS1112-RIPE_XX
+address:      Ceske Budejovice
+address:      370 01
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      08.12.2008 18:12:42
+
+contact:      JS1112-RIPE
+name:         Jiri Studihrad
+address:      CZ
+phone:        +420 387311233
+fax-no:       +420 387311233
+e-mail:       info@internex.cz
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      19.11.2003 15:20:00
+
+nsset:        NSS:WEB4CE
+nserver:      ns1.web4ce.cz (93.190.48.250)
+nserver:      ns2.web4ce.cz (93.190.49.250)
+tech-c:       WEB4CE-TECH
+registrar:    REG-IGNUM
+created:      01.10.2007 19:16:02
+changed:      29.06.2008 14:19:08
+
+contact:      WEB4CE-TECH
+name:         Michal Kum&Aring;&frac34;&Atilde;&iexcl;k
+address:      Trnkovo n&Atilde;&iexcl;m&Auml;›st&Atilde;&shy; 1112/1
+address:      Praha 5
+address:      152 00
+address:      CZ
+e-mail:       dom-tech@web4ce.cz
+registrar:    REG-IGNUM
+created:      13.03.2007 13:15:00
+changed:      30.11.2007 09:47:07
+
+

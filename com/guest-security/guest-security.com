@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PITTSBURGPOSTGAZETTE.COM
+   Domain Name: GUEST-SECURITY.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.POST-GAZETTE.COM
-   Name Server: DNS2.POST-GAZETTE.COM
-   Name Server: DNS3.POST-GAZETTE.COM
+   Name Server: NS1.SKYNET.BE
+   Name Server: NS2.SKYNET.BE
+   Name Server: NS3.SKYNET.BE
+   Name Server: NS4.SKYNET.BE
    Status: clientTransferProhibited
-   Updated Date: 29-sep-2010
-   Creation Date: 15-oct-1998
-   Expiration Date: 14-oct-2011
+   Updated Date: 09-oct-2006
+   Creation Date: 05-feb-2002
+   Expiration Date: 05-feb-2013
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:31:11 UTC &lt;&lt;&lt;
 
@@ -68,7 +69,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: pittsburgpostgazette.com
+Whois Query: guest-security.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:22:12 EDT 2011
+Date and Time of Query: Wed Sep 14 22:26:53 EDT 2011
 Reason Code: IE

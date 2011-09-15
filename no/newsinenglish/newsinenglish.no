@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: NEW715D-NORID
+Domain Name................: newsinenglish.no
+Domain Holder Handle.......: NNFN4O-NORID
+Registrar Handle...........: REG5-NORID
+Legal-c Handle.............: NKB16P-NORID
+Tech-c Handle..............: WAR19R-NORID
+Name Server Handle.........: NSDA68H-NORID
+Name Server Handle.........: NSDA81H-NORID
+
+Additional information:
+Created:         2008-11-26
+Last updated:    2010-11-28
+
+NORID Handle...............: NNFN4O-NORID
+Type.......................: organization
+Name.......................: NINAS NEWS FROM NORWAY Nina Kay Berglund
+Id Type....................: organization_number
+Id Number..................: 993326828
+Registrar Handle...........: REG5-NORID
+Post Address...............: Lassons gate 10
+Postal Code................: NO-0270
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22838024
+Email Address..............: ninakay@online.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

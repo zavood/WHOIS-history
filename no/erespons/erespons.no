@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: ERE65D-NORID
+Domain Name................: erespons.no
+Domain Holder Handle.......: SPN14O-NORID
+Registrar Handle...........: REG406-NORID
+Legal-c Handle.............: PS2161P-NORID
+Tech-c Handle..............: IH27R-NORID
+Name Server Handle.........: DNSI145H-NORID
+Name Server Handle.........: DNSI152H-NORID
+Name Server Handle.........: DNSI74H-NORID
+
+Additional information:
+Created:         2005-05-18
+Last updated:    2011-04-26
+
+NORID Handle...............: SPN14O-NORID
+Type.......................: organization
+Name.......................: SANGVIK P&Aring; NETT
+Id Type....................: organization_number
+Id Number..................: 992050926
+Registrar Handle...........: REG406-NORID
+Post Address...............: Snarveien 26
+Postal Code................: NO-4870
+Postal Area................: FEVIK
+Country....................: NO
+Phone Number...............: +47.37254034
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

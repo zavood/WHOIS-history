@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PITTSBURGPOSTGAZETTE.COM
+   Domain Name: MARDIL.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.POST-GAZETTE.COM
-   Name Server: DNS2.POST-GAZETTE.COM
-   Name Server: DNS3.POST-GAZETTE.COM
+   Name Server: NS1.MYDYNDNS.ORG
+   Name Server: NS2.MYDYNDNS.ORG
+   Name Server: NS3.MYDYNDNS.ORG
+   Name Server: NS4.MYDYNDNS.ORG
+   Name Server: NS5.MYDYNDNS.ORG
    Status: clientTransferProhibited
-   Updated Date: 29-sep-2010
-   Creation Date: 15-oct-1998
-   Expiration Date: 14-oct-2011
+   Updated Date: 11-nov-2008
+   Creation Date: 24-dec-2002
+   Expiration Date: 24-dec-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:31:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:30:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +70,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: pittsburgpostgazette.com
+Whois Query: mardil.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:22:12 EDT 2011
+Date and Time of Query: Wed Sep 14 22:20:15 EDT 2011
 Reason Code: IE

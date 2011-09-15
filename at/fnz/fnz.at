@@ -1,0 +1,71 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         fnz.at
+registrant:     XSG7923973-NICAT
+admin-c:        FE7917029-NICAT
+tech-c:         CAPI1725059-NICAT
+nserver:        docks03.rzone.de
+remarks:        81.169.146.13
+nserver:        shades15.rzone.de
+remarks:        85.214.0.245
+changed:        20110329 10:30:07
+source:         AT-DOM
+
+personname:     Fuchs Elmar
+organization:   Xpert-Soft GmbH
+street address: Altestadt 11
+postal code:    40213
+city:           Duesseldorf
+country:        Germany
+phone:          +491709040111
+e-mail:         fuchs@xpert-soft.de
+nic-hdl:        XSG7923973-NICAT
+changed:        20110329 09:26:46
+source:         AT-DOM
+
+personname:     Fuchs Elmar
+organization:
+street address: Altestadt 11
+postal code:    40213
+city:           Duesseldorf
+country:        Germany
+phone:          +491709040111
+e-mail:         fuchs@xpert-soft.de
+nic-hdl:        FE7917029-NICAT
+changed:        20110323 16:28:27
+source:         AT-DOM
+
+personname:     Hostmaster Strato Rechenzentrum
+organization:   Cronon AG Professional IT-Services
+street address: Emmy-Noether-Str. 10
+postal code:    76131
+city:           Karlsruhe
+country:        Germany
+phone:          +4972166320307
+fax-no:         +4972166320303
+e-mail:         hostmaster@cronon-isp.net
+nic-hdl:        CAPI1725059-NICAT
+changed:        20110901 19:02:35
+source:         AT-DOM
+

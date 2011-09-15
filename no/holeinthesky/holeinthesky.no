@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: HOL1737D-NORID
+Domain Name................: holeinthesky.no
+Domain Holder Handle.......: ED317O-NORID
+Registrar Handle...........: REG406-NORID
+Legal-c Handle.............: ISP4P-NORID
+Tech-c Handle..............: IH27R-NORID
+Name Server Handle.........: DNSI145H-NORID
+Name Server Handle.........: DNSI152H-NORID
+Name Server Handle.........: DNSI74H-NORID
+
+Additional information:
+Created:         2001-07-23
+Last updated:    2011-06-24
+
+NORID Handle...............: ED317O-NORID
+Type.......................: organization
+Name.......................: ENSLAVEDUNION DA
+Id Type....................: organization_number
+Id Number..................: 983179045
+Registrar Handle...........: REG406-NORID
+Post Address...............: Torgny Segerstedtsvei 173
+Postal Code................: NO-5143
+Postal Area................: FYLLINGSDALEN
+Country....................: NO
+Mobile Phone Number........: +47.97061214
+Email Address..............: ivar@enslavedunion.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

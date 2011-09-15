@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PITTSBURGPOSTGAZETTE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.POST-GAZETTE.COM
-   Name Server: DNS2.POST-GAZETTE.COM
-   Name Server: DNS3.POST-GAZETTE.COM
-   Status: clientTransferProhibited
-   Updated Date: 29-sep-2010
-   Creation Date: 15-oct-1998
-   Expiration Date: 14-oct-2011
+   Domain Name: PRIONTESTING.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.PARKED.COM
+   Name Server: NS2.PARKED.COM
+   Status: ok
+   Updated Date: 14-jun-2011
+   Creation Date: 14-jun-2003
+   Expiration Date: 14-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:31:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:32:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+   D. Skinner
+   P. O. Box 973
+   Odessa, Florida  33556
+   US
 
-http://www.networksolutions.com/whois/index.jhtml
+   Registrar: DOTSTER
+   Domain Name: PRIONTESTING.COM
+      Created on: 14-JUN-03
+      Expires on: 15-JUN-12
+      Last Updated on: 14-JUN-11
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Administrative, Technical Contact:
+      Skinner, D.  skinnerdomains@dskinner.com
+      P. O. Box 973
+      Odessa, Florida  33556
+      US
+      727-967-1974
 
-Whois Query: pittsburgpostgazette.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:22:12 EDT 2011
-Reason Code: IE
+
+   Domain servers in listed order:
+      NS1.PARKED.COM
+      NS2.PARKED.COM
+
+End of Whois Information

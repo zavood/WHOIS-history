@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PITTSBURGPOSTGAZETTE.COM
+   Domain Name: PACIFICSPIRIT.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.POST-GAZETTE.COM
-   Name Server: DNS2.POST-GAZETTE.COM
-   Name Server: DNS3.POST-GAZETTE.COM
+   Name Server: DNS1.TEXTDRIVE.COM
+   Name Server: DNS2.TEXTDRIVE.COM
+   Name Server: DNS3.TEXTDRIVE.COM
+   Name Server: DNS4.TEXTDRIVE.COM
    Status: clientTransferProhibited
-   Updated Date: 29-sep-2010
-   Creation Date: 15-oct-1998
-   Expiration Date: 14-oct-2011
+   Updated Date: 11-apr-2011
+   Creation Date: 31-mar-1996
+   Expiration Date: 01-apr-2021
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:31:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:31:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +69,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: pittsburgpostgazette.com
+Whois Query: pacificspirit.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:22:12 EDT 2011
+Date and Time of Query: Wed Sep 14 22:22:30 EDT 2011
 Reason Code: IE
