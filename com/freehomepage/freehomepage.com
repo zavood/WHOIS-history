@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GICP.NET
-   Registrar: SHANGHAI BEST ORAY INFORMATION S&amp;T CO. LTD.
-   Whois Server: whois.oray.com
-   Referral URL: http://www.oray.com
-   Name Server: NS3.DNSORAY.NET
-   Name Server: NS4.DNSORAY.NET
-   Status: clientTransferProhibited
-   Updated Date: 24-jul-2011
-   Creation Date: 15-aug-2001
-   Expiration Date: 15-aug-2019
+   Domain Name: FREEHOMEPAGE.COM
+   Registrar: PLANETDOMAIN PTY LTD.
+   Whois Server: whois.planetdomain.com
+   Referral URL: http://www.planetdomain.com
+   Name Server: NS1.SJ1.NORTHSKY.COM
+   Name Server: NS2.SJ1.NORTHSKY.COM
+   Status: ok
+   Updated Date: 05-aug-2011
+   Creation Date: 21-aug-1997
+   Expiration Date: 20-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:34:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:36:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,4 +51,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Can't find specified domainname.
+
+The data contained in the database of Primus Telecommunications Pty Ltd
+(PlanetDomain/PrimusDomain) is made available to assist persons in
+obtaining information pertaining to the domain name registration
+record.  No guarantee of accuracy is offered or given.  By submitting a
+search request you agree to use the data for lawful purposes, and also
+agree NOT to
+1) use the data to allow, enable, or otherwise support any marketing
+activities, regardless of the medium used.  Such media includes but is
+not limited to e-mail, telephone, facsimile, postal mail, SMS, and
+wireless alerts.
+2) sell or redistribute the data except insofar as it has been
+incorporated by yourself into a value-added product or service that does
+not permit the extraction of a substantial portion of the bulk data from
+the value-added product or service for use by other parties.
+Primus Telecommunications Pty Ltd (PlanetDomain/PrimusDomain) reserves
+the right to forbid access to any party who abuses the terms and
+conditions herein or who is deemed to have queried the database
+excessively, and to change these terms and conditions at any time.
+
+   Domain Name: FREEHOMEPAGE.COM
+      Reseller..............: CosmoDomain
+      Created on............: 15 Jul 2002 08:41:00 EST
+      Expires on............: 20 Aug 2012 14:00:00 EST
+      Record last updated on: 6 Aug 2011 09:29:50 EST
+      Status................: ACTIVE
+
+
+   Owner, Administrative Contact, Technical Contact, Billing Contact:
+      Sergei Geler (ID00009428)
+      2636 Judah Street
+      San Francisco, CA 94122
+      United States
+      Phone: +1.4157591934
+      Email: info@freehomepage.com
+
+
+   Domain servers in listed order:
+
+      NS1.SJ1.NORTHSKY.COM
+      NS2.SJ1.NORTHSKY.COM
+

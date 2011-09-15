@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148954717-LROR
+Domain Name:OWOSSOSDASCHOOL.ORG
+Created On:24-Aug-2007 18:44:32 UTC
+Last Updated On:19-Aug-2011 15:48:24 UTC
+Expiration Date:24-Aug-2012 18:44:32 UTC
+Sponsoring Registrar:Spot Domain LLC dba Domainsite.com (R87-LROR)
+Status:OK
+Registrant ID:dsite-827936
+Registrant Name:Jon Arend
+Registrant Organization:Owosso Seventh-day Adventist Church
+Registrant Street1:1218 N Hickory St
+Registrant Street2:
+Registrant Street3:
+Registrant City:Owosso
+Registrant State/Province:MI
+Registrant Postal Code:48867
+Registrant Country:US
+Registrant Phone:+1.5177296336
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jon.arend@gmail.com
+Admin ID:dsite-827937
+Admin Name:Jon Arend
+Admin Organization:Owosso Seventh-day Adventist Church
+Admin Street1:1218 N Hickory St
+Admin Street2:
+Admin Street3:
+Admin City:Owosso
+Admin State/Province:MI
+Admin Postal Code:48867
+Admin Country:US
+Admin Phone:+1.5177296336
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jon.arend@gmail.com
+Tech ID:dsite-827938
+Tech Name:Jon Arend
+Tech Organization:Owosso Seventh-day Adventist Church
+Tech Street1:1218 N Hickory St
+Tech Street2:
+Tech Street3:
+Tech City:Owosso
+Tech State/Province:MI
+Tech Postal Code:48867
+Tech Country:US
+Tech Phone:+1.5177296336
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jon.arend@gmail.com
+Name Server:NS1.ADVENTISTSCHOOLCONNECT.COM
+Name Server:NS2.ADVENTISTSCHOOLCONNECT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

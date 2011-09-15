@@ -5,26 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NSTLD.NET
+   Domain Name: M9DNS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: A2.NSTLD.COM
-   Name Server: C2.NSTLD.COM
-   Name Server: D2.NSTLD.COM
-   Name Server: E2.NSTLD.COM
-   Name Server: F2.NSTLD.COM
-   Name Server: G2.NSTLD.COM
-   Name Server: H2.NSTLD.COM
-   Name Server: L2.NSTLD.COM
-   Status: serverDeleteProhibited
-   Status: serverTransferProhibited
-   Status: serverUpdateProhibited
-   Updated Date: 15-jun-2005
-   Creation Date: 05-dec-2000
-   Expiration Date: 05-dec-2014
+   Name Server: DNS1.M9DNS.COM
+   Name Server: DNS2.M9DNS.COM
+   Status: clientTransferProhibited
+   Updated Date: 09-jan-2008
+   Creation Date: 08-feb-2007
+   Expiration Date: 08-feb-2017
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:33:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:35:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -82,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about NSTLD.NET
-&lt;a href=&quot;http://www.aboutus.org/NSTLD.NET&quot;&gt;AboutUs: NSTLD.NET &lt;/a&gt;
+Visit AboutUs.org for more information about M9DNS.COM
+&lt;a href=&quot;http://www.aboutus.org/M9DNS.COM&quot;&gt;AboutUs: M9DNS.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-VERISIGN INC.
-   21345 Ridgetop Circle
-   Dulles, VA 20166
+Fragment
+   226 Fayetteville St
+   Raleigh, NC 27601
    US
 
-   Domain Name: NSTLD.NET
+   Domain Name: M9DNS.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -103,26 +95,20 @@ VERISIGN INC.
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      NOC, VeriSign		rocc@verisign.com
-      21345 Ridgetop Circle
-      Dulles, VA 20166
+      Fragment		brian@fragmentlabs.com
+      226 Fayetteville St
+      Raleigh, NC 27601
       US
-      703-948-4300 fax: 703-948-0717
+      919-341-2957
 
 
-   Record expires on 05-Dec-2014.
-   Record created on 05-Dec-2000.
-   Database last updated on 15-Sep-2011 00:23:36 EDT.
+   Record expires on 08-Feb-2017.
+   Record created on 08-Feb-2007.
+   Database last updated on 15-Sep-2011 00:24:58 EDT.
 
    Domain servers in listed order:
 
-   A2.NSTLD.COM                 192.5.6.31
-   C2.NSTLD.COM                 192.26.92.31
-   D2.NSTLD.COM                 192.31.80.31
-   E2.NSTLD.COM                 192.12.94.31
-   F2.NSTLD.COM                 192.35.51.31
-   G2.NSTLD.COM                 192.42.93.31
-   H2.NSTLD.COM                 192.54.112.31
-   L2.NSTLD.COM                 192.41.162.31
+   DNS1.M9DNS.COM               69.166.159.4
+   DNS2.M9DNS.COM               69.166.159.3
 
 

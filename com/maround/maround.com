@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GICP.NET
-   Registrar: SHANGHAI BEST ORAY INFORMATION S&amp;T CO. LTD.
-   Whois Server: whois.oray.com
-   Referral URL: http://www.oray.com
-   Name Server: NS3.DNSORAY.NET
-   Name Server: NS4.DNSORAY.NET
+   Domain Name: MAROUND.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: DNS0.HETEML.JP
+   Name Server: DNS1.HETEML.JP
    Status: clientTransferProhibited
-   Updated Date: 24-jul-2011
-   Creation Date: 15-aug-2001
-   Expiration Date: 15-aug-2019
+   Updated Date: 08-apr-2011
+   Creation Date: 06-jul-2007
+   Expiration Date: 06-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:34:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:35:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,4 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Can't find specified domainname.
+GMO Internet, Inc. whois server 2.0
+
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
+
+Domain Handle:
+Domain Name: maround.com
+Created On: 2007-07-06 16:47:00.0
+Last Updated On: 2011-04-09 01:45:39.0
+Expiration Date: 2012-07-06 07:46:59.0
+Status: ACTIVE
+Registrant Name: Whois Privacy Protection Service
+Registrant Organization: paperboy and co.
+Registrant Street1: 2-7-21 Tenjin Chuo-ku
+Registrant Street2: Tenjin Prime 8F
+Registrant City: Fukuoka-shi
+Registrant State: Fukuoka
+Registrant Postal Code: 8100001
+Registrant Country: JP
+Registrant Phone: 81-927137999
+Registrant Fax: 81-927137944
+Registrant Email: privacy@whoisprivacyprotection.info
+Admin Name: Whois Privacy Protection Service
+Admin Organization: paperboy and co.
+Admin Street1: 2-7-21 Tenjin Chuo-ku
+Admin Street2: Tenjin Prime 8F
+Admin City: Fukuoka-shi
+Admin State: Fukuoka
+Admin Postal Code: 8100001
+Admin Country: JP
+Admin Phone: 81-927137999
+Admin Fax: 81-927137944
+Admin Email: privacy@whoisprivacyprotection.info
+Billing Name: Whois Privacy Protection Service
+Billing Organization: paperboy and co.
+Billing Street1: 2-7-21 Tenjin Chuo-ku
+Billing Street2: Tenjin Prime 8F
+Billing City: Fukuoka-shi
+Billing State: Fukuoka
+Billing Postal Code: 8100001
+Billing Country: JP
+Billing Phone: 81-927137999
+Billing Fax: 81-927137944
+Billing Email: privacy@whoisprivacyprotection.info
+Tech Name: Whois Privacy Protection Service
+Tech Organization: paperboy and co.
+Tech Street1: 2-7-21 Tenjin Chuo-ku
+Tech Street2: Tenjin Prime 8F
+Tech City: Fukuoka-shi
+Tech State: Fukuoka
+Tech Postal Code: 8100001
+Tech Country: JP
+Tech Phone: 81-927137999
+Tech Fax: 81-927137944
+Tech Email: privacy@whoisprivacyprotection.info
+Name Server: dns0.heteml.jp
+Name Server: dns1.heteml.jp
+

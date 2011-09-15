@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160739963-LROR
+Domain Name:MONEYTRANSFERSOUTHAFRICA.ORG
+Created On:22-Nov-2010 19:26:00 UTC
+Last Updated On:22-Jan-2011 03:48:55 UTC
+Expiration Date:22-Nov-2011 19:26:00 UTC
+Sponsoring Registrar:Cronon AG (R110-LROR)
+Status:OK
+Registrant ID:GS830-ABC
+Registrant Name:South Africa cc Green Immigration
+Registrant Organization:Green Immigration South Africa
+Registrant Street1:Cape Town
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cape Town
+Registrant State/Province:ZA
+Registrant Postal Code:8001
+Registrant Country:ZA
+Registrant Phone:+27.844396018
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jess@immigrationsouthafrica.org
+Admin ID:GS829-ABC
+Admin Name:South Africa cc Green Immigration
+Admin Organization:Green Immigration South Africa
+Admin Street1:Cape Town
+Admin Street2:
+Admin Street3:
+Admin City:Cape Town
+Admin State/Province:ZA
+Admin Postal Code:8001
+Admin Country:ZA
+Admin Phone:+27.844396018
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jess@immigrationsouthafrica.org
+Tech ID:DA1-ABC
+Tech Name:Domain Administrator
+Tech Organization:Hetzner Pty Ltd
+Tech Street1:P O  Box 3450
+Tech Street2:
+Tech Street3:
+Tech City:Durbanville
+Tech State/Province:South Africa
+Tech Postal Code:7551
+Tech Country:ZA
+Tech Phone:+27.219702000
+Tech Phone Ext.:
+Tech FAX:+27.219702001
+Tech FAX Ext.:
+Tech Email:domains@hetzner.co.za
+Name Server:NS1.HOST-H.NET
+Name Server:NS2.HOST-H.NET
+Name Server:NS1.DNS-H.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,26 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NSTLD.NET
+   Domain Name: JLINET.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: A2.NSTLD.COM
-   Name Server: C2.NSTLD.COM
-   Name Server: D2.NSTLD.COM
-   Name Server: E2.NSTLD.COM
-   Name Server: F2.NSTLD.COM
-   Name Server: G2.NSTLD.COM
-   Name Server: H2.NSTLD.COM
-   Name Server: L2.NSTLD.COM
-   Status: serverDeleteProhibited
-   Status: serverTransferProhibited
-   Status: serverUpdateProhibited
-   Updated Date: 15-jun-2005
-   Creation Date: 05-dec-2000
-   Expiration Date: 05-dec-2014
+   Name Server: NS1.JLINET.COM
+   Name Server: NS1.NETAXS.COM
+   Status: clientTransferProhibited
+   Updated Date: 22-jan-2011
+   Creation Date: 23-jan-1996
+   Expiration Date: 24-jan-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:33:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:34:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -82,19 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about NSTLD.NET
-&lt;a href=&quot;http://www.aboutus.org/NSTLD.NET&quot;&gt;AboutUs: NSTLD.NET &lt;/a&gt;
+Visit AboutUs.org for more information about JLINET.COM
+&lt;a href=&quot;http://www.aboutus.org/JLINET.COM&quot;&gt;AboutUs: JLINET.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-VERISIGN INC.
-   21345 Ridgetop Circle
-   Dulles, VA 20166
+JLI Consulting, Inc.
+   1030 Conway Court
+   Warwick, PA 18974
    US
 
-   Domain Name: NSTLD.NET
+   Domain Name: JLINET.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -103,26 +95,21 @@ VERISIGN INC.
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      NOC, VeriSign		rocc@verisign.com
-      21345 Ridgetop Circle
-      Dulles, VA 20166
+      Israel, Judi		judi@JLINET.COM
+      JLI Consulting
+      1030 Conway Court
+      Warwick, PA 18974
       US
-      703-948-4300 fax: 703-948-0717
+      215-682-7017 fax: 215-682-7067
 
 
-   Record expires on 05-Dec-2014.
-   Record created on 05-Dec-2000.
-   Database last updated on 15-Sep-2011 00:23:36 EDT.
+   Record expires on 24-Jan-2014.
+   Record created on 23-Jan-1996.
+   Database last updated on 15-Sep-2011 00:24:39 EDT.
 
    Domain servers in listed order:
 
-   A2.NSTLD.COM                 192.5.6.31
-   C2.NSTLD.COM                 192.26.92.31
-   D2.NSTLD.COM                 192.31.80.31
-   E2.NSTLD.COM                 192.12.94.31
-   F2.NSTLD.COM                 192.35.51.31
-   G2.NSTLD.COM                 192.42.93.31
-   H2.NSTLD.COM                 192.54.112.31
-   L2.NSTLD.COM                 192.41.162.31
+   NS1.JLINET.COM               206.245.177.130
+   NS1.NETAXS.COM
 
 

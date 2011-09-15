@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105568573-LROR
+Domain Name:SEOQ.ORG
+Created On:14-Jan-2005 11:52:07 UTC
+Last Updated On:29-Dec-2010 14:23:13 UTC
+Expiration Date:14-Jan-2012 11:52:07 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:C0B92238C236158C
+Registrant Name:SOCIEDAD ESPANOLA DE ONCOLOGIA QUIRURGICA
+Registrant Organization:(SEOQ)
+Registrant Street1:C/ Villanueva, 11
+Registrant Street2:
+Registrant Street3:
+Registrant City:MADRID
+Registrant State/Province:MADRID
+Registrant Postal Code:28011
+Registrant Country:ES
+Registrant Phone:+34.3434961114018
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:defrancisco@usuarios.retecal.es
+Admin ID:de8c84ada5f
+Admin Name:Arantxa  Rodriguez Villarroel
+Admin Organization:MNEMMIX IP, S.L.
+Admin Street1:Jose Luis de Goyoaga, 32. Ofic
+Admin Street2:
+Admin Street3:
+Admin City:ERANDIO
+Admin State/Province:VIZCAYA
+Admin Postal Code:48950
+Admin Country:ES
+Admin Phone:+34.987170048
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:arantxa@mnemmixip.com
+Tech ID:de8c84ada5f
+Tech Name:Arantxa  Rodriguez Villarroel
+Tech Organization:MNEMMIX IP, S.L.
+Tech Street1:Jose Luis de Goyoaga, 32. Ofic
+Tech Street2:
+Tech Street3:
+Tech City:ERANDIO
+Tech State/Province:VIZCAYA
+Tech Postal Code:48950
+Tech Country:ES
+Tech Phone:+34.987170048
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:arantxa@mnemmixip.com
+Name Server:NS1.DNS-SERVICIOS.COM
+Name Server:NS2.DNS-SERVICIOS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
