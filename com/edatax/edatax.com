@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 08-feb-2003
    Expiration Date: 08-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:52:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:00:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,24 +52,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-We are unable to process your request at this time.
-The whois information is unavailable for this domain for one of the following reasons:
+The results below are provided by Namescout.com.
+(whois.Namescout.com)
 
-(1) Too many simulataneous connections from your host;
-(2) The domain you requested is not with this Registrar;
-(3) You have exceeded your query limit;
-(4) Your IP address has been restricted;
-(5) Whois data is not available for this domain - check back in 48 hours when our server is updated;
-(6) Access has been restricted to ensure operational stability;
-(7) A system error has occurred;
-(8) The time limit for your request has expired;
-(9) The IP address provided is not valid or the host specified by the IP address does not exist;
-(10) There is an error in what you have inputed or requested;
-(11) An unknown error has occurred;
-(12) The domain is not currently registered;
-(13) The domain you requested contains invalid characters;
-(14) The domain you requested is too long;
-(15) The domain you requested begins or ends with a dash;
-(16) The domain you requested is a third or fourth level domain;
-(17) You did not specify a domain name.
+By using Namescout.com's WHOIS database, you confirm that you understand
+the following, and you agree to be bound by the terms of usage and
+limitations of warranty contained herein.
+
+Although the data contained in Namescout.com's WHOIS database is believed
+by the company to be reliable, it is provided &quot;as is&quot;. Namescout.com
+provides no guarantee or warranty regarding its accuracy and will not
+be held liable for any damages resulting from any inaccurate
+information that may be included in the database. Namescout.com's sole
+purpose for providing this information is to assist you in acquiring
+information about domain name registration records. Any use of this
+data for any other purpose is expressly prohibited without the prior
+written permission of Namescout.com. By submitting a query to Namescout.com,
+you agree to the terms contained herein and in particular, you agree
+not to use this data to allow, enable, or otherwise make possible,
+distribution or collection of this data, in part or in its entirety,
+for any purpose, such as the transmission of unsolicited advertising
+and solicitations of any kind, including spam. You further agree not to
+use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial
+purposes.
+
+Domain: edatax.com
+
+  Date Registered: 02/08/03
+    Date Modified: 01/01/11
+      Expiry Date: 02/08/12
+      	     DNS1: ns207.canadianwebhosting.com
+      	     DNS2: ns208.canadianwebhosting.com
+
+  Registrant
+
+                   MBR Services INc
+                   Monty Loree
+                   1102 Angus St
+                   Regina, sk (CA)
+                   S4T1Y5
+
+  Administrative Contact
+
+                   HomeGrown Advertising Inc
+                   Monty Loree
+                   4812 - 4th Ave
+                   Regina, sk (CA)
+                   S4T 0J2
+                   montyloree@hotmail.com
+                   +1.3069495423
+                   +1.8883236950
+
+  Technical Contact
+
+                   HomeGrown Advertising Inc
+                   Monty Loree
+                   4812 - 4th Ave
+                   Regina, sk (CA)
+                   S4T 0J2
+                   montyloree@hotmail.com
+                   +1.3069495423
+                   +1.8883236950
+
+        Registrar: Namescout.com
+
+
+Register your domain now at www.Namescout.com
 

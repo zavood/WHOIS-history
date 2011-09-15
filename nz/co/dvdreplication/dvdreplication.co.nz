@@ -1,0 +1,68 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-15T14:01:10+12:00
+domain_name: dvdreplication.co.nz
+query_status: 200 Active
+domain_dateregistered: 2006-08-21T16:18:27+12:00
+domain_datebilleduntil: 2013-08-21T16:18:27+12:00
+domain_datelastmodified: 2011-08-16T08:45:04+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: iSERVE
+registrar_address1: P O Box 47-020
+registrar_city: Wellington
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 939-8502
+registrar_fax: +64 4 939-8501
+registrar_email: soa@iserve.co.nz
+%
+registrant_contact_name: Allan Hall
+registrant_contact_address1: PO Box 8036
+registrant_contact_city: New Plymouth
+registrant_contact_province: Taranaki
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 6 7588017
+registrant_contact_fax: +64 6 7588016
+registrant_contact_email: al@earthfirst.co.nz
+%
+admin_contact_name: Allan Hall
+admin_contact_address1: P O Box 8036
+admin_contact_city: New Plymouth
+admin_contact_province: Taranaki
+admin_contact_postalcode: 4342
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 6 7511163
+admin_contact_fax: +64 6 7511162
+admin_contact_email: al@earthfirst.co.nz
+%
+technical_contact_name: Allan Hall
+technical_contact_address1: PO BOX 8036
+technical_contact_city: New Plymouth
+technical_contact_province: Taranaki
+technical_contact_postalcode: 4342
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 4 7511163
+technical_contact_fax: +64 4 7511162
+technical_contact_email: allan.hall@infotec.co.nz
+%
+ns_name_01: ns1.iserve.net.nz
+ns_name_02: ns2.iserve.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

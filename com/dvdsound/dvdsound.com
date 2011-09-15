@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DPKHARAZMI.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS1.IRANHOST.COM
-   Name Server: NS2.IRANHOST.COM
-   Status: clientUpdateProhibited
-   Updated Date: 29-may-2010
-   Creation Date: 21-may-2003
-   Expiration Date: 21-may-2015
+   Domain Name: DVDSOUND.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: BUY.INTERNETTRAFFIC.COM
+   Name Server: SELL.INTERNETTRAFFIC.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 06-jun-2011
+   Creation Date: 23-jan-2011
+   Expiration Date: 23-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:00:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:01:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,65 +52,35 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
 
+Domain dvdsound.com:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 89520660552521
+  89520660552521-014b8b@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
 
-Registrant:
-	 No. 6, Soheili St. f640006ff6b341ca613b872f04955820-847101@owner.gandi.net +98.218834092
-	 No. 6, Soheili St.
-	 158753667
-	 United Arab Emirates,United Arab Emirates,- Tehran
+Administrative contact:
+Technical contact:
+Billing contact:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 89520660552521
+  89520660552521-014b8b@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+  Phone: Phone: +61.730070090
+  Fax: Phone: +61.730070091
 
+Record dates:
+  Record created on: 2011-01-24 04:09:30 UTC
+  Record modified on: 2011-06-06 04:54:08 UTC
+  Record expires on: 2012-01-24 UTC
 
-Domain Name:dpkharazmi.com
-Record last updated at 2010-06-28 17:00:36
-Record created on 2003/5/21
-Record expired on 2015/5/21
+Nameservers:
+  sell.internettraffic.com:
+  buy.internettraffic.com:
 
+Note: Automated collection of data from this database is strictly prohibited.
 
-Domain servers in listed order:
-	 ns1.iranhost.com 	 ns2.iranhost.com
-
-Administrator:
-	 15315
-	 Iran (Islamic Rep. of)
-Iran (Islamic Rep. of),
--
- 15315
-
-	 name:(Mohammad ZendehDel)
-mail:(02ec5f81d64c51d869eec833c7c32ccf-mz145@contact.gandi.net) +98.2188826611
-	 No. 6 -Soheili Alley- Ghaem Magham St.
-Technical Contactor:
-	 -
-	 -
--,
--
- -
-
-	 name:(-)
-mail:(-) -
-	 -
-Billing Contactor:
-	 -
-	 -
--,
--
- -
-
-	 name:(-)
-mail:(-) -
-	 -

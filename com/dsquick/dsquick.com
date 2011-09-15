@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DPKHARAZMI.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS1.IRANHOST.COM
-   Name Server: NS2.IRANHOST.COM
-   Status: clientUpdateProhibited
-   Updated Date: 29-may-2010
-   Creation Date: 21-may-2003
-   Expiration Date: 21-may-2015
+   Domain Name: DSQUICK.COM
+   Registrar: DOTNAME KOREA CORP
+   Whois Server: whois.dotname.co.kr
+   Referral URL: http://www.dotname.co.kr
+   Name Server: NS1.MIREENE.COM
+   Name Server: NS2.MIREENE.COM
+   Status: ok
+   Updated Date: 05-apr-2011
+   Creation Date: 02-apr-2010
+   Expiration Date: 02-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:00:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:00:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,65 +51,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
+domain
+	dsquick.com
+Registrar	              :Dotname Korea Corp.
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+Registrant Contact Information
+	company       :shindaesung
+	name          :shindaesung shin
+	e-mail        :shindewsung@naver.com
+	address1      :Seryu-dong, Gwonseon-gu, Suwon-si, Gyeonggi-do, 44
+	address2      :1
+	city          :Gyeonggi-do
+	zipcode       :441110
+	country       :kr
+	phone         :+82.011995310
+	fax           :
 
+Admin Contact Information
+	name          :shindaesung shin
+	e-mail        :shindewsung@naver.com
+	address1      :Seryu-dong, Gwonseon-gu, Suwon-si, Gyeonggi-do, 44
+	address2      :1
+	city          :Gyeonggi-do
+	zipcode       :441110
+	country       :kr
+	phone         :+82.011995310
+	fax           :
 
-Registrant:
-	 No. 6, Soheili St. f640006ff6b341ca613b872f04955820-847101@owner.gandi.net +98.218834092
-	 No. 6, Soheili St.
-	 158753667
-	 United Arab Emirates,United Arab Emirates,- Tehran
+Tech Contact Information
+	name          :
+	e-mail        :
+	address1      :
+	address2      :
+	city          :
+	zipcode       :
+	country       :
+	phone         :
+	fax           :
 
-
-Domain Name:dpkharazmi.com
-Record last updated at 2010-06-28 17:00:36
-Record created on 2003/5/21
-Record expired on 2015/5/21
-
-
-Domain servers in listed order:
-	 ns1.iranhost.com 	 ns2.iranhost.com
-
-Administrator:
-	 15315
-	 Iran (Islamic Rep. of)
-Iran (Islamic Rep. of),
--
- 15315
-
-	 name:(Mohammad ZendehDel)
-mail:(02ec5f81d64c51d869eec833c7c32ccf-mz145@contact.gandi.net) +98.2188826611
-	 No. 6 -Soheili Alley- Ghaem Magham St.
-Technical Contactor:
-	 -
-	 -
--,
--
- -
-
-	 name:(-)
-mail:(-) -
-	 -
-Billing Contactor:
-	 -
-	 -
--,
--
- -
-
-	 name:(-)
-mail:(-) -
-	 -
+Name Server Information
+	ns1.mireene.com
+	ns2.mireene.com
+	&lt;BR&gt;Created on 2010-04-03&lt;BR&gt;Updated on 2011-04-06&lt;BR&gt;Expires on 2012-04-02&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;BR&gt;
