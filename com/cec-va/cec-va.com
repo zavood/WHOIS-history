@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ISTOCKANALYST.COM
+   Domain Name: CEC-VA.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
+   Name Server: NS43.DOMAINCONTROL.COM
+   Name Server: NS44.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-feb-2011
-   Creation Date: 08-nov-2005
-   Expiration Date: 08-nov-2020
+   Updated Date: 16-nov-2010
+   Creation Date: 15-nov-2005
+   Expiration Date: 15-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:27:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:27:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Fig Tree Solutions, LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ISTOCKANALYST.COM
+   Domain Name: CEC-VA.COM
 
    Domain servers in listed order:
-      NS1.DATAPIPE.NET
-      NS2.DATAPIPE.NET
+      NS43.DOMAINCONTROL.COM
+      NS44.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ISTOCKANALYST.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=CEC-VA.COM

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D124460005-LROR
+Domain Name:BLOOMINGTONHISTORICALSOCIETY.ORG
+Created On:14-Jun-2006 01:39:40 UTC
+Last Updated On:05-May-2011 18:44:38 UTC
+Expiration Date:14-Jun-2013 01:39:40 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32160730
+Registrant Name:Bloomington Historical Society
+Registrant Organization:Bloomington Historical Society
+Registrant Street1:10206 Penn Ave S
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bloomington
+Registrant State/Province:Minnesota
+Registrant Postal Code:55431
+Registrant Country:US
+Registrant Phone:+1.9529488897
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:president@bloomingtonhistoricalsociety.org
+Admin ID:CR32160732
+Admin Name:Bloomington Historical Society
+Admin Organization:Bloomington Historical Society
+Admin Street1:10206 Penn Ave S
+Admin Street2:
+Admin Street3:
+Admin City:Bloomington
+Admin State/Province:Minnesota
+Admin Postal Code:55431
+Admin Country:US
+Admin Phone:+1.9529488897
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:president@bloomingtonhistoricalsociety.org
+Tech ID:CR32160731
+Tech Name:Gregory Lind
+Tech Organization:Bloomington Historical Society
+Tech Street1:10206 Penn Ave S
+Tech Street2:
+Tech Street3:
+Tech City:Bloomington
+Tech State/Province:Minnesota
+Tech Postal Code:55431
+Tech Country:US
+Tech Phone:+1.9524409133
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webmaster@bloomingtonhistoricalsociety.org
+Name Server:NS43.DOMAINCONTROL.COM
+Name Server:NS44.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

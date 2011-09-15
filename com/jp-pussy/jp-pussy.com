@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ISTOCKANALYST.COM
+   Domain Name: JP-PUSSY.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
+   Name Server: NS21.DOMAINCONTROL.COM
+   Name Server: NS22.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-feb-2011
-   Creation Date: 08-nov-2005
-   Expiration Date: 08-nov-2020
+   Updated Date: 22-aug-2011
+   Creation Date: 02-sep-2005
+   Expiration Date: 02-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:27:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:27:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   NetPromo
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ISTOCKANALYST.COM
+   Domain Name: JP-PUSSY.COM
 
    Domain servers in listed order:
-      NS1.DATAPIPE.NET
-      NS2.DATAPIPE.NET
+      NS21.DOMAINCONTROL.COM
+      NS22.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ISTOCKANALYST.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=JP-PUSSY.COM

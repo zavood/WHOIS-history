@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104464395-LROR
+Domain Name:CBCBINGHAMTON.ORG
+Created On:26-May-2004 18:26:57 UTC
+Last Updated On:30-Aug-2011 00:25:12 UTC
+Expiration Date:26-May-2012 18:26:57 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_16776508
+Registrant Name:Justin Hoffman
+Registrant Organization:Central Baptist Church
+Registrant Street1:1606 State Rt 12
+Registrant Street2:
+Registrant Street3:
+Registrant City:Binghamton
+Registrant State/Province:NY
+Registrant Postal Code:13901
+Registrant Country:US
+Registrant Phone:+00.6076485662
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dyoung26@stny.rr.com
+Admin ID:DI_16776508
+Admin Name:Justin Hoffman
+Admin Organization:Central Baptist Church
+Admin Street1:1606 State Rt 12
+Admin Street2:
+Admin Street3:
+Admin City:Binghamton
+Admin State/Province:NY
+Admin Postal Code:13901
+Admin Country:US
+Admin Phone:+00.6076485662
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dyoung26@stny.rr.com
+Tech ID:DI_16776508
+Tech Name:Justin Hoffman
+Tech Organization:Central Baptist Church
+Tech Street1:1606 State Rt 12
+Tech Street2:
+Tech Street3:
+Tech City:Binghamton
+Tech State/Province:NY
+Tech Postal Code:13901
+Tech Country:US
+Tech Phone:+00.6076485662
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dyoung26@stny.rr.com
+Name Server:NS1.HOST-CARE.COM
+Name Server:NS2.HOST-CARE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

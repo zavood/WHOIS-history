@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157870257-LROR
+Domain Name:AIMRAW.ORG
+Created On:22-Dec-2009 19:53:40 UTC
+Last Updated On:08-Oct-2010 23:32:50 UTC
+Expiration Date:22-Dec-2011 19:53:40 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ONLC-3955602-4
+Registrant Name:Newageindian
+Registrant Organization:Association for International Mens Rights and Welfare
+Registrant Street1:aaaaaaaaaaaaaaaa
+Registrant Street2:aaaaaaaaaaaaaaaa
+Registrant Street3:
+Registrant City:Bangalore
+Registrant State/Province:Karnataka
+Registrant Postal Code:0000000
+Registrant Country:IN
+Registrant Phone:+00.0000000000
+Registrant Phone Ext.:1111
+Registrant FAX:+00.0000000000
+Registrant FAX Ext.:
+Registrant Email:newageindian@gmail.com
+Admin ID:ONLC-3955602-1
+Admin Name:Newageindian
+Admin Organization:Association for International Mens Rights and Welfare
+Admin Street1:aaaaaaaaaaaaaaaa
+Admin Street2:aaaaaaaaaaaaaaaa
+Admin Street3:
+Admin City:Bangalore
+Admin State/Province:Karnataka
+Admin Postal Code:0000000
+Admin Country:IN
+Admin Phone:+00.0000000000
+Admin Phone Ext.:1111
+Admin FAX:+00.0000000000
+Admin FAX Ext.:
+Admin Email:newageindian@gmail.com
+Tech ID:ONLC-3955602-2
+Tech Name:Newageindian
+Tech Organization:Association for International Mens Rights and Welfare
+Tech Street1:aaaaaaaaaaaaaaaa
+Tech Street2:aaaaaaaaaaaaaaaa
+Tech Street3:
+Tech City:Bangalore
+Tech State/Province:Karnataka
+Tech Postal Code:0000000
+Tech Country:IN
+Tech Phone:+00.0000000000
+Tech Phone Ext.:1111
+Tech FAX:+00.0000000000
+Tech FAX Ext.:
+Tech Email:newageindian@gmail.com
+Name Server:NS585.WEBSITEWELCOME.COM
+Name Server:NS586.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

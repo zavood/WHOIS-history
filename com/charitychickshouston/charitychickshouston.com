@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ISTOCKANALYST.COM
+   Domain Name: CHARITYCHICKSHOUSTON.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DATAPIPE.NET
-   Name Server: NS2.DATAPIPE.NET
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 16-feb-2011
-   Creation Date: 08-nov-2005
-   Expiration Date: 08-nov-2020
+   Updated Date: 28-sep-2010
+   Creation Date: 11-nov-2008
+   Expiration Date: 11-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:27:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:27:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Tam'ra Powell
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ISTOCKANALYST.COM
+   Domain Name: CHARITYCHICKSHOUSTON.COM
 
    Domain servers in listed order:
-      NS1.DATAPIPE.NET
-      NS2.DATAPIPE.NET
+      NS1.BLUEHOST.COM
+      NS2.BLUEHOST.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ISTOCKANALYST.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=CHARITYCHICKSHOUSTON.COM
