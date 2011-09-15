@@ -5,36 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-YAHOO.COM.ZZZZZZZ.GET.ONE.MILLION.DOLLARS.AT.WWW.UNIMUNDI.COM
-YAHOO.COM.ZZZZZZ.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-YAHOO.COM.ZZZZZ.GET.LAID.AT.WWW.SWINGINGCOMMUNITY.COM
-YAHOO.COM.ZOMBIED.AND.HACKED.BY.WWW.WEB-HACK.COM
-YAHOO.COM.VN
-YAHOO.COM.VIRGINCHASSIS.COM
-YAHOO.COM.TWIXTEARS.COM
-YAHOO.COM.TW
-YAHOO.COM.SINGERPAT.COM
-YAHOO.COM.SG
-YAHOO.COM.MX
-YAHOO.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-YAHOO.COM.JTNELECTRIC.COM
-YAHOO.COM.IS.N0T.AS.1337.AS.SEARCH.GULLI.COM
-YAHOO.COM.HK
-YAHOO.COM.ELPOV.COM
-YAHOO.COM.EATINGFORJOY.NET
-YAHOO.COM.DUVALMANIA.COM
-YAHOO.COM.DALLARIVA.COM
-YAHOO.COM.CN
-YAHOO.COM.CHRISIMAMURAPHOTOWORKS.COM
-YAHOO.COM.BR
-YAHOO.COM.BGPETERSON.COM
-YAHOO.COM.AU
-YAHOO.COM.ACCUTAXSERVICES.COM
-YAHOO.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: CFYINGZI.COM
+   Registrar: XIN NET TECHNOLOGY CORPORATION
+   Whois Server: whois.paycenter.com.cn
+   Referral URL: http://www.xinnet.com
+   Name Server: NS.XINNET.CN
+   Name Server: NS.XINNETDNS.COM
+   Status: ok
+   Updated Date: 12-mar-2011
+   Creation Date: 12-mar-2011
+   Expiration Date: 12-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:23:13 UTC &lt;&lt;&lt;
 
@@ -71,3 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in Paycenter's WHOIS database is provided by Paycenter
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Paycenter does not guarantee its accuracy.  By submitting
+a WHOIS query, you agree that you will use this Data only
+for lawful purposes and that,
+under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission
+of mass unsolicited, commercial advertising or solicitations
+via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that
+apply to Paycenter or its systems.
+Paycenter reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
+
+Domain Name      : cfyingzi.com
+PunnyCode        : cfyingzi.com
+Creation Date    : 2011-03-12 13:30:09
+Updated Date     : 2011-03-12 13:30:09
+Expiration Date  : 2012-03-12 13:30:09
+
+
+Registrant:
+  Organization   : ??
+  Name           : ??
+  Address        : ?????????
+  City           : ???
+  Province/State : Liaoning
+  Country        : CN
+  Postal Code    : 112400
+
+Administrative Contact:
+  Name           : ??
+  Organization   : ??
+  Address        : ?????????
+  City           : ???
+  Province/State : Liaoning
+  Country        : ???
+  Postal Code    : 112400
+  Phone Number   : 86--15041043444
+  Fax            : 86--123123123
+  Email          : 3448897@qq.com
+
+Technical Contact:
+  Name           : ??
+  Organization   : ??
+  Address        : ?????????
+  City           : ???
+  Province/State : Liaoning
+  Country        : ???
+  Postal Code    : 112400
+  Phone Number   : 86--15041043444
+  Fax            : 86--123123123
+  Email          : 3448897@qq.com
+
+Billing Contact:
+  Name           : ??
+  Organization   : ??
+  Address        : ?????????
+  City           : ???
+  Province/State : Liaoning
+  Country        : ???
+  Postal Code    : 112400
+  Phone Number   : 86--15041043444
+  Fax            : 86--123123123
+  Email          : 3448897@qq.com
