@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D140346552-LROR
+Domain Name:CHEONA.ORG
+Created On:24-Feb-2007 09:11:41 UTC
+Last Updated On:25-Feb-2011 08:50:11 UTC
+Expiration Date:24-Feb-2013 09:11:41 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_6724967
+Registrant Name:Chang-hee Han
+Registrant Organization:S.L.I.M.
+Registrant Street1:Munhyeongri Opoeup Gwangjusi
+Registrant Street2:Shinyoung provance 107603
+Registrant Street3:
+Registrant City:Gyeonggi-do
+Registrant State/Province:seoul Teukbyeolsi
+Registrant Postal Code:464-894
+Registrant Country:KR
+Registrant Phone:+82.0317691596
+Registrant Phone Ext.:
+Registrant FAX:+82.025662378
+Registrant FAX Ext.:
+Registrant Email:whangsw@lamitek.biz
+Admin ID:DI_6724967
+Admin Name:Chang-hee Han
+Admin Organization:S.L.I.M.
+Admin Street1:Munhyeongri Opoeup Gwangjusi
+Admin Street2:Shinyoung provance 107603
+Admin Street3:
+Admin City:Gyeonggi-do
+Admin State/Province:seoul Teukbyeolsi
+Admin Postal Code:464-894
+Admin Country:KR
+Admin Phone:+82.0317691596
+Admin Phone Ext.:
+Admin FAX:+82.025662378
+Admin FAX Ext.:
+Admin Email:whangsw@lamitek.biz
+Tech ID:DI_6724967
+Tech Name:Chang-hee Han
+Tech Organization:S.L.I.M.
+Tech Street1:Munhyeongri Opoeup Gwangjusi
+Tech Street2:Shinyoung provance 107603
+Tech Street3:
+Tech City:Gyeonggi-do
+Tech State/Province:seoul Teukbyeolsi
+Tech Postal Code:464-894
+Tech Country:KR
+Tech Phone:+82.0317691596
+Tech Phone Ext.:
+Tech FAX:+82.025662378
+Tech FAX Ext.:
+Tech Email:whangsw@lamitek.biz
+Name Server:NS.80PORT.COM
+Name Server:NS1.80PORT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

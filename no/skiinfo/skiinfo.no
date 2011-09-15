@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: SKI2320D-NORID
+Domain Name................: skiinfo.no
+Domain Holder Handle.......: SA7951O-NORID
+Registrar Handle...........: REG429-NORID
+Legal-c Handle.............: SEW48P-NORID
+Tech-c Handle..............: SK3R-NORID
+Name Server Handle.........: DNSS148H-NORID
+Name Server Handle.........: DNSS150H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: SA7951O-NORID
+Type.......................: organization
+Name.......................: SKIINFO AS
+Id Type....................: organization_number
+Id Number..................: 976036859
+Registrar Handle...........: REG429-NORID
+Post Address...............: PB 2090 Gr&uuml;nerl&oslash;kka
+Postal Code................: NO-0505
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22114010
+Fax Number.................: +47.23229111
+Email Address..............: domains@skiinfo.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

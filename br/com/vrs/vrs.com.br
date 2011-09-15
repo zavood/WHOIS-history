@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 13:48:41 (BRT -03:00)
+
+domain:      vrs.com.br
+owner:       Via Rede Sul Servi&ccedil;o de Informatica Ltda
+ownerid:     001.439.616/0001-26
+responsible: Vivian Carvalho de Godoi
+country:     BR
+owner-c:     VIRSU
+admin-c:     VIRSU
+tech-c:      VIRSU
+billing-c:   VIRSU
+nserver:     ns1.vrs.com.br 189.90.138.58
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.vrs.com.br 189.90.138.59
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     19960722 #12234
+expires:     20120722
+changed:     20110630
+status:      published
+
+nic-hdl-br:  VIRSU
+person:      Via Rede Sul
+e-mail:      alexandre@compexpress.com.br
+created:     20081024
+changed:     20081024
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
