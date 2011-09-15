@@ -1,0 +1,45 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 01:46:08 (BRT -03:00)
+
+domain:      saoluis.br
+owner:       AJEC-Associa&ccedil;&atilde;o Jaboticabalense de Educa&ccedil;&atilde;o e Cult
+ownerid:     045.337.425/0001-29
+responsible: Alexandra Martins da Cruz
+country:     BR
+owner-c:     CATBR4
+admin-c:     CATBR4
+tech-c:      CATBR4
+billing-c:   CATBR4
+nserver:     ns1.locaweb.com.br
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     ns2.locaweb.com.br
+nsstat:      20110911 AA
+nslastaa:    20110911
+nserver:     ns3.locaweb.com.br
+nsstat:      20110911 AA
+nslastaa:    20110911
+created:     19980417 #92289
+changed:     20100109
+status:      published
+
+nic-hdl-br:  CATBR4
+person:      Carlos Tib&eacute;rio Bressani
+e-mail:      carlostb@saoluis.br
+created:     20090331
+changed:     20110705
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

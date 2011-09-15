@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D69500614-LROR
+Domain Name:FIREBIRDSQL.ORG
+Created On:19-Apr-2001 11:42:51 UTC
+Last Updated On:11-Mar-2011 18:23:26 UTC
+Expiration Date:19-Apr-2012 11:42:51 UTC
+Sponsoring Registrar:UK2 Group Ltd. (R123-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:SG_9450
+Registrant Name:Firebird Project
+Registrant Organization:Not Applicable
+Registrant Street1:15 Oakhampton Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Maitland
+Registrant State/Province:NSW
+Registrant Postal Code:2261
+Registrant Country:AU
+Registrant Phone:+61.249335361
+Registrant Phone Ext.:
+Registrant FAX:+00.0000000
+Registrant FAX Ext.:
+Registrant Email:helebor@tpg.com.au
+Admin ID:SG_9450
+Admin Name:Firebird Project
+Admin Organization:Not Applicable
+Admin Street1:15 Oakhampton Rd
+Admin Street2:
+Admin Street3:
+Admin City:Maitland
+Admin State/Province:NSW
+Admin Postal Code:2261
+Admin Country:AU
+Admin Phone:+61.249335361
+Admin Phone Ext.:
+Admin FAX:+00.0000000
+Admin FAX Ext.:
+Admin Email:helebor@tpg.com.au
+Tech ID:SG_9450
+Tech Name:Firebird Project
+Tech Organization:Not Applicable
+Tech Street1:15 Oakhampton Rd
+Tech Street2:
+Tech Street3:
+Tech City:Maitland
+Tech State/Province:NSW
+Tech Postal Code:2261
+Tech Country:AU
+Tech Phone:+61.249335361
+Tech Phone Ext.:
+Tech FAX:+00.0000000
+Tech FAX Ext.:
+Tech Email:helebor@tpg.com.au
+Name Server:US2.MERCURY.ORDERBOX-DNS.COM
+Name Server:US2.VENUS.ORDERBOX-DNS.COM
+Name Server:US2.EARTH.ORDERBOX-DNS.COM
+Name Server:US2.MARS.ORDERBOX-DNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

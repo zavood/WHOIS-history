@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D132023062-LROR
+Domain Name:WISCONSINTURFGRASSASSOCIATION.ORG
+Created On:02-Nov-2006 16:05:41 UTC
+Last Updated On:15-Oct-2007 18:21:46 UTC
+Expiration Date:02-Nov-2012 16:05:41 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:41237106-NSIV
+Registrant Name:Wisconsin Turfgrass Association
+Registrant Organization:Wisconsin Turfgrass Association
+Registrant Street1:ATTN insert domain name here
+Registrant Street2:care of Network Solutions
+Registrant Street3:
+Registrant City:Drums
+Registrant State/Province:PA
+Registrant Postal Code:18222
+Registrant Country:US
+Registrant Phone:+1.5707088780
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:d75qd95d6f3@networksolutionsprivateregistration.com
+Admin ID:41237106-NSIV
+Admin Name:Wisconsin Turfgrass Association
+Admin Organization:Wisconsin Turfgrass Association
+Admin Street1:ATTN insert domain name here
+Admin Street2:care of Network Solutions
+Admin Street3:
+Admin City:Drums
+Admin State/Province:PA
+Admin Postal Code:18222
+Admin Country:US
+Admin Phone:+1.5707088780
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:d75qd95d6f3@networksolutionsprivateregistration.com
+Tech ID:41237106-NSIV
+Tech Name:Wisconsin Turfgrass Association
+Tech Organization:Wisconsin Turfgrass Association
+Tech Street1:ATTN insert domain name here
+Tech Street2:care of Network Solutions
+Tech Street3:
+Tech City:Drums
+Tech State/Province:PA
+Tech Postal Code:18222
+Tech Country:US
+Tech Phone:+1.5707088780
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:d75qd95d6f3@networksolutionsprivateregistration.com
+Name Server:NS17.WORLDNIC.COM
+Name Server:NS18.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

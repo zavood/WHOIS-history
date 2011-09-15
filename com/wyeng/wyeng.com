@@ -5,12 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-CNET.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-CNET.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: WYENG.COM
+   Registrar: YESNIC CO. LTD.
+   Whois Server: whois.yesnic.com
+   Referral URL: http://www.yesnic.com
+   Name Server: NS1.KOREAIDC.COM
+   Name Server: NS2.KOREAIDC.COM
+   Status: clientTransferProhibited
+   Updated Date: 16-may-2008
+   Creation Date: 18-dec-2000
+   Expiration Date: 18-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:43:20 UTC &lt;&lt;&lt;
 
@@ -47,3 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+--------------------------------------------------------------------------------------
+Queried Domain Information as follows
+--------------------------------------------------------------------------------------
+
+Domain Name : wyeng.com
+
+::Registrant::
+Name : whangyongeng
+Email : web@wyeng.com
+Address : Tonglim-dong, Puk-gu, Kwangju 885-6
+Zipcode : 500180
+Nation : KR
+Tel : +82-62-522-5298
+Fax : +82-62-513-8472
+
+::Administrative Contact::
+Name : whangmanpil
+Email : web@wyeng.com
+Address : Tonglim-dong, Puk-gu, Kwangju  885-6
+Zipcode : 500180
+Nation : KR
+Tel : +82-62-522-5298
+Fax : +82-62-513-8472
+
+::Technical Contact::
+Name : whangmanpil
+Email : web@wyeng.com
+Address : Tonglim-dong, Puk-gu, Kwangju 885-6
+Zipcode : 500180
+Nation : KR
+Tel : +82-62-522-5298
+Fax : +82-62-513-8472
+
+::Name Servers::
+ns1.koreaidc.com
+ns2.koreaidc.com
+
+::Dates &amp; Status::
+Created Date : 2000/12/18 01:19:13 EST
+Updated Date : 2007/06/11 19:18:59 EST
+Valid Date : 2011/12/18 01:19:13 EST
+Status ACTIVE
+
+
+&lt;a href='http://whoisdomain.kr' target='_blank'&gt;&lt;img src='http://whoisdomain.kr/img/whois_domain_info.gif' border='0'&gt;&lt;/a&gt;
