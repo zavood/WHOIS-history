@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; ifrance.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ifrance.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    IS909-FRNIC
+admin-c:     DP1539-FRNIC
+tech-c:      IR86-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5950-FRNIC
+registrar:   IEUROP
+anniversary: 31/05
+created:     31/05/2006
+last-update: 03/10/2006
+source:      FRNIC
+
+ns-list:     NSL5950-FRNIC
+nserver:     dns1.ifrance.com
+nserver:     dns2.ifrance.com
+source:      FRNIC
+
+registrar:   IEUROP
+type:        Isp Option 2
+address:     137 Boulevard Voltaire
+address:     PARIS
+country:     FR
+phone:       +33 1 72 76 42 72
+fax-no:      +33 1 70 71 50 64
+e-mail:      icom@ieurop.net
+website:     http://www.ifrancepro.com
+anonymous:   NO
+registered:  17/01/2006
+source:      FRNIC
+
+nic-hdl:     DP1539-FRNIC
+type:        PERSON
+contact:     Diana Palova
+address:     Ieurop Sas
+address:     B.P. 40130
+address:     75422 Paris
+country:     FR
+phone:       +33 1 72 76 42 72
+fax-no:      +33 1 70 71 50 64
+e-mail:      support@ieuropa.com
+changed:     11/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IS909-FRNIC
+type:        ORGANIZATION
+contact:     IEUROP SAS
+address:     137, boulevard voltaire
+address:     75011 Paris
+country:     FR
+phone:       +33 1 72 76 42 72
+fax-no:      +33 1 70 71 50 64
+e-mail:      dns@corp.ifrance.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     IR86-FRNIC
+type:        ROLE
+contact:     IEUROP ROLE
+address:     IEUROP SAS
+address:     137, boulevard Voltaire
+address:     75011 Paris
+country:     FR
+phone:       +33 1 72 76 42 72
+e-mail:      afnic@ieurop.net
+admin-c:     PG2373-FRNIC
+tech-c:      PG2373-FRNIC
+changed:     23/04/2007 afnic@ieurop.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

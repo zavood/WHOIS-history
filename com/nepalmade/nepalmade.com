@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEPAINTEDWORD.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.CHICKLINGOSIGNS.COM
-   Name Server: NS2.CHICKLINGOSIGNS.COM
-   Status: clientTransferProhibited
-   Updated Date: 07-aug-2011
-   Creation Date: 16-aug-1997
-   Expiration Date: 15-aug-2012
+   Domain Name: NEPALMADE.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS5.IXWEBHOSTING.COM
+   Name Server: NS6.IXWEBHOSTING.COM
+   Status: ok
+   Updated Date: 03-oct-2010
+   Creation Date: 12-oct-2004
+   Expiration Date: 12-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:17:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:17:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,67 +51,77 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-=-=-=-=
-Visit AboutUs.org for more information about thepaintedword.com
-&lt;a href=&quot;http://www.aboutus.org/thepaintedword.com&quot;&gt;AboutUs: thepaintedword.com&lt;/a&gt;
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
-Domain name: thepaintedword.com
-
-Registrant Contact:
-   Tomisser, James
-    ()
-
-   Fax:
-   19111 108th Ave NE
-   Bothell, WA 98011
-   US
-
-Administrative Contact:
-
-   James Tomisser (nancyc@michaelbelba.com)
-   +1.4254710944
-   Fax:
-   19111 108th Ave NE
-   Bothell, WA 98011
-   US
-
-Technical Contact:
-
-   James Tomisser (nancyc@michaelbelba.com)
-   +1.4254710944
-   Fax:
-   19111 108th Ave NE
-   Bothell, WA 98011
-   US
-
-Status: Locked
-
-Name Servers:
-   NS1.CHICKLINGOSIGNS.COM
-   NS2.CHICKLINGOSIGNS.COM
-
-Creation date: 16 Aug 1997 04:00:00
-Expiration date: 15 Aug 2012 04:00:00
+Registrant:
+	 Saroj Lama customercare@nepalmade.com +977.15542435
+	 The khukuri House
+	 Kathmandu
+	 Kathmandu,KTM,NP 00000
 
 
+Domain Name:nepalmade.com
+Record last updated at 2010-10-03 01:42:18
+Record created on 2004/10/12
+Record expired on 2011/10/12
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
-=-=-=-=
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone. The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.
 
-We reserve the right to modify these terms at any time. By submitting
-this query, you agree to abide by these terms.
-Version 6.3 4/3/2002
+Domain servers in listed order:
+	 ns5.ixwebhosting.com 	 ns6.ixwebhosting.com
+
+Administrator:
+	 name:(Saroj Lama)
+	Email:(customercare@nepalmade.com) tel-- +977.15542435
+	 The khukuri House
+	 Kathmandu
+\r
+t Kathmandu
+KTM,
+NP
+
+ zipcode:00000
+
+Technical Contactor:
+	 name:(MountDigit TechnologMountDigit Technology (P.) Ltd.)
+	Email:(support@mountdigit.com) tel-- +977.15000799
+	 MountDigit Technology (P.) Ltd.
+	 Lalitpur
+\r
+t Jawalakhel
+Lalitpur,
+NP
+
+ zipcode:21977
+
+Billing Contactor:
+	 name:(MountDigit TechnologMountDigit Technology (P.) Ltd.)
+	Email:(support@mountdigit.com) tel-- +977.15000799
+	 MountDigit Technology (P.) Ltd.
+	 Lalitpur
+\r
+t Jawalakhel
+Lalitpur,
+NP
+
+ zipcode:21977
+
+
+Registration Service Provider:
+	name: MountDigit Technology (P.) Ltd.
+	tel: +977.15000799
+ 	fax: +977.15000738
+ 	web:http://www.mountdigit.com

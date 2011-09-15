@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEPAINTEDWORD.COM
+   Domain Name: CHICKLINGO.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
    Name Server: NS1.CHICKLINGOSIGNS.COM
    Name Server: NS2.CHICKLINGOSIGNS.COM
    Status: clientTransferProhibited
-   Updated Date: 07-aug-2011
-   Creation Date: 16-aug-1997
-   Expiration Date: 15-aug-2012
+   Updated Date: 13-jun-2011
+   Creation Date: 29-jul-2005
+   Expiration Date: 29-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:17:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:18:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,49 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about thepaintedword.com
-&lt;a href=&quot;http://www.aboutus.org/thepaintedword.com&quot;&gt;AboutUs: thepaintedword.com&lt;/a&gt;
+Visit AboutUs.org for more information about chicklingo.com
+&lt;a href=&quot;http://www.aboutus.org/chicklingo.com&quot;&gt;AboutUs: chicklingo.com&lt;/a&gt;
 
 
-Domain name: thepaintedword.com
+Domain name: chicklingo.com
 
 Registrant Contact:
-   Tomisser, James
-    ()
+   Chick Lingo, LLC
+   Jan Tomiosser ()
 
    Fax:
-   19111 108th Ave NE
-   Bothell, WA 98011
+   3164 55th Ave. South
+   Auburn, WA 98001
    US
 
 Administrative Contact:
-
-   James Tomisser (nancyc@michaelbelba.com)
-   +1.4254710944
-   Fax:
-   19111 108th Ave NE
-   Bothell, WA 98011
+   MichaelBelba.com
+   Nancy Collins (nancyc@michaelbelba.com)
+   +1.5097837197
+   Fax: 1.
+   6855 W. Clearwater Ave.
+   Suite A101-290
+   Kennewick, WA 99336
    US
 
 Technical Contact:
-
-   James Tomisser (nancyc@michaelbelba.com)
-   +1.4254710944
-   Fax:
-   19111 108th Ave NE
-   Bothell, WA 98011
+   MichaelBelba.com
+   Nancy Collins (nancyc@michaelbelba.com)
+   +1.5097837197
+   Fax: 1.
+   6855 W. Clearwater Ave.
+   Suite A101-290
+   Kennewick, WA 99336
    US
 
 Status: Locked
 
 Name Servers:
-   NS1.CHICKLINGOSIGNS.COM
-   NS2.CHICKLINGOSIGNS.COM
+   ns1.chicklingosigns.com
+   ns2.chicklingosigns.com
 
-Creation date: 16 Aug 1997 04:00:00
-Expiration date: 15 Aug 2012 04:00:00
+Creation date: 29 Jul 2005 20:19:00
+Expiration date: 29 Jul 2012 20:19:00
 
 
 

@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEPAINTEDWORD.COM
+   Domain Name: MYTOUCHTUNES.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.CHICKLINGOSIGNS.COM
-   Name Server: NS2.CHICKLINGOSIGNS.COM
+   Name Server: DNS1.VIDEOTRON.NET
+   Name Server: NS1.TOUCHTUNES.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 07-aug-2011
-   Creation Date: 16-aug-1997
-   Expiration Date: 15-aug-2012
+   Status: clientUpdateProhibited
+   Updated Date: 15-mar-2010
+   Creation Date: 26-apr-2005
+   Expiration Date: 26-apr-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:17:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:16:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +54,45 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about thepaintedword.com
-&lt;a href=&quot;http://www.aboutus.org/thepaintedword.com&quot;&gt;AboutUs: thepaintedword.com&lt;/a&gt;
 
 
-Domain name: thepaintedword.com
+Domain name: mytouchtunes.com
 
 Registrant Contact:
-   Tomisser, James
-    ()
+   touchtunes Inc.
+   Ludwig Gamache ()
 
    Fax:
-   19111 108th Ave NE
-   Bothell, WA 98011
-   US
+   400 Ste-Croix, Suite 200E
+   St-Laurent, QUEBEC H4N 3L4
+   CA
 
 Administrative Contact:
-
-   James Tomisser (nancyc@michaelbelba.com)
-   +1.4254710944
-   Fax:
-   19111 108th Ave NE
-   Bothell, WA 98011
-   US
+   touchtunes Inc.
+   Ludwig Gamache (its@touchtunes.com)
+   +1.5147626244
+   Fax: +1.5147626483
+   400 Ste-Croix, Suite 200E
+   St-Laurent, QUEBEC H4N 3L4
+   CA
 
 Technical Contact:
-
-   James Tomisser (nancyc@michaelbelba.com)
-   +1.4254710944
-   Fax:
-   19111 108th Ave NE
-   Bothell, WA 98011
-   US
+   Touchtunes
+   Andrej Todosic (its@touchtunes.com)
+   514.762.6244
+   Fax: 514.762.6483
+   400 ave St-Croix, Suite 200E
+   Montreal, Quebec H4N 3L4
+   CA
 
 Status: Locked
 
 Name Servers:
-   NS1.CHICKLINGOSIGNS.COM
-   NS2.CHICKLINGOSIGNS.COM
+   dns1.videotron.net
+   ns1.touchtunes.com
 
-Creation date: 16 Aug 1997 04:00:00
-Expiration date: 15 Aug 2012 04:00:00
+Creation date: 26 Apr 2005 15:56:12
+Expiration date: 26 Apr 2014 19:56:00
 
 
 

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104993069-LROR
+Domain Name:MPAGES.ORG
+Created On:13-Oct-2004 00:27:35 UTC
+Last Updated On:03-Dec-2009 15:29:39 UTC
+Expiration Date:13-Oct-2011 00:27:35 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31477151
+Registrant Name:Michael Simons
+Registrant Street1:3004 W 14th Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Vancouver
+Registrant State/Province:British Columbia
+Registrant Postal Code:V6K 2X8
+Registrant Country:CA
+Registrant Phone:+1.6047326766
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mpsimons@shaw.ca
+Admin ID:CR31477153
+Admin Name:Michael Simons
+Admin Street1:3004 W 14th Ave
+Admin Street2:
+Admin Street3:
+Admin City:Vancouver
+Admin State/Province:British Columbia
+Admin Postal Code:V6K 2X8
+Admin Country:CA
+Admin Phone:+1.6047326766
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mpsimons@shaw.ca
+Tech ID:CR31477152
+Tech Name:Michael Simons
+Tech Street1:3004 W 14th Ave
+Tech Street2:
+Tech Street3:
+Tech City:Vancouver
+Tech State/Province:British Columbia
+Tech Postal Code:V6K 2X8
+Tech Country:CA
+Tech Phone:+1.6047326766
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mpsimons@shaw.ca
+Name Server:NS01.DOMAINCONTROL.COM
+Name Server:NS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

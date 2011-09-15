@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156033694-LROR
+Domain Name:GETMYWIFEBACK.ORG
+Created On:30-Apr-2009 23:47:56 UTC
+Last Updated On:08-May-2011 05:16:20 UTC
+Expiration Date:30-Apr-2012 23:47:56 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:06ff4a79cba2163c
+Registrant Name:Mihaye  Yoon
+Registrant Organization:n/a
+Registrant Street1:165 Hoomoku st
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kahului
+Registrant State/Province:S
+Registrant Postal Code:96732
+Registrant Country:US
+Registrant Phone:+1.808
+Registrant Phone Ext.:
+Registrant FAX:+1.5555555555
+Registrant FAX Ext.:
+Registrant Email:alohaoahu1978@yahoo.com
+Admin ID:40ccc306035ecca7
+Admin Name:Yoon
+Admin Organization:n/a
+Admin Street1:165 Hoomoku st
+Admin Street2:
+Admin Street3:
+Admin City:Kahului
+Admin State/Province:S
+Admin Postal Code:96732
+Admin Country:US
+Admin Phone:+1.808
+Admin Phone Ext.:
+Admin FAX:+1.5555555555
+Admin FAX Ext.:
+Admin Email:alohaoahu1978@yahoo.com
+Tech ID:06ff4a79cba2163c
+Tech Name:Mihaye  Yoon
+Tech Organization:n/a
+Tech Street1:165 Hoomoku st
+Tech Street2:
+Tech Street3:
+Tech City:Kahului
+Tech State/Province:S
+Tech Postal Code:96732
+Tech Country:US
+Tech Phone:+1.808
+Tech Phone Ext.:
+Tech FAX:+1.5555555555
+Tech FAX Ext.:
+Tech Email:alohaoahu1978@yahoo.com
+Name Server:NS1.BLUEHOST.COM
+Name Server:NS2.BLUEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

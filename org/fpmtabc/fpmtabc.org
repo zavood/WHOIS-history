@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107403663-LROR
+Domain Name:FPMTABC.ORG
+Created On:07-Sep-2005 04:54:09 UTC
+Last Updated On:10-May-2010 07:20:21 UTC
+Expiration Date:07-Sep-2012 04:54:09 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuI2QVPpO1PolsUO
+Registrant Name:Swee Kim Ng
+Registrant Organization:Amitabha Buddhist Centre
+Registrant Street1:No. 3, Lorong 15 Geylang
+Registrant Street2:
+Registrant Street3:
+Registrant City:Singapore
+Registrant State/Province:SIN
+Registrant Postal Code:388597
+Registrant Country:SG
+Registrant Phone:+6.567458547
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:omahum3x@gmail.com
+Admin ID:tuTsJccdmI9dxl3T
+Admin Name:Swee Kim Ng
+Admin Organization:Amitabha Buddhist Centre
+Admin Street1:No. 3, Lorong 15 Geylang
+Admin Street2:
+Admin Street3:
+Admin City:Singapore
+Admin State/Province:SIN
+Admin Postal Code:388597
+Admin Country:SG
+Admin Phone:+6.567458547
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:omahum3x@gmail.com
+Tech ID:tuJrv0h339nUDM3Y
+Tech Name:Swee Kim Ng
+Tech Organization:Amitabha Buddhist Centre
+Tech Street1:No. 3, Lorong 15 Geylang
+Tech Street2:
+Tech Street3:
+Tech City:Singapore
+Tech State/Province:SIN
+Tech Postal Code:388597
+Tech Country:SG
+Tech Phone:+6.567458547
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:omahum3x@gmail.com
+Name Server:NS5.IXWEBHOSTING.COM
+Name Server:NS6.IXWEBHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

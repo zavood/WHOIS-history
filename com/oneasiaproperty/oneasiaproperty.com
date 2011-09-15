@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THEPAINTEDWORD.COM
+   Domain Name: ONEASIAPROPERTY.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.CHICKLINGOSIGNS.COM
-   Name Server: NS2.CHICKLINGOSIGNS.COM
+   Name Server: NS83.MSCHOSTING.COM
+   Name Server: NS84.MSCHOSTING.COM
    Status: clientTransferProhibited
-   Updated Date: 07-aug-2011
-   Creation Date: 16-aug-1997
-   Expiration Date: 15-aug-2012
+   Updated Date: 01-jun-2011
+   Creation Date: 25-jul-2008
+   Expiration Date: 25-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:17:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:17:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about thepaintedword.com
-&lt;a href=&quot;http://www.aboutus.org/thepaintedword.com&quot;&gt;AboutUs: thepaintedword.com&lt;/a&gt;
+Visit AboutUs.org for more information about oneasiaproperty.com
+&lt;a href=&quot;http://www.aboutus.org/oneasiaproperty.com&quot;&gt;AboutUs: oneasiaproperty.com&lt;/a&gt;
 
 
-Domain name: thepaintedword.com
+Domain name: oneasiaproperty.com
 
 Registrant Contact:
-   Tomisser, James
-    ()
+   One Asia Properties
+   Siow Yu Wen ()
 
    Fax:
-   19111 108th Ave NE
-   Bothell, WA 98011
-   US
+   No. 87B- Jalan Molek 3-10
+   Taman Molek
+   Johor Bahru, Johor 81100
+   MY
 
 Administrative Contact:
-
-   James Tomisser (nancyc@michaelbelba.com)
-   +1.4254710944
+   One Asia Properties
+   Siow Yu Wen (oneasia.jb@gmail.com)
+   0127090950
    Fax:
-   19111 108th Ave NE
-   Bothell, WA 98011
-   US
+   No. 87B- Jalan Molek 3-10
+   Taman Molek
+   Johor Bahru, Johor 81100
+   MY
 
 Technical Contact:
-
-   James Tomisser (nancyc@michaelbelba.com)
-   +1.4254710944
+   One Asia Properties
+   Siow Yu Wen (oneasia.jb@gmail.com)
+   0127090950
    Fax:
-   19111 108th Ave NE
-   Bothell, WA 98011
-   US
+   No. 87B- Jalan Molek 3-10
+   Taman Molek
+   Johor Bahru, Johor 81100
+   MY
 
 Status: Locked
 
 Name Servers:
-   NS1.CHICKLINGOSIGNS.COM
-   NS2.CHICKLINGOSIGNS.COM
+   ns83.mschosting.com
+   ns84.mschosting.com
 
-Creation date: 16 Aug 1997 04:00:00
-Expiration date: 15 Aug 2012 04:00:00
+Creation date: 25 Jul 2008 04:59:59
+Expiration date: 25 Jul 2012 04:59:59
 
 
 

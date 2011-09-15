@@ -1,0 +1,144 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: FREENODE.NET
+   Registrar: GANDI SAS
+   Whois Server: whois.gandi.net
+   Referral URL: http://www.gandi.net
+   Name Server: AUTH1.NS.SARGASSO.NET
+   Name Server: AUTH2.NS.SARGASSO.NET
+   Name Server: AUTH3.NS.SARGASSO.NET
+   Name Server: NS.BOFH.IT
+   Name Server: NS0.TUNK.NET
+   Name Server: NS4086.FREENODE.NET
+   Status: clientTransferProhibited
+   Updated Date: 07-mar-2011
+   Creation Date: 13-jul-2002
+   Expiration Date: 13-jul-2018
+
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:18:09 UTC &lt;&lt;&lt;
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' (&quot;VeriSign&quot;) Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+--- #YAML:1.0
+# GANDI Registrar whois database for .COM, .NET, .ORG., .INFO, .BIZ, .NAME
+#
+# Access and use restricted pursuant to French law on personal data.
+# Copy of whole or part of the data without permission from GANDI
+# is strictly forbidden.
+# The sole owner of a domain is the entity described in the relevant
+# 'domain:' record.
+# Domain ownership disputes should be settled using ICANN's Uniform Dispute
+# Resolution Policy: http://www.icann.org/udrp/udrp.htm
+# For inquiries about 'by policy' protection, please check directly
+# with the appropriate registry (Eurid, AFNIC)
+#
+# Acces et utilisation soumis a la legislation francaise sur
+# les donnees personnelles.
+# Copie de tout ou partie de la base interdite sans autorisation de GANDI.
+# Le possesseur d'un domaine est l'entite decrite dans
+# l'enregistrement 'domain:' correspondant.
+# Un desaccord sur la possession d'un nom de domaine peut etre resolu
+# en suivant la Uniform Dispute Resolution Policy de l'ICANN:
+# http://www.icann.org/udrp/udrp.htm
+# Pour obtenir les informations en status 'Protected by policy', contactez
+# directement le registre concerne (Eurid, AFNIC)
+#
+# 2011-09-15 08:18:45 CEST
+
+domain: freenode.net
+reg_created: 2002-07-13 09:15:07
+expires: 2018-07-13 13:15:07
+created: 2002-07-13 15:15:08
+changed: 2011-03-08 02:40:08
+transfer-prohibited: yes
+ns0: ns4086.freenode.net 140.211.167.99
+ns1: ns.bofh.it
+ns2: ns0.tunk.net
+ns3: auth1.ns.sargasso.net
+ns4: auth2.ns.sargasso.net
+ns5: auth3.ns.sargasso.net
+owner-c:
+  nic-hdl: PPC21-GANDI
+  owner-name: Peer-Directed Projects Center
+  organisation: Peer-Directed Projects Center
+  person: Christel Dahlskjaer
+  address: &quot;Peer-Directed Projects Center Ltd\r\n2nd floor\r\n145-157 St John Street&quot;
+  zipcode: EC1V 4PY
+  city: London
+  country: United Kingdom
+  phone: +44.7796673550
+  fax: ''
+  email: a4403568bae5c68b87d336a184cdc48c-532179@contact.gandi.net
+  lastupdated: 2011-01-14 08:14:52
+admin-c:
+  nic-hdl: CD3450-GANDI
+  organisation: Peer-Directed Projects Center Ltd
+  person: Christel Dahlskjaer
+  address: '2nd floor 145-157 St John Street London, EC1V 4PY'
+  zipcode: EC1V 4PY
+  city: London
+  country: United Kingdom
+  phone: +44.2070433815
+  fax: ''
+  email: aa9b0e69c5071e435dee78060de22a8d-848423@contact.gandi.net
+  lastupdated: 2011-01-14 11:01:13
+tech-c:
+  nic-hdl: CD3450-GANDI
+  organisation: Peer-Directed Projects Center Ltd
+  person: Christel Dahlskjaer
+  address: '2nd floor 145-157 St John Street London, EC1V 4PY'
+  zipcode: EC1V 4PY
+  city: London
+  country: United Kingdom
+  phone: +44.2070433815
+  fax: ''
+  email: aa9b0e69c5071e435dee78060de22a8d-848423@contact.gandi.net
+  lastupdated: 2011-01-14 11:01:13
+bill-c:
+  nic-hdl: CD3450-GANDI
+  organisation: Peer-Directed Projects Center Ltd
+  person: Christel Dahlskjaer
+  address: '2nd floor 145-157 St John Street London, EC1V 4PY'
+  zipcode: EC1V 4PY
+  city: London
+  country: United Kingdom
+  phone: +44.2070433815
+  fax: ''
+  email: aa9b0e69c5071e435dee78060de22a8d-848423@contact.gandi.net
+  lastupdated: 2011-01-14 11:01:13
