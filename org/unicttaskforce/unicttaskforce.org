@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157441346-LROR
+Domain Name:UNICTTASKFORCE.ORG
+Created On:26-Oct-2009 14:30:41 UTC
+Last Updated On:06-Apr-2011 21:13:06 UTC
+Expiration Date:26-Oct-2011 14:30:41 UTC
+Sponsoring Registrar:Allearthdomains.com LLC (R1480-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:1159_2460582
+Registrant Name:Paul Thomas Anderson
+Registrant Street1:3 Shelter Hill Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Oakville
+Registrant State/Province:CT
+Registrant Postal Code:06779
+Registrant Country:US
+Registrant Phone:+1.5036087929
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:paulthomasanderson@frosy.net
+Admin ID:1159_2460582
+Admin Name:Paul Thomas Anderson
+Admin Street1:3 Shelter Hill Ave
+Admin Street2:
+Admin Street3:
+Admin City:Oakville
+Admin State/Province:CT
+Admin Postal Code:06779
+Admin Country:US
+Admin Phone:+1.5036087929
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:paulthomasanderson@frosy.net
+Tech ID:1159_2460582
+Tech Name:Paul Thomas Anderson
+Tech Street1:3 Shelter Hill Ave
+Tech Street2:
+Tech Street3:
+Tech City:Oakville
+Tech State/Province:CT
+Tech Postal Code:06779
+Tech Country:US
+Tech Phone:+1.5036087929
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:paulthomasanderson@frosy.net
+Name Server:NS3.MONIKERDNS.NET
+Name Server:NS1.MONIKERDNS.NET
+Name Server:NS4.MONIKERDNS.NET
+Name Server:NS2.MONIKERDNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: NUDECAMS18.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1051.WEBSITEWELCOME.COM
-   Name Server: NS1052.WEBSITEWELCOME.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: WIZARDLOCKSMITH.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: NS51.DOMAINCONTROL.COM
+   Name Server: NS52.DOMAINCONTROL.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 27-mar-2011
-   Creation Date: 26-mar-2009
-   Expiration Date: 26-mar-2012
+   Updated Date: 19-mar-2010
+   Creation Date: 26-jan-2009
+   Expiration Date: 26-jan-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:16:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:23:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,36 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+Poulos, Teddy
+   A-Access Lock &amp; Key
+   2836 Bent Oak Dr.
+   Matthews, NC 28104
+   US
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: NUDECAMS18.COM
+   Domain Name: WIZARDLOCKSMITH.COM
+
+   Administrative Contact:
+      Poulos, Teddy		accessted@msn.com
+      A-Access Lock &amp; Key
+      2836 Bent Oak Dr.
+      Matthews, NC 28104
+      US
+      (704)365-1571
+
+
+   Record expires on 26-Jan-2014.
+   Record created on 26-Jan-2009.
+   Database last updated on 15-Sep-2011 17:13:54 EDT.
 
    Domain servers in listed order:
-      NS1051.WEBSITEWELCOME.COM
-      NS1052.WEBSITEWELCOME.COM
 
+   NS51.DOMAINCONTROL.COM       216.69.185.26
+   NS52.DOMAINCONTROL.COM       208.109.255.26
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NUDECAMS18.COM
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+
