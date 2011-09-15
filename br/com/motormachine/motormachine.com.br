@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 09:45:47 (BRT -03:00)
+
+domain:      motormachine.com.br
+owner:       AUTO PECAS MMP LTDA
+ownerid:     067.287.888/0001-66
+responsible: CASSIO MARQUES PEREIRA
+country:     BR
+owner-c:     ARC532
+admin-c:     ARC532
+tech-c:      ARC532
+billing-c:   ARC532
+nserver:     ns1.motormachine.com.br 200.219.214.4
+nsstat:      20110914 FAIL
+nslastaa:    20110717
+nserver:     ns2.motormachine.com.br 200.219.214.5
+nsstat:      20110914 FAIL
+nslastaa:    20110717
+created:     20080922 #4885770
+expires:     20110922
+changed:     20100929
+status:      published
+
+nic-hdl-br:  ARC532
+person:      ART CONNECT
+e-mail:      jr2411@hotmail.com
+created:     20050325
+changed:     20050325
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

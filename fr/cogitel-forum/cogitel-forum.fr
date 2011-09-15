@@ -1,0 +1,89 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; cogitel-forum.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cogitel-forum.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CF1401-FRNIC
+admin-c:     CF345-FRNIC
+tech-c:      CF345-FRNIC
+tech-c:      LC375-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL47531-FRNIC
+registrar:   COGITEL FORUM
+anniversary: 08/10
+created:     30/10/1996
+last-update: 22/03/2011
+source:      FRNIC
+
+ns-list:     NSL47531-FRNIC
+nserver:     cigale.cogitel-forum.fr [88.191.48.129]
+nserver:     fourmillon.cogitel-forum.fr [87.106.108.95]
+nserver:     mosquito.cogitel-forum.fr [46.105.6.180]
+source:      FRNIC
+
+registrar:   COGITEL FORUM
+type:        Isp Option 2
+anonymous:   YES
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     CF345-FRNIC
+type:        ROLE
+contact:     Cogitel Forum
+address:     Cogitel
+address:     41, rue du Temple
+address:     75004 Paris
+country:     FR
+phone:       +33 1 42 77 19 72
+e-mail:      j-a.esculier@cogitel-forum.fr
+admin-c:     FC92-FRNIC
+tech-c:      LC375-FRNIC
+changed:     01/06/2004 j-a.esculier@cogitel-forum.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CF1401-FRNIC
+type:        ORGANIZATION
+contact:     Cogitel Forum
+address:     41, rue du Temple
+address:     75004 Paris
+country:     FR
+phone:       +33 1 42 77 19 72
+e-mail:      ja@cogitel-forum.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     LC375-FRNIC
+type:        PERSON
+contact:     Laurent Chouraki
+address:     Laurent Chouraki
+address:     2, rue de Siam
+address:     75116 Paris
+country:     FR
+phone:       +33 6 60 42 87 01
+e-mail:      noc@cli.fr
+notify:      noc@cli.fr
+changed:     07/11/2002 noc@cli.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

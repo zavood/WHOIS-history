@@ -1,0 +1,60 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         medspillshealthrisks.at
+registrant:     OL7915416-NICAT
+admin-c:        OL7915417-NICAT
+tech-c:         OL7915417-NICAT
+nserver:        ns1.medspillshealthrisks.at
+remarks:        218.58.18.162
+nserver:        ns2.medspillshealthrisks.at
+remarks:        218.67.78.181
+changed:        20110325 19:18:07
+source:         AT-DOM
+
+personname:     Oleg Ledkovsky
+organization:
+street address: ul.Vladimirskaya d.3a kv.83
+postal code:    443096
+city:           Samara
+country:        Russian Federation
+phone:          +78469256491
+fax-no:         +78469256491
+e-mail:         urges@free-id.ru
+nic-hdl:        OL7915416-NICAT
+changed:        20110322 20:06:45
+source:         AT-DOM
+
+personname:     Oleg Ledkovsky
+organization:
+street address: ul.Vladimirskaya d.3a kv.83
+postal code:    443096
+city:           Samara
+country:        Russian Federation
+phone:          +78469256491
+fax-no:         +78469256491
+e-mail:         urges@free-id.ru
+nic-hdl:        OL7915417-NICAT
+changed:        20110322 20:06:46
+source:         AT-DOM
+

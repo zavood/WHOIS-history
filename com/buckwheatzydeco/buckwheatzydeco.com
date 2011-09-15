@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 02-oct-1997
    Expiration Date: 01-oct-2014
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:05:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 12:49:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: buckwheatzydeco.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 14:55:45 EDT 2011
+Date and Time of Query: Thu Sep 15 08:44:37 EDT 2011
 Reason Code: IE
