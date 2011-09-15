@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LENOUVELLISTE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS51.1AND1.COM
-   Name Server: NS52.1AND1.COM
+   Domain Name: BICAKCI.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: NS1.FREENET.DE
+   Name Server: NS2.FREENET.DE
    Status: clientTransferProhibited
-   Updated Date: 22-mar-2007
-   Creation Date: 11-dec-1997
-   Expiration Date: 10-dec-2012
+   Updated Date: 17-aug-2011
+   Creation Date: 16-aug-2002
+   Expiration Date: 16-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:12:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:10:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+Registrant:
+  Einzelunternehmung (EINZELUN820)
+  Eichenallee 13
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+  Nortorf, , 24589
+  DE
 
-http://www.networksolutions.com/whois/index.jhtml
+  Domain name: bicakci.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Technical contact:
+  ROLE, Role-Account (MW297)
+  domain.freenet.de
+  Pascalstr. 10
 
-Whois Query: lenouvelliste.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 03:03:17 EDT 2011
-Reason Code: IE
+  Berlin, 10587
+  DE
+  hostmaster@service-domainregistrierung.de
+  +49.9001814142 Fax: +49.1803070437
+
+Administrative contact:
+  Bicakci, Aydin (AB807)
+  Einzelunternehmung
+  Eichenallee 13
+
+  Nortorf, 24589
+  DE
+  abicakci@t-online.de
+  +494392 69309 Fax:
+
+Record created:           2002-08-16 23:56:25
+Record last updated:      2006-10-05 23:41:38
+Record expires:           2012-08-16 00:00:00
+
+Domain servers in listed order:
+  ns1.freenet.de (NSFREENE852)
+  ns2.freenet.de (NSFREENE842)

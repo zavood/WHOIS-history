@@ -1,0 +1,24 @@
+[Domain]
+Domain: accio.lv
+Status: active
+Changed: 2006-03-30T16:32:52+03:00
+
+[Holder]
+Type: Legal person
+Name: SIA Accio
+Email: vidnere@gmail.com
+Phone: +371 25919156
+Address: Plavas iela 3A, Cesis, LV-4101, Latvija
+RegNr: 40003761041
+
+[Tech]
+Type: Natural person
+Email: vidnere@gmail.com
+Phone: +371 25919156
+
+[Nservers]
+Nserver: ns.accio.lv
+Nserver: ns2.vernet.lv
+
+[Whois]
+Updated: 2011-09-15T05:12:24.714284+00:00

@@ -5,18 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LENOUVELLISTE.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS51.1AND1.COM
-   Name Server: NS52.1AND1.COM
+   Domain Name: LHPLANS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: J4.NSTLD.COM
+   Name Server: K4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientTransferProhibited
-   Updated Date: 22-mar-2007
-   Creation Date: 11-dec-1997
-   Expiration Date: 10-dec-2012
+   Updated Date: 07-jun-2011
+   Creation Date: 25-jul-2000
+   Expiration Date: 25-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:12:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:13:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +56,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... lhplans.com
+  Creation Date........ 2000-07-26
+  Registration Date.... 2010-05-25
+  Expiry Date.......... 2012-07-26
+  Organisation Name.... Manulife Financial Corporation
+  Organisation Address. 200 Bloor Street East
+  Organisation Address.
+  Organisation Address. Toronto
+  Organisation Address. M4W1E5
+  Organisation Address. Ontario
+  Organisation Address. CANADA
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Ball .
+  Admin Address........ 200 Bloor Street East
+  Admin Address........
+  Admin Address........ Toronto
+  Admin Address........ M4W 1E5
+  Admin Address........ Ontario
+  Admin Address........ CANADA
+  Admin Email.......... dnsmaster@manulife.com
+  Admin Phone.......... +1.4168521175
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Ball .
+  Tech Address......... 200 Bloor Street East
+  Tech Address.........
+  Tech Address......... Toronto
+  Tech Address......... M4W 1E5
+  Tech Address......... Ontario
+  Tech Address......... CANADA
+  Tech Email........... dnsmaster@manulife.com
+  Tech Phone........... +1.4168521175
+  Tech Fax.............
+  Name Server.......... l4.nstld.com
+  Name Server.......... j4.nstld.com
+  Name Server.......... f4.nstld.com
+  Name Server.......... g4.nstld.com
+  Name Server.......... h4.nstld.com
+  Name Server.......... a4.nstld.com
+  Name Server.......... k4.nstld.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: lenouvelliste.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 03:03:17 EDT 2011
-Reason Code: IE

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94406866-LROR
+Domain Name:SESNAPERVILLE.ORG
+Created On:04-Feb-2003 04:14:17 UTC
+Last Updated On:07-Aug-2008 02:24:28 UTC
+Expiration Date:04-Feb-2015 04:14:17 UTC
+Sponsoring Registrar:UK2 Group Ltd. (R123-LROR)
+Status:OK
+Registrant ID:SG_167786
+Registrant Name:St. Elizabeth Seton Parish
+Registrant Organization:Not Applicable
+Registrant Street1:2220 Lisson Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Naperville
+Registrant State/Province:IL
+Registrant Postal Code:60565
+Registrant Country:US
+Registrant Phone:+1.6304163325
+Registrant Phone Ext.:
+Registrant FAX:+00.0000000
+Registrant FAX Ext.:
+Registrant Email:gilmore4@comcast.net
+Admin ID:DI_3541211
+Admin Name:St. Elizabeth Seton Parish
+Admin Organization:Kathy McGowan
+Admin Street1:2220 Lisson Road
+Admin Street2:
+Admin Street3:
+Admin City:Naperville
+Admin State/Province:IL
+Admin Postal Code:60565
+Admin Country:US
+Admin Phone:+1.6304163325
+Admin Phone Ext.:
+Admin FAX:+00.0000000
+Admin FAX Ext.:
+Admin Email:gilmore4@comcast.net
+Tech ID:SG_167789
+Tech Name:Margaret Gilmore
+Tech Organization:Not Applicable
+Tech Street1:St. Elizabeth Seton Parish2220 Lisson Road
+Tech Street2:
+Tech Street3:
+Tech City:Naperville
+Tech State/Province:IL
+Tech Postal Code:60565
+Tech Country:US
+Tech Phone:+1.6309838621
+Tech Phone Ext.:
+Tech FAX:+00.0000000
+Tech FAX Ext.:
+Tech Email:gilmore4@comcast.net
+Name Server:NS6.LUNARPAGES.COM
+Name Server:NS7.LUNARPAGES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

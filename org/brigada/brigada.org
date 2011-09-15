@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2636510-LROR
+Domain Name:BRIGADA.ORG
+Created On:01-Feb-1997 05:00:00 UTC
+Last Updated On:26-Jan-2010 13:39:37 UTC
+Expiration Date:02-Feb-2012 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR36167951
+Registrant Name:Douglas Lucas
+Registrant Organization:Douglas . Lucas
+Registrant Street1:4112 Old Routt Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lousiville
+Registrant State/Province:Kentucky
+Registrant Postal Code:40299
+Registrant Country:US
+Registrant Phone:+1.5027190007
+Registrant Phone Ext.:
+Registrant FAX:+1.5027190008
+Registrant FAX Ext.:
+Registrant Email:dlucas@teamexpansion.org
+Admin ID:CR36167953
+Admin Name:Douglas Lucas
+Admin Organization:Douglas . Lucas
+Admin Street1:4112 Old Routt Road
+Admin Street2:
+Admin Street3:
+Admin City:Lousiville
+Admin State/Province:Kentucky
+Admin Postal Code:40299
+Admin Country:US
+Admin Phone:+1.5027190007
+Admin Phone Ext.:
+Admin FAX:+1.5027190008
+Admin FAX Ext.:
+Admin Email:dlucas@teamexpansion.org
+Tech ID:CR36167952
+Tech Name:Douglas Lucas
+Tech Organization:Douglas . Lucas
+Tech Street1:4112 Old Routt Road
+Tech Street2:
+Tech Street3:
+Tech City:Lousiville
+Tech State/Province:Kentucky
+Tech Postal Code:40299
+Tech Country:US
+Tech Phone:+1.5027190007
+Tech Phone Ext.:
+Tech FAX:+1.5027190008
+Tech FAX Ext.:
+Tech Email:dlucas@teamexpansion.org
+Name Server:NS51.DOMAINCONTROL.COM
+Name Server:NS52.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
