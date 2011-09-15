@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104420589-LROR
+Domain Name:DVBDREAM.ORG
+Created On:21-May-2004 07:17:37 UTC
+Last Updated On:04-Mar-2011 08:38:56 UTC
+Expiration Date:21-May-2013 07:17:37 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuhVkkd6VeahhMTV
+Registrant Name:Rel Rreloc
+Registrant Organization:DvbDream
+Registrant Street1:Aba 2 st.  Conquer
+Registrant Street2:Dar. 124
+Registrant Street3:
+Registrant City:Ankara
+Registrant State/Province:TR
+Registrant Postal Code:06440
+Registrant Country:TR
+Registrant Phone:+90.5322013304
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:trspecialreg@yahoo.com
+Admin ID:tul2V8EsOCN3wePH
+Admin Name:Rel Rreloc
+Admin Organization:DvbDream
+Admin Street1:Aba 2 st.  Conquer
+Admin Street2:Dar. 124
+Admin Street3:
+Admin City:Ankara
+Admin State/Province:TR
+Admin Postal Code:06440
+Admin Country:TR
+Admin Phone:+90.5322013304
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:trspecialreg@yahoo.com
+Tech ID:tuUKXf6WPanjeU97
+Tech Name:Rel Rreloc
+Tech Organization:DvbDream
+Tech Street1:Aba 2 st.  Conquer
+Tech Street2:Dar. 124
+Tech Street3:
+Tech City:Ankara
+Tech State/Province:TR
+Tech Postal Code:06440
+Tech Country:TR
+Tech Phone:+90.5322013304
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:trspecialreg@yahoo.com
+Name Server:NS3.SECURESERVER.NET
+Name Server:NS4.SECURESERVER.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

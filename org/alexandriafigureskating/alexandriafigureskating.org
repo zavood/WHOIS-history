@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104659366-LROR
+Domain Name:ALEXANDRIAFIGURESKATING.ORG
+Created On:21-Jul-2004 20:51:30 UTC
+Last Updated On:22-Jul-2011 17:08:49 UTC
+Expiration Date:21-Jul-2012 20:51:30 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR45541471
+Registrant Name:BRETT BODE
+Registrant Street1:PO BOX 826
+Registrant Street2:
+Registrant Street3:
+Registrant City:ARLINGTON
+Registrant State/Province:Minnesota
+Registrant Postal Code:55307
+Registrant Country:US
+Registrant Phone:+1.5073513527
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain@brettworks.net
+Admin ID:CR45541473
+Admin Name:BRETT BODE
+Admin Street1:PO BOX 826
+Admin Street2:
+Admin Street3:
+Admin City:ARLINGTON
+Admin State/Province:Minnesota
+Admin Postal Code:55307
+Admin Country:US
+Admin Phone:+1.5073513527
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domain@brettworks.net
+Tech ID:CR45541472
+Tech Name:BRETT BODE
+Tech Street1:PO BOX 826
+Tech Street2:
+Tech Street3:
+Tech City:ARLINGTON
+Tech State/Province:Minnesota
+Tech Postal Code:55307
+Tech Country:US
+Tech Phone:+1.5073513527
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain@brettworks.net
+Name Server:NS33.DOMAINCONTROL.COM
+Name Server:NS34.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
