@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: ROG814D-NORID
+Domain Name................: rogfk.no
+Domain Holder Handle.......: RF183O-NORID
+Registrar Handle...........: REG432-NORID
+Legal-c Handle.............: FS1833P-NORID
+Tech-c Handle..............: FS1833P-NORID
+Name Server Handle.........: DNST71H-NORID
+Name Server Handle.........: NSRO20H-NORID
+
+Additional information:
+Created:         2001-03-14
+Last updated:    2011-03-16
+
+NORID Handle...............: RF183O-NORID
+Type.......................: organization
+Name.......................: ROGALAND FYLKESKOMMUNE
+Id Type....................: organization_number
+Id Number..................: 971045698
+Registrar Handle...........: REG432-NORID
+Post Address...............: ROGALAND FYLKESKOMMUNE, Peder Klowsgt 27
+Postal Code................: NO-4001
+Postal Area................: STAVANGER
+Country....................: NO
+Phone Number...............: +47.51516600
+Email Address..............: frsj@rfk.rogaland-f.kommune.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
