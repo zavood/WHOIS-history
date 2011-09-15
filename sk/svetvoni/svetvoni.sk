@@ -1,0 +1,23 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         svetvoni.sk
+Admin-id            GRIN-0001
+Admin-name          GRINET, s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       36767085
+Admin-address       Kpt. Jarosa 7, Banska Bystrica 97411
+Admin-telephone     0908 935 999
+Tech-id             GRIN-0001
+Tech-name           GRINET, s.r.o.
+Tech-org.-ID        36767085
+Tech-address        Kpt. Jarosa 7, Banska Bystrica 97411
+Tech-telephone      0908 935 999
+dns_name            ns.grinet.sk
+dns_name            ns2.grinet.sk
+Last-update         2010-10-11
+Valid-date          2011-10-30
+Domain-status       DOM_OK
+
