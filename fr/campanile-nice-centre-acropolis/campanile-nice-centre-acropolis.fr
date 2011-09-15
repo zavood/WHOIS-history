@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; campanile-nice-centre-acropolis.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      campanile-nice-centre-acropolis.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LH295-FRNIC
+admin-c:     RD16-FRNIC
+tech-c:      DT1958-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2951-FRNIC
+registrar:   NAMESHIELD
+anniversary: 07/09
+created:     07/09/2006
+last-update: 15/07/2010
+source:      FRNIC
+
+ns-list:     NSL2951-FRNIC
+nserver:     observatoire.observatoiredesmarques.fr [62.93.195.146]
+nserver:     ns2.observatoiredesmarques.fr [80.74.69.8]
+source:      FRNIC
+
+registrar:   NAMESHIELD
+type:        Isp Option 1
+address:     16 Rue de St P&eacute;tersbourg
+address:     PARIS
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      jpbechu@nameshield.net
+website:     http://www.nameshield.net
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     LH295-FRNIC
+type:        ORGANIZATION
+contact:     LOUVRE HOTELS
+address:     village 5 - 50 place de l'ellipse - cs 70050
+address:     92081 la Defense Cedex
+country:     FR
+phone:       +33 1 64 62 46 00
+fax-no:      +33 1 64 62 48 31
+e-mail:      admin-dns@louvre-hotels.fr
+changed:     06/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     RD16-FRNIC
+type:        PERSON
+contact:     Reg Dom
+address:     LGTF
+address:     1b, cite de paradis
+address:     75010 Paris
+country:     FR
+phone:       +33 3 21 43 54 80
+e-mail:      domreg@vanksen.com
+changed:     18/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DT1958-FRNIC
+type:        PERSON
+contact:     Department Technical
+address:     NAMESHIELD
+address:     27, rue des arenes
+address:     49100 Angers
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      technical@nameshield.net
+changed:     12/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

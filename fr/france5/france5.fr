@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; france5.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      france5.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    FC1308-FRNIC
+admin-c:     SA3919-FRNIC
+tech-c:      IMA4-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL3068-FRNIC
+registrar:   InterNetX GmbH
+anniversary: 15/09
+created:     12/12/2001
+last-update: 04/04/2009
+source:      FRNIC
+
+ns-list:     NSL3068-FRNIC
+nserver:     ns0.coltfrance.com
+nserver:     ns1.coltfrance.com
+source:      FRNIC
+
+registrar:   InterNetX GmbH
+type:        Isp Option 1
+address:     Maximilianstrasse 6
+address:     93047 REGENSBURG
+country:     DE
+phone:       +49 941 595 59 0
+fax-no:      +49 941 595 59 54
+e-mail:      nic-fr@domains.internetx.de
+website:     http://www.internetx.de
+anonymous:   NO
+registered:  02/07/2001
+source:      FRNIC
+
+nic-hdl:     FC1308-FRNIC
+type:        ORGANIZATION
+contact:     FRANCE 5
+address:     10, rue Horace Vernet
+address:     92785 Issy-les-Moulineaux Cedex 9
+country:     FR
+phone:       +33 1 56 22 93 03
+e-mail:      gplaideux@france5.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     IMA4-FRNIC
+type:        ROLE
+contact:     ImagiNET NOC
+address:     Colt Internet - Imaginet
+address:     60, rue de Wattignies - batiment B
+address:     75012 Paris
+country:     FR
+phone:       +33 1 44 29 58 99
+fax-no:      +33 1 44 29 57 97
+e-mail:      noc@fr.colt.net
+admin-c:     PM876-FRNIC
+tech-c:      SB996-FRNIC
+tech-c:      LM111-FRNIC
+tech-c:      OD154-FRNIC
+tech-c:      TT997-FRNIC
+tech-c:      RV225-FRNIC
+tech-c:      CM743-FRNIC
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SA3919-FRNIC
+type:        PERSON
+contact:     Sylvain Anichini
+address:     la Cinquieme
+address:     10, rue Horace Vernet
+address:     92136 Issy-les-Moulineaux Cedex
+country:     FR
+phone:       +33 1 41 46 55 63
+fax-no:      +33 1 41 46 56 08
+e-mail:      sanichini@lacinquieme.fr
+changed:     04/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

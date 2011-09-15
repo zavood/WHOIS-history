@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KEBIRHOST.COM
-   Registrar: EVERYONES INTERNET, LTD. DBA RESELLONE.NET
-   Whois Server: Whois.theplanet.com
-   Referral URL: http://www.theplanet.com
-   Name Server: NS1.KEBIRHOST.COM
-   Name Server: NS2.KEBIRHOST.COM
-   Status: ok
-   Updated Date: 03-mar-2011
-   Creation Date: 18-dec-2004
-   Expiration Date: 18-dec-2012
+   Domain Name: KRISTYRUNS.COM
+   Registrar: DYNAMIC NETWORK SERVICES, INC
+   Whois Server: whois.dyndns.com
+   Referral URL: http://www.dyndns.com
+   Name Server: DNS1.STABLETRANSIT.COM
+   Name Server: DNS2.STABLETRANSIT.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 06-aug-2011
+   Creation Date: 08-aug-2010
+   Expiration Date: 08-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:02:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:59:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +53,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Registrant:
+ kristyruns.com, Secret Registration Customer ID 105279  kristyruns.com@secretregistration.com
+ Dyn Inc
+ c/o kristyruns.com
+ 816 Elm Street
+ Box 606
+ Manchester, NH 03101
+ US
+
+ Domain name: KRISTYRUNS.COM
+
+
+ Administrative Contact, Technical Contact:
+    kristyruns.com, Secret Registration Customer ID 105279  kristyruns.com@secretregistration.com
+    Dyn Inc
+    c/o kristyruns.com
+    816 Elm Street
+    Box 606
+    Manchester, NH 03101
+    US
+    +1.6037124016
+
+
+ Registration Service Provider:
+    (DynDNS) Dynamic Network Services, Inc.  support@dyndns.com
+    Login to your account at http://www.dyndns.com/+domains/ to manage
+    nameservers and contacts for your domain name.
+
+
+ Record last updated on 06-Aug-2011 15:47:05 UTC.
+ Record expires on 08-Aug-2013.
+ Record created on 08-Aug-2010.
+
+
+ Domain servers in listed order:
+    DNS2.STABLETRANSIT.COM
+    DNS1.STABLETRANSIT.COM
+
+
+ Domain status: clientDeleteProhibited
+                clientTransferProhibited
+                clientUpdateProhibited
+

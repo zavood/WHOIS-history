@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KEBIRHOST.COM
-   Registrar: EVERYONES INTERNET, LTD. DBA RESELLONE.NET
-   Whois Server: Whois.theplanet.com
-   Referral URL: http://www.theplanet.com
-   Name Server: NS1.KEBIRHOST.COM
-   Name Server: NS2.KEBIRHOST.COM
-   Status: ok
-   Updated Date: 03-mar-2011
-   Creation Date: 18-dec-2004
-   Expiration Date: 18-dec-2012
+   Domain Name: UPPER.NET
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS0.DNSMADEEASY.COM
+   Name Server: NS1.DNSMADEEASY.COM
+   Name Server: NS2.DNSMADEEASY.COM
+   Name Server: NS3.DNSMADEEASY.COM
+   Status: clientTransferProhibited
+   Updated Date: 29-apr-2010
+   Creation Date: 15-jun-1998
+   Expiration Date: 14-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:02:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:01:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +53,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+domain:       upper.net
+owner:        Gerhard Schild
+email:        gs@sedv.com
+address:      Fasanenstr. 155
+city:         Unterhaching
+state:        n/a
+postal-code:  82008
+country:      DE
+phone:        +49.8961500137
+fax:          +49.8961500139
+admin-c:      CNET-19118 gs@sedv.com
+tech-c:       CNET-19118 gs@sedv.com
+billing-c:    CNET-19118 gs@sedv.com
+reseller:     featured by Schild EDV
+nserver:      ns1.dnsmadeeasy.com
+nserver:      ns2.dnsmadeeasy.com
+nserver:      ns3.dnsmadeeasy.com
+nserver:      ns0.dnsmadeeasy.com
+status:       lock
+created:      1998-06-15 00:00:00 UTC
+modified:     2010-04-29 21:31:19 UTC
+expires:      2012-06-14 04:00:00 UTC
+query-source: 174.142.225.246
+
+contact-hdl:  CNET-19118
+person:       Gerhard Schild
+organization: Schild EDV
+email:        gs@sedv.com
+address:      Fasanenstr. 155
+city:         Unterhaching
+state:        Unterhaching
+postal-code:  82008
+country:      DE
+phone:        +49.8961500137
+
+source:       joker.com live whois service
+query-time:   0.012142
+db-updated:   2011-09-15 07:01:43
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

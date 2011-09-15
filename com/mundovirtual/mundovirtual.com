@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KEBIRHOST.COM
-   Registrar: EVERYONES INTERNET, LTD. DBA RESELLONE.NET
-   Whois Server: Whois.theplanet.com
-   Referral URL: http://www.theplanet.com
-   Name Server: NS1.KEBIRHOST.COM
-   Name Server: NS2.KEBIRHOST.COM
-   Status: ok
-   Updated Date: 03-mar-2011
-   Creation Date: 18-dec-2004
-   Expiration Date: 18-dec-2012
+   Domain Name: MUNDOVIRTUAL.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: NS1.CULTURAS.NET
+   Name Server: NS1.SEEDS.NET
+   Name Server: NS2.CULTURAS.NET
+   Name Server: NS2.SEEDS.NET
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 19-oct-2010
+   Creation Date: 17-dec-1999
+   Expiration Date: 17-dec-2011
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:02:06 UTC &lt;&lt;&lt;
 

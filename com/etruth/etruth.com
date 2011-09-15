@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KEBIRHOST.COM
-   Registrar: EVERYONES INTERNET, LTD. DBA RESELLONE.NET
-   Whois Server: Whois.theplanet.com
-   Referral URL: http://www.theplanet.com
-   Name Server: NS1.KEBIRHOST.COM
-   Name Server: NS2.KEBIRHOST.COM
-   Status: ok
-   Updated Date: 03-mar-2011
-   Creation Date: 18-dec-2004
-   Expiration Date: 18-dec-2012
+   Domain Name: ETRUTH.COM
+   Registrar: GKG.NET, INC.
+   Whois Server: whois.gkg.net
+   Referral URL: http://www.gkg.net
+   Name Server: NS.ETRUTH.COM
+   Name Server: NS2.ETRUTH.COM
+   Status: clientTransferProhibited
+   Updated Date: 20-aug-2009
+   Creation Date: 13-dec-1998
+   Expiration Date: 12-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:02:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:57:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The Data in GKG.NET's WHOIS database is provided by GKG.NET for information
+purposes, and to assist persons in obtaining information about or related
+to a domain name registration record.  GKG.NET does not guarantee its
+accuracy.  By submitting a WHOIS query, you agree that you will use this
+Data only for lawful purposes and that, under no circumstances will you use
+this Data to: (1) allow, enable, or otherwise support the transmission of
+mass unsolicited, commercial advertising or solicitations via e-mail
+(spam); or  (2) enable high volume, automated, electronic processes that
+apply to GKG.NET (or its systems).  GKG.NET reserves the right to modify
+these terms at any time.  By submitting this query, you agree to abide by
+this policy.
+
+Registrant:
+    Federated Media
+    Brandon Erlacher
+    421 South Second Street
+    Elkhart, Indiana 46516
+    US
+    +1.5742965845
+    berlacher@fedmed.com
+
+Administrative Contact:
+    Federated Media
+    Brandon Erlacher
+    421 South Second Street
+    Elkhart, Indiana 46516
+    US
+    +1.5742965845
+    berlacher@fedmed.com
+
+Technical Contact:
+    Federated Media
+    Brandon Erlacher
+    421 South Second Street
+    Elkhart, Indiana 46516
+    US
+    +1.5742965845
+    berlacher@fedmed.com
+
+Billing Contact
+    Federated Media
+    Brandon Erlacher
+    421 South Second Street
+    Elkhart, Indiana 46516
+    US
+    +1.5742965845
+    berlacher@fedmed.com
+
+    Registrar..: gkg.net (http://register.gkg.net/)
+    Domain Name: ETRUTH.COM
+	Created on..............: 13-DEC-1998
+	Expires on..............: 12-DEC-2012
+	Record last updated on..: 21-AUG-2009
+	Status..................: ACTIVE
+
+    Domain servers in listed order:
+
+    NS.ETRUTH.COM
+    NS2.ETRUTH.COM

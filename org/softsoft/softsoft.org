@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149086215-LROR
+Domain Name:SOFTSOFT.ORG
+Created On:10-Sep-2007 11:19:14 UTC
+Last Updated On:07-Aug-2011 12:16:48 UTC
+Expiration Date:10-Sep-2013 11:19:14 UTC
+Sponsoring Registrar:Internet.bs Corp. (R1601-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:INTEdvseuioyxyba
+Registrant Name:Private Whois Service
+Registrant Organization:Private Whois Service
+Registrant Street1:*******PLEASE DO NOT SEND LETTERS******
+Registrant Street2:****Contact the owner by email only****
+Registrant Street3:c/o softsoft.org
+Registrant City:Nassau
+Registrant State/Province:
+Registrant Postal Code:N4892
+Registrant Country:BS
+Registrant Phone:+852.81720004
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:k0h66124d94f47751ad0@oqjij874d9300d54bd95.privatewhois.net
+Admin ID:INTE77vbjriih3r9
+Admin Name:Private Whois Service
+Admin Organization:Private Whois Service
+Admin Street1:*******PLEASE DO NOT SEND LETTERS******
+Admin Street2:****Contact the owner by email only****
+Admin Street3:c/o softsoft.org
+Admin City:Nassau
+Admin State/Province:
+Admin Postal Code:N4892
+Admin Country:BS
+Admin Phone:+852.81720004
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:p70wx4h4d94f47866af7@oqjij874d9300d54bd95.privatewhois.net
+Tech ID:INTEjwavp5o624oi
+Tech Name:Private Whois Service
+Tech Organization:Private Whois Service
+Tech Street1:*******PLEASE DO NOT SEND LETTERS******
+Tech Street2:****Contact the owner by email only****
+Tech Street3:c/o softsoft.org
+Tech City:Nassau
+Tech State/Province:
+Tech Postal Code:N4892
+Tech Country:BS
+Tech Phone:+852.81720004
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:d7rrlpi4d94f4780cd29@oqjij874d9300d54bd95.privatewhois.net
+Name Server:NS1.NAMEMASTER.DE
+Name Server:NS2.NAMEMASTER.DE
+Name Server:NS4.NAMEMASTER.DE
+Name Server:NS3.NAMEMASTER.DE
+Name Server:NS5.NAMEMASTER.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

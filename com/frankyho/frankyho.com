@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QCONLINE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS2.QCONLINE.COM
-   Name Server: WEBSERVER2.QCONLINE.COM
+   Domain Name: FRANKYHO.COM
+   Registrar: MONIKER ONLINE SERVICES, INC.
+   Whois Server: whois.moniker.com
+   Referral URL: http://www.moniker.com
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 22-nov-2010
-   Creation Date: 22-dec-1994
-   Expiration Date: 21-dec-2011
+   Updated Date: 26-jul-2011
+   Creation Date: 01-aug-2010
+   Expiration Date: 01-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:59:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:59:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +53,86 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Moniker Whois Server Version 2.0
+
+The Data in Moniker's WHOIS database
+is provided for information purposes only, and is
+designed to assist persons in obtaining information
+related to domain name registration records.
+Moniker does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you
+will use this Data only for lawful purposes and
+that, under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam),
+telephone, or facsimile; or
+(2) enable high volume, automated, electronic
+processes that apply to Moniker (or its
+systems). Moniker reserves the right
+to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
+
+The compilation, repackaging, dissemination or
+other use of this Data is expressly
+prohibited without the prior written consent
+of Moniker.
+
+Domain Name: FRANKYHO.COM
+Registrar: MONIKER
+
+Registrant [3468120]:
+        Franky Ho franho0222@gmail.com
+        Hong Kong
+        Hong Kong
+        Hong Kong
+        null
+        0000
+        HK
+
+
+Administrative Contact [3468120]:
+        Franky Ho franho0222@gmail.com
+        Hong Kong
+        Hong Kong
+        Hong Kong
+        null
+        0000
+        HK
+        Phone: +852.51051357
+
+
+Billing Contact [3468120]:
+        Franky Ho franho0222@gmail.com
+        Hong Kong
+        Hong Kong
+        Hong Kong
+        null
+        0000
+        HK
+        Phone: +852.51051357
+
+
+Technical Contact [3468120]:
+        Franky Ho franho0222@gmail.com
+        Hong Kong
+        Hong Kong
+        Hong Kong
+        null
+        0000
+        HK
+        Phone: +852.51051357
+
+
+Domain servers in listed order:
+
+        NS1.BLUEHOST.COM
+        NS2.BLUEHOST.COM
+
+        Record created on:        2010-08-01 12:26:16.0
+        Database last updated on: 2011-07-26 09:11:40.353
+        Domain Expires on:        2012-08-01 12:26:17.0
+
+
+

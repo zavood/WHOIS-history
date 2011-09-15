@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106314033-LROR
+Domain Name:DASHJR.ORG
+Created On:14-May-2005 22:09:57 UTC
+Last Updated On:01-Sep-2011 18:38:49 UTC
+Expiration Date:14-May-2012 22:09:57 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-QD5IIP52E773
+Registrant Name:Luke Dashjr
+Registrant Street1:8226 Wilson Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ralston
+Registrant State/Province:Nebraska
+Registrant Postal Code:68127
+Registrant Country:US
+Registrant Phone:+1.4022184942
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:luke_dashjr.org_domain@dashjr.org
+Admin ID:DOT-0HCC1EGMMFAM
+Admin Name:Luke Dashjr
+Admin Street1:8226 Wilson Drive
+Admin Street2:
+Admin Street3:
+Admin City:Ralston
+Admin State/Province:Nebraska
+Admin Postal Code:68127
+Admin Country:US
+Admin Phone:+1.4022184942
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:luke_dashjr.org_domain@dashjr.org
+Tech ID:DOT-ZX7ON3SQV2F0
+Tech Name:Luke Dashjr
+Tech Street1:8226 Wilson Drive
+Tech Street2:
+Tech Street3:
+Tech City:Ralston
+Tech State/Province:Nebraska
+Tech Postal Code:68127
+Tech Country:US
+Tech Phone:+1.4022184942
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:luke_dashjr.org_domain@dashjr.org
+Name Server:NS2.AFRAID.ORG
+Name Server:NS3.DASHJR.ORG
+Name Server:NS5.DASHJR.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

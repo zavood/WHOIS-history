@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KEBIRHOST.COM
-   Registrar: EVERYONES INTERNET, LTD. DBA RESELLONE.NET
-   Whois Server: Whois.theplanet.com
-   Referral URL: http://www.theplanet.com
-   Name Server: NS1.KEBIRHOST.COM
-   Name Server: NS2.KEBIRHOST.COM
-   Status: ok
-   Updated Date: 03-mar-2011
-   Creation Date: 18-dec-2004
-   Expiration Date: 18-dec-2012
+   Domain Name: JOLIES-LEVRES.COM
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
+   Name Server: DNS.TECHNORAIL.COM
+   Name Server: DNS2.TECHNORAIL.COM
+   Status: pendingDelete
+   Updated Date: 10-sep-2011
+   Creation Date: 30-jun-2008
+   Expiration Date: 30-jun-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:02:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:57:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

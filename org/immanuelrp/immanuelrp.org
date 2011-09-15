@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152889990-LROR
+Domain Name:IMMANUELRP.ORG
+Created On:03-Jun-2008 16:52:11 UTC
+Last Updated On:05-May-2010 20:26:02 UTC
+Expiration Date:03-Jun-2014 16:52:11 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR35940570
+Registrant Name:Catherine Stege
+Registrant Organization:Immanuel Ev. Lutheran Church
+Registrant Street1:4800 Sauk Trail
+Registrant Street2:
+Registrant Street3:
+Registrant City:Richton Park
+Registrant State/Province:Illinois
+Registrant Postal Code:60471
+Registrant Country:US
+Registrant Phone:+1.7087480558
+Registrant Phone Ext.:
+Registrant FAX:+1.7087486593
+Registrant FAX Ext.:
+Registrant Email:immanuelrp@sbcglobal.net
+Admin ID:CR35940572
+Admin Name:Catherine Stege
+Admin Organization:Immanuel Ev. Lutheran Church
+Admin Street1:4800 Sauk Trail
+Admin Street2:
+Admin Street3:
+Admin City:Richton Park
+Admin State/Province:Illinois
+Admin Postal Code:60471
+Admin Country:US
+Admin Phone:+1.7087480558
+Admin Phone Ext.:
+Admin FAX:+1.7087486593
+Admin FAX Ext.:
+Admin Email:immanuelrp@sbcglobal.net
+Tech ID:CR35940571
+Tech Name:Catherine Stege
+Tech Organization:Immanuel Ev. Lutheran Church
+Tech Street1:4800 Sauk Trail
+Tech Street2:
+Tech Street3:
+Tech City:Richton Park
+Tech State/Province:Illinois
+Tech Postal Code:60471
+Tech Country:US
+Tech Phone:+1.7087480558
+Tech Phone Ext.:
+Tech FAX:+1.7087486593
+Tech FAX Ext.:
+Tech Email:immanuelrp@sbcglobal.net
+Name Server:NS45.DOMAINCONTROL.COM
+Name Server:NS46.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

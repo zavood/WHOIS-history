@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KEBIRHOST.COM
-   Registrar: EVERYONES INTERNET, LTD. DBA RESELLONE.NET
-   Whois Server: Whois.theplanet.com
-   Referral URL: http://www.theplanet.com
-   Name Server: NS1.KEBIRHOST.COM
-   Name Server: NS2.KEBIRHOST.COM
+   Domain Name: ARBCRUNCHER.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS0.SWIFTINTER.NET
+   Name Server: NS1.SWIFTINTER.NET
    Status: ok
-   Updated Date: 03-mar-2011
-   Creation Date: 18-dec-2004
-   Expiration Date: 18-dec-2012
+   Updated Date: 17-sep-2010
+   Creation Date: 16-sep-2002
+   Expiration Date: 16-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:02:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:01:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... arbcruncher.com
+  Creation Date........ 2002-09-17
+  Registration Date.... 2002-09-17
+  Expiry Date.......... 2011-09-17
+  Organisation Name.... Nick Bennett
+  Organisation Address. 64 South Dock Street
+  Organisation Address.
+  Organisation Address. Ringsend
+  Organisation Address. D4
+  Organisation Address. Dublin
+  Organisation Address. IRELAND
+
+Admin Name........... Swift Hostmaster
+  Admin Address........ Swift Internet
+  Admin Address........ Greenlands Business Centre
+  Admin Address........ Redditch
+  Admin Address........ B98 7HD
+  Admin Address........ Worcestershire
+  Admin Address........ GREAT BRITAIN (UK)
+  Admin Email.......... hostmaster@swiftinter.net
+  Admin Phone.......... +44.1527500940
+  Admin Fax............ +44.1527500934
+
+Tech Name............ Swift Hostmaster
+  Tech Address......... Swift Internet, Studley Road
+  Tech Address......... Greenlands Business Centre
+  Tech Address......... Redditch
+  Tech Address......... B98 7HD
+  Tech Address......... Worcestershire
+  Tech Address......... GREAT BRITAIN (UK)
+  Tech Email........... hostmaster@swiftinter.net
+  Tech Phone........... +44.1527500940
+  Tech Fax............. +44.1527500934
+  Name Server.......... ns0.swiftinter.net
+  Name Server.......... ns1.swiftinter.net
+
+

@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KEBIRHOST.COM
-   Registrar: EVERYONES INTERNET, LTD. DBA RESELLONE.NET
-   Whois Server: Whois.theplanet.com
-   Referral URL: http://www.theplanet.com
-   Name Server: NS1.KEBIRHOST.COM
-   Name Server: NS2.KEBIRHOST.COM
-   Status: ok
-   Updated Date: 03-mar-2011
-   Creation Date: 18-dec-2004
-   Expiration Date: 18-dec-2012
+   Domain Name: KENROSENBERG.COM
+   Registrar: WILD WEST DOMAINS, INC.
+   Whois Server: whois.wildwestdomains.com
+   Referral URL: http://www.wildwestdomains.com
+   Name Server: NS1.LINKSKY94.COM
+   Name Server: NS2.LINKSKY94.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 02-sep-2011
+   Creation Date: 24-nov-1999
+   Expiration Date: 31-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:02:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:01:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The data contained in this Registrar's Whois database,
+while believed by the registrar to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy. This information
+is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of
+this data for any other purpose is expressly forbidden without
+the prior written permission of this registrar.  By submitting an
+inquiry, you agree to these terms of usage and limitations of warranty.
+In particular, you agree not to use this data to allow, enable, or
+otherwise make possible, dissemination or collection of this data, in
+part or in its entirety, for any purpose, such as the transmission of
+unsolicited advertising and solicitations of any kind, including spam.
+You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data
+for any purpose, including mining this data for your own personal or
+commercial purposes.
+
+Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
+In most cases, the Registrar is not the owner of domain names listed in this database.
+
+
+Registrant:
+   KENNETH ROSENBERG
+
+   Registered through: Cheap-DomainRegistration.com
+   Domain Name: KENROSENBERG.COM
+
+   Domain servers in listed order:
+      NS1.LINKSKY94.COM
+      NS2.LINKSKY94.COM
+
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=KENROSENBERG.COM&amp;prog_id=domains

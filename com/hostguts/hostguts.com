@@ -5,17 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QCONLINE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS2.QCONLINE.COM
-   Name Server: WEBSERVER2.QCONLINE.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-nov-2010
-   Creation Date: 22-dec-1994
-   Expiration Date: 21-dec-2011
+   Domain Name: HOSTGUTS.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: NS1.HOSTGUTS.COM
+   Name Server: NS2.HOSTGUTS.COM
+   Status: ok
+   Updated Date: 19-jul-2011
+   Creation Date: 10-feb-2011
+   Expiration Date: 10-feb-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:59:48 UTC &lt;&lt;&lt;
 
@@ -52,5 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Registration Service Provided By: HOSTIN SERVICES PRIVATE LIMITED
+Contact: +91.2025520101
+Website: http://www.hostindia.net
+
+Domain Name: HOSTGUTS.COM
+
+Registrant:
+    HostGuts LLC
+    prakash        (social@hostguts.com)
+    Siskiyou Boulevard
+    Ashland
+    OR,97520
+    US
+    Tel. +1.5414891741
+
+Creation Date: 10-Feb-2011
+Expiration Date: 10-Feb-2012
+
+Domain servers in listed order:
+    ns1.hostguts.com
+    ns2.hostguts.com
+
+
+Administrative Contact:
+    HostGuts LLC
+    prakash        (social@hostguts.com)
+    Siskiyou Boulevard
+    Ashland
+    OR,97520
+    US
+    Tel. +1.5414891741
+
+Technical Contact:
+    HostGuts LLC
+    prakash        (social@hostguts.com)
+    Siskiyou Boulevard
+    Ashland
+    OR,97520
+    US
+    Tel. +1.5414891741
+
+Billing Contact:
+    HostGuts LLC
+    prakash        (social@hostguts.com)
+    Siskiyou Boulevard
+    Ashland
+    OR,97520
+    US
+    Tel. +1.5414891741
+
+Status:ACTIVE
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+

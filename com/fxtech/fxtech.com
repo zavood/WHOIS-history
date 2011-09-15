@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KEBIRHOST.COM
-   Registrar: EVERYONES INTERNET, LTD. DBA RESELLONE.NET
-   Whois Server: Whois.theplanet.com
-   Referral URL: http://www.theplanet.com
-   Name Server: NS1.KEBIRHOST.COM
-   Name Server: NS2.KEBIRHOST.COM
+   Domain Name: FXTECH.COM
+   Registrar: PAIR NETWORKS INC.D/B/A PAIRNIC
+   Whois Server: whois.pairnic.com
+   Referral URL: http://www.pairnic.com
+   Name Server: NS0000.NS0.COM
+   Name Server: NS336.PAIR.COM
    Status: ok
-   Updated Date: 03-mar-2011
-   Creation Date: 18-dec-2004
-   Expiration Date: 18-dec-2012
+   Updated Date: 23-jan-2007
+   Creation Date: 23-apr-1997
+   Expiration Date: 24-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:02:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:59:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Registrant:
+  Paul Miller
+  4660 Stone Wood Dr.
+  Middleton, WI 53562
+  US
+
+  paul@fxtech.com
+   +1.6082390238
+
+Domain Name: FXTECH.COM
+
+Administrative &amp; Technical Contact:
+  Paul Miller
+  FXTECH
+  4660 Stone Wood Dr.
+  Middleton, WI 53562
+  US
+
+  paul@fxtech.com
+   +1.6082390238
+
+Domain Name Servers:
+  NS336.PAIR.COM
+  NS0000.NS0.COM
+
+Transfer-Lock Status: ENABLED
+
+ Created:     April 23, 1997
+Modified:     January 23, 2007
+ Expires:     April 23, 2012
+
+NOTICE AND TERMS OF USE: By submitting a WHOIS query, you agree to abide by the
+following terms of use: You agree that you may use this Data only for lawful
+purposes and that under no circumstances will you use this Data to: (a) allow,
+enable, or otherwise support the transmission by e-mail, telephone, or
+facsimile of mass, unsolicited, commercial advertising or solicitations; or (b)
+enable high volume, automated, electronic processes that send queries or data
+to the systems of any Registry Operator or ICANN-Accredited registrar, except
+as reasonably necessary to register domain names or modify existing
+registrations. pairNIC reserves all rights and remedies it now has or may have
+in the future, including, but not limited to, the right to terminate your
+access to the WHOIS database in its sole discretion, for any violations by you
+of these terms of use, including without limitation, for excessive querying of
+the WHOIS database or for failure to otherwise abide by these terms of use.
+pairNIC reserves the right to modify these terms at any time.
+
+** Register Now at http://www.pairNIC.com/ **
+

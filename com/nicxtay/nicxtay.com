@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: QCONLINE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS2.QCONLINE.COM
-   Name Server: WEBSERVER2.QCONLINE.COM
+   Domain Name: NICXTAY.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.WEBHOSTINGPAD.COM
+   Name Server: NS2.WEBHOSTINGPAD.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-nov-2010
-   Creation Date: 22-dec-1994
-   Expiration Date: 21-dec-2011
+   Updated Date: 25-jan-2011
+   Creation Date: 07-feb-2010
+   Expiration Date: 07-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:59:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:58:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+Visit AboutUs.org for more information about nicxtay.com
+&lt;a href=&quot;http://www.aboutus.org/nicxtay.com&quot;&gt;AboutUs: nicxtay.com&lt;/a&gt;
+
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
+
+Domain name: nicxtay.com
+
+Registrant Contact:
+
+   Nicole Tay ()
+
+   Fax:
+   707 Continental Circle Apt 221
+   m, c 94040
+   US
+
+Administrative Contact:
+
+   Nicole Tay (nic_cx@hotmail.com)
+   +1.4089056129
+   Fax: +1.5555555555
+   707 Continental Circle Apt 221
+   m, c 94040
+   US
+
+Technical Contact:
+
+   Nicole Tay (nic_cx@hotmail.com)
+   +1.4089056129
+   Fax: +1.5555555555
+   707 Continental Circle Apt 221
+   m, c 94040
+   US
+
+Status: Locked
+
+Name Servers:
+   ns1.webhostingpad.com
+   ns2.webhostingpad.com
+
+Creation date: 07 Feb 2010 18:21:55
+Expiration date: 07 Feb 2012 18:21:55
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002
