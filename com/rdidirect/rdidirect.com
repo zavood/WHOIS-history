@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HYDRONICSAZEH.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS1.IRANHOST.COM
-   Name Server: NS2.IRANHOST.COM
+   Domain Name: RDIDIRECT.COM
+   Registrar: BRANDON GRAY INTERNET SERVICES, INC. DBA NAMEJUICE.COM
+   Whois Server: whois.namejuice.com
+   Referral URL: http://www.namejuice.com
+   Name Server: AUTH100.NS.UU.NET
+   Name Server: AUTH110.NS.UU.NET
    Status: ok
-   Updated Date: 03-jul-2011
-   Creation Date: 05-jul-2008
-   Expiration Date: 05-jul-2012
+   Updated Date: 17-dec-2007
+   Creation Date: 14-feb-1998
+   Expiration Date: 13-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:40:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:39:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,65 +51,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
-
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+Registration Service Provided By: Domain Registry of America
+Contact: support@droa.com
+Web:http://www.droa.com
 
 
-Registrant:
-	 mehdi bahreini mailbox@hydronicsazeh.com +98.2188457896
-	 hydronic sazeh
-	 unit 2, no.109, 6th andi
-	 tehran,Tehran,IRAN, ISLAMIC REPUBLIC OF 156864996
+Domain name: rdidirect.com
+
+Registrant Contact:
+      Guy    Gola
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      747d14dc0b123918@private-contact.com
+
+Administrative Contact:
+      Guy    Gola
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      o6ivwicvwtntiurx@private-contact.com
+
+Technical Contact:
+      Guy    Gola
+      Private Registration
+      2316 Delaware Ave Suite #266
+      Buffalo
+      NY,   14216-2687    US
+      866-434-0212
+      866-434-0211
+      97wbplxgdwqzzlof@private-contact.com
+
+Update date: 2007-12-25
+Expiration date: 2013-02-13
 
 
-Domain Name:hydronicsazeh.com
-Record last updated at 2011-07-03 02:53:18
-Record created on 2008/7/5
-Record expired on 2012/7/5
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
 
-
-Domain servers in listed order:
-	 ns1.iranhost.com 	 ns2.iranhost.com
-
-Administrator:
-	 unit 2, no.109, 6th andi
-	 tehran
-Tehran,
-IRAN, ISLAMIC REPUBLIC OF
- 156864996
-
-	 name:(mehdi bahreini)
-mail:(mailbox@hydronicsazeh.com) +98.2188457896
-	 hydronic sazeh
-Technical Contactor:
-	 unit 2, no.109, 6th andi
-	 tehran
-Tehran,
-IRAN, ISLAMIC REPUBLIC OF
- 156864996
-
-	 name:(mehdi bahreini)
-mail:(mailbox@hydronicsazeh.com) +98.2188457896
-	 hydronic sazeh
-Billing Contactor:
-	 unit 2, no.109, 6th andi
-	 tehran
-Tehran,
-IRAN, ISLAMIC REPUBLIC OF
- 156864996
-
-	 name:(mehdi bahreini)
-mail:(mailbox@hydronicsazeh.com) +98.2188457896
-	 hydronic sazeh
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.

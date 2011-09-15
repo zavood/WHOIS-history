@@ -5,27 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAI.NET
+   Domain Name: BFRAMED.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: ZA.AKAMAITECH.NET
-   Name Server: ZB.AKAMAITECH.NET
-   Name Server: ZC.AKAMAITECH.NET
-   Name Server: ZD.AKAMAITECH.NET
-   Name Server: ZE.AKAMAITECH.NET
-   Name Server: ZF.AKAMAITECH.NET
-   Name Server: ZG.AKAMAITECH.NET
-   Name Server: ZH.AKAMAITECH.NET
-   Name Server: ZM-1.AKAMAITECH.NET
-   Name Server: ZM-2.AKAMAITECH.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 02-feb-2011
-   Creation Date: 03-mar-1999
-   Expiration Date: 03-mar-2012
+   Name Server: NS1.CVOL.NET
+   Name Server: NS2.CVOL.NET
+   Status: ok
+   Updated Date: 02-nov-2010
+   Creation Date: 13-nov-1998
+   Expiration Date: 12-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:43:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:37:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -61,60 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Akamai Technologies
- 8 Cambridge Center
- Cambridge, MA 02142
+ B-Framed Galleries
+ 313 S Barstow
+ Eau Claire, WI 54701
  US
 
- Domain name: AKAMAI.NET
+ Domain name: BFRAMED.COM
 
 
  Administrative Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
+    Administrator, Domain  opensrs_adm@iserv.net
+    5222 33rd Street S.E.
+    Grand Rapids, MI 49512
     US
-    +1.6174443000    Fax: +1.6174443001
-
+    616-493-3720
  Technical Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
+    Administrator, Domain  opensrs_tech@iserv.net
+    5222 33rd St
+    Grand Rapids, MI 49512
     US
-    +1.6174443000    Fax: +1.6174443001
+    616-493-3720    Fax: 616-493-3730
 
 
 
  Registration Service Provider:
-    Akamai Technologies, hostmaster@akamai.com
-    617-444-3000
+    The Iserv Company, info@iserv.net
+    616-493-3720
     This company may be contacted for domain login/passwords,
     DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 02-Feb-2011.
- Record expires on 03-Mar-2012.
- Record created on 03-Mar-1999.
+ Record last updated on 02-Nov-2010.
+ Record expires on 12-Nov-2011.
+ Record created on 13-Nov-1998.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    ZH.AKAMAITECH.NET
-    ZE.AKAMAITECH.NET
-    ZF.AKAMAITECH.NET
-    ZM-2.AKAMAITECH.NET
-    ZB.AKAMAITECH.NET
-    ZM-1.AKAMAITECH.NET
-    ZA.AKAMAITECH.NET
-    ZG.AKAMAITECH.NET
-    ZC.AKAMAITECH.NET
-    ZD.AKAMAITECH.NET
+    NS1.CVOL.NET
+    NS2.CVOL.NET
 
 
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
+ Domain status: ok
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining

@@ -5,27 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAI.NET
+   Domain Name: GSMPRJCT.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: ZA.AKAMAITECH.NET
-   Name Server: ZB.AKAMAITECH.NET
-   Name Server: ZC.AKAMAITECH.NET
-   Name Server: ZD.AKAMAITECH.NET
-   Name Server: ZE.AKAMAITECH.NET
-   Name Server: ZF.AKAMAITECH.NET
-   Name Server: ZG.AKAMAITECH.NET
-   Name Server: ZH.AKAMAITECH.NET
-   Name Server: ZM-1.AKAMAITECH.NET
-   Name Server: ZM-2.AKAMAITECH.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 02-feb-2011
-   Creation Date: 03-mar-1999
-   Expiration Date: 03-mar-2012
+   Name Server: DNS1.PENGUINHOST.NET
+   Name Server: DNS2.PENGUINHOST.NET
+   Status: ok
+   Updated Date: 19-oct-2010
+   Creation Date: 25-jul-2008
+   Expiration Date: 25-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:43:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:39:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -61,60 +52,54 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Akamai Technologies
- 8 Cambridge Center
- Cambridge, MA 02142
- US
+ GSM Design exhibits inc.
+ 4898 de Maisonneuve West
+ 3rd floor
+ Montreal, QC H3Z 1M8
+ CA
 
- Domain name: AKAMAI.NET
+ Domain name: GSMPRJCT.COM
 
 
  Administrative Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
-    US
-    +1.6174443000    Fax: +1.6174443001
-
+    mayrand, yves  ymayrand@gsmdesign.ca
+    4898 de Maisonneuve West
+    3rd floor
+    Montreal, QC H3Z 1M8
+    CA
+    +001.5142884233
  Technical Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
-    US
-    +1.6174443000    Fax: +1.6174443001
+    Admin, Network  support@look.ca
+    1755 boul. Rene-Levesque Est
+    Suite #201
+    NOTE email addy below is not for end users
+    Montreal, QC H2K 4P6
+    CA
+    +1.8003565665    Fax: +1.9056933646
 
 
 
  Registration Service Provider:
-    Akamai Technologies, hostmaster@akamai.com
-    617-444-3000
+    Easy Hosting, dns@easyhosting.com
+    1-888-390-1210
     This company may be contacted for domain login/passwords,
     DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 02-Feb-2011.
- Record expires on 03-Mar-2012.
- Record created on 03-Mar-1999.
+ Record last updated on 19-Oct-2010.
+ Record expires on 25-Jul-2013.
+ Record created on 25-Jul-2008.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    ZH.AKAMAITECH.NET
-    ZE.AKAMAITECH.NET
-    ZF.AKAMAITECH.NET
-    ZM-2.AKAMAITECH.NET
-    ZB.AKAMAITECH.NET
-    ZM-1.AKAMAITECH.NET
-    ZA.AKAMAITECH.NET
-    ZG.AKAMAITECH.NET
-    ZC.AKAMAITECH.NET
-    ZD.AKAMAITECH.NET
+    DNS2.PENGUINHOST.NET
+    DNS1.PENGUINHOST.NET
 
 
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
+ Domain status: ok
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining

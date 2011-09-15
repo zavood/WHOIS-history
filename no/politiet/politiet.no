@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: POL1205D-NORID
+Domain Name................: politiet.no
+Domain Holder Handle.......: PDOM3O-NORID
+Registrar Handle...........: REG318-NORID
+Legal-c Handle.............: KF1746P-NORID
+Tech-c Handle..............: BH30R-NORID
+Name Server Handle.........: NSOS7H-NORID
+Name Server Handle.........: NSST126H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: PDOM3O-NORID
+Type.......................: organization
+Name.......................: POLITIETS DATA- OG MATERIELLTJENESTE (PDMT)
+Id Type....................: organization_number
+Id Number..................: 974761157
+Registrar Handle...........: REG318-NORID
+Post Address...............: Postboks 8031 Dep
+Postal Code................: NO-0030
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22068000
+Fax Number.................: +47.22068080
+Email Address..............: postmaster@politiet.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

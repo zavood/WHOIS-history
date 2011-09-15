@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HYDRONICSAZEH.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS1.IRANHOST.COM
-   Name Server: NS2.IRANHOST.COM
+   Domain Name: WRAPTIVO.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS.3M.COM
+   Name Server: PIGSEYE.MMM.COM
    Status: ok
-   Updated Date: 03-jul-2011
-   Creation Date: 05-jul-2008
-   Expiration Date: 05-jul-2012
+   Updated Date: 12-aug-2011
+   Creation Date: 07-oct-2009
+   Expiration Date: 07-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:40:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:45:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,65 +51,48 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
-
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
 Registrant:
-	 mehdi bahreini mailbox@hydronicsazeh.com +98.2188457896
-	 hydronic sazeh
-	 unit 2, no.109, 6th andi
-	 tehran,Tehran,IRAN, ISLAMIC REPUBLIC OF 156864996
+   Web Administrator
+   17991 Mitchell S
+   Irvine, CA  92614
+   US
+
+   Registrar: NAMESDIRECT
+   Domain Name: WRAPTIVO.COM
+      Created on: 07-OCT-09
+      Expires on: 07-OCT-12
+      Last Updated on: 12-AUG-11
+
+   Administrative, Technical Contact:
+      Administrator, Web  renewals@meguiars.com
+      17991 Mitchell S
+      Irvine, CA  92614
+      US
+      800-854-8073
 
 
-Domain Name:hydronicsazeh.com
-Record last updated at 2011-07-03 02:53:18
-Record created on 2008/7/5
-Record expired on 2012/7/5
+   Domain servers in listed order:
+      NS.3M.COM
+      PIGSEYE.MMM.COM
 
-
-Domain servers in listed order:
-	 ns1.iranhost.com 	 ns2.iranhost.com
-
-Administrator:
-	 unit 2, no.109, 6th andi
-	 tehran
-Tehran,
-IRAN, ISLAMIC REPUBLIC OF
- 156864996
-
-	 name:(mehdi bahreini)
-mail:(mailbox@hydronicsazeh.com) +98.2188457896
-	 hydronic sazeh
-Technical Contactor:
-	 unit 2, no.109, 6th andi
-	 tehran
-Tehran,
-IRAN, ISLAMIC REPUBLIC OF
- 156864996
-
-	 name:(mehdi bahreini)
-mail:(mailbox@hydronicsazeh.com) +98.2188457896
-	 hydronic sazeh
-Billing Contactor:
-	 unit 2, no.109, 6th andi
-	 tehran
-Tehran,
-IRAN, ISLAMIC REPUBLIC OF
- 156864996
-
-	 name:(mehdi bahreini)
-mail:(mailbox@hydronicsazeh.com) +98.2188457896
-	 hydronic sazeh
+End of Whois Information

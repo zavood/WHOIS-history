@@ -5,27 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: AKAMAI.NET
+   Domain Name: WOODENCAULIFLOWER.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: ZA.AKAMAITECH.NET
-   Name Server: ZB.AKAMAITECH.NET
-   Name Server: ZC.AKAMAITECH.NET
-   Name Server: ZD.AKAMAITECH.NET
-   Name Server: ZE.AKAMAITECH.NET
-   Name Server: ZF.AKAMAITECH.NET
-   Name Server: ZG.AKAMAITECH.NET
-   Name Server: ZH.AKAMAITECH.NET
-   Name Server: ZM-1.AKAMAITECH.NET
-   Name Server: ZM-2.AKAMAITECH.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 02-feb-2011
-   Creation Date: 03-mar-1999
-   Expiration Date: 03-mar-2012
+   Name Server: NS.123-REG.CO.UK
+   Name Server: NS2.123-REG.CO.UK
+   Status: ok
+   Updated Date: 14-mar-2011
+   Creation Date: 12-nov-2007
+   Expiration Date: 12-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:43:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:39:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -61,60 +52,55 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Registrant:
- Akamai Technologies
- 8 Cambridge Center
- Cambridge, MA 02142
- US
+ Kris Wood
+ 59 Cavendish Road
+ Jesmond
+ Newcastle Upon Tyne, Newcastle Upon Tyne NE2 2NJ
+ GB
 
- Domain name: AKAMAI.NET
+ Domain name: WOODENCAULIFLOWER.COM
 
 
  Administrative Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
-    US
-    +1.6174443000    Fax: +1.6174443001
-
+    Wood, Kris  kristopher.wood@unn.ac.uk
+    59 Cavendish Road
+    Jesmond
+    Newcastle Upon Tyne, Newcastle Upon Tyne NE2 2NJ
+    GB
+    +44.7964921176
  Technical Contact:
-    Hostmaster, Akamai  hostmaster-billing@akamai.com
-    8 Cambridge Center
-    Cambridge, MA 02142
-    US
-    +1.6174443000    Fax: +1.6174443001
+    Ltd, Webfusion  services@123-reg.co.uk
+    5 Roundwood Avenue
+    Stockley Park
+    Uxbridge, Middlesex UB11 1FF
+    GB
+    +44.8712309525    Fax: +44.8701650437
 
 
 
  Registration Service Provider:
-    Akamai Technologies, hostmaster@akamai.com
-    617-444-3000
+    123-reg.co.uk, services@123-reg.co.uk
+    08712309525
+    08709126612 (fax)
+    http://www.123-reg.co.uk
     This company may be contacted for domain login/passwords,
     DNS/Nameserver changes, and general domain support questions.
 
 
  Registrar of Record: TUCOWS, INC.
- Record last updated on 02-Feb-2011.
- Record expires on 03-Mar-2012.
- Record created on 03-Mar-1999.
+ Record last updated on 17-Dec-2009.
+ Record expires on 12-Nov-2011.
+ Record created on 12-Nov-2007.
 
  Registrar Domain Name Help Center:
     http://tucowsdomains.com
 
  Domain servers in listed order:
-    ZH.AKAMAITECH.NET
-    ZE.AKAMAITECH.NET
-    ZF.AKAMAITECH.NET
-    ZM-2.AKAMAITECH.NET
-    ZB.AKAMAITECH.NET
-    ZM-1.AKAMAITECH.NET
-    ZA.AKAMAITECH.NET
-    ZG.AKAMAITECH.NET
-    ZC.AKAMAITECH.NET
-    ZD.AKAMAITECH.NET
+    NS.123-REG.CO.UK
+    NS2.123-REG.CO.UK
 
 
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
+ Domain status: ok
 
 The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
 for information purposes only, and may be used to assist you in obtaining

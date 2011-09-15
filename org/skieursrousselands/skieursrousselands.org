@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D111857002-LROR
+Domain Name:SKIEURSROUSSELANDS.ORG
+Created On:17-Jan-2006 11:02:06 UTC
+Last Updated On:03-Aug-2011 10:21:22 UTC
+Expiration Date:17-Jan-2012 11:02:06 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:OK
+Registrant ID:ONLC-1962895-4
+Registrant Name:Xavier Tiberghien
+Registrant Organization:Xavier Tiberghien
+Registrant Street1:Chemin vieux
+Registrant Street2:
+Registrant Street3:
+Registrant City:St-Cergue
+Registrant State/Province:N/A
+Registrant Postal Code:1264
+Registrant Country:CH
+Registrant Phone:+41.223600101
+Registrant Phone Ext.:
+Registrant FAX:+41.223600101
+Registrant FAX Ext.:
+Registrant Email:xh@tiberghienxh.com
+Admin ID:ONLC-1962895-1
+Admin Name:Oxito.com
+Admin Organization:Oxito.com
+Admin Street1:Ch du Devent
+Admin Street2:
+Admin Street3:
+Admin City:Ecublens
+Admin State/Province:n/c
+Admin Postal Code:1024
+Admin Country:CH
+Admin Phone:+41.000000000
+Admin Phone Ext.:
+Admin FAX:+41.000000000
+Admin FAX Ext.:
+Admin Email:info@oxito.com
+Tech ID:ONLC-1962895-2
+Tech Name:Xavier Tiberghien
+Tech Organization:Ski-Club Les Skieurs Rousselands
+Tech Street1:1239 Route Blanche
+Tech Street2:
+Tech Street3:
+Tech City:LES ROUSSES
+Tech State/Province:N/A
+Tech Postal Code:39220
+Tech Country:FR
+Tech Phone:+33.384600664
+Tech Phone Ext.:
+Tech FAX:+33.384600664
+Tech FAX Ext.:
+Tech Email:grand-chavin.bruno@neuf.fr
+Name Server:NS.OXITO.COM
+Name Server:NS2.OXITO.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

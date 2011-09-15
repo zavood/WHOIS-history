@@ -21,27 +21,5 @@
 % Moreover,  the  user  shall be  held liable  for  any  and all  damage
 % arising from a violation of these points.
 
-domain:         meuse.at
-registrant:     DMMS7910100-NICAT
-admin-c:        DMMS7910100-NICAT
-tech-c:         DMMS7910100-NICAT
-nserver:        ns.alpine-cloud.at
-remarks:        86.111.39.2
-nserver:        ns1.netzlabor.com
-remarks:        194.208.119.122
-changed:        20110830 16:59:01
-source:         AT-DOM
-
-personname:     Meusburger Stefan
-organization:   die meuse. Meusburger Stefan
-street address: Platz 41
-postal code:    6870
-city:           Bezau
-country:        Austria
-phone:          +43676845592201
-fax-no:         +43551430194
-e-mail:         web@meuse.at
-nic-hdl:        DMMS7910100-NICAT
-changed:        20110318 08:54:54
-source:         AT-DOM
+% Quota exceeded
 
