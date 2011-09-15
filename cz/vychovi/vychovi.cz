@@ -1,0 +1,62 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 09:19:42 2011
+
+domain:       vychovi.cz
+registrant:   SB:VCOMP_ID
+admin-c:      VYCH_ID
+nsset:        NSS:VCOMP_ID:1
+registrar:    REG-ZONER
+status:       paid and in zone
+registered:   15.10.2000 14:51:00
+changed:      27.04.2006 10:55:00
+expire:       26.10.2011
+
+contact:      SB:VCOMP_ID
+org:          JUDr. Ing. Jan Vych
+name:         Jan Vych
+address:      Vodi&Auml;çkova 33
+address:      Praha 1
+address:      11000
+address:      CZ
+e-mail:       jan.vych@quick.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      20.05.2005 16:45:00
+
+contact:      VYCH_ID
+name:         Jan Vych
+address:      &Aring;&nbsp;kolsk&Atilde;&iexcl; 71
+address:      Dlouho&Aring;àovice
+address:      564 01
+address:      CZ
+phone:        +420 603461863
+e-mail:       jan.vych@centrum.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:VCOMP_ID:1
+nserver:      zamberk.alberon.cz
+nserver:      ns.czcom.cz
+tech-c:       SB:VCOMP_ID
+tech-c:       VYCH_ID
+registrar:    REG-ZONER
+created:      01.10.2007 02:00:00
+
+

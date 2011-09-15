@@ -1,0 +1,87 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 09:20:34 2011
+
+domain:       strelka.cz
+registrant:   SB:VH777-RIPE_XX
+admin-c:      ATATAR
+admin-c:      TBELOU
+admin-c:      VH777-RIPE
+nsset:        NSS:VH777-RIPE_XX:2
+registrar:    REG-MIRAMO
+status:       paid and in zone
+registered:   19.05.2002 21:26:00
+expire:       18.05.2012
+
+contact:      SB:VH777-RIPE_XX
+org:          INTERNET KRALUPY CZ s.r.o.
+name:         INTERNET KRALUPY CZ s.r.o.
+address:      Cechova 560
+address:      Kralupy nad V.
+address:      278 01
+address:      CZ
+e-mail:       info@ikc.cz,tatar@ikc.cz,tbeloubek@ikc.cz
+registrar:    REG-MIRAMO
+created:      10.08.2001 22:13:00
+changed:      17.04.2004 18:05:00
+
+contact:      ATATAR
+name:         Adam Tatar
+address:      H&Aring;&macr;rka
+address:      Kralupy nad Vltavou
+address:      278 01
+address:      CZ
+e-mail:       tatar@ikc.cz
+registrar:    REG-MIRAMO
+created:      16.04.2004 18:35:00
+
+contact:      TBELOU
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; B&Auml;›loubek
+address:      H&Aring;&macr;rka 1038
+address:      Kralupy nad Vltavou
+address:      27801
+address:      CZ
+e-mail:       tbeloubek@ikc.cz
+registrar:    REG-MIRAMO
+created:      16.04.2004 18:35:00
+
+contact:      VH777-RIPE
+name:         Vladimir Hanzl
+address:      &Auml;Œechova 560
+address:      Kralupy nad Vltavou
+address:      278 01
+address:      CZ
+phone:        +420 315722522
+fax-no:       +420 315726612
+e-mail:       info@ikc.cz
+registrar:    REG-MIRAMO
+created:      10.08.2001 22:13:00
+changed:      04.09.2003 14:16:00
+
+nsset:        NSS:VH777-RIPE_XX:2
+nserver:      ns.elaso.cz
+nserver:      ns.czcom.cz
+tech-c:       ATATAR
+tech-c:       TBELOU
+tech-c:       SB:VH777-RIPE_XX
+tech-c:       VH777-RIPE
+registrar:    REG-MIRAMO
+created:      01.10.2007 02:00:00
+
+

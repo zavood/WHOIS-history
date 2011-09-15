@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D118412580-LROR
+Domain Name:NGOBIZ.ORG
+Created On:14-Mar-2006 05:00:24 UTC
+Last Updated On:07-Jan-2010 04:05:15 UTC
+Expiration Date:14-Mar-2013 05:00:24 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-N83XFY5B995C
+Registrant Name:Pareena Prayukvong
+Registrant Organization:The NETWORK
+Registrant Street1:196/9 Soi Rajavithi 4, Rajavithi Road,
+Registrant Street2:Sam-sen Nai
+Registrant Street3:
+Registrant City:Phyathai
+Registrant State/Province:Bangkok
+Registrant Postal Code:10400
+Registrant Country:TH
+Registrant Phone:+66.662245542
+Registrant Phone Ext.:
+Registrant FAX:+66.6622455542
+Registrant FAX Ext.:
+Registrant Email:pareena@ngobiz.org
+Admin ID:DOT-J3C8BPM5745W
+Admin Name:Pareena Prayukvong
+Admin Organization:The NETWORK
+Admin Street1:196/9 Soi Rajavithi 4, Rajavithi Road,
+Admin Street2:Sam-sen Nai
+Admin Street3:
+Admin City:Phyathai
+Admin State/Province:Bangkok
+Admin Postal Code:10400
+Admin Country:TH
+Admin Phone:+66.662245542
+Admin Phone Ext.:
+Admin FAX:+66.6622455542
+Admin FAX Ext.:
+Admin Email:pareena@ngobiz.org
+Tech ID:DOT-EQIV2G4YZTLJ
+Tech Name:Pareena Prayukvong
+Tech Organization:The NETWORK
+Tech Street1:196/9 Soi Rajavithi 4, Rajavithi Road,
+Tech Street2:Sam-sen Nai
+Tech Street3:
+Tech City:Phyathai
+Tech State/Province:Bangkok
+Tech Postal Code:10400
+Tech Country:TH
+Tech Phone:+66.662245542
+Tech Phone Ext.:
+Tech FAX:+66.6622455542
+Tech FAX Ext.:
+Tech Email:pareena@ngobiz.org
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
