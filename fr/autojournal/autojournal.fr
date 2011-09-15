@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; autojournal.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      autojournal.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    E1367-FRNIC
+admin-c:     JB5781-FRNIC
+tech-c:      JC1200-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL27531-FRNIC
+registrar:   ALCYONIS
+anniversary: 25/11
+created:     18/12/2000
+last-update: 25/11/2009
+source:      FRNIC
+
+ns-list:     NSL27531-FRNIC
+nserver:     ns0.alcyonis.fr [217.28.64.11]
+nserver:     ns2.alcyonis.fr [217.28.64.4]
+nserver:     ns4.alcyonis.fr [62.39.93.70]
+source:      FRNIC
+
+registrar:   ALCYONIS
+type:        Isp Option 2
+address:     Le Th&eacute;l&egrave;me
+address:     1503 Route des Dolines
+address:     SOPHIA ANTIPOLIS
+country:     FR
+phone:       +33 4 97 24 40 00
+fax-no:      +33 4 92 38 06 30
+e-mail:      info@alcyonis.fr
+website:     http://www.alcyonis.fr/
+anonymous:   NO
+registered:  09/06/1998
+source:      FRNIC
+
+nic-hdl:     E1367-FRNIC
+type:        ORGANIZATION
+contact:     EDITIONS MONDADORI AXEL SPRINGER
+address:     48, rue Guynemer
+address:     92865 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 41 33 56 36
+e-mail:      nic@alcyonis.fr
+changed:     22/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JB5781-FRNIC
+type:        PERSON
+contact:     Julien Bruchet
+address:     48, rue Guynemer
+address:     92865 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 41 33 56 36
+e-mail:      julien.bruchet@mondadori.fr
+changed:     09/11/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JC1200-FRNIC
+type:        PERSON
+contact:     Jean-GAbriel Cabanas
+address:     Alcyonis
+address:     C/O Cica 2229 route des Cretes
+address:     06560 Sophia Antipolis
+country:     FR
+phone:       +33 4 92 94 23 80
+fax-no:      +33 4 92 94 23 81
+e-mail:      info@alcyonis.fr
+notify:      info@alcyonis.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

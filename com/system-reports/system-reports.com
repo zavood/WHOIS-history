@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 19-may-2011
    Expiration Date: 19-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:31:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 14:26:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -88,5 +88,5 @@ Contact E-mail:          riddickdenis@yahoo.com
 
 Registrar:               Regional Network Information Center, JSC dba RU-CENTER
 
-Last updated on 2011.09.14 05:32:32 MSK/MSD
+Last updated on 2011.09.15 18:27:22 MSK/MSD
 

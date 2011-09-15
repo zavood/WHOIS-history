@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; groupe-adecco-france.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      groupe-adecco-france.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    AGF29-FRNIC
+admin-c:     FW332-FRNIC
+tech-c:      LB2100-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL15944-FRNIC
+registrar:   KLUTE THIEMANN Informations technologie GmbH &amp; Co.K G.
+anniversary: 29/09
+created:     29/09/2009
+last-update: 27/12/2010
+source:      FRNIC
+
+ns-list:     NSL15944-FRNIC
+nserver:     ns1-eu.123ns.eu
+nserver:     ns3-eu.123ns.eu
+nserver:     ns2-eu.123ns.de
+nserver:     ns4-eu.123ns.de
+source:      FRNIC
+
+registrar:   KLUTE THIEMANN Informations technologie GmbH &amp; Co.K G.
+type:        Isp Option 2
+address:     Emil-Figge-Strasse 76-80
+address:     D-44227 DORTMUND
+country:     DE
+phone:       +49 231 9742 543
+fax-no:      +49 231 9742 544
+e-mail:      info@123domain.de
+website:     http://www.123domain.de
+anonymous:   NO
+registered:  20/04/2000
+source:      FRNIC
+
+nic-hdl:     AGF29-FRNIC
+type:        ORGANIZATION
+contact:     Adecco Groupe France
+address:     Adecco Groupe France
+address:     4, rue louis Guerin
+address:     69100 Villeurbanne
+country:     FR
+phone:       +33 4 72 82 58 58
+e-mail:      agf.domain@adecco-groupe.fr
+changed:     29/09/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     FW332-FRNIC
+type:        PERSON
+contact:     Fabrice Wery
+address:     Adecco Groupe France
+address:     2, Bvld du 11 Novembre
+address:     69100 Villeurbanne
+country:     FR
+phone:       +33 4 72 82 58 58
+e-mail:      AGF.domain@adecco-groupe.fr
+changed:     19/01/2009 hostmaster@123domain.eu
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LB2100-FRNIC
+type:        PERSON
+contact:     Laurent Bacconnier
+address:     Adecco IT Services
+address:     33, rue Maurice Flandin
+address:     69003 Lyon
+country:     FR
+phone:       +33 4 82 25 00 40
+fax-no:      +33 4 37 69 01 76
+e-mail:      aits.domain@adecco.com
+changed:     08/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
