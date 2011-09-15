@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D93697802-LROR
+Domain Name:BILDUNGSGUTSCHEINE.ORG
+Created On:06-Jan-2003 13:45:31 UTC
+Last Updated On:07-Jan-2011 01:24:13 UTC
+Expiration Date:06-Jan-2012 13:45:31 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ABM-10300091
+Registrant Name:Barbara Wagner
+Registrant Organization:Zentrum fuer Weiterbildung gGmbH
+Registrant Street1:Elbinger Strasse 7
+Registrant Street2:
+Registrant Street3:
+Registrant City:Frankfurt am Main
+Registrant State/Province:Hessen
+Registrant Postal Code:60487
+Registrant Country:DE
+Registrant Phone:+49.6997776100
+Registrant Phone Ext.:
+Registrant FAX:+49.6997776100
+Registrant FAX Ext.:
+Registrant Email:wagner@zfw.de
+Admin ID:ABM-10300091
+Admin Name:Barbara Wagner
+Admin Organization:Zentrum fuer Weiterbildung gGmbH
+Admin Street1:Elbinger Strasse 7
+Admin Street2:
+Admin Street3:
+Admin City:Frankfurt am Main
+Admin State/Province:Hessen
+Admin Postal Code:60487
+Admin Country:DE
+Admin Phone:+49.6997776100
+Admin Phone Ext.:
+Admin FAX:+49.6997776100
+Admin FAX Ext.:
+Admin Email:wagner@zfw.de
+Tech ID:ABM-380735
+Tech Name:Hostmaster onSite IT services
+Tech Organization:onSite internet services
+Tech Street1:Bischof-Brand-Str.2
+Tech Street2:
+Tech Street3:
+Tech City:OBERURSEL
+Tech State/Province:DE
+Tech Postal Code:61440
+Tech Country:DE
+Tech Phone:+49.6171981180
+Tech Phone Ext.:
+Tech FAX:+49.6171982810
+Tech FAX Ext.:
+Tech Email:hostmaster@onsite.org
+Name Server:A.NS14.NET
+Name Server:B.NS14.NET
+Name Server:C.NS14.NET
+Name Server:D.NS14.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
