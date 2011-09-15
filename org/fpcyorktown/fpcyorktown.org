@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152237765-LROR
+Domain Name:FPCYORKTOWN.ORG
+Created On:02-Apr-2008 20:47:27 UTC
+Last Updated On:03-Mar-2011 19:24:11 UTC
+Expiration Date:02-Apr-2018 20:47:27 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR35428634
+Registrant Name:Mark Linehan
+Registrant Organization:First Presbyterian Church of Yorktown
+Registrant Street1:2880 Crompond Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Yorktown
+Registrant State/Province:New York
+Registrant Postal Code:10598
+Registrant Country:US
+Registrant Phone:+1.9142452186
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:office@fpcyork.com
+Admin ID:CR35428636
+Admin Name:Barbara Darragh
+Admin Organization:First Presbyterian Church of Yorktown
+Admin Street1:2880 Crompond Road
+Admin Street2:
+Admin Street3:
+Admin City:Yorktown
+Admin State/Province:New York
+Admin Postal Code:10598
+Admin Country:US
+Admin Phone:+1.9142452186
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:office@fpcyork.com
+Tech ID:CR35428635
+Tech Name:Mark Linehan
+Tech Organization:First Presbyterian Church of Yorktown
+Tech Street1:2880 Crompond Road
+Tech Street2:
+Tech Street3:
+Tech City:Yorktown
+Tech State/Province:New York
+Tech Postal Code:10598
+Tech Country:US
+Tech Phone:+1.9142452186
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:office@fpcyork.com
+Name Server:NS1.MYINSTANTBLOG.COM
+Name Server:NS2.MYINSTANTBLOG.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

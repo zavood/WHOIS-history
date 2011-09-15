@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158642541-LROR
+Domain Name:IRISORGANIZATION.ORG
+Created On:19-Mar-2010 18:01:16 UTC
+Last Updated On:18-Jan-2011 14:36:12 UTC
+Expiration Date:19-Mar-2013 18:01:16 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR44214332
+Registrant Name:Kim Vierstra
+Registrant Organization:Offinger Management Company
+Registrant Street1:1100-H Brandywine Blvd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Zanesville
+Registrant State/Province:Ohio
+Registrant Postal Code:43701
+Registrant Country:US
+Registrant Phone:+1.7404524541
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webreg@offinger.com
+Admin ID:CR44214338
+Admin Name:Kim Vierstra
+Admin Organization:Offinger Management Company
+Admin Street1:1100-H Brandywine Blvd
+Admin Street2:
+Admin Street3:
+Admin City:Zanesville
+Admin State/Province:Ohio
+Admin Postal Code:43701
+Admin Country:US
+Admin Phone:+1.7404524541
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webreg@offinger.com
+Tech ID:CR44214335
+Tech Name:Kim Vierstra
+Tech Organization:Offinger Management Company
+Tech Street1:1100-H Brandywine Blvd
+Tech Street2:
+Tech Street3:
+Tech City:Zanesville
+Tech State/Province:Ohio
+Tech Postal Code:43701
+Tech Country:US
+Tech Phone:+1.7404524541
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webreg@offinger.com
+Name Server:NS45.DOMAINCONTROL.COM
+Name Server:NS46.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
