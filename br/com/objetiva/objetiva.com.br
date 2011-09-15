@@ -1,0 +1,53 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 03:36:58 (BRT -03:00)
+
+domain:      objetiva.com.br
+owner:       Editora Objetiva Ltda
+ownerid:     032.106.536/0001-82
+responsible: Camila Pohlmann
+country:     BR
+owner-c:     CAL1222
+admin-c:     CAL1222
+tech-c:      DTT17
+billing-c:   CAL1222
+nserver:     ns.objetiva.com.br 189.43.126.34
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns.techmaster.com.br
+nsstat:      20110913 NOT SYNC ZONE
+nslastaa:    20110913
+nserver:     ns.embratel.net.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     19980219 #86948
+expires:     20200219
+changed:     20110720
+provider:    LOCAWEB (2)
+status:      published
+
+nic-hdl-br:  CAL1222
+person:      Carlos Lobao
+e-mail:      marketing@objetiva.com.br
+created:     20051031
+changed:     20110204
+
+nic-hdl-br:  DTT17
+person:      DNS T&eacute;cnico Techmaster
+e-mail:      helpdesk@techmaster.com.br
+created:     20051109
+changed:     20090323
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCANVUE.COM
+   Domain Name: SPITPOD.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SAFESECUREWEB.COM
-   Name Server: NS2.SAFESECUREWEB.COM
-   Name Server: NS3.SAFESECUREWEB.COM
+   Name Server: NS1.SPITPOD.COM
+   Name Server: NS2.SPITPOD.COM
    Status: ok
-   Updated Date: 27-aug-2011
-   Creation Date: 25-sep-1998
-   Expiration Date: 24-sep-2012
+   Updated Date: 15-mar-2011
+   Creation Date: 23-mar-2006
+   Expiration Date: 23-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:36:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:36:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

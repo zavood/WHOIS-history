@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCANVUE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.SAFESECUREWEB.COM
-   Name Server: NS2.SAFESECUREWEB.COM
-   Name Server: NS3.SAFESECUREWEB.COM
+   Domain Name: SLG-DISTRITOYS.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.VALIDNAME.COM
+   Name Server: NS2.VALIDNAME.COM
    Status: ok
-   Updated Date: 27-aug-2011
-   Creation Date: 25-sep-1998
-   Expiration Date: 24-sep-2012
+   Updated Date: 08-oct-2010
+   Creation Date: 23-oct-2009
+   Expiration Date: 23-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:36:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:37:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name : SLG-DISTRITOYS.COM
+Created On : 2009-10-23
+Expiration Date : 2011-10-23
+Status : ACTIVE
+Registrant Name : Slg Distrib
+Registrant Street1 : 32, Rue de la convention
+Registrant City : Hagondange
+Registrant State/Province  :
+Registrant Postal Code : 57300
+Registrant Country : FR
+Admin Name : Do you soft
+Admin Street1 : 17 place pierre semard
+Admin City : Beziers
+Admin State/Province : FR
+Admin Postal Code : 34500
+Admin Country : FR
+Admin Phone : +33.467365978
+Admin Email : ndd@powerboutique.com
+Tech Name : Do you soft
+Tech Street1 : 17 place pierre semard
+Tech City : Beziers
+Tech State/Province : FR
+Tech Postal Code : 34500
+Tech Country : FR
+Tech Phone : +33.467365978
+Tech Email : ndd@powerboutique.com
+Billing Name : Slg Distrib
+Billing Street1 : 32, Rue de la convention
+Billing City : Hagondange
+Billing State/Province : FR
+Billing Postal Code : 57300
+Billing Country : FR
+Billing Phone : +33.0387583312
+Billing Email : lionel.garce@sfr.fr
+Name Server : NS1.VALIDNAME.COM
+Name Server : NS2.VALIDNAME.COM
+Registrar Name : Namebay

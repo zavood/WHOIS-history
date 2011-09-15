@@ -1,0 +1,17 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       25.in-addr.arpa
+
+organisation: UK Ministry of Defence
+
+nserver:      NS1.CS.UCL.AC.UK.
+nserver:      RELAY.MOD.UK.
+
+whois:        whois.ripe.net
+
+changed:      1995-01
+changed:      2011-01-08
+source:       IANA
+

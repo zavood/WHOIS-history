@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WIREDVALLEY.COM
+   Domain Name: MYINDIEHOST.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1059.WEBSITEWELCOME.COM
-   Name Server: NS1060.WEBSITEWELCOME.COM
+   Name Server: NS1.MYINDIEHOST.COM
+   Name Server: NS2.MYINDIEHOST.COM
    Status: clientTransferProhibited
-   Updated Date: 04-jul-2011
-   Creation Date: 03-aug-2001
-   Expiration Date: 03-aug-2012
+   Updated Date: 03-nov-2010
+   Creation Date: 02-nov-2009
+   Expiration Date: 02-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:35:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:36:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +52,45 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about wiredvalley.com
-&lt;a href=&quot;http://www.aboutus.org/wiredvalley.com&quot;&gt;AboutUs: wiredvalley.com&lt;/a&gt;
 
 
-Domain name: wiredvalley.com
+Domain name: myindiehost.com
 
 Registrant Contact:
-   Wired Valley
-   Chandra Prakash Kabra ()
+
+   Tara Gentile ()
 
    Fax:
-   2, Brabourne Road, 4th Floor,
-   Kolkata,  700001
-   IN
+   1516 Garfield Ave
+   Wyomissing,  19610
+   US
 
 Administrative Contact:
-   Wired Valley
-   Chandra Prakash Kabra (kabra77@hotmail.com)
-   +91.913322254058
-   Fax: +91.913322253461
-   2, Brabourne Road, 4th Floor,
-   Kolkata,  700001
-   IN
+   Scout Creative Media, llc
+   Tar Gentile (hello@taragentile.com)
+   +1.6106987212
+   Fax: 1.11
+   1722 Delaware Ave
+   Wyomissing, PA 19610
+   US
 
 Technical Contact:
-   Wired Valley
-   Chandra Prakash Kabra (kabra77@hotmail.com)
-   +91.913322254058
-   Fax: +91.913322253461
-   2, Brabourne Road, 4th Floor,
-   Kolkata,  700001
-   IN
+
+   Tara Gentile (hello@taragentile.com)
+   +1.6106986051
+   Fax:
+   1516 Garfield Ave
+   Wyomissing,  19610
+   US
 
 Status: Locked
 
 Name Servers:
-   ns1059.websitewelcome.com
-   ns1060.websitewelcome.com
+   ns1.myindiehost.com
+   ns2.myindiehost.com
 
-Creation date: 03 Aug 2001 13:59:22
-Expiration date: 03 Aug 2012 13:59:00
+Creation date: 02 Nov 2009 20:07:32
+Expiration date: 02 Nov 2011 19:07:32
 
 
 
