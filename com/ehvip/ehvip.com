@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FREECAUSE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.FREECAUSE.NET
-   Name Server: NS2.FREECAUSE.NET
-   Name Server: NS3.FREECAUSE.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: EHVIP.COM
+   Registrar: UNIVERSO ONLINE S/A (UOL)
+   Whois Server: whois.host.uol.com.br
+   Referral URL: http://registrar.host.uol.com.br
+   Name Server: NS1.SBRASIL.INFO
+   Name Server: NS2.SBRASIL.INFO
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 22-nov-2010
-   Creation Date: 18-aug-2006
-   Expiration Date: 18-aug-2017
+   Updated Date: 23-mar-2011
+   Creation Date: 01-apr-2010
+   Expiration Date: 01-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:26:13 UTC &lt;&lt;&lt;
 
@@ -55,41 +51,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+% UOL HOST whois server
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Searching for ehvip.com.  Found 1 record(s) matching ehvip.com.
 
+Domain:              ehvip.com
+Nameserver:          ns1.sbrasil.info
+Nameserver:          ns2.sbrasil.info
+Created:             20100401
+Updated:             20110323
 
 Registrant:
-   Domains by Proxy, Inc.
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FREECAUSE.COM
+Name:                Maria C Campos
+Organization:        Maria C Campos
+E-mail:              joey10br@uol.com.br
+Address:             Cpx 130 1384 null
+Address:             35519000
+Address:             NOVA SERRANA - MG
+Phone:               55 31 888888888
+Country:             BRASIL
+Created:             20100401
+Updated:             20100401
 
-   Domain servers in listed order:
-      NS1.FREECAUSE.NET
-      NS2.FREECAUSE.NET
-      NS3.FREECAUSE.NET
+Administrative Contact:
 
+Name:                Maria C Campos
+Organization:        Maria C Campos
+E-mail:              joey10br@uol.com.br
+Address:             Cpx 130 1384 null
+Address:             35519000
+Address:             NOVA SERRANA - MG
+Phone:               55 31 888888888
+Country:             BRASIL
+Created:             20100401
+Updated:             20100401
 
-   ****************************************************
-   See Business Registration Listing
-   ****************************************************
-   Copy and paste the link below to view additional details:
-   http://who.godaddy.com/whoischeck.aspx?domain=FREECAUSE.COM
+Technical Contact:
+
+Name:                Maria C Campos
+Organization:        Maria C Campos
+E-mail:              joey10br@uol.com.br
+Address:             Cpx 130 1384 null
+Address:             35519000
+Address:             NOVA SERRANA - MG
+Phone:               55 31 888888888
+Country:             BRASIL
+Created:             20100401
+Updated:             20100401
+

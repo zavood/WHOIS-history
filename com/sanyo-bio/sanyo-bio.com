@@ -5,22 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FREECAUSE.COM
+   Domain Name: SANYO-BIO.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.FREECAUSE.NET
-   Name Server: NS2.FREECAUSE.NET
-   Name Server: NS3.FREECAUSE.NET
+   Name Server: NS09.DOMAINCONTROL.COM
+   Name Server: NS10.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 22-nov-2010
-   Creation Date: 18-aug-2006
-   Expiration Date: 18-aug-2017
+   Updated Date: 10-jan-2011
+   Creation Date: 21-jan-2007
+   Expiration Date: 21-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:26:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:26:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,19 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Horizon
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FREECAUSE.COM
+   Domain Name: SANYO-BIO.COM
 
    Domain servers in listed order:
-      NS1.FREECAUSE.NET
-      NS2.FREECAUSE.NET
-      NS3.FREECAUSE.NET
+      NS09.DOMAINCONTROL.COM
+      NS10.DOMAINCONTROL.COM
 
 
-   ****************************************************
-   See Business Registration Listing
-   ****************************************************
-   Copy and paste the link below to view additional details:
-   http://who.godaddy.com/whoischeck.aspx?domain=FREECAUSE.COM
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=SANYO-BIO.COM
