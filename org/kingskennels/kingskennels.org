@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D138947076-LROR
+Domain Name:KINGSKENNELS.ORG
+Created On:05-Feb-2007 16:58:12 UTC
+Last Updated On:06-Feb-2010 11:11:22 UTC
+Expiration Date:05-Feb-2012 16:58:12 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32848926
+Registrant Name:Stacey Ford
+Registrant Organization:Performance Sporthorses LLC
+Registrant Street1:1218 Bristol Ct
+Registrant Street2:
+Registrant Street3:
+Registrant City:Shorewood
+Registrant State/Province:Illinois
+Registrant Postal Code:60404
+Registrant Country:US
+Registrant Phone:+1.8159221102
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:stacey.k.ford@comcast.net
+Admin ID:CR32848928
+Admin Name:Stacey Ford
+Admin Organization:Performance Sporthorses LLC
+Admin Street1:1218 Bristol Ct
+Admin Street2:
+Admin Street3:
+Admin City:Shorewood
+Admin State/Province:Illinois
+Admin Postal Code:60404
+Admin Country:US
+Admin Phone:+1.8159221102
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:stacey.k.ford@comcast.net
+Tech ID:CR32848927
+Tech Name:Stacey Ford
+Tech Organization:Performance Sporthorses LLC
+Tech Street1:1218 Bristol Ct
+Tech Street2:
+Tech Street3:
+Tech City:Shorewood
+Tech State/Province:Illinois
+Tech Postal Code:60404
+Tech Country:US
+Tech Phone:+1.8159221102
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:stacey.k.ford@comcast.net
+Name Server:NS35.DOMAINCONTROL.COM
+Name Server:NS36.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
