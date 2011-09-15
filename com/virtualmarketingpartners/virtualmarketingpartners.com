@@ -5,16 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DISHTIP.COM
-   Registrar: DOTSTER, INC.
-   Whois Server: whois.dotster.com
-   Referral URL: http://www.dotster.com
-   Name Server: NS2.LINODE.COM
-   Name Server: NS3.LINODE.COM
-   Status: ok
-   Updated Date: 21-jun-2011
-   Creation Date: 02-aug-2010
-   Expiration Date: 02-aug-2013
+   Domain Name: VIRTUALMARKETINGPARTNERS.COM
+   Registrar: GODADDY.COM, INC.
+   Whois Server: whois.godaddy.com
+   Referral URL: http://registrar.godaddy.com
+   Name Server: NS01.DOMAINCONTROL.COM
+   Name Server: NS02.DOMAINCONTROL.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 15-oct-2007
+   Creation Date: 16-mar-2005
+   Expiration Date: 16-mar-2016
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:35:52 UTC &lt;&lt;&lt;
 
@@ -51,66 +54,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data contained in GoDaddy.com, Inc.'s WhoIs database,
+while believed by the company to be reliable, is provided &quot;as is&quot;
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, Inc.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes.
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Please note: the registrant of the domain name is specified
+in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
+is not the registrant of domain names listed in this database.
 
-   Domain Services Provided By:
-      domain.com, support@support.domain.com
-      http://www.domain.com
 
 Registrant:
-   c/o DISHTIP.COM
-   P.O. Box 821650
-   Vancouver, WA  98682
-   US
+   Gordon Taubenheim
 
-   Registrar: DOTSTER
-   Domain Name: DISHTIP.COM
-      Created on: 02-AUG-10
-      Expires on: 03-AUG-13
-      Last Updated on: 21-JUN-11
-
-   Administrative Contact:
-      BhuEGX@PRIVACYPOST.COM
-      c/o DISHTIP.COM
-      P.O. Box 821650
-      Vancouver, WA  98682
-      US
-      +1.360-449-5933
-
-   Technical Contact:
-      WLKxBX@PRIVACYPOST.COM
-      c/o DISHTIP.COM
-      P.O. Box 821650
-      Vancouver, WA  98682
-      US
-      +1.360-449-5933
-
+   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
+   Domain Name: VIRTUALMARKETINGPARTNERS.COM
 
    Domain servers in listed order:
-      NS2.LINODE.COM
-      NS3.LINODE.COM
+      NS01.DOMAINCONTROL.COM
+      NS02.DOMAINCONTROL.COM
 
-This listing is a Whois Privacy Customer. Mail correspondence to this
-address must be sent via USPS Express Mail(TM) or USPS Certified
-Mail(R); all other mail will not be processed. Be sure to include
-the domain name in the address.
 
-End of Whois Information
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=VIRTUALMARKETINGPARTNERS.COM

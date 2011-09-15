@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DESERT-TROPICALS.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.HAGENHOSTING.COM
-   Name Server: NS2.HAGENHOSTING.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 18-dec-2009
-   Creation Date: 16-feb-1999
-   Expiration Date: 16-feb-2012
+   Domain Name: ANIMNET.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.YELLIS.NET
+   Name Server: NS2.YELLIS.NET
+   Status: ok
+   Updated Date: 04-apr-2011
+   Creation Date: 11-may-2001
+   Expiration Date: 11-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:35:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:34:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+&lt;a href='http://www.namebay.com'&gt;NAMEBAY&lt;/a&gt;
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
-Registrant:
-   Desert Tropicals
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DESERT-TROPICALS.COM
-
-   Domain servers in listed order:
-      NS1.HAGENHOSTING.COM
-      NS2.HAGENHOSTING.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DESERT-TROPICALS.COM
+Domain Name : ANIMNET.COM
+Created On : 2001-05-11
+Expiration Date : 2012-05-11
+Status : ACTIVE
+Registrant Name : MESTRANO OLIVIER
+Registrant Street1 : 6 rue des peupliers
+Registrant City : Le Mesnil-le-Roi
+Registrant State/Province  : FR
+Registrant Postal Code : 78600
+Registrant Country : FR
+Admin Name : MESTRANO OLIVIER
+Admin Street1 : 6 rue des peupliers
+Admin City : Le Mesnil-le-Roi
+Admin State/Province : N A
+Admin Postal Code : 78600
+Admin Country : FR
+Admin Phone : +33.603463589
+Admin Email : olivier.mestrano@aliceadsl.fr
+Tech Name : MESTRANO OLIVIER
+Tech Street1 : 6 rue des peupliers
+Tech City : Le Mesnil-le-Roi
+Tech State/Province : N A
+Tech Postal Code : 78600
+Tech Country : FR
+Tech Phone : +33.603463589
+Tech Email : olivier.mestrano@aliceadsl.fr
+Billing Name : MESTRANO OLIVIER
+Billing Street1 : 6 rue des peupliers
+Billing City : Le Mesnil-le-Roi
+Billing State/Province : N A
+Billing Postal Code : 78600
+Billing Country : FR
+Billing Phone : +33.603463589
+Billing Email : olivier.mestrano@aliceadsl.fr
+Name Server : NS1.YELLIS.NET
+Name Server : NS2.YELLIS.NET
+Registrar Name : Namebay

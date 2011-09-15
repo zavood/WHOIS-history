@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DESERT-TROPICALS.COM
+   Domain Name: DISCUSSCOOKING.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.HAGENHOSTING.COM
-   Name Server: NS2.HAGENHOSTING.COM
+   Name Server: NS1.EASYDNS.COM
+   Name Server: NS2.EASYDNS.COM
+   Name Server: REMOTE1.EASYDNS.COM
+   Name Server: REMOTE2.EASYDNS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 18-dec-2009
-   Creation Date: 16-feb-1999
-   Expiration Date: 16-feb-2012
+   Updated Date: 03-jun-2008
+   Creation Date: 13-feb-2002
+   Expiration Date: 31-dec-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:35:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:35:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Desert Tropicals
+   Social Knowledge, LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: DESERT-TROPICALS.COM
+   Domain Name: DISCUSSCOOKING.COM
 
    Domain servers in listed order:
-      NS1.HAGENHOSTING.COM
-      NS2.HAGENHOSTING.COM
+      NS1.EASYDNS.COM
+      NS2.EASYDNS.COM
+      REMOTE1.EASYDNS.COM
+      REMOTE2.EASYDNS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=DESERT-TROPICALS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=DISCUSSCOOKING.COM
