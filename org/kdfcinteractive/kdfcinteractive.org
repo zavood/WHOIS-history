@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161367831-LROR
+Domain Name:KDFCINTERACTIVE.ORG
+Created On:31-Jan-2011 21:30:05 UTC
+Last Updated On:02-Apr-2011 03:51:15 UTC
+Expiration Date:31-Jan-2012 21:30:05 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuCqeWqfgQo2nd3X
+Registrant Name:Chris Mendez
+Registrant Organization:KDFC
+Registrant Street1:201 Third Street
+Registrant Street2:Suite 1200
+Registrant Street3:
+Registrant City:San Francisco,
+Registrant State/Province:CA
+Registrant Postal Code:94103
+Registrant Country:US
+Registrant Phone:+1.2132257470
+Registrant Phone Ext.:
+Registrant FAX:+1.3105642007
+Registrant FAX Ext.:
+Registrant Email:kdfcinteractive@gmail.com
+Admin ID:tu5LgFISlpl6cruf
+Admin Name:Chris Mendez
+Admin Organization:KDFC
+Admin Street1:201 Third Street
+Admin Street2:Suite 1200
+Admin Street3:
+Admin City:San Francisco,
+Admin State/Province:CA
+Admin Postal Code:94103
+Admin Country:US
+Admin Phone:+1.2132257470
+Admin Phone Ext.:
+Admin FAX:+1.3105642007
+Admin FAX Ext.:
+Admin Email:kdfcinteractive@gmail.com
+Tech ID:tuN3R8znXPdKTp97
+Tech Name:DNS Administrator
+Tech Organization:(mt) Media Temple, Inc
+Tech Street1:8520 National Blvd.
+Tech Street2:Suite A
+Tech Street3:
+Tech City:Culver City
+Tech State/Province:CA
+Tech Postal Code:90232
+Tech Country:US
+Tech Phone:+1.8775784000
+Tech Phone Ext.:
+Tech FAX:+1.3105642007
+Tech FAX Ext.:
+Tech Email:dnsadmin@mediatemple.net
+Name Server:NS1.MEDIATEMPLE.NET
+Name Server:NS2.MEDIATEMPLE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

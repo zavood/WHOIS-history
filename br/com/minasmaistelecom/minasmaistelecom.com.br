@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 09:58:18 (BRT -03:00)
+
+domain:      minasmaistelecom.com.br
+owner:       Minas Mais Telecomunica&ccedil;&otilde;es Ltda -ME
+ownerid:     005.213.309/0001-83
+responsible: Daniel Dias Silva
+country:     BR
+owner-c:     MMTLT5
+admin-c:     MMTLT5
+tech-c:      MMTLT5
+billing-c:   MMTLT5
+nserver:     esmeralda.minasmaistelecom.com.br 187.63.239.250
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.minasmaistelecom.com.br 187.63.239.70
+nsstat:      20110913 FAIL
+nslastaa:    20110819
+created:     20090415 #5471339
+expires:     20120415
+changed:     20110819
+status:      published
+
+nic-hdl-br:  MMTLT5
+person:      Minas Mais Telecomunica&ccedil;&otilde;es Ltda
+e-mail:      ti@minasmais.com.br
+created:     20090415
+changed:     20110512
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
