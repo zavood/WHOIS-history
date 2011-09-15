@@ -1,0 +1,102 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 15:05:20 2011
+
+domain:       experian.cz
+registrant:   SB:EXPERIAN
+admin-c:      EXPERIAN
+temp-c:       SB:EXPERIANTECH
+temp-c:       EXPERIANTECH
+nsset:        NSS:EXPERIAN
+registrar:    REG-ZONER
+status:       paid and in zone
+registered:   21.02.2006 02:45:00
+changed:      22.05.2009 19:37:36
+expire:       21.02.2012
+
+contact:      SB:EXPERIAN
+org:          Experian Ltd (UK)
+name:         DNS Admin
+address:      Talbot House, Talbot Street
+address:      Nottingham
+address:      NG80 1TH
+address:      GB
+e-mail:       DNS.Admin@uk.Experian.com
+registrar:    REG-ZONER
+created:      21.02.2006 01:15:00
+
+contact:      EXPERIAN
+name:         DNS Admin
+address:      Talbot House, Talbot Street
+address:      Nottingham
+address:      NG80 1TH
+address:      GB
+phone:        +44.1159410888
+fax-no:       +44.1159344905
+e-mail:       DNS.Admin@uk.Experian.com
+registrar:    REG-ZONER
+created:      21.02.2006 00:45:00
+
+contact:      SB:EXPERIANTECH
+org:          Experian Ltd (UK)
+name:         DNS Technical
+address:      Fairham House, Mere Way, Ruddington Fields Business Park
+address:      Nottingham
+address:      NG80 1DP
+address:      GB
+e-mail:       DNS.Technical@uk.Experian.com
+registrar:    REG-ZONER
+created:      21.02.2006 01:25:00
+
+contact:      EXPERIANTECH
+name:         DNS Technical
+address:      Fairham House, Mere Way, Ruddington Fields Business Park
+address:      Nottingham
+address:      NG80 1DP
+address:      GB
+phone:        +44.1159413935
+e-mail:       DNS.Technical@uk.Experian.com
+registrar:    REG-ZONER
+created:      21.02.2006 00:45:00
+
+nsset:        NSS:EXPERIAN
+nserver:      a4.nstld.com
+nserver:      g4.nstld.com
+nserver:      f4.nstld.com
+nserver:      h4.nstld.com
+nserver:      j4.nstld.com
+nserver:      l4.nstld.com
+tech-c:       SB:EXPERIAN2
+registrar:    REG-ZONER
+created:      20.05.2009 20:22:36
+
+contact:      SB:EXPERIAN2
+org:          Experian Ltd (UK)
+name:         DNS  Technical
+address:      Fairham House
+address:      Mere Way
+address:      Ruddington Fields Business Park
+address:      Nottingham
+address:      NG80 1DP
+address:      GB
+e-mail:       DNS.Technical@uk.Experian.com
+registrar:    REG-ZONER
+created:      20.05.2009 20:21:45
+
+
