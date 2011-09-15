@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FILEAVE.COM
+   Domain Name: MUDSHOW.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.RIPSIDE.COM
-   Name Server: NS2.RIPSIDE.COM
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
    Status: clientTransferProhibited
-   Updated Date: 03-jun-2011
-   Creation Date: 28-may-2006
-   Expiration Date: 28-may-2012
+   Updated Date: 17-mar-2010
+   Creation Date: 21-apr-1998
+   Expiration Date: 20-apr-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:19:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:18:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,21 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about FILEAVE.COM
-&lt;a href=&quot;http://www.aboutus.org/FILEAVE.COM&quot;&gt;AboutUs: FILEAVE.COM &lt;/a&gt;
+Visit AboutUs.org for more information about MUDSHOW.COM
+&lt;a href=&quot;http://www.aboutus.org/MUDSHOW.COM&quot;&gt;AboutUs: MUDSHOW.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Smith, Scott
-   ATTN FILEAVE.COM
-   care of Network Solutions
-   PO Box 459
-   Drums, PA.  US  18222
+Sturdy Beggar's
+   34-16 41st Street Apt 4-I
+   Long Island City, NY 11101
+   US
 
-
-   Domain Name: FILEAVE.COM
+   Domain Name: MUDSHOW.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -97,29 +95,20 @@ Smith, Scott
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Smith, Scott		u86ec2vc6wf@networksolutionsprivateregistration.com
-      Ripside Interactive, Inc.
-      ATTN FILEAVE.COM
-      care of Network Solutions
-      PO Box 459
-      Drums, PA 18222
+      Sturdy Beggar's		wdhoy@earthlink.net
+      34-16 41st Street Apt 4-I
+      Long Island City, NY 11101
       US
-      570-708-8780
+      718-937-4728
 
 
-   Record expires on 28-May-2012.
-   Record created on 24-Sep-2008.
-   Database last updated on 15-Sep-2011 00:09:34 EDT.
+   Record expires on 20-Apr-2015.
+   Record created on 21-Apr-1998.
+   Database last updated on 15-Sep-2011 00:08:50 EDT.
 
    Domain servers in listed order:
 
-   NS1.RIPSIDE.COM              64.62.181.34
-   NS2.RIPSIDE.COM              64.62.181.35
-
-This listing is a Network Solutions Private Registration. Mail
-correspondence to this address must be sent via USPS Express Mail(TM) or
-USPS Certified Mail(R); all other mail will not be processed. Be sure to
-include the registrant's domain name in the address.
-
+   NS1.BLUEHOST.COM
+   NS2.BLUEHOST.COM
 
 

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: FILEAVE.COM
+   Domain Name: LUCE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.RIPSIDE.COM
-   Name Server: NS2.RIPSIDE.COM
+   Name Server: NEWS.CTS.COM
+   Name Server: NS.CTS.COM
    Status: clientTransferProhibited
-   Updated Date: 03-jun-2011
-   Creation Date: 28-may-2006
-   Expiration Date: 28-may-2012
+   Updated Date: 22-jun-2006
+   Creation Date: 25-jun-1994
+   Expiration Date: 24-jun-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:19:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:17:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,21 +74,20 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about FILEAVE.COM
-&lt;a href=&quot;http://www.aboutus.org/FILEAVE.COM&quot;&gt;AboutUs: FILEAVE.COM &lt;/a&gt;
+Visit AboutUs.org for more information about LUCE.COM
+&lt;a href=&quot;http://www.aboutus.org/LUCE.COM&quot;&gt;AboutUs: LUCE.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Smith, Scott
-   ATTN FILEAVE.COM
-   care of Network Solutions
-   PO Box 459
-   Drums, PA.  US  18222
+Luce, Forward, Hamilton &amp; Scripps
+   600 West Broadway
+   26th Floor
+   San Diego, CA 92101-3391
+   US
 
-
-   Domain Name: FILEAVE.COM
+   Domain Name: LUCE.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -97,29 +96,20 @@ Smith, Scott
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      Smith, Scott		u86ec2vc6wf@networksolutionsprivateregistration.com
-      Ripside Interactive, Inc.
-      ATTN FILEAVE.COM
-      care of Network Solutions
-      PO Box 459
-      Drums, PA 18222
-      US
-      570-708-8780
+      Dufresne, Anne Marie		amdufres@LUCE.COM
+      Luce, Forward, Hamilton &amp; Scripps
+      600 West Broadway
+      San Diego, CA 92101-3391
+      (619) 699-2429
 
 
-   Record expires on 28-May-2012.
-   Record created on 24-Sep-2008.
-   Database last updated on 15-Sep-2011 00:09:34 EDT.
+   Record expires on 24-Jun-2015.
+   Record created on 25-Jun-1994.
+   Database last updated on 15-Sep-2011 00:07:26 EDT.
 
    Domain servers in listed order:
 
-   NS1.RIPSIDE.COM              64.62.181.34
-   NS2.RIPSIDE.COM              64.62.181.35
-
-This listing is a Network Solutions Private Registration. Mail
-correspondence to this address must be sent via USPS Express Mail(TM) or
-USPS Certified Mail(R); all other mail will not be processed. Be sure to
-include the registrant's domain name in the address.
-
+   NS.CTS.COM                   207.155.248.155
+   NEWS.CTS.COM                 207.155.252.155
 
 
