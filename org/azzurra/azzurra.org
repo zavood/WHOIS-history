@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D70635990-LROR
+Domain Name:AZZURRA.ORG
+Created On:09-May-2001 16:50:03 UTC
+Last Updated On:08-May-2011 12:01:55 UTC
+Expiration Date:09-May-2012 16:50:04 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:34671853-NSI
+Registrant Name:Giametta Fatima
+Registrant Organization:Azzurra IRC Network
+Registrant Street1:Via Fiume, 34
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Remo
+Registrant State/Province:Italy
+Registrant Postal Code:18038
+Registrant Country:IT
+Registrant Phone:+39.34914871
+Registrant Phone Ext.:
+Registrant FAX:+39.34914871
+Registrant FAX Ext.:
+Registrant Email:lula@azzurra.org
+Admin ID:34671853-NSI
+Admin Name:Giametta Fatima
+Admin Organization:Azzurra IRC Network
+Admin Street1:Via Fiume, 34
+Admin Street2:
+Admin Street3:
+Admin City:San Remo
+Admin State/Province:Italy
+Admin Postal Code:18038
+Admin Country:IT
+Admin Phone:+39.34914871
+Admin Phone Ext.:
+Admin FAX:+39.34914871
+Admin FAX Ext.:
+Admin Email:lula@azzurra.org
+Tech ID:34671853-NSI
+Tech Name:Giametta Fatima
+Tech Organization:Azzurra IRC Network
+Tech Street1:Via Fiume, 34
+Tech Street2:
+Tech Street3:
+Tech City:San Remo
+Tech State/Province:Italy
+Tech Postal Code:18038
+Tech Country:IT
+Tech Phone:+39.34914871
+Tech Phone Ext.:
+Tech FAX:+39.34914871
+Tech FAX Ext.:
+Tech Email:lula@azzurra.org
+Name Server:DNS1.PANSERVICE.IT
+Name Server:DNS2.SEEWEB.IT
+Name Server:NS.BOFH.IT
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

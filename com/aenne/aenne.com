@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ARTFIN.NET
-   Registrar: DOTREGISTRAR, LLC.
-   Whois Server: whois.dotregistrar.com
-   Referral URL: http://www.dotregistrar.com
-   Name Server: NS.DDN.FR
-   Name Server: NS2.DDN.FR
+   Domain Name: AENNE.COM
+   Registrar: ASCIO TECHNOLOGIES, INC.
+   Whois Server: whois.ascio.com
+   Referral URL: http://www.ascio.com
+   Name Server: DNS1.DPN.DE
+   Name Server: DNS2.DPN.DE
    Status: ok
-   Updated Date: 29-oct-2010
-   Creation Date: 05-nov-2003
-   Expiration Date: 05-nov-2011
+   Updated Date: 21-jun-2011
+   Creation Date: 20-jun-2002
+   Expiration Date: 20-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:11:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:11:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,59 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The data in Ascio Technologies' WHOIS database is provided
+by Ascio Technologies for information purposes only. By submitting
+a WHOIS query, you agree that you will use this data
+only for lawful purpose. In addition, you agree not to use the data to:
+(a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising
+or solicitations to entities other than the data recipient' s
+own existing customers; or
+(b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator
+or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+Ascio Technologies reserves the right to
+modify these terms at any time. By accessing and using
+Ascio Technologies WHOIS information, you agree to these terms.
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
-
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT
+INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
 Registrant:
-   ASC ART BNP PARIBAS
-   3 Alle du Rosier et de la Muse
-   DRAVEIL,    91210
-   France
+  Hubert Burda Media Marketing &amp; Communications GmbH (HUBERTBU13)
+  Arabellastrasse 23
 
-   Registrar: DOTREGISTRAR
-   Domain Name: ARTFIN.NET
-      Created on: 05-NOV-03
-      Expires on: 05-NOV-11
-      Last Updated on: 29-OCT-10
+  Muenchen, , 81925
+  DE
 
-   Administrative Contact:
-      ARFI, Claude  admin@domainedesnoms.com
-      3 All&eacute;e du Rosier et de
-      la Muse
-      DRAVEIL,    91210
-      France
-      0142986568
-      0142986723
+  Domain name: aenne.com
 
-   Technical Contact:
-      ART BNP PARIBAS, ASC  claude.arfi@bnpparibas.com
-      3 All&eacute;e du Rosier et de
-      la Muse
-      DRAVEIL,    91210
-      France
-      0142986568
-      0142986723
+Technical contact:
+  Bartlitz, Andreas (AB12527)
+  Burda Digital Systems GmbH
+  Am Kestendamm 2
 
+  Offenburg, BW, 77652
+  DE
+  domain@burdadigital.de
+  +49.781842407 Fax: +49.781843629
 
-   Domain servers in listed order:
-      NS.DDN.FR
-      NS2.DDN.FR
+Administrative contact:
+  Klaeden, Joerg (JK4712)
+  Burda Digital Systems GmbH
+  Am Kestendamm 2
 
-End of Whois Information
+  Offenburg, DE, 77652
+  DE
+  domain@burdadigital.de
+  +49.781843070 Fax: +49.781843625
+
+Record created:           2008-01-28 11:15:24
+Record last updated:      2008-02-03 10:29:05
+Record expires:           2012-06-20 00:00:00
+
+Domain servers in listed order:
+  dns2.dpn.de (DNSDPNDE972)
+  dns1.dpn.de (DNSDPNDE297)

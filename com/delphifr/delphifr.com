@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ARTFIN.NET
-   Registrar: DOTREGISTRAR, LLC.
-   Whois Server: whois.dotregistrar.com
-   Referral URL: http://www.dotregistrar.com
-   Name Server: NS.DDN.FR
-   Name Server: NS2.DDN.FR
-   Status: ok
-   Updated Date: 29-oct-2010
-   Creation Date: 05-nov-2003
-   Expiration Date: 05-nov-2011
+   Domain Name: DELPHIFR.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: NS.WEBNEXT.COM
+   Name Server: NS2.WEBNEXT.COM
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 23-may-2007
+   Creation Date: 28-may-2001
+   Expiration Date: 28-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:11:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:10:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,59 +54,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+domain:       delphifr.com
+owner:        Nicolas SOREL
+email:        nicolas@sorel.org
+address:      57 rue Pierre Dulac
+city:         Fontenay sous bois
+state:        FRANCE
+postal-code:  94120
+country:      FR
+phone:        +33.66041605
+admin-c:      CCOM-4107 nicolas@sorel.org
+tech-c:       CCOM-4107 nicolas@sorel.org
+billing-c:    CCOM-4107 nicolas@sorel.org
+nserver:      ns.webnext.com
+nserver:      ns2.webnext.com
+status:       lock
+created:      2001-05-28 12:51:38 UTC
+modified:     2007-05-23 16:42:25 UTC
+expires:      2012-05-28 10:51:21 UTC
+query-source: 174.142.225.246
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+contact-hdl:  CCOM-4107
+person:       Nicolas SOREL
+email:        nicolas@sorel.org
+address:      38 rue Vigneronde
+city:         Argenteuil
+state:        FRANCE
+postal-code:  95100
+country:      FR
+phone:        +33.660416051
 
-Registrant:
-   ASC ART BNP PARIBAS
-   3 Alle du Rosier et de la Muse
-   DRAVEIL,    91210
-   France
-
-   Registrar: DOTREGISTRAR
-   Domain Name: ARTFIN.NET
-      Created on: 05-NOV-03
-      Expires on: 05-NOV-11
-      Last Updated on: 29-OCT-10
-
-   Administrative Contact:
-      ARFI, Claude  admin@domainedesnoms.com
-      3 All&eacute;e du Rosier et de
-      la Muse
-      DRAVEIL,    91210
-      France
-      0142986568
-      0142986723
-
-   Technical Contact:
-      ART BNP PARIBAS, ASC  claude.arfi@bnpparibas.com
-      3 All&eacute;e du Rosier et de
-      la Muse
-      DRAVEIL,    91210
-      France
-      0142986568
-      0142986723
-
-
-   Domain servers in listed order:
-      NS.DDN.FR
-      NS2.DDN.FR
-
-End of Whois Information
+source:       joker.com live whois service
+query-time:   0.027827
+db-updated:   2011-09-15 06:10:58
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

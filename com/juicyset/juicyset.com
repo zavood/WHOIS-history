@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ARTFIN.NET
-   Registrar: DOTREGISTRAR, LLC.
-   Whois Server: whois.dotregistrar.com
-   Referral URL: http://www.dotregistrar.com
-   Name Server: NS.DDN.FR
-   Name Server: NS2.DDN.FR
-   Status: ok
-   Updated Date: 29-oct-2010
-   Creation Date: 05-nov-2003
-   Expiration Date: 05-nov-2011
+   Domain Name: JUICYSET.COM
+   Registrar: HOSTLANE INC.
+   Whois Server: whois.hostlane.com
+   Referral URL: http://www.hostlane.com
+   Name Server: NS1.ISAACHOST.COM
+   Name Server: NS2.ISAACHOST.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 19-apr-2011
+   Creation Date: 18-apr-2011
+   Expiration Date: 18-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:11:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:10:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -72,38 +74,29 @@ and limitations of warranty.  Please limit your queries to 10 per
 minute and one connection.
 
 Registrant:
-   ASC ART BNP PARIBAS
-   3 Alle du Rosier et de la Muse
-   DRAVEIL,    91210
-   France
+   Isaac Goldstein
+   Level 39, One Exchange Square
+   8 Connaught Place
+   Hong Kong, NA  0000
+   HK
 
-   Registrar: DOTREGISTRAR
-   Domain Name: ARTFIN.NET
-      Created on: 05-NOV-03
-      Expires on: 05-NOV-11
-      Last Updated on: 29-OCT-10
+   Registrar: HOSTLANE
+   Domain Name: JUICYSET.COM
+      Created on: 18-APR-11
+      Expires on: 18-APR-12
+      Last Updated on: 19-APR-11
 
-   Administrative Contact:
-      ARFI, Claude  admin@domainedesnoms.com
-      3 All&eacute;e du Rosier et de
-      la Muse
-      DRAVEIL,    91210
-      France
-      0142986568
-      0142986723
-
-   Technical Contact:
-      ART BNP PARIBAS, ASC  claude.arfi@bnpparibas.com
-      3 All&eacute;e du Rosier et de
-      la Muse
-      DRAVEIL,    91210
-      France
-      0142986568
-      0142986723
+   Administrative, Technical Contact:
+      Goldstein, Isaac  snapnames@isaacgoldstein.com
+      Level 39, One Exchange Square
+      8 Connaught Place
+      Hong Kong, NA  0000
+      HK
+      +852.81757533
 
 
    Domain servers in listed order:
-      NS.DDN.FR
-      NS2.DDN.FR
+      NS1.ISAACHOST.COM
+      NS2.ISAACHOST.COM
 
 End of Whois Information

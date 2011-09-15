@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ARTFIN.NET
-   Registrar: DOTREGISTRAR, LLC.
-   Whois Server: whois.dotregistrar.com
-   Referral URL: http://www.dotregistrar.com
-   Name Server: NS.DDN.FR
-   Name Server: NS2.DDN.FR
+   Domain Name: AAAINTERNETPROVIDERS.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS43.PAIR.COM
+   Name Server: NS7.NS0.COM
    Status: ok
-   Updated Date: 29-oct-2010
-   Creation Date: 05-nov-2003
-   Expiration Date: 05-nov-2011
+   Updated Date: 10-jun-2011
+   Creation Date: 02-jul-2010
+   Expiration Date: 02-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:11:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:11:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -72,38 +72,28 @@ and limitations of warranty.  Please limit your queries to 10 per
 minute and one connection.
 
 Registrant:
-   ASC ART BNP PARIBAS
-   3 Alle du Rosier et de la Muse
-   DRAVEIL,    91210
-   France
+   Writers Opinion LLC
+   4021B Davies Lane
+   Mountain Grove, MO  65711
+   US
 
-   Registrar: DOTREGISTRAR
-   Domain Name: ARTFIN.NET
-      Created on: 05-NOV-03
-      Expires on: 05-NOV-11
-      Last Updated on: 29-OCT-10
+   Registrar: DOTSTER
+   Domain Name: AAAINTERNETPROVIDERS.COM
+      Created on: 02-JUL-10
+      Expires on: 02-JUL-12
+      Last Updated on: 10-JUN-11
 
-   Administrative Contact:
-      ARFI, Claude  admin@domainedesnoms.com
-      3 All&eacute;e du Rosier et de
-      la Muse
-      DRAVEIL,    91210
-      France
-      0142986568
-      0142986723
-
-   Technical Contact:
-      ART BNP PARIBAS, ASC  claude.arfi@bnpparibas.com
-      3 All&eacute;e du Rosier et de
-      la Muse
-      DRAVEIL,    91210
-      France
-      0142986568
-      0142986723
+   Administrative, Technical Contact:
+      Crider, Christine  christine@writersopinion.com
+      Writers Opinion LLC
+      4021B Davies Lane
+      Mountain Grove, MO  65711
+      US
+      800-501-1067
 
 
    Domain servers in listed order:
-      NS.DDN.FR
-      NS2.DDN.FR
+      NS43.PAIR.COM
+      NS7.NS0.COM
 
 End of Whois Information

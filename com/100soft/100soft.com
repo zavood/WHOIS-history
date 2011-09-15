@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ARTFIN.NET
-   Registrar: DOTREGISTRAR, LLC.
-   Whois Server: whois.dotregistrar.com
-   Referral URL: http://www.dotregistrar.com
-   Name Server: NS.DDN.FR
-   Name Server: NS2.DDN.FR
-   Status: ok
-   Updated Date: 29-oct-2010
-   Creation Date: 05-nov-2003
-   Expiration Date: 05-nov-2011
+   Domain Name: 100SOFT.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS3.DNS-DIY.COM
+   Name Server: NS4.DNS-DIY.COM
+   Status: clientDeleteProhibited
+   Updated Date: 28-dec-2010
+   Creation Date: 28-nov-2002
+   Expiration Date: 28-nov-2013
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:11:18 UTC &lt;&lt;&lt;
 
@@ -51,59 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
 
 Registrant:
-   ASC ART BNP PARIBAS
-   3 Alle du Rosier et de la Muse
-   DRAVEIL,    91210
-   France
-
-   Registrar: DOTREGISTRAR
-   Domain Name: ARTFIN.NET
-      Created on: 05-NOV-03
-      Expires on: 05-NOV-11
-      Last Updated on: 29-OCT-10
-
-   Administrative Contact:
-      ARFI, Claude  admin@domainedesnoms.com
-      3 All&eacute;e du Rosier et de
-      la Muse
-      DRAVEIL,    91210
-      France
-      0142986568
-      0142986723
-
-   Technical Contact:
-      ART BNP PARIBAS, ASC  claude.arfi@bnpparibas.com
-      3 All&eacute;e du Rosier et de
-      la Muse
-      DRAVEIL,    91210
-      France
-      0142986568
-      0142986723
+	 jianqiang wang wjqok@sina.com +86.68253386
+	 jianqiang
+	 Beijing
+	 Beijing,Beijing,CN 100039
 
 
-   Domain servers in listed order:
-      NS.DDN.FR
-      NS2.DDN.FR
+Domain Name:100soft.com
+Record last updated at 2010-01-14 04:05:01
+Record created on 2002/11/28
+Record expired on 2013/11/28
 
-End of Whois Information
+
+Domain servers in listed order:
+	 ns4.dns-diy.com 	 ns3.dns-diy.com
+
+Administrator:
+	 Beijing
+	 Beijing
+Beijing,
+CN
+ 100039
+
+	 name:(jianqiang wang)
+mail:(gao@e-icann.com) +86.68253386
+	 jianqiang wang
+Technical Contactor:
+	 ROOM.16-2-705 CUIWEIZHONGLI RAOD Beijing
+	 Beijing
+Beijing,
+CN
+ 100036
+
+	 name:(Beijing Enow data traffic Co.,Ltd)
+mail:(gao@e-icann.com) +86.68253386
+	 Beijing Enow data traffic Technologr Co.,Ltd
+Billing Contactor:
+	 ROOM.16-2-705 CUIWEIZHONGLI RAOD Beijing
+	 Beijing
+Beijing,
+CN
+ 100036
+
+	 name:(Beijing Enow data traffic Co.,Ltd)
+mail:(gao@e-icann.com) +86.68253386
+	 Beijing Enow data traffic Technologr Co.,Ltd

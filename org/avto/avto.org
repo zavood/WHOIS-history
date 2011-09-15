@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D88208441-LROR
+Domain Name:AVTO.ORG
+Created On:08-Jul-2002 12:56:21 UTC
+Last Updated On:12-Jul-2011 09:52:13 UTC
+Expiration Date:08-Jul-2012 13:01:58 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:00EEC17E45E9CBA2
+Registrant Name:Vladimir Chickin
+Registrant Organization:none
+Registrant Street1:ul. Veshnyakovskogo, d.27, kor
+Registrant Street2:.5,kv.46
+Registrant Street3:
+Registrant City:Moscow
+Registrant State/Province:
+Registrant Postal Code:123456
+Registrant Country:RU
+Registrant Phone:+7.959607174
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@saprdesign.ru
+Admin ID:00EEC17E45E9CBA2
+Admin Name:Vladimir Chickin
+Admin Organization:none
+Admin Street1:ul. Veshnyakovskogo, d.27, kor
+Admin Street2:.5,kv.46
+Admin Street3:
+Admin City:Moscow
+Admin State/Province:
+Admin Postal Code:123456
+Admin Country:RU
+Admin Phone:+7.959607174
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@saprdesign.ru
+Tech ID:D621CE9BDA7A1434
+Tech Name:Whois  Agent
+Tech Organization:Filanco
+Tech Street1:N.Syromyatnicheskaya, d. 5/7, str. 9
+Tech Street2:
+Tech Street3:
+Tech City:Moscow
+Tech State/Province:WA
+Tech Postal Code:105120
+Tech Country:RU
+Tech Phone:+7.4953630542
+Tech Phone Ext.:
+Tech FAX:+7.4953630542
+Tech FAX Ext.:
+Tech Email:support@hoster.ru
+Name Server:NS1.CENTRE.RU
+Name Server:NS2.CENTRE.RU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

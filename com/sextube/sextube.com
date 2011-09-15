@@ -5,13 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-HOSTING.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-HOSTING.COM.AR.ELVIEJOLUIS.COM
-HOSTING.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: SEXTUBE.COM
+   Registrar: EURODNS S.A
+   Whois Server: whois.eurodns.com
+   Referral URL: http://www.eurodns.com
+   Name Server: NS1.SWIFTWILL.COM
+   Name Server: NS2.SWIFTWILL.COM
+   Name Server: NS3.SWIFTWILL.COM
+   Status: clientTransferProhibited
+   Updated Date: 07-sep-2011
+   Creation Date: 31-oct-2004
+   Expiration Date: 31-oct-2015
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:10:49 UTC &lt;&lt;&lt;
 
@@ -48,3 +52,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The Data in EuroDNS WHOIS database is provided for information purposes only.
+The fact that EuroDNS display such information does not provide any guarantee
+expressed or implied on the purpose for which the database may be used, its
+accuracy or usefulness. By submitting a WHOIS query, you agree that you will
+use this Data only for lawful purposes and that, under no circumstances will
+you use this Data to:
+
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that apply to EuroDNS
+(or its systems). EuroDNS reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by the above policy.
+
+Whois History: 1,043 records have been archived since 2004-11-08
+http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=sextube.com
+
+Domain: sextube.com
+Registrar: Eurodns S.A.
+
+Registrant:
+Company: WhoisPrivacy Limited
+Name: Whois Privacy
+Address: 3/F, Jonsim Place, 228 Queen's Road East
+City: Wanchai
+Country: HONG KONG
+Postal Code: HK
+
+Administrative Contact:
+Company: WhoisPrivacy Limited
+Name: Whois Privacy
+Address: 3/F, Jonsim Place, 228 Queen's Road East
+City: Wanchai
+Country: HONG KONG
+Postal Code: HK
+Phone: +852 5808 1344
+Fax: +852 5808 1345
+Email: 754c115ec085be1e6a17c7571b324627283a50e3439ad24da4e0318a7c486060@whoisprivacy.com
+
+Technical Contact:
+Company: WhoisPrivacy Limited
+Name: Whois Privacy
+Address: 3/F, Jonsim Place, 228 Queen's Road East
+City: Wanchai
+Country: HONG KONG
+Postal Code: HK
+Phone: +852 5808 1344
+Fax: +852 5808 1345
+Email: 754c115ec085be1e6a17c7571b324627283a50e3439ad24da4e0318a7c486060@whoisprivacy.com
+
+Original Creation Date: 2004-11-01
+Expiration Date: 2015-10-31
+
+Status:
+clientTransferProhibited
+
+Nameserver Information:
+Nameserver: ns1.swiftwill.com
+Nameserver: ns2.swiftwill.com
+Nameserver: ns3.swiftwill.com
+
