@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HORSEBOOKLADY.COM
+   Domain Name: WAUKBEARING.COM
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
-   Name Server: DNS083.A.REGISTER.COM
-   Name Server: DNS101.B.REGISTER.COM
-   Name Server: DNS231.C.REGISTER.COM
-   Name Server: DNS249.D.REGISTER.COM
+   Name Server: DBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: DMTU.MT.NS.ELS-GMS.ATT.NET
    Status: clientTransferProhibited
-   Updated Date: 13-sep-2011
-   Creation Date: 13-aug-2000
-   Expiration Date: 13-aug-2013
+   Updated Date: 21-jun-2011
+   Creation Date: 16-oct-1996
+   Expiration Date: 15-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:26:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:30:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -72,13 +70,13 @@ By submitting this query, you agree to abide by these terms.
 
 
    Registrant:
-      Domain Discreet
-      ATTN: horsebooklady.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 6436515c0a16121f6501284792d72e1b@domaindiscreet.com
+      Waukesha Bearings Corporation
+      WBC Employee
+      W231 N2811 Roundy Circle East Suite 200
+      Pewaukee, WI 53072
+      US
+      Phone: +1.2625063000
+      Email: webmaster@waukbearing.com
 
 
 
@@ -86,35 +84,39 @@ By submitting this query, you agree to abide by these terms.
    Registrar Whois...: whois.register.com
    Registrar Homepage: www.register.com
 
-   Domain Name: horsebooklady.com
-      Created on..............: 2000-08-13
-      Expires on..............: 2013-08-13
+   Domain Name: waukbearing.com
+      Created on..............: 1996-10-16
+      Expires on..............: 2011-10-15
 
    Administrative Contact:
-      Domain Discreet
-      ATTN: horsebooklady.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 643651590a16121f0f82ba0c1a276852@domaindiscreet.com
+      Waukesha Bearings Corporation
+      WBC Employee
+      W231 N2811 Roundy Circle East Suite 200
+      Pewaukee, WI 53072
+      US
+      Phone: +1.2625063000
+      Email: webmaster@waukbearing.com
 
 
    Technical  Contact:
-      Domain Discreet
-      ATTN: horsebooklady.com
-      Rua Dr. Brito Camara, n 20, 1
-      Funchal, Madeira 9000-039
-      PT
-      Phone: 1-902-7495331
-      Email: 6436515e0a16121f4d8d972c9b461e5a@domaindiscreet.com
+      Register.Com
+      Domain Registrar
+      575 8th Avenue 11th Floor
+      New York, NY 10018
+      US
+      Phone: 1-902-7492701
+      Email: domain-registrar@register.com
 
 
    DNS Servers:
-      dns101.b.register.com
-      dns083.a.register.com
-      dns249.d.register.com
-      dns231.c.register.com
+      dbru.br.ns.els-gms.att.net
+      dmtu.mt.ns.els-gms.att.net
 
 
+
+Visit AboutUs.org for more information about waukbearing.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/waukbearing.com&quot;&gt;AboutUs: waukbearing.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
 

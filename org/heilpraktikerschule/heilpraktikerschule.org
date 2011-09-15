@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148822854-LROR
+Domain Name:HEILPRAKTIKERSCHULE.ORG
+Created On:08-Aug-2007 14:30:30 UTC
+Last Updated On:09-Aug-2011 01:23:18 UTC
+Expiration Date:08-Aug-2012 14:30:30 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:ABM-9703775
+Registrant Name:Clemens Vollmer
+Registrant Street1:Nuernberger Str. 272
+Registrant Street2:
+Registrant Street3:
+Registrant City:Regensburg
+Registrant State/Province:Bayern
+Registrant Postal Code:93059
+Registrant Country:DE
+Registrant Phone:+49.9418700896
+Registrant Phone Ext.:
+Registrant FAX:+49.9418700897
+Registrant FAX Ext.:
+Registrant Email:clemens.v@gmx.de
+Admin ID:ABM-9703775
+Admin Name:Clemens Vollmer
+Admin Street1:Nuernberger Str. 272
+Admin Street2:
+Admin Street3:
+Admin City:Regensburg
+Admin State/Province:Bayern
+Admin Postal Code:93059
+Admin Country:DE
+Admin Phone:+49.9418700896
+Admin Phone Ext.:
+Admin FAX:+49.9418700897
+Admin FAX Ext.:
+Admin Email:clemens.v@gmx.de
+Tech ID:ABM-9703775
+Tech Name:Clemens Vollmer
+Tech Street1:Nuernberger Str. 272
+Tech Street2:
+Tech Street3:
+Tech City:Regensburg
+Tech State/Province:Bayern
+Tech Postal Code:93059
+Tech Country:DE
+Tech Phone:+49.9418700896
+Tech Phone Ext.:
+Tech FAX:+49.9418700897
+Tech FAX Ext.:
+Tech Email:clemens.v@gmx.de
+Name Server:A.NS14.NET
+Name Server:B.NS14.NET
+Name Server:C.NS14.NET
+Name Server:D.NS14.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

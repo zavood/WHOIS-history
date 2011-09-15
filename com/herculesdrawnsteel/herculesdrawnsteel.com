@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XXXMASTI.NET
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS11.AUTUMNHOST.COM
-   Name Server: NS12.AUTUMNHOST.COM
+   Domain Name: HERCULESDRAWNSTEEL.COM
+   Registrar: UK2 GROUP LTD.
+   Whois Server: whois.hostingservicesinc.net
+   Referral URL: http://www.resell.biz
+   Name Server: US2.EARTH.ORDERBOX-DNS.COM
+   Name Server: US2.MARS.ORDERBOX-DNS.COM
+   Name Server: US2.MERCURY.ORDERBOX-DNS.COM
+   Name Server: US2.VENUS.ORDERBOX-DNS.COM
    Status: clientTransferProhibited
-   Updated Date: 06-sep-2011
-   Creation Date: 14-aug-2010
-   Expiration Date: 14-aug-2012
+   Updated Date: 07-jan-2011
+   Creation Date: 17-jan-2000
+   Expiration Date: 17-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:32:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:29:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,55 +53,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-&lt;a href=http://www.domainz.in&gt;Registration Service Provided By: DOMAINZ.IN
-Contact: +091.1615032762
-Website: http://www.domainz.in/
-&lt;/a&gt;
-Domain Name: XXXMASTI.NET
+Registration Service Provided By: RESELL.BIZ
+Contact: +1.8778266890
+Website: http://Resell.biz
+
+Domain Name: HERCULESDRAWNSTEEL.COM
 
 Registrant:
-    not found
-    not found        (shaun7310@gmail.com)
-    not found
-    not found
-    not found,ub3 5bj
-    GB
-    Tel. +44.0000000000
+    Not Applicable
+    Eaton Steel Bar Company        (jmachak@eatonsteel.com)
+    10221 Capital Avenue
+    Oak Park
+    MI,48237
+    US
+    Tel. +00.2483983434
+    Fax. +00.2483981434
 
-Creation Date: 14-Aug-2010
-Expiration Date: 14-Aug-2012
+Creation Date: 17-Jan-2000
+Expiration Date: 17-Jan-2012
 
 Domain servers in listed order:
-    ns11.autumnhost.com
-    ns12.autumnhost.com
+    us2.earth.orderbox-dns.com
+    us2.mars.orderbox-dns.com
+    us2.mercury.orderbox-dns.com
+    us2.venus.orderbox-dns.com
 
 
 Administrative Contact:
-    not found
-    not found        (shaun7310@gmail.com)
-    not found
-    not found
-    not found,ub3 5bj
-    GB
-    Tel. +44.0000000000
+    Eaton Steel
+    Kevin Kline        (kkline@eatonsteel.com)
+    10221 Capital
+    Oak Park
+    MI,48237
+    US
+    Tel. +00.7348532840
+    Fax. +00.7344643714
 
 Technical Contact:
-    not found
-    not found        (shaun7310@gmail.com)
-    not found
-    not found
-    not found,ub3 5bj
-    GB
-    Tel. +44.0000000000
+    Not Applicable
+    Larry Helwig        (lhelwig@eatonsteel.com)
+    Eaton Steel Bar Company - 38901 Amrhein Road
+    Livonia
+    MI,48150
+    US
+    Tel. +00.7344644454
+    Fax. +00.7344643714
 
 Billing Contact:
-    not found
-    not found        (shaun7310@gmail.com)
-    not found
-    not found
-    not found,ub3 5bj
-    GB
-    Tel. +44.0000000000
+    Not Applicable
+    Glenn Huber        (ghuber@eatonsteel.com)
+    Eaton Steel Bar Company - 10221 Capital Avenue
+    Oak Park
+    MI,48237
+    US
+    Tel. +00.2483983434
+    Fax. +00.2483981434
 
 Status:LOCKED
 	Note: This Domain Name is currently Locked. In this status the domain
@@ -117,8 +125,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+prior written consent from us. The Registrar of record is UK2 Group Ltd..
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
-
 

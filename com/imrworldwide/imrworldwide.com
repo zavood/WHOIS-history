@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 02-apr-1998
    Expiration Date: 01-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 18:00:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:35:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,8 +117,8 @@ Registrant:
 
     pdns1.ultradns.net
     pdns2.ultradns.net
-    udns2.ultradns.net
     udns1.ultradns.net
+    udns2.ultradns.net
 
 
 
