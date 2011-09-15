@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XZ19.COM
-   Registrar: CANYON GATE HOLDINGS LLC
-   Whois Server: whois.canyongate.biz
-   Referral URL: http://www.canyongate.biz
-   Name Server: DNS1.DNBIZ.COM
-   Name Server: DNS2.DNBIZ.COM
+   Domain Name: WALLPAPERS-DOOR.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: DNS0.HETEML.JP
+   Name Server: DNS1.HETEML.JP
    Status: clientTransferProhibited
-   Updated Date: 29-may-2011
-   Creation Date: 29-mar-2011
-   Expiration Date: 29-mar-2012
+   Updated Date: 17-dec-2010
+   Creation Date: 28-mar-2010
+   Expiration Date: 28-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:09:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:08:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,66 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name:     xz19.com
-Registrar:
+GMO Internet, Inc. whois server 2.0
 
-Expiration Date: 2012-03-29 18:05:33
-Creation Date:   2011-03-29 18:05:33
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
-Name Servers:
-	dns1.dnbiz.com
-	dns2.dnbiz.com
+Domain Handle: None
+Domain Name: wallpapers-door.com
+Created On: 2010-03-28 21:22:07.0
+Last Updated On: 2010-12-18 10:08:19.0
+Expiration Date: 2012-03-28 21:22:07.0
+Status: ACTIVE
+Registrant Name: Whois Privacy Protection Service
+Registrant Organization: paperboy and co.
+Registrant Street1: 2-7-21 Tenjin Chuo-ku
+Registrant Street2: Tenjin Prime 8F
+Registrant City: Fukuoka-shi
+Registrant State: Fukuoka
+Registrant Postal Code: 8100001
+Registrant Country: JP
+Registrant Phone: 81-927137999
+Registrant Fax: 81-927137944
+Registrant Email: privacy@whoisprivacyprotection.info
+Admin Name: Whois Privacy Protection Service
+Admin Organization: paperboy and co.
+Admin Street1: 2-7-21 Tenjin Chuo-ku
+Admin Street2: Tenjin Prime 8F
+Admin City: Fukuoka-shi
+Admin State: Fukuoka
+Admin Postal Code: 8100001
+Admin Country: JP
+Admin Phone: 81-927137999
+Admin Fax: 81-927137944
+Admin Email: privacy@whoisprivacyprotection.info
+Billing Name: Whois Privacy Protection Service
+Billing Organization: paperboy and co.
+Billing Street1: 2-7-21 Tenjin Chuo-ku
+Billing Street2: Tenjin Prime 8F
+Billing City: Fukuoka-shi
+Billing State: Fukuoka
+Billing Postal Code: 8100001
+Billing Country: JP
+Billing Phone: 81-927137999
+Billing Fax: 81-927137944
+Billing Email: privacy@whoisprivacyprotection.info
+Tech Name: Whois Privacy Protection Service
+Tech Organization: paperboy and co.
+Tech Street1: 2-7-21 Tenjin Chuo-ku
+Tech Street2: Tenjin Prime 8F
+Tech City: Fukuoka-shi
+Tech State: Fukuoka
+Tech Postal Code: 8100001
+Tech Country: JP
+Tech Phone: 81-927137999
+Tech Fax: 81-927137944
+Tech Email: privacy@whoisprivacyprotection.info
+Name Server: dns0.heteml.jp
+Name Server: dns1.heteml.jp
 
-REGISTRANT CONTACT INFO
-Bin Song
-Bin Song
-NO 15,Century New City
-Hangzhou
-Zhejiang
-310000
-CN
-Phone:         +86.8657187027930
-Fax:           +1.8657187027930
-Email Address: bizbj@hotmail.com
-
-ADMINISTRATIVE CONTACT INFO
-Bin Song
-Bin Song
-NO 15,Century New City
-Hangzhou
-Zhejiang
-310000
-CN
-Phone:         +86.8657187027930
-Fax:           +1.8657187027930
-Email Address: bizbj@hotmail.com
-
-TECHNICAL CONTACT INFO
-Bin Song
-Bin Song
-NO 15,Century New City
-Hangzhou
-Zhejiang
-310000
-CN
-Phone:         +86.8657187027930
-Fax:           +1.8657187027930
-Email Address: bizbj@hotmail.com
-
-BILLING CONTACT INFO
-Bin Song
-Bin Song
-NO 15,Century New City
-Hangzhou
-Zhejiang
-310000
-CN
-Phone:         +86.8657187027930
-Fax:           +1.8657187027930
-Email Address: bizbj@hotmail.com
-
-Timestamp: 1316066990.2194
-
-The Data in the  WHOIS database is provided by  for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.   does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to  (or its systems).  reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
-
-Cached on: 2011-09-15T00:09:50-06:00

@@ -14,60 +14,60 @@ necessary to register domain names or modify existing registrations.  All
 rights reserved. Public Interest Registry reserves the right to modify these terms at any
 time. By submitting this query, you agree to abide by this policy.
 
-Domain ID:D81041153-LROR
-Domain Name:3322.ORG
-Created On:11-Dec-2001 18:35:40 UTC
-Last Updated On:12-Dec-2010 01:23:16 UTC
-Expiration Date:11-Dec-2011 18:35:40 UTC
-Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
-Status:OK
-Registrant ID:ONLC-3042777-4
-Registrant Name:Bentium Ltd.
-Registrant Organization:Yaako Ltd.
-Registrant Street1:1406, Yinyuan Building   119, West Guanhe Road
-Registrant Street2:1406, Yinyuan Building   119, West Guanhe Road
+Domain ID:D75750136-LROR
+Domain Name:TGMS.ORG
+Created On:06-Aug-2001 20:35:10 UTC
+Last Updated On:30-Dec-2010 22:01:51 UTC
+Expiration Date:06-Aug-2017 20:35:10 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:38435846-NSI
+Registrant Name:TucsonGemand Mineral Society, Inc.
+Registrant Organization:TucsonGemand Mineral Society, Inc.
+Registrant Street1:P.O. Box 42543
+Registrant Street2:
 Registrant Street3:
-Registrant City:Changzhou
-Registrant State/Province:JS
-Registrant Postal Code:213002
-Registrant Country:CN
-Registrant Phone:+86.51988056600
+Registrant City:Tucson
+Registrant State/Province:AZ
+Registrant Postal Code:85733
+Registrant Country:US
+Registrant Phone:+1.5203225773
 Registrant Phone Ext.:
-Registrant FAX:+86.2161947030
+Registrant FAX:
 Registrant FAX Ext.:
-Registrant Email:ppyy@astpbx.com
-Admin ID:ONLC-3042777-1
-Admin Name:Bentium Ltd.
-Admin Organization:Yaako Ltd.
-Admin Street1:1406, Yinyuan Building   119, West Guanhe Road
-Admin Street2:1406, Yinyuan Building   119, West Guanhe Road
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:38435846-NSI
+Admin Name:TucsonGemand Mineral Society, Inc.
+Admin Organization:TucsonGemand Mineral Society, Inc.
+Admin Street1:P.O. Box 42543
+Admin Street2:
 Admin Street3:
-Admin City:Changzhou
-Admin State/Province:JS
-Admin Postal Code:213002
-Admin Country:CN
-Admin Phone:+86.51988056600
+Admin City:Tucson
+Admin State/Province:AZ
+Admin Postal Code:85733
+Admin Country:US
+Admin Phone:+1.5203225773
 Admin Phone Ext.:
-Admin FAX:+86.2161947030
+Admin FAX:
 Admin FAX Ext.:
-Admin Email:ppyy@astpbx.com
-Tech ID:ONLC-3042777-2
-Tech Name:Bentium Ltd.
-Tech Organization:Yaako Ltd.
-Tech Street1:1406, Yinyuan Building   119, West Guanhe Road
-Tech Street2:1406, Yinyuan Building   119, West Guanhe Road
+Admin Email:no.valid.email@worldnic.com
+Tech ID:38435846-NSI
+Tech Name:TucsonGemand Mineral Society, Inc.
+Tech Organization:TucsonGemand Mineral Society, Inc.
+Tech Street1:P.O. Box 42543
+Tech Street2:
 Tech Street3:
-Tech City:Changzhou
-Tech State/Province:JS
-Tech Postal Code:213002
-Tech Country:CN
-Tech Phone:+86.51988056600
+Tech City:Tucson
+Tech State/Province:AZ
+Tech Postal Code:85733
+Tech Country:US
+Tech Phone:+1.5203225773
 Tech Phone Ext.:
-Tech FAX:+86.2161947030
+Tech FAX:
 Tech FAX Ext.:
-Tech Email:ppyy@astpbx.com
-Name Server:NS2.3322.NET
-Name Server:NS1.3322.NET
+Tech Email:no.valid.email@worldnic.com
+Name Server:NS1.ACES.COM
+Name Server:NSP1.ENTERNETTECH.COM
 Name Server:
 Name Server:
 Name Server:

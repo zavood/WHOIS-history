@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XZ19.COM
-   Registrar: CANYON GATE HOLDINGS LLC
-   Whois Server: whois.canyongate.biz
-   Referral URL: http://www.canyongate.biz
-   Name Server: DNS1.DNBIZ.COM
-   Name Server: DNS2.DNBIZ.COM
-   Status: clientTransferProhibited
-   Updated Date: 29-may-2011
-   Creation Date: 29-mar-2011
-   Expiration Date: 29-mar-2012
+   Domain Name: CBPBRFECTCHOICE1.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.DYNADOT.COM
+   Name Server: NS2.DYNADOT.COM
+   Status: pendingDelete
+   Updated Date: 10-sep-2011
+   Creation Date: 30-jun-2010
+   Expiration Date: 30-jun-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:09:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:07:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,66 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name:     xz19.com
-Registrar:
-
-Expiration Date: 2012-03-29 18:05:33
-Creation Date:   2011-03-29 18:05:33
-
-Name Servers:
-	dns1.dnbiz.com
-	dns2.dnbiz.com
-
-REGISTRANT CONTACT INFO
-Bin Song
-Bin Song
-NO 15,Century New City
-Hangzhou
-Zhejiang
-310000
-CN
-Phone:         +86.8657187027930
-Fax:           +1.8657187027930
-Email Address: bizbj@hotmail.com
-
-ADMINISTRATIVE CONTACT INFO
-Bin Song
-Bin Song
-NO 15,Century New City
-Hangzhou
-Zhejiang
-310000
-CN
-Phone:         +86.8657187027930
-Fax:           +1.8657187027930
-Email Address: bizbj@hotmail.com
-
-TECHNICAL CONTACT INFO
-Bin Song
-Bin Song
-NO 15,Century New City
-Hangzhou
-Zhejiang
-310000
-CN
-Phone:         +86.8657187027930
-Fax:           +1.8657187027930
-Email Address: bizbj@hotmail.com
-
-BILLING CONTACT INFO
-Bin Song
-Bin Song
-NO 15,Century New City
-Hangzhou
-Zhejiang
-310000
-CN
-Phone:         +86.8657187027930
-Fax:           +1.8657187027930
-Email Address: bizbj@hotmail.com
-
-Timestamp: 1316066990.2194
-
-The Data in the  WHOIS database is provided by  for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.   does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to  (or its systems).  reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
-
-Cached on: 2011-09-15T00:09:50-06:00
+You have exceeded your access quota. Please try again later.

@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: XZ19.COM
-   Registrar: CANYON GATE HOLDINGS LLC
-   Whois Server: whois.canyongate.biz
-   Referral URL: http://www.canyongate.biz
-   Name Server: DNS1.DNBIZ.COM
-   Name Server: DNS2.DNBIZ.COM
+   Domain Name: LITYPACUXAVA.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS1.LITYPACUXAVA.COM
+   Name Server: NS2.LITYPACUXAVA.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 29-may-2011
-   Creation Date: 29-mar-2011
-   Expiration Date: 29-mar-2012
+   Updated Date: 12-jul-2011
+   Creation Date: 21-jun-2011
+   Expiration Date: 21-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:09:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:09:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,66 +52,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name:     xz19.com
-Registrar:
 
-Expiration Date: 2012-03-29 18:05:33
-Creation Date:   2011-03-29 18:05:33
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.cnobin.com
+Whois Server: whois.bizcn.com
 
-Name Servers:
-	dns1.dnbiz.com
-	dns2.dnbiz.com
+Domain name: litypacuxava.com
 
-REGISTRANT CONTACT INFO
-Bin Song
-Bin Song
-NO 15,Century New City
-Hangzhou
-Zhejiang
-310000
-CN
-Phone:         +86.8657187027930
-Fax:           +1.8657187027930
-Email Address: bizbj@hotmail.com
+Registrant Contact:
+   Isabel Harrison
+   Isabel Harrison bake@fxmail.net
+   +16132326962 fax: +16132326962
+   427 Laurier Avenue West
+   Ottawa ON K1R 7Y1
+   CA
 
-ADMINISTRATIVE CONTACT INFO
-Bin Song
-Bin Song
-NO 15,Century New City
-Hangzhou
-Zhejiang
-310000
-CN
-Phone:         +86.8657187027930
-Fax:           +1.8657187027930
-Email Address: bizbj@hotmail.com
+Administrative Contact:
+   Isabel Harrison bake@fxmail.net
+   +16132326962 fax: +16132326962
+   427 Laurier Avenue West
+   Ottawa ON K1R 7Y1
+   CA
 
-TECHNICAL CONTACT INFO
-Bin Song
-Bin Song
-NO 15,Century New City
-Hangzhou
-Zhejiang
-310000
-CN
-Phone:         +86.8657187027930
-Fax:           +1.8657187027930
-Email Address: bizbj@hotmail.com
+Technical Contact:
+   Isabel Harrison bake@fxmail.net
+   +16132326962 fax: +16132326962
+   427 Laurier Avenue West
+   Ottawa ON K1R 7Y1
+   CA
 
-BILLING CONTACT INFO
-Bin Song
-Bin Song
-NO 15,Century New City
-Hangzhou
-Zhejiang
-310000
-CN
-Phone:         +86.8657187027930
-Fax:           +1.8657187027930
-Email Address: bizbj@hotmail.com
+Billing Contact:
+   Isabel Harrison bake@fxmail.net
+   +16132326962 fax: +16132326962
+   427 Laurier Avenue West
+   Ottawa ON K1R 7Y1
+   CA
 
-Timestamp: 1316066990.2194
+Registration Service Provider:
+name: Bizcn
 
-The Data in the  WHOIS database is provided by  for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.   does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to  (or its systems).  reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
+DNS:
+ns1.litypacuxava.com
+ns2.litypacuxava.com
 
-Cached on: 2011-09-15T00:09:50-06:00
+Created: 2011-06-21
+Expires: 2012-06-21
