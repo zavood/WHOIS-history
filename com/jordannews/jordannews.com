@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THECROSSBOWSTORE.COM
+   Domain Name: JORDANNEWS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: YNS1.YAHOO.COM
-   Name Server: YNS2.YAHOO.COM
+   Name Server: PDNS01.DOMAINCONTROL.COM
+   Name Server: PDNS02.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 29-aug-2011
-   Creation Date: 23-oct-2008
-   Expiration Date: 23-oct-2016
+   Updated Date: 27-jun-2011
+   Creation Date: 17-feb-1998
+   Expiration Date: 30-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:08:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:07:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Domains by Proxy, Inc.
+   Southwest Suburban Publishing
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THECROSSBOWSTORE.COM
+   Domain Name: JORDANNEWS.COM
 
    Domain servers in listed order:
-      YNS1.YAHOO.COM
-      YNS2.YAHOO.COM
+      PDNS01.DOMAINCONTROL.COM
+      PDNS02.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THECROSSBOWSTORE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=JORDANNEWS.COM

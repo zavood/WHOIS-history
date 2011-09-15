@@ -1,0 +1,64 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://www.nic.it/cgi-bin/Whois/whois.cgi                         *
+*********************************************************************
+
+Domain:             bofh.it
+Status:             ok
+Created:            2000-02-18 00:00:00
+Last Update:        2011-06-27 11:44:57
+Expire Date:        2012-06-12
+
+Registrant
+  Name:             Marco d'Itri
+  Organization:     Marco d'Itri
+  ContactID:        MDI46
+  Address:          c/o ITGate.Net
+                    Corso Svizzera 185
+                    Torino
+                    10149
+                    TO
+                    IT
+  Created:          2000-01-06 00:00:00
+  Last Update:      2011-01-10 16:03:57
+
+Admin Contact
+  Name:             Marco d'Itri
+  Organization:     Marco d'Itri
+  ContactID:        MDI46
+  Address:          c/o ITGate.Net
+                    Corso Svizzera 185
+                    Torino
+                    10149
+                    TO
+                    IT
+  Created:          2000-01-06 00:00:00
+  Last Update:      2011-01-10 16:03:57
+
+Technical Contacts
+  Name:             Itgate.net Noc Operations
+  ContactID:        ITGA1
+  Address:          Corso Svizzera 185
+                    Torino
+                    10149
+                    TO
+                    IT
+  Created:          2004-08-24 00:00:00
+  Last Update:      2011-01-10 16:04:02
+
+Registrar
+  Organization:     IT.Gate S.p.A.
+  Name:             ITGATE-REG
+  Web:              http://www.itgate.net
+
+Nameservers
+  glue-ns.bofh.it
+  ns.trn.itgate.net
+  dns2.seeweb.it
+  ns01.warinet.ch
+  ns02.warinet.ch
+

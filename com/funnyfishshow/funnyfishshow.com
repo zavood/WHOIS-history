@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: THECROSSBOWSTORE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: YNS1.YAHOO.COM
-   Name Server: YNS2.YAHOO.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: FUNNYFISHSHOW.COM
+   Registrar: TODAYNIC.COM, INC.
+   Whois Server: whois.todaynic.com
+   Referral URL: http://www.NOW.CN
+   Name Server: DEL1292061010.I-NOW.COM
+   Name Server: DEL1292061015.I-NOW.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 29-aug-2011
-   Creation Date: 23-oct-2008
-   Expiration Date: 23-oct-2016
+   Updated Date: 09-dec-2010
+   Creation Date: 04-nov-2010
+   Expiration Date: 04-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:08:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:09:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Dear Valued Customer,
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+This message is a reminder to help you keep the contact data associated with your domain
+registration up-to-date. Our records include the following information:
 
+
+Domain name: funnyfishshow.com
+Status: Active
+
+Protection Status: public
+( make contact info private at http://www.now.cn/domain/domainPrivate.php )
 
 Registrant:
-   Domains by Proxy, Inc.
+Name: Michael Tycoon
+Organization: n/a
+Address: Hanckemaborg 21
+City: Groningen
+Province/state: GRONINGEN
+Country: NL
+Postal Code: 9722
+Email: michaeltycoon@gmail.com
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THECROSSBOWSTORE.COM
+Administrative Contact:
+Name: Michael Tycoon
+Organization: n/a
+Address: Hanckemaborg 21
+City: Groningen
+Province/state: GRONINGEN
+Country: NL
+Postal Code: 9722
+Phone: +31.543581320
+Fax: +31.543581320
+Email: michaeltycoon@gmail.com
 
-   Domain servers in listed order:
-      YNS1.YAHOO.COM
-      YNS2.YAHOO.COM
+Technical Contact:
+Name: Michael Tycoon
+Organization: n/a
+Address: Hanckemaborg 21
+City: Groningen
+Province/state: GRONINGEN
+Country: NL
+Postal Code: 9722
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THECROSSBOWSTORE.COM
+Nameserver Information:
+    ns1.funnybearsshow.com
+    ns2.funnybearsshow.com
+
+Create: 2010-11-04 18:14:26
+Update: 2010-12-09
+Expired: 2011-11-04
+QueryTimes: 85
+
+
+If any of the information above is inaccurate, you must correct it by visiting our website or contact us.
+(If your review indicates that all of the information above is accurate, you do not need to take any action.)
+Please remember that under the terms of your registration agreement, the provision of false Whois information
+can be grounds for cancellation of your domain name registration.
+Todaynic.com,Inc. reserves the right to modify these terms at any time.

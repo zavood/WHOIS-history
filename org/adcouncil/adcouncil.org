@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2904266-LROR
+Domain Name:ADCOUNCIL.ORG
+Created On:05-May-1995 04:00:00 UTC
+Last Updated On:16-Jan-2008 15:41:48 UTC
+Expiration Date:06-May-2012 04:00:00 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:7214049436657495
+Registrant Name:Gairy Rahat
+Registrant Organization:Ad Council
+Registrant Street1:815 2nd Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:NY
+Registrant Postal Code:10017
+Registrant Country:US
+Registrant Phone:+1.2129841915
+Registrant Phone Ext.:
+Registrant FAX:+1.2128081515
+Registrant FAX Ext.:
+Registrant Email:mmorero@adcouncil.org
+Admin ID:C43763941-RCOM
+Admin Name:Mike Morero
+Admin Organization:Ad Council
+Admin Street1:261 Madison Ave, 11th Floor
+Admin Street2:
+Admin Street3:
+Admin City:New York
+Admin State/Province:NY
+Admin Postal Code:10016
+Admin Country:US
+Admin Phone:+1.2129841915
+Admin Phone Ext.:
+Admin FAX:+1.2129841968
+Admin FAX Ext.:
+Admin Email:mmorero@adcouncil.org
+Tech ID:C43763958-RCOM
+Tech Name:Mike Morero
+Tech Organization:Mike Morero
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.2129841915
+Tech Phone Ext.:
+Tech FAX:+1.9027495429
+Tech FAX Ext.:
+Tech Email:mmorero@adcouncil.org
+Name Server:DNS067.A.REGISTER.COM
+Name Server:DNS222.B.REGISTER.COM
+Name Server:DNS015.C.REGISTER.COM
+Name Server:DNS010.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

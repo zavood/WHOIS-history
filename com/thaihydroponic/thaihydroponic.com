@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HOPESTER.NET
+   Domain Name: THAIHYDROPONIC.COM
    Registrar: ONLINENIC, INC.
    Whois Server: whois.onlinenic.com
    Referral URL: http://www.OnlineNIC.com
-   Name Server: NS1.ZONEEDIT.COM
-   Name Server: NS2.ZONEEDIT.COM
-   Status: clientTransferProhibited
-   Updated Date: 07-jun-2011
-   Creation Date: 29-aug-2000
-   Expiration Date: 29-aug-2012
+   Name Server: NS13.CHAIYOHOSTING.COM
+   Name Server: NS14.CHAIYOHOSTING.COM
+   Status: ok
+   Updated Date: 24-may-2011
+   Creation Date: 23-feb-2009
+   Expiration Date: 23-feb-2013
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:07:54 UTC &lt;&lt;&lt;
 
@@ -68,48 +68,48 @@ The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
 
 
 Registrant:
-	 ENO, INC. domainadm@dadmin.net +1.7702161557
-	 ENO, INC.
-	 10807 Jones Rd. PMB 163
-	 HOUSTON,TX,US 77065
+	 Kittitat Doonyapinyo kittitat@hotmail.com +66.817118111
+	 Kittitat Doonyapinyo
+	 260/20 Ladpharo 64
+	 Wanthonglang,Bangkok,TH 10310
 
 
-Domain Name:hopester.net
-Record last updated at 2011-06-07 07:46:28
-Record created on 2000/8/29
-Record expired on 2012/8/29
+Domain Name:thaihydroponic.com
+Record last updated at 2011-05-24 06:58:44
+Record created on 2009/2/23
+Record expired on 2013/2/23
 
 
 Domain servers in listed order:
-	 ns1.zoneedit.com 	 ns2.zoneedit.com
+	 ns13.chaiyohosting.com 	 ns14.chaiyohosting.com
 
 Administrator:
-	 Name-- Domain  Administrator
- EMail-: (domainadm@dadmin.net)
- tel --: +1.7702161557
-	 org: Domain Administrators
-	 2103 N. Decatur Rd.  PMB 341
-	 Decatur,GA,US 30033
+	 Name-- Anupong  Kriangkrailipikorn
+ EMail-: (support@chaiyohosting.com)
+ tel --: +66.23760580
+	 org: Chaiyo Hosting Co., Ltd.
+	 3312/33-34 2-3 FL Zone A Soi Ladprao 101 Ladprao rd.
+	 Klongchan Bangkapi,Bangkok,TH 10240
 
 Technical Contactor:
-	 Name-- Domain Administrators
- EMail-: (domainadm@dadmin.net)
- tel --: +1.7702161557
-	 org: Domain Administrators
-	 2103 N. Decatur Rd.  PMB 341
-	 Decatur,GA,US 30033
+	 Name-- Anupong  Kriangkrailipikorn
+ EMail-: (support@chaiyohosting.com)
+ tel --: +66.23760580
+	 org: Chaiyo Hosting Co., Ltd.
+	 3312/33-34 2-3 FL Zone A Soi Ladprao 101 Ladprao rd.
+	 Klongchan Bangkapi,Bangkok,TH 10240
 
 Billing Contactor:
-	 Name-- Domain  Administrator
- EMail-: (domainadm@dadmin.net)
- tel --: +1.7702161557
-	 org: Domain Administrators
-	 2103 N. Decatur Rd.  PMB 341
-	 Decatur,GA,US 30033
+	 Name-- Anupong  Kriangkrailipikorn
+ EMail-: (support@chaiyohosting.com)
+ tel --: +66.23760580
+	 org: Chaiyo Hosting Co., Ltd.
+	 3312/33-34 2-3 FL Zone A Soi Ladprao 101 Ladprao rd.
+	 Klongchan Bangkapi,Bangkok,TH 10240
 
 
 Registration Service Provider:
-	name: Domain Administrators
-	tel: +1.7702161557
- 	fax: +1.7702161557
- 	web:http://
+	name: Chaiyo Hosting Co., Ltd.
+	tel: +66.21870187
+ 	fax: +66.21870188
+ 	web:http://www.chaiyohosting.com

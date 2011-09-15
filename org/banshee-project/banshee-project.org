@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107209846-LROR
+Domain Name:BANSHEE-PROJECT.ORG
+Created On:18-Aug-2005 00:47:15 UTC
+Last Updated On:19-Aug-2011 10:30:34 UTC
+Expiration Date:18-Aug-2012 00:47:15 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR31433616
+Registrant Name:Aaron Bockover
+Registrant Street1:1028 Oberlin Rd #520
+Registrant Street2:
+Registrant Street3:
+Registrant City:Raleigh
+Registrant State/Province:North Carolina
+Registrant Postal Code:27605
+Registrant Country:US
+Registrant Phone:+1.9194135973
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:aaron.bockover+domains@gmail.com
+Admin ID:CR31433618
+Admin Name:Aaron Bockover
+Admin Street1:1028 Oberlin Rd #520
+Admin Street2:
+Admin Street3:
+Admin City:Raleigh
+Admin State/Province:North Carolina
+Admin Postal Code:27605
+Admin Country:US
+Admin Phone:+1.9194135973
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:aaron.bockover+domains@gmail.com
+Tech ID:CR31433617
+Tech Name:Aaron Bockover
+Tech Street1:1028 Oberlin Rd #520
+Tech Street2:
+Tech Street3:
+Tech City:Raleigh
+Tech State/Province:North Carolina
+Tech Postal Code:27605
+Tech Country:US
+Tech Phone:+1.9194135973
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:aaron.bockover+domains@gmail.com
+Name Server:NS1.LINODE.COM
+Name Server:NS2.LINODE.COM
+Name Server:NS3.LINODE.COM
+Name Server:NS4.LINODE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
