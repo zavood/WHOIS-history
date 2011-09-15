@@ -1,0 +1,71 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 14:06:13 2011
+
+domain:       cemotel.cz
+registrant:   SB:IGNUM-S47237-46B
+admin-c:      IGN-C110187-A19
+nsset:        NSSID:IGN-N8546-0PZ
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   04.06.2007 06:55:00
+changed:      27.04.2009 09:46:40
+expire:       04.06.2012
+
+contact:      SB:IGNUM-S47237-46B
+org:          Tom&Atilde;&iexcl;&Aring;&iexcl; Vr&Atilde;&iexcl;na - VODA IT Consulting
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Vr&Atilde;&iexcl;na
+address:      &Auml;ç. p. 48
+address:      Borkovany
+address:      69175
+address:      CZ
+e-mail:       tom@voda.cz
+registrar:    REG-IGNUM
+created:      31.05.2007 04:45:00
+
+contact:      IGN-C110187-A19
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Vr&Atilde;&iexcl;na
+address:      &Auml;ç. p. 48
+address:      Borkovany
+address:      69175
+address:      CZ
+e-mail:       tom@voda.cz
+registrar:    REG-IGNUM
+created:      31.05.2007 04:35:00
+
+nsset:        NSSID:IGN-N8546-0PZ
+nserver:      ns.voda.cz
+nserver:      ns2.ignum.com
+tech-c:       IGNUM-C34644-TTB
+registrar:    REG-IGNUM
+created:      28.01.2008 17:02:09
+changed:      21.07.2009 14:21:36
+
+contact:      IGNUM-C34644-TTB
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Vr&Atilde;&iexcl;na
+address:      &Auml;ç. p. 48
+address:      Borkovany
+address:      69175
+address:      CZ
+e-mail:       tom@voda.cz
+registrar:    REG-IGNUM
+created:      04.09.2005 21:35:00
+changed:      25.04.2006 10:05:00
+
+

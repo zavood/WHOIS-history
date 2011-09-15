@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 08-may-1997
    Expiration Date: 09-may-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:21:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 12:12:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,5 +70,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: marquiswhoswho.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 14:11:48 EDT 2011
+Date and Time of Query: Thu Sep 15 08:03:21 EDT 2011
 Reason Code: IE

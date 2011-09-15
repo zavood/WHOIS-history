@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D19143941-LROR
+Domain Name:JKCS-OAKVILLE.ORG
+Created On:05-Feb-2000 11:50:21 UTC
+Last Updated On:13-Apr-2011 20:46:35 UTC
+Expiration Date:05-Feb-2012 11:50:21 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:39D72F19F80DDE2C
+Registrant Name:JKCS Webmaster
+Registrant Organization:John Knox Christian School Oakville
+Registrant Street1:2232 Sheridan Garden Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Oakville
+Registrant State/Province:ON
+Registrant Postal Code:L6J7T1
+Registrant Country:CA
+Registrant Phone:+1.9058298048
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@jkcs-oakville.org
+Admin ID:39D72F19F80DDE2C
+Admin Name:JKCS Webmaster
+Admin Organization:John Knox Christian School Oakville
+Admin Street1:2232 Sheridan Garden Drive
+Admin Street2:
+Admin Street3:
+Admin City:Oakville
+Admin State/Province:ON
+Admin Postal Code:L6J7T1
+Admin Country:CA
+Admin Phone:+1.9058298048
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@jkcs-oakville.org
+Tech ID:d4c0e8ec8d00b581
+Tech Name:Rikki  Wright
+Tech Organization:WebPresenceDesignLab
+Tech Street1:200 North Service Rd W
+Tech Street2:
+Tech Street3:
+Tech City:Oakville
+Tech State/Province:ON
+Tech Postal Code:L5M 2Y1
+Tech Country:CA
+Tech Phone:+1.4163574752
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webmaster@jkcs-oakville.org
+Name Server:NS1.ZEUSWEBSITEHOST.COM
+Name Server:NS2.ZEUSWEBSITEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

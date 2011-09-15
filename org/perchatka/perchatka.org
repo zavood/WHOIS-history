@@ -1,0 +1,88 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161507040-LROR
+Domain Name:PERCHATKA.ORG
+Created On:15-Feb-2011 11:36:46 UTC
+Last Updated On:08-Aug-2011 01:39:23 UTC
+Expiration Date:15-Feb-2012 11:36:46 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT HOLD
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DI_14396302
+Registrant Name:Golenko Valeriy Valer'evich
+Registrant Organization:OOO 'Aziya Kholding'
+Registrant Street1:ul. Starokubanskaya 114 508
+Registrant Street2:
+Registrant Street3:
+Registrant City:Krasnodar
+Registrant State/Province:Krasnodarskiy kray
+Registrant Postal Code:350058
+Registrant Country:RU
+Registrant Phone:+7.8612340362
+Registrant Phone Ext.:
+Registrant FAX:+7.8612340362
+Registrant FAX Ext.:
+Registrant Email:kaskad0210@mail.ru
+Admin ID:DI_14396302
+Admin Name:Golenko Valeriy Valer'evich
+Admin Organization:OOO 'Aziya Kholding'
+Admin Street1:ul. Starokubanskaya 114 508
+Admin Street2:
+Admin Street3:
+Admin City:Krasnodar
+Admin State/Province:Krasnodarskiy kray
+Admin Postal Code:350058
+Admin Country:RU
+Admin Phone:+7.8612340362
+Admin Phone Ext.:
+Admin FAX:+7.8612340362
+Admin FAX Ext.:
+Admin Email:kaskad0210@mail.ru
+Tech ID:DI_14396304
+Tech Name:AGAVA Tech Department
+Tech Organization:AGAVA Software
+Tech Street1:Pervomayskaya St., 1
+Tech Street2:
+Tech Street3:
+Tech City:Dolgoprudniy
+Tech State/Province:Moskovskaya oblast
+Tech Postal Code:141700
+Tech Country:RU
+Tech Phone:+7.4957816537
+Tech Phone Ext.:
+Tech FAX:+7.4957816537
+Tech FAX Ext.:
+Tech Email:noc@agava.com
+Name Server:NS2.AGAVA.NET.RU
+Name Server:NS1.AGAVA.NET.RU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

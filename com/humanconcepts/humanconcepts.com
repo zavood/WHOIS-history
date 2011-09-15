@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 15-mar-2000
    Expiration Date: 15-mar-2016
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 01:29:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 12:13:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,6 +70,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: humanconcepts.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 21:19:21 EDT 2011
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Thu Sep 15 08:03:40 EDT 2011
 Reason Code: IE

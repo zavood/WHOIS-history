@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 02-sep-1999
    Expiration Date: 02-sep-2021
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:44:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 12:16:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -72,5 +72,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: myflorida.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 20:35:13 EDT 2011
+Date and Time of Query: Thu Sep 15 08:12:03 EDT 2011
 Reason Code: IE
