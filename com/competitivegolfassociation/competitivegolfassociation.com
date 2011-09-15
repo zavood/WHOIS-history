@@ -11,12 +11,13 @@ for detailed information.
    Referral URL: http://www.networksolutions.com
    Name Server: NS1.PENDINGRENEWALDELETION.COM
    Name Server: NS2.PENDINGRENEWALDELETION.COM
+   Status: clientHold
    Status: clientTransferProhibited
-   Updated Date: 15-aug-2011
+   Updated Date: 14-sep-2011
    Creation Date: 09-aug-2007
    Expiration Date: 09-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 02:42:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 22:23:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +69,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: competitivegolfassociation.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 22:33:17 EDT 2011
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Thu Sep 15 18:14:02 EDT 2011
 Reason Code: IE

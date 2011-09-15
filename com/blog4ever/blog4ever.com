@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 01-mar-2005
    Expiration Date: 01-mar-2018
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:57:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 22:20:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Wednesday, 14-Sep-2011 22:57:59 CEST
-# gmt time      : Wednesday, 14-Sep-2011 20:57:59 GMT
+# local time    : Friday, 16-Sep-2011 00:20:36 CEST
+# gmt time      : Thursday, 15-Sep-2011 22:20:36 GMT
 # last modify   : Wednesday, 07-Sep-2011 07:05:13 CEST
-# request from  : 192.168.248.2:40516
+# request from  : 192.168.248.1:26398
 
 Domain name: blog4ever.com
 

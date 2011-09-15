@@ -1,0 +1,85 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; stage-recuperation-point-permis.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      stage-recuperation-point-permis.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    YL570-FRNIC
+admin-c:     YL570-FRNIC
+tech-c:      HN20-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL8870-FRNIC
+registrar:   NAMEBAY
+anniversary: 12/04
+created:     12/04/2008
+last-update: 12/04/2008
+source:      FRNIC
+
+ns-list:     NSL8870-FRNIC
+nserver:     ns1.nuxit.net
+nserver:     ns2.nuxit.net
+source:      FRNIC
+
+registrar:   NAMEBAY
+type:        Isp Option 1
+address:     27 Boulevard des Moulins
+address:     98000 MONACO
+country:     MC
+phone:       +377 97 70 61 64
+fax-no:      +377 97 97 21 13
+e-mail:      contact@namebay.com
+website:     http://www.namebay.com
+anonymous:   NO
+registered:  18/09/2001
+source:      FRNIC
+
+nic-hdl:     YL570-FRNIC
+type:        PERSON
+contact:     Yannick Legris
+address:     11b, avenue philippe de volvire
+address:     35490 Sens-de-Bretagne
+country:     FR
+phone:       +33 2 99 45 78 12
+e-mail:      ylegris@free.fr
+changed:     26/07/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HN20-FRNIC
+type:        ROLE
+contact:     Hostmaster Namebay
+address:     Namebay
+address:     Namebay SAM
+address:     30 bld Princesse Charlotte
+address:     98000 Monaco
+country:     MC
+phone:       +377 97706164
+fax-no:      +377 97972113
+e-mail:      techafnic@namebay.com
+trouble:     http://www.namebay.com
+trouble:     Support : hotline@namebay.com
+trouble:     Spam : abuse@namebay.com
+admin-c:     CV97-FRNIC
+tech-c:      FH448-FRNIC
+tech-c:      BF81-FRNIC
+notify:      techafnic@namebay.com
+changed:     28/09/2001 techafnic@namebay.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

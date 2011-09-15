@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107217080-LROR
+Domain Name:STRENGTHENINGFAMILIESILLINOIS.ORG
+Created On:19-Aug-2005 05:01:28 UTC
+Last Updated On:13-Sep-2011 22:49:12 UTC
+Expiration Date:19-Aug-2012 05:01:28 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:3534723faba4c180
+Registrant Name:Domain Discreet
+Registrant Organization:ATTN: strengtheningfamiliesillinois.org
+Registrant Street1:Rua Dr. Brito Camara, n 20, 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Funchal
+Registrant State/Province:Madeira
+Registrant Postal Code:9000-039
+Registrant Country:PT
+Registrant Phone:+361.19027495331
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:64fab19e0a16121f5d021c1a31e0b447@domaindiscreet.com
+Admin ID:9235116fab1ac459
+Admin Name:Domain Discreet
+Admin Organization:ATTN: strengtheningfamiliesillinois.org
+Admin Street1:Rua Dr. Brito Camara, n 20, 1
+Admin Street2:
+Admin Street3:
+Admin City:Funchal
+Admin State/Province:Madeira
+Admin Postal Code:9000-039
+Admin Country:PT
+Admin Phone:+361.19027495331
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:64fab19c0a16121f4359730faf36d032@domaindiscreet.com
+Tech ID:5000412fac24b264
+Tech Name:Domain Discreet
+Tech Organization:ATTN: strengtheningfamiliesillinois.org
+Tech Street1:Rua Dr. Brito Camara, n 20, 1
+Tech Street2:
+Tech Street3:
+Tech City:Funchal
+Tech State/Province:Madeira
+Tech Postal Code:9000-039
+Tech Country:PT
+Tech Phone:+361.19027495331
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:64fab19f0a16121f154c5df2f55e537b@domaindiscreet.com
+Name Server:NS2.GIPPY.NET
+Name Server:NS1.GIPPY.NET
+Name Server:NS3.GIPPY.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

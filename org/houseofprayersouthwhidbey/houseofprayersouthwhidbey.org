@@ -1,0 +1,144 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D102631247-LROR
+Domain Name:HOUSEOFPRAYERSOUTHWHIDBEY.ORG
+Created On:13-Nov-2003 19:10:28 UTC
+Last Updated On:08-Sep-2011 14:32:04 UTC
+Expiration Date:13-Nov-2012 19:10:28 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:739543273affd469
+Registrant Name:Domain Discreet
+Registrant Organization:ATTN: houseofprayersouthwhidbey.org
+Registrant Street1:Rua Dr. Brito Camara, n 20, 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Funchal
+Registrant State/Province:Madeira
+Registrant Postal Code:9000-039
+Registrant Country:PT
+Registrant Phone:+361.19027495331
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:4973a6d90a1612200fdd87ce25b3dcfc@domaindiscreet.com
+Admin ID:50606652fa255539
+Admin Name:Domain Discreet
+Admin Organization:ATTN: houseofprayersouthwhidbey.org
+Admin Street1:Rua Dr. Brito Camara, n 20, 1
+Admin Street2:
+Admin Street3:
+Admin City:Funchal
+Admin State/Province:Madeira
+Admin Postal Code:9000-039
+Admin Country:PT
+Admin Phone:+361.19027495331
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:fc2fa2130a16122077c8c7318c02b9a1@domaindiscreet.com
+Admin ID:6679014d4c59e504
+Admin Name:Domain Discreet
+Admin Organization:ATTN: houseofprayersouthwhidbey.org
+Admin Street1:Rua Dr. Brito Camara, n 20, 1
+Admin Street2:
+Admin Street3:
+Admin City:Funchal
+Admin State/Province:Madeira
+Admin Postal Code:9000-039
+Admin Country:PT
+Admin Phone:+361.19027495331
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:22d4c5770a16122051325d8d663adc5d@domaindiscreet.com
+Admin ID:389285573a6e4279
+Admin Name:Domain Discreet
+Admin Organization:ATTN: houseofprayersouthwhidbey.org
+Admin Street1:Rua Dr. Brito Camara, n 20, 1
+Admin Street2:
+Admin Street3:
+Admin City:Funchal
+Admin State/Province:Madeira
+Admin Postal Code:9000-039
+Admin Country:PT
+Admin Phone:+361.19027495331
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:4973a6d60a16122061d22fa85ad6cfb1@domaindiscreet.com
+Tech ID:85732462fb0f5292
+Tech Name:Domain Discreet
+Tech Organization:ATTN: houseofprayersouthwhidbey.org
+Tech Street1:Rua Dr. Brito Camara, n 20, 1
+Tech Street2:
+Tech Street3:
+Tech City:Funchal
+Tech State/Province:Madeira
+Tech Postal Code:9000-039
+Tech Country:PT
+Tech Phone:+361.19027495331
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:fc2fa2170a1612200db51771a2205179@domaindiscreet.com
+Tech ID:6541328d4d49c768
+Tech Name:Domain Discreet
+Tech Organization:ATTN: houseofprayersouthwhidbey.org
+Tech Street1:Rua Dr. Brito Camara, n 20, 1
+Tech Street2:
+Tech Street3:
+Tech City:Funchal
+Tech State/Province:Madeira
+Tech Postal Code:9000-039
+Tech Country:PT
+Tech Phone:+361.19027495331
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:22d4c5830a1612206e48f7432db643e6@domaindiscreet.com
+Tech ID:462633273b3eb597
+Tech Name:Domain Discreet
+Tech Organization:ATTN: houseofprayersouthwhidbey.org
+Tech Street1:Rua Dr. Brito Camara, n 20, 1
+Tech Street2:
+Tech Street3:
+Tech City:Funchal
+Tech State/Province:Madeira
+Tech Postal Code:9000-039
+Tech Country:PT
+Tech Phone:+361.19027495331
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:4973a6da0a161220631af7d8b56cb4e9@domaindiscreet.com
+Name Server:NS.WHIDBEY.NET
+Name Server:NS.WHIDBEY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
