@@ -1,0 +1,78 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 05:56:05 2011
+
+domain:       mendelu.cz
+registrant:   CID:COL-00002359
+admin-c:      VF5050-RIPE
+nsset:        NSSID:COL-00000391
+registrar:    REG-GENREG
+status:       paid and in zone
+registered:   04.10.1997 02:00:00
+changed:      03.02.2010 20:24:40
+expire:       29.10.2011
+
+contact:      CID:COL-00002359
+org:          Mendelova univerzita v Brn&Auml;›
+name:         Vladim&Atilde;&shy;r Fi&Aring;&iexcl;er
+address:      Zem&Auml;›d&Auml;›lsk&Atilde;&iexcl; 1
+address:      Brno
+address:      613 00
+address:      CZ
+phone:        +420.545132710
+e-mail:       fiser@mendelu.cz
+registrar:    REG-GENREG
+created:      03.02.2010 15:40:04
+changed:      03.02.2010 20:12:34
+
+contact:      VF5050-RIPE
+name:         Vladimir Fiser
+address:      Zemedelska 1
+address:      Brno
+address:      61300
+address:      CZ
+phone:        +420.545132710
+fax-no:       no
+e-mail:       fiser@mendelu.cz
+registrar:    REG-GENREG
+created:      11.07.2003 13:45:00
+changed:      10.07.2007 11:55:00
+
+nsset:        NSSID:COL-00000391
+nserver:      relay.mendelu.cz (195.178.72.150)
+nserver:      ns2.mendelu.cz (195.113.194.110)
+nserver:      ns.ces.net
+tech-c:       CID:COL-00002359
+tech-c:       CID:COL-00002362
+registrar:    REG-DIAL-TEL
+created:      03.02.2010 20:21:57
+
+contact:      CID:COL-00002362
+org:          Mendelova univerzita v Brn&Auml;›
+name:         Petr Dad&Atilde;&iexcl;k
+address:      Zem&Auml;›d&Auml;›lsk&Atilde;&iexcl; 1
+address:      Brno
+address:      61300
+address:      CZ
+phone:        +420.545132808
+e-mail:       uis-tech@mendelu.cz
+registrar:    REG-DIAL-TEL
+created:      03.02.2010 20:19:23
+
+

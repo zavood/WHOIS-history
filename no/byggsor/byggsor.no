@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: BYG3446D-NORID
+Domain Name................: byggsor.no
+Domain Holder Handle.......: BSA589O-NORID
+Registrar Handle...........: REG89-NORID
+Legal-c Handle.............: AF1921P-NORID
+Tech-c Handle..............: TAH6R-NORID
+Name Server Handle.........: DNST69H-NORID
+Name Server Handle.........: DNST74H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: BSA589O-NORID
+Type.......................: organization
+Name.......................: Bygg Sor AS
+Id Type....................: local_id_number
+Id Number..................: N.LEG.000000805
+Registrar Handle...........: REG89-NORID
+Post Address...............: Vigeveien 50
+Post Address...............: Postboks 4043, Kongsgard
+Postal Code................: NO-4602
+Postal Area................: Kristiansand
+Country....................: NO
+Phone Number...............: +47.38143800
+Fax Number.................: +47.38143801
+Email Address..............: aforberg@online.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 08-apr-1998
    Expiration Date: 07-apr-2016
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 07:29:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:55:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    JK Harris &amp; Company LLC
-   208 St James Ave
-   Suite A
-   Goose Creek, South Carolina 29445
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: JKHARRIS.COM
-      Created on: 07-Apr-98
-      Expires on: 06-Apr-16
-      Last Updated on: 22-Jan-07
-
-   Administrative Contact:
-      Bassak, Richard  rick@jkharris.com
-      JK Harris &amp; Company LLC
-      208 St James Ave
-      Suite A
-      Goose Creek, South Carolina 29445
-      United States
-      +1.8436968861      Fax -- +1.8435291403
-
-   Technical Contact:
-      Bassak, Richard  rick@jkharris.com
-      JK Harris &amp; Company LLC
-      208 St James Ave
-      Suite A
-      Goose Creek, South Carolina 29445
-      United States
-      +1.8436968861      Fax -- +1.8435291403
 
    Domain servers in listed order:
       NS1.DELTACOM.NET
       NS2.DELTACOM.NET
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=JKHARRIS.COM

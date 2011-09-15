@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D141330379-LROR
+Domain Name:CATSKILLSIRISHARTSWEEK.ORG
+Created On:11-Mar-2007 23:59:08 UTC
+Last Updated On:02-Feb-2010 21:40:24 UTC
+Expiration Date:11-Mar-2013 23:59:08 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuM5Tm4yIDQq8Oz0
+Registrant Name:Timothy Quinn
+Registrant Organization:STIMS
+Registrant Street1:37 Saxonwood Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fairfield
+Registrant State/Province:CT
+Registrant Postal Code:06825
+Registrant Country:US
+Registrant Phone:+1.2032541271
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tmquinn@optonline.net
+Admin ID:tuM5Tm4yIDQq8Oz0
+Admin Name:Timothy Quinn
+Admin Organization:STIMS
+Admin Street1:37 Saxonwood Rd.
+Admin Street2:
+Admin Street3:
+Admin City:Fairfield
+Admin State/Province:CT
+Admin Postal Code:06825
+Admin Country:US
+Admin Phone:+1.2032541271
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tmquinn@optonline.net
+Tech ID:tu4oG7xWhQFtTlzz
+Tech Name:Domain Administrator
+Tech Organization:PureHost
+Tech Street1:70 Blanchard Road
+Tech Street2:
+Tech Street3:
+Tech City:Burlington
+Tech State/Province:MA
+Tech Postal Code:01803
+Tech Country:US
+Tech Phone:+1.8774407873
+Tech Phone Ext.:
+Tech FAX:+1.7812726550
+Tech FAX Ext.:
+Tech Email:domreg@purehost.com
+Name Server:NS1.PUREHOST.COM
+Name Server:NS2.PUREHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

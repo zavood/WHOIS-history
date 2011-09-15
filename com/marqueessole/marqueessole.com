@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 18-aug-2008
    Expiration Date: 18-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 16:50:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:59:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -93,7 +93,7 @@ Phone: 4805038970
 
 Record expires on 8/18/2012
 Record created on 8/18/2008
-Database last updated on 9/11/2011
+Database last updated on 9/14/2011
 
 Domain servers:
 
