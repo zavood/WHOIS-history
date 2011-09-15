@@ -5,22 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COREMETRICS.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: DNS1.COREMETRICS.COM
-   Name Server: DNS2.COREMETRICS.COM
-   Name Server: DNS3.COREMETRICS.COM
-   Name Server: DNS4.COREMETRICS.COM
-   Name Server: NS1.TWTELECOM.NET
-   Name Server: NS2.TWTELECOM.NET
+   Domain Name: 5W.COM
+   Registrar: XIAMEN ENAME NETWORK TECHNOLOGY CORPORATION LIMITED DBA ENAME CORP
+   Whois Server: whois.ename.com
+   Referral URL: http://www.ename.com
+   Name Server: F1G1NS1.DNSPOD.NET
+   Name Server: F1G1NS2.DNSPOD.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 29-aug-2011
-   Creation Date: 13-feb-1999
-   Expiration Date: 13-feb-2016
+   Updated Date: 05-dec-2010
+   Creation Date: 16-feb-1996
+   Expiration Date: 17-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:15:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:15:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,45 +52,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain Name : 5w.com
 
-Domain Name.......... coremetrics.com
-  Creation Date........ 1999-02-13
-  Registration Date.... 2011-08-29
-  Expiry Date.......... 2016-02-14
-  Organisation Name.... Coremetrics, Inc.
-  Organisation Address. 10814 Jollyville Rd
-  Organisation Address. #300
-  Organisation Address. Austin
-  Organisation Address. 78759
-  Organisation Address. TX
-  Organisation Address. UNITED STATES
+Registrant Contact Information :
+WangRuofei
+WangRuofei
+hzadunion@hotmail.com
+hangzhou wenyi road, 310012
+tel: 86 13675816532
+fax: 86 13675816532
 
-Admin Name........... Administrator .
-  Admin Address........ 10814 Jollyville Rd
-  Admin Address........ #300
-  Admin Address........ Austin
-  Admin Address........ 78759
-  Admin Address........ TX
-  Admin Address........ UNITED STATES
-  Admin Email.......... dnsadmin@coremetrics.com
-  Admin Phone.......... +1.5126821101
-  Admin Fax............
+Administrative Contact Information :
+WangRuofei
+WangRuofei
+hzadunion@hotmail.com
+hangzhou wenyi road, 310012
+tel: 86 13675816532
+fax: 86 13675816532
 
-Tech Name............ Administrator .
-  Tech Address......... 10814 Jollyville Rd
-  Tech Address......... #300
-  Tech Address......... Austin
-  Tech Address......... 78759
-  Tech Address......... TX
-  Tech Address......... UNITED STATES
-  Tech Email........... dnsadmin@coremetrics.com
-  Tech Phone........... +1.5126821101
-  Tech Fax.............
-  Name Server.......... DNS2.COREMETRICS.COM
-  Name Server.......... NS2.TWTELECOM.NET
-  Name Server.......... NS1.TWTELECOM.NET
-  Name Server.......... DNS4.COREMETRICS.COM
-  Name Server.......... DNS3.COREMETRICS.COM
-  Name Server.......... DNS1.COREMETRICS.COM
+Technical Contact Information :
+WangRuofei
+WangRuofei
+hzadunion@hotmail.com
+hangzhou wenyi road, 310012
+tel: 86 13675816532
+fax: 86 13675816532
 
+Billing Contact Information :
+WangRuofei
+WangRuofei
+hzadunion@hotmail.com
+hangzhou wenyi road, 310012
+tel: 86 13675816532
+fax: 86 13675816532
+
+Status :
+clientDeleteProhibited
+clientTransferProhibited
+
+Domain Name Server :
+f1g1ns2.dnspod.net
+f1g1ns1.dnspod.net
+
+Registration Date :1996-2-16
+Expiration Date : 2012-2-17
+
+For more information, please go to http://whois.ename.com.
 

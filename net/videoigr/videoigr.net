@@ -5,22 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COREMETRICS.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: DNS1.COREMETRICS.COM
-   Name Server: DNS2.COREMETRICS.COM
-   Name Server: DNS3.COREMETRICS.COM
-   Name Server: DNS4.COREMETRICS.COM
-   Name Server: NS1.TWTELECOM.NET
-   Name Server: NS2.TWTELECOM.NET
+   Domain Name: VIDEOIGR.NET
+   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
+   Whois Server: whois.nic.ru
+   Referral URL: http://www.nic.ru
+   Name Server: NS1.SERVERDNS.RU
+   Name Server: NS2.SERVERDNS.RU
+   Name Server: NS3.SERVERDNS.RU
+   Name Server: NS4.SERVERDNS.RU
    Status: clientTransferProhibited
-   Updated Date: 29-aug-2011
-   Creation Date: 13-feb-1999
-   Expiration Date: 13-feb-2016
+   Updated Date: 24-feb-2011
+   Creation Date: 03-nov-2007
+   Expiration Date: 03-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:15:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:16:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,45 +53,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+% By submitting a query to RU-CENTER's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.nic.ru/about/servpol.html (in Russian)
+% http://www.nic.ru/about/en/servpol.html (in English).
 
-Domain Name.......... coremetrics.com
-  Creation Date........ 1999-02-13
-  Registration Date.... 2011-08-29
-  Expiry Date.......... 2016-02-14
-  Organisation Name.... Coremetrics, Inc.
-  Organisation Address. 10814 Jollyville Rd
-  Organisation Address. #300
-  Organisation Address. Austin
-  Organisation Address. 78759
-  Organisation Address. TX
-  Organisation Address. UNITED STATES
+Domain name:             VIDEOIGR.NET
+Name Server:             ns1.serverdns.ru
+Name Server:             ns2.serverdns.ru
+Name Server:             ns3.serverdns.ru
+Name Server:             ns4.serverdns.ru
+Creation Date:           2007.11.03
+Updated Date:            2011.02.24
+Expiration Date:         2011.11.03
 
-Admin Name........... Administrator .
-  Admin Address........ 10814 Jollyville Rd
-  Admin Address........ #300
-  Admin Address........ Austin
-  Admin Address........ 78759
-  Admin Address........ TX
-  Admin Address........ UNITED STATES
-  Admin Email.......... dnsadmin@coremetrics.com
-  Admin Phone.......... +1.5126821101
-  Admin Fax............
+Status:                  DELEGATED
 
-Tech Name............ Administrator .
-  Tech Address......... 10814 Jollyville Rd
-  Tech Address......... #300
-  Tech Address......... Austin
-  Tech Address......... 78759
-  Tech Address......... TX
-  Tech Address......... UNITED STATES
-  Tech Email........... dnsadmin@coremetrics.com
-  Tech Phone........... +1.5126821101
-  Tech Fax.............
-  Name Server.......... DNS2.COREMETRICS.COM
-  Name Server.......... NS2.TWTELECOM.NET
-  Name Server.......... NS1.TWTELECOM.NET
-  Name Server.......... DNS4.COREMETRICS.COM
-  Name Server.......... DNS3.COREMETRICS.COM
-  Name Server.......... DNS1.COREMETRICS.COM
+Registrant ID:           TZHWWBP-RU
+Registrant Name:         Mihail B Fedotov
+Registrant Organization: Mihail B Fedotov
+Registrant Street1:      Lopuhinsky 5,s4 Fedotov Mihail
+Registrant City:         Moskva
+Registrant State:        n/a
+Registrant Postal Code:  119034
+Registrant Country:      RU
 
+Administrative, Technical Contact
+Contact ID:              TZHWWBP-RU
+Contact Name:            Mihail B Fedotov
+Contact Organization:    Mihail B Fedotov
+Contact Street1:         Lopuhinsky 5,s4 Fedotov Mihail
+Contact City:            Moskva
+Contact State:           n/a
+Contact Postal Code:     119034
+Contact Country:         RU
+Contact Phone:           +7 495 5898007
+Contact Fax:             +7 495 5898007
+Contact E-mail:          redelvis@inbox.ru
+
+Registrar:               Regional Network Information Center, JSC dba RU-CENTER
+
+Last updated on 2011.09.15 08:16:41 MSK/MSD
 
