@@ -1,0 +1,30 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'dom.ir'
+
+
+domain:		dom.ir
+ascii:		dom.ir
+remarks:	(Domain Holder) Arash Kardanpoor
+remarks:	(Domain Holder Address) Bolvare Jomhori Khiabane Kohsar Pelake 155Shiraz, IR7144913148, IR
+holder-c:	---
+admin-c:	ak58-irnic
+tech-c:		ak58-irnic
+nserver:	ns1.irpowerweb.com
+nserver:	ns2.irpowerweb.com
+last-updated:	2011-05-16
+source:		IRNIC # Filtered
+
+nic-hdl:	ak58-irnic
+person:		Arash Kardanpoor
+e-mail:		djaarash@gmail.com
+address:	No. 165 , Kohsar St. , Jomhori Blv., Shiraz, Fars, IR
+phone:		+98 917 338 7573
+source:		IRNIC # Filtered
+

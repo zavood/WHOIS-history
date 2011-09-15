@@ -1,0 +1,23 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         pekne-veci.sk
+Admin-id            DUAN-0547
+Admin-name          Dusan Cerny
+Admin-legal-form    fyzicka osoba (nepodnikatel)
+Admin-email         dce@centrum.sk
+Tech-id             NHOS-0001
+Tech-name           NIC Hosting s.r.o.
+Tech-org.-ID        44488254
+Tech-address        Dlha 9, Ivanka pri Dunaji 90028
+Tech-telephone      +421 02 45 945 252, +421 0908 11 22 11
+Tech-email          domeny@nic.sk
+dns_name            ns1.websupport.sk
+dns_name            ns2.websupport.sk
+dns_name            ns3.websupport.sk
+Last-update         2011-09-12
+Valid-date          2011-10-10
+Domain-status       DOM_WARN
+

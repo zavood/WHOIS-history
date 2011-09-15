@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 01-oct-2001
    Expiration Date: 01-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:39:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:07:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,35 +84,38 @@ Domain servers in listed order:
 	 ns1.indovic.net 	 ns2.indovic.net
 
 Administrator:
-	 Jakarta, DKI 13440
-	 Jakarta
-DKI,
-62-21-8601522
- 13440
+	 name: Administrator, Domain
+ mail: webmaster@indovic.com tel: 62-21-8601522
+	 org: Indonesia Virtual Internet Commerce
 
-	 name:(Administrator, Domain)
-mail:(webmaster@indovic.com) 62-21-8601522
-	 Indonesia Virtual Internet Commerce
+address: Jakarta, DKI 13440
+	 city: Jakarta
+,province: DKI
+,country: 62-21-8601522
+ postcode: 13440
+
 Technical Contactor:
-	 Jakarta, DKI 13440
-	 Jakarta
-DKI,
-Indonesia
- 13440
+	 name: Ahmad
+ mail: webmaster@indovic.com tel: 62-21-8601522
+	 org: Indonesia Virtual Internet Commerce
 
-	 name:(Ahmad)
-mail:(webmaster@indovic.com) 62-21-8601522
-	 Indonesia Virtual Internet Commerce
+address: Jakarta, DKI 13440
+	 city: Jakarta
+,province: DKI
+,country: Indonesia
+ postcode: 13440
+
 Billing Contactor:
-	 Jakarta, DKI 13440
-	 Jakarta
-DKI,
-Indonesia
- 13440
+	 name: Aminah
+ mail: webmaster@indovic.com tel: 62-21-8601522
+	 org: Indonesia Virtual Internet Commerce
 
-	 name:(Aminah)
-mail:(webmaster@indovic.com) 62-21-8601522
-	 Indonesia Virtual Internet Commerce
+address: Jakarta, DKI 13440
+	 city: Jakarta
+,province: DKI
+,country: Indonesia
+ postcode: 13440
+
 
 Registration Service Provider:
 	name: Indonesia Virtual Internet Commerce

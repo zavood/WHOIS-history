@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 05:10:53 (BRT -03:00)
+
+domain:      pizza.blog.br
+owner:       Jose Luis Pissin
+ownerid:     294.321.621-68
+country:     BR
+owner-c:     MTL189
+admin-c:     MTL189
+tech-c:      MTL189
+billing-c:   MTL189
+nserver:     ns1.hostmonster.com
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.hostmonster.com
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20070213 #3373769
+expires:     20120213
+changed:     20110131
+status:      published
+
+nic-hdl-br:  MTL189
+person:      Milenium Tecnologia da Informa&ccedil;&atilde;o Ltda
+e-mail:      admin@mileniuminformatica.com.br
+created:     20020506
+changed:     20081028
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,99 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; gizmodo.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      gizmodo.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    VFS84-FRNIC
+admin-c:     XPN1-FRNIC
+tech-c:      MC239-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL46033-FRNIC
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+anniversary: 26/06
+created:     26/06/2007
+last-update: 01/04/2011
+source:      FRNIC
+
+ns-list:     NSL46033-FRNIC
+nserver:     ns6.markmonitor.com
+nserver:     ns1.markmonitor.com
+nserver:     ns2.markmonitor.com
+nserver:     ns3.markmonitor.com
+nserver:     ns4.markmonitor.com
+nserver:     ns5.markmonitor.com
+source:      FRNIC
+
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+type:        Isp Option 1
+address:     Emerald Tech Center
+address:     391 N. Ancestor Place
+address:     ID 83704 BOISE
+country:     US
+phone:       +1 208 389 5740
+fax-no:      +1 208 389 5771
+e-mail:      ccops@markmonitor.com
+website:     http://www.markmonitor.com
+anonymous:   NO
+registered:  10/01/2002
+source:      FRNIC
+
+nic-hdl:     VFS84-FRNIC
+type:        ORGANIZATION
+contact:     VOLNAY FRANCE SAS
+address:     43, boulevard Haussmann
+address:     75009 Paris
+country:     FR
+phone:       +33 1 41 97 62 62
+e-mail:      bpf_web_manager@bpf.vnu.com
+changed:     06/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     XPN1-FRNIC
+type:        PERSON
+contact:     Xavier P. Negiar
+address:     Volnay France SAS
+address:     43, boulevard Haussmann
+address:     75009 Paris
+country:     FR
+phone:       +33 1 41 97 62 62
+e-mail:      bpf_web_manager@bpf.vnu.com
+changed:     25/06/2007 ccops@markmonitor.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MC239-FRNIC
+type:        ROLE
+contact:     MARKMONITOR CCOPS
+address:     eMarkmonitor Inc. dba MarkMonitor
+address:     PMB 155
+address:     10400 Overland Road
+address:     83709-1433 Boise, Id
+address:     US
+phone:       +01 2083895740
+e-mail:      ccops@markmonitor.com
+admin-c:     DL534-FRNIC
+tech-c:      DL534-FRNIC
+changed:     10/10/2008 ccops@markmonitor.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
