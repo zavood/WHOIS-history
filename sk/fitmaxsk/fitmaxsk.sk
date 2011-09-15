@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         fitmaxsk.sk
+Admin-id            EXOT-0004
+Admin-name          EXO TECHNOLOGIES spol. s r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       36485161
+Admin-address       Garbiarska 3, Stara Lubovna 06401
+Admin-telephone     +421 907 992 728, +421 907 992 728
+Admin-email         support@exohosting.sk
+Tech-id             EXOT-0004
+Tech-name           EXO TECHNOLOGIES spol. s r.o.
+Tech-org.-ID        36485161
+Tech-address        Garbiarska 3, Stara Lubovna 06401
+Tech-telephone      +421 907 992 728, +421 907 992 728
+Tech-email          support@exohosting.sk
+dns_name            ns.exohosting.sk
+dns_name            ns1.exohosting.sk
+dns_name            ns3.exohosting.sk
+Last-update         2011-07-01
+Valid-date          2012-07-10
+Domain-status       DOM_OK
+

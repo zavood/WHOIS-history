@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 09-jun-2008
    Expiration Date: 09-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 08:50:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:41:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -102,6 +102,6 @@ Record last changed: 29 APR 2009
 Record expires: 09 JUN 2013
 
 Name servers according to DNS:
-ns01.osl.basefarm.net.
 ns01.sth.basefarm.net.
+ns01.osl.basefarm.net.
 

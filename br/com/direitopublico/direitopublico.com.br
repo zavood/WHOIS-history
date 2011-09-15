@@ -5,13 +5,45 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-11 05:23:43 (BRT -03:00)
-
-% Query rate limit exceeded. Reduced information.
-% Use https://registro.br/cgi-bin/avail/ for domain availability.
+%  2011-09-15 13:46:17 (BRT -03:00)
 
 domain:      direitopublico.com.br
-owner:       Oscar Mendon&ccedil;a Advogados (117480)
+owner:       Oscar Mendon&ccedil;a Advogados
+ownerid:     001.436.316/0001-93
+responsible: Oscar Mendon&ccedil;a
+country:     BR
+owner-c:     OMA18
+admin-c:     CCF39
+tech-c:      DIR36
+billing-c:   OMA18
+nserver:     ns1.locaweb.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.locaweb.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20000215 #262243
+expires:     20120215
+changed:     20110302
+status:      published
+
+nic-hdl-br:  CCF39
+person:      Cleber de Castro Souza Filho
+e-mail:      cleber@e-xis.com.br
+created:     20000413
+changed:     20101222
+
+nic-hdl-br:  DIR36
+person:      Diego Rydz
+e-mail:      diego@setweb.com.br
+created:     20020909
+changed:     20080215
+
+nic-hdl-br:  OMA18
+person:      Oscar Mendon&ccedil;a Advogados
+e-mail:      registro2@e-xis.com.br
+created:     20030130
+changed:     20070917
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br
