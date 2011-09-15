@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LXDNS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LXDNS.COM
-   Name Server: NS2.LXDNS.COM
-   Name Server: NS3.LXDNS.COM
-   Name Server: NS4.LXDNS.COM
-   Name Server: NS5.LXDNS.COM
-   Status: ok
-   Updated Date: 06-jul-2011
-   Creation Date: 03-aug-2006
-   Expiration Date: 03-aug-2012
+   Domain Name: ACCENTSCOSMETICSURGERY.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: NS0.ACCENTSCOSMETICSURGERY.COM
+   Name Server: NS1.ACCENTSCOSMETICSURGERY.COM
+   Name Server: NS2.ACCENTSCOSMETICSURGERY.COM
+   Name Server: NS3.ACCENTSCOSMETICSURGERY.COM
+   Name Server: NS4.ACCENTSCOSMETICSURGERY.COM
+   Status: clientTransferProhibited
+   Updated Date: 18-mar-2010
+   Creation Date: 12-oct-2005
+   Expiration Date: 12-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +54,39 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+
+Registrant:
+Berkowitz, Mark
+    Franklin City Water
+   30714 Helmandale Drive
+   Franklin, MI 48025
+   US
+
+   Domain Name: ACCENTSCOSMETICSURGERY.COM
+
+   Administrative Contact:
+      Berkowitz, Mark		namesecure@mberkowitz.mailshell.com
+       Franklin City Water
+      30714 Helmandale Drive
+      Franklin, MI 48025
+      US
+      (248) 737-5963
+
+
+   Record expires on 12-Oct-2012.
+   Record created on 12-Oct-2005.
+   Database last updated on 14-Sep-2011 23:01:23 EDT.
+
+   Domain servers in listed order:
+
+   NS0.ACCENTSCOSMETICSURGERY.COM 208.94.148.2
+   NS2.ACCENTSCOSMETICSURGERY.COM 208.80.126.2
+   NS3.ACCENTSCOSMETICSURGERY.COM 208.80.125.2
+   NS4.ACCENTSCOSMETICSURGERY.COM 208.80.127.2
+   NS1.ACCENTSCOSMETICSURGERY.COM 208.80.124.2
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+

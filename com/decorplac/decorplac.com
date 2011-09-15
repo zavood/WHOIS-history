@@ -5,21 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LXDNS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LXDNS.COM
-   Name Server: NS2.LXDNS.COM
-   Name Server: NS3.LXDNS.COM
-   Name Server: NS4.LXDNS.COM
-   Name Server: NS5.LXDNS.COM
-   Status: ok
-   Updated Date: 06-jul-2011
-   Creation Date: 03-aug-2006
-   Expiration Date: 03-aug-2012
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:34 UTC &lt;&lt;&lt;
+No match for &quot;DECORPLAC.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:10:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.

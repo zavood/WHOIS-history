@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LXDNS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LXDNS.COM
-   Name Server: NS2.LXDNS.COM
-   Name Server: NS3.LXDNS.COM
-   Name Server: NS4.LXDNS.COM
-   Name Server: NS5.LXDNS.COM
-   Status: ok
-   Updated Date: 06-jul-2011
-   Creation Date: 03-aug-2006
-   Expiration Date: 03-aug-2012
+   Domain Name: TWILIGHTGAMES.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.TWILIGHTGAMES.COM
+   Name Server: NS2.TWILIGHTGAMES.COM
+   Status: clientTransferProhibited
+   Updated Date: 18-mar-2011
+   Creation Date: 04-dec-1998
+   Expiration Date: 03-dec-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
+
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: twilightgames.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 23:01:55 EDT 2011
+Reason Code: IE

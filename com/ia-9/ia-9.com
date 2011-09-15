@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LXDNS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LXDNS.COM
-   Name Server: NS2.LXDNS.COM
-   Name Server: NS3.LXDNS.COM
-   Name Server: NS4.LXDNS.COM
-   Name Server: NS5.LXDNS.COM
-   Status: ok
-   Updated Date: 06-jul-2011
-   Creation Date: 03-aug-2006
-   Expiration Date: 03-aug-2012
+   Domain Name: IA-9.COM
+   Registrar: FIRSTSERVER, INC.
+   Whois Server: whois.do-reg.jp
+   Referral URL: http://www.do-reg.jp
+   Name Server: NS1.DO-REG.JP
+   Name Server: NS2.DO-REG.JP
+   Status: redemptionPeriod
+   Updated Date: 09-sep-2011
+   Creation Date: 09-sep-2004
+   Expiration Date: 09-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:09:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +51,8 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+### Do-REG WHOIS database / ###
+
+No match in our Database.
+

@@ -1,0 +1,63 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 05:11:09 2011
+
+domain:       ssakhk.cz
+registrant:   SB:JL348-RIPE_XX
+admin-c:      JL348-RIPE
+nsset:        NSS:JL348-RIPE_XX:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   07.06.1997 02:00:00
+changed:      14.09.2006 09:25:00
+expire:       13.10.2012
+
+contact:      SB:JL348-RIPE_XX
+org:          Stredni skola aplikovane kybernetiky s.r.o.
+name:         Stredni skola aplikovane kybernetiky s.r.o.
+address:      Hradecka 1151
+address:      Hradec Kralove
+address:      500 03
+address:      CZ
+e-mail:       lang@ssakhk.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+
+contact:      JL348-RIPE
+name:         Jan Lang
+address:      Hradeck=E1 1151
+address:      Hradec Kralov=E9
+address:      500 03
+address:      CZ
+phone:        +420 495518777
+fax-no:       +420 495518778
+e-mail:       lang@ssakhk.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:JL348-RIPE_XX:1
+nserver:      delta.ssakhk.cz (195.113.165.66)
+nserver:      ns.hknet.cz (195.113.115.171)
+tech-c:       SB:JL348-RIPE_XX
+tech-c:       JL348-RIPE
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+changed:      05.01.2010 20:55:18
+
+

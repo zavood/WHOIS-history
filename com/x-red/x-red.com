@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LXDNS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LXDNS.COM
-   Name Server: NS2.LXDNS.COM
-   Name Server: NS3.LXDNS.COM
-   Name Server: NS4.LXDNS.COM
-   Name Server: NS5.LXDNS.COM
-   Status: ok
-   Updated Date: 06-jul-2011
-   Creation Date: 03-aug-2006
-   Expiration Date: 03-aug-2012
+   Domain Name: X-RED.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: DNS1.X-RED.COM
+   Name Server: DNS3.X-RED.COM
+   Name Server: DNS4.X-RED.COM
+   Status: clientTransferProhibited
+   Updated Date: 04-apr-2011
+   Creation Date: 13-apr-2000
+   Expiration Date: 13-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +52,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+You can have used the whois service &gt; 20 times today, try again tommorrow.

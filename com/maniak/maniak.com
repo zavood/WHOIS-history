@@ -5,19 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LXDNS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LXDNS.COM
-   Name Server: NS2.LXDNS.COM
-   Name Server: NS3.LXDNS.COM
-   Name Server: NS4.LXDNS.COM
-   Name Server: NS5.LXDNS.COM
-   Status: ok
-   Updated Date: 06-jul-2011
-   Creation Date: 03-aug-2006
-   Expiration Date: 03-aug-2012
+   Domain Name: MANIAK.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.BODIS.COM
+   Name Server: NS2.BODIS.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 24-jul-2011
+   Creation Date: 02-oct-2004
+   Expiration Date: 02-oct-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:34 UTC &lt;&lt;&lt;
 
@@ -54,5 +52,35 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+
+Domain maniak.com:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 70313587215242
+  70313587215242-3ea1bb@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+
+Administrative contact:
+Technical contact:
+Billing contact:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 70313587215242
+  70313587215242-3ea1bb@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+  Phone: Phone: +61.730070090
+  Fax: Phone: +61.730070091
+
+Record dates:
+  Record created on: 2004-10-02 18:07:08 UTC
+  Record modified on: 2011-07-24 13:10:12 UTC
+  Record expires on: 2012-10-02 UTC
+
+Nameservers:
+  ns1.bodis.com:
+  ns2.bodis.com:
+
+Note: Automated collection of data from this database is strictly prohibited.
+

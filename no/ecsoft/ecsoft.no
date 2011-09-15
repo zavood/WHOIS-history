@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: ECS14D-NORID
+Domain Name................: ecsoft.no
+Domain Holder Handle.......: CN118O-NORID
+Registrar Handle...........: REG89-NORID
+Legal-c Handle.............: FA732P-NORID
+Tech-c Handle..............: TAH6R-NORID
+Name Server Handle.........: DNST69H-NORID
+Name Server Handle.........: DNST74H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: CN118O-NORID
+Type.......................: organization
+Name.......................: CIBER Norge as
+Id Type....................: organization_number
+Id Number..................: 931390643
+Registrar Handle...........: REG89-NORID
+Post Address...............: Stortorvet 10
+Postal Code................: NO-0103
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.22348000
+Email Address..............: NO-ITsupport@ciber.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

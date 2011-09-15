@@ -1,0 +1,84 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 05:12:21 2011
+
+domain:       manga.cz
+registrant:   SB:LHNIDEK-SUB
+admin-c:      LH73778359
+nsset:        NSS:CHLORS:1
+registrar:    REG-KRAXNET
+status:       paid and in zone
+registered:   20.04.2000 01:21:00
+changed:      29.04.2004 14:15:00
+expire:       19.04.2013
+
+contact:      SB:LHNIDEK-SUB
+name:         Lubos Hnidek
+address:      Tyrkysova 517
+address:      Praha 5
+address:      154 00
+address:      CZ
+e-mail:       ryoga@manga.cz
+registrar:    REG-TERMS
+created:      10.08.2001 22:13:00
+changed:      18.01.2007 10:25:00
+
+contact:      LH73778359
+name:         Lubos Hnidek
+address:      Tyrkysova 517
+address:      Praha 5
+address:      154 00
+address:      CZ
+phone:        +420 608239666
+e-mail:       ryoga@manga.cz
+registrar:    REG-TERMS
+created:      10.08.2001 22:13:00
+changed:      30.03.2002 12:16:00
+
+nsset:        NSS:CHLORS:1
+nserver:      ns.gin.cz
+nserver:      ns.infonet.cz
+tech-c:       SB:CHLORS
+tech-c:       CHLOR
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+
+contact:      SB:CHLORS
+name:         Petr Vyskocil
+address:      Lukesova 24
+address:      Praha 4
+address:      142 00
+address:      CZ
+e-mail:       chlor@anime.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      21.07.2004 11:15:00
+
+contact:      CHLOR
+name:         Petr Vyskocil
+address:      Lukesova 24
+address:      Praha 4
+address:      142 00
+address:      CZ
+phone:        +420.603338954
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      10.09.2009 08:22:35
+
+

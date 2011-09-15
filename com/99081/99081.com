@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LXDNS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LXDNS.COM
-   Name Server: NS2.LXDNS.COM
-   Name Server: NS3.LXDNS.COM
-   Name Server: NS4.LXDNS.COM
-   Name Server: NS5.LXDNS.COM
+   Domain Name: 99081.COM
+   Registrar: MAGIC FRIDAY, INC.
+   Whois Server: whois.magicfriday.com
+   Referral URL: http://www.magicfriday.com
+   Name Server: NS1.BODIS.COM
+   Name Server: NS2.BODIS.COM
    Status: ok
-   Updated Date: 06-jul-2011
-   Creation Date: 03-aug-2006
-   Expiration Date: 03-aug-2012
+   Updated Date: 25-mar-2011
+   Creation Date: 21-mar-2011
+   Expiration Date: 21-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Registration Service Provided By: BIGROCK.COM
+Contact: +01.4153580892
+Website: http://www.bigrock.com
+
+Domain Name: 99081.COM
+
+Registrant:
+    N/A
+    wang changhong        (ffdjbao@yahoo.com)
+    huangpuquzhoujiazuilu300
+    shanghai
+    shanghai,200081
+    CN
+    Tel. +86.73415681
+
+Creation Date: 21-Mar-2011
+Expiration Date: 21-Mar-2012
+
+Domain servers in listed order:
+    ns1.bodis.com
+    ns2.bodis.com
+
+
+Administrative Contact:
+    N/A
+    wang changhong        (ffdjbao@yahoo.com)
+    huangpuquzhoujiazuilu300
+    shanghai
+    shanghai,200081
+    CN
+    Tel. +86.73415681
+
+Technical Contact:
+    N/A
+    wang changhong        (ffdjbao@yahoo.com)
+    huangpuquzhoujiazuilu300
+    shanghai
+    shanghai,200081
+    CN
+    Tel. +86.73415681
+
+Billing Contact:
+    N/A
+    wang changhong        (ffdjbao@yahoo.com)
+    huangpuquzhoujiazuilu300
+    shanghai
+    shanghai,200081
+    CN
+    Tel. +86.73415681
+
+Status:ACTIVE
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Magic Friday, Inc.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+

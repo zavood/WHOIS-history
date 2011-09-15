@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LXDNS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LXDNS.COM
-   Name Server: NS2.LXDNS.COM
-   Name Server: NS3.LXDNS.COM
-   Name Server: NS4.LXDNS.COM
-   Name Server: NS5.LXDNS.COM
-   Status: ok
-   Updated Date: 06-jul-2011
-   Creation Date: 03-aug-2006
-   Expiration Date: 03-aug-2012
+   Domain Name: ICONKA.COM
+   Registrar: CENTROHOST CJSC
+   Whois Server: whois.centrohost.ru
+   Referral URL: http://centrohost.ru
+   Name Server: NS1.HOSTMONSTER.COM
+   Name Server: NS2.HOSTMONSTER.COM
+   Status: clientTransferProhibited
+   Updated Date: 19-feb-2011
+   Creation Date: 02-mar-2007
+   Expiration Date: 02-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:10:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +51,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+% By submitting a query to CENTROHOST Whois Service
+% you agree to abide by the following terms of use:
+% http://centrohost.ru/ru/information/whois/
+
+Domain name: ICONKA.COM
+
+Status: clientTransferProhibited
+
+
+
+NameServers:
+    ns1.hostmonster.com
+    ns2.hostmonster.com
+
+Creation date:   02-03-2007
+Expiration date: 02-03-2012
+
+Registrant:
+    N/A
+    Denis U Sazhin        (julyus@yandex.ru)
+    ul. Petrozavodskaya 1 24
+    Moskva
+    AL,125502
+    RU
+    Tel. +7.9166662364
+
+Administrative Contact:
+    N/A
+    Denis U Sazhin        (julyus@yandex.ru)
+    ul. Petrozavodskaya 1 24
+    Moskva
+    AL,125502
+    RU
+    Tel. +7.9166662364
+
+Technical Contact:
+    N/A
+    Denis U Sazhin        (julyus@yandex.ru)
+    ul. Petrozavodskaya 1 24
+    Moskva
+    AL,125502
+    RU
+    Tel. +7.9166662364
+
+Billing Contact:
+    N/A
+    Denis U Sazhin        (julyus@yandex.ru)
+    ul. Petrozavodskaya 1 24
+    Moskva
+    AL,125502
+    RU
+    Tel. +7.9166662364
+
+Information provided by CENTROHOST registrar
+

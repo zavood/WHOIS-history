@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LXDNS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LXDNS.COM
-   Name Server: NS2.LXDNS.COM
-   Name Server: NS3.LXDNS.COM
-   Name Server: NS4.LXDNS.COM
-   Name Server: NS5.LXDNS.COM
-   Status: ok
-   Updated Date: 06-jul-2011
-   Creation Date: 03-aug-2006
-   Expiration Date: 03-aug-2012
+   Domain Name: LOVETEXTURES.COM
+   Registrar: TLDS, LLC DBA SRSPLUS
+   Whois Server: whois.srsplus.com
+   Referral URL: http://www.srsplus.com
+   Name Server: NS1.NETPIVOTAL.COM
+   Name Server: NS2.NETPIVOTAL.COM
+   Status: clientTransferProhibited
+   Updated Date: 24-sep-2010
+   Creation Date: 24-sep-2008
+   Expiration Date: 24-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +51,51 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+lovetextures.com
+
+Registrant:
+         justin treharne  (justintreharne@hotmail.com)
+        3 owlsmoor road
+        sandhurst, NONE  GU47 0SD
+        UK
+        07786264202
+
+
+Domain Name: lovetextures.com
+
+
+
+
+Administrative, Billing Contact:
+         Organization Organization  (info@netpivotal.com)
+        NetPivotal Ltd.
+        Suite 138 456-458 The Strand
+        London, London  WC2R ODZ
+        UK
+        n/a
+
+
+Billing Contact:
+         justin treharne  (justintreharne@hotmail.com)
+        3 owlsmoor road
+        sandhurst, NONE  GU47 0SD
+        UK
+        07786264202
+
+
+
+
+
+   Record created on Sep 24 2008.
+   Record expires on Sep 24 2011.
+Domain servers:
+        ns1.netpivotal.com
+        ns2.netpivotal.com
+
+
+
+Domain Service Provider:
+   Netpivotal Ltd
+   customer.services@netpivotal.com
+
+

@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: COL585D-NORID
+Domain Name................: colors.no
+Domain Holder Handle.......: SOLJ2O-NORID
+Registrar Handle...........: REG5-NORID
+Legal-c Handle.............: OJ1291P-NORID
+Tech-c Handle..............: WAR19R-NORID
+Name Server Handle.........: NSDA68H-NORID
+Name Server Handle.........: NSDA81H-NORID
+
+Additional information:
+Created:         2003-06-03
+Last updated:    2011-06-05
+
+NORID Handle...............: SOLJ2O-NORID
+Type.......................: organization
+Name.......................: S09 Olav Ludvig Jordal
+Id Type....................: organization_number
+Id Number..................: 991592776
+Registrar Handle...........: REG5-NORID
+Post Address...............: Salhussvingen 9
+Postal Code................: NO-5107
+Postal Area................: Salhus
+Country....................: NO
+Mobile Phone Number........: +47.93407912
+Email Address..............: jordal@gmail.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

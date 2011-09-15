@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LXDNS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LXDNS.COM
-   Name Server: NS2.LXDNS.COM
-   Name Server: NS3.LXDNS.COM
-   Name Server: NS4.LXDNS.COM
-   Name Server: NS5.LXDNS.COM
-   Status: ok
-   Updated Date: 06-jul-2011
-   Creation Date: 03-aug-2006
-   Expiration Date: 03-aug-2012
+   Domain Name: CHCHZ.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: F1G1NS1.DNSPOD.NET
+   Name Server: F1G1NS2.DNSPOD.NET
+   Status: clientHold
+   Updated Date: 26-aug-2011
+   Creation Date: 20-jan-2008
+   Expiration Date: 20-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:10:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 Zhang san. bcnqq@126.com +86.02086813782
+	 Zhang san.
+	 Fujian province,Xiamen City
+	 Xiamen,Xinjiang,CHINA 510800
+
+
+Domain Name:chchz.com
+Record last updated at 2011-01-08 02:27:42
+Record created on 2008/1/20
+Record expired on 2012/1/20
+
+
+Domain servers in listed order:
+	 f1g1ns1.dnspod.net 	 f1g1ns2.dnspod.net
+
+Administrator:
+	 Fujian province,Xiamen City
+	 Xiamen
+Xinjiang,
+CHINA
+ 510800
+
+	 name:(ZhangSan)
+mail:(bcnqq@126.com) +86.02086813782
+	 Zhang san.
+Technical Contactor:
+	 Fujian province,Xiamen City
+	 Xiamen
+Xinjiang,
+CHINA
+ 510800
+
+	 name:(ZhangSan)
+mail:(bcnqq@126.com) +86.02086813782
+	 Zhang san.
+Billing Contactor:
+	 Fujian province,Xiamen City
+	 Xiamen
+Xinjiang,
+CHINA
+ 510800
+
+	 name:(ZhangSan)
+mail:(bcnqq@126.com) +86.02086813782
+	 Zhang san.

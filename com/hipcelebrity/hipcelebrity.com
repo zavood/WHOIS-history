@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LXDNS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LXDNS.COM
-   Name Server: NS2.LXDNS.COM
-   Name Server: NS3.LXDNS.COM
-   Name Server: NS4.LXDNS.COM
-   Name Server: NS5.LXDNS.COM
+   Domain Name: HIPCELEBRITY.COM
+   Registrar: DEUTSCHE TELEKOM AG
+   Whois Server: whois.registrar.telekom.de
+   Referral URL: http://www.registrar.telekom.de
+   Name Server: DNS01-PRO.T-ONLINE.DE
+   Name Server: DNS02-PRO.T-ONLINE.DE
    Status: ok
-   Updated Date: 06-jul-2011
-   Creation Date: 03-aug-2006
-   Expiration Date: 03-aug-2012
+   Updated Date: 27-apr-2011
+   Creation Date: 26-apr-2008
+   Expiration Date: 26-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:10:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +51,36 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+[whois.registrar.telekom.de]
+% Copyright (c)2003 by Deutsche Telekom AG
+%
+% Restricted rights.
+%
+%
+% Except for agreed Internet operational purposes, no part of this
+% information may be reproduced, stored in a retrieval system, or
+% transmitted, in any form or by any means, electronic, mechanical,
+% recording, or otherwise, without prior permission of the Deutsche Telekom AG
+% on behalf of itself and/or the copyright holders. Any use of this
+% material to target advertising or similar activities are explicitly
+% forbidden and will be prosecuted. The Deutsche Telekom AG requests
+% to be notified of any such activities or suspicions thereof.
+%
+% Query Syntax:
+% DOMAIN:        domainname
+% PERSON:        na lastname, firstname
+% HANDLE:        ha handle
+% DOMAIN full:   full domainname
+
+domain: hipcelebrity.com
+registrant-hdl: RDT-GD881
+admin-c: RDT-GD881
+tech-c: RDT-TOH1
+zone-c: RDT-TOH1
+nserver: dns01-pro.t-online.de
+nserver: dns02-pro.t-online.de
+status: connected
+changed: 2008-09-27
+created: 2008-04-26
+expires: 2012-04-26
+source: DEUTSCHE TELEKOM AG

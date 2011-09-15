@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LXDNS.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.LXDNS.COM
-   Name Server: NS2.LXDNS.COM
-   Name Server: NS3.LXDNS.COM
-   Name Server: NS4.LXDNS.COM
-   Name Server: NS5.LXDNS.COM
-   Status: ok
-   Updated Date: 06-jul-2011
-   Creation Date: 03-aug-2006
-   Expiration Date: 03-aug-2012
+   Domain Name: JAXIX.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.PARKED.COM
+   Name Server: NS2.PARKED.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 21-aug-2011
+   Creation Date: 26-aug-2006
+   Expiration Date: 26-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:11:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:10:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +52,37 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+This domain is protected by Whois Privacy Services Pty Ltd. For more information please visit www.whoisprivacyservices.com.au
+
+Domain jaxix.com:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 32313957301194
+  32313957301194-a9a797@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+
+Administrative contact:
+Technical contact:
+Billing contact:
+  Whois Privacy Services Pty Ltd
+  Domain Hostmaster, Customer ID : 32313957301194
+  32313957301194-a9a797@whoisprivacyservices.com.au
+  PO Box 923
+  Fortitude Valley QLD 4006 AU
+  Phone: Phone: +61.730070090
+  Fax: Phone: +61.730070091
+
+Record dates:
+  Record created on: 2006-08-26 05:58:55 UTC
+  Record modified on: 2011-08-22 02:47:07 UTC
+  Record expires on: 2012-08-26 UTC
+
+Nameservers:
+  ns1.parked.com:
+    69.46.226.23
+  ns2.parked.com:
+    69.46.227.24
+
+Note: Automated collection of data from this database is strictly prohibited.
+
