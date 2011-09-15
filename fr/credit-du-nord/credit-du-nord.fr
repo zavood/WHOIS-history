@@ -1,0 +1,98 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; credit-du-nord.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      credit-du-nord.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CDN97-FRNIC
+admin-c:     DA3061-FRNIC
+tech-c:      MIT10-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL17525-FRNIC
+registrar:   MELBOURNE IT LIMITED
+anniversary: 30/08
+created:     23/07/1999
+last-update: 27/05/2009
+source:      FRNIC
+
+ns-list:     NSL17525-FRNIC
+nserver:     a4.nstld.com
+nserver:     f4.nstld.com
+nserver:     g4.nstld.com
+nserver:     h4.nstld.com
+nserver:     j4.nstld.com
+nserver:     k4.nstld.com
+nserver:     l4.nstld.com
+source:      FRNIC
+
+registrar:   MELBOURNE IT LIMITED
+type:        Isp Option 1
+address:     Level 2
+address:     120 King St
+address:     3000 MELBOURNE, VICTORIA
+country:     AU
+phone:       +61 3 8624 2400
+fax-no:      +61 3 8624 2499
+e-mail:      admin@melbourneitdbs.com
+website:     http://www.melbourneit.com.au
+anonymous:   NO
+registered:  16/03/2007
+source:      FRNIC
+
+nic-hdl:     CDN97-FRNIC
+type:        ORGANIZATION
+contact:     CREDIT DU NORD
+address:     28, place Rihour
+address:     59000 Lille
+country:     FR
+changed:     27/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     MIT10-FRNIC
+type:        ORGANIZATION
+contact:     Melbourne IT Tech
+address:     Melbourne IT DBS Inc
+address:     636 Ellis Street
+address:     CA 94043 Mountain View
+country:     US
+phone:       +1 8669073267
+fax-no:      +1 6502378883
+e-mail:      tech@melbourneitdbs.com
+changed:     27/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     DA3061-FRNIC
+type:        PERSON
+contact:     Domain Admin
+address:     Credit du Nord
+address:     59, boulevard Haussmann
+address:     75008 Paris
+country:     FR
+phone:       +33 1 40 22 43 46
+fax-no:      +33 1 40 22 54 02
+e-mail:      internet.projet@cdn.fr
+changed:     27/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

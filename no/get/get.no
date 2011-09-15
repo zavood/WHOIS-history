@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: GET330D-NORID
+Domain Name................: get.no
+Domain Holder Handle.......: GA2395O-NORID
+Registrar Handle...........: REG164-NORID
+Legal-c Handle.............: LM1202P-NORID
+Tech-c Handle..............: NKH39P-NORID
+Name Server Handle.........: NSGE42H-NORID
+Name Server Handle.........: NSOS51H-NORID
+Name Server Handle.........: NSST203H-NORID
+
+Additional information:
+Created:         2000-09-20
+Last updated:    2011-02-01
+
+NORID Handle...............: GA2395O-NORID
+Type.......................: organization
+Name.......................: GET AS
+Id Type....................: organization_number
+Id Number..................: 919394056
+Registrar Handle...........: REG164-NORID
+Post Address...............: Postboks 4400 Nydalen
+Postal Code................: NO-0403
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.21900000
+Fax Number.................: +47.21900001
+Email Address..............: laila.myksvoll@get.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
