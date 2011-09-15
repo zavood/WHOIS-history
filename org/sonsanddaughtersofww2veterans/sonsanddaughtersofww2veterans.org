@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D93788500-LROR
+Domain Name:SONSANDDAUGHTERSOFWW2VETERANS.ORG
+Created On:08-Jan-2003 18:44:26 UTC
+Last Updated On:23-Nov-2010 18:18:07 UTC
+Expiration Date:08-Jan-2013 18:44:26 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34635210
+Registrant Name:Patt Vaughan
+Registrant Organization:Admiral Nimitz Foundation
+Registrant Street1:328 East Main St
+Registrant Street2:
+Registrant Street3:
+Registrant City:FREDERICKSBRG
+Registrant State/Province:Texas
+Registrant Postal Code:78624-0777
+Registrant Country:US
+Registrant Phone:+1.8309978600
+Registrant Phone Ext.:
+Registrant FAX:+1.8309978092
+Registrant FAX Ext.:
+Registrant Email:vaughan@nimitz-museum.org
+Admin ID:CR34635212
+Admin Name:Patt Vaughan
+Admin Organization:Admiral Nimitz Foundation
+Admin Street1:328 East Main St
+Admin Street2:
+Admin Street3:
+Admin City:FREDERICKSBRG
+Admin State/Province:Texas
+Admin Postal Code:78624-0777
+Admin Country:US
+Admin Phone:+1.8309978600
+Admin Phone Ext.:
+Admin FAX:+1.8309978092
+Admin FAX Ext.:
+Admin Email:vaughan@nimitz-museum.org
+Tech ID:CR34635211
+Tech Name:Patt Vaughan
+Tech Organization:Admiral Nimitz Foundation
+Tech Street1:328 East Main St
+Tech Street2:
+Tech Street3:
+Tech City:FREDERICKSBRG
+Tech State/Province:Texas
+Tech Postal Code:78624-0777
+Tech Country:US
+Tech Phone:+1.8309978600
+Tech Phone Ext.:
+Tech FAX:+1.8309978092
+Tech FAX Ext.:
+Tech Email:vaughan@nimitz-museum.org
+Name Server:NS57.1AND1.COM
+Name Server:NS58.1AND1.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,60 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         pharmacysleepingpillstablets.at
+registrant:     AT7915425-NICAT
+admin-c:        AT7915426-NICAT
+tech-c:         AT7915426-NICAT
+nserver:        ns1.pharmacysleepingpillstablets.at
+remarks:        203.160.13.39
+nserver:        ns2.pharmacysleepingpillstablets.at
+remarks:        202.100.91.132
+changed:        20110403 14:49:35
+source:         AT-DOM
+
+personname:     Aleksandr Tumanov
+organization:
+street address: Oktyabrskij pr-kt d.91-97 kv.49
+postal code:    140002
+city:           Lyubertsy
+country:        Russian Federation
+phone:          +74959950129
+fax-no:         +74959950129
+e-mail:         owe@ca4.ru
+nic-hdl:        AT7915425-NICAT
+changed:        20110322 20:09:17
+source:         AT-DOM
+
+personname:     Aleksandr Tumanov
+organization:
+street address: Oktyabrskij pr-kt d.91-97 kv.49
+postal code:    140002
+city:           Lyubertsy
+country:        Russian Federation
+phone:          +74959950129
+fax-no:         +74959950129
+e-mail:         owe@ca4.ru
+nic-hdl:        AT7915426-NICAT
+changed:        20110322 20:09:18
+source:         AT-DOM
+

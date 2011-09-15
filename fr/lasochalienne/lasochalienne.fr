@@ -1,0 +1,112 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; lasochalienne.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lasochalienne.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LSMP3-FRNIC
+admin-c:     LSMP1-FRNIC
+tech-c:      NU96-FRNIC
+tech-c:      NL4-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL441-FRNIC
+registrar:   UNIMEDIA SERVICES
+anniversary: 24/06
+created:     04/11/2008
+last-update: 24/06/2009
+source:      FRNIC
+
+ns-list:     NSL441-FRNIC
+nserver:     ns1.unimedia.fr [85.14.171.1]
+nserver:     ns2.unimedia.fr [88.191.59.83]
+source:      FRNIC
+
+registrar:   UNIMEDIA SERVICES
+type:        Isp Option 1
+address:     14 Boulevard Lavoisier
+address:     ANGERS
+country:     FR
+phone:       +33 2 41 22 72 27
+fax-no:      +33 2 41 22 72 28
+e-mail:      noc@unimedia.fr
+website:     http://www.unimedia.fr
+anonymous:   NO
+registered:  01/01/2000
+source:      FRNIC
+
+nic-hdl:     LSMP3-FRNIC
+type:        ORGANIZATION
+contact:     La Sochalienne Marseille Provence
+address:     13, avenue de Londres
+address:     13127 Vitrolles
+country:     FR
+phone:       +33 4 42 15 51 55
+e-mail:      contact-afnic@sites-acs.net
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     LSMP1-FRNIC
+type:        ORGANIZATION
+contact:     LA SOCHALIENNE MARSEILLE PROVENCE
+address:     LA SOCHALIENNE MARSEILLE PROVENCE
+address:     13, avenue de Londres
+address:     13127 Vitrolles
+country:     FR
+phone:       +33 4 42 15 51 55
+e-mail:      noc@unimedia.fr
+changed:     24/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     NU96-FRNIC
+type:        ROLE
+contact:     NOC UniMedia
+address:     UNIMEDIA SERVICES
+address:     Espace Performance Hermes
+address:     4, rue de la Chambre aux Deniers
+address:     49000 Angers
+country:     FR
+phone:       +33 2 41 22 72 27
+e-mail:      noc@unimedia.fr
+admin-c:     NL4-FRNIC
+tech-c:      CG1161-FRNIC
+notify:      noc@unimedia.fr
+changed:     10/10/2008 noc@unimedia.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NL4-FRNIC
+type:        PERSON
+contact:     Nicolas Leray
+address:     UNIMEDIA SERVICES
+address:     14, boulevard Lavoisier
+address:     49045 Angers
+country:     FR
+phone:       +33 2 41 22 72 27
+fax-no:      +33 2 41 22 72 28
+e-mail:      noc@unimedia.fr
+changed:     17/11/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

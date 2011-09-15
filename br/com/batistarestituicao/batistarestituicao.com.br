@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 11:37:53 (BRT -03:00)
+
+domain:      batistarestituicao.com.br
+owner:       Igreja Batista Restitui&ccedil;&atilde;o
+ownerid:     007.616.947/0001-70
+responsible: Jos&eacute; Carlos da Silva
+country:     BR
+owner-c:     INSIN7
+admin-c:     YMM3
+tech-c:      YMM3
+billing-c:   YMM3
+nserver:     ns1.batistarestituicao.com.br 173.193.11.130
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.batistarestituicao.com.br 173.193.17.248
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20060703 #2909110
+expires:     20120703
+changed:     20110729
+status:      published
+
+nic-hdl-br:  INSIN7
+person:      INVENTESITE SOLU&Ccedil;OES DE INTERNET
+e-mail:      comercial@inventesite.com.br
+created:     20091002
+changed:     20091002
+
+nic-hdl-br:  YMM3
+person:      Yuri Melo
+e-mail:      registro@bysite.com.br
+created:     20020302
+changed:     20110801
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

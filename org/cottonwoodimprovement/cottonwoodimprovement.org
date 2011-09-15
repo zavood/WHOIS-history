@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D108096849-LROR
+Domain Name:COTTONWOODIMPROVEMENT.ORG
+Created On:03-Nov-2005 00:00:43 UTC
+Last Updated On:11-Aug-2009 21:53:11 UTC
+Expiration Date:03-Nov-2015 00:00:43 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuHDJ7f9hlUF31Z4
+Registrant Name:Cindy Arbon
+Registrant Organization:Cottonwood Improvement District
+Registrant Street1:8620 Highland Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sandy
+Registrant State/Province:UT
+Registrant Postal Code:84093
+Registrant Country:US
+Registrant Phone:+1.8019437671
+Registrant Phone Ext.:1234
+Registrant FAX:+1.8019431077
+Registrant FAX Ext.:1234
+Registrant Email:cinarbon@cid.state.ut.us
+Admin ID:tupTpZqm53njm0Fy
+Admin Name:Cindy Arbon
+Admin Organization:Cottonwood Improvement District
+Admin Street1:8620 Highland Drive
+Admin Street2:
+Admin Street3:
+Admin City:Sandy
+Admin State/Province:UT
+Admin Postal Code:84093
+Admin Country:US
+Admin Phone:+1.8019437671
+Admin Phone Ext.:1234
+Admin FAX:+1.8019431077
+Admin FAX Ext.:1234
+Admin Email:cinarbon@cid.state.ut.us
+Tech ID:tuqXMVBU680zgDcS
+Tech Name:Cindy Arbon
+Tech Organization:Cottonwood Improvement District
+Tech Street1:8620 Highland Drive
+Tech Street2:
+Tech Street3:
+Tech City:Sandy
+Tech State/Province:UT
+Tech Postal Code:84093
+Tech Country:US
+Tech Phone:+1.8019437671
+Tech Phone Ext.:1234
+Tech FAX:+1.8019431077
+Tech FAX Ext.:1234
+Tech Email:cinarbon@cid.state.ut.us
+Name Server:NS.PACIFICWEBWORKS.COM
+Name Server:NS2.PACIFICWEBWORKS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

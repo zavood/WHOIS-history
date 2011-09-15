@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D133909466-LROR
+Domain Name:AUXVASSECHRISTIANCHURCH.ORG
+Created On:29-Nov-2006 00:13:19 UTC
+Last Updated On:14-Nov-2010 14:01:55 UTC
+Expiration Date:29-Nov-2011 00:13:19 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:C11647588696329
+Registrant Name:Ed Morris
+Registrant Organization:Private Registration US
+Registrant Street1:Walnut and Mary
+Registrant Street2:
+Registrant Street3:
+Registrant City:Auxvasse
+Registrant State/Province:MO
+Registrant Postal Code:65231
+Registrant Country:US
+Registrant Phone:+1.5733874123
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:edmorris@ktis.net
+Admin ID:C11647588696326
+Admin Name:Ed Morris
+Admin Organization:Private Reg US
+Admin Street1:1185 County Road 231
+Admin Street2:
+Admin Street3:
+Admin City:Auxvasse
+Admin State/Province:MO
+Admin Postal Code:65231
+Admin Country:US
+Admin Phone:+1.5733874123
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:edmorris@ktis.net
+Tech ID:C11647588696328
+Tech Name:YahooDomains TechContact
+Tech Organization:Private Reg US
+Tech Street1:701 First Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Sunnyvale
+Tech State/Province:CA
+Tech Postal Code:94089
+Tech Country:US
+Tech Phone:+1.6198813096
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain.tech@yahoo-inc.com
+Name Server:NS1.SITEGROUND133.COM
+Name Server:NS2.SITEGROUND133.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
