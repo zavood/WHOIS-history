@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 11:06:23 (BRT -03:00)
+
+domain:      eproninformatica.com.br
+owner:       Lema Consultoria S/C LTDA
+ownerid:     002.918.041/0001-97
+responsible: Alexandre de Almeida Paiva
+country:     BR
+owner-c:     AAP356
+admin-c:     CEA63
+tech-c:      CEA63
+billing-c:   CEA63
+nserver:     ns1.locaweb.com.br
+nsstat:      20110909 AA
+nslastaa:    20110909
+nserver:     ns2.locaweb.com.br
+nsstat:      20110909 AA
+nslastaa:    20110909
+created:     20041119 #1892545
+expires:     20111119
+changed:     20110819
+status:      published
+
+nic-hdl-br:  AAP356
+person:      Alexandre de Almeida Paiva
+e-mail:      alexandrepaiva28@hotmail.com
+created:     20040531
+changed:     20070811
+
+nic-hdl-br:  CEA63
+person:      Carlos Eduardo de Ara&uacute;jo
+e-mail:      durao@suainternet.com
+created:     20000401
+changed:     20100511
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

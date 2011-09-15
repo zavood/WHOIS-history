@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 11:03:52 (BRT -03:00)
+
+domain:      revistadamidia.com.br
+owner:       ROSENILDE RIBEIRO DOS SANTOS
+ownerid:     256.132.193-20
+country:     BR
+owner-c:     ARDSA35
+admin-c:     ARDSA35
+tech-c:      ARDSA35
+billing-c:   ARDSA35
+nserver:     ns1.revistadamidia.com.br 200.219.214.4
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.revistadamidia.com.br 200.219.214.5
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20080709 #4661192
+expires:     20120709
+changed:     20110725
+status:      published
+
+nic-hdl-br:  ARDSA35
+person:      Andersson Ribeiro dos Santos
+e-mail:      info@revistadamidia.com.br
+created:     20070717
+changed:     20090401
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
