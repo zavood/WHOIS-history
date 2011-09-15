@@ -1,0 +1,63 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 23:41:25 2011
+
+domain:       amu.cz
+registrant:   SB:RC110-RIPE_XX
+admin-c:      RC110-RIPE
+nsset:        NSS:RC110-RIPE_XX:1
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   15.02.1996 01:00:00
+expire:       07.10.2019
+
+contact:      SB:RC110-RIPE_XX
+org:          Academy of Fine Arts - Rectorate
+name:         Academy of Fine Arts - Rectorate
+address:      Malostranske nam. 13
+address:      Praha 1
+address:      118 00
+address:      CZ
+e-mail:       radim.chvala@amu.cz
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      22.05.2003 09:51:00
+
+contact:      RC110-RIPE
+name:         Radim Chvala
+address:      Malostransk&Atilde;&copy; n&Atilde;&iexcl;m. 12
+address:      Praha 1
+address:      118 00
+address:      CZ
+phone:        +420.234244544
+fax-no:       +420.234244515
+e-mail:       radim.chvala@amu.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      20.05.2010 21:12:02
+
+nsset:        NSS:RC110-RIPE_XX:1
+nserver:      tucnak.r.amu.cz (195.113.72.3)
+nserver:      golias.ruk.cuni.cz
+tech-c:       SB:RC110-RIPE_XX
+tech-c:       RC110-RIPE
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+
+

@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; opinion-assurances.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      opinion-assurances.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    A5425-FRNIC
+admin-c:     ACA391-FRNIC
+tech-c:      DF2-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2018-FRNIC
+registrar:   DOMAINOO
+anniversary: 01/08
+created:     01/08/2008
+last-update: 01/08/2008
+source:      FRNIC
+
+ns-list:     NSL2018-FRNIC
+nserver:     a.ns.domainoo.fr [84.233.158.131]
+nserver:     b.ns.domainoo.fr [62.4.78.145]
+source:      FRNIC
+
+registrar:   DOMAINOO
+type:        Isp Option 2
+address:     49 Rue Richelieu
+address:     PARIS
+country:     FR
+phone:       +33 1 47 05 87 27
+fax-no:      +33 1 56 72 90 48
+e-mail:      info@domainoo.com
+website:     http://www.domainoo.com
+anonymous:   NO
+registered:  05/10/2000
+source:      FRNIC
+
+nic-hdl:     A5425-FRNIC
+type:        ORGANIZATION
+contact:     Assurland
+address:     1, ruemederic
+address:     75017 Paris
+country:     FR
+phone:       +33 1 47 05 87 27
+fax-no:      +33 1 56 72 90 48
+e-mail:      ame@assurland.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ACA391-FRNIC
+type:        PERSON
+contact:     admin-c Assurland
+address:     1, ruemederic
+address:     75017 Paris
+country:     FR
+phone:       +33 1 47 05 87 27
+fax-no:      +33 1 56 72 90 48
+e-mail:      ame@assurland.com
+changed:     01/08/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DF2-FRNIC
+type:        ROLE
+contact:     domainoo france
+address:     Domainoo S.A.S.
+address:     133, Ante rue de l'Universite
+address:     75007 Paris
+country:     FR
+phone:       +33 1 47 05 87 27
+fax-no:      +33 1 56 72 90 48
+e-mail:      fr@domainoo.com
+admin-c:     OB2-FRNIC
+tech-c:      OB2-FRNIC
+changed:     09/05/2003 fr@domainoo.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

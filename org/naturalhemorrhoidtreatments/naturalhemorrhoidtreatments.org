@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159233846-LROR
+Domain Name:NATURALHEMORRHOIDTREATMENTS.ORG
+Created On:21-May-2010 11:13:40 UTC
+Last Updated On:02-Jul-2011 11:57:38 UTC
+Expiration Date:21-May-2012 11:13:40 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:5a00b07e537ec9f9
+Registrant Name:Paramjeet  Singh
+Registrant Street1:503, balaji nilayam, street no 1, tarnaka
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hyderabad
+Registrant State/Province:
+Registrant Postal Code:500012
+Registrant Country:IN
+Registrant Phone:+1.9985278753
+Registrant Phone Ext.:
+Registrant FAX:+1.9985278753
+Registrant FAX Ext.:
+Registrant Email:getparams@gmail.com
+Admin ID:5a00b07e537ec9f9
+Admin Name:Paramjeet  Singh
+Admin Street1:503, balaji nilayam, street no 1, tarnaka
+Admin Street2:
+Admin Street3:
+Admin City:Hyderabad
+Admin State/Province:
+Admin Postal Code:500012
+Admin Country:IN
+Admin Phone:+1.9985278753
+Admin Phone Ext.:
+Admin FAX:+1.9985278753
+Admin FAX Ext.:
+Admin Email:getparams@gmail.com
+Tech ID:5a00b07e537ec9f9
+Tech Name:Paramjeet  Singh
+Tech Street1:503, balaji nilayam, street no 1, tarnaka
+Tech Street2:
+Tech Street3:
+Tech City:Hyderabad
+Tech State/Province:
+Tech Postal Code:500012
+Tech Country:IN
+Tech Phone:+1.9985278753
+Tech Phone Ext.:
+Tech FAX:+1.9985278753
+Tech FAX Ext.:
+Tech Email:getparams@gmail.com
+Name Server:DNS1.NAME-SERVICES.COM
+Name Server:DNS2.NAME-SERVICES.COM
+Name Server:DNS3.NAME-SERVICES.COM
+Name Server:DNS4.NAME-SERVICES.COM
+Name Server:DNS5.NAME-SERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

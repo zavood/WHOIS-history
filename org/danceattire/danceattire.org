@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161519235-LROR
+Domain Name:DANCEATTIRE.ORG
+Created On:16-Feb-2011 15:21:14 UTC
+Last Updated On:19-Jul-2011 16:03:03 UTC
+Expiration Date:16-Feb-2012 15:21:14 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:06hwuw60evfrp
+Registrant Name:qiang wei
+Registrant Organization:qiangwei
+Registrant Street1:xiantianyuandushi
+Registrant Street2:
+Registrant Street3:
+Registrant City:shanxi
+Registrant State/Province:xian
+Registrant Postal Code:710086
+Registrant Country:CN
+Registrant Phone:+86.1377261262
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:258655024@qq.com
+Admin ID:06hwuw60evfrp
+Admin Name:qiang wei
+Admin Organization:qiangwei
+Admin Street1:xiantianyuandushi
+Admin Street2:
+Admin Street3:
+Admin City:shanxi
+Admin State/Province:xian
+Admin Postal Code:710086
+Admin Country:CN
+Admin Phone:+86.1377261262
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:258655024@qq.com
+Tech ID:06hwuw60evfrp
+Tech Name:qiang wei
+Tech Organization:qiangwei
+Tech Street1:xiantianyuandushi
+Tech Street2:
+Tech Street3:
+Tech City:shanxi
+Tech State/Province:xian
+Tech Postal Code:710086
+Tech Country:CN
+Tech Phone:+86.1377261262
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:258655024@qq.com
+Name Server:NS1.SMARTNAME.COM
+Name Server:NS2.SMARTNAME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D84955990-LROR
+Domain Name:JANKER.ORG
+Created On:28-Mar-2002 06:01:26 UTC
+Last Updated On:25-Jan-2011 16:37:51 UTC
+Expiration Date:28-Mar-2012 06:01:26 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:OK
+Registrant ID:10687061344940
+Registrant Name:Beijing+Lanshen+Computer+Network+Corp.
+Registrant Street1:Room 16B,B building,No.6 of north 4 surrounding-road,Beijing
+Registrant Street2:
+Registrant Street3:
+Registrant City:beijing
+Registrant State/Province:beijing
+Registrant Postal Code:100029
+Registrant Country:CN
+Registrant Phone:+99.999999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:janker@371.net
+Admin ID:10687061348540
+Admin Name:janker janker
+Admin Street1:Room 16B,B building,No.6 of north 4 surrounding-road,Beijing
+Admin Street2:
+Admin Street3:
+Admin City:beijing
+Admin State/Province:beijing
+Admin Postal Code:100029
+Admin Country:CN
+Admin Phone:+86.01082843611
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:janker@371.net
+Tech ID:10687061357790
+Tech Name:HiChina Web Solutions Limited
+Tech Street1:11/F Bldg Fuhua Mansion
+Tech Street2:No8 Chaoyangmen North Ave
+Tech Street3:
+Tech City:Donggcheng Dist
+Tech State/Province:beijing
+Tech Postal Code:100027
+Tech Country:CN
+Tech Phone:+86.1065546191
+Tech Phone Ext.:
+Tech FAX:+86.1065542377
+Tech FAX Ext.:
+Tech Email:mit_domainadm@hichina.com
+Name Server:NS3.HICHINA.COM
+Name Server:NS4.HICHINA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

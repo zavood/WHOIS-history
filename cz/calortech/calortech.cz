@@ -1,0 +1,72 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 23:43:47 2011
+
+domain:       calortech.cz
+registrant:   SB:SUB05101342ABZONE
+admin-c:      OS05101342ABZONE
+nsset:        NSS:ISOL:1
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   13.10.2005 17:25:00
+changed:      25.01.2008 17:43:00
+expire:       13.10.2014
+
+contact:      SB:SUB05101342ABZONE
+org:          CalorTech s.r.o.
+name:         CalorTech s.r.o.
+address:      &Auml;Œernilov 384
+address:      &Auml;Œernilov
+address:      50343
+address:      CZ
+e-mail:       calortech@cmail.cz
+registrar:    REG-INTERNET-CZ
+created:      13.10.2005 17:25:00
+
+contact:      OS05101342ABZONE
+name:         Pavel Svoboda
+address:      &Auml;Œernilov 384
+address:      &Auml;Œernilov
+address:      50343
+address:      CZ
+e-mail:       calortech@cmail.cz
+registrar:    REG-INTERNET-CZ
+created:      13.10.2005 17:25:00
+
+nsset:        NSS:ISOL:1
+nserver:      ns1.isol.cz (89.187.131.40)
+nserver:      ns2.isol.cz (89.187.131.41)
+tech-c:       FORPSI-LAZ-C151031
+registrar:    REG-INTERNET-CZ
+created:      16.10.2007 15:18:03
+changed:      20.02.2008 14:49:28
+
+contact:      FORPSI-LAZ-C151031
+org:          ISOL Int. s.r.o.
+name:         ISOL Int. s.r.o.
+address:      Borivojova 35/878
+address:      Praha 3
+address:      13000
+address:      CZ
+phone:        +420.724979858
+registrar:    REG-GRANSY
+created:      12.11.2005 22:05:00
+changed:      11.03.2010 18:21:11
+
+
