@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150595382-LROR
+Domain Name:SUGARBAR.ORG
+Created On:09-Jan-2008 18:04:01 UTC
+Last Updated On:10-Dec-2009 23:14:37 UTC
+Expiration Date:09-Jan-2012 18:04:01 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34652369
+Registrant Name:Davina Xin Yi Lim
+Registrant Street1:7 Tai Keng Place
+Registrant Street2:
+Registrant Street3:
+Registrant City:Singapore
+Registrant State/Province:Singapore
+Registrant Postal Code:534330
+Registrant Country:SG
+Registrant Phone:+65.2849150
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:divalim@gmail.com
+Admin ID:CR34652372
+Admin Name:Davina Xin Yi Lim
+Admin Street1:7 Tai Keng Place
+Admin Street2:
+Admin Street3:
+Admin City:Singapore
+Admin State/Province:Singapore
+Admin Postal Code:534330
+Admin Country:SG
+Admin Phone:+65.2849150
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:divalim@gmail.com
+Tech ID:CR34652371
+Tech Name:Davina Xin Yi Lim
+Tech Street1:7 Tai Keng Place
+Tech Street2:
+Tech Street3:
+Tech City:Singapore
+Tech State/Province:Singapore
+Tech Postal Code:534330
+Tech Country:SG
+Tech Phone:+65.2849150
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:divalim@gmail.com
+Name Server:NS1.LAUGHINGSQUID.NET
+Name Server:NS2.LAUGHINGSQUID.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

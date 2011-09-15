@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KIQEVINARELO.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS1.KIQEVINARELO.COM
-   Name Server: NS2.KIQEVINARELO.COM
-   Status: clientDeleteProhibited
+   Domain Name: SHOP-USWINGS.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: NS1.AISN.NET
+   Name Server: NS2.AISN.NET
+   Name Server: NS3.AISN.NET
+   Name Server: NS4.AISN.NET
    Status: clientTransferProhibited
-   Updated Date: 29-may-2011
-   Creation Date: 26-may-2011
-   Expiration Date: 26-may-2012
+   Updated Date: 01-feb-2011
+   Creation Date: 01-feb-2011
+   Expiration Date: 01-feb-2013
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:56:17 UTC &lt;&lt;&lt;
 
@@ -53,61 +54,73 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
 
-Domain name: kiqevinarelo.com
 
-Registrant Contact:
-   Ralf Ziegler
-   Ralf Ziegler socks@mailae.com
-   +41313115688 fax: +41313115688
-   Rathaussgasse 72
-   Bern Bern CH-3011
-   CH
+   Registrant:
+      US Wings, Inc.
+      David Hack
+      561 E. Hines Hill Road
+      Hudson, OH 44236
+      US
+      Phone: +1.3306533750
+      Email: info@uswings.com
 
-Administrative Contact:
-   Ralf Ziegler socks@mailae.com
-   +41313115688 fax: +41313115688
-   Rathaussgasse 72
-   Bern Bern CH-3011
-   CH
 
-Technical Contact:
-   Ralf Ziegler socks@mailae.com
-   +41313115688 fax: +41313115688
-   Rathaussgasse 72
-   Bern Bern CH-3011
-   CH
 
-Billing Contact:
-   Ralf Ziegler socks@mailae.com
-   +41313115688 fax: +41313115688
-   Rathaussgasse 72
-   Bern Bern CH-3011
-   CH
+   Registrar Name....: Register.com
+   Registrar Whois...: whois.register.com
+   Registrar Homepage: www.register.com
 
-Registration Service Provider:
-name: Bizcn
+   Domain Name: shop-uswings.com
+      Created on..............: 2011-02-01
+      Expires on..............: 2013-02-01
 
-DNS:
-ns1.kiqevinarelo.com
-ns2.kiqevinarelo.com
+   Administrative Contact:
+      AIS Network
+      DNS Admin
+      1611 Colonial Parkway
+      Inverness, IL 60067
+      US
+      Phone: +1.8472021400
+      Email: dnsadmin@aisn.net
 
-Created: 2011-05-26
-Expires: 2012-05-26
+
+   Technical  Contact:
+      AIS Network
+      DNS Admin
+      1611 Colonial Parkway
+      Inverness, IL 60067
+      US
+      Phone: +1.8472021400
+      Email: dnsadmin@aisn.net
+
+
+   DNS Servers:
+      ns4.aisn.net
+      ns1.aisn.net
+      ns2.aisn.net
+      ns3.aisn.net
+
+
+
+Visit AboutUs.org for more information about shop-uswings.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/shop-uswings.com&quot;&gt;AboutUs: shop-uswings.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
+

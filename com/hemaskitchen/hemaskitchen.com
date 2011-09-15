@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KIQEVINARELO.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS1.KIQEVINARELO.COM
-   Name Server: NS2.KIQEVINARELO.COM
-   Status: clientDeleteProhibited
+   Domain Name: HEMASKITCHEN.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS11.101SITEHOSTING.NET
+   Name Server: NS12.101SITEHOSTING.NET
    Status: clientTransferProhibited
-   Updated Date: 29-may-2011
-   Creation Date: 26-may-2011
-   Expiration Date: 26-may-2012
+   Updated Date: 03-mar-2011
+   Creation Date: 04-mar-2009
+   Expiration Date: 04-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:56:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:53:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,7 +51,53 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about hemaskitchen.com
+&lt;a href=&quot;http://www.aboutus.org/hemaskitchen.com&quot;&gt;AboutUs: hemaskitchen.com&lt;/a&gt;
 
+
+Domain name: hemaskitchen.com
+
+Registrant Contact:
+   mejenta
+   Sreekrishna VINJAMOORI ()
+
+   Fax:
+   18468 South Dr , Apt 68
+   SOUTHFIELD, MI 48076
+   US
+
+Administrative Contact:
+   mejenta
+   Sreekrishna VINJAMOORI (vinjamooris@gmail.com)
+   +1.2487785747
+   Fax:
+   18468 South Dr , Apt 68
+   SOUTHFIELD, MI 48076
+   US
+
+Technical Contact:
+   mejenta
+   Sreekrishna VINJAMOORI (vinjamooris@gmail.com)
+   +1.2487785747
+   Fax:
+   18468 South Dr , Apt 68
+   SOUTHFIELD, MI 48076
+   US
+
+Status: Locked
+
+Name Servers:
+   ns11.101sitehosting.net
+   ns12.101sitehosting.net
+
+Creation date: 04 Mar 2009 17:59:58
+Expiration date: 04 Mar 2012 17:59:58
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
 related to a domain name registration record. We make this information
@@ -63,51 +108,10 @@ enable high volume, automated, electronic processes that stress or load
 this whois database system providing you this information; or (2) allow,
 enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
+mail, or by telephone. The compilation, repackaging, dissemination or
 other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
+consent from us.
 
-Domain name: kiqevinarelo.com
-
-Registrant Contact:
-   Ralf Ziegler
-   Ralf Ziegler socks@mailae.com
-   +41313115688 fax: +41313115688
-   Rathaussgasse 72
-   Bern Bern CH-3011
-   CH
-
-Administrative Contact:
-   Ralf Ziegler socks@mailae.com
-   +41313115688 fax: +41313115688
-   Rathaussgasse 72
-   Bern Bern CH-3011
-   CH
-
-Technical Contact:
-   Ralf Ziegler socks@mailae.com
-   +41313115688 fax: +41313115688
-   Rathaussgasse 72
-   Bern Bern CH-3011
-   CH
-
-Billing Contact:
-   Ralf Ziegler socks@mailae.com
-   +41313115688 fax: +41313115688
-   Rathaussgasse 72
-   Bern Bern CH-3011
-   CH
-
-Registration Service Provider:
-name: Bizcn
-
-DNS:
-ns1.kiqevinarelo.com
-ns2.kiqevinarelo.com
-
-Created: 2011-05-26
-Expires: 2012-05-26
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

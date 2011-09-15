@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KIQEVINARELO.COM
-   Registrar: BIZCN.COM, INC.
-   Whois Server: whois.bizcn.com
-   Referral URL: http://www.bizcn.com
-   Name Server: NS1.KIQEVINARELO.COM
-   Name Server: NS2.KIQEVINARELO.COM
-   Status: clientDeleteProhibited
+   Domain Name: PARADISEPOST.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.PPP1.COM
+   Name Server: NS2.PPP1.COM
    Status: clientTransferProhibited
-   Updated Date: 29-may-2011
-   Creation Date: 26-may-2011
-   Expiration Date: 26-may-2012
+   Updated Date: 15-jun-2011
+   Creation Date: 02-oct-1998
+   Expiration Date: 01-oct-2018
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:56:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:53:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,62 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-Domain name: kiqevinarelo.com
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Registrant Contact:
-   Ralf Ziegler
-   Ralf Ziegler socks@mailae.com
-   +41313115688 fax: +41313115688
-   Rathaussgasse 72
-   Bern Bern CH-3011
-   CH
+http://www.networksolutions.com/whois/index.jhtml
 
-Administrative Contact:
-   Ralf Ziegler socks@mailae.com
-   +41313115688 fax: +41313115688
-   Rathaussgasse 72
-   Bern Bern CH-3011
-   CH
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Technical Contact:
-   Ralf Ziegler socks@mailae.com
-   +41313115688 fax: +41313115688
-   Rathaussgasse 72
-   Bern Bern CH-3011
-   CH
-
-Billing Contact:
-   Ralf Ziegler socks@mailae.com
-   +41313115688 fax: +41313115688
-   Rathaussgasse 72
-   Bern Bern CH-3011
-   CH
-
-Registration Service Provider:
-name: Bizcn
-
-DNS:
-ns1.kiqevinarelo.com
-ns2.kiqevinarelo.com
-
-Created: 2011-05-26
-Expires: 2012-05-26
+Whois Query: paradisepost.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Thu Sep 15 02:43:08 EDT 2011
+Reason Code: IE
