@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 23-jul-2002
    Expiration Date: 23-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:31:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 10:29:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -85,28 +85,40 @@ Domain servers in listed order:
 	 ns1.futuresouls.com 	 ns6.futuresouls.com
 
 Administrator:
-	 Name-- Muhammad Aslam Saqib
- EMail-: (saqib@futuresouls.com)
- tel --: +92.4235914022
-	 org: WebSouls
+	 name:(Muhammad Aslam Saqib)
+	Email:(saqib@futuresouls.com) tel-- +92.4235914022
+	 WebSouls
 	 318-Century Tower Near Kalma Chowk Gulberg III
-	 Lahore,Punjab,PK 54000
+\r
+t Lahore
+Punjab,
+PK
+
+ zipcode:54000
 
 Technical Contactor:
-	 Name-- Muhammad Aslam Saqib
- EMail-: (saqib@futuresouls.com)
- tel --: +92.4235914022
-	 org: WebSouls
+	 name:(Muhammad Aslam Saqib)
+	Email:(saqib@futuresouls.com) tel-- +92.4235914022
+	 WebSouls
 	 318-Century Tower Near Kalma Chowk Gulberg III
-	 Lahore,Punjab,PK 54000
+\r
+t Lahore
+Punjab,
+PK
+
+ zipcode:54000
 
 Billing Contactor:
-	 Name-- Muhammad Aslam Saqib
- EMail-: (saqib@futuresouls.com)
- tel --: +92.4235914022
-	 org: WebSouls
+	 name:(Muhammad Aslam Saqib)
+	Email:(saqib@futuresouls.com) tel-- +92.4235914022
+	 WebSouls
 	 318-Century Tower Near Kalma Chowk Gulberg III
-	 Lahore,Punjab,PK 54000
+\r
+t Lahore
+Punjab,
+PK
+
+ zipcode:54000
 
 
 Registration Service Provider:

@@ -1,0 +1,109 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; caisse-epargne.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      caisse-epargne.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    GT1511-FRNIC
+admin-c:     FXD30-FRNIC
+tech-c:      IC2-FRNIC
+tech-c:      SVG1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL22686-FRNIC
+registrar:   INDOM
+anniversary: 18/05
+created:     16/01/2009
+last-update: 18/10/2010
+source:      FRNIC
+
+ns-list:     NSL22686-FRNIC
+nserver:     ns1.gcetech.net
+nserver:     ns2.gcetech.net
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     GT1511-FRNIC
+type:        ORGANIZATION
+contact:     GCE Technologies
+address:     50, avenue Pierre Mendes France
+address:     75013 Paris
+country:     FR
+phone:       +33 4 42 12 70 00
+e-mail:      jean-francois.cesari@gcetech.caisse-epargne.fr
+changed:     21/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     FXD30-FRNIC
+type:        PERSON
+contact:     Francois-Xavier Del&eacute;glise
+address:     GIE Girce Ing&eacute;nierie
+address:     430, rue Pierre Simon Laplace
+address:     13092 Aix-en-Provence Cedex
+country:     FR
+phone:       +33 4 42 12 70 00
+e-mail:      jean-francois.cesari@arpege.caisse-epargne.fr
+changed:     06/01/2009 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IC2-FRNIC
+type:        ROLE
+contact:     INDOM Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+e-mail:      indom@indom.com
+admin-c:     SVG1-FRNIC
+tech-c:      PVG2-FRNIC
+changed:     18/12/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SVG1-FRNIC
+type:        PERSON
+contact:     Indom Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     20/11/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

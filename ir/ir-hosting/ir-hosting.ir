@@ -1,0 +1,30 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'ir-hosting.ir'
+
+
+domain:		ir-hosting.ir
+ascii:		ir-hosting.ir
+remarks:	(Domain Holder) mohammad komeil zakeri rad
+remarks:	(Domain Holder Address) No.15 , Shahid Din nama Alley, Shohada Alley, Khayam St., kermanshah, kermanshah, IR
+holder-c:	mz307-irnic
+admin-c:	mz307-irnic
+tech-c:		mz307-irnic
+nserver:	ns1.ir-hosting.org
+nserver:	ns2.ir-hosting.org
+last-updated:	2011-05-17
+source:		IRNIC # Filtered
+
+nic-hdl:	mz307-irnic
+person:		mohammad komeil zakeri rad
+e-mail:		m_komeil@yahoo.com
+address:	No.15 , Shahid Din nama Alley, Shohada Alley, Khayam St., kermanshah, kermanshah, IR
+phone:		+988317285791
+source:		IRNIC # Filtered
+

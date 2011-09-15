@@ -1,0 +1,60 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         drugstorechain.at
+registrant:     MA7915412-NICAT
+admin-c:        MA7915413-NICAT
+tech-c:         MA7915413-NICAT
+nserver:        ns1.drugstorechain.at
+remarks:        218.3.56.189
+nserver:        ns2.drugstorechain.at
+remarks:        202.100.91.132
+changed:        20110325 19:18:20
+source:         AT-DOM
+
+personname:     Maksim Artemiev
+organization:
+street address: ul.Belorechenskaya d.13 k.1 kv.124
+postal code:    109559
+city:           Moscow
+country:        Russian Federation
+phone:          +74959385996
+fax-no:         +74959385996
+e-mail:         agate@yourisp.ru
+nic-hdl:        MA7915412-NICAT
+changed:        20110322 20:05:52
+source:         AT-DOM
+
+personname:     Maksim Artemiev
+organization:
+street address: ul.Belorechenskaya d.13 k.1 kv.124
+postal code:    109559
+city:           Moscow
+country:        Russian Federation
+phone:          +74959385996
+fax-no:         +74959385996
+e-mail:         agate@yourisp.ru
+nic-hdl:        MA7915413-NICAT
+changed:        20110322 20:05:53
+source:         AT-DOM
+

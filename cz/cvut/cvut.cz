@@ -1,0 +1,102 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 12:21:17 2011
+
+domain:       cvut.cz
+registrant:   SB:R1S-CES-8079-FA
+admin-c:      R1C-RT-8077-69
+admin-c:      R1C-MN-8075-4B
+admin-c:      R1C-JK-8076-A4
+temp-c:       CNW_REG
+nsset:        NSS:R1S-CES-8079-FA:1
+registrar:    REG-ONE
+status:       paid and in zone
+registered:   10.03.1996 01:00:00
+changed:      26.09.2006 08:05:00
+expire:       10.10.2011
+
+contact:      SB:R1S-CES-8079-FA
+org:          &Auml;åesk&Atilde;&copy; vysok&Atilde;&copy; u&Auml;çen&Atilde;&shy; technick&Atilde;&copy; v Praze
+name:         &Auml;åesk&Atilde;&copy; vysok&Atilde;&copy; u&Auml;çen&Atilde;&shy; technick&Atilde;&copy; v Praze
+address:      Zikova 4
+address:      Praha 6
+address:      16636
+address:      CZ
+e-mail:       neuman@vc.cvut.cz
+registrar:    REG-ONE
+created:      31.08.2006 15:15:00
+
+contact:      R1C-RT-8077-69
+name:         Radek Trous&Atilde;&shy;lek
+address:      Zikova 4
+address:      Praha 6
+address:      16636
+address:      CZ
+phone:        +420.224358421
+fax-no:       +420.224310271
+e-mail:       trousil@vc.cvut.cz
+registrar:    REG-ONE
+created:      31.08.2006 13:15:00
+
+contact:      R1C-MN-8075-4B
+name:         Michal Neuman
+address:      Zikova 4
+address:      Praha 6
+address:      16636
+address:      CZ
+phone:        +420.224358484
+fax-no:       +420.224310271
+e-mail:       neuman@vc.cvut.cz
+registrar:    REG-ONE
+created:      31.08.2006 13:05:00
+
+contact:      R1C-JK-8076-A4
+name:         Jana Krupov&Atilde;&iexcl;
+address:      Zikova 4
+address:      Praha 6
+address:      16636
+address:      CZ
+phone:        +420.224358424
+fax-no:       +420.224310271
+e-mail:       krupova@vc.cvut.cz
+registrar:    REG-ONE
+created:      31.08.2006 13:15:00
+
+contact:      CNW_REG
+name:         Ji=F8=ED Smejkal
+address:      Van=ED=E8kova 7
+address:      Praha 6
+address:      169 00
+address:      CZ
+e-mail:       jiri.smejkal@cnw.cz
+registrar:    REG-ONE
+created:      13.01.2004 20:50:00
+
+nsset:        NSS:R1S-CES-8079-FA:1
+nserver:      ns.cvut.cz (147.32.1.20, 2001:718:2:2200::100)
+nserver:      nss.cvut.cz (147.32.1.9, 2001:718:2:2200::101)
+tech-c:       R1C-RT-8077-69
+tech-c:       R1C-MN-8075-4B
+tech-c:       SB:R1S-CES-8079-FA
+tech-c:       R1C-JK-8076-A4
+registrar:    REG-ONE
+created:      01.10.2007 02:00:00
+changed:      20.11.2009 08:05:37
+
+

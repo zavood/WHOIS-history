@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 02-jun-2008
    Expiration Date: 02-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:15:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 10:22:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain urlaubsrechner.com
-% Timestamp: 2011-09-13 23:16:23
+% Timestamp: 2011-09-15 12:23:12
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
