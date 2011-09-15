@@ -5,14 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ROOT-SERVERS.NET.MAKERCHEMICAL.COM
-ROOT-SERVERS.NET
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:22:58 UTC &lt;&lt;&lt;
+No match for &quot;OFJKNORYUFRUOYYW.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:20:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

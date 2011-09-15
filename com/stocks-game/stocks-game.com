@@ -5,12 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ROOT-SERVERS.NET.MAKERCHEMICAL.COM
-ROOT-SERVERS.NET
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: STOCKS-GAME.COM
+   Registrar: EASYDNS TECHNOLOGIES, INC.
+   Whois Server: whois.easydns.com
+   Referral URL: http://www.easydns.com
+   Name Server: NS1.EASYDNS.COM
+   Name Server: NS2.EASYDNS.COM
+   Name Server: NS3.EASYDNS.ORG
+   Name Server: NS6.EASYDNS.NET
+   Name Server: REMOTE1.EASYDNS.COM
+   Name Server: REMOTE2.EASYDNS.COM
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 28-sep-2009
+   Creation Date: 26-nov-2003
+   Expiration Date: 26-nov-2011
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:22:58 UTC &lt;&lt;&lt;
 
@@ -47,3 +56,60 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registrant:
+ Excellence Internet Services, Ltd.
+ 215 Pickwick Rd.
+ Havertown, PA 19083
+ US
+
+ Domain name: STOCKS-GAME.COM
+
+
+ Administrative Contact:
+    Young, Seth  iris@netaxs.com
+    215 Pickwick Rd.
+    Havertown, PA 19083
+    US
+    248-434-0021    Fax: 248-434-0021
+
+ Technical Contact:
+    Young, Seth  seth@baby-place.com
+    215 Pickwick Rd.
+    Havertown, PA 19083
+    US
+    248-434-0021    Fax: 248-434-0021
+
+
+
+ Registrar of Record: easyDNS Technologies, Inc.
+ Record last updated on 28-Sep-2009.
+ Record expires on 26-Nov-2011.
+ Record created on 26-Nov-2003.
+
+ Domain servers in listed order:
+    NS2.EASYDNS.COM   72.52.2.1
+    NS3.EASYDNS.ORG   64.68.192.10
+    NS6.EASYDNS.NET   72.52.2.1
+    REMOTE2.EASYDNS.COM   72.52.2.1
+    REMOTE1.EASYDNS.COM   64.68.192.10
+    NS1.EASYDNS.COM   64.68.192.10
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns
+  or Identi.ca http://identi.ca/easyDNS )
+
+
+You have 0 lookups left today

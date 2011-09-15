@@ -5,14 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-ROOT-SERVERS.NET.MAKERCHEMICAL.COM
-ROOT-SERVERS.NET
+   Domain Name: NTRL.NET
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: AQUILA.NTRL.NET
+   Name Server: HOME.NTRL.NET
+   Status: clientTransferProhibited
+   Updated Date: 11-feb-2011
+   Creation Date: 16-mar-1997
+   Expiration Date: 17-mar-2012
 
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:22:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:21:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -47,3 +51,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
+
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 Naturella Agency Ltd.
+	 Naturella Agency Ltd.
+	 Mladost I, bl. 9
+	 Sofia 1784,,BG
+
+
+Domain Name:ntrl.net
+Record last updated at
+Record created on 1997/3/16
+Record expired on 2012/3/16
+
+
+Domain servers in listed order:
+	 aquila.ntrl.net 	 home.ntrl.net
+
+Administrator:
+	 manol@WFPA.ACAD.BG
+	 Iliev, Manol
+,
+Naturella Agency Ltd
+
+
+	 name:(Iliev)
+mail:(manol@WFPA.ACAD.BG) 999 999 9999
+	 Iliev
+Technical Contactor:
+	 delian@LIREX.COM
+	 Mladost I, bl.9
+,
+Sofia, Bulgaria 1784
+
+
+	 name:(Delchev, Delian)
+mail:(delian@LIREX.COM) +359 2 91815
+	 Delchev, Delian
+Billing Contactor:
+
+
+,
+
+
+
+	 name:()
+mail:()
+
+
+Registration Service Provider:
+	name: Lirex Net EOOD
+	tel: +359.29691691
+ 	fax: +359.29710084
+ 	web:http://lirex.net
