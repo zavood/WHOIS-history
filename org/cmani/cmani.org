@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161320992-LROR
+Domain Name:CMANI.ORG
+Created On:26-Jan-2011 16:28:02 UTC
+Last Updated On:04-Sep-2011 15:49:57 UTC
+Expiration Date:26-Jan-2012 16:28:02 UTC
+Sponsoring Registrar:Internet.bs Corp. (R1601-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:INTEnyq6nfrw0jly
+Registrant Name:MEC Domain Manager
+Registrant Organization:Moore &amp;amp; Crismani Group
+Registrant Street1:1 Embarcadero Center
+Registrant Street2:## Only Certified Mail Accepted ##
+Registrant Street3:
+Registrant City:San Francisco
+Registrant State/Province:
+Registrant Postal Code:94111
+Registrant Country:US
+Registrant Phone:+1.4157638990
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dns@sfca.co
+Admin ID:INTE2lxsjr4iossz
+Admin Name:MEC Domain Manager
+Admin Organization:Moore &amp;amp; Crismani Group
+Admin Street1:1 Embarcadero Center
+Admin Street2:## Only Certified Mail Accepted ##
+Admin Street3:
+Admin City:San Francisco
+Admin State/Province:
+Admin Postal Code:94111
+Admin Country:US
+Admin Phone:+1.4157638990
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dns@sfca.co
+Tech ID:INTEk6o4wkrq8gy7
+Tech Name:MEC Domain Manager
+Tech Organization:Moore &amp;amp; Crismani Group
+Tech Street1:1 Embarcadero Center
+Tech Street2:## Only Certified Mail Accepted ##
+Tech Street3:
+Tech City:San Francisco
+Tech State/Province:
+Tech Postal Code:94111
+Tech Country:US
+Tech Phone:+1.4157638990
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dns@sfca.co
+Name Server:1.MECDN.COM
+Name Server:2.MECDN.COM
+Name Server:3.MECDN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107956669-LROR
+Domain Name:KHODARENOK.ORG
+Created On:25-Oct-2005 10:17:49 UTC
+Last Updated On:30-Sep-2009 07:56:35 UTC
+Expiration Date:25-Oct-2012 10:17:49 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:OK
+Registrant ID:ONLC-1857648-4
+Registrant Name:Khodarenok D.S.
+Registrant Organization:Khodarenok D.S.
+Registrant Street1:Pechatnikov 1,24
+Registrant Street2:
+Registrant Street3:
+Registrant City:Novosibirsk
+Registrant State/Province:Novosibirsk
+Registrant Postal Code:630000
+Registrant Country:RU
+Registrant Phone:+7.9139084443
+Registrant Phone Ext.:
+Registrant FAX:+7.9139084443
+Registrant FAX Ext.:
+Registrant Email:dzik@newmail.ru
+Admin ID:ONLC-1857648-1
+Admin Name:Khodarenok D.S.
+Admin Organization:Khodarenok D.S.
+Admin Street1:Pechatnikov 1,24
+Admin Street2:
+Admin Street3:
+Admin City:Novosibirsk
+Admin State/Province:Novosibirsk
+Admin Postal Code:630000
+Admin Country:RU
+Admin Phone:+7.9139084443
+Admin Phone Ext.:
+Admin FAX:+7.9139084443
+Admin FAX Ext.:
+Admin Email:dzik@newmail.ru
+Tech ID:ONLC-1857648-2
+Tech Name:Khodarenok D.S.
+Tech Organization:Khodarenok D.S.
+Tech Street1:Pechatnikov 1,24
+Tech Street2:
+Tech Street3:
+Tech City:Novosibirsk
+Tech State/Province:Novosibirsk
+Tech Postal Code:630000
+Tech Country:RU
+Tech Phone:+7.9139084443
+Tech Phone Ext.:
+Tech FAX:+7.9139084443
+Tech FAX Ext.:
+Tech Email:dzik@newmail.ru
+Name Server:NS1.DNS-DIY.NET
+Name Server:NS2.DNS-DIY.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

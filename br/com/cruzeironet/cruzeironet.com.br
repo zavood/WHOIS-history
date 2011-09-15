@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 20:39:36 (BRT -03:00)
+
+domain:      cruzeironet.com.br
+owner:       FUNDACAO UBALDINO DO AMARAL
+ownerid:     071.466.288/0001-32
+responsible: Fabio Eduardo Florencio
+country:     BR
+owner-c:     WEC7
+admin-c:     WEC7
+tech-c:      WEC7
+billing-c:   WEC7
+nserver:     ns01.cruzeirodosul.inf.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns02.cruzeirodosul.inf.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     19970124 #28894
+expires:     20150124
+changed:     20110529
+status:      published
+
+nic-hdl-br:  WEC7
+person:      Webmaster CruzeiroNet
+e-mail:      registrobr@cruzeironet.com.br
+created:     19990110
+changed:     20091119
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

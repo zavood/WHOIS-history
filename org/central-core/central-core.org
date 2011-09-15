@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157326371-LROR
+Domain Name:CENTRAL-CORE.ORG
+Created On:12-Oct-2009 17:24:01 UTC
+Last Updated On:28-Feb-2011 13:48:34 UTC
+Expiration Date:12-Oct-2011 17:24:01 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-90W8WXE72D2U
+Registrant Name:daniel minciuna
+Registrant Street1:str.soveja nr 79 bl 29
+Registrant Street2:
+Registrant Street3:
+Registrant City:constanta
+Registrant State/Province:constanta
+Registrant Postal Code:90030
+Registrant Country:RO
+Registrant Phone:+40.730484441
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:scoopo2009@hotmail.com
+Admin ID:DOT-7EE8B9YS86OX
+Admin Name:daniel minciuna
+Admin Street1:str.soveja nr 79 bl 29
+Admin Street2:
+Admin Street3:
+Admin City:constanta
+Admin State/Province:constanta
+Admin Postal Code:90030
+Admin Country:RO
+Admin Phone:+40.730484441
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:scoopo2009@hotmail.com
+Tech ID:DOT-LBYAWG3V1RAW
+Tech Name:daniel minciuna
+Tech Street1:str.soveja nr 79 bl 29
+Tech Street2:
+Tech Street3:
+Tech City:constanta
+Tech State/Province:constanta
+Tech Postal Code:90030
+Tech Country:RO
+Tech Phone:+40.730484441
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:scoopo2009@hotmail.com
+Name Server:NS1.PRINTEAZA.RO
+Name Server:NS2.PRINTEAZA.RO
+Name Server:NS3.PRINTEAZA.RO
+Name Server:NS4.PRINTEAZA.RO
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

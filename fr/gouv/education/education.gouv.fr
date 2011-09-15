@@ -1,0 +1,87 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; education.gouv.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      education.gouv.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MDLE171-FRNIC
+admin-c:     FT339-FRNIC
+tech-c:      AMC66-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1807-FRNIC
+registrar:   ATOS WORLDLINE
+anniversary: 12/10
+created:     31/01/1997
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL1807-FRNIC
+nserver:     ns3.atos.net
+nserver:     ns4.atos.net
+source:      FRNIC
+
+registrar:   ATOS WORLDLINE
+type:        Isp Option 2
+anonymous:   YES
+registered:  19/01/2005
+source:      FRNIC
+
+nic-hdl:     MDLE171-FRNIC
+type:        ORGANIZATION
+contact:     Ministere de l'Education
+address:     110, rue de Grenelle
+address:     75357 Paris
+country:     FR
+phone:       +33 1 46 34 33 50
+e-mail:      francois.tassin@education.gouv.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     FT339-FRNIC
+type:        PERSON
+contact:     Francois Tassin
+address:     Ministere de l'Education
+address:     110, rue de Grenelle
+address:     75357 Paris
+country:     FR
+phone:       +33 1 46 34 33 50
+e-mail:      francois.tassion@education.gouv.fr
+changed:     14/12/2004 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AMC66-FRNIC
+type:        ROLE
+contact:     ATOS WORLDLINE Contact technique
+address:     Atos Worldline
+address:     zone industrielle A rue la Pointe
+address:     59113 Seclin
+country:     FR
+phone:       +33 3 20 60 79 79
+e-mail:      ao-dom@atosorigin.com
+admin-c:     PB868-FRNIC
+tech-c:      EW1780-FRNIC
+notify:      ao-dom@atosorigin.com
+changed:     16/09/2008 ao-dom@atosorigin.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

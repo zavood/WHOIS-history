@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101545314-LROR
+Domain Name:CAP-INTERVALLE.ORG
+Created On:07-Oct-2003 11:52:49 UTC
+Last Updated On:15-Nov-2009 00:30:41 UTC
+Expiration Date:07-Oct-2011 11:52:49 UTC
+Sponsoring Registrar:Online SAS (R99-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:BMN-267362
+Registrant Name:MEUT MEUT CATHERINE
+Registrant Street1:WHOIS PROXY PRIVACY
+Registrant Street2:Chez ONLINE - BP 438
+Registrant Street3:
+Registrant City:PARIS
+Registrant State/Province:
+Registrant Postal Code:75366
+Registrant Country:FR
+Registrant Phone:+33.899193788
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bmn.267362@spamfree.bookmyname.com
+Admin ID:BMN-236953
+Admin Name:Arnaud PIGNARD
+Admin Organization:Frontier Software
+Admin Street1:36 rue Charles Fourier
+Admin Street2:
+Admin Street3:
+Admin City:EVRY
+Admin State/Province:
+Admin Postal Code:91000
+Admin Country:FR
+Admin Phone:+33.174856500
+Admin Phone Ext.:
+Admin FAX:+33.174856585
+Admin FAX Ext.:
+Admin Email:domaines@directnom.com
+Tech ID:BMN-236953
+Tech Name:Arnaud PIGNARD
+Tech Organization:Frontier Software
+Tech Street1:36 rue Charles Fourier
+Tech Street2:
+Tech Street3:
+Tech City:EVRY
+Tech State/Province:
+Tech Postal Code:91000
+Tech Country:FR
+Tech Phone:+33.174856500
+Tech Phone Ext.:
+Tech FAX:+33.174856585
+Tech FAX Ext.:
+Tech Email:domaines@directnom.com
+Name Server:NS.DIRECTNOM.COM
+Name Server:NS2.DIRECTNOM.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
