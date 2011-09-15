@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KENWILES.NET
+   Domain Name: LOSMEJIAGODOY.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.KENWILES.NET
-   Name Server: NS2.KENWILES.NET
-   Status: clientDeleteProhibited
+   Name Server: NS1.STEADFAST.NET
+   Name Server: NS2.STEADFAST.NET
    Status: clientTransferProhibited
-   Updated Date: 16-oct-2010
-   Creation Date: 14-nov-2004
-   Expiration Date: 14-nov-2011
+   Updated Date: 20-may-2011
+   Creation Date: 26-may-2009
+   Expiration Date: 26-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:01:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:02:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,47 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about kenwiles.net
-&lt;a href=&quot;http://www.aboutus.org/kenwiles.net&quot;&gt;AboutUs: kenwiles.net&lt;/a&gt;
+Visit AboutUs.org for more information about losmejiagodoy.com
+&lt;a href=&quot;http://www.aboutus.org/losmejiagodoy.com&quot;&gt;AboutUs: losmejiagodoy.com&lt;/a&gt;
 
 
-Domain name: kenwiles.net
-
-Administrative Contact:
-   Ken Wiles Web Solutions
-   Ken Wiles (domainspammers@yahoo.com)
-   +1.7404272456
-   Fax: 11
-   6842 Beckholt Road
-   Mount Vernon, OH 43050
-   US
-
-Technical Contact:
-   Ken Wiles Web Solutions
-   Ken Wiles (domainspammers@yahoo.com)
-   +1.7404272456
-   Fax: 11
-   6842 Beckholt Road
-   Mount Vernon, OH 43050
-   US
+Domain name: losmejiagodoy.com
 
 Registrant Contact:
-   Ken Wiles Web Solutions
-   Ken Wiles ()
+   La casa de los mejia godoy
+   Luis Mejia ()
 
    Fax:
-   6842 Beckholt Road
-   Mount Vernon, OH 43050
+   Farm quinta avenida 3 c arriba 10 varas sur 673
+   Managua, NA NA
+   NI
+
+Administrative Contact:
+   La casa de los mejia godoy
+   Luis Mejia (guillermo.vaughan@gmail.com)
+   +505.22770716
+   Fax:
+   Farm quinta avenida 3 c arriba 10 varas sur 673
+   Managua, NA NA
+   NI
+
+Technical Contact:
+   Steadfast Networks
+   Karl Zimmerman (sales@steadfast.net)
+   +1.3126026289
+   Fax: +1.3126026288
+   227 Taft St.
+   Fond du Lac, WI 54935
    US
 
 Status: Locked
 
 Name Servers:
-   NS1.KENWILES.NET
-   NS2.KENWILES.NET
+   ns1.steadfast.net
+   ns2.steadfast.net
 
-Creation date: 14 Nov 2004 21:04:18
-Expiration date: 14 Nov 2011 21:04:00
+Creation date: 27 May 2009 01:30:13
+Expiration date: 27 May 2012 01:30:13
 
 
 
