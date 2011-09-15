@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; ratp.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ratp.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    R219-FRNIC
+admin-c:     RADT24-FRNIC
+tech-c:      RADT22-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL34273-FRNIC
+registrar:   INDOM
+anniversary: 01/10
+created:     01/01/1995
+last-update: 28/03/2011
+source:      FRNIC
+
+ns-list:     NSL34273-FRNIC
+nserver:     indom10.indomco.com
+nserver:     indom30.indomco.fr [213.205.102.3]
+nserver:     ns0.ratp.fr [193.104.162.15]
+nserver:     ns1.ratp.fr [193.104.162.14]
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     R219-FRNIC
+type:        ORGANIZATION
+contact:     REGIE AUTONOME DES TRANSPORTS PARISIENS
+address:     R.A.T.P.
+address:     54, quai de la Rapee
+address:     75599 Paris
+country:     FR
+changed:     06/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     RADT24-FRNIC
+type:        ORGANIZATION
+contact:     REGIE AUTONOME DES TRANSPORTS PARISIENS
+address:     Ratp - Departement Juridique Lac La65
+address:     54, quai de la Rapee
+address:     75599 Paris
+country:     FR
+phone:       +33 1 58 77 21 34
+fax-no:      +33 1 58 77 22 67
+e-mail:      jurpcpi@ratp.fr
+changed:     24/06/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     RADT22-FRNIC
+type:        ORGANIZATION
+contact:     REGIE AUTONOME DES TRANSPORTS PARISIENS
+address:     102, Esplanade de la Commune de Paris
+address:     93160 Noisy-le-Grand
+country:     FR
+phone:       +33 1 58 77 57 60
+e-mail:      odii@ratp.fr
+changed:     25/03/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+

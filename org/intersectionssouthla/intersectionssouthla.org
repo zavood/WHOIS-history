@@ -1,0 +1,88 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154057029-LROR
+Domain Name:INTERSECTIONSSOUTHLA.ORG
+Created On:12-Sep-2008 17:24:17 UTC
+Last Updated On:13-Sep-2011 10:42:56 UTC
+Expiration Date:12-Sep-2012 17:24:17 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR36824527
+Registrant Name:Wendy Chapman
+Registrant Organization:USC Annenberg School for Communication &amp; Journalism
+Registrant Street1:3502 Watt Way
+Registrant Street2:
+Registrant Street3:
+Registrant City:Los Angeles
+Registrant State/Province:California
+Registrant Postal Code:90089
+Registrant Country:US
+Registrant Phone:+1.2137406180
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:wchapman@usc.edu
+Admin ID:CR36824529
+Admin Name:Wendy Chapman
+Admin Organization:USC Annenberg School for Communication &amp; Journalism
+Admin Street1:3502 Watt Way
+Admin Street2:
+Admin Street3:
+Admin City:Los Angeles
+Admin State/Province:California
+Admin Postal Code:90089
+Admin Country:US
+Admin Phone:+1.2137406180
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:wchapman@usc.edu
+Tech ID:CR36824528
+Tech Name:Wendy Chapman
+Tech Organization:USC Annenberg School for Communication &amp; Journalism
+Tech Street1:3502 Watt Way
+Tech Street2:
+Tech Street3:
+Tech City:Los Angeles
+Tech State/Province:California
+Tech Postal Code:90089
+Tech Country:US
+Tech Phone:+1.2137406180
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:wchapman@usc.edu
+Name Server:NS1.WEST-DATACENTER.NET
+Name Server:NS2.WEST-DATACENTER.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
