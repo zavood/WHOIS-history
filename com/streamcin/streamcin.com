@@ -5,8 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;TICARETSANAYIODASIIOO.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:14:26 UTC &lt;&lt;&lt;
+   Domain Name: STREAMCIN.COM
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.3SORDI.NET
+   Name Server: NS2.3SORDI.NET
+   Status: clientTransferProhibited
+   Updated Date: 10-aug-2011
+   Creation Date: 25-feb-2010
+   Expiration Date: 25-feb-2012
+
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:02:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain Name: streamcin.com
+Registered at http://www.dynadot.com
+
+Registrant:
+imad bahi
+anassi 3
+casablanca, bernoussi 20600
+Morocco
+
+Administrative Contact:
+imad bahi
+anassi 3
+casablanca, bernoussi 20600
+Morocco
+imadbahi@hotmail.com
++212 678252696
+
+Technical Contact:
+imad bahi
+anassi 3
+casablanca, bernoussi 20600
+Morocco
+imadbahi@hotmail.com
++212 678252696
+
+Record expires on 2012/02/26 UTC
+Record created on 2010/02/26 UTC
+
+Domain servers in listed order:
+ns1.3sordi.net
+ns2.3sordi.net
+
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/15 14:02:19 PST &lt;&lt;&lt;
+

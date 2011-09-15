@@ -5,8 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;TICARETSANAYIODASIIOO.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:14:26 UTC &lt;&lt;&lt;
+   Domain Name: CAPACITORLAB.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.HSPHEREDNS.COM
+   Name Server: NS2.HSPHEREDNS.COM
+   Status: clientTransferProhibited
+   Updated Date: 28-jun-2011
+   Creation Date: 03-jul-2006
+   Expiration Date: 03-jul-2012
+
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:05:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +51,67 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about capacitorlab.com
+&lt;a href=&quot;http://www.aboutus.org/capacitorlab.com&quot;&gt;AboutUs: capacitorlab.com&lt;/a&gt;
+
+
+Domain name: capacitorlab.com
+
+Registrant Contact:
+
+   William Walsh ()
+
+   Fax:
+   72 Kolokotroni Street
+   Piraeus, - 185 35
+   GR
+
+Administrative Contact:
+
+   William Walsh (wwalsh@techmati.com)
+   +30.2100000000
+   Fax:
+   72 Kolokotroni Street
+   Piraeus, - 185 35
+   GR
+
+Technical Contact:
+
+   William Walsh (wwalsh@techmati.com)
+   +30.2100000000
+   Fax:
+   72 Kolokotroni Street
+   Piraeus, - 185 35
+   GR
+
+Status: Locked
+
+Name Servers:
+   ns1.hspheredns.com
+   ns2.hspheredns.com
+
+Creation date: 03 Jul 2006 09:10:17
+Expiration date: 03 Jul 2012 09:10:17
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

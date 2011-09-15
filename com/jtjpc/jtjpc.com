@@ -5,8 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;TICARETSANAYIODASIIOO.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:14:26 UTC &lt;&lt;&lt;
+   Domain Name: JTJPC.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: FAITH.LOGIXCOM.NET
+   Name Server: MEREDITH.LOGIXCOM.NET
+   Status: clientTransferProhibited
+   Updated Date: 19-sep-2008
+   Creation Date: 06-oct-2000
+   Expiration Date: 06-oct-2013
+
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:02:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
+
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
+
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
+
+http://www.networksolutions.com/whois/index.jhtml
+
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
+
+Whois Query: jtjpc.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Thu Sep 15 16:58:34 EDT 2011
+Reason Code: IE

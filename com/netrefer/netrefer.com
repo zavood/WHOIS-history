@@ -5,8 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-No match for &quot;TICARETSANAYIODASIIOO.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:14:26 UTC &lt;&lt;&lt;
+   Domain Name: NETREFER.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: DNS11.COTDNS.NET
+   Name Server: DNS12.COTDNS.NET
+   Status: ok
+   Updated Date: 05-may-2011
+   Creation Date: 05-feb-2002
+   Expiration Date: 05-feb-2015
+
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:02:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -41,3 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
+Registrant:
+   Arnold Media Ltd.
+   109 Sir William Reid Street
+   Gzira, Gzira  GZR1033
+   MT
+
+   Registrar: DOTSTER
+   Domain Name: NETREFER.COM
+      Created on: 05-FEB-02
+      Expires on: 05-FEB-15
+      Last Updated on: 17-MAY-11
+
+   Administrative Contact:
+      Arnold, Raphael  r.arnold@arnoldmedia.com
+      Arnold Media Ltd.
+      109 Sir William Reid Street
+      Gzira, Gzira  GZR1033
+      MT
+      +35627673337
+
+   Technical Contact:
+      Cutajar, Christian  sysadmin@netrefer.com
+      Arnold Media Ltd.
+      109 Sir William Reid Street
+      Gzira, Gzira  GZR1033
+      MT
+      0035627673337
+
+
+   Domain servers in listed order:
+      DNS11.COTDNS.NET
+      DNS12.COTDNS.NET
+
+End of Whois Information

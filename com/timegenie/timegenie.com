@@ -5,7 +5,7 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TKCWS.COM
+   Domain Name: TIMEGENIE.COM
    Registrar: MYDOMAIN, INC.
    Whois Server: whois.namesdirect.com
    Referral URL: http://www.namesdirect.com
@@ -13,12 +13,10 @@ for detailed information.
    Name Server: NS2.MYDOMAIN.COM
    Name Server: NS3.MYDOMAIN.COM
    Name Server: NS4.MYDOMAIN.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 23-jul-2011
-   Creation Date: 04-aug-2004
-   Expiration Date: 04-aug-2013
+   Status: ok
+   Updated Date: 25-jan-2010
+   Creation Date: 03-apr-2003
+   Expiration Date: 03-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:06:20 UTC &lt;&lt;&lt;
 
@@ -76,24 +74,32 @@ and limitations of warranty.  Please limit your queries to 10 per
 minute and one connection.
 
 Registrant:
-   TKC
-   Rebrainstrasse 64
-   Adlikon,    8106
-   CH
+   c/o TIMEGENIE.COM
+   P.O. Box 821650
+   Vancouver, WA  98682
+   US
 
    Registrar: NAMESDIRECT
-   Domain Name: TKCWS.COM
-      Created on: 04-AUG-04
-      Expires on: 04-AUG-13
-      Last Updated on: 23-JUL-11
+   Domain Name: TIMEGENIE.COM
+      Created on: 04-APR-03
+      Expires on: 03-APR-12
+      Last Updated on: 20-JUL-10
 
-   Administrative, Technical Contact:
-      KLAEY, THOMAS  thomas@klaey.net
-      TKC
-      Rebrainstrasse 64
-      Adlikon,    8106
-      CH
-      ++41 43 388 80 10
+   Administrative Contact:
+      JyaQWa@PRIVACYPOST.COM
+      c/o TIMEGENIE.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
+      US
+      +1.360-449-5933
+
+   Technical Contact:
+      Lgxpif@PRIVACYPOST.COM
+      c/o TIMEGENIE.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
+      US
+      +1.360-449-5933
 
 
    Domain servers in listed order:
@@ -101,5 +107,10 @@ Registrant:
       NS2.MYDOMAIN.COM
       NS3.MYDOMAIN.COM
       NS4.MYDOMAIN.COM
+
+This listing is a Whois Privacy Customer. Mail correspondence to this
+address must be sent via USPS Express Mail(TM) or USPS Certified
+Mail(R); all other mail will not be processed. Be sure to include
+the domain name in the address.
 
 End of Whois Information
