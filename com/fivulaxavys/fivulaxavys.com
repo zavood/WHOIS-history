@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 9BKK.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS10.HOSTINGDYNAMO.NET
-   Name Server: NS9.HOSTINGDYNAMO.NET
+   Domain Name: FIVULAXAVYS.COM
+   Registrar: BIZCN.COM, INC.
+   Whois Server: whois.bizcn.com
+   Referral URL: http://www.bizcn.com
+   Name Server: NS2.FIVULAXAVYS.COM
+   Name Server: NS3.FIVULAXAVYS.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 24-aug-2010
-   Creation Date: 07-oct-2007
-   Expiration Date: 07-oct-2011
+   Updated Date: 05-jul-2011
+   Creation Date: 21-jun-2011
+   Expiration Date: 21-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:18:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:19:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,74 +52,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+Registration Service Provided By: Bizcn.com
+Website: http://www.cnobin.com
+Whois Server: whois.bizcn.com
 
+Domain name: fivulaxavys.com
 
-Registrant:
-	 Mr. u-sah Lertlam usa.lertlam@gmail.com +66.27108306
-	 Mr. u-sah Lertlam
-	 340/702 Moo.3 Tambol Bangpoo
-	 Amphur Muang,Samut Prakan,TH 10280
+Registrant Contact:
+   Kaisa Almila
+   Kaisa Almila snow@fxmail.net
+   +358958078386 fax: +358958078386
+   Nuijamiestentie 10
+   Helsinki Uusimaa 00320
+   FI
 
+Administrative Contact:
+   Kaisa Almila snow@fxmail.net
+   +358958078386 fax: +358958078386
+   Nuijamiestentie 10
+   Helsinki Uusimaa 00320
+   FI
 
-Domain Name:9bkk.com
-Record last updated at 2011-05-24 05:06:15
-Record created on 2007/10/7
-Record expired on 2011/10/7
+Technical Contact:
+   Kaisa Almila snow@fxmail.net
+   +358958078386 fax: +358958078386
+   Nuijamiestentie 10
+   Helsinki Uusimaa 00320
+   FI
 
-
-Domain servers in listed order:
-	 ns9.hostingdynamo.net 	 ns10.hostingdynamo.net
-
-Administrator:
-	 name: Mr. u-sah Lertlam
- mail: usa.lertlam@gmail.com tel: +66.27108306
-	 org: Mr. u-sah Lertlam
-
-address: 340/702 Moo.3 Tambol Bangpoo
-	 city: Amphur Muang
-,province: Samut Prakan
-,country: TH
- postcode: 10280
-
-Technical Contactor:
-	 name: Mr. u-sah Lertlam
- mail: usa.lertlam@gmail.com tel: +66.27108306
-	 org: Mr. u-sah Lertlam
-
-address: 340/702 Moo.3 Tambol Bangpoo
-	 city: Amphur Muang
-,province: Samut Prakan
-,country: TH
- postcode: 10280
-
-Billing Contactor:
-	 name: Mr. u-sah Lertlam
- mail: usa.lertlam@gmail.com tel: +66.27108306
-	 org: Mr. u-sah Lertlam
-
-address: 340/702 Moo.3 Tambol Bangpoo
-	 city: Amphur Muang
-,province: Samut Prakan
-,country: TH
- postcode: 10280
-
+Billing Contact:
+   Kaisa Almila snow@fxmail.net
+   +358958078386 fax: +358958078386
+   Nuijamiestentie 10
+   Helsinki Uusimaa 00320
+   FI
 
 Registration Service Provider:
-	name: Hosting Dynamo
-	tel: +66.65673201
- 	fax: +66.29403279
- 	web:http://www.hostingdynamo.com
+name: Bizcn
+
+DNS:
+ns3.fivulaxavys.com
+ns2.fivulaxavys.com
+
+Created: 2011-06-21
+Expires: 2012-06-21

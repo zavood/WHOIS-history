@@ -5,18 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 9BKK.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS10.HOSTINGDYNAMO.NET
-   Name Server: NS9.HOSTINGDYNAMO.NET
+   Domain Name: KORTERRA.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: MNS01.DOMAINCONTROL.COM
+   Name Server: MNS02.DOMAINCONTROL.COM
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 24-aug-2010
-   Creation Date: 07-oct-2007
-   Expiration Date: 07-oct-2011
+   Status: clientUpdateProhibited
+   Updated Date: 20-jul-2010
+   Creation Date: 29-sep-2000
+   Expiration Date: 29-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:18:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:19:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,74 +55,52 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
 
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
-
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
 Registrant:
-	 Mr. u-sah Lertlam usa.lertlam@gmail.com +66.27108306
-	 Mr. u-sah Lertlam
-	 340/702 Moo.3 Tambol Bangpoo
-	 Amphur Muang,Samut Prakan,TH 10280
+   KorTerra, Inc.
+   18946 Lake Drive East
+   Chanhassen, MN  55317
+   US
+
+   Registrar: NAMESDIRECT
+   Domain Name: KORTERRA.COM
+      Created on: 29-SEP-00
+      Expires on: 29-SEP-12
+      Last Updated on: 04-AUG-11
+
+   Administrative, Technical Contact:
+      Stendal, Chris  cstendal@korterra.com
+      KorTerra, Inc.
+      18946 Lake Drive East
+      Chanhassen, MN  55317
+      US
+      952-368-1911
+      952-697-3141
 
 
-Domain Name:9bkk.com
-Record last updated at 2011-05-24 05:06:15
-Record created on 2007/10/7
-Record expired on 2011/10/7
+   Domain servers in listed order:
+      NS1.MYDOMAIN.COM
+      NS2.MYDOMAIN.COM
+      MNS01.DOMAINCONTROL.COM
+      MNS02.DOMAINCONTROL.COM
 
-
-Domain servers in listed order:
-	 ns9.hostingdynamo.net 	 ns10.hostingdynamo.net
-
-Administrator:
-	 name: Mr. u-sah Lertlam
- mail: usa.lertlam@gmail.com tel: +66.27108306
-	 org: Mr. u-sah Lertlam
-
-address: 340/702 Moo.3 Tambol Bangpoo
-	 city: Amphur Muang
-,province: Samut Prakan
-,country: TH
- postcode: 10280
-
-Technical Contactor:
-	 name: Mr. u-sah Lertlam
- mail: usa.lertlam@gmail.com tel: +66.27108306
-	 org: Mr. u-sah Lertlam
-
-address: 340/702 Moo.3 Tambol Bangpoo
-	 city: Amphur Muang
-,province: Samut Prakan
-,country: TH
- postcode: 10280
-
-Billing Contactor:
-	 name: Mr. u-sah Lertlam
- mail: usa.lertlam@gmail.com tel: +66.27108306
-	 org: Mr. u-sah Lertlam
-
-address: 340/702 Moo.3 Tambol Bangpoo
-	 city: Amphur Muang
-,province: Samut Prakan
-,country: TH
- postcode: 10280
-
-
-Registration Service Provider:
-	name: Hosting Dynamo
-	tel: +66.65673201
- 	fax: +66.29403279
- 	web:http://www.hostingdynamo.com
+End of Whois Information

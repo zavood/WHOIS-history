@@ -1,0 +1,61 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 08:19:07 2011
+
+domain:       czcom.cz
+registrant:   CZ-TSVOICE
+admin-c:      CZ-VALASEK
+nsset:        NSS:TSVOICE
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   21.07.1996 02:00:00
+changed:      24.11.2009 09:02:11
+expire:       24.10.2011
+
+contact:      CZ-TSVOICE
+org:          TS-Voice, s.r.o.
+name:         David &Aring;&frac12;&Atilde;&iexcl;k
+address:      U Pap&Atilde;&shy;rny 9/614
+address:      Praha 7
+address:      170 00
+address:      CZ
+registrar:    REG-IGNUM
+created:      02.03.2009 13:23:18
+
+contact:      CZ-VALASEK
+name:         Milan Valasek
+address:      Susilova 1337
+address:      Hradec Kralove
+address:      500 02
+address:      CZ
+e-mail:       domenytech@cz-tiscali.com
+registrar:    REG-IGNUM
+created:      03.09.2004 13:05:00
+changed:      25.07.2008 16:08:14
+
+nsset:        NSS:TSVOICE
+nserver:      ns0.czcom.cz (195.146.100.5)
+nserver:      ns.czcom.cz (77.236.204.121)
+tech-c:       CZ-VALASEK
+tech-c:       CZ-TSVOICE
+registrar:    REG-IGNUM
+created:      23.11.2009 15:16:00
+changed:      29.01.2010 13:34:01
+
+

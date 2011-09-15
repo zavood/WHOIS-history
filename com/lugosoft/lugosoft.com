@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 9BKK.COM
-   Registrar: ONLINENIC, INC.
-   Whois Server: whois.onlinenic.com
-   Referral URL: http://www.OnlineNIC.com
-   Name Server: NS10.HOSTINGDYNAMO.NET
-   Name Server: NS9.HOSTINGDYNAMO.NET
+   Domain Name: LUGOSOFT.COM
+   Registrar: SOFTLAYER TECHNOLOGIES, INC
+   Whois Server: whois.theplanet.com
+   Referral URL: http://www.softlayer.com
+   Name Server: NS1.LUGOSOFT.COM
+   Name Server: NS2.LUGOSOFT.COM
+   Name Server: NS3.LUGOSOFT.COM
    Status: clientTransferProhibited
-   Updated Date: 24-aug-2010
-   Creation Date: 07-oct-2007
-   Expiration Date: 07-oct-2011
+   Status: clientUpdateProhibited
+   Updated Date: 25-mar-2011
+   Creation Date: 25-jul-2000
+   Expiration Date: 25-jul-2016
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:18:39 UTC &lt;&lt;&lt;
 
@@ -51,74 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
-    for information purposes, and to assist persons in obtaining
-    information about or related to a domain name registration record.
-    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
-    query, you agree that you will use this Data only for lawful
-    purposes and that, under no circumstances will you use this Data
-    to:
-    (1)allow, enable, or otherwise support the transmission of mass
-    unsolicited,commercial advertising or solicitations via e-mail(spam).
-    (2)enable high volume,automated, electronic processes that apply
-    to OnlineNIC Inc.(or its systems).
-
-    OnlineNIC reserves the right to modify these terms at any time.
-    By starting this query, you agree to abide by this policy.
-
-
-Registrant:
-	 Mr. u-sah Lertlam usa.lertlam@gmail.com +66.27108306
-	 Mr. u-sah Lertlam
-	 340/702 Moo.3 Tambol Bangpoo
-	 Amphur Muang,Samut Prakan,TH 10280
-
-
-Domain Name:9bkk.com
-Record last updated at 2011-05-24 05:06:15
-Record created on 2007/10/7
-Record expired on 2011/10/7
-
-
-Domain servers in listed order:
-	 ns9.hostingdynamo.net 	 ns10.hostingdynamo.net
-
-Administrator:
-	 name: Mr. u-sah Lertlam
- mail: usa.lertlam@gmail.com tel: +66.27108306
-	 org: Mr. u-sah Lertlam
-
-address: 340/702 Moo.3 Tambol Bangpoo
-	 city: Amphur Muang
-,province: Samut Prakan
-,country: TH
- postcode: 10280
-
-Technical Contactor:
-	 name: Mr. u-sah Lertlam
- mail: usa.lertlam@gmail.com tel: +66.27108306
-	 org: Mr. u-sah Lertlam
-
-address: 340/702 Moo.3 Tambol Bangpoo
-	 city: Amphur Muang
-,province: Samut Prakan
-,country: TH
- postcode: 10280
-
-Billing Contactor:
-	 name: Mr. u-sah Lertlam
- mail: usa.lertlam@gmail.com tel: +66.27108306
-	 org: Mr. u-sah Lertlam
-
-address: 340/702 Moo.3 Tambol Bangpoo
-	 city: Amphur Muang
-,province: Samut Prakan
-,country: TH
- postcode: 10280
-
-
-Registration Service Provider:
-	name: Hosting Dynamo
-	tel: +66.65673201
- 	fax: +66.29403279
- 	web:http://www.hostingdynamo.com
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

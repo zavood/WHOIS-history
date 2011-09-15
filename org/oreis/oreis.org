@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D5338566-LROR
+Domain Name:OREIS.ORG
+Created On:20-Jun-1997 04:00:00 UTC
+Last Updated On:01-Jun-2011 14:47:26 UTC
+Expiration Date:19-Jun-2020 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:19951576-NSI
+Registrant Name:Operation Respond Institute
+Registrant Organization:Operation Respond Institute
+Registrant Street1:401 Constitution Ave, NE
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20002
+Registrant Country:US
+Registrant Phone:+1.2025480935
+Registrant Phone Ext.:
+Registrant FAX:+1.2025480945
+Registrant FAX Ext.:
+Registrant Email:matthewy@oreis.org
+Admin ID:19951574-NSI
+Admin Name:Kalai Chan
+Admin Organization:Operation Respond Institute
+Admin Street1:401 Constitution Ave. NE
+Admin Street2:
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20002
+Admin Country:US
+Admin Phone:+1.2025480939
+Admin Phone Ext.:
+Admin FAX:+1.2025480945
+Admin FAX Ext.:
+Admin Email:oreis@erols.com
+Tech ID:19951574-NSI
+Tech Name:Kalai Chan
+Tech Organization:Operation Respond Institute
+Tech Street1:401 Constitution Ave. NE
+Tech Street2:
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20002
+Tech Country:US
+Tech Phone:+1.2025480939
+Tech Phone Ext.:
+Tech FAX:+1.2025480945
+Tech FAX Ext.:
+Tech Email:oreis@erols.com
+Name Server:NS1.OREIS.ORG
+Name Server:NS2.OREIS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
