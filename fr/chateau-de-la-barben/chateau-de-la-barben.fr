@@ -1,0 +1,80 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; chateau-de-la-barben.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      chateau-de-la-barben.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SC6844-FRNIC
+admin-c:     S11846-FRNIC
+tech-c:      S11846-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1322-FRNIC
+registrar:   ONLINE SAS
+anniversary: 20/11
+created:     20/11/2006
+last-update: 02/11/2010
+source:      FRNIC
+
+ns-list:     NSL1322-FRNIC
+nserver:     ns1.signo.net
+nserver:     ns2.signo.net
+source:      FRNIC
+
+registrar:   ONLINE SAS
+type:        Isp Option 1
+address:     8 Rue de la Ville l'Ev&ecirc;que
+address:     PARIS
+country:     FR
+phone:       +33 1 73 50 20 00
+fax-no:      +33 1 73 50 26 05
+e-mail:      hebergement@online.net
+website:     http://www.online.net
+anonymous:   NO
+registered:  01/04/1999
+source:      FRNIC
+
+nic-hdl:     S11846-FRNIC
+type:        ORGANIZATION
+contact:     SIGNO
+address:     Verger d'entreprises
+address:     7, rue des Pommiers - B.P. 31
+address:     13520 Maussane les Alpilles
+country:     FR
+phone:       +33 4 90 54 22 22
+fax-no:      +33 4 90 54 22 21
+e-mail:      signo.282995@spamfree.bookmyname.com
+changed:     07/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SC6844-FRNIC
+type:        ORGANIZATION
+contact:     SARL CODELCINE
+address:     Chateau de la Barben
+address:     13330 La Barben
+country:     FR
+phone:       +33 4 90 55 25 41
+fax-no:      +33 4 90 55 42 75
+e-mail:      chateaudelabarben@neuf.fr
+changed:     04/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

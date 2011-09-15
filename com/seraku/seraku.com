@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SECONDOPINIONCAMPAIGN.COM
-   Registrar: DOMAIN-IT, INC.
-   Whois Server: whois.domainit.com
-   Referral URL: http://www.domainit.com
-   Name Server: NS1.DOMAINIT.COM
-   Name Server: NS2.DOMAINIT.COM
+   Domain Name: SERAKU.COM
+   Registrar: FIRSTSERVER, INC.
+   Whois Server: whois.do-reg.jp
+   Referral URL: http://www.do-reg.jp
+   Name Server: NS1.DO-REG.JP
+   Name Server: NS2.DO-REG.JP
    Status: clientTransferProhibited
-   Updated Date: 15-dec-2010
-   Creation Date: 14-dec-2010
-   Expiration Date: 14-dec-2011
+   Updated Date: 12-may-2011
+   Creation Date: 13-jun-2002
+   Expiration Date: 13-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:59:12 UTC &lt;&lt;&lt;
 
@@ -51,66 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name: secondopinioncampaign.com
 
-	Created on..............: 2010-12-14
-	Expires on..............: 2011-12-14
+### Do-REG WHOIS database / ###
 
-	Registrar Name..........: Domain-it!
-	Registrar Whois.........: whois.domainit.com
-	Registrar Homepage......: http://www.domainit.com
-
-Registrant
-	The Creative Juice
-	Stephen W Anderson
-	10 Stonecrest Circle
-	Rancho Mirage, CA 92270
-	US
-	Phone: +1.7604648202
-	Fax..:
-	Email: stephenwanderson@mac.com
-
-Administrative Contact
-	The Creative Juice
-	Stephen W Anderson
-	10 Stonecrest Circle
-	Rancho Mirage, CA 92270
-	US
-	Phone: +1.7604648202
-	Fax..:
-	Email: stephenwanderson@mac.com
-
-Technical Contact
-	Domain-it!, Inc.
-	Domain-it  Hostmaster
-	9891 Montgomery Road, #225
-	Cincinnati, OH 45242
-	US
-	Phone: 513-351-4222
-	Fax..: 513-351-8222
-	Email: hostmaster@domainit.com
-
-Domain name servers listed in order:
-	ns2.domainit.com
-	ns1.domainit.com
+String for search [ SERAKU.COM ]
 
 
-Accesses today: 4 / 20
+[Domain Name]     SERAKU.COM
+[Status]          clientTransferProhibited
+[Nameserver]      NS1.DO-REG.JP
+[Nameserver]      NS2.DO-REG.JP
 
-The data in Domainit.com's WHOIS database is provided to you by
-Domainit.com for information purposes only, namely to assist you in
-obtaining information about or related to a domain name registration
-record.  Domainit.com makes this information available as is, and
-does not guarantee its accuracy.  By submitting a WHOIS query, you
-agree that you will use this data only for lawful purposes and that,
-under no circumstances will you use this data to: (1) allow, enable,
-or otherwise support the transmission of mass unsolicited, commercial
-advertising or solicitations via direct mail, electronic mail, or by
-telephone; or (2) enable high volume, automated, electronic processes
-that apply to Domainit.com (or its systems).  The compilation,
-repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of Domainit.com.
-Domainit.com reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+[Creation Date]   2002-06-13 15:38:54(JST)
+[Expiration Date] 2012-06-13 15:38:54(JST)
+[Last Update]     2011-05-13 11:26:07(JST)
 
-Register your domain at &lt;a href=&quot;http://www.domainit.com&quot;&gt;www.domainit.com&lt;/a&gt;
+[Registrant]
+        Seraku CO.,Ltd.
+        Name:
+        Address:         7-5-25 Nishishinjuku Shinjuku-ku Tokyo, JP
+
+[Admin Contact]
+        Handle:         DRKM0203
+        Organization:   SERAKU.Co.,Ltd.
+        Name:           Kohei Mochida
+        E-Mail:         mochida@seraku.co.jp
+        Postal-Code:    160-0023
+        Address:        Nishishinjuku-Kimuraya-Building 6F 7-5-25, Nishishinjuku Shinjuku-ku Tokyo, JP
+        Phone-Number:   03-3227-3051
+        Fax-Number:
+[Tech Contact]
+        Handle:         DRKM0203
+        Organization:   SERAKU.Co.,Ltd.
+        Name:           Kohei Mochida
+        E-Mail:         mochida@seraku.co.jp
+        Postal-Code:    160-0023
+        Address:        Nishishinjuku-Kimuraya-Building 6F 7-5-25, Nishishinjuku Shinjuku-ku Tokyo, JP
+        Phone-Number:   03-3227-3051
+        Fax-Number:
+

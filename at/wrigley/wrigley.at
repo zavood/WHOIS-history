@@ -1,0 +1,72 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         wrigley.at
+registrant:     WG3375482-NICAT
+admin-c:        WG3240520-NICAT
+tech-c:         SA3364680-NICAT
+nserver:        ns.space.net
+nserver:        ns3.dns.space.net
+nserver:        ns4.dns.space.net
+changed:        20080410 09:49:09
+source:         AT-DOM
+
+personname:
+organization:   Wrigley GmbH
+street address: Biberger Str. 18
+postal code:    82008
+city:           Unterhaching
+country:        Germany
+phone:          +498966510496
+fax-no:         +4989665107496
+e-mail:         richard.wibmer@wrigley.com
+nic-hdl:        WG3375482-NICAT
+changed:        20080409 09:46:49
+source:         AT-DOM
+
+personname:
+organization:   Wrigley GmbH
+street address: Biberger Str. 18
+postal code:    82008
+city:           Unterhaching
+country:        Germany
+phone:          +498966510496
+fax-no:         +4989665107496
+e-mail:         richard.wibmer@wrigley.com
+nic-hdl:        WG3240520-NICAT
+changed:        20080227 13:01:39
+source:         AT-DOM
+
+personname:
+organization:   SpaceNet AG
+street address: Joseph-Dollinger-Bogen 14
+postal code:    D-80807
+city:           Muenchen
+country:        Germany
+phone:          +498932356200
+fax-no:         +498932356298
+e-mail:         hostmaster@space.net
+nic-hdl:        SA3364680-NICAT
+changed:        20080404 19:17:55
+source:         AT-DOM
+

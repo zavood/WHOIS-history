@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: ACT622D-NORID
+Domain Name................: active24.no
+Domain Holder Handle.......: AA5174O-NORID
+Registrar Handle...........: REG38-NORID
+Legal-c Handle.............: SG1902P-NORID
+Tech-c Handle..............: AAH21R-NORID
+Name Server Handle.........: DNSA116H-NORID
+Name Server Handle.........: DNSA133H-NORID
+
+Additional information:
+Created:         2004-06-03
+Last updated:    2011-06-05
+
+NORID Handle...............: AA5174O-NORID
+Type.......................: organization
+Name.......................: Active 24 ASA
+Id Type....................: organization_number
+Id Number..................: 979945388
+Registrar Handle...........: REG38-NORID
+Post Address...............: Pilestredet 75C, PB 5198 Majorstuen
+Postal Code................: NO-0302
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.21933000
+Fax Number.................: +47.21933001
+Email Address..............: admin@active24.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

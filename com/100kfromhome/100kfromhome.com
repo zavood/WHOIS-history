@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SECONDOPINIONCAMPAIGN.COM
-   Registrar: DOMAIN-IT, INC.
-   Whois Server: whois.domainit.com
-   Referral URL: http://www.domainit.com
-   Name Server: NS1.DOMAINIT.COM
-   Name Server: NS2.DOMAINIT.COM
+   Domain Name: 100KFROMHOME.COM
+   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
+   Whois Server: whois.domaindiscover.com
+   Referral URL: http://www.domaindiscover.com
+   Name Server: NS1.DOMAINDISCOVER.COM
+   Name Server: NS2.DOMAINDISCOVER.COM
    Status: clientTransferProhibited
-   Updated Date: 15-dec-2010
-   Creation Date: 14-dec-2010
-   Expiration Date: 14-dec-2011
+   Updated Date: 02-aug-2011
+   Creation Date: 01-aug-2004
+   Expiration Date: 01-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:59:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:59:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,66 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name: secondopinioncampaign.com
 
-	Created on..............: 2010-12-14
-	Expires on..............: 2011-12-14
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
 
-	Registrar Name..........: Domain-it!
-	Registrar Whois.........: whois.domainit.com
-	Registrar Homepage......: http://www.domainit.com
+Registrant:
+   George Ruiz
+   716 S 850 E
+   Orem, UT 84097-6534
+   US
 
-Registrant
-	The Creative Juice
-	Stephen W Anderson
-	10 Stonecrest Circle
-	Rancho Mirage, CA 92270
-	US
-	Phone: +1.7604648202
-	Fax..:
-	Email: stephenwanderson@mac.com
+   Domain Name: 100KFROMHOME.COM
 
-Administrative Contact
-	The Creative Juice
-	Stephen W Anderson
-	10 Stonecrest Circle
-	Rancho Mirage, CA 92270
-	US
-	Phone: +1.7604648202
-	Fax..:
-	Email: stephenwanderson@mac.com
+   Administrative Contact:
+      George Ruiz
+      716 S 850 E
+      Orem, UT 84097-6534
+      US
+      (801)360-2195
+      wealth53@mac.com
 
-Technical Contact
-	Domain-it!, Inc.
-	Domain-it  Hostmaster
-	9891 Montgomery Road, #225
-	Cincinnati, OH 45242
-	US
-	Phone: 513-351-4222
-	Fax..: 513-351-8222
-	Email: hostmaster@domainit.com
+   Technical Contact, Zone Contact:
+      George Ruiz
+      716 S 850 E
+      Orem, UT 84097-6534
+      US
+      801-226-0147
+      gruiz@aol.com
 
-Domain name servers listed in order:
-	ns2.domainit.com
-	ns1.domainit.com
+   Domain created on 01-Aug-2004
+   Domain expires on 01-Aug-2012
+   Last updated on 13-May-2011
 
+   Domain servers in listed order:
 
-Accesses today: 4 / 20
+      NS1.DOMAINDISCOVER.COM
+      NS2.DOMAINDISCOVER.COM
 
-The data in Domainit.com's WHOIS database is provided to you by
-Domainit.com for information purposes only, namely to assist you in
-obtaining information about or related to a domain name registration
-record.  Domainit.com makes this information available as is, and
-does not guarantee its accuracy.  By submitting a WHOIS query, you
-agree that you will use this data only for lawful purposes and that,
-under no circumstances will you use this data to: (1) allow, enable,
-or otherwise support the transmission of mass unsolicited, commercial
-advertising or solicitations via direct mail, electronic mail, or by
-telephone; or (2) enable high volume, automated, electronic processes
-that apply to Domainit.com (or its systems).  The compilation,
-repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of Domainit.com.
-Domainit.com reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+Domain registration and hosting powered by DomainDiscover
+As low as $9/year, including FREE: responsive toll-free support,
+URL/frame/email forwarding, easy management system, and full featured DNS.
 
-Register your domain at &lt;a href=&quot;http://www.domainit.com&quot;&gt;www.domainit.com&lt;/a&gt;

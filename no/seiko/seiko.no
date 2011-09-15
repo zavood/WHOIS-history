@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: SEI420D-NORID
+Domain Name................: seiko.no
+Domain Holder Handle.......: OA1129O-NORID
+Registrar Handle...........: REG5-NORID
+Legal-c Handle.............: TN1852P-NORID
+Tech-c Handle..............: WAR19R-NORID
+Name Server Handle.........: NSDA68H-NORID
+Name Server Handle.........: NSDA81H-NORID
+
+Additional information:
+Created:         2007-05-30
+Last updated:    2011-06-01
+
+NORID Handle...............: OA1129O-NORID
+Type.......................: organization
+Name.......................: Optura as
+Id Type....................: organization_number
+Id Number..................: 929631382
+Registrar Handle...........: REG5-NORID
+Post Address...............: Postboks 2006
+Postal Code................: NO-3103
+Postal Area................: Tonsberg
+Country....................: NO
+Phone Number...............: +47.33304500
+Fax Number.................: +47.33304510
+Email Address..............: rune@optura.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

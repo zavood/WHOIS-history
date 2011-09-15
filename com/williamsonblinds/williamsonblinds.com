@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SECONDOPINIONCAMPAIGN.COM
-   Registrar: DOMAIN-IT, INC.
-   Whois Server: whois.domainit.com
-   Referral URL: http://www.domainit.com
-   Name Server: NS1.DOMAINIT.COM
-   Name Server: NS2.DOMAINIT.COM
+   Domain Name: WILLIAMSONBLINDS.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: NS1.PJSTAR.COM
+   Name Server: NS2.PJSTAR.COM
    Status: clientTransferProhibited
-   Updated Date: 15-dec-2010
-   Creation Date: 14-dec-2010
-   Expiration Date: 14-dec-2011
+   Updated Date: 24-jan-2011
+   Creation Date: 14-feb-2003
+   Expiration Date: 14-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:59:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:59:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,66 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name: secondopinioncampaign.com
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-	Created on..............: 2010-12-14
-	Expires on..............: 2011-12-14
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-	Registrar Name..........: Domain-it!
-	Registrar Whois.........: whois.domainit.com
-	Registrar Homepage......: http://www.domainit.com
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Registrant
-	The Creative Juice
-	Stephen W Anderson
-	10 Stonecrest Circle
-	Rancho Mirage, CA 92270
-	US
-	Phone: +1.7604648202
-	Fax..:
-	Email: stephenwanderson@mac.com
+http://www.networksolutions.com/whois/index.jhtml
 
-Administrative Contact
-	The Creative Juice
-	Stephen W Anderson
-	10 Stonecrest Circle
-	Rancho Mirage, CA 92270
-	US
-	Phone: +1.7604648202
-	Fax..:
-	Email: stephenwanderson@mac.com
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Technical Contact
-	Domain-it!, Inc.
-	Domain-it  Hostmaster
-	9891 Montgomery Road, #225
-	Cincinnati, OH 45242
-	US
-	Phone: 513-351-4222
-	Fax..: 513-351-8222
-	Email: hostmaster@domainit.com
-
-Domain name servers listed in order:
-	ns2.domainit.com
-	ns1.domainit.com
-
-
-Accesses today: 4 / 20
-
-The data in Domainit.com's WHOIS database is provided to you by
-Domainit.com for information purposes only, namely to assist you in
-obtaining information about or related to a domain name registration
-record.  Domainit.com makes this information available as is, and
-does not guarantee its accuracy.  By submitting a WHOIS query, you
-agree that you will use this data only for lawful purposes and that,
-under no circumstances will you use this data to: (1) allow, enable,
-or otherwise support the transmission of mass unsolicited, commercial
-advertising or solicitations via direct mail, electronic mail, or by
-telephone; or (2) enable high volume, automated, electronic processes
-that apply to Domainit.com (or its systems).  The compilation,
-repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of Domainit.com.
-Domainit.com reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-
-Register your domain at &lt;a href=&quot;http://www.domainit.com&quot;&gt;www.domainit.com&lt;/a&gt;
+Whois Query: williamsonblinds.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Wed Sep 14 22:50:52 EDT 2011
+Reason Code: IE

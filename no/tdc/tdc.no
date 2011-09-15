@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: TDC24D-NORID
+Domain Name................: tdc.no
+Domain Holder Handle.......: TA2546O-NORID
+Registrar Handle...........: REG89-NORID
+Legal-c Handle.............: MEJ19P-NORID
+Tech-c Handle..............: TAH6R-NORID
+Name Server Handle.........: DNST69H-NORID
+Name Server Handle.........: DNST74H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: TA2546O-NORID
+Type.......................: organization
+Name.......................: TDC AS
+Id Type....................: organization_number
+Id Number..................: 971054905
+Registrar Handle...........: REG89-NORID
+Post Address...............: Postboks 4600 Nydalen
+Postal Code................: NO-0405
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.21502100
+Fax Number.................: +47.21502151
+Email Address..............: hostmaster@tdc.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
