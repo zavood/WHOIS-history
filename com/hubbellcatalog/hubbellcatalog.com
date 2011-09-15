@@ -5,20 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: HOLLYWOODREPORTER.COM
+   Domain Name: HUBBELLCATALOG.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: PDNS1.ULTRADNS.NET
-   Name Server: PDNS2.ULTRADNS.NET
-   Name Server: PDNS3.ULTRADNS.ORG
-   Name Server: PDNS4.ULTRADNS.ORG
-   Name Server: PDNS5.ULTRADNS.INFO
-   Name Server: PDNS6.ULTRADNS.CO.UK
+   Name Server: AUTH100.NS.UU.NET
+   Name Server: AUTH110.NS.UU.NET
    Status: clientTransferProhibited
-   Updated Date: 16-jun-2010
-   Creation Date: 24-jul-1995
-   Expiration Date: 23-jul-2019
+   Updated Date: 27-sep-2010
+   Creation Date: 16-jan-2001
+   Expiration Date: 16-jan-2014
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:22:51 UTC &lt;&lt;&lt;
 
@@ -78,20 +74,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about HOLLYWOODREPORTER.COM
-&lt;a href=&quot;http://www.aboutus.org/HOLLYWOODREPORTER.COM&quot;&gt;AboutUs: HOLLYWOODREPORTER.COM &lt;/a&gt;
+Visit AboutUs.org for more information about HUBBELLCATALOG.COM
+&lt;a href=&quot;http://www.aboutus.org/HUBBELLCATALOG.COM&quot;&gt;AboutUs: HUBBELLCATALOG.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-Prometheus Global Media, LLC
-   770 Broadway
-   7th Floor
-   New York, NY 10003
+Hubbell Incorporated
+   40 Waterview Drive
+   Shelton, CT 06484
    US
 
-   Domain Name: HOLLYWOODREPORTER.COM
+   Domain Name: HUBBELLCATALOG.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -99,26 +94,30 @@ Prometheus Global Media, LLC
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      Prometheus Global Media, LLC		Gautam.Guliani@prometheusgm.com
-      770 Broadway
-      7th Floor
-      New York, NY 10003
+   Administrative Contact:
+      Hogan, Chris		chogan@hubbell-ltg.com
+      Hubbell Incorporated
+      701 Millennium Blvd
+      Greenville, SC 29607
       US
-      212-493-4100
+      (864) 678-1310 fax: (864) 678-1539
+
+   Technical Contact:
+      Truedson, Jeff		jtruedson@HUBBELL.COM
+      Hubbell Inc.
+      40 Waterview Drive
+      Shelton, CT 06484
+      US
+      475-882-4281 fax: 203-799-4223
 
 
-   Record expires on 23-Jul-2019.
-   Record created on 24-Jul-1995.
-   Database last updated on 15-Sep-2011 01:12:30 EDT.
+   Record expires on 16-Jan-2014.
+   Record created on 16-Jan-2001.
+   Database last updated on 15-Sep-2011 01:12:29 EDT.
 
    Domain servers in listed order:
 
-   PDNS3.ULTRADNS.ORG           199.7.68.1
-   PDNS2.ULTRADNS.NET           204.74.109.1
-   PDNS5.ULTRADNS.INFO          204.74.114.1
-   PDNS6.ULTRADNS.CO.UK
-   PDNS1.ULTRADNS.NET           204.74.108.1
-   PDNS4.ULTRADNS.ORG           199.7.69.1
+   AUTH110.NS.UU.NET            198.6.1.114
+   AUTH100.NS.UU.NET            198.6.1.202
 
 
