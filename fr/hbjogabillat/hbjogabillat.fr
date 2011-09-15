@@ -1,0 +1,99 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; hbjogabillat.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      hbjogabillat.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    GB602-FRNIC
+admin-c:     GB1597-FRNIC
+tech-c:      AISP1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5153-FRNIC
+registrar:   ACTIVE 24 AS
+anniversary: 19/01
+created:     19/01/2006
+last-update: 17/03/2006
+source:      FRNIC
+
+ns-list:     NSL5153-FRNIC
+nserver:     dns20.activeisp.com
+nserver:     dns21.activeisp.com
+source:      FRNIC
+
+registrar:   ACTIVE 24 AS
+type:        Isp Option 1
+address:     Pilestredet 75C
+address:     Postboks 5198 Majorstua
+address:     N-0302 OSLO
+country:     NO
+phone:       +47 21 93 30 00
+fax-no:      +47 21 93 30 01
+e-mail:      support@active24.fr
+website:     http://www.active24.fr
+anonymous:   NO
+registered:  31/05/1999
+source:      FRNIC
+
+nic-hdl:     GB1597-FRNIC
+type:        PERSON
+contact:     Gabillat Bertrand
+address:     Fournitures HBJO
+address:     22, rue de la Pierre Bure
+address:     18130 Dun-sur-Auron
+country:     FR
+phone:       +33 2 48 59 53 20
+e-mail:      bgabillat@aol.com
+changed:     17/03/2006 Herve.Cosquer@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AISP1-FRNIC
+type:        ROLE
+contact:     ActiveISP Hostmaster
+address:     ActiveISP ASA
+address:     Olaf Helseths vei 6
+address:     Postboks 70 Bogerud
+address:     0621 Oslo
+country:     NO
+phone:       +47 21 93 30 00
+phone:       +47 21 93 31 00
+fax-no:      +47 21 93 30 01
+fax-no:      +47 37 14 31 50
+e-mail:      hostmaster@activeisp.com
+admin-c:     RL1045-FRNIC
+tech-c:      SG4430-FRNIC
+tech-c:      ICC1-FRNIC
+changed:     14/02/2003 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GB602-FRNIC
+type:        ORGANIZATION
+contact:     GABILLAT Bertrand
+address:     22, rue de la Pierre Bure
+address:     18130 Dun-sur-Auron
+country:     FR
+phone:       +33 2 48 59 53 20
+e-mail:      bgabillat@aol.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

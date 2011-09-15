@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D82272105-LROR
+Domain Name:BOGALUSACHAMBER.ORG
+Created On:10-Jan-2002 14:50:46 UTC
+Last Updated On:11-Jan-2011 01:23:15 UTC
+Expiration Date:10-Jan-2012 14:50:46 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-XYEGFJUQLY70
+Registrant Name:Hostmaster Hunt Brothers
+Registrant Street1:509 West Thomas Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hammond
+Registrant State/Province:LA
+Registrant Postal Code:70403
+Registrant Country:US
+Registrant Phone:+1.9857950025
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@huntbrothers.com
+Admin ID:DOT-PFPFAJ78LDAW
+Admin Name:Hostmaster Hunt Brothers
+Admin Street1:509 West Thomas Street
+Admin Street2:
+Admin Street3:
+Admin City:Hammond
+Admin State/Province:LA
+Admin Postal Code:70403
+Admin Country:US
+Admin Phone:+1.9857950025
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@huntbrothers.com
+Tech ID:DOT-VTH1R21TX6EH
+Tech Name:Hostmaster Hunt Brothers
+Tech Street1:509 West Thomas Street
+Tech Street2:
+Tech Street3:
+Tech City:Hammond
+Tech State/Province:LA
+Tech Postal Code:70403
+Tech Country:US
+Tech Phone:+1.9857950025
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@huntbrothers.com
+Name Server:NS.HUNTBROTHERS.COM
+Name Server:NS2.HUNTBROTHERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

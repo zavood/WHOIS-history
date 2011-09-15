@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155843044-LROR
+Domain Name:AMPOULEALED.ORG
+Created On:10-Apr-2009 13:03:21 UTC
+Last Updated On:31-Mar-2011 07:21:19 UTC
+Expiration Date:10-Apr-2013 13:03:21 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-242871
+Registrant Name:patrice krysztofiak
+Registrant Organization:phelios inc
+Registrant Street1:3786 dekalb tech pkway
+Registrant Street2:suite 200
+Registrant Street3:
+Registrant City:atlanta
+Registrant State/Province:ga
+Registrant Postal Code:30340
+Registrant Country:US
+Registrant Phone:+770.4521777
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:patricek@phelios.com
+Admin ID:CORG-145292
+Admin Name:patrice krysztofiak
+Admin Organization:phelios inc
+Admin Street1:3786 dekalb tech pkway
+Admin Street2:suite 200
+Admin Street3:
+Admin City:atlanta
+Admin State/Province:ga
+Admin Postal Code:30340
+Admin Country:US
+Admin Phone:+770.4521777
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:patricek@phelios.com
+Tech ID:CORG-145292
+Tech Name:patrice krysztofiak
+Tech Organization:phelios inc
+Tech Street1:3786 dekalb tech pkway
+Tech Street2:suite 200
+Tech Street3:
+Tech City:atlanta
+Tech State/Province:ga
+Tech Postal Code:30340
+Tech Country:US
+Tech Phone:+770.4521777
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:patricek@phelios.com
+Name Server:NS1.SLCONSEIL.COM
+Name Server:NS2.SLCONSEIL.COM
+Name Server:NS3.SLCONSEIL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

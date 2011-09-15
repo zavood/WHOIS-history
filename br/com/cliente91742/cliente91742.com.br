@@ -1,0 +1,51 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 08:23:47 (BRT -03:00)
+
+domain:      cliente91742.com.br
+owner:       ROSINER PARREAO
+ownerid:     125.217.793-34
+country:     BR
+owner-c:     ROPAR61
+admin-c:     ROPAR61
+tech-c:      ROPAR61
+billing-c:   WELTD
+nserver:     ns1.webnames-l03.com
+nsstat:      20110915 UDN
+nslastaa:    20110831
+nserver:     ns2.webnames-l03.com
+nsstat:      20110915 UDN
+nslastaa:    20110831
+saci:        yes
+created:     20110711 #8559028
+expires:     20120711
+changed:     20110712
+provider:    WEBNAMES (29)
+status:      published
+
+nic-hdl-br:  ROPAR61
+person:      ROSINER PARREAO
+e-mail:      antoniaelietepaiva@yahoo.com.br
+created:     20110711
+changed:     20110711
+provider:    WEBNAMES (29)
+
+nic-hdl-br:  WELTD
+person:      webermaq ltda
+e-mail:      webermaq@webermaq.com
+created:     20070703
+changed:     20110414
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

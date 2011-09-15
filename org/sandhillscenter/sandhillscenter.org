@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1273594-LROR
+Domain Name:SANDHILLSCENTER.ORG
+Created On:15-May-1998 04:00:00 UTC
+Last Updated On:29-Apr-2011 06:58:08 UTC
+Expiration Date:14-May-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:34915504-NSI
+Registrant Name:Sandhills Center for MH
+Registrant Organization:Sandhills Center for MH
+Registrant Street1:P.O. Box 9
+Registrant Street2:
+Registrant Street3:
+Registrant City:West End
+Registrant State/Province:NC
+Registrant Postal Code:27376-9756
+Registrant Country:US
+Registrant Phone:+1.91067391
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bobs@sandhillscenter.org
+Admin ID:34915504-NSI
+Admin Name:Sandhills Center for MH
+Admin Organization:Sandhills Center for MH
+Admin Street1:P.O. Box 9
+Admin Street2:
+Admin Street3:
+Admin City:West End
+Admin State/Province:NC
+Admin Postal Code:27376-9756
+Admin Country:US
+Admin Phone:+1.91067391
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bobs@sandhillscenter.org
+Tech ID:19565050-NSI
+Tech Name:Information Technology Services
+Tech Organization:Information Technology Services
+Tech Street1:PO Box 17209
+Tech Street2:Office of Information Technology Services
+Tech Street3:
+Tech City:Raleigh
+Tech State/Province:NC
+Tech Postal Code:27609
+Tech Country:US
+Tech Phone:+1.9197546000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@its.nc.gov
+Name Server:NS1.NC.GOV
+Name Server:NS2.NC.GOV
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

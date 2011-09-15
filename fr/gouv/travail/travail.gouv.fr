@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; travail.gouv.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      travail.gouv.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    DAGE2-FRNIC
+admin-c:     YD762-FRNIC
+tech-c:      AD902-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL14640-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 01/12
+created:     01/12/1997
+last-update: 30/03/2010
+source:      FRNIC
+
+ns-list:     NSL14640-FRNIC
+nserver:     dns.travail.gouv.fr [195.6.202.253]
+nserver:     ns6.oleane.net
+nserver:     ns7.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     AD902-FRNIC
+type:        PERSON
+contact:     Administration Domaines
+address:     Csi Transpac
+address:     207, rue de Bercy
+address:     75012 Paris
+country:     FR
+phone:       +33 1 53 44 08 00
+fax-no:      +33 1 53 44 08 47
+e-mail:      newsletter@stor-solutions.com
+changed:     12/04/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     YD762-FRNIC
+type:        PERSON
+contact:     Yves Delbart
+address:     Minist Travail Rel Sociales Solidarite
+address:     10-18, place des 5 Martyrs Lycee Buffon
+address:     75015 Paris
+country:     FR
+phone:       +33 1 40 56 78 41
+fax-no:      +33 1 44 38 39 90
+e-mail:      YVES.DELBART@sante-travail.gouv.fr
+changed:     31/08/2007 robot-fr@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DAGE2-FRNIC
+type:        ORGANIZATION
+contact:     DIR ADMIN GEN ET MODERNISATION SERVICE
+address:     39-43, quai Andre Citroen
+address:     75015 Paris
+country:     FR
+phone:       +33 1 40 56 78 41
+e-mail:      yves.belbart@sante-travail.gouv.fr
+changed:     02/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

@@ -12,11 +12,11 @@ for detailed information.
    Name Server: NS745.WEBSITEWELCOME.COM
    Name Server: NS746.WEBSITEWELCOME.COM
    Status: ok
-   Updated Date: 13-sep-2010
+   Updated Date: 13-sep-2011
    Creation Date: 12-sep-2006
-   Expiration Date: 12-sep-2011
+   Expiration Date: 12-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:15:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 11:34:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,8 +71,8 @@ Registrars.
 
 domain:                          conceptstesting.com
 created:                         13-Sep-2006
-last-changed:                    14-Sep-2010
-registration-expiration:         13-Sep-2011
+last-changed:                    13-Sep-2011
+registration-expiration:         13-Sep-2012
 
 nserver:                         ns745.websitewelcome.com 174.132.116.2
 nserver:                         ns746.websitewelcome.com 174.132.116.3

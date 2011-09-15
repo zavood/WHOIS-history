@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 25-apr-2002
    Expiration Date: 25-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:22:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 11:24:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain on2r.com
-% Timestamp: 2011-09-14 13:22:30
+% Timestamp: 2011-09-15 13:25:08
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
