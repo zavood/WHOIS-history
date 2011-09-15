@@ -1,0 +1,85 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 19:24:53 2011
+
+domain:       hbkrako.cz
+registrant:   SB:HBKRAKO
+admin-c:      CIZEKPETR10
+temp-c:       MK852
+nsset:        NSS:IOL1-RIPE:1
+registrar:    REG-CT
+status:       paid and in zone
+registered:   02.03.2001 08:31:00
+expire:       02.03.2012
+
+contact:      SB:HBKRAKO
+org:          HB KRAKO s.r.o.
+name:         HB KRAKO s.r.o.
+address:      Dolni Bojanovice 320
+address:      Dolni Bojanovice
+address:      69617
+address:      CZ
+e-mail:       hbkrako@click.cz
+registrar:    REG-CT
+created:      10.08.2001 22:13:00
+
+contact:      CIZEKPETR10
+name:         Petr Cizek
+address:      Dolni Bojanovice 320
+address:      Dolni Bojanovice
+address:      69617
+address:      CZ
+e-mail:       hbkrako@click.cz
+registrar:    REG-CT
+created:      10.08.2001 22:13:00
+
+contact:      MK852
+name:         Martin Koctar
+address:      Narodni trida 101
+address:      Hodonin
+address:      69501
+address:      CZ
+phone:        +420 518340943
+fax-no:       +420 518342243
+e-mail:       koctar@ccsystem.cz
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:IOL1-RIPE:1
+nserver:      ns2.tel.cz (194.228.2.1)
+nserver:      dns.iol.cz (194.228.2.61)
+tech-c:       SB:IOL1-RIPE
+registrar:    REG-CT
+created:      01.10.2007 02:00:00
+changed:      10.10.2007 11:22:23
+
+contact:      SB:IOL1-RIPE
+org:          Telef&Atilde;&sup3;nica Czech Republic, a.s.
+name:         Telef&Atilde;&sup3;nica Czech Republic, a.s.
+address:      Za Brumlovkou 266/2
+address:      Praha 4
+address:      14022
+address:      CZ
+phone:        +420.271466183
+e-mail:       hostmaster@iol.cz
+registrar:    REG-CT
+created:      10.08.2001 22:13:00
+changed:      31.05.2011 11:35:24
+
+

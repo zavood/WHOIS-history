@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154440273-LROR
+Domain Name:LAMOLABS.ORG
+Created On:10-Oct-2008 15:25:35 UTC
+Last Updated On:18-Aug-2010 02:20:39 UTC
+Expiration Date:10-Oct-2015 15:25:35 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-X346NN52IX3V
+Registrant Name:Sam Mingolelli
+Registrant Organization:Sam Mingolelli
+Registrant Street1:1558 Vroom Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Spencerport
+Registrant State/Province:NY
+Registrant Postal Code:14559
+Registrant Country:US
+Registrant Phone:+1.5855943309
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@lamolabs.org
+Admin ID:DOT-94E5AOEVTH6P
+Admin Name:Sam Mingolelli
+Admin Organization:Sam Mingolelli
+Admin Street1:1558 Vroom Rd.
+Admin Street2:
+Admin Street3:
+Admin City:Spencerport
+Admin State/Province:NY
+Admin Postal Code:14559
+Admin Country:US
+Admin Phone:+1.5855943309
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@lamolabs.org
+Tech ID:DOT-QGHXEW0PVYKY
+Tech Name:Sam Mingolelli
+Tech Organization:Sam Mingolelli
+Tech Street1:1558 Vroom Rd.
+Tech Street2:
+Tech Street3:
+Tech City:Spencerport
+Tech State/Province:NY
+Tech Postal Code:14559
+Tech Country:US
+Tech Phone:+1.5855943309
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@lamolabs.org
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

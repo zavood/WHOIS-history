@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6150555-LROR
+Domain Name:RAVALNET.ORG
+Created On:30-Apr-1999 10:36:19 UTC
+Last Updated On:04-Jul-2011 13:25:57 UTC
+Expiration Date:30-Apr-2013 10:34:45 UTC
+Sponsoring Registrar:DirectNIC, LTD (R48-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:ODN-479388
+Registrant Name:Helena Palau
+Registrant Organization:Ravalnet
+Registrant Street1:Carrer dels Salvadors 6 baixos
+Registrant Street2:
+Registrant Street3:
+Registrant City:Barcelona
+Registrant State/Province:Barcelona
+Registrant Postal Code:08001
+Registrant Country:ES
+Registrant Phone:+34.0034934425867
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tecnics@ravalnet.org
+Admin ID:ODN-479388
+Admin Name:Helena Palau
+Admin Organization:Ravalnet
+Admin Street1:Carrer dels Salvadors 6 baixos
+Admin Street2:
+Admin Street3:
+Admin City:Barcelona
+Admin State/Province:Barcelona
+Admin Postal Code:08001
+Admin Country:ES
+Admin Phone:+34.0034934425867
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tecnics@ravalnet.org
+Tech ID:ODN-479388
+Tech Name:Helena Palau
+Tech Organization:Ravalnet
+Tech Street1:Carrer dels Salvadors 6 baixos
+Tech Street2:
+Tech Street3:
+Tech City:Barcelona
+Tech State/Province:Barcelona
+Tech Postal Code:08001
+Tech Country:ES
+Tech Phone:+34.0034934425867
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tecnics@ravalnet.org
+Name Server:NS2.AFRAID.ORG
+Name Server:NS2.RAVALNET.ORG
+Name Server:DNS.RAVALNET.ORG
+Name Server:DNS2.RAVALNET.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

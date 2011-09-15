@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D28885048-LROR
+Domain Name:JOHNXXIIIHOME.ORG
+Created On:09-Jun-2000 03:43:19 UTC
+Last Updated On:09-Aug-2011 00:25:37 UTC
+Expiration Date:09-Jun-2012 03:43:19 UTC
+Sponsoring Registrar:TierraNet Inc. dba DomainDiscover (R86-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:TNTN-0000750635
+Registrant Name:David Reeves
+Registrant Organization:Reeves Information Technology
+Registrant Street1:316 Hadley Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Greenville
+Registrant State/Province:PA
+Registrant Postal Code:16125
+Registrant Country:US
+Registrant Phone:+1.7245895450
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:david.reeves@reevesinfotech.com
+Admin ID:TNTN-0000750635
+Admin Name:David Reeves
+Admin Organization:Reeves Information Technology
+Admin Street1:316 Hadley Rd
+Admin Street2:
+Admin Street3:
+Admin City:Greenville
+Admin State/Province:PA
+Admin Postal Code:16125
+Admin Country:US
+Admin Phone:+1.7245895450
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:david.reeves@reevesinfotech.com
+Tech ID:TNTN-0000750635
+Tech Name:David Reeves
+Tech Organization:Reeves Information Technology
+Tech Street1:316 Hadley Rd
+Tech Street2:
+Tech Street3:
+Tech City:Greenville
+Tech State/Province:PA
+Tech Postal Code:16125
+Tech Country:US
+Tech Phone:+1.7245895450
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:david.reeves@reevesinfotech.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
