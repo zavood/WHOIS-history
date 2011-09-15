@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 29-mar-2003
    Expiration Date: 29-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:47:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 11:39:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,22 +84,37 @@ Domain servers in listed order:
 	 ns1.simplehost4u.com 	 ns2.simplehost4u.com
 
 Administrator:
-	 Yaklai, Chanon taforyou@hotmail.com -
-	 -
-	 18
-	 Bangkok,  66,Bangkok,  66,- -
+	 name: Yaklai, Chanon
+ mail: taforyou@hotmail.com tel: -
+	 org: -
+
+address: 18
+	 city: Bangkok,  66
+,province: Bangkok,  66
+,country: -
+ postcode: -
 
 Technical Contactor:
-	 Customer Service, EV1 Servers domains@ev1servers.net +1.7133337873
-	 -
-	 2600 SW Freeway
-	 Suite 500,Suite 500,- -
+	 name: Customer Service, EV1 Servers
+ mail: domains@ev1servers.net tel: +1.7133337873
+	 org: -
+
+address: 2600 SW Freeway
+	 city: Suite 500
+,province: Suite 500
+,country: -
+ postcode: -
 
 Billing Contactor:
-	 - - -
-	 -
-	 -
-	 -,-,- -
+	 name: -
+ mail: - tel: -
+	 org: -
+
+address: -
+	 city: -
+,province: -
+,country: -
+ postcode: -
 
 
 Registration Service Provider:

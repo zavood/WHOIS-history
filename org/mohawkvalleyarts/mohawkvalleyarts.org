@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D44864196-LROR
+Domain Name:MOHAWKVALLEYARTS.ORG
+Created On:22-Nov-2000 21:02:48 UTC
+Last Updated On:08-Jun-2011 14:46:23 UTC
+Expiration Date:22-Nov-2014 21:02:48 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR43198637
+Registrant Name:MOHAWK VALLEY CENTER FOR THE ARTS
+Registrant Organization:MOHAWK VALLEY CENTER FOR THE ARTS
+Registrant Street1:401 Canal Place
+Registrant Street2:
+Registrant Street3:
+Registrant City:LITTLE FALLS
+Registrant State/Province:New York
+Registrant Postal Code:13365-2008
+Registrant Country:US
+Registrant Phone:+1.3158230808
+Registrant Phone Ext.:
+Registrant FAX:+1.3158230805
+Registrant FAX Ext.:
+Registrant Email:director@mohawkvalley.org
+Admin ID:CR43198639
+Admin Name:MOHAWK VALLEY CENTER FOR THE ARTS
+Admin Organization:MOHAWK VALLEY CENTER FOR THE ARTS
+Admin Street1:401 Canal Place
+Admin Street2:
+Admin Street3:
+Admin City:LITTLE FALLS
+Admin State/Province:New York
+Admin Postal Code:13365-2008
+Admin Country:US
+Admin Phone:+1.3158230808
+Admin Phone Ext.:
+Admin FAX:+1.3158230805
+Admin FAX Ext.:
+Admin Email:director@mohawkvalleyarts.org
+Tech ID:CR43198638
+Tech Name:Lutz Scherneck
+Tech Street1:5 Sullivan St.
+Tech Street2:
+Tech Street3:
+Tech City:Dolgeville
+Tech State/Province:New York
+Tech Postal Code:13329
+Tech Country:US
+Tech Phone:+1.3154299583
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:lutz@lutzart.net
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

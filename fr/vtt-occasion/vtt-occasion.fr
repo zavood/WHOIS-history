@@ -1,0 +1,101 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; vtt-occasion.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      vtt-occasion.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      NC874-FRNIC
+tech-c:      LS1371-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2260-FRNIC
+registrar:   NFRANCE CONSEIL SAS
+anniversary: 17/09
+created:     17/09/2008
+last-update: 17/09/2008
+source:      FRNIC
+
+ns-list:     NSL2260-FRNIC
+nserver:     ns1.slconseil.com
+nserver:     ns2.slconseil.com
+nserver:     ns3.slconseil.com
+source:      FRNIC
+
+registrar:   NFRANCE CONSEIL SAS
+type:        Isp Option 1
+address:     4 Rue J.-F. Kennedy
+address:     TOULOUSE
+country:     FR
+phone:       +33 5 34 45 55 00
+fax-no:      +33 5 34 45 55 07
+e-mail:      infos@nfrance.com
+website:     http://www.nfrance.com
+anonymous:   NO
+registered:  01/04/1999
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     19/11/2007 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NC874-FRNIC
+type:        ROLE
+contact:     NFrance Conseil
+address:     Internet - Unix - Reseaux
+address:     4, rue Kennedy
+address:     31000 Toulouse
+country:     FR
+phone:       +33 5 34 45 55 00
+e-mail:      afnic@nfrance.com
+trouble:     http://www.nfrance.info
+trouble:     Gestion : http://www.nfrance.com
+trouble:     Questions : mailto:info@nfrance.com
+admin-c:     LS1371-FRNIC
+tech-c:      RS731-FRNIC
+notify:      afnic@nfrance.com
+changed:     18/05/2006 afnic@nfrance.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LS1371-FRNIC
+type:        PERSON
+contact:     Laurent Sintes
+address:     4, rue Kennedy
+address:     31000 Toulouse
+country:     FR
+phone:       +33 5 34 45 55 00
+fax-no:      +33 5 34 45 55 07
+e-mail:      support@nfrance.com
+changed:     12/09/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
