@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106751831-LROR
+Domain Name:PHOTOSBYROGER.ORG
+Created On:27-Jun-2005 22:45:58 UTC
+Last Updated On:28-Jun-2011 01:25:13 UTC
+Expiration Date:27-Jun-2012 22:45:58 UTC
+Sponsoring Registrar:1 &amp; 1 Internet AG (R73-LROR)
+Status:OK
+Registrant ID:SPAG-33614344
+Registrant Name:Roger Morton
+Registrant Street1:Albert Street
+Registrant Street2:67
+Registrant Street3:
+Registrant City:St. Albans
+Registrant State/Province:
+Registrant Postal Code:AL1 1RT
+Registrant Country:GB
+Registrant Phone:+44.1727757310
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:roger@rhm.name
+Admin ID:SPAG-33614344
+Admin Name:Roger Morton
+Admin Street1:Albert Street
+Admin Street2:67
+Admin Street3:
+Admin City:St. Albans
+Admin State/Province:
+Admin Postal Code:AL1 1RT
+Admin Country:GB
+Admin Phone:+44.1727757310
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:roger@rhm.name
+Tech ID:SPAG-32126858
+Tech Name:Hostmaster ONEANDONE
+Tech Organization:1&amp;1 Internet Ltd.
+Tech Street1:10-14 Bath Road
+Tech Street2:Aquasulis House
+Tech Street3:
+Tech City:Slough
+Tech State/Province:BRK
+Tech Postal Code:SL1 3SA
+Tech Country:GB
+Tech Phone:+44.8716412121
+Tech Phone Ext.:
+Tech FAX:+49.72191374215
+Tech FAX Ext.:
+Tech Email:hostmaster@1and1.co.uk
+Name Server:NS33.1AND1.CO.UK
+Name Server:NS34.1AND1.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
