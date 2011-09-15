@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: YVGC.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS85.WORLDNIC.COM
-   Name Server: NS86.WORLDNIC.COM
+   Domain Name: WONDERFULWALL.COM
+   Registrar: TURNCOMMERCE, INC. DBA NAMEBRIGHT.COM
+   Whois Server: whois.namebright.com
+   Referral URL: http://www.namebright.com
+   Name Server: NS1.NAMEBRIGHTDNS.COM
+   Name Server: NS2.NAMEBRIGHTDNS.COM
    Status: clientTransferProhibited
-   Updated Date: 23-dec-2010
-   Creation Date: 07-oct-1998
-   Expiration Date: 06-oct-2016
+   Updated Date: 26-may-2011
+   Creation Date: 25-may-2011
+   Expiration Date: 25-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:16:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:16:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,45 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Registrant:
+	HugeDomains 	domains@hugedomains.com
+	THIS DOMAIN IS FOR SALE
+	1422 Delgany Street
+	Suite 400
+	Denver, CO  80202
+	US
+	+1.303.893.0552
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Registrar: NameBright.com (http://www.namebright.com)
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain Name: WonderfulWall.com
+	Creation Date: 5/25/2011
+	Expiration Date: 5/25/2012
+	Last Updated Date: 5/26/2011
+	Domain Locked: True
 
-http://www.networksolutions.com/whois/index.jhtml
+Administrative Contact:
+	HugeDomains 	domains@hugedomains.com
+	THIS DOMAIN IS FOR SALE
+	1422 Delgany Street
+	Suite 400
+	Denver, CO  80202
+	US
+	+1.303.893.0552
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: yvgc.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:06:56 EDT 2011
-Reason Code: IE
+Technical Contact:
+	HugeDomains 	domains@hugedomains.com
+	THIS DOMAIN IS FOR SALE
+	1422 Delgany Street
+	Suite 400
+	Denver, CO  80202
+	US
+	+1.303.893.0552
+
+
+Nameservers:
+	ns1.namebrightdns.com
+	ns2.namebrightdns.com
+
+To view domain listing visit http://www.hugedomains.com/domain_profile.cfm?d=wonderfulwall&amp;e=com

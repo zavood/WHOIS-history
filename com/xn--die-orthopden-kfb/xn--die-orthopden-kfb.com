@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: YVGC.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS85.WORLDNIC.COM
-   Name Server: NS86.WORLDNIC.COM
-   Status: clientTransferProhibited
-   Updated Date: 23-dec-2010
-   Creation Date: 07-oct-1998
-   Expiration Date: 06-oct-2016
+   Domain Name: XN--DIE-ORTHOPDEN-KFB.COM
+   Registrar: CRONON AG
+   Whois Server: whois.tmagnic.net
+   Referral URL: http://www.cronon.net
+   Name Server: NS1.EGMDOMAINS.DE
+   Name Server: NS2.EGMDOMAINS.DE
+   Status: ok
+   Updated Date: 13-sep-2010
+   Creation Date: 01-mar-2004
+   Expiration Date: 01-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:16:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:15:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Whois Server Version 2.1 at whois.tmagnic.net
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Database contains ONLY .COM, .NET, .TV, .CC domains.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Owner Contact:
+   Elmar G&Atilde;&frac14;rtler
+   eg media gmbh
+   werner-haas-stra&Atilde;Ÿe 8
+   augsburg, 86163, DE
 
-http://www.networksolutions.com/whois/index.jhtml
+   Punycode Name:  xn--die-orthopden-kfb.com
+   Unicode Name:   die-orthop&Atilde;&curren;den.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Admin Contact
+      Elmar G&Atilde;&frac14;rtler
+      eg media gmbh
+      info@egmedia.net
+      werner-haas-stra&Atilde;Ÿe 8
+      augsburg, 86163, DE
+      phone: +49.8212082980
 
-Whois Query: yvgc.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:06:56 EDT 2011
-Reason Code: IE
+   Technical Contact
+      Elmar G&Atilde;&frac14;rtler
+      eg media gmbh
+      info@egmedia.net
+      werner-haas-stra&Atilde;Ÿe 8
+      augsburg, 86163, DE
+      phone: +49.8212082980
+
+   Zone Contact
+      Elmar G&Atilde;&frac14;rtler
+      eg media gmbh
+      info@egmedia.net
+      werner-haas-stra&Atilde;Ÿe 8
+      augsburg, 86163, DE
+      phone: +49.8212082980
+
+   Record expires on: 2012-03-01 06:53:43
+
+   Domain servers in listed order:
+
+      ns1.egmdomains.de 193.254.189.162
+      ns2.egmdomains.de 83.243.59.34
+
+
+

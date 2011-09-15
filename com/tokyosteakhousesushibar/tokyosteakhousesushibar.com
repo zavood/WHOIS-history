@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: YVGC.COM
+   Domain Name: TOKYOSTEAKHOUSESUSHIBAR.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS85.WORLDNIC.COM
-   Name Server: NS86.WORLDNIC.COM
+   Name Server: NS19.WORLDNIC.COM
+   Name Server: NS20.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 23-dec-2010
-   Creation Date: 07-oct-1998
-   Expiration Date: 06-oct-2016
+   Updated Date: 12-nov-2010
+   Creation Date: 31-oct-2006
+   Expiration Date: 31-oct-2016
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:16:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:14:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: yvgc.com
+Whois Query: tokyosteakhousesushibar.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:06:56 EDT 2011
+Date and Time of Query: Wed Sep 14 22:04:44 EDT 2011
 Reason Code: IE

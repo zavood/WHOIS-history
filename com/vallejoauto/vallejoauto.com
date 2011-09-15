@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: YVGC.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS85.WORLDNIC.COM
-   Name Server: NS86.WORLDNIC.COM
+   Domain Name: VALLEJOAUTO.COM
+   Registrar: FABULOUS.COM PTY LTD.
+   Whois Server: whois.fabulous.com
+   Referral URL: http://www.fabulous.com
+   Name Server: NS1.OCTANEDNS.COM
+   Name Server: NS2.OCTANEDNS.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 23-dec-2010
-   Creation Date: 07-oct-1998
-   Expiration Date: 06-oct-2016
+   Updated Date: 22-aug-2011
+   Creation Date: 21-aug-2004
+   Expiration Date: 21-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:16:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:14:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +52,36 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+vallejoauto.com is FOR SALE.
+Please visit www.vallejoauto.com for price and purchasing.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain vallejoauto.com:
+  Protopixel Pty Ltd
+  P O Box 757
+  Fortitude Valley, QLD 4006 AU
 
-http://www.networksolutions.com/whois/index.jhtml
+Administrative contact:
+Technical contact:
+Billing contact:
+  Protopixel Pty Ltd
+  Domain Hostmaster
+  domain_hostmaster@protopixel.com
+  P O Box 757
+  Fortitude Valley, QLD 4006 AU
+  Phone: +61.73007005
+  Fax: +61.73007001
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Record dates:
+  Record created on: 2004-08-22 01:27:45 UTC
+  Record modified on: 2010-08-24 11:49:18 UTC
+  Record expires on: 2011-08-21 UTC
 
-Whois Query: yvgc.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:06:56 EDT 2011
-Reason Code: IE
+Nameservers:
+  ns2.octanedns.com:
+    208.122.226.214
+  ns1.octanedns.com:
+    208.122.229.18
+
+Note: Automated collection of data from this database is strictly prohibited.
+
