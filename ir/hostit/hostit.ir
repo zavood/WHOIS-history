@@ -1,0 +1,30 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'hostit.ir'
+
+
+domain:		hostit.ir
+ascii:		hostit.ir
+remarks:	(Domain Holder) Afshin Ansari
+remarks:	(Domain Holder Address) No. 16, 4th Alley. Shah Nazari St., Madar Sq., Mirdamad St.,, Tehran, Tehran, IR
+holder-c:	aa328-irnic
+admin-c:	aa328-irnic
+tech-c:		aa328-irnic
+nserver:	web1.server-it.net
+nserver:	web2.server-it.net
+last-updated:	2011-08-23
+source:		IRNIC # Filtered
+
+nic-hdl:	aa328-irnic
+person:		Afshin Ansari
+e-mail:		shakh_ir@yahoo.com
+address:	No. 16, 4th Alley. Shah Nazari St., Madar Sq., Mirdamad St.,, Tehran, Tehran, IR
+phone:		+989125214395
+source:		IRNIC # Filtered
+

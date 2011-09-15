@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; aol.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      aol.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    AFSE1-FRNIC
+admin-c:     RSD20-FRNIC
+tech-c:      RSD15-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL644-FRNIC
+registrar:   MELBOURNE IT LIMITED
+anniversary: 09/06
+created:     11/03/1996
+last-update: 27/05/2009
+source:      FRNIC
+
+ns-list:     NSL644-FRNIC
+nserver:     dns-01.ns.aol.com
+nserver:     dns-02.ns.aol.com
+source:      FRNIC
+
+registrar:   MELBOURNE IT LIMITED
+type:        Isp Option 1
+address:     Level 2
+address:     120 King St
+address:     3000 MELBOURNE, VICTORIA
+country:     AU
+phone:       +61 3 8624 2400
+fax-no:      +61 3 8624 2499
+e-mail:      admin@melbourneitdbs.com
+website:     http://www.melbourneit.com.au
+anonymous:   NO
+registered:  16/03/2007
+source:      FRNIC
+
+nic-hdl:     RSD15-FRNIC
+type:        ROLE
+contact:     Reggie Ster Doughmane
+address:     AOL
+address:     22000 AOL Way
+address:     20166 Dulles, Va
+country:     US
+e-mail:      domains@aol.net
+admin-c:     NG213-FRNIC
+tech-c:      VD128-FRNIC
+changed:     27/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     RSD20-FRNIC
+type:        PERSON
+contact:     Reggie Ster Doughmane
+address:     AOL France
+address:     115-123, avenue Charles de Gaulle
+address:     92525 Neuilly-sur-Seine Cedex
+country:     FR
+phone:       +33 1 72 25 00 00
+e-mail:      domains@aol.net
+changed:     27/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AFSE1-FRNIC
+type:        ORGANIZATION
+contact:     AOL FRANCE SOCIETE EN NOM COLLECTIF
+address:     115-123, avenue Charles de Gaulle
+address:     92525 Neuilly-sur-Seine
+country:     FR
+phone:       +33 1 72 25 00 00
+e-mail:      domains@aol.net
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
