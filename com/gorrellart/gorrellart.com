@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEAMEARTH.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: AUTH00.NS.UU.NET
-   Name Server: AUTH100.NS.UU.NET
+   Domain Name: GORRELLART.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: NS51.1AND1.COM
+   Name Server: NS52.1AND1.COM
    Status: clientTransferProhibited
-   Updated Date: 27-apr-2009
-   Creation Date: 26-oct-1999
-   Expiration Date: 26-oct-2012
+   Updated Date: 18-mar-2010
+   Creation Date: 17-nov-2003
+   Expiration Date: 17-nov-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:22:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:14:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,36 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+Gorrell, Robert
+    Robert P. Gorrell Jr.
+   304 Long Lane
+   Richmond, VA 23221
+   US
 
-http://www.networksolutions.com/whois/index.jhtml
+   Domain Name: GORRELLART.COM
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Administrative Contact:
+      Gorrell, Robert		GorrellArt@aol.com
+       Robert P. Gorrell Jr.
+      304 Long Lane
+      Richmond, VA 23221
+      US
+      804-254-2882
 
-Whois Query: teamearth.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 12:13:31 EDT 2011
-Reason Code: IE
+
+   Record expires on 17-Nov-2014.
+   Record created on 17-Nov-2003.
+   Database last updated on 15-Sep-2011 12:04:21 EDT.
+
+   Domain servers in listed order:
+
+   NS51.1AND1.COM               74.208.2.8
+   NS52.1AND1.COM               74.208.3.7
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+

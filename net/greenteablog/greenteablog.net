@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEAMEARTH.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: AUTH00.NS.UU.NET
-   Name Server: AUTH100.NS.UU.NET
+   Domain Name: GREENTEABLOG.NET
+   Registrar: MONIKER ONLINE SERVICES, INC.
+   Whois Server: whois.moniker.com
+   Referral URL: http://www.moniker.com
+   Name Server: NS1.MONIKERDNS.NET
+   Name Server: NS2.MONIKERDNS.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 27-apr-2009
-   Creation Date: 26-oct-1999
-   Expiration Date: 26-oct-2012
+   Status: clientUpdateProhibited
+   Updated Date: 25-aug-2011
+   Creation Date: 04-aug-2010
+   Expiration Date: 04-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:22:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:19:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +53,27 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Moniker Whois Server Version 2.0
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+The Data in Moniker's WHOIS database
+is provided for information purposes only, and is
+designed to assist persons in obtaining information
+related to domain name registration records.
+Moniker does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you
+will use this Data only for lawful purposes and
+that, under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam); or
+(2) enable high volume, automated, electronic
+processes that apply to Moniker (or its
+systems). Moniker reserves the right
+to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
 
-http://www.networksolutions.com/whois/index.jhtml
+No Match
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: teamearth.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 12:13:31 EDT 2011
-Reason Code: IE
+

@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TEAMEARTH.COM
+   Domain Name: TRADINGMARKETS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: AUTH00.NS.UU.NET
-   Name Server: AUTH100.NS.UU.NET
+   Name Server: NS1.EASYDNS.COM
+   Name Server: NS2.EASYDNS.COM
+   Name Server: NS3.EASYDNS.ORG
+   Name Server: NS6.EASYDNS.NET
    Status: clientTransferProhibited
-   Updated Date: 27-apr-2009
-   Creation Date: 26-oct-1999
-   Expiration Date: 26-oct-2012
+   Updated Date: 04-jan-2011
+   Creation Date: 08-jul-1999
+   Expiration Date: 07-dec-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:22:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:16:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +69,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: teamearth.com
+Whois Query: tradingmarkets.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 12:13:31 EDT 2011
+Date and Time of Query: Thu Sep 15 12:12:32 EDT 2011
 Reason Code: IE
