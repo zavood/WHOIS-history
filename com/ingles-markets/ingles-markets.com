@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 15-dec-1997
    Expiration Date: 14-dec-2017
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 04:54:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:53:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -112,7 +112,7 @@ Ingles Markets, Incorporated
 
    Record expires on 14-Dec-2017.
    Record created on 15-Dec-1997.
-   Database last updated on 13-Sep-2011 00:50:51 EDT.
+   Database last updated on 15-Sep-2011 01:43:29 EDT.
 
    Domain servers in listed order:
 

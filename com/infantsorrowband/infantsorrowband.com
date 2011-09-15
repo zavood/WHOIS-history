@@ -5,25 +5,24 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SKY.COM
+   Domain Name: INFANTSORROWBAND.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: A4.NSTLD.COM
-   Name Server: F4.NSTLD.COM
-   Name Server: G4.NSTLD.COM
-   Name Server: H4.NSTLD.COM
-   Name Server: J4.NSTLD.COM
-   Name Server: K4.NSTLD.COM
-   Name Server: L4.NSTLD.COM
-   Name Server: NS0.ISP.SKY.COM
-   Name Server: NS1.ISP.SKY.COM
+   Name Server: NS1.NETBCP.COM
+   Name Server: NS2.NETBCP.NET
+   Name Server: PDNS1.ULTRADNS.NET
+   Name Server: PDNS2.ULTRADNS.NET
+   Name Server: PDNS3.ULTRADNS.ORG
+   Name Server: PDNS4.ULTRADNS.ORG
+   Name Server: PDNS5.ULTRADNS.INFO
+   Name Server: PDNS6.ULTRADNS.CO.UK
    Status: clientTransferProhibited
-   Updated Date: 01-apr-2011
-   Creation Date: 31-mar-1988
-   Expiration Date: 01-apr-2021
+   Updated Date: 07-jan-2011
+   Creation Date: 24-jan-2008
+   Expiration Date: 24-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:52:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:51:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -81,21 +80,20 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about SKY.COM
-&lt;a href=&quot;http://www.aboutus.org/SKY.COM&quot;&gt;AboutUs: SKY.COM &lt;/a&gt;
+Visit AboutUs.org for more information about INFANTSORROWBAND.COM
+&lt;a href=&quot;http://www.aboutus.org/INFANTSORROWBAND.COM&quot;&gt;AboutUs: INFANTSORROWBAND.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-British Sky Broadcasting Group Plc
-   ATTN SKY.COM
-   care of Network Solutions
-   PO Box 459
-   Drums, PA.  US  18222
+Universal City Studios - UPG Domains
+   100 Universal City Plaza
+   2160/8H
+   Universal City, CA 91608
+   US
 
-
-   Domain Name: SKY.COM
+   Domain Name: INFANTSORROWBAND.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -103,36 +101,36 @@ British Sky Broadcasting Group Plc
    Learn more at http://www.NetworkSolutions.com/
    ------------------------------------------------------------------------
 
-   Administrative Contact, Technical Contact:
-      British Sky Broadcasting Group Plc		fr3xh2be8jn@networksolutionsprivateregistration.com
-      ATTN SKY.COM
-      care of Network Solutions
-      PO Box 459
-      Drums, PA 18222
+   Administrative Contact:
+      Universal City Studios - UPG Domains		upgdomains@nbcuni.com
+      100 Universal City Plaza
+      2160/8H
+      Universal City, CA 91608
       US
-      570-708-8780
+      818-777-1000
+
+   Technical Contact:
+      Universal City Studios - UPG Domains Tech		upgdomainstech@nbcuni.com
+      100 Universal City Plaza
+      1360/4
+      Universal City, CA 91608
+      US
+      818-777-1000
 
 
-   Record expires on 01-Apr-2021.
-   Record created on 31-Mar-1988.
-   Database last updated on 15-Sep-2011 01:47:36 EDT.
+   Record expires on 24-Jan-2012.
+   Record created on 24-Jan-2008.
+   Database last updated on 15-Sep-2011 01:41:24 EDT.
 
    Domain servers in listed order:
 
-   NS0.ISP.SKY.COM
-   NS1.ISP.SKY.COM
-   A4.NSTLD.COM                 69.36.158.33
-   F4.NSTLD.COM                 192.35.51.33
-   G4.NSTLD.COM                 192.42.93.33
-   H4.NSTLD.COM                 192.54.112.33
-   J4.NSTLD.COM                 192.48.79.33
-   K4.NSTLD.COM                 192.52.178.33
-   L4.NSTLD.COM                 192.41.162.33
-
-This listing is a Network Solutions Private Registration. Mail
-correspondence to this address must be sent via USPS Express Mail(TM) or
-USPS Certified Mail(R); all other mail will not be processed. Be sure to
-include the registrant's domain name in the address.
-
+   PDNS1.ULTRADNS.NET           204.74.108.1
+   PDNS2.ULTRADNS.NET           204.74.109.1
+   PDNS3.ULTRADNS.ORG           199.7.68.1
+   PDNS4.ULTRADNS.ORG           199.7.69.1
+   PDNS5.ULTRADNS.INFO          204.74.114.1
+   PDNS6.ULTRADNS.CO.UK
+   NS1.NETBCP.COM
+   NS2.NETBCP.NET
 
 

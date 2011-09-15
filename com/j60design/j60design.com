@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IMG18.COM
+   Domain Name: J60DESIGN.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DNS120.NET
-   Name Server: NS2.DNS120.NET
+   Name Server: NS1.OAKDNS.NET
+   Name Server: NS2.OAKDNS.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-nov-2010
-   Creation Date: 09-jan-2010
-   Expiration Date: 09-jan-2012
+   Updated Date: 08-aug-2011
+   Creation Date: 07-aug-2008
+   Expiration Date: 07-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:52:05 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   yuan yuan
+   j60design
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: IMG18.COM
+   Domain Name: J60DESIGN.COM
 
    Domain servers in listed order:
-      NS1.DNS120.NET
-      NS2.DNS120.NET
+      NS1.OAKDNS.NET
+      NS2.OAKDNS.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IMG18.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=J60DESIGN.COM

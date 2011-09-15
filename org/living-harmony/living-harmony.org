@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101478065-LROR
+Domain Name:LIVING-HARMONY.ORG
+Created On:19-Sep-2003 17:11:24 UTC
+Last Updated On:04-Aug-2011 18:09:00 UTC
+Expiration Date:19-Sep-2012 17:11:24 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31436104
+Registrant Name:Erika Salloux
+Registrant Organization:Living Harmony, LLC
+Registrant Street1:24 Harvey St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cambridge
+Registrant State/Province:Massachusetts
+Registrant Postal Code:02140
+Registrant Country:US
+Registrant Phone:+1.6179450704
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:erika@living-harmony.org
+Admin ID:CR31436106
+Admin Name:Erika Salloux
+Admin Organization:Living Harmony, LLC
+Admin Street1:24 Harvey St.
+Admin Street2:
+Admin Street3:
+Admin City:Cambridge
+Admin State/Province:Massachusetts
+Admin Postal Code:02140
+Admin Country:US
+Admin Phone:+1.6179450704
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:erika@living-harmony.org
+Tech ID:CR31436105
+Tech Name:Erika Salloux
+Tech Organization:Living Harmony, LLC
+Tech Street1:24 Harvey St.
+Tech Street2:
+Tech Street3:
+Tech City:Cambridge
+Tech State/Province:Massachusetts
+Tech Postal Code:02140
+Tech Country:US
+Tech Phone:+1.6179450704
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:erika@living-harmony.org
+Name Server:NS43.DOMAINCONTROL.COM
+Name Server:NS44.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

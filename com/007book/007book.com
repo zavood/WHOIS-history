@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IMG18.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DNS120.NET
-   Name Server: NS2.DNS120.NET
+   Domain Name: 007BOOK.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: BUZZ.SOFTNET.SI
+   Name Server: INFONOVA1.INFONOVA.SI
    Status: clientDeleteProhibited
-   Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-nov-2010
-   Creation Date: 09-jan-2010
-   Expiration Date: 09-jan-2012
+   Updated Date: 15-feb-2011
+   Creation Date: 14-feb-2001
+   Expiration Date: 14-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:52:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:51:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
 Registrant:
-   yuan yuan
+   Miha Amon
+   Mokrska 32
+   Ljubljana, /  1000
+   SI
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: IMG18.COM
+   Registrar: DOTSTER
+   Domain Name: 007BOOK.COM
+      Created on: 14-FEB-01
+      Expires on: 14-FEB-12
+      Last Updated on: 25-JAN-11
+
+   Administrative Contact:
+      Amon, Miha  miha.amon@bigfoot.com
+      Mokrska 32
+      Ljubljana, /  1000
+      SI
+      +386 1 429 28 70
+      +386 1 429 28 75
+
+   Technical Contact:
+      Amon, Miha  miha.amon@bigfoot.com
+      Mokrska 32
+      Ljubljana, /  1000
+      SI
+      +386 1 429 28 70
+      +386 1 429 28 75
+
 
    Domain servers in listed order:
-      NS1.DNS120.NET
-      NS2.DNS120.NET
+      BUZZ.SOFTNET.SI
+      INFONOVA1.INFONOVA.SI
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IMG18.COM
+End of Whois Information

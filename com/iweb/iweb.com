@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IMG18.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DNS120.NET
-   Name Server: NS2.DNS120.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: IWEB.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: MY.PRIVATEDNS.COM
+   Name Server: YOUR.PRIVATEDNS.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 15-nov-2010
-   Creation Date: 09-jan-2010
-   Expiration Date: 09-jan-2012
+   Updated Date: 04-apr-2011
+   Creation Date: 29-mar-1999
+   Expiration Date: 29-mar-2021
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:52:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:52:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... iweb.com
+  Creation Date........ 1999-03-29
+  Registration Date.... 2007-08-20
+  Expiry Date.......... 2021-03-29
+  Organisation Name.... Leclair, Martin
+  Organisation Address. iWeb Technologies Inc.
+  Organisation Address. 3185 Hochelaga
+  Organisation Address. Montreal
+  Organisation Address. H1W 1G4
+  Organisation Address. Qc
+  Organisation Address. CANADA
+
+Admin Name........... Leclair Martin
+  Admin Address........ iWeb Technologies Inc.
+  Admin Address........ 3185 Hochelaga
+  Admin Address........ Montreal
+  Admin Address........ H1W 1G4
+  Admin Address........ Qc
+  Admin Address........ CANADA
+  Admin Email.......... martin_ml@iweb.ca
+  Admin Phone.......... +1.5142864242
+  Admin Fax............
+
+Tech Name............ Leclair Martin
+  Tech Address......... iWeb Technologies Inc.
+  Tech Address......... 3185 Hochelaga
+  Tech Address......... Montreal
+  Tech Address......... H1W 1G4
+  Tech Address......... Qc
+  Tech Address......... CANADA
+  Tech Email........... martin_ml@iweb.ca
+  Tech Phone........... +1.5142864242
+  Tech Fax.............
+  Name Server.......... MY.PRIVATEDNS.COM
+  Name Server.......... YOUR.PRIVATEDNS.COM
 
 
-Registrant:
-   yuan yuan
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: IMG18.COM
-
-   Domain servers in listed order:
-      NS1.DNS120.NET
-      NS2.DNS120.NET
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IMG18.COM

@@ -1,0 +1,76 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 07:53:40 2011
+
+domain:       colorline.cz
+registrant:   SB:IGNUM-S35537-6G6
+admin-c:      SB:158-CZ-ITED
+nsset:        TELE3
+registrar:    REG-TELE3
+status:       Expired
+registered:   08.09.2006 08:55:00
+changed:      18.12.2008 16:20:13
+expire:       08.09.2011
+
+contact:      SB:IGNUM-S35537-6G6
+org:          Colorline s.r.o.
+name:         Jaroslav Fi&Aring;&iexcl;er
+address:      Jablonck&Atilde;&copy;ho 1
+address:      Plze&Aring;ˆ
+address:      326 00
+address:      CZ
+e-mail:       colorline@centrum.cz
+registrar:    REG-IGNUM
+created:      06.09.2006 19:15:00
+
+contact:      SB:158-CZ-ITED
+org:          Tom&Atilde;&iexcl;&Aring;&iexcl; Emresz - ITED
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Emresz
+address:      Na piskach 16
+address:      Praha 6
+address:      16000
+address:      CZ
+e-mail:       info@o-nas.net
+registrar:    REG-IGNUM
+created:      24.03.2007 19:45:00
+
+nsset:        TELE3
+nserver:      ns1.tele3.cz (81.0.217.111, 2001:1528:123::d01)
+nserver:      ns2.tele3.cz (89.187.135.111, 2a01:5f0:100c::d02)
+nserver:      ns3.tele3.cz (88.146.242.181, 2a01:5e0:26::d03)
+nserver:      ns4.tele3.us
+tech-c:       TELE3
+registrar:    REG-TELE3
+created:      06.04.2008 13:49:05
+changed:      12.05.2011 23:40:54
+
+contact:      TELE3
+org:          TELE3 s.r.o.
+name:         Todor Dimitrov
+address:      Vinohradska 184
+address:      Praha 3
+address:      13052
+address:      CZ
+phone:        +420.777111158
+e-mail:       info@tele3.cz
+registrar:    REG-TELE3
+created:      27.03.2008 10:10:05
+changed:      04.01.2011 09:36:54
+
+

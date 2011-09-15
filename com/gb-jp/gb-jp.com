@@ -5,19 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IMG18.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DNS120.NET
-   Name Server: NS2.DNS120.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 15-nov-2010
-   Creation Date: 09-jan-2010
-   Expiration Date: 09-jan-2012
+   Domain Name: GB-JP.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: DNS0.HETEML.JP
+   Name Server: DNS1.HETEML.JP
+   Status: ok
+   Updated Date: 22-mar-2011
+   Creation Date: 02-jun-2006
+   Expiration Date: 02-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:52:05 UTC &lt;&lt;&lt;
 
@@ -54,37 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+GMO Internet, Inc. whois server 2.0
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
+Domain Handle:
+Domain Name: gb-jp.com
+Created On: 2006-06-03 11:33:00.0
+Last Updated On: 2011-03-22 19:25:31.0
+Expiration Date: 2012-06-03 02:33:00.0
+Status: ACTIVE
+Registrant Name: kentarou inoue
+Registrant Organization: Great Beans Co., Ltd.
+Registrant Street1: 2-1-15 Imaizumi Chuo-ku
+Registrant Street2:
+Registrant City: Fukuoka-shi
+Registrant State: Fukuoka
+Registrant Postal Code: 8100022
+Registrant Country: JP
+Registrant Phone: 092-732-3590
+Registrant Fax:
+Registrant Email: sv@gb-jp.com
+Admin Name: kentaro inoue
+Admin Organization: kentaro inoue
+Admin Street1: 2-1-15 Imaizumi Chuo-ku
+Admin Street2:
+Admin City: Fukuoka-shi
+Admin State: Fukuoka
+Admin Postal Code: 8100022
+Admin Country: JP
+Admin Phone: 092-732-3590
+Admin Fax:
+Admin Email: sv@gb-jp.com
+Billing Name: kentaro inoue
+Billing Organization: kentaro inoue
+Billing Street1: 2-1-15 Imaizumi Chuo-ku
+Billing Street2:
+Billing City: Fukuoka-shi
+Billing State: Fukuoka
+Billing Postal Code: 8100022
+Billing Country: JP
+Billing Phone: 092-732-3590
+Billing Fax:
+Billing Email: sv@gb-jp.com
+Tech Name: kentaro inoue
+Tech Organization: kentaro inoue
+Tech Street1: 2-1-15 Imaizumi Chuo-ku
+Tech Street2:
+Tech City: Fukuoka-shi
+Tech State: Fukuoka
+Tech Postal Code: 8100022
+Tech Country: JP
+Tech Phone: 092-732-3590
+Tech Fax:
+Tech Email: sv@gb-jp.com
+Name Server: dns0.heteml.jp
+Name Server: dns1.heteml.jp
 
-Registrant:
-   yuan yuan
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: IMG18.COM
-
-   Domain servers in listed order:
-      NS1.DNS120.NET
-      NS2.DNS120.NET
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IMG18.COM

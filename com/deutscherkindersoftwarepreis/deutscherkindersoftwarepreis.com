@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IMG18.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS1.DNS120.NET
-   Name Server: NS2.DNS120.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 15-nov-2010
-   Creation Date: 09-jan-2010
-   Expiration Date: 09-jan-2012
+   Domain Name: DEUTSCHERKINDERSOFTWAREPREIS.COM
+   Registrar: VARIOMEDIA AG DBA PUREDOMAIN.COM
+   Whois Server: whois.puredomain.com
+   Referral URL: http://www.puredomain.com
+   Name Server: NS1.PLATTFORM-DOMAINS.DE
+   Name Server: NS2.PLATTFORM-DOMAINS.DE
+   Status: ok
+   Updated Date: 20-jul-2011
+   Creation Date: 19-jul-2002
+   Expiration Date: 19-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:52:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:53:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,57 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+Domain:       deutscherkindersoftwarepreis.com
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Created:      2009-02-02
+Last updated: 2009-02-02
+Expires:
+
+[Registrant]
+Organization: Family Media GmbH &amp; Co KG
+First name:   Marko
+Last name:    Petersen
+Street1:      Schnewlinstr. 6
+Street2:
+City:         Freiburg
+State:        n/a
+Postal code:  79098
+Country:      DE
+Phone:        +49-761-70578511
+Fax:
+Email:        online@familymedia.de
+
+[Admin]
+Organization: Family Media GmbH &amp; Co KG
+First name:   Marko
+Last name:    Petersen
+Street1:      Schnewlinstr. 6
+Street2:
+City:         Freiburg
+State:        n/a
+Postal code:  79098
+Country:      DE
+Phone:        +49-761-70578511
+Fax:
+Email:        online@familymedia.de
+
+[Tech]
+Organization: Plattform GmbH
+First name:   Tino
+Last name:    Sch&Atilde;&para;llhorn
+Street1:      Gabelsbergerstr. 5
+Street2:
+City:         Mannheim
+State:        n/a
+Postal code:  68165
+Country:      DE
+Phone:        +49-621-4255882
+Fax:          +49-621-4255572
+Email:        t.schoellhorn@plattform-gmbh.de
+
+[Nameservers]
+ns1.plattform-domains.de
+ns2.plattform-domains.de
 
 
-Registrant:
-   yuan yuan
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: IMG18.COM
-
-   Domain servers in listed order:
-      NS1.DNS120.NET
-      NS2.DNS120.NET
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IMG18.COM
+Query 1 of 100 allowed queries per hour.

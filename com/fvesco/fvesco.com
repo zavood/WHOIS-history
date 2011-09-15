@@ -5,25 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SKY.COM
+   Domain Name: FVESCO.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: A4.NSTLD.COM
-   Name Server: F4.NSTLD.COM
-   Name Server: G4.NSTLD.COM
-   Name Server: H4.NSTLD.COM
-   Name Server: J4.NSTLD.COM
-   Name Server: K4.NSTLD.COM
-   Name Server: L4.NSTLD.COM
-   Name Server: NS0.ISP.SKY.COM
-   Name Server: NS1.ISP.SKY.COM
+   Name Server: DNS.BITWAY.COM
+   Name Server: NS1.INDRA.COM
+   Name Server: NS2.INDRA.COM
    Status: clientTransferProhibited
-   Updated Date: 01-apr-2011
-   Creation Date: 31-mar-1988
-   Expiration Date: 01-apr-2021
+   Updated Date: 02-dec-2008
+   Creation Date: 11-dec-1998
+   Expiration Date: 10-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:52:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:53:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -81,21 +75,19 @@ Get a FREE domain name registration, transfer, or renewal with any annual hostin
 
 http://www.networksolutions.com
 
-Visit AboutUs.org for more information about SKY.COM
-&lt;a href=&quot;http://www.aboutus.org/SKY.COM&quot;&gt;AboutUs: SKY.COM &lt;/a&gt;
+Visit AboutUs.org for more information about FVESCO.COM
+&lt;a href=&quot;http://www.aboutus.org/FVESCO.COM&quot;&gt;AboutUs: FVESCO.COM &lt;/a&gt;
 
 
 
 
 Registrant:
-British Sky Broadcasting Group Plc
-   ATTN SKY.COM
-   care of Network Solutions
-   PO Box 459
-   Drums, PA.  US  18222
+Film Video Equipment Service
+   800 S Jason St
+   Denver, CO 80223
+   US
 
-
-   Domain Name: SKY.COM
+   Domain Name: FVESCO.COM
 
    ------------------------------------------------------------------------
    Promote your business to millions of viewers for only $1 a month
@@ -104,35 +96,21 @@ British Sky Broadcasting Group Plc
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      British Sky Broadcasting Group Plc		fr3xh2be8jn@networksolutionsprivateregistration.com
-      ATTN SKY.COM
-      care of Network Solutions
-      PO Box 459
-      Drums, PA 18222
+      Film Video Equipment Service		dschneider@fvesco.com
+      800 S Jason St
+      Denver, CO 80223
       US
-      570-708-8780
+      303-778-8616
 
 
-   Record expires on 01-Apr-2021.
-   Record created on 31-Mar-1988.
-   Database last updated on 15-Sep-2011 01:47:36 EDT.
+   Record expires on 10-Dec-2011.
+   Record created on 11-Dec-1998.
+   Database last updated on 15-Sep-2011 01:48:39 EDT.
 
    Domain servers in listed order:
 
-   NS0.ISP.SKY.COM
-   NS1.ISP.SKY.COM
-   A4.NSTLD.COM                 69.36.158.33
-   F4.NSTLD.COM                 192.35.51.33
-   G4.NSTLD.COM                 192.42.93.33
-   H4.NSTLD.COM                 192.54.112.33
-   J4.NSTLD.COM                 192.48.79.33
-   K4.NSTLD.COM                 192.52.178.33
-   L4.NSTLD.COM                 192.41.162.33
-
-This listing is a Network Solutions Private Registration. Mail
-correspondence to this address must be sent via USPS Express Mail(TM) or
-USPS Certified Mail(R); all other mail will not be processed. Be sure to
-include the registrant's domain name in the address.
-
+   NS1.INDRA.COM                209.169.0.1
+   NS2.INDRA.COM                209.169.31.1
+   DNS.BITWAY.COM
 
 

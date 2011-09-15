@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D123902597-LROR
+Domain Name:XYSY.ORG
+Created On:06-Jun-2006 03:49:04 UTC
+Last Updated On:22-Jun-2011 08:20:12 UTC
+Expiration Date:06-Jun-2012 03:49:04 UTC
+Sponsoring Registrar:Web Commerce Communications Limited dba WebNic.cc (R140-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:wn-r192490587
+Registrant Name:xysy xysy
+Registrant Organization:xysy
+Registrant Street1:xiangfan changhong street KINbulding NO.
+Registrant Street2:11 room3
+Registrant Street3:
+Registrant City:XIANGFAN
+Registrant State/Province:Hubei
+Registrant Postal Code:441003
+Registrant Country:CN
+Registrant Phone:+86.7103276355
+Registrant Phone Ext.:
+Registrant FAX:+86.7103276355
+Registrant FAX Ext.:
+Registrant Email:078138@163.com
+Admin ID:wn-a192490587
+Admin Name:duminghao duminghao
+Admin Organization:duminghao
+Admin Street1:xiangfan changhong street KINbulding NO.
+Admin Street2:11 room3
+Admin Street3:
+Admin City:XIANGFAN
+Admin State/Province:Hubei
+Admin Postal Code:441003
+Admin Country:CN
+Admin Phone:+86.7103276355
+Admin Phone Ext.:
+Admin FAX:+86.7103276355
+Admin FAX Ext.:
+Admin Email:078138@163.com
+Tech ID:wn-t192490587
+Tech Name:FUL FUL
+Tech Organization:FUL
+Tech Street1:xiangfan changhong street KINbulding NO.
+Tech Street2:11 room3
+Tech Street3:
+Tech City:XIANGFAN
+Tech State/Province:Hubei
+Tech Postal Code:441003
+Tech Country:CN
+Tech Phone:+86.7103276355
+Tech Phone Ext.:
+Tech FAX:+86.7103276355
+Tech FAX Ext.:
+Tech Email:078138@163.com
+Name Server:NS1.CNOLNIC.NET
+Name Server:NS2.CNOLNIC.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
