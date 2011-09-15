@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104313750-LROR
+Domain Name:PLANETNOVELL.ORG
+Created On:06-May-2004 17:39:56 UTC
+Last Updated On:06-Aug-2011 15:27:05 UTC
+Expiration Date:06-May-2012 17:39:56 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR83110846
+Registrant Name:Maina Bidasaria
+Registrant Street1:E - 801, Safal Parivesh
+Registrant Street2:Prahaladnagar
+Registrant Street3:
+Registrant City:Ahmedabad
+Registrant State/Province:GJ
+Registrant Postal Code:380015
+Registrant Country:IN
+Registrant Phone:+91.9925227520
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:maina.bidasaria@gmail.com
+Admin ID:CR83110852
+Admin Name:Maina Bidasaria
+Admin Street1:E - 801, Safal Parivesh
+Admin Street2:Prahaladnagar
+Admin Street3:
+Admin City:Ahmedabad
+Admin State/Province:GJ
+Admin Postal Code:380015
+Admin Country:IN
+Admin Phone:+91.9925227520
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:maina.bidasaria@gmail.com
+Tech ID:CR83110850
+Tech Name:Maina Bidasaria
+Tech Street1:E - 801, Safal Parivesh
+Tech Street2:Prahaladnagar
+Tech Street3:
+Tech City:Ahmedabad
+Tech State/Province:GJ
+Tech Postal Code:380015
+Tech Country:IN
+Tech Phone:+91.9925227520
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:maina.bidasaria@gmail.com
+Name Server:NS7.CROCWEB.COM
+Name Server:NS8.CROCWEB.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

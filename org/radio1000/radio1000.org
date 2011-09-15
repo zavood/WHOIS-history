@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107363930-LROR
+Domain Name:RADIO1000.ORG
+Created On:02-Sep-2005 20:09:57 UTC
+Last Updated On:03-Aug-2011 21:35:46 UTC
+Expiration Date:02-Sep-2012 20:09:57 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ABM-10489924
+Registrant Name:Anaija Clinton
+Registrant Organization:WCCD AM Radio 1000
+Registrant Street1:3130 Mayfield Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cleveland Heights
+Registrant State/Province:OH
+Registrant Postal Code:44118
+Registrant Country:US
+Registrant Phone:+1.216320000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:anaijaclinton@yahoo.com
+Admin ID:ABM-10489924
+Admin Name:Anaija Clinton
+Admin Organization:WCCD AM Radio 1000
+Admin Street1:3130 Mayfield Rd
+Admin Street2:
+Admin Street3:
+Admin City:Cleveland Heights
+Admin State/Province:OH
+Admin Postal Code:44118
+Admin Country:US
+Admin Phone:+1.216320000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:anaijaclinton@yahoo.com
+Tech ID:ABM-10489924
+Tech Name:Anaija Clinton
+Tech Organization:WCCD AM Radio 1000
+Tech Street1:3130 Mayfield Rd
+Tech Street2:
+Tech Street3:
+Tech City:Cleveland Heights
+Tech State/Province:OH
+Tech Postal Code:44118
+Tech Country:US
+Tech Phone:+1.216320000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:anaijaclinton@yahoo.com
+Name Server:NS1.USAWEBSITE.NET
+Name Server:NS2.USAWEBSITE.NET
+Name Server:NS3.USAWEBSITE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

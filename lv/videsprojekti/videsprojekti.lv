@@ -1,0 +1,35 @@
+[Domain]
+Domain: videsprojekti.lv
+Status: active
+Changed: 2009-09-23T17:22:36+03:00
+
+[Holder]
+Type: Legal person
+Name: Valsts SIA ?Vides projekti?
+Email: web@apollo.lv
+Fax: +371-67050114
+Phone: 177
+Address: Pils iela 17, Riga, LV-1050, Latvia
+RegNr: 40003349929
+
+[Tech]
+Type: Natural person
+Email: web@apollo.lv
+Fax: +371-67050114
+Phone: 177
+
+[Registrar]
+Type: Legal person
+Name: Lattelecom, SIA
+Email: dns.apollo@lattelecom.lv
+Fax: +371-67055774
+Phone: +371 67324799
+Address: Lattelecom Gramatvedibas Norekinu grupai, G.Astras iela 2, Riga, Latvija
+RegNr: 40003052786
+
+[Nservers]
+Nserver: ns.apollo.lv
+Nserver: ns2.apollo.lv
+
+[Whois]
+Updated: 2011-09-15T05:12:24.714284+00:00

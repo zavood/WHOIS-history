@@ -3,17 +3,16 @@
 % http://www.ripn.net/about/servpol.html#3.2 (in Russian)
 % http://www.ripn.net/about/en/servpol.html#3.2 (in English).
 
-domain:     AGAVA.RU
-nserver:    ns1.agava.net.ru.
-nserver:    ns2.agava.net.ru.
+domain:     DOM43.RU
+nserver:    ns1.hc.ru.
+nserver:    ns2.hc.ru.
 state:      REGISTERED, DELEGATED, VERIFIED
-org:        AGAVA Software Ltd.
-phone:      +7 495 7816537
-fax-no:     +7 495 7816537
-e-mail:     domains@agava.com
-registrar:  R01-REG-RIPN
-created:    1999.02.08
-paid-till:  2012.03.01
+org:        Ltd. &quot;Gorod Kirov&quot;
+phone:      +7 8332 645423
+e-mail:     marlen@rntmedia.ru
+registrar:  CENTROHOST-REG-RIPN
+created:    2006.02.27
+paid-till:  2012.02.27
 source:     TCI
 
 Last updated on 2011.09.15 11:23:42 MSK/MSD

@@ -3,17 +3,16 @@
 % http://www.ripn.net/about/servpol.html#3.2 (in Russian)
 % http://www.ripn.net/about/en/servpol.html#3.2 (in English).
 
-domain:     AGAVA.RU
-nserver:    ns1.agava.net.ru.
-nserver:    ns2.agava.net.ru.
+domain:     HUT1.RU
+nserver:    ns1.holm.ru.
+nserver:    ns2.holm.ru.
 state:      REGISTERED, DELEGATED, VERIFIED
-org:        AGAVA Software Ltd.
-phone:      +7 495 7816537
-fax-no:     +7 495 7816537
-e-mail:     domains@agava.com
+org:        Aloe Nettech, Inc
+phone:      +7 123 1234567
+e-mail:     noreply@holm.ru
 registrar:  R01-REG-RIPN
-created:    1999.02.08
-paid-till:  2012.03.01
+created:    2005.01.07
+paid-till:  2012.01.07
 source:     TCI
 
 Last updated on 2011.09.15 11:23:42 MSK/MSD

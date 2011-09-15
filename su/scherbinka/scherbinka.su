@@ -3,15 +3,15 @@
 % http://www.ripn.net/about/servpol.html#3.2 (in Russian)
 % http://www.ripn.net/about/en/servpol.html#3.2 (in English).
 
-domain:     JR1.RU
-nserver:    ns1.redz.ru.
-nserver:    ns2.redz.ru.
-state:      REGISTERED, DELEGATED, VERIFIED
+domain:     SCHERBINKA.SU
+nserver:    dns1.webdrive.ru.
+nserver:    dns2.webdrive.ru.
+state:      REGISTERED, DELEGATED
 person:     Private Person
-e-mail:     dom@redz.ru
-registrar:  REGTIME-REG-RIPN
-created:    2009.12.31
-paid-till:  2011.12.31
+e-mail:     1jump1@mail.ru
+registrar:  RUCENTER-REG-FID
+created:    2008.09.12
+paid-till:  2012.09.12
 source:     TCI
 
 Last updated on 2011.09.15 11:23:42 MSK/MSD

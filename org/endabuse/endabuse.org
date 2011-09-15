@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D56347096-LROR
+Domain Name:ENDABUSE.ORG
+Created On:31-Jan-2001 18:01:06 UTC
+Last Updated On:25-Apr-2011 16:35:02 UTC
+Expiration Date:31-Jan-2012 18:01:06 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0F60B769A1DF253F
+Registrant Name:Lynne Lee
+Registrant Organization:Family Violence Prevention Fund
+Registrant Street1:383 Rhode Island Street, Suite
+Registrant Street2:304
+Registrant Street3:
+Registrant City:San Francisco
+Registrant State/Province:CA
+Registrant Postal Code:94103
+Registrant Country:US
+Registrant Phone:+1.4152528900
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@endabuse.org
+Admin ID:0F60B769A1DF253F
+Admin Name:Lynne Lee
+Admin Organization:Family Violence Prevention Fund
+Admin Street1:383 Rhode Island Street, Suite
+Admin Street2:304
+Admin Street3:
+Admin City:San Francisco
+Admin State/Province:CA
+Admin Postal Code:94103
+Admin Country:US
+Admin Phone:+1.4152528900
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@endabuse.org
+Tech ID:819AE7E5FB47CD00
+Tech Name:Chris Wolz
+Tech Organization:Forum One Communications
+Tech Street1:2200 Mt Vernon Ave
+Tech Street2:
+Tech Street3:
+Tech City:Alexandria
+Tech State/Province:VA
+Tech Postal Code:22301
+Tech Country:US
+Tech Phone:+1.7035481855
+Tech Phone Ext.:
+Tech FAX:+1.7035481855
+Tech FAX Ext.:
+Tech Email:dnsreg@forumone.com
+Name Server:NS1.FASTMETRICS.COM
+Name Server:NS2.FASTMETRICS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
