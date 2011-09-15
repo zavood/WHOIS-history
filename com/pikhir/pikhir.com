@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REFLECTED.NET
+   Domain Name: PIKHIR.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 25-jul-2011
-   Creation Date: 23-aug-2002
-   Expiration Date: 23-aug-2012
+   Updated Date: 10-nov-2010
+   Creation Date: 09-nov-2009
+   Expiration Date: 09-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:38:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:34:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,50 +55,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about reflected.net
-&lt;a href=&quot;http://www.aboutus.org/reflected.net&quot;&gt;AboutUs: reflected.net&lt;/a&gt;
+Visit AboutUs.org for more information about pikhir.com
+&lt;a href=&quot;http://www.aboutus.org/pikhir.com&quot;&gt;AboutUs: pikhir.com&lt;/a&gt;
 
 
-Domain name: reflected.net
-
-Registrant Contact:
-   Reflected Networks, Inc.
-   NA NA ()
-
-   Fax:
-   209 W Jackson
-   Suite 700
-   Chicago, IL 60606
-   US
+Domain name: pikhir.com
 
 Administrative Contact:
-   Reflected Networks, Inc.
-   Domain Administration (hostmaster@reflected.net)
-   +1.8778883800
-   Fax:
-   209 W Jackson
-   Suite 700
-   Chicago, IL 60606
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (yrjvwcgrv@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O pikhir.com
+   Bellevue, WA 98007
    US
 
 Technical Contact:
-   Reflected Networks, Inc.
-   Domain Administration (hostmaster@reflected.net)
-   +1.8778883800
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (yrjvwcgrv@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O pikhir.com
+   Bellevue, WA 98007
+   US
+
+Registrant Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
+
    Fax:
-   209 W Jackson
-   Suite 700
-   Chicago, IL 60606
+   PMB 368, 14150 NE 20th St - F1
+   C/O pikhir.com
+   Bellevue, WA 98007
    US
 
 Status: Locked
 
 Name Servers:
-   NS0.REFLECTED.NET
-   NS1.REFLECTED.NET
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 23 Aug 2002 18:11:37
-Expiration date: 23 Aug 2012 18:11:00
+Creation date: 10 Nov 2009 13:03:00
+Expiration date: 09 Nov 2011 11:06:00
 
 
 

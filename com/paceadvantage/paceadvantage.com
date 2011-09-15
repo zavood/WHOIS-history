@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOTODOBBS.COM
+   Domain Name: PACEADVANTAGE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.FASTZONEFILES.NET
-   Name Server: NS2.FASTZONEFILES.NET
-   Name Server: NS3.FASTZONEFILES.NET
+   Name Server: NS00.NS0.COM
+   Name Server: NS105.PAIR.COM
    Status: clientTransferProhibited
-   Updated Date: 11-aug-2007
-   Creation Date: 17-nov-1999
-   Expiration Date: 17-nov-2013
+   Updated Date: 09-jan-2009
+   Creation Date: 09-feb-1999
+   Expiration Date: 09-feb-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:33:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:36:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: gotodobbs.com
+Whois Query: paceadvantage.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 05:23:57 EDT 2011
+Date and Time of Query: Thu Sep 15 05:26:58 EDT 2011
 Reason Code: IE

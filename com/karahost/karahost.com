@@ -5,20 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MYLUBEMAN.COM
-   Registrar: UK2 GROUP LTD.
-   Whois Server: whois.hostingservicesinc.net
-   Referral URL: http://www.resell.biz
-   Name Server: US2.EARTH.ORDERBOX-DNS.COM
-   Name Server: US2.MARS.ORDERBOX-DNS.COM
-   Name Server: US2.MERCURY.ORDERBOX-DNS.COM
-   Name Server: US2.VENUS.ORDERBOX-DNS.COM
+   Domain Name: KARAHOST.COM
+   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+   Whois Server: whois.PublicDomainRegistry.com
+   Referral URL: http://www.PublicDomainRegistry.com
+   Name Server: FARAKARANET.EARTH.ORDERBOX-DNS.COM
+   Name Server: FARAKARANET.MARS.ORDERBOX-DNS.COM
+   Name Server: FARAKARANET.MERCURY.ORDERBOX-DNS.COM
+   Name Server: FARAKARANET.VENUS.ORDERBOX-DNS.COM
+   Name Server: NS50.KARAHOST.COM
    Status: clientTransferProhibited
-   Updated Date: 05-mar-2010
-   Creation Date: 23-mar-2007
-   Expiration Date: 23-mar-2019
+   Updated Date: 14-may-2011
+   Creation Date: 11-jun-2002
+   Expiration Date: 11-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:36:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:31:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,74 +54,68 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: RESELL.BIZ
-Contact: +1.8778266890
-Website: http://Resell.biz
+Registration Service Provided By: FARAKARANET IT GROUP
+Contact: +98.22650240
+Website: http://www.karait.com
 
-Domain Name: MYLUBEMAN.COM
+Domain Name: KARAHOST.COM
 
 Registrant:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
+    Farakaranet IT Group
+    Mehrdad Sijani        (sijani@fkn.ir)
+    Tehran
+    Tehran
+    Tehran
+    Tehran,12345
+    IR
+    Tel. +98.02188676407
 
-Creation Date: 23-Mar-2007
-Expiration Date: 23-Mar-2019
+Creation Date: 11-Jun-2002
+Expiration Date: 11-Jun-2013
 
 Domain servers in listed order:
-    us2.earth.orderbox-dns.com
-    us2.mars.orderbox-dns.com
-    us2.mercury.orderbox-dns.com
-    us2.venus.orderbox-dns.com
+    farakaranet.earth.orderbox-dns.com
+    farakaranet.mars.orderbox-dns.com
+    farakaranet.mercury.orderbox-dns.com
+    farakaranet.venus.orderbox-dns.com
+    ns50.karahost.com
 
 
 Administrative Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
+    Farakaranet IT Group
+    Mehrdad Sijani        (sijani@fkn.ir)
+    Tehran
+    Tehran
+    Tehran
+    Tehran,12345
+    IR
+    Tel. +98.02188676407
 
 Technical Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
+    Farakaranet IT Group
+    Mehrdad Sijani        (sijani@fkn.ir)
+    Tehran
+    Tehran
+    Tehran
+    Tehran,12345
+    IR
+    Tel. +98.02188676407
 
 Billing Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
+    Farakaranet IT Group
+    Mehrdad Sijani        (sijani@fkn.ir)
+    Tehran
+    Tehran
+    Tehran
+    Tehran,12345
+    IR
+    Tel. +98.02188676407
 
 Status:LOCKED
 	Note: This Domain Name is currently Locked. In this status the domain
 	name cannot be transferred, hijacked, or modified. The Owner of this
 	domain name can easily change this status from their control panel.
 	This feature is provided as a security measure against fraudulent domain name hijacking.
-
-PRIVACYPROTECT.ORG is providing privacy protection services to this domain name to
-protect the owner from spam and phishing attacks. PrivacyProtect.org is not
-responsible for any of the activities associated with this domain name. If you wish
-to report any abuse concerning the usage of this domain name, you may do so at
-http://privacyprotect.org/contact. We have a stringent abuse policy and any
-complaint will be actioned within a short period of time.
 
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
@@ -132,7 +127,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is UK2 Group Ltd..
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 

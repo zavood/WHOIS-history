@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOTODOBBS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.FASTZONEFILES.NET
-   Name Server: NS2.FASTZONEFILES.NET
-   Name Server: NS3.FASTZONEFILES.NET
-   Status: clientTransferProhibited
-   Updated Date: 11-aug-2007
-   Creation Date: 17-nov-1999
-   Expiration Date: 17-nov-2013
+   Domain Name: ROUGHRAPE.COM
+   Registrar: REGTIME LTD.
+   Whois Server: whois.regtime.net
+   Referral URL: http://www.webnames.ru
+   Name Server: NS1.MIKIPORN.BIZ
+   Name Server: NS2.MIKIPORN.BIZ
+   Name Server: NS3.MIKIPORN.BIZ
+   Status: ok
+   Updated Date: 27-jul-2011
+   Creation Date: 18-sep-2008
+   Expiration Date: 18-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:33:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:30:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +52,24 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+% Regtime Ltd. WHOIS server
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain name: roughrape.com
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
 
-http://www.networksolutions.com/whois/index.jhtml
+Name servers:
+    ns1.mikiporn.biz
+    ns2.mikiporn.biz
+    ns3.mikiporn.biz
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Registrar: Regtime Ltd.
+Creation date: 2009-08-12
+Expiration date: 2012-09-18
 
-Whois Query: gotodobbs.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 05:23:57 EDT 2011
-Reason Code: IE
+Registrant:
+    Aleksei Bylin
+    Private person
+
+    For complete domain details go to:
+    http://www.webnames.ru/scripts/who.pl?domain=roughrape.com
+

@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REFLECTED.NET
+   Domain Name: LOCKEDONMEDIA.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
+   Name Server: NS1.P30.DYNECT.NET
+   Name Server: NS2.P30.DYNECT.NET
+   Name Server: NS3.P30.DYNECT.NET
+   Name Server: NS4.P30.DYNECT.NET
    Status: clientTransferProhibited
-   Updated Date: 25-jul-2011
-   Creation Date: 23-aug-2002
-   Expiration Date: 23-aug-2012
+   Updated Date: 20-oct-2010
+   Creation Date: 17-nov-2008
+   Expiration Date: 17-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:38:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:29:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,50 +54,52 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about reflected.net
-&lt;a href=&quot;http://www.aboutus.org/reflected.net&quot;&gt;AboutUs: reflected.net&lt;/a&gt;
+Visit AboutUs.org for more information about lockedonmedia.com
+&lt;a href=&quot;http://www.aboutus.org/lockedonmedia.com&quot;&gt;AboutUs: lockedonmedia.com&lt;/a&gt;
 
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
 
-Domain name: reflected.net
+Domain name: lockedonmedia.com
 
 Registrant Contact:
-   Reflected Networks, Inc.
-   NA NA ()
+   Locked On, Inc
+   Domain Administrator ()
 
    Fax:
-   209 W Jackson
-   Suite 700
-   Chicago, IL 60606
+   1501 Broadway 12th Floor
+   New York, NY 10036
    US
 
 Administrative Contact:
-   Reflected Networks, Inc.
-   Domain Administration (hostmaster@reflected.net)
-   +1.8778883800
-   Fax:
-   209 W Jackson
-   Suite 700
-   Chicago, IL 60606
+   Locked On, Inc
+   Domain Administrator (domains@lockedonmedia.com)
+   +1.6462895211
+   Fax: +1.6467553291
+   1501 Broadway 12th Floor
+   New York, NY 10036
    US
 
 Technical Contact:
-   Reflected Networks, Inc.
-   Domain Administration (hostmaster@reflected.net)
-   +1.8778883800
-   Fax:
-   209 W Jackson
-   Suite 700
-   Chicago, IL 60606
+   Locked On, Inc
+   Domain Administrator (domains@lockedonmedia.com)
+   +1.6462895211
+   Fax: +1.6467553291
+   1501 Broadway 12th Floor
+   New York, NY 10036
    US
 
 Status: Locked
 
 Name Servers:
-   NS0.REFLECTED.NET
-   NS1.REFLECTED.NET
+   ns1.p30.dynect.net
+   ns2.p30.dynect.net
+   ns3.p30.dynect.net
+   ns4.p30.dynect.net
 
-Creation date: 23 Aug 2002 18:11:37
-Expiration date: 23 Aug 2012 18:11:00
+Creation date: 17 Nov 2008 08:56:00
+Expiration date: 17 Nov 2011 08:56:00
 
 
 

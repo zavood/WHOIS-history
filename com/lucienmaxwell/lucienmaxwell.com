@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOTODOBBS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.FASTZONEFILES.NET
-   Name Server: NS2.FASTZONEFILES.NET
-   Name Server: NS3.FASTZONEFILES.NET
-   Status: clientTransferProhibited
-   Updated Date: 11-aug-2007
-   Creation Date: 17-nov-1999
-   Expiration Date: 17-nov-2013
+   Domain Name: LUCIENMAXWELL.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS3.IMOUNTAINDESIGN.COM
+   Name Server: NS4.IMOUNTAINDESIGN.COM
+   Status: ok
+   Updated Date: 27-jun-2009
+   Creation Date: 25-jul-2000
+   Expiration Date: 25-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:33:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:39:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... lucienmaxwell.com
+  Creation Date........ 2000-07-26
+  Registration Date.... 2000-07-26
+  Expiry Date.......... 2012-07-26
+  Organisation Name.... Harriet
+  Organisation Address. PO box 775063
+  Organisation Address.
+  Organisation Address. Steamboat Springs
+  Organisation Address. 80477
+  Organisation Address. CO
+  Organisation Address. UNITED STATES
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Harriet Freiberger
+  Admin Address........ PO box 775063
+  Admin Address........
+  Admin Address........ Steamboat Springs
+  Admin Address........ 80477
+  Admin Address........ CO
+  Admin Address........ UNITED STATES
+  Admin Email.......... freiberger@compuserve.com
+  Admin Phone.......... (970)879-8079
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ VERIO VERIO
+  Tech Address......... 12345 Blue Lake Dr.
+  Tech Address.........
+  Tech Address......... Boca Raton
+  Tech Address......... 33431
+  Tech Address......... FL
+  Tech Address......... UNITED STATES
+  Tech Email........... hostmaster@VERIO-HOSTING.COM
+  Tech Phone........... 888-663-6648
+  Tech Fax.............
+  Name Server.......... NS3.IMOUNTAINDESIGN.COM
+  Name Server.......... NS4.IMOUNTAINDESIGN.COM
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: gotodobbs.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 05:23:57 EDT 2011
-Reason Code: IE

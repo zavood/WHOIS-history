@@ -5,17 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: REFLECTED.NET
+   Domain Name: ARKANSASTORNADOSHELTERS.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS0.REFLECTED.NET
-   Name Server: NS1.REFLECTED.NET
-   Status: clientDeleteProhibited
+   Name Server: NS0.HERITAGEDNS.COM
+   Name Server: NS1.HERITAGEDNS.COM
+   Name Server: NS2.HERITAGEDNS.COM
+   Name Server: NS3.HERITAGEDNS.COM
    Status: clientTransferProhibited
-   Updated Date: 25-jul-2011
-   Creation Date: 23-aug-2002
-   Expiration Date: 23-aug-2012
+   Updated Date: 17-mar-2011
+   Creation Date: 17-mar-2008
+   Expiration Date: 17-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:38:01 UTC &lt;&lt;&lt;
 
@@ -53,50 +54,49 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about reflected.net
-&lt;a href=&quot;http://www.aboutus.org/reflected.net&quot;&gt;AboutUs: reflected.net&lt;/a&gt;
+Visit AboutUs.org for more information about arkansastornadoshelters.com
+&lt;a href=&quot;http://www.aboutus.org/arkansastornadoshelters.com&quot;&gt;AboutUs: arkansastornadoshelters.com&lt;/a&gt;
 
 
-Domain name: reflected.net
+Domain name: arkansastornadoshelters.com
 
 Registrant Contact:
-   Reflected Networks, Inc.
-   NA NA ()
+   Arkansas Tornado Shelters
+   Robert Toll ()
 
    Fax:
-   209 W Jackson
-   Suite 700
-   Chicago, IL 60606
+   33 Carroll Circle
+   Mabelvale, AR 72103
    US
 
 Administrative Contact:
-   Reflected Networks, Inc.
-   Domain Administration (hostmaster@reflected.net)
-   +1.8778883800
+   Arkansas Tornado Shelters
+   Robert Toll (robert.toll@yahoo.com)
+   +1.5013927669
    Fax:
-   209 W Jackson
-   Suite 700
-   Chicago, IL 60606
+   33 Carroll Circle
+   Mabelvale, AR 72103
    US
 
 Technical Contact:
-   Reflected Networks, Inc.
-   Domain Administration (hostmaster@reflected.net)
-   +1.8778883800
+   Arkansas Tornado Shelters
+   Robert Toll (robert.toll@yahoo.com)
+   +1.5013927669
    Fax:
-   209 W Jackson
-   Suite 700
-   Chicago, IL 60606
+   33 Carroll Circle
+   Mabelvale, AR 72103
    US
 
 Status: Locked
 
 Name Servers:
-   NS0.REFLECTED.NET
-   NS1.REFLECTED.NET
+   ns0.heritagedns.com
+   ns1.heritagedns.com
+   ns2.heritagedns.com
+   ns3.heritagedns.com
 
-Creation date: 23 Aug 2002 18:11:37
-Expiration date: 23 Aug 2012 18:11:00
+Creation date: 17 Mar 2008 17:12:13
+Expiration date: 17 Mar 2012 17:12:00
 
 
 

@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOTODOBBS.COM
+   Domain Name: MYMAZDA.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.FASTZONEFILES.NET
-   Name Server: NS2.FASTZONEFILES.NET
-   Name Server: NS3.FASTZONEFILES.NET
+   Name Server: AUTH00.NS.UU.NET
+   Name Server: AUTH100.NS.UU.NET
+   Name Server: NS01.MAZDAUSA.COM
+   Name Server: NS02.MAZDAUSA.COM
    Status: clientTransferProhibited
-   Updated Date: 11-aug-2007
-   Creation Date: 17-nov-1999
-   Expiration Date: 17-nov-2013
+   Updated Date: 11-aug-2010
+   Creation Date: 18-sep-1998
+   Expiration Date: 17-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:33:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:37:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +69,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: gotodobbs.com
+Whois Query: mymazda.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 05:23:57 EDT 2011
+Date and Time of Query: Thu Sep 15 05:27:16 EDT 2011
 Reason Code: IE

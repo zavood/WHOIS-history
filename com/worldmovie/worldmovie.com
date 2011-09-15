@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOTODOBBS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.FASTZONEFILES.NET
-   Name Server: NS2.FASTZONEFILES.NET
-   Name Server: NS3.FASTZONEFILES.NET
-   Status: clientTransferProhibited
-   Updated Date: 11-aug-2007
-   Creation Date: 17-nov-1999
-   Expiration Date: 17-nov-2013
+   Domain Name: WORLDMOVIE.COM
+   Registrar: HANGANG SYSTEMS, INC. D/B/A DOREGI.COM
+   Whois Server: whois.doregi.com
+   Referral URL: http://www.doregi.com
+   Name Server: NS14.DNSEVER.COM
+   Name Server: NS231.DNSEVER.COM
+   Name Server: NS259.DNSEVER.COM
+   Name Server: NS84.DNSEVER.COM
+   Name Server: NS90.DNSEVER.COM
+   Status: ok
+   Updated Date: 15-nov-2010
+   Creation Date: 18-dec-1999
+   Expiration Date: 31-aug-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:33:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:33:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +54,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Welcome to DOREGI.COM's WHOIS data service.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The Data in Doregi' WHOIS database is provided by Doregi
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Doregi does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Doregi (or its systems).  Doregi reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain Name: WORLDMOVIE.COM
+Registrar: HANGANG Systems,Inc. dba doregi.com
 
-http://www.networksolutions.com/whois/index.jhtml
+    Registrant:
+      chan hyo pyo
+      808  Beomeo 1(il)-dong Suseong-gu Daegu
+      chpyooo@naver.com
+      053 754 2486
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: gotodobbs.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 05:23:57 EDT 2011
-Reason Code: IE
+
+    Administrative Contact:
+      chan hyo pyo
+      chpyooo@naver.com
+      053 754 2486
+
+
+    Technical Contact:
+      chan hyo pyo
+      chpyooo@naver.com
+      053 754 2486
+
+
+    Billing Contact:
+      chan hyo pyo
+      chpyooo@naver.com
+      053 754 2486
+
+
+   Record created on.......: Dec 18, 1999
+   Record last updated on..: Nov 16, 2010
+   Record expires on.......: Sep 01, 2014
+
+   Domain name servers in listed order:
+
+   NS90.DNSEVER.COM
+   NS259.DNSEVER.COM
+   NS14.DNSEVER.COM
+   NS84.DNSEVER.COM
+

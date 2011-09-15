@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOTODOBBS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.FASTZONEFILES.NET
-   Name Server: NS2.FASTZONEFILES.NET
-   Name Server: NS3.FASTZONEFILES.NET
+   Domain Name: STOUGHTONPATCH.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientTransferProhibited
-   Updated Date: 11-aug-2007
-   Creation Date: 17-nov-1999
-   Expiration Date: 17-nov-2013
+   Updated Date: 05-apr-2011
+   Creation Date: 03-may-2010
+   Expiration Date: 03-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:33:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:32:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,23 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name.......... stoughtonpatch.com
+  Creation Date........ 2010-05-04
+  Registration Date.... 2010-05-04
+  Expiry Date.......... 2012-05-04
+  Organisation Name.... AOL Inc.
+  Organisation Address. 22000 AOL Way
+  Organisation Address.
+  Organisation Address. Dulles
+  Organisation Address. 20166
+  Organisation Address. VA
+  Organisation Address. UNITED STATES
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Admin Name........... Domain Admin
+  Admin Address........ 22000 AOL Way
+  Admin Address........
+  Admin Address........ Dulles
+  Admin Address........ 20166
+  Admin Address........ VA
+  Admin Address........ UNITED STATES
+  Admin Email.......... domain-adm@corp.aol.com
+  Admin Phone.......... +1.7032654670
+  Admin Fax............
 
-http://www.networksolutions.com/whois/index.jhtml
+Tech Name............ Melbourne IT Tech
+  Tech Address......... 487 E. Middlefield Rd.
+  Tech Address.........
+  Tech Address......... Mountain View
+  Tech Address......... 94043
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... tech@melbourneitdbs.com
+  Tech Phone........... +1.8669073267
+  Tech Fax............. +1.6502378883
+  Name Server.......... a4.nstld.com
+  Name Server.......... f4.nstld.com
+  Name Server.......... g4.nstld.com
+  Name Server.......... l4.nstld.com
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: gotodobbs.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 05:23:57 EDT 2011
-Reason Code: IE
