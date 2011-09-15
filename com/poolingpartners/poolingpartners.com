@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 03-mar-2010
    Expiration Date: 03-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:51:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 12:28:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain poolingpartners.com
-% Timestamp: 2011-09-14 13:51:50
+% Timestamp: 2011-09-15 14:28:47
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

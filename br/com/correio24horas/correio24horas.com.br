@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 09:15:09 (BRT -03:00)
+
+domain:      correio24horas.com.br
+owner:       Empresa Baiana de Jornalismo S/A
+ownerid:     014.583.041/0001-62
+responsible: Mauricio Garrido
+country:     BR
+owner-c:     TVB18
+admin-c:     TVB18
+tech-c:      TVB18
+billing-c:   TVB18
+nserver:     ns1.redebahia.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns.embratel.net.br
+nsstat:      20110915 FAIL
+nslastaa:    20110307
+created:     20080703 #4627322
+expires:     20120703
+changed:     20110613
+status:      published
+
+nic-hdl-br:  TVB18
+person:      TV Bahia
+e-mail:      suporte@redebahia.com.br
+created:     20040510
+changed:     20101019
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
