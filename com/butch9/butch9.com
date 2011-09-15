@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UNISOURCELINK.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: A4.NSTLD.COM
-   Name Server: F4.NSTLD.COM
-   Name Server: G4.NSTLD.COM
-   Name Server: L4.NSTLD.COM
-   Status: clientTransferProhibited
-   Updated Date: 07-mar-2011
-   Creation Date: 04-apr-1996
-   Expiration Date: 05-apr-2012
+   Domain Name: BUTCH9.COM
+   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
+   Whois Server: whois.discount-domain.com
+   Referral URL: http://www.onamae.com
+   Name Server: 01.DNSV.JP
+   Name Server: 02.DNSV.JP
+   Status: ok
+   Updated Date: 11-aug-2011
+   Creation Date: 06-sep-2000
+   Expiration Date: 06-sep-2016
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:50:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:49:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,43 +51,61 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+GMO Internet, Inc. whois server 2.0
 
-Domain Name.......... unisourcelink.com
-  Creation Date........ 1996-04-04
-  Registration Date.... 2010-02-25
-  Expiry Date.......... 2012-04-06
-  Organisation Name.... Unisource Worldwide, Inc.
-  Organisation Address. 3169 Holcomb Bridge Rd
-  Organisation Address.
-  Organisation Address. Norcross
-  Organisation Address. 30071
-  Organisation Address. GA
-  Organisation Address. UNITED STATES
+This server only serves information on GMO Internet,Inc.-maintained domain names
+For more information, please contact hostmaster@gmo.jp.
 
-Admin Name........... Domain Requests
-  Admin Address........ Unisource Worldwide, Inc.
-  Admin Address........ 3169 Holcomb Bridge Rd
-  Admin Address........ Norcross
-  Admin Address........ 30071
-  Admin Address........ GA
-  Admin Address........ UNITED STATES
-  Admin Email.......... admin@melbourneitdbs.com
-  Admin Phone.......... +800.8686250
-  Admin Fax............
-
-Tech Name............ Domain Requests
-  Tech Address......... 3169 Holcomb Bridge Rd
-  Tech Address.........
-  Tech Address......... Norcross
-  Tech Address......... 30071
-  Tech Address......... GA
-  Tech Address......... UNITED STATES
-  Tech Email........... admin@melbourneitdbs.com
-  Tech Phone........... +800.8686250
-  Tech Fax.............
-  Name Server.......... A4.NSTLD.COM
-  Name Server.......... F4.NSTLD.COM
-  Name Server.......... L4.NSTLD.COM
-  Name Server.......... G4.NSTLD.COM
-
+Domain Handle: None
+Domain Name: butch9.com
+Created On: 2000-09-06 05:54:39.0
+Last Updated On: 2011-08-11 14:55:12.0
+Expiration Date: 2016-09-06 05:54:39.0
+Status: ACTIVE
+Registrant Name: Butch
+Registrant Organization: Butch
+Registrant Street1: Kanazawa
+Registrant Street2:
+Registrant City: Kanazawa
+Registrant State: Tokyo
+Registrant Postal Code: -
+Registrant Country: JP
+Registrant Phone: 99-9999-9999
+Registrant Fax:
+Registrant Email: admin@onamae.com
+Admin Name: Mori Nobu
+Admin Organization: -
+Admin Street1: Kanazawa
+Admin Street2:
+Admin City: Kanazawa
+Admin State: Tokyo
+Admin Postal Code: -
+Admin Country: JP
+Admin Phone: 999-9999
+Admin Fax: -9999
+Admin Email: dm@butch9.com
+Billing Name: Mori Nobu
+Billing Organization: -
+Billing Street1: Kanazawa
+Billing Street2:
+Billing City: Kanazawa
+Billing State: Tokyo
+Billing Postal Code: -
+Billing Country: JP
+Billing Phone: 999-9999
+Billing Fax: -9999
+Billing Email: dm@butch9.com
+Tech Name: GMO Internet, Inc.
+Tech Organization: GMO Internet, Inc.
+Tech Street1: 26-1 Sakuragaoka
+Tech Street2: Cerulean Tower
+Tech City: Shibuya-ku
+Tech State: Tokyo
+Tech Postal Code: 150-8512
+Tech Country: JP
+Tech Phone: 03-3464-8727
+Tech Fax:
+Tech Email: admin@onamae.com
+Name Server: 01.dnsv.jp
+Name Server: 02.dnsv.jp
 

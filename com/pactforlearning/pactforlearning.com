@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UNISOURCELINK.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: A4.NSTLD.COM
-   Name Server: F4.NSTLD.COM
-   Name Server: G4.NSTLD.COM
-   Name Server: L4.NSTLD.COM
+   Domain Name: PACTFORLEARNING.COM
+   Registrar: DOTREGISTRAR, LLC.
+   Whois Server: whois.dotregistrar.com
+   Referral URL: http://www.dotregistrar.com
+   Name Server: NS1.LOWESTHOSTING.COM
+   Name Server: NS2.LOWESTHOSTING.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 07-mar-2011
-   Creation Date: 04-apr-1996
-   Expiration Date: 05-apr-2012
+   Status: clientUpdateProhibited
+   Updated Date: 01-jun-2011
+   Creation Date: 28-may-2003
+   Expiration Date: 28-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:50:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:49:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,42 +54,57 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... unisourcelink.com
-  Creation Date........ 1996-04-04
-  Registration Date.... 2010-02-25
-  Expiry Date.......... 2012-04-06
-  Organisation Name.... Unisource Worldwide, Inc.
-  Organisation Address. 3169 Holcomb Bridge Rd
-  Organisation Address.
-  Organisation Address. Norcross
-  Organisation Address. 30071
-  Organisation Address. GA
-  Organisation Address. UNITED STATES
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-Admin Name........... Domain Requests
-  Admin Address........ Unisource Worldwide, Inc.
-  Admin Address........ 3169 Holcomb Bridge Rd
-  Admin Address........ Norcross
-  Admin Address........ 30071
-  Admin Address........ GA
-  Admin Address........ UNITED STATES
-  Admin Email.......... admin@melbourneitdbs.com
-  Admin Phone.......... +800.8686250
-  Admin Fax............
+Registrant:
+   Wilfrid F. Doiron
+   3020 David Avenue
+   Danielson, CT  06239
+   USA
 
-Tech Name............ Domain Requests
-  Tech Address......... 3169 Holcomb Bridge Rd
-  Tech Address.........
-  Tech Address......... Norcross
-  Tech Address......... 30071
-  Tech Address......... GA
-  Tech Address......... UNITED STATES
-  Tech Email........... admin@melbourneitdbs.com
-  Tech Phone........... +800.8686250
-  Tech Fax.............
-  Name Server.......... A4.NSTLD.COM
-  Name Server.......... F4.NSTLD.COM
-  Name Server.......... L4.NSTLD.COM
-  Name Server.......... G4.NSTLD.COM
+   Registrar: DOTREGISTRAR
+   Domain Name: PACTFORLEARNING.COM
+      Created on: 28-MAY-03
+      Expires on: 28-MAY-12
+      Last Updated on: 01-JUN-11
+
+   Administrative Contact:
+      F. Doiron, Wilfrid  wdoiron@killinlgy.k12.ct.us
+      3020 David Avenue
+      Danielson, CT  06239
+      USA
+      860-774-0421
+
+   Technical Contact:
+      Hosting, Lowest  support@lowesthosting.com
+      Lowesthosting.com
+      12518 NE Airport Way Suite 148-384
+      Domain Support Email support@lowesthosting.com
+      Portland, Or  97230
+      US
+      800-762-4913
+      800-762-4913
 
 
+   Domain servers in listed order:
+      NS1.LOWESTHOSTING.COM
+      NS2.LOWESTHOSTING.COM
+
+End of Whois Information

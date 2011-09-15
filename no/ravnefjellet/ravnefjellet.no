@@ -1,0 +1,34 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: RAV175D-NORID
+Domain Name................: ravnefjellet.no
+Domain Holder Handle.......: RS420O-NORID
+Registrar Handle...........: REG5-NORID
+Legal-c Handle.............: AOL40P-NORID
+Tech-c Handle..............: WAR19R-NORID
+Name Server Handle.........: NSDA68H-NORID
+Name Server Handle.........: NSDA81H-NORID
+
+Additional information:
+Created:         2005-10-10
+Last updated:    2010-10-02
+
+NORID Handle...............: RS420O-NORID
+Type.......................: organization
+Name.......................: RAVNEFJELLET SAMEIE
+Id Type....................: organization_number
+Id Number..................: 985975167
+Registrar Handle...........: REG5-NORID
+Post Address...............: &Oslash;vre Ripleg&aring;rden 95 v/Alf Ove Lind&aring;s
+Postal Code................: NO-5161
+Postal Area................: LAKSEV&Aring;G
+Country....................: NO
+Phone Number...............: +47.55341181
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

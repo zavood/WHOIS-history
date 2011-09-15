@@ -5,20 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UNISOURCELINK.COM
+   Domain Name: LUFTHANSAECUADOR.COM
    Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
    Whois Server: whois.melbourneit.com
    Referral URL: http://www.melbourneit.com
    Name Server: A4.NSTLD.COM
    Name Server: F4.NSTLD.COM
    Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: J4.NSTLD.COM
    Name Server: L4.NSTLD.COM
    Status: clientTransferProhibited
-   Updated Date: 07-mar-2011
-   Creation Date: 04-apr-1996
-   Expiration Date: 05-apr-2012
+   Updated Date: 04-jul-2011
+   Creation Date: 14-aug-2000
+   Expiration Date: 14-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:50:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:38:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,39 +56,41 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... unisourcelink.com
-  Creation Date........ 1996-04-04
-  Registration Date.... 2010-02-25
-  Expiry Date.......... 2012-04-06
-  Organisation Name.... Unisource Worldwide, Inc.
-  Organisation Address. 3169 Holcomb Bridge Rd
+Domain Name.......... lufthansaecuador.com
+  Creation Date........ 2000-08-15
+  Registration Date.... 2010-06-07
+  Expiry Date.......... 2012-08-15
+  Organisation Name.... Deutsche Lufthansa AG
+  Organisation Address. LAC, Airportring
   Organisation Address.
-  Organisation Address. Norcross
-  Organisation Address. 30071
-  Organisation Address. GA
-  Organisation Address. UNITED STATES
+  Organisation Address. Frankfurt
+  Organisation Address. 60546
+  Organisation Address. -
+  Organisation Address. GERMANY
 
-Admin Name........... Domain Requests
-  Admin Address........ Unisource Worldwide, Inc.
-  Admin Address........ 3169 Holcomb Bridge Rd
-  Admin Address........ Norcross
-  Admin Address........ 30071
-  Admin Address........ GA
-  Admin Address........ UNITED STATES
-  Admin Email.......... admin@melbourneitdbs.com
-  Admin Phone.......... +800.8686250
+Admin Name........... DNS Administration
+  Admin Address........ Lufthansa Systems
+  Admin Address........ Am Weiher 24
+  Admin Address........ 65451 Kelsterbach
+  Admin Address........ -
+  Admin Address........ -
+  Admin Address........ GERMANY
+  Admin Email.......... dnsadmin@lhsystems.com
+  Admin Phone.......... +0049.6969696163
   Admin Fax............
 
-Tech Name............ Domain Requests
-  Tech Address......... 3169 Holcomb Bridge Rd
-  Tech Address.........
-  Tech Address......... Norcross
-  Tech Address......... 30071
-  Tech Address......... GA
-  Tech Address......... UNITED STATES
-  Tech Email........... admin@melbourneitdbs.com
-  Tech Phone........... +800.8686250
+Tech Name............ DNS Administration
+  Tech Address......... Lufthansa Systems
+  Tech Address......... Am Weiher 24
+  Tech Address......... 65451 Kelsterbach
+  Tech Address......... -
+  Tech Address......... -
+  Tech Address......... GERMANY
+  Tech Email........... dnsadmin@lhsystems.com
+  Tech Phone........... +0049.6969696163
   Tech Fax.............
+  Name Server.......... H4.NSTLD.COM
+  Name Server.......... J4.NSTLD.COM
   Name Server.......... A4.NSTLD.COM
   Name Server.......... F4.NSTLD.COM
   Name Server.......... L4.NSTLD.COM

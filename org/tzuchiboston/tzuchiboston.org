@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D89071837-LROR
+Domain Name:TZUCHIBOSTON.ORG
+Created On:06-Aug-2002 02:46:46 UTC
+Last Updated On:22-Jun-2011 19:31:34 UTC
+Expiration Date:06-Aug-2016 02:46:46 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOT-BC983WPJCHRS
+Registrant Name:Jeff Lin
+Registrant Organization:Tzu Chi Boston
+Registrant Street1:15 Summer St
+Registrant Street2:
+Registrant Street3:
+Registrant City:Newton
+Registrant State/Province:MA
+Registrant Postal Code:02456
+Registrant Country:US
+Registrant Phone:+1.6177620569
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tatabox2@gmail.com
+Admin ID:DOT-O76UC6CQW7JM
+Admin Name:Jeff Lin
+Admin Organization:Tzu Chi Boston
+Admin Street1:15 Summer St
+Admin Street2:
+Admin Street3:
+Admin City:Newton
+Admin State/Province:MA
+Admin Postal Code:02456
+Admin Country:US
+Admin Phone:+1.6177620569
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tatabox2@gmail.com
+Tech ID:DOT-2IP1VNOY5JHN
+Tech Name:Jeff Lin
+Tech Organization:Tzu Chi Boston
+Tech Street1:15 Summer St
+Tech Street2:
+Tech Street3:
+Tech City:Newton
+Tech State/Province:MA
+Tech Postal Code:02456
+Tech Country:US
+Tech Phone:+1.6177620569
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tatabox2@gmail.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

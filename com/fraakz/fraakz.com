@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UNISOURCELINK.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: A4.NSTLD.COM
-   Name Server: F4.NSTLD.COM
-   Name Server: G4.NSTLD.COM
-   Name Server: L4.NSTLD.COM
+   Domain Name: FRAAKZ.COM
+   Registrar: ONLINENIC, INC.
+   Whois Server: whois.onlinenic.com
+   Referral URL: http://www.OnlineNIC.com
+   Name Server: NS1.ITPLANE.COM
+   Name Server: NS2.ITPLANE.COM
    Status: clientTransferProhibited
-   Updated Date: 07-mar-2011
-   Creation Date: 04-apr-1996
-   Expiration Date: 05-apr-2012
+   Updated Date: 29-apr-2011
+   Creation Date: 20-dec-2010
+   Expiration Date: 20-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:50:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:49:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,43 +51,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Domain Name.......... unisourcelink.com
-  Creation Date........ 1996-04-04
-  Registration Date.... 2010-02-25
-  Expiry Date.......... 2012-04-06
-  Organisation Name.... Unisource Worldwide, Inc.
-  Organisation Address. 3169 Holcomb Bridge Rd
-  Organisation Address.
-  Organisation Address. Norcross
-  Organisation Address. 30071
-  Organisation Address. GA
-  Organisation Address. UNITED STATES
-
-Admin Name........... Domain Requests
-  Admin Address........ Unisource Worldwide, Inc.
-  Admin Address........ 3169 Holcomb Bridge Rd
-  Admin Address........ Norcross
-  Admin Address........ 30071
-  Admin Address........ GA
-  Admin Address........ UNITED STATES
-  Admin Email.......... admin@melbourneitdbs.com
-  Admin Phone.......... +800.8686250
-  Admin Fax............
-
-Tech Name............ Domain Requests
-  Tech Address......... 3169 Holcomb Bridge Rd
-  Tech Address.........
-  Tech Address......... Norcross
-  Tech Address......... 30071
-  Tech Address......... GA
-  Tech Address......... UNITED STATES
-  Tech Email........... admin@melbourneitdbs.com
-  Tech Phone........... +800.8686250
-  Tech Fax.............
-  Name Server.......... A4.NSTLD.COM
-  Name Server.......... F4.NSTLD.COM
-  Name Server.......... L4.NSTLD.COM
-  Name Server.......... G4.NSTLD.COM
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
+Registrant:
+	 SYED KHURSHID AHMAD corrossive09@gmail.com +92.3064482023
+	 None
+	 Phase 3, Defence Housing Authority,
+	 Lahore,Punjab,PK 54000
+
+
+Domain Name:fraakz.com
+Record last updated at
+Record created on 2010/12/20
+Record expired on 2011/12/20
+
+
+Domain servers in listed order:
+	 ns1.itplane.com 	 ns2.itplane.com
+
+Administrator:
+	 Phase 3, Defence Housing Authority,
+	 Lahore
+Punjab,
+PK
+ 54000
+
+	 name:(SYED KHURSHID AHMAD)
+mail:(corrossive09@gmail.com) +92.3064482023
+	 None
+Technical Contactor:
+	 Phase 3, Defence Housing Authority,
+	 Lahore
+Punjab,
+PK
+ 54000
+
+	 name:(SYED KHURSHID AHMAD)
+mail:(corrossive09@gmail.com) +92.3064482023
+	 None
+Billing Contactor:
+	 Phase 3, Defence Housing Authority,
+	 Lahore
+Punjab,
+PK
+ 54000
+
+	 name:(SYED KHURSHID AHMAD)
+mail:(corrossive09@gmail.com) +92.3064482023
+	 None
+
+Registration Service Provider:
+	name: Hostings House
+	tel: +92.425748243
+ 	fax: +92.425691034
+ 	web:http://www.hostingshouse.com

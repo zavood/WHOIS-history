@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UNISOURCELINK.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
-   Name Server: A4.NSTLD.COM
-   Name Server: F4.NSTLD.COM
-   Name Server: G4.NSTLD.COM
-   Name Server: L4.NSTLD.COM
+   Domain Name: ALLALLSOFT.COM
+   Registrar: 35 TECHNOLOGY CO., LTD
+   Whois Server: whois.35.com
+   Referral URL: http://www.35.com
+   Name Server: NS3.PADHOST.NET
+   Name Server: NS4.PADHOST.NET
    Status: clientTransferProhibited
-   Updated Date: 07-mar-2011
-   Creation Date: 04-apr-1996
-   Expiration Date: 05-apr-2012
+   Updated Date: 28-may-2011
+   Creation Date: 16-jun-2007
+   Expiration Date: 16-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:50:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:40:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,43 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
-Domain Name.......... unisourcelink.com
-  Creation Date........ 1996-04-04
-  Registration Date.... 2010-02-25
-  Expiry Date.......... 2012-04-06
-  Organisation Name.... Unisource Worldwide, Inc.
-  Organisation Address. 3169 Holcomb Bridge Rd
-  Organisation Address.
-  Organisation Address. Norcross
-  Organisation Address. 30071
-  Organisation Address. GA
-  Organisation Address. UNITED STATES
-
-Admin Name........... Domain Requests
-  Admin Address........ Unisource Worldwide, Inc.
-  Admin Address........ 3169 Holcomb Bridge Rd
-  Admin Address........ Norcross
-  Admin Address........ 30071
-  Admin Address........ GA
-  Admin Address........ UNITED STATES
-  Admin Email.......... admin@melbourneitdbs.com
-  Admin Phone.......... +800.8686250
-  Admin Fax............
-
-Tech Name............ Domain Requests
-  Tech Address......... 3169 Holcomb Bridge Rd
-  Tech Address.........
-  Tech Address......... Norcross
-  Tech Address......... 30071
-  Tech Address......... GA
-  Tech Address......... UNITED STATES
-  Tech Email........... admin@melbourneitdbs.com
-  Tech Phone........... +800.8686250
-  Tech Fax.............
-  Name Server.......... A4.NSTLD.COM
-  Name Server.......... F4.NSTLD.COM
-  Name Server.......... L4.NSTLD.COM
-  Name Server.......... G4.NSTLD.COM
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
 
 
+Registrant:
+	 Zhang Renhui john198602@yahoo.com +1.108988877
+	 allallsoft
+	 Kong str
+	 Herl,Hierl,FJ 200090
+
+
+Domain Name:allallsoft.com
+Record last updated at 2011-05-27 23:58:28
+Record created on 2007/6/16
+Record expired on 2012/6/16
+
+
+Domain servers in listed order:
+	 ns3.padhost.net 	 ns4.padhost.net
+
+Administrator:
+	 Nonglin jie
+	 Harbin
+Heilongjiang,
+CHINA
+ 150040
+
+	 name:(Zhang Renhui)
+mail:(zrh@filesee.com) +86.45188566807
+	 filesee.com
+Technical Contactor:
+	 Nonglin jie
+	 Harbin
+Heilongjiang,
+CHINA
+ 150040
+
+	 name:(Zhang Renhui)
+mail:(zrh@filesee.com) +86.45188566807
+	 filesee.com
+Billing Contactor:
+	 Nonglin jie
+	 Harbin
+Heilongjiang,
+CHINA
+ 150040
+
+	 name:(Zhang Renhui)
+mail:(zrh@filesee.com) +86.45188566807
+	 filesee.com

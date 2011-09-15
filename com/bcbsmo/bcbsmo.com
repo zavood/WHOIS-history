@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: UNISOURCELINK.COM
+   Domain Name: BCBSMO.COM
    Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
    Whois Server: whois.melbourneit.com
    Referral URL: http://www.melbourneit.com
-   Name Server: A4.NSTLD.COM
-   Name Server: F4.NSTLD.COM
-   Name Server: G4.NSTLD.COM
-   Name Server: L4.NSTLD.COM
+   Name Server: MOSTL-CHE-IPNA-04.WELLPOINT.COM
+   Name Server: VARIC-DCS-IPNA-04.WELLPOINT.COM
    Status: clientTransferProhibited
-   Updated Date: 07-mar-2011
-   Creation Date: 04-apr-1996
-   Expiration Date: 05-apr-2012
+   Updated Date: 07-dec-2010
+   Creation Date: 26-jan-2000
+   Expiration Date: 26-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:50:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:48:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,42 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Domain Name.......... unisourcelink.com
-  Creation Date........ 1996-04-04
-  Registration Date.... 2010-02-25
-  Expiry Date.......... 2012-04-06
-  Organisation Name.... Unisource Worldwide, Inc.
-  Organisation Address. 3169 Holcomb Bridge Rd
+Domain Name.......... bcbsmo.com
+  Creation Date........ 2000-01-27
+  Registration Date.... 2010-01-13
+  Expiry Date.......... 2012-01-27
+  Organisation Name.... WellPoint, Inc.
+  Organisation Address. 120 Monument Circle
   Organisation Address.
-  Organisation Address. Norcross
-  Organisation Address. 30071
-  Organisation Address. GA
+  Organisation Address. Indianapolis
+  Organisation Address. 46204
+  Organisation Address. IN
   Organisation Address. UNITED STATES
 
-Admin Name........... Domain Requests
-  Admin Address........ Unisource Worldwide, Inc.
-  Admin Address........ 3169 Holcomb Bridge Rd
-  Admin Address........ Norcross
-  Admin Address........ 30071
-  Admin Address........ GA
+Admin Name........... Domain Administrator
+  Admin Address........ 120 Monument Circle
+  Admin Address........
+  Admin Address........ Indianapolis
+  Admin Address........ 46204
+  Admin Address........ IN
   Admin Address........ UNITED STATES
-  Admin Email.......... admin@melbourneitdbs.com
-  Admin Phone.......... +800.8686250
+  Admin Email.......... domain.administrator@wellpoint.com
+  Admin Phone.......... +1.6144338476
   Admin Fax............
 
-Tech Name............ Domain Requests
-  Tech Address......... 3169 Holcomb Bridge Rd
+Tech Name............ Domain Administrator
+  Tech Address......... 120 Monument Circle
   Tech Address.........
-  Tech Address......... Norcross
-  Tech Address......... 30071
-  Tech Address......... GA
+  Tech Address......... Indianapolis
+  Tech Address......... 46204
+  Tech Address......... IN
   Tech Address......... UNITED STATES
-  Tech Email........... admin@melbourneitdbs.com
-  Tech Phone........... +800.8686250
+  Tech Email........... domain.administrator@wellpoint.com
+  Tech Phone........... +1.6144338476
   Tech Fax.............
-  Name Server.......... A4.NSTLD.COM
-  Name Server.......... F4.NSTLD.COM
-  Name Server.......... L4.NSTLD.COM
-  Name Server.......... G4.NSTLD.COM
+  Name Server.......... MOSTL-CHE-IPNA-04.WELLPOINT.COM
+  Name Server.......... VARIC-DCS-IPNA-04.WELLPOINT.COM
 
 
