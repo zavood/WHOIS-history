@@ -1,0 +1,74 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 09:46:39 2011
+
+domain:       tiscali.cz
+registrant:   CZ-TISMED
+admin-c:      NETWORK-IMAGE-CONTACT
+admin-c:      TISCALI-MEDIA-CONTACT
+nsset:        NI-NAMESERVERY
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   23.06.2000 21:11:00
+changed:      21.12.2009 10:46:01
+expire:       23.06.2013
+
+contact:      CZ-TISMED
+org:          TISCALI MEDIA, a.s.
+name:         Martin Hork&Atilde;&frac12;
+address:      U Pap&Atilde;&shy;rny 9/614
+address:      Praha 7
+address:      170 00
+address:      CZ
+registrar:    REG-IGNUM
+created:      27.02.2009 15:06:24
+changed:      26.03.2009 11:36:24
+
+contact:      NETWORK-IMAGE-CONTACT
+org:          Network Image s.r.o
+name:         Erik Brozek
+address:      Na Kvetnici 700/1a
+address:      Praha 4
+address:      14000
+address:      CZ
+registrar:    REG-IGNUM
+created:      02.10.2007 00:10:01
+changed:      04.01.2011 10:10:02
+
+contact:      TISCALI-MEDIA-CONTACT
+org:          TISCALI MEDIA, a.s.
+name:         Erik Brozek
+address:      U Pap&Atilde;&shy;rny 9/614
+address:      Praha 7
+address:      17000
+address:      CZ
+registrar:    REG-IGNUM
+created:      23.02.2009 10:46:17
+
+nsset:        NI-NAMESERVERY
+nserver:      ns1.ni.cz (89.250.243.212)
+nserver:      ns4.ni.cz (217.31.52.204)
+nserver:      ns2.ni.cz (81.31.46.114)
+nserver:      ns3.ni.cz (109.74.49.66)
+tech-c:       NETWORK-IMAGE-CONTACT
+registrar:    REG-IGNUM
+created:      23.08.2008 11:31:14
+changed:      13.07.2011 14:39:08
+
+

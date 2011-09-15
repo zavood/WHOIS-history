@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94443964-LROR
+Domain Name:JERRYWALSH.ORG
+Created On:13-Feb-2003 18:48:02 UTC
+Last Updated On:15-Jan-2011 10:59:14 UTC
+Expiration Date:13-Feb-2012 18:48:02 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:TK3213-BR
+Registrant Name:Thomas Knightly
+Registrant Organization:-
+Registrant Street1:Clonunion House,  Limerick Roa
+Registrant Street2:d,
+Registrant Street3:
+Registrant City:Adare,
+Registrant State/Province:Limerick
+Registrant Postal Code:N/A
+Registrant Country:IE
+Registrant Phone:+35.3361396657
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jwest254@mail.com
+Admin ID:AO844-BR
+Admin Name:NitroWeb HostMaster
+Admin Organization:Envision Technologies
+Admin Street1:28b Princes St.
+Admin Street2:
+Admin Street3:
+Admin City:Cork
+Admin State/Province:Munster
+Admin Postal Code:N/A
+Admin Country:IE
+Admin Phone:+35.3214776209
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jbw@et-l.com
+Tech ID:AO844-BR
+Tech Name:NitroWeb HostMaster
+Tech Organization:Envision Technologies
+Tech Street1:28b Princes St.
+Tech Street2:
+Tech Street3:
+Tech City:Cork
+Tech State/Province:Munster
+Tech Postal Code:N/A
+Tech Country:IE
+Tech Phone:+35.3214776209
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jbw@et-l.com
+Name Server:NS2.NITROWEB.NET
+Name Server:NS1.NITROWEB.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

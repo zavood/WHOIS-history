@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      curratech.ie
+descr:       Richard O'Connor
+descr:       Sole Trader
+descr:       REGISTERED BUSINESS NAME
+admin-c:     ABK448-IEDR
+tech-c:      AAM456-IEDR
+renewal:     23-June-2012
+status:      Active
+nserver:     NS1.CURRATECH.IE 217.114.173.6
+nserver:     NS2.CURRATECH.IE 82.96.97.64
+source:      IEDR
+
+person:      Richard O Connor
+nic-hdl:     ABK448-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+

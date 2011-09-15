@@ -1,0 +1,27 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         salamon.sk
+Admin-id            SALA-0003
+Admin-name          Salamon - Ing. Viktor Safar
+Admin-legal-form    zivnost
+Admin-org.-ID       11972441
+Admin-address       Partizanska 18, Sala 927 01
+Admin-telephone     031-7707888, 031-7707497, 0905-707888
+Admin-email         info@salamon.sk
+Tech-id             SINT-0001
+Tech-name           Salamon Internet s.r.o.
+Tech-org.-ID        34149139
+Tech-address        Partizanska 18, Sala 927 01
+Tech-telephone      031/7707888, 031/7707888, 0905/216838
+dns_name            ns.salamon.sk
+dns_ip              194.1.215.2
+dns_name            ns2.salamon.sk
+dns_ip              194.1.215.1
+dns_name            ns.eunet.sk
+Last-update         2011-05-15
+Valid-date          2012-05-27
+Domain-status       DOM_OK
+

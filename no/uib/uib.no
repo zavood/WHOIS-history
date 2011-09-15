@@ -1,0 +1,38 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: UIB4D-NORID
+Domain Name................: uib.no
+Domain Holder Handle.......: UB58O-NORID
+Registrar Handle...........: REG2-NORID
+Legal-c Handle.............: TB5843P-NORID
+Tech-c Handle..............: UH227P-NORID
+Name Server Handle.........: ALF3H-NORID
+Name Server Handle.........: BEGO3H-NORID
+Name Server Handle.........: EIK2H-NORID
+Name Server Handle.........: NN14H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: UB58O-NORID
+Type.......................: organization
+Name.......................: Universitetet i Bergen
+Id Type....................: organization_number
+Id Number..................: 874789542
+Registrar Handle...........: REG2-NORID
+Post Address...............: Universitetet i Bergen
+Postal Code................: NO-5020
+Postal Area................: Bergen
+Country....................: NO
+Phone Number...............: +47.55584201
+Fax Number.................: +47.55584299
+Email Address..............: hostmaster@uib.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

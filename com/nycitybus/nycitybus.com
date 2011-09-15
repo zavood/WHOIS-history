@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KOKEETOS.COM
+   Domain Name: NYCITYBUS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1889.HOSTGATOR.COM
-   Name Server: NS1890.HOSTGATOR.COM
+   Name Server: NS51.1AND1.COM
+   Name Server: NS52.1AND1.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 20-jun-2011
-   Creation Date: 17-jun-2009
-   Expiration Date: 17-jun-2013
+   Updated Date: 19-apr-2010
+   Creation Date: 11-mar-2010
+   Expiration Date: 11-mar-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:45:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:42:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   ANA GRANADILLO
+   TO LEE
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: KOKEETOS.COM
+   Domain Name: NYCITYBUS.COM
 
    Domain servers in listed order:
-      NS1889.HOSTGATOR.COM
-      NS1890.HOSTGATOR.COM
+      NS51.1AND1.COM
+      NS52.1AND1.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=KOKEETOS.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=NYCITYBUS.COM
