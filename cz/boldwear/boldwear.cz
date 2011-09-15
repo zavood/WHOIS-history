@@ -1,0 +1,87 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 04:12:20 2011
+
+domain:       boldwear.cz
+registrant:   SB:FORPSI-NOD-S131062
+admin-c:      FORPSI-NOD-C131062
+nsset:        NSS:GRINGO:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   30.05.2005 11:05:00
+changed:      30.11.2006 17:27:00
+expire:       30.05.2012
+
+contact:      SB:FORPSI-NOD-S131062
+name:         Eva &Aring;&nbsp;pa&Auml;çkov&Atilde;&iexcl;
+address:      S&Atilde;&shy;dl. U Cukrovaru 1074
+address:      Kralupy nad Vltavou
+address:      278 01
+address:      CZ
+e-mail:       eva@boldwear.cz
+registrar:    REG-IGNUM
+created:      30.05.2005 10:15:00
+changed:      30.03.2009 09:34:24
+
+contact:      FORPSI-NOD-C131062
+name:         Eva &Aring;&nbsp;pa&Auml;çkov&Atilde;&iexcl;
+address:      S&Atilde;&shy;dl. U Cukrovaru 1074
+address:      Kralupy nad Vltavou
+address:      278 01
+address:      CZ
+phone:        +420.604937813
+e-mail:       eva@boldwear.cz
+registrar:    REG-IGNUM
+created:      30.05.2005 10:15:00
+changed:      30.03.2009 09:35:47
+
+nsset:        NSS:GRINGO:1
+nserver:      ns1.gringo-webhosting.cz (62.209.193.177)
+nserver:      ns2.gringo-webhosting.cz (81.2.209.67)
+tech-c:       SB:GRINGO
+tech-c:       MATES_TOM
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+changed:      07.11.2009 09:40:16
+
+contact:      SB:GRINGO
+org:          Mgr. Tom&Atilde;&iexcl;&Aring;&iexcl; Mat&Auml;õjka
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Mat&Auml;õjka
+address:      Z&Atilde;&iexcl;h&Aring;ôebsk&Atilde;&iexcl; 41
+address:      Brno
+address:      61600
+address:      CZ
+e-mail:       matejka@gringo.cz
+registrar:    REG-IGNUM
+created:      28.02.2004 23:35:00
+changed:      24.10.2007 23:45:02
+
+contact:      MATES_TOM
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Mat&Auml;õjka
+address:      Z&Atilde;&iexcl;h&Aring;ôebsk&Atilde;&iexcl; 41
+address:      Brno
+address:      61600
+address:      CZ
+phone:        +420.604617184
+e-mail:       matejka@gringo.cz
+registrar:    REG-IGNUM
+created:      21.02.2004 00:05:00
+changed:      05.04.2005 22:15:00
+
+

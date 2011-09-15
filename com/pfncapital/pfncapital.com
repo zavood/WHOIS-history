@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 17-nov-1999
    Expiration Date: 17-nov-2014
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 01:27:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:10:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,89 +55,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- Pacific North West Capital Corp.
- 2303 West 41st Avenue
- Vancouver, BC V6M 2A3
- CA
-
- Domain name: PFNCAPITAL.COM
-
-
- Administrative Contact:
-    Barr, Harry  webupdates@pfncapital.com
-    2303 West 41st Avenue
-    Vancouver, BC V6M 2A3
-    CA
-    604-685-1870    Fax: 604-685-8045
-
- Technical Contact:
-    Administrator, Domain  domains@adnetcommunications.com
-    Suite 803,  510 West Hastings Street
-    Vancouver, BC V6B 1L8
-    CA
-    (604) 669-2041    Fax: (604) 669-2071
-
-
-
- Registration Service Provider:
-    Adnet Communications Inc., domains@adnetinc.com
-    604-669-2041
-    604-669-2071 (fax)
-    http://www.adnetinc.com
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions.
-
-
- Registrar of Record: TUCOWS, INC.
- Record last updated on 01-Jun-2011.
- Record expires on 17-Nov-2014.
- Record created on 17-Nov-1999.
-
- Registrar Domain Name Help Center:
-    http://tucowsdomains.com
-
- Domain servers in listed order:
-    NS6.DNSMADEEASY.COM
-    NS2.ADNET-INC.NET
-    NS5.ADNET-INC.NET
-    NS5.DNSMADEEASY.COM
-    NS1.ADNET-INC.NET
-    NS7.DNSMADEEASY.COM
-
-
- Domain status: ok
-
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-Tucows makes this information available &quot;as is,&quot; and does not guarantee its
-accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Tucows.
-
-Tucows reserves the right to terminate your access to the Tucows WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
-
-Tucows reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

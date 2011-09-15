@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PLASTINETICS.COM
+   Domain Name: SIDNEYDAILYNEWS.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: A.DNS.HOSTWAY.NET
-   Name Server: B.DNS.HOSTWAY.NET
+   Name Server: NS1.BPCNEWS.COM
+   Name Server: NS2.BPCNEWS.COM
    Status: clientTransferProhibited
-   Updated Date: 03-dec-2010
-   Creation Date: 28-jan-1998
-   Expiration Date: 27-jan-2012
+   Updated Date: 03-jan-2011
+   Creation Date: 26-apr-2000
+   Expiration Date: 26-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:10:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:11:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: plastinetics.com
+Whois Query: sidneydailynews.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:01:10 EDT 2011
+Date and Time of Query: Wed Sep 14 22:07:29 EDT 2011
 Reason Code: IE

@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PLASTINETICS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: A.DNS.HOSTWAY.NET
-   Name Server: B.DNS.HOSTWAY.NET
+   Domain Name: SLEEPYHOLLOWCHIMNEYSUPPLY.COM
+   Registrar: NAMESECURE.COM
+   Whois Server: whois.namesecure.com
+   Referral URL: http://www.namesecure.com
+   Name Server: NS3.SECURESERVER.NET
+   Name Server: NS4.SECURESERVER.NET
    Status: clientTransferProhibited
-   Updated Date: 03-dec-2010
-   Creation Date: 28-jan-1998
-   Expiration Date: 27-jan-2012
+   Updated Date: 27-jul-2011
+   Creation Date: 15-jul-2003
+   Expiration Date: 15-jul-2016
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:10:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:11:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,36 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+Schukal, Frederick
+   Sleepy Hollow Chimney Supply
+   85 Emjay Blvd.
+   Brentwood, NY 11717
+   US
 
-http://www.networksolutions.com/whois/index.jhtml
+   Domain Name: SLEEPYHOLLOWCHIMNEYSUPPLY.COM
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Administrative Contact:
+      Schukal, Frederick 		Sleepy_hollow_sply@prodigy.net
+      Sleepy Hollow Chimney Supply
+      85 Emjay Blvd.
+      Brentwood, NY 11717
+      US
+      (631) 231-2333
 
-Whois Query: plastinetics.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:01:10 EDT 2011
-Reason Code: IE
+
+   Record expires on 15-Jul-2016.
+   Record created on 15-Jul-2003.
+   Database last updated on 14-Sep-2011 22:07:32 EDT.
+
+   Domain servers in listed order:
+
+   NS3.SECURESERVER.NET         216.69.185.21
+   NS4.SECURESERVER.NET         208.109.255.21
+
+This whois service currently only reflects registrations
+made through NameSecure as a registrar in the .com and .net
+top-level domains.
+
