@@ -1,0 +1,52 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 04:44:47 2011
+
+domain:       cmail.cz
+registrant:   SB:NETC-CZ
+admin-c:      SB:NETC-CZ
+nsset:        NC-NS
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   19.07.1999 02:00:00
+changed:      08.03.2010 15:37:02
+expire:       24.10.2011
+
+contact:      SB:NETC-CZ
+org:          NetCentrum, s.r.o.
+name:         Centrum Holdings s.r.o.
+address:      Jankovcova 1037/49
+address:      Praha 7
+address:      170 00
+address:      CZ
+phone:        +420.225378134
+e-mail:       domain@netcentrum.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      30.09.2008 16:09:11
+
+nsset:        NC-NS
+nserver:      ns2.centrum.cz (81.0.254.36)
+nserver:      ns1.centrum.cz (90.183.38.194)
+tech-c:       SB:NETC-CZ
+registrar:    REG-IGNUM
+created:      07.01.2008 12:51:05
+changed:      27.06.2008 16:44:08
+
+

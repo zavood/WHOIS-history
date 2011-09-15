@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GATORSPORTS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.PUBLICUS.COM
-   Name Server: DNS2.PUBLICUS.COM
-   Name Server: SVDNS01.PUBLICUS.COM
-   Name Server: SVDNS02.PUBLICUS.COM
-   Status: clientTransferProhibited
-   Updated Date: 30-jun-2010
-   Creation Date: 10-aug-1996
-   Expiration Date: 09-aug-2019
+   Domain Name: EUSKALNET.NET
+   Registrar: NOMINALIA INTERNET S.L.
+   Whois Server: whois.nominalia.com
+   Referral URL: http://www.nominalia.com
+   Name Server: DNS.EUSKALTEL.ES
+   Name Server: DNS2.EUSKALTEL.ES
+   Status: ok
+   Updated Date: 17-sep-2010
+   Creation Date: 24-sep-1998
+   Expiration Date: 23-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:45:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:45:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+NOMINALIA INTERNET S.L. - Whois Server Version 1.4
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+The Registry database contains ONLY .COM, .NET and .ORG domains.
 
-http://www.networksolutions.com/whois/index.jhtml
+     Domain name: EUSKALNET.NET
+     Created on: 2008-05-19
+     Updated on: 2011-02-02
+     Expires on: 2011-09-23
+     Registrant Name: EUSKALTEL S.A.
+     Contact: Euskaltel S.A.
+     Registrant Address: Parque Tecnologico Edificio 809
+     Registrant City: Derio
+     Registrant Postal Code: 48160
+     Registrant Country: ES
+     Administrative Contact Organization: EUSKALTEL
+     Administrative Contact Name: Responsable Gestion Dominios -
+     Administrative Contact Address: Parque Tecnologico, EDIFICIO 809
+     Administrative Contact City: Derio
+     Administrative Contact Postal Code: 48160
+     Administrative Contact Country: ES
+     Administrative Contact Email: dominios@euskaltel.es
+     Administrative Contact Tel: +34 944 011000
+     Administrative Contact Fax: +34 943 000089
+     Technical Contact Organization: EUSKALTEL
+     Technical Contact Name:
+     Technical Contact Address: Parque Tecnologico, Edif. 809
+     Technical Contact City: Derio
+     Technical Contact Postal Code: 48160
+     Technical Contact Country: ES
+     Technical Contact Email: dominios@euskaltel.es
+     Technical Contact Phone: +34 944011000
+     Technical Contact Fax: +34 943000089
+     Primary Name Server Hostname: DNS2.EUSKALTEL.ES
+     Secondary Name Server Hostname: DNS.EUSKALTEL.ES
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: gatorsports.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:35:11 EDT 2011
-Reason Code: IE
+&gt;&gt;&gt; Last update of whois database: Thu Sep 15 04:10:52 2011 &lt;&lt;&lt;
+

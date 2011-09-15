@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GATORSPORTS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.PUBLICUS.COM
-   Name Server: DNS2.PUBLICUS.COM
-   Name Server: SVDNS01.PUBLICUS.COM
-   Name Server: SVDNS02.PUBLICUS.COM
-   Status: clientTransferProhibited
-   Updated Date: 30-jun-2010
-   Creation Date: 10-aug-1996
-   Expiration Date: 09-aug-2019
+   Domain Name: ADSAFER.COM
+   Registrar: DOTNAME KOREA CORP
+   Whois Server: whois.dotname.co.kr
+   Referral URL: http://www.dotname.co.kr
+   Name Server: NS1.ADSAFER.COM
+   Name Server: NS2.ADSAFER.COM
+   Status: ok
+   Updated Date: 17-may-2011
+   Creation Date: 13-aug-2010
+   Expiration Date: 13-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:45:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:43:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name           : adsafer.com
+Registrar             : Dotname Korea Corp.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+	company       :Chocomedia
+	name          :Choc omedia
+	e-mail        :ah64k@paran.com
+	address1      :Sang 3(sam)-dong Wonmi-gu, Bucheon-si
+	address2      :533 jinsungplaza 6
+	city          :Gyeonggi-do
+	zipcode       :420-861
+	country       :
+	phone         :070-7565-1636
+	fax           :02-6008-8092
 
-http://www.networksolutions.com/whois/index.jhtml
+Administrative Contact:
+	name          :Choc omedia
+	e-mail        :ah64k@paran.com
+	address1      :Sang 3(sam)-dong Wonmi-gu, Bucheon-si
+	address2      :533 jinsungplaza 6
+	city          :Gyeonggi-do
+	zipcode       :420-861
+	country       :
+	phone         :070-7565-1636
+	fax           :02-6008-8092
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Technical Contact:
+	name          :Choc omedia
+	e-mail        :ah64k@paran.com
+	address1      :Sang 3(sam)-dong Wonmi-gu, Bucheon-si
+	address2      :533 jinsungplaza 6
+	city          :Gyeonggi-do
+	zipcode       :420-861
+	country       :
+	phone         :070-7565-1636
+	fax           :02-6008-8092
 
-Whois Query: gatorsports.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:35:11 EDT 2011
-Reason Code: IE
+Domain servers in listed order:
+		ns1.adsafer.com  [115.68.15.84]
+		ns2.adsafer.com  [115.68.15.84]
+
+Created on 2010-08-13
+Updated on 2011-05-18
+Expires on 2012-08-13&lt;div style=margin:5px;padding:5px;&gt;&lt;a href=http://dotname.co.kr target=_blank&gt;&lt;img border=&amp;quot;0&amp;quot; src=http://dotname.co.kr/images/banner_dot.gif&gt;&lt;/a&gt;&lt;/div&gt;
+
+

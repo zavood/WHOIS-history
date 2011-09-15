@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GATORSPORTS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.PUBLICUS.COM
-   Name Server: DNS2.PUBLICUS.COM
-   Name Server: SVDNS01.PUBLICUS.COM
-   Name Server: SVDNS02.PUBLICUS.COM
+   Domain Name: BLACKBERRYINDONESIA.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS1.SUPER-INTERNET.NET
+   Name Server: NS2.SUPER-INTERNET.NET
    Status: clientTransferProhibited
-   Updated Date: 30-jun-2010
-   Creation Date: 10-aug-1996
-   Expiration Date: 09-aug-2019
+   Updated Date: 04-aug-2011
+   Creation Date: 14-mar-2007
+   Expiration Date: 14-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:45:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:44:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Domain blackberryindonesia.com
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Date Registered: 2007-3-14
+Date Modified: 2011-8-4
+Expiry Date: 2013-3-14
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+DNS1: ns2.super-internet.net
+DNS2: ns1.super-internet.net
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant
+    Private Whois blackberryindonesia.com
+    Private Whois blackberryindonesia.com  chgqdaw4d937615a17bf@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o blackberryindonesia.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrative Contact
+    Private Whois blackberryindonesia.com
+    Private Whois blackberryindonesia.com  boymaz74d937615d162e@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o blackberryindonesia.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
 
-Whois Query: gatorsports.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:35:11 EDT 2011
-Reason Code: IE
+Technical Contact
+    Private Whois blackberryindonesia.com
+    Private Whois blackberryindonesia.com  svulq064d937615b5412@oqjij874d9300d54bd95.privatewhois.net
+    *******PLEASE DO NOT SEND LETTERS******
+    ****Contact the owner by email only****
+    c/o blackberryindonesia.com
+    N4892 Nassau
+    Bahamas
+    Tel: +852.81720004
+
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;

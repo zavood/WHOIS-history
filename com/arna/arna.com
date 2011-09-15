@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GATORSPORTS.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.PUBLICUS.COM
-   Name Server: DNS2.PUBLICUS.COM
-   Name Server: SVDNS01.PUBLICUS.COM
-   Name Server: SVDNS02.PUBLICUS.COM
-   Status: clientTransferProhibited
-   Updated Date: 30-jun-2010
-   Creation Date: 10-aug-1996
-   Expiration Date: 09-aug-2019
+   Domain Name: ARNA.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.PLANET-WORK.COM
+   Name Server: NS2.PLANET-WORK.COM
+   Status: ok
+   Updated Date: 04-jan-2011
+   Creation Date: 20-jan-1999
+   Expiration Date: 20-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:45:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:43:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: gatorsports.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:35:11 EDT 2011
-Reason Code: IE
+Domain Name : ARNA.COM
+Created On : 1999-01-20
+Expiration Date : 2012-01-20
+Status : ACTIVE
+Registrant Name : ARNAOUTCHOT
+Registrant Street1 : Arnaoutchot
+Registrant City : VIELLE ST GIRONS
+Registrant State/Province  :
+Registrant Postal Code : 40560
+Registrant Country : FR
+Admin Name : ARNAOUTCHOT
+Admin Street1 : Arnaoutchot
+Admin City : VIELLE ST GIRONS
+Admin State/Province : FR
+Admin Postal Code : 40560
+Admin Country : FR
+Admin Phone : +33.558491111
+Admin Email : webapolonis@aol.com
+Tech Name : PLANET WORK
+Tech Street1 : 231 rue Saint-Honore
+Tech City : PARIS
+Tech State/Province : FR
+Tech Postal Code : 75001
+Tech Country : FR
+Tech Phone : +33.891024424
+Tech Email : domains@planet-work.com
+Billing Name : ARNAOUTCHOT
+Billing Street1 : Arnaoutchot
+Billing City : VIELLE ST GIRONS
+Billing State/Province : FR
+Billing Postal Code : 40560
+Billing Country : FR
+Billing Phone : +33.558491111
+Billing Email : webapolonis@aol.com
+Name Server : NS1.PLANET-WORK.COM
+Name Server : NS2.PLANET-WORK.COM
+Registrar Name : Namebay

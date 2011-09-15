@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GATORSPORTS.COM
+   Domain Name: ULITZER.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: DNS1.PUBLICUS.COM
-   Name Server: DNS2.PUBLICUS.COM
-   Name Server: SVDNS01.PUBLICUS.COM
-   Name Server: SVDNS02.PUBLICUS.COM
+   Name Server: NS1V.DATAPIPE.NET
+   Name Server: NS2V.DATAPIPE.NET
+   Name Server: NS3V.DATAPIPE.NET
+   Name Server: NS5V.DATAPIPE.NET
    Status: clientTransferProhibited
-   Updated Date: 30-jun-2010
-   Creation Date: 10-aug-1996
-   Expiration Date: 09-aug-2019
+   Updated Date: 25-feb-2010
+   Creation Date: 08-may-2007
+   Expiration Date: 08-may-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:45:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:43:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,7 +69,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: gatorsports.com
+Whois Query: ulitzer.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:35:11 EDT 2011
+Date and Time of Query: Wed Sep 14 22:33:26 EDT 2011
 Reason Code: IE
