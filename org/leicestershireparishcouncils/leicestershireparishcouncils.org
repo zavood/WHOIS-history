@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83423477-LROR
+Domain Name:LEICESTERSHIREPARISHCOUNCILS.ORG
+Created On:07-Feb-2002 11:44:19 UTC
+Last Updated On:29-Oct-2009 12:15:30 UTC
+Expiration Date:07-Feb-2014 11:44:19 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuyHziCI7RS0Iebe
+Registrant Name:Ray Smith
+Registrant Organization:Leicestershire County Council
+Registrant Street1:ICT Services, Corporate Resources Department
+Registrant Street2:Room 600, County Hall, Glenfield
+Registrant Street3:
+Registrant City:Leicester
+Registrant State/Province:Leicestershire
+Registrant Postal Code:LE38SW
+Registrant Country:GB
+Registrant Phone:+44.1163056594
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:lccdomains@cuttlefish.com
+Admin ID:tuquassEUroJvZCq
+Admin Name:Sean Clark
+Admin Organization:Cuttlefish Multimedia Ltd.
+Admin Street1:Unit 8, Loughborough Technology Centre
+Admin Street2:Epinal Way
+Admin Street3:
+Admin City:Loughborough
+Admin State/Province:Leicestershire
+Admin Postal Code:LE113GE
+Admin Country:GB
+Admin Phone:+44.1509231233
+Admin Phone Ext.:
+Admin FAX:+44.8704584934
+Admin FAX Ext.:
+Admin Email:lccdomains@cuttlefish.com
+Tech ID:tuixeLMB6gOtz3YN
+Tech Name:Sean Clark
+Tech Organization:Cuttlefish Multimedia Ltd.
+Tech Street1:Unit 8, Loughborough Technology Centre
+Tech Street2:Epinal Way
+Tech Street3:
+Tech City:Loughborough
+Tech State/Province:Leicestershire
+Tech Postal Code:LE113GE
+Tech Country:GB
+Tech Phone:+44.1509231233
+Tech Phone Ext.:
+Tech FAX:+44.8704584934
+Tech FAX Ext.:
+Tech Email:lccdomains@cuttlefish.com
+Name Server:NS.123-REG.CO.UK
+Name Server:NS2.123-REG.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

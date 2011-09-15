@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D140245959-LROR
+Domain Name:HOWTOO.ORG
+Created On:22-Feb-2007 20:53:33 UTC
+Last Updated On:12-Sep-2011 02:05:28 UTC
+Expiration Date:22-Feb-2012 20:53:33 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:09829056196b9049
+Registrant Name:Domain Discreet
+Registrant Organization:ATTN: howtoo.org
+Registrant Street1:Rua Dr. Brito Camara, n 20, 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Funchal
+Registrant State/Province:Madeira
+Registrant Postal Code:9000-039
+Registrant Country:PT
+Registrant Phone:+361.19027495331
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:5b618c290a16121f29835c5fbdbfe1d7@domaindiscreet.com
+Admin ID:5741622618c35993
+Admin Name:Domain Discreet
+Admin Organization:ATTN: howtoo.org
+Admin Street1:Rua Dr. Brito Camara, n 20, 1
+Admin Street2:
+Admin Street3:
+Admin City:Funchal
+Admin State/Province:Madeira
+Admin Postal Code:9000-039
+Admin Country:PT
+Admin Phone:+361.19027495331
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:5b618c260a16121f010fff5efd5001e0@domaindiscreet.com
+Tech ID:7720913619ad9040
+Tech Name:Domain Discreet
+Tech Organization:ATTN: howtoo.org
+Tech Street1:Rua Dr. Brito Camara, n 20, 1
+Tech Street2:
+Tech Street3:
+Tech City:Funchal
+Tech State/Province:Madeira
+Tech Postal Code:9000-039
+Tech Country:PT
+Tech Phone:+361.19027495331
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:5b618c2a0a16121f6dd7ac26687836c5@domaindiscreet.com
+Name Server:DNS217.A.REGISTER.COM
+Name Server:DNS077.B.REGISTER.COM
+Name Server:DNS245.C.REGISTER.COM
+Name Server:DNS249.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

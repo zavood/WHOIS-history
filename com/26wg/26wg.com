@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEBCINDARIO.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: DNS1.MIARROBA.NET
-   Name Server: DNS2.MIARROBA.NET
-   Name Server: DNS3.MIARROBA.NET
-   Name Server: DNS4.MIARROBA.NET
-   Name Server: DNS5.MIARROBA.NET
+   Domain Name: 26WG.COM
+   Registrar: XIN NET TECHNOLOGY CORPORATION
+   Whois Server: whois.paycenter.com.cn
+   Referral URL: http://www.xinnet.com
+   Name Server: NS.XINNET.CN
+   Name Server: NS.XINNETDNS.COM
    Status: ok
-   Updated Date: 08-sep-2008
-   Creation Date: 28-feb-2001
-   Expiration Date: 28-feb-2013
+   Updated Date: 08-aug-2011
+   Creation Date: 17-oct-2010
+   Expiration Date: 17-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:38:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:34:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+The Data in Paycenter's WHOIS database is provided by Paycenter
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Paycenter does not guarantee its accuracy.  By submitting
+a WHOIS query, you agree that you will use this Data only
+for lawful purposes and that,
+under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission
+of mass unsolicited, commercial advertising or solicitations
+via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that
+apply to Paycenter or its systems.
+Paycenter reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
+
+Domain Name      : 26wg.com
+PunnyCode        : 26wg.com
+Creation Date    : 2010-10-17 00:00:00
+Updated Date     : 2011-08-08 15:12:15
+Expiration Date  : 2012-10-17 00:00:00
+
+
+Registrant:
+  Organization   : Chen Yu Ling
+  Name           : Chen Yu Ling
+  Address        :
+  City           :
+  Province/State :
+  Country        :
+  Postal Code    :
+
+Administrative Contact:
+  Name           : Chen Yu Ling
+  Organization   : Chen Yu Ling
+  Address        :
+  City           :
+  Province/State :
+  Country        :
+  Postal Code    :
+  Phone Number   : --
+  Fax            : --
+  Email          : 1435225611@qq.com
+
+Technical Contact:
+  Name           : Chen Yu Ling
+  Organization   : Chen Yu Ling
+  Address        :
+  City           :
+  Province/State :
+  Country        :
+  Postal Code    :
+  Phone Number   : --
+  Fax            : --
+  Email          : 1435225611@qq.com
+
+Billing Contact:
+  Name           : Chen Yu Ling
+  Organization   : Chen Yu Ling
+  Address        :
+  City           :
+  Province/State :
+  Country        :
+  Postal Code    :
+  Phone Number   : --
+  Fax            : --
+  Email          : 1435225611@qq.com

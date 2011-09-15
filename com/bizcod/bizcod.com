@@ -5,21 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEBCINDARIO.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: DNS1.MIARROBA.NET
-   Name Server: DNS2.MIARROBA.NET
-   Name Server: DNS3.MIARROBA.NET
-   Name Server: DNS4.MIARROBA.NET
-   Name Server: DNS5.MIARROBA.NET
-   Status: ok
-   Updated Date: 08-sep-2008
-   Creation Date: 28-feb-2001
-   Expiration Date: 28-feb-2013
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:38:47 UTC &lt;&lt;&lt;
+No match for &quot;BIZCOD.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:30:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.

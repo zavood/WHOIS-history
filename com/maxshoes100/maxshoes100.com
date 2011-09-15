@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEBCINDARIO.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: DNS1.MIARROBA.NET
-   Name Server: DNS2.MIARROBA.NET
-   Name Server: DNS3.MIARROBA.NET
-   Name Server: DNS4.MIARROBA.NET
-   Name Server: DNS5.MIARROBA.NET
+   Domain Name: MAXSHOES100.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: YNS1.YAHOO.COM
+   Name Server: YNS2.YAHOO.COM
    Status: ok
-   Updated Date: 08-sep-2008
-   Creation Date: 28-feb-2001
-   Expiration Date: 28-feb-2013
+   Updated Date: 07-jul-2011
+   Creation Date: 21-jun-2010
+   Expiration Date: 21-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:38:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:33:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... maxshoes100.com
+  Creation Date........ 2010-06-22
+  Registration Date.... 2010-06-22
+  Expiry Date.......... 2012-06-22
+  Organisation Name.... li zhenghua
+  Organisation Address. 56 101
+  Organisation Address.
+  Organisation Address. Hangzhou City
+  Organisation Address. 529700
+  Organisation Address. phinca
+  Organisation Address. CHINA
+
+Admin Name........... li zhenghua
+  Admin Address........ 56 101
+  Admin Address........
+  Admin Address........ Hangzhou City
+  Admin Address........ 529700
+  Admin Address........ phinca
+  Admin Address........ CHINA
+  Admin Email.......... domainmaster001@hotmail.com
+  Admin Phone.......... +1.13419593535
+  Admin Fax............
+
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@yahoo-inc.com
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... yns1.yahoo.com
+  Name Server.......... yns2.yahoo.com
+
+

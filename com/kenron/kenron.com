@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEBCINDARIO.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: DNS1.MIARROBA.NET
-   Name Server: DNS2.MIARROBA.NET
-   Name Server: DNS3.MIARROBA.NET
-   Name Server: DNS4.MIARROBA.NET
-   Name Server: DNS5.MIARROBA.NET
-   Status: ok
-   Updated Date: 08-sep-2008
-   Creation Date: 28-feb-2001
-   Expiration Date: 28-feb-2013
+   Domain Name: KENRON.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: DNS1.LAYER8HOSTING.COM
+   Name Server: DNS2.LAYER8HOSTING.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 06-feb-2011
+   Creation Date: 06-mar-1996
+   Expiration Date: 07-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:38:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:30:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +52,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+=-=-=-=
+
+
+Domain name: kenron.com
+
+Registrant Contact:
+   Kenron Industrial Air Conditioning, Inc.
+   Kenron Kenron Industrial Air Conditioning, Inc. ()
+
+   Fax:
+   299 Gregory Street
+   Rochester, NY 14620
+   US
+
+Administrative Contact:
+   The Layer 8 Group, Inc
+   DNS Administrator (dnsadmin@layer8group.com)
+   +1.5854428888
+   Fax: +1.5852429441
+   85 Allen St., Suite 200
+   Rochester, NY 14608
+   US
+
+Technical Contact:
+   The Layer 8 Group, Inc
+   DNS Administrator (dnsadmin@layer8group.com)
+   +1.5854428888
+   Fax: +1.5852429441
+   85 Allen St., Suite 200
+   Rochester, NY 14608
+   US
+
+Status: Locked
+
+Name Servers:
+   dns1.layer8hosting.com
+   dns2.layer8hosting.com
+
+Creation date: 06 Mar 1996 05:00:00
+Expiration date: 07 Mar 2012 05:00:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

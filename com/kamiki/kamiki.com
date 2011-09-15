@@ -5,21 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEBCINDARIO.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: DNS1.MIARROBA.NET
-   Name Server: DNS2.MIARROBA.NET
-   Name Server: DNS3.MIARROBA.NET
-   Name Server: DNS4.MIARROBA.NET
-   Name Server: DNS5.MIARROBA.NET
+   Domain Name: KAMIKI.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.J5.COM
+   Name Server: NS2.KIKAKUYA.NET
+   Name Server: NS3.KIKAKUYA.NE.JP
    Status: ok
-   Updated Date: 08-sep-2008
-   Creation Date: 28-feb-2001
-   Expiration Date: 28-feb-2013
+   Updated Date: 11-oct-2010
+   Creation Date: 25-oct-1999
+   Expiration Date: 25-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:38:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:27:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +52,42 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... kamiki.com
+  Creation Date........ 1999-10-25
+  Registration Date.... 2002-09-14
+  Expiry Date.......... 2011-10-25
+  Organisation Name.... Haruhiko Chiba
+  Organisation Address. 15-1-12-802 Odori Nishi
+  Organisation Address. _
+  Organisation Address. Chuoku
+  Organisation Address. 060-0042
+  Organisation Address. Sapporo
+  Organisation Address. JAPAN
+
+Admin Name........... Haruhiko Chiba
+  Admin Address........ 15-1-12-802 Odori Nishi
+  Admin Address........ _
+  Admin Address........ Chuoku
+  Admin Address........ 060-0042
+  Admin Address........ Sapporo
+  Admin Address........ JAPAN
+  Admin Email.......... nic@J5.COM
+  Admin Phone.......... 011-640-4774
+  Admin Fax............ 011-640-4775
+
+Tech Name............ Yoshikatsu Shima
+  Tech Address......... 15-1-12-802 Odorinishi
+  Tech Address......... _
+  Tech Address......... Chuo-ku
+  Tech Address......... 060-0042
+  Tech Address......... Sapporo
+  Tech Address......... JAPAN
+  Tech Email........... mnic@j5.com
+  Tech Phone........... +81.116404774
+  Tech Fax............. +81.116404775
+  Name Server.......... NS1.J5.COM
+  Name Server.......... ns2.kikakuya.net
+  Name Server.......... NS3.KIKAKUYA.NE.JP
+
+

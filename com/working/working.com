@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WEBCINDARIO.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: DNS1.MIARROBA.NET
-   Name Server: DNS2.MIARROBA.NET
-   Name Server: DNS3.MIARROBA.NET
-   Name Server: DNS4.MIARROBA.NET
-   Name Server: DNS5.MIARROBA.NET
+   Domain Name: WORKING.COM
+   Registrar: WEBNAMES.CA INC.
+   Whois Server: whois.webnames.ca
+   Referral URL: http://www.webnames.ca
+   Name Server: NS1.POSTMEDIADNS.COM
+   Name Server: NS2.POSTMEDIADNS.COM
    Status: ok
-   Updated Date: 08-sep-2008
-   Creation Date: 28-feb-2001
-   Expiration Date: 28-feb-2013
+   Updated Date: 15-nov-2010
+   Creation Date: 04-jan-1995
+   Expiration Date: 03-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:38:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:34:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,5 +51,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+
+Registrar Name....: WEBNAMES.CA INC
+Registrar Whois...: whois.webnames.ca
+Registrar Homepage: http://www.webnames.ca
+
+Domain Name: working.com
+
+     Created on..............: 1/4/1995 5:00:00 AM UTC
+     Expires on..............: 3 Jan 2012
+
+Registrant Name: Postmedia Network Inc.
+Organization Info:
+     Postmedia Network Inc.
+     Peter  deGroot
+     1450 Don Mills Rd.
+     Toronto, ON M3B 2X7
+     CAN
+     Phone: 1 905 3042195 ()
+     Fax..: 1 905 3042195
+     Email: Webnames@postmedia.com
+
+Admin Info:
+     Postmedia Network Inc.
+     Peter  deGroot
+     1450 Don Mills Rd.
+     Toronto, ON M3B 2X7
+     CAN
+     Phone: 1 905 3042195 ()
+     Fax..: 1 905 3042195
+     Email: Webnames@postmedia.com
+
+Technical Info:
+     Postmedia Network Inc.
+     Peter  deGroot
+     1450 Don Mills Rd.
+     Toronto, ON M3B 2X7
+     CAN
+     Phone: 1 905 3042195 ()
+     Fax..: 1 905 3042195
+     Email: Webnames@postmedia.com
+
+Billing Info:
+     Postmedia Network Inc.
+     Peter  deGroot
+     1450 Don Mills Rd.
+     Toronto, ON M3B 2X7
+     CAN
+     Phone: 1 905 3042195 ()
+     Fax..: 1 905 3042195
+     Email: Webnames@postmedia.com
+
+Domain servers in listed order:
+
+     ns1.postmediadns.com
+     ns2.postmediadns.com
+
+Register your domain name at http://www.webnames.ca
+
+END OF WHOIS
