@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PARASUN.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: DEEP.MINDLINK.NET
-   Name Server: GIANT.MINDLINK.NET
+   Domain Name: JSAYERS.COM
+   Registrar: SPOT DOMAIN LLC DBA DOMAINSITE.COM
+   Whois Server: whois.domainsite.com
+   Referral URL: http://www.domainsite.com
+   Name Server: NS1.LAUGHINGSQUID.NET
+   Name Server: NS2.LAUGHINGSQUID.NET
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-sep-2011
-   Creation Date: 12-oct-1996
-   Expiration Date: 11-oct-2012
+   Updated Date: 18-may-2010
+   Creation Date: 12-jan-2004
+   Expiration Date: 12-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:20:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:19:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +53,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Domain Name:     jsayers.com
+Registrar:       Spot Domain LLC
+
+Expiration Date: 2012-01-12 00:00:00
+Creation Date:   2004-01-12 16:02:48
+
+Name Servers:
+	ns1.laughingsquid.net
+	ns2.laughingsquid.net
+
+REGISTRANT CONTACT INFO
+Joseph A. Sayers
+Joseph Sayers
+po box 12302
+berkeley
+CA
+94712
+US
+Phone:         +1.5108455868
+Email Address: sayersj@hotmail.com
+
+ADMINISTRATIVE CONTACT INFO
+Joseph A. Sayers
+Joseph Sayers
+po box 12302
+berkeley
+CA
+94712
+US
+Phone:         +1.5108455868
+Email Address: sayersj@hotmail.com
+
+TECHNICAL CONTACT INFO
+Joseph A. Sayers
+Joseph Sayers
+po box 12302
+berkeley
+CA
+94712
+US
+Phone:         +1.5108455868
+Email Address: sayersj@hotmail.com
+
+BILLING CONTACT INFO
+Joseph A. Sayers
+Joseph Sayers
+po box12302
+berkeley
+CA
+94712
+US
+Phone:         +1.5108455868
+Email Address: sayersj@hotmail.com
+
+Timestamp: 1316064014.9463
+
+The Data in the Spot Domain LLC WHOIS database is provided by Spot Domain LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.  Spot Domain LLC does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Spot Domain LLC (or its systems). Spot Domain LLC reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
+
+Cached on: 2011-09-14T23:20:14-06:00

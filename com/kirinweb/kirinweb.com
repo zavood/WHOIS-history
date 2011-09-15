@@ -5,19 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PARASUN.COM
+   Domain Name: KIRINWEB.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: DEEP.MINDLINK.NET
-   Name Server: GIANT.MINDLINK.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 12-sep-2011
-   Creation Date: 12-oct-1996
-   Expiration Date: 11-oct-2012
+   Name Server: NS.KIRINWEB.COM
+   Name Server: NS2.KIRINWEB.COM
+   Status: ok
+   Updated Date: 09-jun-2011
+   Creation Date: 07-jun-2007
+   Expiration Date: 07-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:20:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:20:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

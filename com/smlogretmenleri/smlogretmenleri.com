@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 01-apr-2010
    Expiration Date: 01-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:27:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:20:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,38 +84,35 @@ Domain servers in listed order:
 	 dns1.markum.net 	 dns2.markum.net
 
 Administrator:
-	 name: Ahmet Kavakli
- mail: ahkavakli@hotmail.com tel: +90.5055414057
-	 org: KIRIKKALE
+	 KIRIKKALE
+	 MERKEZ
+Kirikkale,
+TR
+ 71100
 
-address: KIRIKKALE
-	 city: MERKEZ
-,province: Kirikkale
-,country: TR
- postcode: 71100
-
+	 name:(Ahmet Kavakli)
+mail:(ahkavakli@hotmail.com) +90.5055414057
+	 KIRIKKALE
 Technical Contactor:
-	 name: Ahmet Kavakli
- mail: ahkavakli@hotmail.com tel: +90.5055414057
-	 org: KIRIKKALE
+	 KIRIKKALE
+	 MERKEZ
+Kirikkale,
+TR
+ 71100
 
-address: KIRIKKALE
-	 city: MERKEZ
-,province: Kirikkale
-,country: TR
- postcode: 71100
-
+	 name:(Ahmet Kavakli)
+mail:(ahkavakli@hotmail.com) +90.5055414057
+	 KIRIKKALE
 Billing Contactor:
-	 name: Ahmet Kavakli
- mail: ahkavakli@hotmail.com tel: +90.5055414057
-	 org: KIRIKKALE
+	 KIRIKKALE
+	 MERKEZ
+Kirikkale,
+TR
+ 71100
 
-address: KIRIKKALE
-	 city: MERKEZ
-,province: Kirikkale
-,country: TR
- postcode: 71100
-
+	 name:(Ahmet Kavakli)
+mail:(ahkavakli@hotmail.com) +90.5055414057
+	 KIRIKKALE
 
 Registration Service Provider:
 	name: Markum Bilisim Teknolojileri Tic. Ltd. Sti

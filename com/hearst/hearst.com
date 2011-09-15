@@ -5,19 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PARASUN.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: DEEP.MINDLINK.NET
-   Name Server: GIANT.MINDLINK.NET
+   Domain Name: HEARST.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: AUTH00.NS.UU.NET
+   Name Server: AUTH100.NS.UU.NET
+   Name Server: NS1.HEARST.COM
+   Name Server: NS2.HEARST.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 12-sep-2011
-   Creation Date: 12-oct-1996
-   Expiration Date: 11-oct-2012
+   Updated Date: 02-may-2011
+   Creation Date: 21-jun-1994
+   Expiration Date: 20-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:20:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:21:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... hearst.com
+  Creation Date........ 1994-06-21
+  Registration Date.... 2009-06-22
+  Expiry Date.......... 2012-06-21
+  Organisation Name.... The Hearst Corporation
+  Organisation Address. 300 West 57th Street
+  Organisation Address.
+  Organisation Address. New York
+  Organisation Address. 10019
+  Organisation Address. NY
+  Organisation Address. UNITED STATES
+
+Admin Name........... The Hearst Corporation
+  Admin Address........ Business Media
+  Admin Address........ 959 8th Avenue
+  Admin Address........ New York
+  Admin Address........ 10019
+  Admin Address........ NY
+  Admin Address........ UNITED STATES
+  Admin Email.......... domains@HEARST.COM
+  Admin Phone.......... +1.2126492000
+  Admin Fax............ +1.2126492639
+
+Tech Name............ James Bazzano
+  Tech Address......... 300 West 57th Street
+  Tech Address.........
+  Tech Address......... New York
+  Tech Address......... 10019
+  Tech Address......... NY
+  Tech Address......... UNITED STATES
+  Tech Email........... jbazzano@hearst.com
+  Tech Phone........... +1.2126494009
+  Tech Fax.............
+  Name Server.......... ns1.hearst.com
+  Name Server.......... ns2.hearst.com
+  Name Server.......... auth00.ns.uu.net
+  Name Server.......... auth100.ns.uu.net
+
+

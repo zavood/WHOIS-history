@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98520122-LROR
+Domain Name:NEWFORESTRY.ORG
+Created On:22-Jul-2003 15:18:17 UTC
+Last Updated On:03-Jul-2011 17:10:29 UTC
+Expiration Date:22-Jul-2012 15:18:17 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:OK
+Registrant ID:0-756947-Gandi
+Registrant Name:Institute for Sustainable Forestry
+Registrant Organization:Institute for Sustainable Forestry
+Registrant Street1:PO Box 1580
+Registrant Street2:
+Registrant Street3:
+Registrant City:Redway
+Registrant State/Province:California
+Registrant Postal Code:95560
+Registrant Country:US
+Registrant Phone:+1.7079232221
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@lostcoast.net
+Admin ID:JR215-GANDI
+Admin Name:John Rogers
+Admin Organization:Lost Coast Computing
+Admin Street1:Box 1031
+Admin Street2:
+Admin Street3:
+Admin City:Redway
+Admin State/Province:CA
+Admin Postal Code:95560
+Admin Country:US
+Admin Phone:+1.7079232221
+Admin Phone Ext.:
+Admin FAX:+1.7079234607
+Admin FAX Ext.:
+Admin Email:admin@lostcoast.net
+Tech ID:JR215-GANDI
+Tech Name:John Rogers
+Tech Organization:Lost Coast Computing
+Tech Street1:Box 1031
+Tech Street2:
+Tech Street3:
+Tech City:Redway
+Tech State/Province:CA
+Tech Postal Code:95560
+Tech Country:US
+Tech Phone:+1.7079232221
+Tech Phone Ext.:
+Tech FAX:+1.7079234607
+Tech FAX Ext.:
+Tech Email:admin@lostcoast.net
+Name Server:NS1.ASIS.COM
+Name Server:NS1.FALCONKNIGHT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
