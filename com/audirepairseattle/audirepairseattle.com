@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SOCIALPARODY.COM
+   Domain Name: AUDIREPAIRSEATTLE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS31.DOMAINCONTROL.COM
-   Name Server: NS32.DOMAINCONTROL.COM
+   Name Server: NS13.DOMAINCONTROL.COM
+   Name Server: NS14.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 03-aug-2010
-   Creation Date: 06-jan-2009
-   Expiration Date: 06-jan-2012
+   Updated Date: 12-nov-2010
+   Creation Date: 09-nov-2009
+   Expiration Date: 09-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:42:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:42:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Brogna Enterprises LLC
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SOCIALPARODY.COM
+   Domain Name: AUDIREPAIRSEATTLE.COM
 
    Domain servers in listed order:
-      NS31.DOMAINCONTROL.COM
-      NS32.DOMAINCONTROL.COM
+      NS13.DOMAINCONTROL.COM
+      NS14.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SOCIALPARODY.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=AUDIREPAIRSEATTLE.COM
