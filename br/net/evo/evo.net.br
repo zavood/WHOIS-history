@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 20:01:56 (BRT -03:00)
+
+domain:      evo.net.br
+owner:       Rodrigo Camozzato Fiel &amp; Cia ME
+ownerid:     005.783.190/0001-84
+responsible: Rodrigo Camozzato Fiel
+country:     BR
+owner-c:     RCF126
+admin-c:     RCF126
+tech-c:      RCF126
+billing-c:   RCF126
+nserver:     ns1.evo.net.br 189.53.236.10
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.evo.net.br 189.53.236.11
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20060221 #2647259
+expires:     20130221
+changed:     20110128
+status:      published
+
+nic-hdl-br:  RCF126
+person:      Rodrigo Camozzato Fiel
+e-mail:      camozzato@terra.com.br
+created:     20010319
+changed:     20070911
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

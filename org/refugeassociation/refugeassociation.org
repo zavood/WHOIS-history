@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148576519-LROR
+Domain Name:REFUGEASSOCIATION.ORG
+Created On:13-Jul-2007 16:38:53 UTC
+Last Updated On:12-Jul-2011 15:35:38 UTC
+Expiration Date:13-Jul-2012 16:38:53 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:2jm1bf3g2vrnilq6
+Registrant Name:The National Wildlife Refuge Association Harwood
+Registrant Organization:The National Wildlife Refuge Association
+Registrant Street1:1010 Wisconsin Ave NW
+Registrant Street2:Suite 200
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:MI
+Registrant Postal Code:20007
+Registrant Country:US
+Registrant Phone:+1.2023339075
+Registrant Phone Ext.:
+Registrant FAX:+1.2023339077
+Registrant FAX Ext.:
+Registrant Email:dharwood@refugenet.org
+Admin ID:4upn9373h5ftfsdb
+Admin Name:The National Wildlife Refuge Association Harwood
+Admin Organization:The National Wildlife Refuge Association
+Admin Street1:1010 Wisconsin Ave NW
+Admin Street2:Suite 200
+Admin Street3:
+Admin City:Washington
+Admin State/Province:MI
+Admin Postal Code:20007
+Admin Country:US
+Admin Phone:+1.2023339075
+Admin Phone Ext.:
+Admin FAX:+1.2023339077
+Admin FAX Ext.:
+Admin Email:dharwood@refugenet.org
+Tech ID:pt4g00fdhbvml8e0
+Tech Name:Host Depot Technical Contact
+Tech Organization:Host Depot, Inc.
+Tech Street1:12524 West Atlantic Boulevard
+Tech Street2:
+Tech Street3:
+Tech City:Coral Springs
+Tech State/Province:FL
+Tech Postal Code:33071
+Tech Country:US
+Tech Phone:+1.9543403527
+Tech Phone Ext.:
+Tech FAX:+1.9543403539
+Tech FAX Ext.:
+Tech Email:hdtech@hostdepot.com
+Name Server:NS1.HOSTDEPOT.COM
+Name Server:NS2.HOSTDEPOT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -12,14 +12,12 @@ for detailed information.
    Name Server: NS1.RAPIDSHARE.COM
    Name Server: NS2.RAPIDSHARE.COM
    Name Server: NS3.RAPIDSHARE.COM
-   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 28-may-2011
+   Updated Date: 14-sep-2011
    Creation Date: 27-may-2002
    Expiration Date: 27-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:14:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 23:07:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -66,7 +64,7 @@ Registrars.
 % Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain rapidshare.com
-% Timestamp: 2011-09-14 03:15:03
+% Timestamp: 2011-09-16 01:08:31
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
@@ -74,82 +72,82 @@ Registrars.
 
 domain:                      rapidshare.com
 status:                      LOCK
-owner-c:                     LULU-9408709
-admin-c:                     LULU-9408709
-tech-c:                      LULU-9408709
-zone-c:                      LULU-9408709
+owner-c:                     LULU-11311887
+admin-c:                     LULU-11311887
+tech-c:                      LULU-11311887
+zone-c:                      LULU-11311887
 nserver:                     ns1.rapidshare.com
 nserver:                     ns2.rapidshare.com
 nserver:                     ns3.rapidshare.com
 created:                     2002-05-27 18:23:36
 expire:                      2012-05-27 18:23:36 (registry time)
-changed:                     2011-07-17 22:30:27
+changed:                     2011-09-14 14:54:43
 
-[owner-c] handle:            9408709
+[owner-c] handle:            11311887
 [owner-c] type:              PERSON
 [owner-c] title:
-[owner-c] fname:             Christian
-[owner-c] lname:             Schmid
+[owner-c] fname:             Alexandra
+[owner-c] lname:             Zwingli
 [owner-c] org:               RapidShare AG
 [owner-c] address:           Gewerbestrasse 6
 [owner-c] city:              Cham
 [owner-c] pcode:             6330
 [owner-c] country:           CH
 [owner-c] state:             CH
-[owner-c] phone:             +41-41-7487888
-[owner-c] fax:               +41-41-7487899
-[owner-c] email:             domain@rapidshare.com
+[owner-c] phone:             +41-41-7487880
+[owner-c] fax:               +41-41-7487880
+[owner-c] email:             support@rapidshare.com
 [owner-c] protection:        B
-[owner-c] updated:           2011-02-03 00:20:42
+[owner-c] updated:           2011-09-14 14:54:21
 
-[admin-c] handle:            9408709
+[admin-c] handle:            11311887
 [admin-c] type:              PERSON
 [admin-c] title:
-[admin-c] fname:             Christian
-[admin-c] lname:             Schmid
+[admin-c] fname:             Alexandra
+[admin-c] lname:             Zwingli
 [admin-c] org:               RapidShare AG
 [admin-c] address:           Gewerbestrasse 6
 [admin-c] city:              Cham
 [admin-c] pcode:             6330
 [admin-c] country:           CH
 [admin-c] state:             CH
-[admin-c] phone:             +41-41-7487888
-[admin-c] fax:               +41-41-7487899
-[admin-c] email:             domain@rapidshare.com
+[admin-c] phone:             +41-41-7487880
+[admin-c] fax:               +41-41-7487880
+[admin-c] email:             support@rapidshare.com
 [admin-c] protection:        B
-[admin-c] updated:           2011-02-03 00:20:42
+[admin-c] updated:           2011-09-14 14:54:21
 
-[tech-c] handle:            9408709
+[tech-c] handle:            11311887
 [tech-c] type:              PERSON
 [tech-c] title:
-[tech-c] fname:             Christian
-[tech-c] lname:             Schmid
+[tech-c] fname:             Alexandra
+[tech-c] lname:             Zwingli
 [tech-c] org:               RapidShare AG
 [tech-c] address:           Gewerbestrasse 6
 [tech-c] city:              Cham
 [tech-c] pcode:             6330
 [tech-c] country:           CH
 [tech-c] state:             CH
-[tech-c] phone:             +41-41-7487888
-[tech-c] fax:               +41-41-7487899
-[tech-c] email:             domain@rapidshare.com
+[tech-c] phone:             +41-41-7487880
+[tech-c] fax:               +41-41-7487880
+[tech-c] email:             support@rapidshare.com
 [tech-c] protection:        B
-[tech-c] updated:           2011-02-03 00:20:42
+[tech-c] updated:           2011-09-14 14:54:21
 
-[zone-c] handle:            9408709
+[zone-c] handle:            11311887
 [zone-c] type:              PERSON
 [zone-c] title:
-[zone-c] fname:             Christian
-[zone-c] lname:             Schmid
+[zone-c] fname:             Alexandra
+[zone-c] lname:             Zwingli
 [zone-c] org:               RapidShare AG
 [zone-c] address:           Gewerbestrasse 6
 [zone-c] city:              Cham
 [zone-c] pcode:             6330
 [zone-c] country:           CH
 [zone-c] state:             CH
-[zone-c] phone:             +41-41-7487888
-[zone-c] fax:               +41-41-7487899
-[zone-c] email:             domain@rapidshare.com
+[zone-c] phone:             +41-41-7487880
+[zone-c] fax:               +41-41-7487880
+[zone-c] email:             support@rapidshare.com
 [zone-c] protection:        B
-[zone-c] updated:           2011-02-03 00:20:42
+[zone-c] updated:           2011-09-14 14:54:21
 

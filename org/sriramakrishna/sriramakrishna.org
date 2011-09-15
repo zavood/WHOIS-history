@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D926768-LROR
+Domain Name:SRIRAMAKRISHNA.ORG
+Created On:15-Dec-1997 05:00:00 UTC
+Last Updated On:12-Nov-2010 15:03:13 UTC
+Expiration Date:14-Dec-2011 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR11208069
+Registrant Name:Ramakrishna Mission Institutue Golpark
+Registrant Organization:Ramakrishna Mission Institutue of Culture
+Registrant Street1:Golpark
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kolkata
+Registrant State/Province:West Bengal
+Registrant Postal Code:700029
+Registrant Country:IN
+Registrant Phone:+91.03324120035
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rmicwebteam@gmail.com
+Admin ID:CR11208071
+Admin Name:Ramakrishna Mission Institutue Golpark
+Admin Organization:Ramakrishna Mission Institutue of Culture
+Admin Street1:Golpark
+Admin Street2:
+Admin Street3:
+Admin City:Kolkata
+Admin State/Province:West Bengal
+Admin Postal Code:700029
+Admin Country:IN
+Admin Phone:+91.03324120035
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rmicwebteam@gmail.com
+Tech ID:CR11208070
+Tech Name:Ramakrishna Mission Institutue Golpark
+Tech Organization:Ramakrishna Mission Institutue of Culture
+Tech Street1:Golpark
+Tech Street2:
+Tech Street3:
+Tech City:Kolkata
+Tech State/Province:West Bengal
+Tech Postal Code:700029
+Tech Country:IN
+Tech Phone:+91.03324120035
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rmicwebteam@gmail.com
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
