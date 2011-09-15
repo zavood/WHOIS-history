@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D75428090-LROR
+Domain Name:CANCERRESEARCHUK.ORG
+Created On:27-Jul-2001 16:09:03 UTC
+Last Updated On:16-Jun-2011 09:08:00 UTC
+Expiration Date:27-Jul-2012 16:09:03 UTC
+Sponsoring Registrar:ASCIO Technologies, Inc. - Denmark (R76-LROR)
+Status:OK
+Registrant ID:AT120568382-052
+Registrant Name:IS Admin
+Registrant Organization:Cancer Research UK
+Registrant Street1:Angel Building, 407 St John Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:London
+Registrant State/Province:London
+Registrant Postal Code:EC1V 4AD
+Registrant Country:GB
+Registrant Phone:+44.2034695514
+Registrant Phone Ext.:
+Registrant FAX:+44.2030147691
+Registrant FAX Ext.:
+Registrant Email:is_admin@cancer.org.uk
+Admin ID:AT92812512-051
+Admin Name:IS Admin
+Admin Organization:Cancer Research UK
+Admin Street1:Angel Building, 407 St John Street
+Admin Street2:
+Admin Street3:
+Admin City:London
+Admin State/Province:London
+Admin Postal Code:EC1V 4AD
+Admin Country:GB
+Admin Phone:+44.2034695514
+Admin Phone Ext.:
+Admin FAX:+44.2030147691
+Admin FAX Ext.:
+Admin Email:is_admin@cancer.org.uk
+Tech ID:AT108440220-052
+Tech Name:NetNames Hostmaster
+Tech Organization:NetNames Limited
+Tech Street1:3rd Floor Prospero House, 241 Borough High St.
+Tech Street2:
+Tech Street3:
+Tech City:London
+Tech State/Province:London
+Tech Postal Code:SE1 1GA
+Tech Country:GB
+Tech Phone:+44.2070159370
+Tech Phone Ext.:
+Tech FAX:+44.2070159375
+Tech FAX Ext.:
+Tech Email:hostmaster@netnames.com
+Name Server:NS2.NETNAMES.NET
+Name Server:NS1.NETNAMES.NET
+Name Server:NS3.NETNAMES.NET
+Name Server:NS4.NETNAMES.NET
+Name Server:NS5.NETNAMES.NET
+Name Server:NS6.NETNAMES.NET
+Name Server:NS7.NETNAMES.NET
+Name Server:NS8.NETNAMES.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

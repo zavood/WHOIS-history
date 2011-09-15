@@ -1,0 +1,69 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         low-car-scene.at
+registrant:     HJW3685959-NICAT
+admin-c:        HJW3685960-NICAT
+tech-c:         BA2083279-NICAT
+nserver:        ns01.1blu.de
+nserver:        ns02.1blu.de
+changed:        20080626 14:33:03
+source:         AT-DOM
+
+personname:     Hans-Juergen Windpassinger
+organization:
+street address: Unteresternberg 33
+postal code:    4092
+city:           Esternebrg
+country:        Germany
+phone:          +4916094462725
+e-mail:         nos@aon.at
+nic-hdl:        HJW3685959-NICAT
+changed:        20080626 12:20:58
+source:         AT-DOM
+
+personname:     Hans-Juergen Windpassinger
+organization:
+street address: Unteresternberg 33
+postal code:    4092
+city:           Esternebrg
+country:        Germany
+phone:          +4916094462725
+e-mail:         nos@aon.at
+nic-hdl:        HJW3685960-NICAT
+changed:        20080626 12:21:01
+source:         AT-DOM
+
+personname:     Johann Dasch
+organization:   1blu AG
+street address: Stromstr. 1-5
+postal code:    10555
+city:           Berlin
+country:        Germany
+phone:          +493020181000
+fax-no:         +493020181001
+e-mail:         info@1blu.de
+nic-hdl:        BA2083279-NICAT
+changed:        20080108 11:42:05
+source:         AT-DOM
+

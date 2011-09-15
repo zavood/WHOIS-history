@@ -1,0 +1,73 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         praxis-sagmeister.at
+registrant:     MS2113517-NICAT
+admin-c:        MS2113519-NICAT
+tech-c:         AH705455-NICAT
+nserver:        dns20.activeisp.com
+remarks:        213.188.128.38
+nserver:        dns21.activeisp.com
+remarks:        213.180.68.231
+changed:        20051229 14:55:46
+source:         AT-DOM
+
+personname:     Markus Sagmeister
+organization:
+street address: Kornmarktstrasse 2
+postal code:    A-6900
+city:           Bregenz
+country:        Austria
+phone:          +43557453600
+fax-no:         +435574536004
+e-mail:         praxis.sagmeister@aon.at
+nic-hdl:        MS2113517-NICAT
+changed:        20051220 13:19:27
+source:         AT-DOM
+
+personname:     Markus Sagmeister
+organization:
+street address: Kornmarktstrasse 2
+postal code:    A-6900
+city:           Bregenz
+country:        Austria
+phone:          +43557453600
+fax-no:         +435574536004
+e-mail:         praxis.sagmeister@aon.at
+nic-hdl:        MS2113519-NICAT
+changed:        20051220 13:19:28
+source:         AT-DOM
+
+personname:     Registry Department
+organization:   Active 24 ASA
+street address: Pilestredet 75C Postboks 5198 Majorstua
+postal code:    N-0302
+city:           Oslo
+country:        Norway
+phone:          +4721933000
+fax-no:         +4721933001
+e-mail:         registry@registry.active24.com
+nic-hdl:        AH705455-NICAT
+changed:        20080411 08:49:16
+source:         AT-DOM
+

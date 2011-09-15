@@ -1,0 +1,113 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; newcar-import.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      newcar-import.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    NC254-FRNIC
+admin-c:     SP257-FRNIC
+tech-c:      NU96-FRNIC
+tech-c:      NL4-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL441-FRNIC
+registrar:   UNIMEDIA SERVICES
+anniversary: 03/09
+created:     11/10/2007
+last-update: 03/09/2008
+source:      FRNIC
+
+ns-list:     NSL441-FRNIC
+nserver:     ns1.unimedia.fr [85.14.171.1]
+nserver:     ns2.unimedia.fr [88.191.59.83]
+source:      FRNIC
+
+registrar:   UNIMEDIA SERVICES
+type:        Isp Option 1
+address:     14 Boulevard Lavoisier
+address:     ANGERS
+country:     FR
+phone:       +33 2 41 22 72 27
+fax-no:      +33 2 41 22 72 28
+e-mail:      noc@unimedia.fr
+website:     http://www.unimedia.fr
+anonymous:   NO
+registered:  01/01/2000
+source:      FRNIC
+
+nic-hdl:     NC254-FRNIC
+type:        ORGANIZATION
+contact:     New Car
+address:     20, rue Pierre Mendes France
+address:     Bp76
+address:     77200 Torcy
+country:     FR
+phone:       +33 1 64 63 82 69
+e-mail:      noc@unimedia.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SP257-FRNIC
+type:        PERSON
+contact:     Sandrine Pitte
+address:     New Car SARL
+address:     20, rue Pierre Mendes France
+address:     Bp76
+address:     77200 Torcy
+country:     FR
+phone:       +33 1 64 63 82 69
+e-mail:      noc@unimedia.fr
+changed:     03/09/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NU96-FRNIC
+type:        ROLE
+contact:     NOC UniMedia
+address:     UNIMEDIA SERVICES
+address:     Espace Performance Hermes
+address:     4, rue de la Chambre aux Deniers
+address:     49000 Angers
+country:     FR
+phone:       +33 2 41 22 72 27
+e-mail:      noc@unimedia.fr
+admin-c:     NL4-FRNIC
+tech-c:      CG1161-FRNIC
+notify:      noc@unimedia.fr
+changed:     10/10/2008 noc@unimedia.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NL4-FRNIC
+type:        PERSON
+contact:     Nicolas Leray
+address:     UNIMEDIA SERVICES
+address:     14, boulevard Lavoisier
+address:     49045 Angers
+country:     FR
+phone:       +33 2 41 22 72 27
+fax-no:      +33 2 41 22 72 28
+e-mail:      noc@unimedia.fr
+changed:     17/11/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

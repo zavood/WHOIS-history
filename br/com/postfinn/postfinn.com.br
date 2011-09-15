@@ -1,0 +1,48 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 08:47:36 (BRT -03:00)
+
+domain:      postfinn.com.br
+owner:       enio anderson dos santos
+ownerid:     948.930.049-72
+country:     BR
+owner-c:     EADSA161
+admin-c:     EADSA161
+tech-c:      EADSA161
+billing-c:   EADSA161
+nserver:     ns1.dominios.uol.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.dominios.uol.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns3.dominios.uol.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+saci:        yes
+created:     20110219 #7948778
+expires:     20120219
+changed:     20110219
+provider:    UOLHOST (22)
+status:      published
+
+nic-hdl-br:  EADSA161
+person:      Enio Anderson dos Santos
+e-mail:      postfinn@bol.com.br
+created:     20110219
+changed:     20110219
+provider:    UOLHOST (22)
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

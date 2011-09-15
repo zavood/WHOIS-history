@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D81700998-LROR
+Domain Name:DNS-SERVICES.ORG
+Created On:28-Dec-2001 13:48:29 UTC
+Last Updated On:14-Sep-2011 08:28:35 UTC
+Expiration Date:28-Dec-2012 13:48:29 UTC
+Sponsoring Registrar:1API GmbH (R1724-LROR)
+Status:OK
+Status:RENEWPERIOD
+Registrant ID:P-JBD42
+Registrant Name:Hostmaster Funktionen
+Registrant Organization:Danhost ApS
+Registrant Street1:Fjordvej 25
+Registrant Street2:
+Registrant Street3:
+Registrant City:Randers
+Registrant State/Province:
+Registrant Postal Code:8900
+Registrant Country:DK
+Registrant Phone:+45.70272207
+Registrant Phone Ext.:
+Registrant FAX:+45.70271207
+Registrant FAX Ext.:
+Registrant Email:hostmaster@danhost.dk
+Admin ID:P-JBD42
+Admin Name:Hostmaster Funktionen
+Admin Organization:Danhost ApS
+Admin Street1:Fjordvej 25
+Admin Street2:
+Admin Street3:
+Admin City:Randers
+Admin State/Province:
+Admin Postal Code:8900
+Admin Country:DK
+Admin Phone:+45.70272207
+Admin Phone Ext.:
+Admin FAX:+45.70271207
+Admin FAX Ext.:
+Admin Email:hostmaster@danhost.dk
+Tech ID:P-JBD42
+Tech Name:Hostmaster Funktionen
+Tech Organization:Danhost ApS
+Tech Street1:Fjordvej 25
+Tech Street2:
+Tech Street3:
+Tech City:Randers
+Tech State/Province:
+Tech Postal Code:8900
+Tech Country:DK
+Tech Phone:+45.70272207
+Tech Phone Ext.:
+Tech FAX:+45.70271207
+Tech FAX Ext.:
+Tech Email:hostmaster@danhost.dk
+Name Server:NS0.DNS-SERVICES.ORG
+Name Server:NS1.DNS-SERVICES.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

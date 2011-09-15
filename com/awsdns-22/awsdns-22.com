@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 21-oct-2010
    Expiration Date: 21-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 19:01:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 11:56:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -116,9 +116,9 @@ Registrant:
     Domain servers in listed order:
 
     g-ns-23.awsdns-22.com
-    g-ns-598.awsdns-22.com
     g-ns-1750.awsdns-22.com
     g-ns-1174.awsdns-22.com
+    g-ns-598.awsdns-22.com
 
 
 
