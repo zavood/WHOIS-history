@@ -1,0 +1,24 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       205.in-addr.arpa
+
+organisation: ARIN
+
+nserver:      DILL.ARIN.NET.
+nserver:      T.ARIN.NET.
+nserver:      U.ARIN.NET.
+nserver:      V.ARIN.NET.
+nserver:      W.ARIN.NET.
+nserver:      X.ARIN.NET.
+nserver:      Y.ARIN.NET.
+nserver:      Z.ARIN.NET.
+ds-rdata:     25305 5 1 6AFB5EE6FA01A85C61026C3DA6CD66A2E4C41975
+
+whois:        whois.arin.net
+
+changed:      1994-03
+changed:      2011-04-27
+source:       IANA
+

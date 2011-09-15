@@ -1,0 +1,60 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         clinicpharmacypills.at
+registrant:     GK7915431-NICAT
+admin-c:        GK7915432-NICAT
+tech-c:         GK7915432-NICAT
+nserver:        ns1.clinicpharmacypills.at
+remarks:        201.0.154.209
+nserver:        ns2.clinicpharmacypills.at
+remarks:        61.178.63.7
+changed:        20110329 15:54:34
+source:         AT-DOM
+
+personname:     Georgij Kiosov
+organization:
+street address: Orekhovy pr. d.37 kv.168
+postal code:    115573
+city:           Moscow
+country:        Russian Federation
+phone:          +74959385944
+fax-no:         +74959385944
+e-mail:         eagle@free-id.ru
+nic-hdl:        GK7915431-NICAT
+changed:        20110322 20:10:25
+source:         AT-DOM
+
+personname:     Georgij Kiosov
+organization:
+street address: Orekhovy pr. d.37 kv.168
+postal code:    115573
+city:           Moscow
+country:        Russian Federation
+phone:          +74959385944
+fax-no:         +74959385944
+e-mail:         eagle@free-id.ru
+nic-hdl:        GK7915432-NICAT
+changed:        20110322 20:10:25
+source:         AT-DOM
+

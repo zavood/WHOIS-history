@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 09:40:16 (BRT -03:00)
+
+domain:      pleskwindows.com.br
+owner:       A 001Hosting Hospedagem de Sites Ltda
+ownerid:     004.816.315/0001-62
+responsible: A 001Hosting Hospedagem de Sites Ltda
+country:     BR
+owner-c:     GLR3
+admin-c:     GLR3
+tech-c:      GLR3
+billing-c:   GLR3
+nserver:     ns1.01.pleskwindows.com.br 200.140.195.85
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.01.pleskwindows.com.br 200.140.195.86
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20070808 #3810632
+expires:     20120808
+changed:     20100817
+status:      published
+
+nic-hdl-br:  GLR3
+person:      A 001Hosting Ltda
+e-mail:      fapesp@001hosting.com.br
+created:     19980323
+changed:     20090901
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

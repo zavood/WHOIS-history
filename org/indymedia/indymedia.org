@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D11766162-LROR
+Domain Name:INDYMEDIA.ORG
+Created On:27-Oct-1999 20:24:39 UTC
+Last Updated On:02-Jun-2011 01:36:01 UTC
+Expiration Date:27-Oct-2014 20:24:39 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-1488321-GANDI
+Registrant Name:IMC Tech
+Registrant Organization:IMC
+Registrant Street1:Rua Aldo Oliveira Barbosa, 72
+Registrant Street2:Parque das Universidades
+Registrant Street3:MunicApio de Campinas
+Registrant City:Sao Paulo
+Registrant State/Province:
+Registrant Postal Code:13086-030
+Registrant Country:BR
+Registrant Phone:+55.119491645
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:8e1db6f792d80e6663572c7d098ee6d0-1027080@contact.gandi.net
+Admin ID:PO55-GANDI
+Admin Name:ABDECOM ABDECOM
+Admin Organization:Associacao Brasileira Pela Democratizacao da Comunicacao e pela Liberdade de Expressao
+Admin Street1:Whois Protege / Obfuscated whois
+Admin Street2:Gandi, 15 place de la Nation
+Admin Street3:
+Admin City:Paris
+Admin State/Province:
+Admin Postal Code:75011
+Admin Country:FR
+Admin Phone:+33.170377666
+Admin Phone Ext.:
+Admin FAX:+33.143730576
+Admin FAX Ext.:
+Admin Email:3dee5f9712611b443333da4827b9eb8d-73357@contact.gandi.net
+Tech ID:IT450-GANDI
+Tech Name:IMC Tech
+Tech Organization:IMC
+Tech Street1:Rua Aldo Oliveira Barbosa, 72
+Tech Street2:Parque das Universidades
+Tech Street3:MunicApio de Campinas
+Tech City:Sao Paulo
+Tech State/Province:
+Tech Postal Code:13086-030
+Tech Country:BR
+Tech Phone:+55.119491645
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:8e1db6f792d80e6663572c7d098ee6d0-1027080@contact.gandi.net
+Name Server:NS2.RISEUP.NET
+Name Server:NS2.FS-DL.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

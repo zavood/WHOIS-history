@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103989986-LROR
+Domain Name:JOHNKILPATRICK.ORG
+Created On:16-Feb-2004 21:48:27 UTC
+Last Updated On:05-Jul-2010 19:56:41 UTC
+Expiration Date:16-Feb-2015 21:48:27 UTC
+Sponsoring Registrar:DirectNIC, LTD (R48-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:IMG-815891
+Registrant Name:Cathy Johns
+Registrant Organization:John Kilpatrick Ministries
+Registrant Street1:9789 Timber Circle
+Registrant Street2:Suite A
+Registrant Street3:
+Registrant City:Daphne
+Registrant State/Province:AL
+Registrant Postal Code:36526
+Registrant Country:US
+Registrant Phone:+1.2514457188
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cjohns@johnkilpatrick.org
+Admin ID:IMG-815891
+Admin Name:Cathy Johns
+Admin Organization:John Kilpatrick Ministries
+Admin Street1:9789 Timber Circle
+Admin Street2:Suite A
+Admin Street3:
+Admin City:Daphne
+Admin State/Province:AL
+Admin Postal Code:36526
+Admin Country:US
+Admin Phone:+1.2514457188
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cjohns@johnkilpatrick.org
+Tech ID:IMG-815891
+Tech Name:Cathy Johns
+Tech Organization:John Kilpatrick Ministries
+Tech Street1:9789 Timber Circle
+Tech Street2:Suite A
+Tech Street3:
+Tech City:Daphne
+Tech State/Province:AL
+Tech Postal Code:36526
+Tech Country:US
+Tech Phone:+1.2514457188
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cjohns@johnkilpatrick.org
+Name Server:NS0.DIRECTNIC.COM
+Name Server:NS1.DIRECTNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
