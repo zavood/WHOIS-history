@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 02-sep-1998
    Expiration Date: 01-sep-2020
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:32:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:54:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: peegs.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 16:22:36 EDT 2011
+Date and Time of Query: Wed Sep 14 22:45:02 EDT 2011
 Reason Code: IE

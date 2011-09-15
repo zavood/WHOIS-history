@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BUTTKICKERSANONYMOUS.COM
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.THEEDWARDS.ORG
-   Name Server: NS2.GEEKTHING.COM
-   Status: clientTransferProhibited
-   Updated Date: 04-may-2011
-   Creation Date: 20-may-2000
-   Expiration Date: 20-may-2012
+   Domain Name: OLIVERSANZ.COM
+   Registrar: NOMINALIA INTERNET S.L.
+   Whois Server: whois.nominalia.com
+   Referral URL: http://www.nominalia.com
+   Name Server: DNS1.NOMINALIA.COM
+   Name Server: DNS2.NOMINALIA.COM
+   Status: ok
+   Updated Date: 29-jul-2011
+   Creation Date: 01-sep-2003
+   Expiration Date: 01-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:55:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:55:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,43 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+NOMINALIA INTERNET S.L. - Whois Server Version 1.4
 
-Registrant:
-   Soest Hill Enterprises
-   PO BOX 1187
-   Rolla, MO 65402-1187
-   US
+The Registry database contains ONLY .COM, .NET and .ORG domains.
 
-   Domain Name: BUTTKICKERSANONYMOUS.COM
+     Domain name: OLIVERSANZ.COM
+     Created on: 2008-02-07
+     Updated on: 2011-07-29
+     Expires on: 2012-09-01
+     Registrant Name: OLIVER SANZ GODOY
+     Contact: Oliver Sanz Godoy
+     Registrant Address: Marquesa Castellbell, 109 2? 2?
+     Registrant City: Sant Feliu de Llobregat
+     Registrant Postal Code: 08980
+     Registrant Country: ES
+     Administrative Contact Organization: Oliver Sanz Godoy
+     Administrative Contact Name: Oliver Sanz Godoy
+     Administrative Contact Address: Marquesa Castellbell, 109 2 2
+     Administrative Contact City: Sant Feliu de Llobregat
+     Administrative Contact Postal Code: 08980
+     Administrative Contact Country: ES
+     Administrative Contact Email: oliversanz@hotmail.com
+     Administrative Contact Tel: +34 936 666932
+     Technical Contact Organization: Arrakis Servicios y Comunicaciones S.L.U
+     Technical Contact Name:
+     Technical Contact Address: Edificio Expo, c/ Inca Garcilaso, s/n, Isla de la Cartuja
+     Technical Contact City: Sevilla
+     Technical Contact Postal Code: 41092
+     Technical Contact Country: ES
+     Technical Contact Email: dominios@landsraad.net
+     Technical Contact Phone: +34 902020040
+     Technical Contact Fax: +34 955550540
+     Primary Name Server Hostname: DNS1.NOMINALIA.COM
+     Secondary Name Server Hostname: DNS2.NOMINALIA.COM
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      Soest Hill Enterprises
-      Edwards, Anne
-      PO BOX 1187
-      Rolla, MO 65402-1187
-      US
-      (573)364-6583
-      (573)341-5253 [fax]
-      anne@soesthill.com
 
-   Domain created on 20-May-2000
-   Domain expires on 20-May-2012
-   Last updated on 03-May-2011
-
-   Domain servers in listed order:
-
-      NS1.THEEDWARDS.ORG
-      NS2.GEEKTHING.COM
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
+&gt;&gt;&gt; Last update of whois database: Thu Sep 15 04:10:52 2011 &lt;&lt;&lt;
 

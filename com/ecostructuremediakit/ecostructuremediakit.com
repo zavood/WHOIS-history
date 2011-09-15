@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BUTTKICKERSANONYMOUS.COM
+   Domain Name: ECOSTRUCTUREMEDIAKIT.COM
    Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
    Whois Server: whois.domaindiscover.com
    Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.THEEDWARDS.ORG
-   Name Server: NS2.GEEKTHING.COM
+   Name Server: UDNS1.ULTRADNS.NET
+   Name Server: UDNS2.ULTRADNS.NET
    Status: clientTransferProhibited
-   Updated Date: 04-may-2011
-   Creation Date: 20-may-2000
-   Expiration Date: 20-may-2012
+   Updated Date: 15-jan-2011
+   Creation Date: 07-mar-2008
+   Expiration Date: 07-mar-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:55:55 UTC &lt;&lt;&lt;
 
@@ -62,31 +62,31 @@ database. By submitting this query, you agree to abide by this
 policy.
 
 Registrant:
-   Soest Hill Enterprises
-   PO BOX 1187
-   Rolla, MO 65402-1187
+   Hanley Wood LLC
+   1 Thomas Circle, NW Suite 600
+   Washington, DC 20005
    US
 
-   Domain Name: BUTTKICKERSANONYMOUS.COM
+   Domain Name: ECOSTRUCTUREMEDIAKIT.COM
 
    Administrative Contact, Technical Contact, Zone Contact:
-      Soest Hill Enterprises
-      Edwards, Anne
-      PO BOX 1187
-      Rolla, MO 65402-1187
+      Hanley Wood LLC
+      DNS ADMIN
+      1 Thomas Circle, NW Suite 600
+      Washington, DC 20005
       US
-      (573)364-6583
-      (573)341-5253 [fax]
-      anne@soesthill.com
+      (202)736-3767
+      (202)785-1974 [fax]
+      dnsadmin@hanleywood.com
 
-   Domain created on 20-May-2000
-   Domain expires on 20-May-2012
-   Last updated on 03-May-2011
+   Domain created on 07-Mar-2008
+   Domain expires on 06-Mar-2012
+   Last updated on 15-Jan-2011
 
    Domain servers in listed order:
 
-      NS1.THEEDWARDS.ORG
-      NS2.GEEKTHING.COM
+      UDNS1.ULTRADNS.NET
+      UDNS2.ULTRADNS.NET
 
 Domain registration and hosting powered by DomainDiscover
 As low as $9/year, including FREE: responsive toll-free support,

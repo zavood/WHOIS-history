@@ -5,16 +5,15 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BUTTKICKERSANONYMOUS.COM
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.THEEDWARDS.ORG
-   Name Server: NS2.GEEKTHING.COM
-   Status: clientTransferProhibited
-   Updated Date: 04-may-2011
-   Creation Date: 20-may-2000
-   Expiration Date: 20-may-2012
+   Domain Name: WORLD-OF-MATU.COM
+   Registrar: 1ST ANTAGUS INTERNET GMBH
+   Whois Server: whois.antagus.de
+   Name Server: NS1.CHWNS.DE
+   Name Server: NS2.CHWNS.DE
+   Status: ok
+   Updated Date: 17-jul-2011
+   Creation Date: 19-jul-2000
+   Expiration Date: 19-jul-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:55:55 UTC &lt;&lt;&lt;
 
@@ -51,44 +50,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Whois Server Version 2.1 at whois.tmagnic.net
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+Database contains ONLY .COM, .NET, .TV, .CC domains.
 
-Registrant:
-   Soest Hill Enterprises
-   PO BOX 1187
-   Rolla, MO 65402-1187
-   US
+Owner Contact:
+   Matthias Rummel
+   privat
+   Katharina Geisler Str. 16
+   Freising, 85356, DE
 
-   Domain Name: BUTTKICKERSANONYMOUS.COM
+   Punycode Name:  world-of-matu.com
+   Unicode Name:   world-of-matu.com
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      Soest Hill Enterprises
-      Edwards, Anne
-      PO BOX 1187
-      Rolla, MO 65402-1187
-      US
-      (573)364-6583
-      (573)341-5253 [fax]
-      anne@soesthill.com
+   Admin Contact
+      Matthias Rummel
+      privat
+      dns@chw.de
+      Katharina Geisler Str. 16
+      Freising, 85356, DE
+      phone: +49.8161885526
 
-   Domain created on 20-May-2000
-   Domain expires on 20-May-2012
-   Last updated on 03-May-2011
+   Technical Contact
+      Oliver Wolf
+      CHW Systems
+      dns@chw.de
+      Feldstr. 12
+      Erding, 85435, DE
+      phone: +49.81221808390
+
+   Zone Contact
+      Oliver Wolf
+      CHW Systems
+      dns@chw.de
+      Feldstr. 12
+      Erding, 85435, DE
+      phone: +49.81221808390
+
+   Record expires on: 2012-07-19 00:00:00
 
    Domain servers in listed order:
 
-      NS1.THEEDWARDS.ORG
-      NS2.GEEKTHING.COM
+      ns2.chwns.de 89.200.169.10
+      ns1.chwns.de 89.200.168.66
 
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
+
 

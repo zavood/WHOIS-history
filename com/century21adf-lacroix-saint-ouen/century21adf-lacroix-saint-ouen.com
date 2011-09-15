@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BUTTKICKERSANONYMOUS.COM
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.THEEDWARDS.ORG
-   Name Server: NS2.GEEKTHING.COM
-   Status: clientTransferProhibited
-   Updated Date: 04-may-2011
-   Creation Date: 20-may-2000
-   Expiration Date: 20-may-2012
+   Domain Name: CENTURY21ADF-LACROIX-SAINT-OUEN.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.VALIDNAME.COM
+   Name Server: NS2.VALIDNAME.COM
+   Status: ok
+   Updated Date: 16-jun-2010
+   Creation Date: 16-jun-2010
+   Expiration Date: 16-jun-2013
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:55:55 UTC &lt;&lt;&lt;
 
@@ -52,43 +52,41 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
-
-Registrant:
-   Soest Hill Enterprises
-   PO BOX 1187
-   Rolla, MO 65402-1187
-   US
-
-   Domain Name: BUTTKICKERSANONYMOUS.COM
-
-   Administrative Contact, Technical Contact, Zone Contact:
-      Soest Hill Enterprises
-      Edwards, Anne
-      PO BOX 1187
-      Rolla, MO 65402-1187
-      US
-      (573)364-6583
-      (573)341-5253 [fax]
-      anne@soesthill.com
-
-   Domain created on 20-May-2000
-   Domain expires on 20-May-2012
-   Last updated on 03-May-2011
-
-   Domain servers in listed order:
-
-      NS1.THEEDWARDS.ORG
-      NS2.GEEKTHING.COM
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
-
+Domain Name : CENTURY21ADF-LACROIX-SAINT-OUEN.COM
+Created On : 2010-06-16
+Expiration Date : 2013-06-16
+Status : ACTIVE
+Registrant Name : Agence de la For?t
+Registrant Street1 : nc
+Registrant Street2 : nc
+Registrant City : nc
+Registrant State/Province  : FR
+Registrant Postal Code : nc
+Registrant Country : FR
+Admin Name : Naxos
+Admin Street1 : 17 place de la r?sistance
+Admin City : Issy les moulineaux
+Admin State/Province : Ile de france
+Admin Postal Code : 92130
+Admin Country : FR
+Admin Phone : +33.155954500
+Admin Email : gestiondns@naxos-fr.net
+Tech Name : Naxos
+Tech Street1 : 17 place de la r?sistance
+Tech City : Issy les moulineaux
+Tech State/Province : Ile de france
+Tech Postal Code : 92130
+Tech Country : FR
+Tech Phone : +33.155954500
+Tech Email : gestiondns@naxos-fr.net
+Billing Name : Naxos
+Billing Street1 : 17 place de la r?sistance
+Billing City : Issy les moulineaux
+Billing State/Province : Ile de france
+Billing Postal Code : 92130
+Billing Country : FR
+Billing Phone : +33.155954500
+Billing Email : gestiondns@naxos-fr.net
+Name Server : NS1.VALIDNAME.COM
+Name Server : NS2.VALIDNAME.COM
+Registrar Name : Namebay

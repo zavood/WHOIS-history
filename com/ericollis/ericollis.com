@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BUTTKICKERSANONYMOUS.COM
-   Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
-   Whois Server: whois.domaindiscover.com
-   Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.THEEDWARDS.ORG
-   Name Server: NS2.GEEKTHING.COM
-   Status: clientTransferProhibited
-   Updated Date: 04-may-2011
-   Creation Date: 20-may-2000
-   Expiration Date: 20-may-2012
+   Domain Name: ERICOLLIS.COM
+   Registrar: DOTSTER, INC.
+   Whois Server: whois.dotster.com
+   Referral URL: http://www.dotster.com
+   Name Server: NS1.BLUEHOST.COM
+   Name Server: NS2.BLUEHOST.COM
+   Status: ok
+   Updated Date: 03-jan-2011
+   Creation Date: 02-jan-2010
+   Expiration Date: 02-jan-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:55:55 UTC &lt;&lt;&lt;
 
@@ -52,43 +52,52 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-This WHOIS database is provided for information purposes only. We do
-not guarantee the accuracy of this data. The following uses of this
-system are expressly prohibited: (1) use of this system for unlawful
-purposes; (2) use of this system to collect information used in the
-mass transmission of unsolicited commercial messages in any medium;
-(3) use of high volume, automated, electronic processes against this
-database. By submitting this query, you agree to abide by this
-policy.
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
+
+   Domain Services Provided By:
+      domain.com, support@support.domain.com
+      http://www.domain.com
 
 Registrant:
-   Soest Hill Enterprises
-   PO BOX 1187
-   Rolla, MO 65402-1187
+   Sagacious Technologies
+   PO Box 636
+   Stevensville, MI  49127
    US
 
-   Domain Name: BUTTKICKERSANONYMOUS.COM
+   Registrar: DOTSTER
+   Domain Name: ERICOLLIS.COM
+      Created on: 02-JAN-10
+      Expires on: 02-JAN-12
+      Last Updated on: 04-MAR-11
 
-   Administrative Contact, Technical Contact, Zone Contact:
-      Soest Hill Enterprises
-      Edwards, Anne
-      PO BOX 1187
-      Rolla, MO 65402-1187
+   Administrative, Technical Contact:
+      Ollis, Eric  sales@sagacioustechnologies.com
+      Sagacious Technologies
+      PO Box 636
+      Stevensville, MI  49127
       US
-      (573)364-6583
-      (573)341-5253 [fax]
-      anne@soesthill.com
+      2695880005
 
-   Domain created on 20-May-2000
-   Domain expires on 20-May-2012
-   Last updated on 03-May-2011
 
    Domain servers in listed order:
+      NS1.BLUEHOST.COM
+      NS2.BLUEHOST.COM
 
-      NS1.THEEDWARDS.ORG
-      NS2.GEEKTHING.COM
-
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
-
+End of Whois Information

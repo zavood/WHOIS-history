@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: LUM80D-NORID
+Domain Name................: lumon.no
+Domain Holder Handle.......: ABA474O-NORID
+Registrar Handle...........: REG736-NORID
+Legal-c Handle.............: HKH88P-NORID
+Tech-c Handle..............: PG1183P-NORID
+Name Server Handle.........: DNST115H-NORID
+Name Server Handle.........: DNST116H-NORID
+
+Additional information:
+Created:         2002-11-08
+Last updated:    2011-05-26
+
+NORID Handle...............: ABA474O-NORID
+Type.......................: organization
+Name.......................: ATLAS BYGGSERVICE AS
+Id Type....................: organization_number
+Id Number..................: 981888863
+Registrar Handle...........: REG736-NORID
+Post Address...............: Postboks 97
+Postal Code................: NO-1305
+Postal Area................: HASLUM
+Country....................: NO
+Phone Number...............: +47.67565455
+Fax Number.................: +47.67565456
+Email Address..............: post@lumon.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

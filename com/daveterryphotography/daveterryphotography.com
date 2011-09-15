@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: BUTTKICKERSANONYMOUS.COM
+   Domain Name: DAVETERRYPHOTOGRAPHY.COM
    Registrar: TIERRANET INC. D/B/A DOMAINDISCOVER
    Whois Server: whois.domaindiscover.com
    Referral URL: http://www.domaindiscover.com
-   Name Server: NS1.THEEDWARDS.ORG
-   Name Server: NS2.GEEKTHING.COM
+   Name Server: NS1.TERIMAGE.COM
+   Name Server: NS2.TERIMAGE.COM
    Status: clientTransferProhibited
-   Updated Date: 04-may-2011
-   Creation Date: 20-may-2000
-   Expiration Date: 20-may-2012
+   Updated Date: 29-jan-2011
+   Creation Date: 13-feb-2007
+   Expiration Date: 13-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:55:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:54:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,33 +62,34 @@ database. By submitting this query, you agree to abide by this
 policy.
 
 Registrant:
-   Soest Hill Enterprises
-   PO BOX 1187
-   Rolla, MO 65402-1187
+   Dave Terry
+   POB 885
+   Haiku, HI 96708
    US
 
-   Domain Name: BUTTKICKERSANONYMOUS.COM
+   Domain Name: DAVETERRYPHOTOGRAPHY.COM
 
    Administrative Contact, Technical Contact, Zone Contact:
-      Soest Hill Enterprises
-      Edwards, Anne
-      PO BOX 1187
-      Rolla, MO 65402-1187
+      Dave Terry
+      POB 885
+      Haiku, HI 96708
       US
-      (573)364-6583
-      (573)341-5253 [fax]
-      anne@soesthill.com
+      (850)598-0453
+      whois@emailaddressprotection.com
+   ** VISIT http://www.emailaddressprotection.com **
 
-   Domain created on 20-May-2000
-   Domain expires on 20-May-2012
-   Last updated on 03-May-2011
+   Domain created on 13-Feb-2007
+   Domain expires on 14-Feb-2012
+   Last updated on 29-Jan-2011
 
    Domain servers in listed order:
 
-      NS1.THEEDWARDS.ORG
-      NS2.GEEKTHING.COM
+      NS1.TERIMAGE.COM
+      NS2.TERIMAGE.COM
 
-Domain registration and hosting powered by DomainDiscover
-As low as $9/year, including FREE: responsive toll-free support,
-URL/frame/email forwarding, easy management system, and full featured DNS.
+At our customer's request, our system is acting as a proxy for email
+addressed to the contacts which are listed above. Please visit
+www.emailaddressprotection.com to contact the appropriate party.
+
+
 
