@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WINDSORSTHRIFTSTORE.COM
+   Domain Name: SEXFOODANDCOMICBOOKS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS53.DOMAINCONTROL.COM
-   Name Server: NS54.DOMAINCONTROL.COM
+   Name Server: NS03.DOMAINCONTROL.COM
+   Name Server: NS04.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-aug-2011
-   Creation Date: 11-aug-2007
-   Expiration Date: 11-aug-2012
+   Updated Date: 29-may-2010
+   Creation Date: 30-may-2009
+   Expiration Date: 30-may-2016
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:03:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:03:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Windsors thrift store
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: WINDSORSTHRIFTSTORE.COM
+   Domain Name: SEXFOODANDCOMICBOOKS.COM
 
    Domain servers in listed order:
-      NS53.DOMAINCONTROL.COM
-      NS54.DOMAINCONTROL.COM
+      NS03.DOMAINCONTROL.COM
+      NS04.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=WINDSORSTHRIFTSTORE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=SEXFOODANDCOMICBOOKS.COM

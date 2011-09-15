@@ -5,19 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WINDSORSTHRIFTSTORE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS53.DOMAINCONTROL.COM
-   Name Server: NS54.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 12-aug-2011
-   Creation Date: 11-aug-2007
-   Expiration Date: 11-aug-2012
+   Domain Name: GKNAEROSPACE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: G4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: J4.NSTLD.COM
+   Name Server: K4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
+   Status: ok
+   Updated Date: 04-apr-2011
+   Creation Date: 02-dec-2002
+   Expiration Date: 02-dec-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:03:36 UTC &lt;&lt;&lt;
 
@@ -54,37 +56,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... gknaerospace.com
+  Creation Date........ 2002-12-02
+  Registration Date.... 2011-04-04
+  Expiry Date.......... 2012-12-03
+  Organisation Name.... GKN Holdings PLC
+  Organisation Address. PO Box 55
+  Organisation Address. Ipsley House, Ipsley Church Lane
+  Organisation Address. Redditch
+  Organisation Address. B98 0TL
+  Organisation Address. Worcestershire
+  Organisation Address. GREAT BRITAIN (UK)
+
+Admin Name........... Domains Manager
+  Admin Address........ PO Box 55
+  Admin Address........ Ipsley House, Ipsley Church Lane
+  Admin Address........ Redditch
+  Admin Address........ B98 0TL
+  Admin Address........ Worcestershire
+  Admin Address........ GREAT BRITAIN (UK)
+  Admin Email.......... domains@gkndriveline.com
+  Admin Phone.......... +44.1527533600
+  Admin Fax............ +44.1527533666
+
+Tech Name............ Melbourne IT Tech
+  Tech Address......... 636 Ellis Street
+  Tech Address.........
+  Tech Address......... Mountain View
+  Tech Address......... 94043
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... tech@melbourneitdbs.com
+  Tech Phone........... +1.8669073267
+  Tech Fax............. +1.6509633266
+  Name Server.......... H4.NSTLD.COM
+  Name Server.......... K4.NSTLD.COM
+  Name Server.......... G4.NSTLD.COM
+  Name Server.......... J4.NSTLD.COM
+  Name Server.......... A4.NSTLD.COM
+  Name Server.......... L4.NSTLD.COM
+  Name Server.......... F4.NSTLD.COM
 
 
-Registrant:
-   Windsors thrift store
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: WINDSORSTHRIFTSTORE.COM
-
-   Domain servers in listed order:
-      NS53.DOMAINCONTROL.COM
-      NS54.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=WINDSORSTHRIFTSTORE.COM

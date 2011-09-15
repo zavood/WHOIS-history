@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 10-apr-2011
    Expiration Date: 10-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 00:26:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:05:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,4 +54,73 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-We're sorry, there has been a problem. Technicians have been notified. Code E3.
+=-=-=-=
+Visit AboutUs.org for more information about emnotifying.com
+&lt;a href=&quot;http://www.aboutus.org/emnotifying.com&quot;&gt;AboutUs: emnotifying.com&lt;/a&gt;
+
+
+Domain name: emnotifying.com
+
+Administrative Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (syjtfkwx@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O emnotifying.com
+   Bellevue, WA 98007
+   US
+
+Technical Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (syjtfkwx@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O emnotifying.com
+   Bellevue, WA 98007
+   US
+
+Registrant Contact:
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
+
+   Fax:
+   PMB 368, 14150 NE 20th St - F1
+   C/O emnotifying.com
+   Bellevue, WA 98007
+   US
+
+Status: Locked
+
+Name Servers:
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
+
+Creation date: 11 Apr 2011 13:55:00
+Expiration date: 10 Apr 2012 12:13:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107695622-LROR
+Domain Name:HOMELESSWORLDCUP.ORG
+Created On:04-Oct-2005 15:48:09 UTC
+Last Updated On:03-Sep-2007 10:22:42 UTC
+Expiration Date:04-Oct-2012 15:48:09 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuH46djM1IxIiawz
+Registrant Name:Katherine Byles
+Registrant Organization:ProPoor Sports
+Registrant Street1:51 Timberbush
+Registrant Street2:
+Registrant Street3:
+Registrant City:Edinburgh
+Registrant State/Province:Lothian
+Registrant Postal Code:EH66QH
+Registrant Country:GB
+Registrant Phone:+44.1315611795
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kat@homelessworldcup.org
+Admin ID:tukXZaGGoRMJnCyq
+Admin Name:Katherine Byles
+Admin Organization:ProPoor Sports
+Admin Street1:51 Timberbush
+Admin Street2:
+Admin Street3:
+Admin City:Edinburgh
+Admin State/Province:Lothian
+Admin Postal Code:EH66QH
+Admin Country:GB
+Admin Phone:+44.1315611795
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:kat@homelessworldcup.org
+Tech ID:tuqYabpjIV1mCEd5
+Tech Name:Katherine Byles
+Tech Organization:ProPoor Sports
+Tech Street1:51 Timberbush
+Tech Street2:
+Tech Street3:
+Tech City:Edinburgh
+Tech State/Province:Lothian
+Tech Postal Code:EH66QH
+Tech Country:GB
+Tech Phone:+44.1315611795
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:kat@homelessworldcup.org
+Name Server:NS.123-REG.CO.UK
+Name Server:NS2.123-REG.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

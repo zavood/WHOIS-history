@@ -5,19 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WINDSORSTHRIFTSTORE.COM
+   Domain Name: VENICEBEACHWALKINGTOURS.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS53.DOMAINCONTROL.COM
-   Name Server: NS54.DOMAINCONTROL.COM
+   Name Server: NS51.DOMAINCONTROL.COM
+   Name Server: NS52.DOMAINCONTROL.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 12-aug-2011
-   Creation Date: 11-aug-2007
-   Expiration Date: 11-aug-2012
+   Updated Date: 05-oct-2009
+   Creation Date: 29-nov-2007
+   Expiration Date: 29-nov-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:03:36 UTC &lt;&lt;&lt;
 
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Windsors thrift store
+   Venice Beach Walking Tours
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: WINDSORSTHRIFTSTORE.COM
+   Domain Name: VENICEBEACHWALKINGTOURS.COM
 
    Domain servers in listed order:
-      NS53.DOMAINCONTROL.COM
-      NS54.DOMAINCONTROL.COM
+      NS51.DOMAINCONTROL.COM
+      NS52.DOMAINCONTROL.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=WINDSORSTHRIFTSTORE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=VENICEBEACHWALKINGTOURS.COM

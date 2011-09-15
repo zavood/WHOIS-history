@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WINDSORSTHRIFTSTORE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS53.DOMAINCONTROL.COM
-   Name Server: NS54.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: YOURBLUEPRINT4SUCCESS.COM
+   Registrar: CSL COMPUTER SERVICE LANGENBACH GMBH D/B/A JOKER.COM
+   Whois Server: whois.joker.com
+   Referral URL: http://www.joker.com
+   Name Server: DNS27.GZO.COM
+   Name Server: DNS28.GZO.COM
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 12-aug-2011
-   Creation Date: 11-aug-2007
-   Expiration Date: 11-aug-2012
+   Updated Date: 07-jul-2011
+   Creation Date: 11-aug-2001
+   Expiration Date: 11-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:03:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:04:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +51,47 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+domain:       yourblueprint4success.com
+owner:        Louise Kaelin
+organization: Touchpoint Coaching
+email:        touchpoint@comcast.net
+address:      431 S. 5th Street
+city:         Hamburg
+state:        PA
+postal-code:  19526
+country:      US
+phone:        +1.4846603143
+admin-c:      CCOM-79384 touchpoint@comcast.net
+tech-c:       CCOM-79384 touchpoint@comcast.net
+billing-c:    CCOM-79384 touchpoint@comcast.net
+nserver:      dns28.gzo.com
+nserver:      dns27.gzo.com
+status:       lock
+created:      2001-08-11 09:29:17 UTC
+modified:     2011-07-08 01:30:50 UTC
+expires:      2013-08-11 07:29:02 UTC
+query-source: 174.142.225.246
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+contact-hdl:  CCOM-79384
+person:       Louise Kaelin
+organization: Touchpoint Coaching
+email:        touchpoint@comcast.net
+address:      431 S. 5th Street
+city:         Hamburg
+state:        PA
+postal-code:  19526
+country:      US
+phone:        +1.4846603143
 
-
-Registrant:
-   Windsors thrift store
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: WINDSORSTHRIFTSTORE.COM
-
-   Domain servers in listed order:
-      NS53.DOMAINCONTROL.COM
-      NS54.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=WINDSORSTHRIFTSTORE.COM
+source:       joker.com live whois service
+query-time:   0.015801
+db-updated:   2011-09-15 05:04:43
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

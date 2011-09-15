@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VERDE-REGGAE.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: DNS.PARKPAGE.FOUNDATIONAPI.COM
-   Name Server: DNS2.PARKPAGE.FOUNDATIONAPI.COM
+   Domain Name: ZIRVEDINLENME.COM
+   Registrar: REG2C.COM, INC.
+   Whois Server: whois.reg2c.com
+   Referral URL: http://www.reg2c.com
+   Name Server: NS1.TURKTICARET.NET
+   Name Server: NS2.TURKTICARET.NET
+   Name Server: NS3.TURKTICARET.NET
    Status: ok
-   Updated Date: 09-aug-2011
-   Creation Date: 08-aug-2008
-   Expiration Date: 08-aug-2012
+   Updated Date: 24-jan-2011
+   Creation Date: 31-jan-2008
+   Expiration Date: 31-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:03:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:04:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,57 +52,63 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name: VERDE-REGGAE.COM
+Registration Service Provided By: REG2C
+Contact: +90.2242248640
+Website: http://www.reg2c.com
+
+Domain Name: ZIRVEDINLENME.COM
 
 Registrant:
-    Astete victor
-    Astete victor        (info@kanalcmc.com)
-    Diagonal Capraro 1062 L3
-    Bariloche
-    Ri&amp;#243;Negro,8400
-    AR
-    Tel. +54.2944422255
+    azra
+    fatih -(233756)        (fsarac@hotmail.com)
+    mecidiyekoy  ist
+    istanbul
+    ,34480
+    TR
+    Tel. +532.7777677
+    Fax. +212.2165456
 
-Creation Date: 08-Aug-2008
-Expiration Date: 08-Aug-2011
+Creation Date: 31-Jan-2008
+Expiration Date: 31-Jan-2012
 
 Domain servers in listed order:
-    ns21.dattatec.com
-    ns22.dattatec.com
+    ns1.turkticaret.net
+    ns2.turkticaret.net
+    ns3.turkticaret.net
 
 
 Administrative Contact:
-    Astete victor
-    Astete victor        (info@kanalcmc.com)
-    Diagonal Capraro 1062 L3
-    Bariloche
-    Ri&amp;#243;Negro,8400
-    AR
-    Tel. +54.2944422255
+    azra
+    fatih -(233756)        (fsarac@hotmail.com)
+    mecidiyekoy  ist
+    istanbul
+    ,34480
+    TR
+    Tel. +532.7777677
+    Fax. +212.2165456
 
 Technical Contact:
-    Astete victor
-    Astete victor        (info@kanalcmc.com)
-    Diagonal Capraro 1062 L3
-    Bariloche
-    Ri&amp;#243;Negro,8400
-    AR
-    Tel. +54.2944422255
+    azra
+    fatih -(233756)        (fsarac@hotmail.com)
+    mecidiyekoy  ist
+    istanbul
+    ,34480
+    TR
+    Tel. +532.7777677
+    Fax. +212.2165456
 
 Billing Contact:
-    Astete victor
-    Astete victor        (info@kanalcmc.com)
-    Diagonal Capraro 1062 L3
-    Bariloche
-    Ri&amp;#243;Negro,8400
-    AR
-    Tel. +54.2944422255
+    azra
+    fatih -(233756)        (fsarac@hotmail.com)
+    mecidiyekoy  ist
+    istanbul
+    ,34480
+    TR
+    Tel. +532.7777677
+    Fax. +212.2165456
 
-Status:RENEWAL HOLD
-	Note: This Domain Name has expired. In this status the domain name
-	is inactive. This domain name will be activated once it is renewed.
-	 The Owner of this domain name can renew this domain name from their control panel.
-	If this domain name is not renewed by 17-Sep-2011, it will be permanently deleted.
+Status:ACTIVE
+
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
 to a domain name registration record. We make this information available &quot;as is&quot;,
@@ -112,7 +119,7 @@ or load this whois database system providing you this information; or
 (2) allow, enable, or otherwise support the transmission of mass unsolicited,
 commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
 The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+prior written consent from us. The Registrar of record is Reg2C.com Inc..
 We reserve the right to modify these terms at any time.
 By submitting this query, you agree to abide by these terms.
 
