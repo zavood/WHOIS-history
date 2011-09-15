@@ -1,0 +1,38 @@
+# Copyright (c) 1997- .SE (The Internet Infrastructure Foundation).
+# All rights reserved.
+
+# The information obtained through searches, or otherwise, is protected
+# by the Swedish Copyright Act (1960:729) and international conventions.
+# It is also subject to database protection according to the Swedish
+# Copyright Act.
+
+# Any use of this material to target advertising or
+# similar activities is forbidden and will be prosecuted.
+# If any of the information below is transferred to a third
+# party, it must be done in its entirety. This server must
+# not be used as a backend for a search engine.
+
+# Result of search for registered domain names under
+# the .SE top level domain.
+
+# The data is in the UTF-8 character set and the result is
+# printed with eight bits.
+
+state:            active
+domain:           binero.se
+holder:           regist2861-28561
+admin-c:          regist2861-28561
+tech-c:           regist2861-28561
+billing-c:        regist2861-28561
+created:          2007-07-30
+modified:         2011-08-15
+expires:          2020-07-30
+transferred:      2011-04-27
+nserver:          ns4.binero.se 2001:500:1f::254 199.254.53.254
+nserver:          ns3.binero.se 2001:500:19::254 199.254.31.254
+nserver:          ns6.binero.se 2001:500:18::254 199.254.30.254
+nserver:          ns5.binero.se 2001:500:22::254 199.254.56.254
+nserver:          ns7.binero.se 195.74.38.250
+dnssec:           unsigned delegation
+status:           ok
+registrar:        Binero AB (ny)
