@@ -12,11 +12,11 @@ for detailed information.
    Name Server: NS19.HOSTEXCELLENCE.COM
    Name Server: NS20.HOSTEXCELLENCE.COM
    Status: clientTransferProhibited
-   Updated Date: 17-aug-2011
+   Updated Date: 12-sep-2011
    Creation Date: 08-sep-2009
    Expiration Date: 08-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 02:34:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 18:05:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

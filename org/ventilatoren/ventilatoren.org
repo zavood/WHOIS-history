@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103362065-LROR
+Domain Name:VENTILATOREN.ORG
+Created On:29-Nov-2003 14:34:44 UTC
+Last Updated On:15-Mar-2011 08:52:15 UTC
+Expiration Date:29-Nov-2011 14:34:44 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ABM-10711343
+Registrant Name:Philipp Kloeckner
+Registrant Street1:Rodenbergstr. 2
+Registrant Street2:
+Registrant Street3:
+Registrant City:Berlin
+Registrant State/Province:DE
+Registrant Postal Code:10439
+Registrant Country:DE
+Registrant Phone:+49.3055100414
+Registrant Phone Ext.:
+Registrant FAX:+49.0000000
+Registrant FAX Ext.:
+Registrant Email:whois@pip.net
+Admin ID:ABM-10711343
+Admin Name:Philipp Kloeckner
+Admin Street1:Rodenbergstr. 2
+Admin Street2:
+Admin Street3:
+Admin City:Berlin
+Admin State/Province:DE
+Admin Postal Code:10439
+Admin Country:DE
+Admin Phone:+49.3055100414
+Admin Phone Ext.:
+Admin FAX:+49.0000000
+Admin FAX Ext.:
+Admin Email:whois@pip.net
+Tech ID:ABM-10711343
+Tech Name:Philipp Kloeckner
+Tech Street1:Rodenbergstr. 2
+Tech Street2:
+Tech Street3:
+Tech City:Berlin
+Tech State/Province:DE
+Tech Postal Code:10439
+Tech Country:DE
+Tech Phone:+49.3055100414
+Tech Phone Ext.:
+Tech FAX:+49.0000000
+Tech FAX Ext.:
+Tech Email:whois@pip.net
+Name Server:A.NS14.NET
+Name Server:B.NS14.NET
+Name Server:C.NS14.NET
+Name Server:D.NS14.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

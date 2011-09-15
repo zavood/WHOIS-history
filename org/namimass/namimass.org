@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3274357-LROR
+Domain Name:NAMIMASS.ORG
+Created On:28-Jan-1999 05:00:00 UTC
+Last Updated On:29-Jan-2011 00:26:01 UTC
+Expiration Date:28-Jan-2021 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29039340-NSI
+Registrant Name:NAMI of Massachusetts
+Registrant Organization:NAMI of Massachusetts
+Registrant Street1:400 West Cummings Park
+Registrant Street2:Suite 6650
+Registrant Street3:
+Registrant City:Woburn
+Registrant State/Province:MA
+Registrant Postal Code:01801
+Registrant Country:US
+Registrant Phone:+1.7819384048
+Registrant Phone Ext.:
+Registrant FAX:+1.7819384069
+Registrant FAX Ext.:
+Registrant Email:tfishernamimass@aol.com
+Admin ID:29039340-NSI
+Admin Name:NAMI of Massachusetts
+Admin Organization:NAMI of Massachusetts
+Admin Street1:400 West Cummings Park
+Admin Street2:Suite 6650
+Admin Street3:
+Admin City:Woburn
+Admin State/Province:MA
+Admin Postal Code:01801
+Admin Country:US
+Admin Phone:+1.7819384048
+Admin Phone Ext.:
+Admin FAX:+1.7819384069
+Admin FAX Ext.:
+Admin Email:tfishernamimass@aol.com
+Tech ID:5360045-NSI
+Tech Name:Hurricane Electric
+Tech Organization:Hurricane Electric
+Tech Street1:760 Mission Court
+Tech Street2:
+Tech Street3:
+Tech City:Fremont
+Tech State/Province:CA
+Tech Postal Code:94539
+Tech Country:US
+Tech Phone:+1.5105804100
+Tech Phone Ext.:
+Tech FAX:+1.5105804152
+Tech FAX Ext.:
+Tech Email:hostmaster@HE.NET
+Name Server:NS51.1AND1.COM
+Name Server:NS52.1AND1.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

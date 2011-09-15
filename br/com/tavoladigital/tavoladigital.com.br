@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-13 03:11:59 (BRT -03:00)
+%  2011-09-15 15:14:53 (BRT -03:00)
 
 domain:      tavoladigital.com.br
 owner:       Cl&iacute;nica Bar&atilde;o do Triunfo S/C Ltda
@@ -17,11 +17,11 @@ admin-c:     LRM132
 tech-c:      LRM132
 billing-c:   LRM132
 nserver:     ns1.bluehost.com
-nsstat:      20110910 AA
-nslastaa:    20110910
+nsstat:      20110915 AA
+nslastaa:    20110915
 nserver:     ns2.bluehost.com
-nsstat:      20110910 AA
-nslastaa:    20110910
+nsstat:      20110915 AA
+nslastaa:    20110915
 created:     20050606 #2186440
 expires:     20120606
 changed:     20110518

@@ -1,0 +1,56 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 20:08:31 2011
+
+domain:       relax-strahov.cz
+registrant:   DBOJASOVA
+nsset:        SAVANA_DNS
+registrar:    REG-GRANSY
+status:       paid and in zone
+registered:   01.12.2008 18:24:18
+expire:       01.12.2011
+
+contact:      DBOJASOVA
+name:         Dagmar Bojasov&Atilde;&iexcl;
+address:      Pod Kotl&Atilde;&iexcl;&Aring;™kou 26
+address:      Praha 5
+address:      15000
+address:      CZ
+e-mail:       darina.fitdaz@centrum.cz
+registrar:    REG-IGNUM
+created:      01.12.2008 18:23:17
+
+nsset:        SAVANA_DNS
+nserver:      ns1.savana.cz
+nserver:      ns2.savana.cz
+tech-c:       HOFY
+registrar:    REG-IGNUM
+created:      01.10.2007 13:33:01
+
+contact:      HOFY
+name:         Pavel Hofner
+address:      U Stadionu 300/25
+address:      Povrly
+address:      403 32
+address:      CZ
+registrar:    REG-IGNUM
+created:      01.09.2006 22:45:00
+changed:      19.06.2008 17:06:14
+
+

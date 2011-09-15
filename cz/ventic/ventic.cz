@@ -1,0 +1,62 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Thu Sep 15 20:09:53 2011
+
+domain:       ventic.cz
+registrant:   IX-9806891
+admin-c:      IX-9807082
+nsset:        INTERNETX-FED0F4FBE8BD597FAE0A39CA540EF8D3-1
+registrar:    REG-INTERNETX
+status:       paid and in zone
+registered:   15.02.2008 16:24:37
+changed:      12.10.2010 22:08:16
+expire:       15.02.2012
+
+contact:      IX-9806891
+org:          Smartfox Media b.v.
+name:         Martin Josten
+address:      Princess Marijke Straat 1
+address:      Roermond
+address:      NL-6045 AK
+address:      NL
+address:      NL
+registrar:    REG-INTERNETX
+created:      12.05.2009 16:47:37
+
+contact:      IX-9807082
+org:          Commdoo GmbH
+name:         Marc Schlosser
+address:      Max-Reger-Strasse 49-53
+address:      Moenchengladbach
+address:      41179
+address:      NRW
+address:      DE
+registrar:    REG-INTERNETX
+created:      12.05.2009 16:47:39
+
+nsset:        INTERNETX-FED0F4FBE8BD597FAE0A39CA540EF8D3-1
+nserver:      a.ns14.net
+nserver:      b.ns14.net
+nserver:      c.ns14.net
+nserver:      d.ns14.net
+tech-c:       IX-9807082
+registrar:    REG-INTERNETX
+created:      12.10.2010 22:08:16
+
+
