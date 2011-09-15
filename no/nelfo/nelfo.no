@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: NEL85D-NORID
+Domain Name................: nelfo.no
+Domain Holder Handle.......: NE158O-NORID
+Registrar Handle...........: REG5-NORID
+Legal-c Handle.............: MA1684P-NORID
+Tech-c Handle..............: WAR19R-NORID
+Name Server Handle.........: NSDA68H-NORID
+Name Server Handle.........: NSDA81H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: NE158O-NORID
+Type.......................: organization
+Name.......................: NELFO
+Id Type....................: organization_number
+Id Number..................: 968908383
+Registrar Handle...........: REG5-NORID
+Post Address...............: Fridtjof Nansens vei 17
+Postal Code................: NO-0369
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.23087700
+Fax Number.................: +47.22568212
+Email Address..............: jan.erik.gulliksen@norskteknologi.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2011-01-06
+
