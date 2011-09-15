@@ -5,20 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TYNT.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS1.P20.DYNECT.NET
-   Name Server: NS2.P20.DYNECT.NET
-   Name Server: NS3.P20.DYNECT.NET
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 01-dec-2010
-   Creation Date: 13-sep-2004
-   Expiration Date: 13-sep-2012
+   Domain Name: PREDATEURSDUSTLAURENT.COM
+   Registrar: DOMAINPEOPLE, INC.
+   Whois Server: whois.domainpeople.com
+   Referral URL: http://www.domainpeople.com
+   Name Server: NS1.DOMAINPEOPLE.COM
+   Name Server: NS2.DOMAINPEOPLE.COM
+   Status: pendingDelete
+   Updated Date: 10-sep-2011
+   Creation Date: 29-jun-2008
+   Expiration Date: 29-jun-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:51:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:51:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Domain not found.
