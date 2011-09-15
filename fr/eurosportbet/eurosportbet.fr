@@ -1,0 +1,115 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; eurosportbet.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      eurosportbet.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    E6135-FRNIC
+admin-c:     TM1225-FRNIC
+tech-c:      MC8651-FRNIC
+tech-c:      PP2646-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL47612-FRNIC
+registrar:   MAILCLUB
+anniversary: 14/11
+created:     14/11/2008
+last-update: 24/03/2011
+source:      FRNIC
+
+ns-list:     NSL47612-FRNIC
+nserver:     ns0.eurosportbet.com
+nserver:     ns2.mailclub.fr [193.151.86.13]
+nserver:     ns5.mailclub.com
+source:      FRNIC
+
+registrar:   MAILCLUB
+type:        Isp Option 1
+address:     P&ocirc;le M&eacute;dia de la Belle de Mai
+address:     37 Rue Guibal
+address:     MARSEILLE CEDEX 03
+country:     FR
+phone:       +33 4 88 66 22 22
+fax-no:      +33 4 88 66 22 20
+e-mail:      clientele@mailclub.fr
+website:     http://www.mailclub.fr
+anonymous:   NO
+registered:  01/01/1999
+source:      FRNIC
+
+nic-hdl:     E6135-FRNIC
+type:        ORGANIZATION
+contact:     EUROSPORT
+address:     3, rue Gaston et Ren&eacute; Caudron
+address:     92798 Issy-les-Moulineaux Cedex 9
+country:     FR
+phone:       +33 1 40 93 80 00
+fax-no:      +33 1 40 93 81 81
+e-mail:      tmayrhofer@eurosport.com
+changed:     14/11/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     TM1225-FRNIC
+type:        PERSON
+contact:     Thomas Mayrhofer
+address:     EUROSPORT
+address:     3, rue Gaston et Rene Caudron
+address:     92798 Issy-les-Moulineaux Cedex 9
+country:     FR
+phone:       +33 1 40 93 81 07
+fax-no:      +33 1 40 93 80 28
+e-mail:      tmayrhofer@eurosport.com
+changed:     14/11/2008 clientele@mailclub.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MC8651-FRNIC
+type:        ROLE
+contact:     Service Clientele
+address:     MailClub
+address:     Pole Media de la Belle de Mai
+address:     37, rue Guibal
+address:     13356 Marseille Cedex 3
+country:     FR
+phone:       +33 4 88 66 22 22
+e-mail:      ripe@mailclub.fr
+admin-c:     CT1010-FRNIC
+tech-c:      CT1010-FRNIC
+notify:      ripe@mailclub.fr
+changed:     20/07/2006 ripe@mailclub.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PP2646-FRNIC
+type:        PERSON
+contact:     Prodstaff Prodstaff
+address:     EUROSPORT
+address:     3, rue Gaston et Rene Caudron
+address:     92798 Issy-les-Moulineaux Cedex 9
+country:     FR
+phone:       +33 1 40 93 81 89
+fax-no:      +33 1 40 93 83 00
+e-mail:      dnsmaster@eurosport.com
+changed:     14/11/2008 clientele@mailclub.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

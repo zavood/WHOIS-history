@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160521260-LROR
+Domain Name:STRIPPERCAMS.ORG
+Created On:27-Oct-2010 20:05:28 UTC
+Last Updated On:27-Dec-2010 03:50:06 UTC
+Expiration Date:27-Oct-2011 20:05:28 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuy1elD6JZTYIj2G
+Registrant Name:FCI Inc
+Registrant Organization:FCI, Inc.
+Registrant Street1:2019 3rd Ave Suite 200
+Registrant Street2:
+Registrant Street3:
+Registrant City:Seattle
+Registrant State/Province:WA
+Registrant Postal Code:98121
+Registrant Country:US
+Registrant Phone:+1.6022961000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:salvatore@icgcorp.net
+Admin ID:tuodLwftmnYSVr5z
+Admin Name:FCI Inc
+Admin Organization:FCI, Inc.
+Admin Street1:2019 3rd Ave Suite 200
+Admin Street2:
+Admin Street3:
+Admin City:Seattle
+Admin State/Province:WA
+Admin Postal Code:98121
+Admin Country:US
+Admin Phone:+1.6022961000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:salvatore@icgcorp.net
+Tech ID:tu2RjJKIyEZYikX1
+Tech Name:FCI Inc
+Tech Organization:FCI, Inc.
+Tech Street1:2019 3rd Ave Suite 200
+Tech Street2:
+Tech Street3:
+Tech City:Seattle
+Tech State/Province:WA
+Tech Postal Code:98121
+Tech Country:US
+Tech Phone:+1.6022961000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:salvatore@icgcorp.net
+Name Server:NS1.FLYINGCROC.NET
+Name Server:NS2.FLYINGCROC.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

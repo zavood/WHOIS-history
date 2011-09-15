@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KHOV.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Domain Name: WEINBERG.NET
+   Registrar: GKG.NET, INC.
+   Whois Server: whois.gkg.net
+   Referral URL: http://www.gkg.net
+   Name Server: NS.LIGHTSOLUTIONS.NET
+   Name Server: NS.WEINBERG.NET
    Status: clientTransferProhibited
-   Updated Date: 03-aug-2009
-   Creation Date: 20-aug-1996
-   Expiration Date: 19-aug-2014
+   Updated Date: 10-sep-2006
+   Creation Date: 28-jan-1997
+   Expiration Date: 29-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:41:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:38:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,62 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+The Data in GKG.NET's WHOIS database is provided by GKG.NET for information
+purposes, and to assist persons in obtaining information about or related
+to a domain name registration record.  GKG.NET does not guarantee its
+accuracy.  By submitting a WHOIS query, you agree that you will use this
+Data only for lawful purposes and that, under no circumstances will you use
+this Data to: (1) allow, enable, or otherwise support the transmission of
+mass unsolicited, commercial advertising or solicitations via e-mail
+(spam); or  (2) enable high volume, automated, electronic processes that
+apply to GKG.NET (or its systems).  GKG.NET reserves the right to modify
+these terms at any time.  By submitting this query, you agree to abide by
+this policy.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Registrant:
+    Light Solutions
+    Daniel Weinberg
+    569 Elizabeth St
+    San Francisco, CA 94114
+    US
+    +1.4156486633 (FAX) +1.4156476633
+    a6f1632d5f1912bfe256f45db4d7aaea861198d9@whois.gkg.net
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Administrative Contact:
+    Light Solutions
+    Daniel Weinberg
+    569 Elizabeth St
+    San Francisco, CA 94114
+    US
+    +1.4156486633 (FAX) +1.4156476633
+    a6f1632d5f1912bfe256f45db4d7aaea861198d9@whois.gkg.net
 
-http://www.networksolutions.com/whois/index.jhtml
+Technical Contact:
+    Light Solutions
+    Daniel Weinberg
+    569 Elizabeth St
+    San Francisco, CA 94114
+    US
+    +1.4156486633 (FAX) +1.4156476633
+    a6f1632d5f1912bfe256f45db4d7aaea861198d9@whois.gkg.net
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Billing Contact
+    Light Solutions
+    Daniel Weinberg
+    569 Elizabeth St
+    San Francisco, CA 94114
+    US
+    +1.4156486633 (FAX) +1.4156476633
+    a6f1632d5f1912bfe256f45db4d7aaea861198d9@whois.gkg.net
 
-Whois Query: khov.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 02:37:15 EDT 2011
-Reason Code: IE
+    Registrar..: gkg.net (http://register.gkg.net/)
+    Domain Name: WEINBERG.NET
+	Created on..............: 28-JAN-1997
+	Expires on..............: 29-JAN-2012
+	Record last updated on..: 30-DEC-2002
+	Status..................: ACTIVE
+
+    Domain servers in listed order:
+
+    NS.WEINBERG.NET
+    NS.LIGHTSOLUTIONS.NET

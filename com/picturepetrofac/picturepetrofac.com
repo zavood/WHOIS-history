@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KHOV.COM
+   Domain Name: PICTUREPETROFAC.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: NS21.WORLDNIC.COM
+   Name Server: NS22.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 03-aug-2009
-   Creation Date: 20-aug-1996
-   Expiration Date: 19-aug-2014
+   Updated Date: 15-mar-2010
+   Creation Date: 25-mar-2008
+   Expiration Date: 25-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:41:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:38:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: khov.com
+Whois Query: picturepetrofac.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 02:37:15 EDT 2011
+Date and Time of Query: Thu Sep 15 02:28:38 EDT 2011
 Reason Code: IE

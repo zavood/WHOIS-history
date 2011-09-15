@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KHOV.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Domain Name: DGN1000.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.DGN1000.COM
+   Name Server: NS2.DGN1000.COM
    Status: clientTransferProhibited
-   Updated Date: 03-aug-2009
-   Creation Date: 20-aug-1996
-   Expiration Date: 19-aug-2014
+   Updated Date: 16-aug-2011
+   Creation Date: 11-aug-2006
+   Expiration Date: 11-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:41:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:38:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+=-=-=-=
+Visit AboutUs.org for more information about dgn1000.com
+&lt;a href=&quot;http://www.aboutus.org/dgn1000.com&quot;&gt;AboutUs: dgn1000.com&lt;/a&gt;
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain name: dgn1000.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant Contact:
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Fabio Alves ()
 
-Whois Query: khov.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 02:37:15 EDT 2011
-Reason Code: IE
+   Fax:
+   Rua Pierre Fermat, 62
+   Penha
+   Sao Paulo,  03693160
+   BR
+
+Administrative Contact:
+
+   Fabio Alves (dominios@dgn1000.com)
+   +1.1140632043
+   Fax:
+   Rua Pierre Fermat, 62
+   Penha
+   Sao Paulo,  03693160
+   BR
+
+Technical Contact:
+
+   Fabio Alves (dominios@dgn1000.com)
+   +1.1140632043
+   Fax:
+   Rua Pierre Fermat, 62
+   Penha
+   Sao Paulo,  03693160
+   BR
+
+Status: Locked
+
+Name Servers:
+   ns1.dgn1000.com
+   ns2.dgn1000.com
+
+Creation date: 11 Aug 2006 07:42:46
+Expiration date: 11 Aug 2012 07:42:46
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

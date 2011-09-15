@@ -5,18 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KHOV.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Status: clientTransferProhibited
-   Updated Date: 03-aug-2009
-   Creation Date: 20-aug-1996
-   Expiration Date: 19-aug-2014
+   Domain Name: MEDIAGET.COM
+   Registrar: INTERNET.BS CORP.
+   Whois Server: whois.internet.bs
+   Referral URL: http://www.internet.bs
+   Name Server: NS1.MEDIAGET.COM
+   Name Server: NS2.MEDIAGET.COM
+   Name Server: NS3.MEDIAGET.COM
+   Status: ok
+   Updated Date: 07-apr-2011
+   Creation Date: 22-dec-2009
+   Expiration Date: 22-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:41:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:40:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +52,39 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Domain mediaget.com
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Date Registered: 2009-12-22
+Date Modified: 2011-4-7
+Expiry Date: 2011-12-22
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+DNS1: ns1.mediaget.com
+DNS2: ns2.mediaget.com
+DNS3: ns3.mediaget.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant
+    Selevit Enterprises Ltd
+    Leonid Shcherbakov  admin@media-get.com
+    Sadovaya 53
+    190344 Saint-Petersburg
+    Russia
+    Tel: +7.9650697566
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrative Contact
+    Selevit Enterprises Ltd
+    Leonid Shcherbakov  admin@media-get.com
+    Sadovaya 53
+    190344 Saint-Petersburg
+    Russia
+    Tel: +7.9650697566
 
-Whois Query: khov.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 02:37:15 EDT 2011
-Reason Code: IE
+Technical Contact
+    Selevit Enterprises Ltd
+    Leonid Shcherbakov  admin@media-get.com
+    Sadovaya 53
+    190344 Saint-Petersburg
+    Russia
+    Tel: +7.9650697566
+
+Registrar: Internet.bs Corp.
+Registrar's Website : &lt;a href='http://www.internetbs.net/'&gt;http://www.internetbs.net/&lt;/a&gt;
