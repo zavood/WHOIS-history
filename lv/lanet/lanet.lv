@@ -1,0 +1,26 @@
+[Domain]
+Domain: lanet.lv
+Status: active
+Changed: 2011-08-25T13:11:29.950313+03:00
+
+[Holder]
+Type: Legal person
+Name: Latvijas Universitate
+Email: itserviss@lu.lv
+Fax: +371-67222620
+Phone: +371-67034714
+Address: Raina bulvaris 19, Riga, LV-1586, Latvija
+RegNr: 90000076669
+
+[Tech]
+Type: Natural person
+Email: itserviss@lu.lv
+Fax: +371-67222620
+Phone: +371-67034714
+
+[Nservers]
+Nserver: ozols.lanet.lv
+Nserver: nsz2.nic.lv
+
+[Whois]
+Updated: 2011-09-15T05:12:24.714284+00:00

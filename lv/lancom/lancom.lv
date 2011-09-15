@@ -1,0 +1,24 @@
+[Domain]
+Domain: lancom.lv
+Status: active
+Changed: 2004-09-07T15:31:25+03:00
+
+[Holder]
+Type: Legal person
+Name: Lancom, SIA
+Email: valdis@gravisnet.lv
+Phone: +371 7343491, +371 9802230
+Address: Anitas iela 7- 7, Riga, LV-1015, Latvia
+RegNr: 40003639266
+
+[Tech]
+Type: Natural person
+Email: wizzard@gravisnet.lv
+Phone: +371 7351335, +371 9802230
+
+[Nservers]
+Nserver: ns2.lancom.lv
+Nserver: ns.lancom.lv
+
+[Whois]
+Updated: 2011-09-15T05:12:24.714284+00:00

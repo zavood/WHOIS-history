@@ -1,0 +1,25 @@
+[Domain]
+Domain: agroprojekts.lv
+Status: active
+Changed: 2009-10-21T11:22:29+03:00
+
+[Holder]
+Type: Legal person
+Name: AS &quot;Agroprojekts&quot;
+Email: agroprojekts@agroprojekts.lv
+Phone: +371 67211641
+Address: Dika iela 44, Riga, LV-1004
+RegNr: 40003013401
+
+[Tech]
+Type: Natural person
+Email: web@apollo.lv
+Fax: +371-67050114
+Phone: 177
+
+[Nservers]
+Nserver: ns.apollo.lv
+Nserver: ns2.apollo.lv
+
+[Whois]
+Updated: 2011-09-15T05:12:24.714284+00:00

@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 30-jun-1994
    Expiration Date: 29-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:02:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:33:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,6 +69,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: indra.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Mon Sep 12 10:52:35 EDT 2011
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Thu Sep 15 03:24:05 EDT 2011
 Reason Code: IE

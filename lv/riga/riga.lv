@@ -1,0 +1,24 @@
+[Domain]
+Domain: riga.lv
+Status: active
+Changed: 2002-11-28T10:34:41+02:00
+
+[Holder]
+Type: Legal person
+Name: Rigas Domes Informacijas Tehnologiju Centrs
+Email: kaspis@gmail.com
+Phone: +371 29496198
+Address: Brivibas iela 49/53, Riga, LV-1010, Latvia
+RegNr: 90000064250
+
+[Tech]
+Type: Natural person
+Email: kaspis@gmail.com
+Phone: +371 29496198
+
+[Nservers]
+Nserver: ns.riga.lv
+Nserver: ns2.telia.lv
+
+[Whois]
+Updated: 2011-09-15T05:12:24.714284+00:00

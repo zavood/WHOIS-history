@@ -1,0 +1,26 @@
+[Domain]
+Domain: lursoft.lv
+Status: active
+Changed: 2006-04-21T12:47:07+03:00
+
+[Holder]
+Type: Legal person
+Name: SIA Lursoft IT
+Email: admin@lursoft.lv
+Fax: +371 67624285, +371 67844303
+Phone: +371 29206104
+Address: Matisa iela 8, Riga, LV-1001, Latvia
+RegNr: 40003170000
+
+[Tech]
+Type: Natural person
+Email: admin@lursoft.lv
+Fax: +371 67624285, +371 67844303
+Phone: +371 29206104
+
+[Nservers]
+Nserver: ns.lursoft.lv
+Nserver: ns.gov.lv
+
+[Whois]
+Updated: 2011-09-15T05:12:24.714284+00:00

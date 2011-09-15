@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 04:35:18 (BRT -03:00)
+
+domain:      assprom.com.br
+owner:       Assoc Profissionalizante do Menor de BH
+ownerid:     019.201.128/0001-41
+responsible: Jos&eacute; Birchal Wanderley
+country:     BR
+owner-c:     JLF137
+admin-c:     JLF137
+tech-c:      JLF137
+billing-c:   JLF137
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110914 QREFUSED
+nslastaa:    20110911
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110914 QREFUSED
+nslastaa:    20110911
+created:     20011109 #676141
+expires:     20121109
+changed:     20101125
+status:      published
+
+nic-hdl-br:  JLF137
+person:      Josimar Luis Ferreira
+e-mail:      assprom@terra.com.br
+created:     20011109
+changed:     20091007
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,34 @@
+[Domain]
+Domain: merkurijslat.lv
+Status: active
+Changed: 2009-09-24T13:54:04+03:00
+
+[Holder]
+Type: Legal person
+Name: Info Tilts, IK
+Email: mian@apollo.lv
+Phone: +371 29502846
+Address: Sesku iela 63-126, Riga, LV-1082
+RegNr: 40002161674
+
+[Tech]
+Type: Natural person
+Email: web@apollo.lv
+Fax: +371-67050114
+Phone: 177
+
+[Registrar]
+Type: Legal person
+Name: Lattelecom, SIA
+Email: dns.apollo@lattelecom.lv
+Fax: +371-67055774
+Phone: +371 67324799
+Address: Lattelecom Gramatvedibas Norekinu grupai, G.Astras iela 2, Riga, Latvija
+RegNr: 40003052786
+
+[Nservers]
+Nserver: ns.apollo.lv
+Nserver: ns2.apollo.lv
+
+[Whois]
+Updated: 2011-09-15T05:12:24.714284+00:00

@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      blacknight.ie
+descr:       Blacknight Internet Solutions Limited
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     AAE553-IEDR
+tech-c:      AAM456-IEDR
+renewal:     21-August-2012
+status:      Active
+nserver:     ns.blacknightsolutions.com
+nserver:     ns2.blacknightsolutions.com
+source:      IEDR
+
+person:      Blacknight.com Hostmaster
+nic-hdl:     AAE553-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+

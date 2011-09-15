@@ -1,0 +1,45 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 04:37:32 (BRT -03:00)
+
+domain:      lhweb.com.br
+owner:       Helvis Santos Lima
+ownerid:     101.277.084-21
+country:     BR
+owner-c:     HESLI13
+admin-c:     HESLI13
+tech-c:      HESLI13
+billing-c:   HESLI13
+nserver:     dns1.lhweb.com.br 184.107.184.171
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     dns2.lhweb.com.br 184.107.184.172
+nsstat:      20110910 AA
+nslastaa:    20110910
+saci:        yes
+created:     20101207 #7659468
+expires:     20111207
+changed:     20110517
+provider:    UOLHOST (22)
+status:      published
+
+nic-hdl-br:  HESLI13
+person:      Helvis Santos Lima
+e-mail:      helvis.lima@uol.com.br
+created:     20101207
+changed:     20101207
+provider:    UOLHOST (22)
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

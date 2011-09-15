@@ -1,0 +1,30 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'mmnaseri.ir'
+
+
+domain:		mmnaseri.ir
+ascii:		mmnaseri.ir
+remarks:	(Domain Holder) Mohammad Milad Naseri
+remarks:	(Domain Holder Address) 5th Floor, No. 4, Golboo Dd. End, Golban Alley, Noorian St., South Dibaji Ave.,, Tehran, Tehran, IR
+holder-c:	mn398-irnic
+admin-c:	mn398-irnic
+tech-c:		mn398-irnic
+nserver:	ns1.mehrhost.com
+nserver:	ns2.mehrhost.com
+last-updated:	2010-01-14
+source:		IRNIC # Filtered
+
+nic-hdl:	mn398-irnic
+person:		Mohammad Milad Naseri
+e-mail:		m.m.naseri@gmail.com
+address:	5th Floor, No. 4, Golboo Dd. End, Golban Alley, Noorian St., South Dibaji Ave.,, Tehran, Tehran, IR
+phone:		+98 21 22585079
+source:		IRNIC # Filtered
+

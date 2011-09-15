@@ -1,0 +1,24 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         szm.sk
+Admin-id            SZMI-0001
+Admin-name          SZM.com s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       36589195
+Admin-address       Denesova 27, Kosice 04011
+Admin-telephone     055/6405146, 055/6405146
+Tech-id             SZMI-0001
+Tech-name           SZM.com s.r.o.
+Tech-org.-ID        36589195
+Tech-address        Denesova 27, Kosice 04011
+Tech-telephone      055/6405146, 055/6405146
+dns_name            ns.alinet.sk
+dns_name            ns2.alinet.sk
+dns_name            ns3.alinet.sk
+Last-update         2011-08-30
+Valid-date          2012-09-24
+Domain-status       DOM_OK
+

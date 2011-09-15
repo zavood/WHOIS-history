@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D22409992-LROR
+Domain Name:BBMWD.ORG
+Created On:14-Mar-2000 20:39:24 UTC
+Last Updated On:26-May-2010 17:13:28 UTC
+Expiration Date:14-Mar-2013 20:39:24 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30717083-NSI
+Registrant Name:BigBearMunicipal Water District
+Registrant Organization:BigBearMunicipal Water District
+Registrant Street1:PO BOX 2863
+Registrant Street2:
+Registrant Street3:
+Registrant City:BIG BEAR LAKE
+Registrant State/Province:CA
+Registrant Postal Code:92315-2863
+Registrant Country:US
+Registrant Phone:+1.90986657
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bbmwd@BIGBEAR.COM
+Admin ID:30717084-NSI
+Admin Name:Big Bear Municipal Water District
+Admin Street1:PO BOX 2863
+Admin Street2:
+Admin Street3:
+Admin City:BIG BEAR LAKE
+Admin State/Province:CA
+Admin Postal Code:92315-2863
+Admin Country:US
+Admin Phone:+1.9098665796
+Admin Phone Ext.:
+Admin FAX:+1.9098666485
+Admin FAX Ext.:
+Admin Email:carries@bbmwd.org
+Tech ID:30717084-NSI
+Tech Name:Big Bear Municipal Water District
+Tech Street1:PO BOX 2863
+Tech Street2:
+Tech Street3:
+Tech City:BIG BEAR LAKE
+Tech State/Province:CA
+Tech Postal Code:92315-2863
+Tech Country:US
+Tech Phone:+1.9098665796
+Tech Phone Ext.:
+Tech FAX:+1.9098666485
+Tech FAX Ext.:
+Tech Email:carries@bbmwd.org
+Name Server:NS4.MYSUPERPAGESHOSTING.COM
+Name Server:NS3.MYSUPERPAGESHOSTING.COM
+Name Server:NS2.MYSUPERPAGESHOSTING.COM
+Name Server:NS1.MYSUPERPAGESHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
