@@ -5,18 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SUDDENLINK.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SUDDENLINK.NET
-   Name Server: NS2.SUDDENLINK.NET
-   Status: clientTransferProhibited
-   Updated Date: 26-may-2011
-   Creation Date: 07-mar-2006
-   Expiration Date: 07-mar-2013
+   Domain Name: PORTENKIRCHNER.NET
+   Registrar: 1ST ANTAGUS INTERNET GMBH
+   Whois Server: whois.antagus.de
+   Name Server: NS1.GENIALITY.DE
+   Name Server: NS4.GENIALITY.DE
+   Status: ok
+   Updated Date: 28-mar-2011
+   Creation Date: 30-mar-2004
+   Expiration Date: 30-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:27:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:27:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +50,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+Whois Server Version 2.1 at whois.tmagnic.net
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Database contains ONLY .COM, .NET, .TV, .CC domains.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Owner Contact:
+   Georg Portenkirchner
+   privat
+   Wilhelm-D&Atilde;&frac14;ll-Stra&Atilde;Ÿe 10
+   M&Atilde;&frac14;nchen, 80638, DE
 
-http://www.networksolutions.com/whois/index.jhtml
+   Punycode Name:  portenkirchner.net
+   Unicode Name:   portenkirchner.net
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Admin Contact
+      Georg Portenkirchner
+      privat
+      portenkirchner@web.de
+      Wilhelm-D&Atilde;&frac14;ll-Stra&Atilde;Ÿe 10
+      M&Atilde;&frac14;nchen, 80638, DE
+      phone: +49.8931677993
 
-Whois Query: suddenlink.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:22:52 EDT 2011
-Reason Code: IE
+   Technical Contact
+      B&Atilde;&curren;rbel Heideck
+      FreeFine ISP
+      domainreg@comball.de
+      Eichenstrasse 12
+      Wolfhagen, 34466, DE
+      phone: +49.5692997651
+
+   Zone Contact
+      B&Atilde;&curren;rbel Heideck
+      FreeFine ISP
+      domainreg@comball.de
+      Eichenstrasse 12
+      Wolfhagen, 34466, DE
+      phone: +49.5692997651
+
+   Record expires on: 2012-03-30 00:00:00
+
+   Domain servers in listed order:
+
+      ns1.geniality.de 89.200.168.66
+      ns4.geniality.de 89.200.169.10
+
+
+

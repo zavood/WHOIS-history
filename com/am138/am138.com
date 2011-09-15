@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SUDDENLINK.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SUDDENLINK.NET
-   Name Server: NS2.SUDDENLINK.NET
-   Status: clientTransferProhibited
-   Updated Date: 26-may-2011
-   Creation Date: 07-mar-2006
-   Expiration Date: 07-mar-2013
+   Domain Name: AM138.COM
+   Registrar: HANG ZHOU E-BUSINESS SERVICES CO.LTD.
+   Whois Server: whois.eb.com.cn
+   Referral URL: http://www.eb.com.cn
+   Name Server: NS1.22.CN
+   Name Server: NS2.22.CN
+   Status: ok
+   Updated Date: 15-may-2011
+   Creation Date: 28-feb-2011
+   Expiration Date: 28-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:27:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:25:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,23 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Domain name: am138.com
 
-http://www.networksolutions.com/whois/index.jhtml
+Registrant Contact:
+  xuguoshu
+  xuguoshu
+  476447047@qq.com
+  tel: 0571-82689249
+  fax: 0571-82689249
+  wensanlu402hao1-102shi
+  CN
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+Administrative Contact:
+  xuguoshu
+  xuguoshu
+  476447047@qq.com
+  tel: 0571-82689249
+  fax: 0571-82689249
+  wensanlu402hao1-102shi
+  CN
 
-Whois Query: suddenlink.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:22:52 EDT 2011
-Reason Code: IE
+Technical Contact:
+  xuguoshu
+  xuguoshu
+  476447047@qq.com
+  tel: 0571-82689249
+  fax: 0571-82689249
+  wensanlu402hao1-102shi
+  CN
+
+Billing Contact:
+  xuguoshu
+  xuguoshu
+  476447047@qq.com
+  tel: 0571-82689249
+  fax: 0571-82689249
+  wensanlu402hao1-102shi
+  CN
+
+

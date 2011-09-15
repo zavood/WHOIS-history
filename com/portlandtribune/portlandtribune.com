@@ -5,16 +5,17 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SUDDENLINK.NET
+   Domain Name: PORTLANDTRIBUNE.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SUDDENLINK.NET
-   Name Server: NS2.SUDDENLINK.NET
+   Name Server: NS0.DNSMADEEASY.COM
+   Name Server: NS1.DNSMADEEASY.COM
+   Name Server: NS2.DNSMADEEASY.COM
    Status: clientTransferProhibited
-   Updated Date: 26-may-2011
-   Creation Date: 07-mar-2006
-   Expiration Date: 07-mar-2013
+   Updated Date: 14-sep-2011
+   Creation Date: 09-oct-2000
+   Expiration Date: 09-oct-2014
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:27:06 UTC &lt;&lt;&lt;
 
@@ -67,7 +68,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: suddenlink.net
+Whois Query: portlandtribune.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:22:52 EDT 2011
+Date and Time of Query: Wed Sep 14 22:17:36 EDT 2011
 Reason Code: IE

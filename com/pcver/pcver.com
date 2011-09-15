@@ -5,16 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SUDDENLINK.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SUDDENLINK.NET
-   Name Server: NS2.SUDDENLINK.NET
+   Domain Name: PCVER.COM
+   Registrar: YESNIC CO. LTD.
+   Whois Server: whois.yesnic.com
+   Referral URL: http://www.yesnic.com
+   Name Server: NS1.WHOISDOMAIN.KR
+   Name Server: NS2.WHOISDOMAIN.KR
+   Name Server: NS3.WHOISDOMAIN.KR
+   Name Server: NS4.WHOISDOMAIN.KR
    Status: clientTransferProhibited
-   Updated Date: 26-may-2011
-   Creation Date: 07-mar-2006
-   Expiration Date: 07-mar-2013
+   Updated Date: 17-dec-2009
+   Creation Date: 17-dec-2009
+   Expiration Date: 17-dec-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:27:06 UTC &lt;&lt;&lt;
 
@@ -51,23 +53,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
+--------------------------------------------------------------------------------------
+Queried Domain Information as follows
+--------------------------------------------------------------------------------------
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+Domain Name : pcver.com
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+::Registrant::
+Name : ABC
+Email : webma@doroo.com
+Address : Seoul 489-9p  Dunchon-dong Gangdong-gu
+Zipcode : 134060
+Nation : KR
+Tel : 02-400-6525
+Fax :
 
-http://www.networksolutions.com/whois/index.jhtml
+::Administrative Contact::
+Name : ABC
+Email : webma@doroo.com
+Address : Seoul 489-9p  Dunchon-dong Gangdong-gu
+Zipcode : 134060
+Nation : KR
+Tel : 02-400-6525
+Fax :
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+::Technical Contact::
+Name : ABC
+Email : webma@doroo.com
+Address : Seoul 489-9p  Dunchon-dong Gangdong-gu
+Zipcode : 134060
+Nation : KR
+Tel : 02-400-6525
+Fax :
 
-Whois Query: suddenlink.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:22:52 EDT 2011
-Reason Code: IE
+::Name Servers::
+ns1.whoisdomain.kr
+ns2.whoisdomain.kr
+ns3.whoisdomain.kr
+ns4.whoisdomain.kr
+
+::Dates &amp; Status::
+Created Date : 2009/12/17 23:38:09 EST
+Updated Date : 2010/07/23 14:08:34 EST
+Valid Date : 2012/12/17 23:38:09 EST
+Status TRANSFER-LOCK
+
+
+&lt;a href='http://whoisdomain.kr' target='_blank'&gt;&lt;img src='http://whoisdomain.kr/img/whois_domain_info.gif' border='0'&gt;&lt;/a&gt;

@@ -5,18 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SUDDENLINK.NET
+   Domain Name: 1037THEMOUNTAIN.COM
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SUDDENLINK.NET
-   Name Server: NS2.SUDDENLINK.NET
+   Name Server: DNS1.ENTERCOM.COM
+   Name Server: DNS2.ENTERCOM.COM
+   Name Server: DNS3.ENTERCOM.COM
+   Name Server: DNS4.ENTERCOM.COM
    Status: clientTransferProhibited
-   Updated Date: 26-may-2011
-   Creation Date: 07-mar-2006
-   Expiration Date: 07-mar-2013
+   Updated Date: 09-nov-2009
+   Creation Date: 27-dec-2002
+   Expiration Date: 27-dec-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:27:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:26:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +69,7 @@ http://www.networksolutions.com/whois/index.jhtml
 If you feel that you have received this message in error, please email us using the online
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Whois Query: suddenlink.net
+Whois Query: 1037themountain.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:22:52 EDT 2011
+Date and Time of Query: Wed Sep 14 22:16:20 EDT 2011
 Reason Code: IE

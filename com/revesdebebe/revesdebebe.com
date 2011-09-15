@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SUDDENLINK.NET
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.SUDDENLINK.NET
-   Name Server: NS2.SUDDENLINK.NET
-   Status: clientTransferProhibited
-   Updated Date: 26-may-2011
-   Creation Date: 07-mar-2006
-   Expiration Date: 07-mar-2013
+   Domain Name: REVESDEBEBE.COM
+   Registrar: NAMEBAY
+   Whois Server: whois.namebay.com
+   Referral URL: http://www.namebay.com
+   Name Server: NS1.VALIDNAME.COM
+   Name Server: NS2.VALIDNAME.COM
+   Status: ok
+   Updated Date: 06-jun-2011
+   Creation Date: 19-jun-2009
+   Expiration Date: 19-jun-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:27:06 UTC &lt;&lt;&lt;
 
@@ -51,23 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
-
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
-
-http://www.networksolutions.com/whois/index.jhtml
-
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
-
-Whois Query: suddenlink.net
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:22:52 EDT 2011
-Reason Code: IE
+Domain Name : REVESDEBEBE.COM
+Created On : 2009-06-19
+Expiration Date : 2012-06-19
+Status : ACTIVE
+Registrant Name : REVES DE BEBE
+Registrant Street1 : 4 Rue du General Tripier
+Registrant City : HESDIN
+Registrant State/Province  :
+Registrant Postal Code : 62140
+Registrant Country : FR
+Admin Name : Do you soft
+Admin Street1 : 17 place pierre semard
+Admin City : Beziers
+Admin State/Province : FR
+Admin Postal Code : 34500
+Admin Country : FR
+Admin Phone : +33.467365978
+Admin Email : ndd@powerboutique.com
+Tech Name : Do you soft
+Tech Street1 : 17 place pierre semard
+Tech City : Beziers
+Tech State/Province : FR
+Tech Postal Code : 34500
+Tech Country : FR
+Tech Phone : +33.467365978
+Tech Email : ndd@powerboutique.com
+Billing Name : REVES DE BEBE
+Billing Street1 : 4 Rue du General Tripier
+Billing City : HESDIN
+Billing State/Province : FR
+Billing Postal Code : 62140
+Billing Country : FR
+Billing Phone : +33.0321065924
+Billing Email : revesdebebe.hesdin@orange.fr
+Name Server : NS1.VALIDNAME.COM
+Name Server : NS2.VALIDNAME.COM
+Registrar Name : Namebay
