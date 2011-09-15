@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D8834013-LROR
+Domain Name:MYIP.ORG
+Created On:04-Aug-1999 19:22:42 UTC
+Last Updated On:05-Aug-2011 01:25:55 UTC
+Expiration Date:04-Aug-2012 19:22:34 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:3cjfff1kqls52gdp
+Registrant Name:Mark Traynor
+Registrant Organization:Deerfield Communications Inc.
+Registrant Street1:4241 Old U.S. 27 South
+Registrant Street2:
+Registrant Street3:
+Registrant City:Gaylord
+Registrant State/Province:MI
+Registrant Postal Code:49735
+Registrant Country:US
+Registrant Phone:+1.5555555555
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:markt@DEERFIELD.COM
+Admin ID:5i1r264eb8r4ds26
+Admin Name:Mark Traynor
+Admin Organization:Deerfield Communications Inc.
+Admin Street1:4241 Old U.S. 27 South
+Admin Street2:
+Admin Street3:
+Admin City:Gaylord
+Admin State/Province:MI
+Admin Postal Code:49735
+Admin Country:US
+Admin Phone:+1.5555555555
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:markt@DEERFIELD.COM
+Tech ID:9fe0vokpo1ntm5vt
+Tech Name:Mike Courterier
+Tech Organization:Deerfield Communications, Inc.
+Tech Street1:4241 Old US 27 South
+Tech Street2:
+Tech Street3:
+Tech City:Gaylord
+Tech State/Province:MI
+Tech Postal Code:49735
+Tech Country:US
+Tech Phone:+1.9897328856
+Tech Phone Ext.:
+Tech FAX:+1.9897319299
+Tech FAX Ext.:
+Tech Email:hostmaster@deerfield.com
+Name Server:NS1.DNS2GO.COM
+Name Server:NS2.DNS2GO.COM
+Name Server:NS5.DNS2GO.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KSL.COM
-   Registrar: NETWORK SOLUTIONS, LLC.
-   Whois Server: whois.networksolutions.com
-   Referral URL: http://www.networksolutions.com
-   Name Server: NS1.KSL.COM
-   Name Server: NS2.KSL.COM
-   Status: clientTransferProhibited
-   Updated Date: 29-oct-2010
-   Creation Date: 23-nov-1994
-   Expiration Date: 22-nov-2011
+   Domain Name: 33BRIDE.COM
+   Registrar: MYDOMAIN, INC.
+   Whois Server: whois.namesdirect.com
+   Referral URL: http://www.namesdirect.com
+   Name Server: NS1.33BRIDE.COM
+   Name Server: NS2.33BRIDE.COM
+   Status: ok
+   Updated Date: 20-may-2011
+   Creation Date: 19-may-2000
+   Expiration Date: 19-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 13:34:29 UTC &lt;&lt;&lt;
 
@@ -51,23 +51,49 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The IP address from which you have visited the Network Solutions Registrar WHOIS
-database is contained within a list of IP addresses that may have failed
-to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
-adversely impact our systems and servers, preventing the processing of
-other WHOIS requests.
+The information in this whois database is provided for the sole
+purpose of assisting you in obtaining information about domain
+name registration records. This information is available &quot;as is,&quot;
+and we do not guarantee its accuracy. By submitting a whois
+query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data
+to: (1) enable high volume, automated, electronic processes that
+stress or load this whois database system providing you this
+information; or (2) allow,enable, or otherwise support the
+transmission of mass, unsolicited, commercial advertising or
+solicitations via facsimile, electronic mail, or by telephone to
+entitites other than your own existing customers.  The
+compilation, repackaging, dissemination or other use of this data
+is expressly prohibited without prior written consent from this
+company. We reserve the right to modify these terms at any
+time. By submitting an inquiry, you agree to these terms of usage
+and limitations of warranty.  Please limit your queries to 10 per
+minute and one connection.
 
-To see the Network Solutions WHOIS Policy, click on or copy and paste the following
-URL into your browser:
+Registrant:
+   Freedman Associates
+   3603 Gramercy Road
+   Greensboro, NC  27410
+   US
 
-http://www.networksolutions.com/whois/index.jhtml
+   Registrar: NAMESDIRECT
+   Domain Name: 33BRIDE.COM
+      Created on: 19-MAY-00
+      Expires on: 19-MAY-12
+      Last Updated on: 20-MAY-11
 
-If you feel that you have received this message in error, please email us using the online
-form at http://www.networksolutions.com/help/email.jsp with the following information:
+   Administrative, Technical Contact:
+      KRAMER, STEVE  skramer@exposites.com
+      25422 TRABUCO ROAD, PMB 105-404
+      LAKE FOREST CA 92630
+      LAKE FOREST, CA  92630
+      US
+      (949) 588.2740
 
-Whois Query: ksl.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 09:24:20 EDT 2011
-Reason Code: IE
+
+   Domain servers in listed order:
+      NS1.33BRIDE.COM
+      NS2.33BRIDE.COM
+
+End of Whois Information

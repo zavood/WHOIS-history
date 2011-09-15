@@ -5,18 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 101CHESSTIPS.COM
+   Domain Name: TABERNACLELUXURYHOMES.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: DNS1.STABLETRANSIT.COM
-   Name Server: DNS2.STABLETRANSIT.COM
+   Name Server: NS5.MYINTERNETSERVICES.COM
+   Name Server: NS6.MYINTERNETSERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 27-may-2011
-   Creation Date: 22-mar-2005
-   Expiration Date: 22-mar-2013
+   Updated Date: 19-mar-2011
+   Creation Date: 15-mar-2007
+   Expiration Date: 15-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 13:32:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 13:22:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about 101chesstips.com
-&lt;a href=&quot;http://www.aboutus.org/101chesstips.com&quot;&gt;AboutUs: 101chesstips.com&lt;/a&gt;
+Visit AboutUs.org for more information about tabernacleluxuryhomes.com
+&lt;a href=&quot;http://www.aboutus.org/tabernacleluxuryhomes.com&quot;&gt;AboutUs: tabernacleluxuryhomes.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: 101chesstips.com
+Domain name: tabernacleluxuryhomes.com
 
 Registrant Contact:
-   WhoisGuard
-   WhoisGuard Protected ()
+   tabernacle luxury homes
+   Hayle stringfellow ()
 
    Fax:
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+   1111 chickasaw rd
+   calera, OK 74730
    US
 
 Administrative Contact:
-   WhoisGuard
-   WhoisGuard Protected (99bc0b06ca8d496cb5ab714d084eef0f.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+   tabernacle luxury homes
+   Hayle stringfellow (BASSBUSTERGUY@COMCAST.NET)
+   +1.9032717379
+   Fax: +1.9032717379
+   1111 chickasaw rd
+   calera, OK 74730
    US
 
 Technical Contact:
-   WhoisGuard
-   WhoisGuard Protected (99bc0b06ca8d496cb5ab714d084eef0f.protect@whoisguard.com)
-   +1.6613102107
-   Fax: +1.6613102107
-   11400 W. Olympic Blvd. Suite 200
-   Los Angeles, CA 90064
+   tabernacle luxury homes
+   Hayle stringfellow (BASSBUSTERGUY@COMCAST.NET)
+   +1.9032717379
+   Fax: +1.9032717379
+   1111 chickasaw rd
+   calera, OK 74730
    US
 
 Status: Locked
 
 Name Servers:
-   dns1.stabletransit.com
-   dns2.stabletransit.com
+   NS5.MYINTERNETSERVICES.COM
+   NS6.MYINTERNETSERVICES.COM
 
-Creation date: 22 Mar 2005 06:13:00
-Expiration date: 22 Mar 2013 05:13:00
+Creation date: 15 Mar 2007 16:48:11
+Expiration date: 15 Mar 2012 16:48:00
 
 
 

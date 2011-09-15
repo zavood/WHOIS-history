@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 05-jun-2006
    Expiration Date: 05-jun-2017
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 09:26:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 13:30:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Dreamstar Cash S.L.
-   Calle Goya 6
-   Alfaz Del Pi, Alicante 03580
-   Spain
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: 4TUBE.COM
-      Created on: 05-Jun-06
-      Expires on: 05-Jun-17
-      Last Updated on: 12-Dec-08
-
-   Administrative Contact:
-      Matthyssen, Steve  webmaster@gals4free.net
-      Dreamstar Cash S.L.
-      Calle Goya 6
-      Alfaz Del Pi, Alicante 03580
-      Spain
-      965844115      Fax --
-
-   Technical Contact:
-      Matthyssen, Steve  webmaster@gals4free.net
-      Dreamstar Cash S.L.
-      Calle Goya 6
-      Alfaz Del Pi, Alicante 03580
-      Spain
-      965844115      Fax --
 
    Domain servers in listed order:
       NS1.CHOOPA.COM
       NS2.CHOOPA.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=4TUBE.COM
