@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ADIRONDACKCAMPAUCTION.COM
+   Domain Name: ADVENTURESPORTSJOURNAL.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS67.DOMAINCONTROL.COM
-   Name Server: NS68.DOMAINCONTROL.COM
+   Name Server: NS3.SECURESERVER.NET
+   Name Server: NS4.SECURESERVER.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 06-feb-2011
-   Creation Date: 06-feb-2011
-   Expiration Date: 06-feb-2012
+   Updated Date: 18-apr-2011
+   Creation Date: 31-jul-2000
+   Expiration Date: 31-jul-2020
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:54:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:54:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Concierge Auctions
+   Domains by Proxy, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ADIRONDACKCAMPAUCTION.COM
+   Domain Name: ADVENTURESPORTSJOURNAL.COM
 
    Domain servers in listed order:
-      NS67.DOMAINCONTROL.COM
-      NS68.DOMAINCONTROL.COM
+      NS3.SECURESERVER.NET
+      NS4.SECURESERVER.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ADIRONDACKCAMPAUCTION.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ADVENTURESPORTSJOURNAL.COM

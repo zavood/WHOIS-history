@@ -5,21 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: ADIRONDACKCAMPAUCTION.COM
+   Domain Name: GREENLEEMEDIA.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS67.DOMAINCONTROL.COM
-   Name Server: NS68.DOMAINCONTROL.COM
+   Name Server: NS1-S4T7.WELCOMESEARCHERS.COM
+   Name Server: NS2-S4T7.WELCOMESEARCHERS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 06-feb-2011
-   Creation Date: 06-feb-2011
-   Expiration Date: 06-feb-2012
+   Updated Date: 29-may-2011
+   Creation Date: 17-jun-2005
+   Expiration Date: 17-jun-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:54:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:53:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +76,15 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Concierge Auctions
+   Greenlee Media
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: ADIRONDACKCAMPAUCTION.COM
+   Domain Name: GREENLEEMEDIA.COM
 
    Domain servers in listed order:
-      NS67.DOMAINCONTROL.COM
-      NS68.DOMAINCONTROL.COM
+      NS1-S4T7.WELCOMESEARCHERS.COM
+      NS2-S4T7.WELCOMESEARCHERS.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ADIRONDACKCAMPAUCTION.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=GREENLEEMEDIA.COM

@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D33291265-LROR
+Domain Name:STEENS.ORG
+Created On:21-Aug-2000 09:21:53 UTC
+Last Updated On:06-Aug-2011 07:30:23 UTC
+Expiration Date:21-Aug-2012 09:21:53 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:41862200-NSI
+Registrant Name:Buro Steens B.V.
+Registrant Organization:Buro Steens B.V.
+Registrant Street1:Goudstraat 40
+Registrant Street2:
+Registrant Street3:
+Registrant City:Zoetermeer
+Registrant State/Province:Zoetermeer
+Registrant Postal Code:2718 rc
+Registrant Country:NL
+Registrant Phone:+79.361117
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:postmaster@steens.org
+Admin ID:41862200-NSI
+Admin Name:Buro Steens B.V.
+Admin Organization:Buro Steens B.V.
+Admin Street1:Goudstraat 40
+Admin Street2:
+Admin Street3:
+Admin City:Zoetermeer
+Admin State/Province:Zoetermeer
+Admin Postal Code:2718 rc
+Admin Country:NL
+Admin Phone:+79.361117
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:postmaster@steens.org
+Tech ID:5650323-NSI
+Tech Name:XS4ALL Domain Role Account
+Tech Street1:Postbus 1848
+Tech Street2:
+Tech Street3:
+Tech City:Amsterdam 1000 BV
+Tech State/Province:NH
+Tech Postal Code:1112 XH
+Tech Country:NL
+Tech Phone:+31.203987654
+Tech Phone Ext.:
+Tech FAX:+31.203987604
+Tech FAX Ext.:
+Tech Email:hostmaster@xs4all.nl
+Name Server:NS1.DEMON.NL
+Name Server:NS2.DEMON.NL
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

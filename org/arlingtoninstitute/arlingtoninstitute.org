@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4347042-LROR
+Domain Name:ARLINGTONINSTITUTE.ORG
+Created On:19-Nov-1998 05:00:00 UTC
+Last Updated On:08-Dec-2010 00:25:15 UTC
+Expiration Date:18-Nov-2016 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR64345410
+Registrant Name:John Peterson
+Registrant Organization:The Arlington Institute
+Registrant Street1:5663 Johnsons Mill Rd
+Registrant Street2:P.O. Box 831
+Registrant Street3:
+Registrant City:Berkeley Springs
+Registrant State/Province:West Virginia
+Registrant Postal Code:25411
+Registrant Country:US
+Registrant Phone:+1.7036231944
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:johnp@arlingtoninstitute.org
+Admin ID:CR64345417
+Admin Name:John Peterson
+Admin Organization:The Arlington Institute
+Admin Street1:5663 Johnsons Mill Rd
+Admin Street2:P.O. Box 831
+Admin Street3:
+Admin City:Berkeley Springs
+Admin State/Province:West Virginia
+Admin Postal Code:25411
+Admin Country:US
+Admin Phone:+1.7036231944
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:johnp@arlingtoninstitute.org
+Tech ID:CR64345412
+Tech Name:Hostmaster WESTHOST
+Tech Organization:WestHost
+Tech Street1:hostmaster@WESTHOST.COM
+Tech Street2:
+Tech Street3:
+Tech City:Logan
+Tech State/Province:Utah
+Tech Postal Code:84341
+Tech Country:US
+Tech Phone:+1.4357553433
+Tech Phone Ext.:
+Tech FAX:+1.4357553449
+Tech FAX Ext.:
+Tech Email:hostmaster@WESTHOST.COM
+Name Server:NS1.WEST-DATACENTER.NET
+Name Server:NS2.WEST-DATACENTER.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
