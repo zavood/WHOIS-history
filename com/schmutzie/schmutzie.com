@@ -5,7 +5,7 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SHINGCRAFTS.COM
+   Domain Name: SCHMUTZIE.COM
    Registrar: MYDOMAIN, INC.
    Whois Server: whois.namesdirect.com
    Referral URL: http://www.namesdirect.com
@@ -16,11 +16,11 @@ for detailed information.
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 02-mar-2010
-   Creation Date: 04-mar-2008
-   Expiration Date: 04-mar-2012
+   Updated Date: 12-sep-2011
+   Creation Date: 24-jul-2006
+   Expiration Date: 24-jul-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:10:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:02:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,25 +76,32 @@ and limitations of warranty.  Please limit your queries to 10 per
 minute and one connection.
 
 Registrant:
-   Jim Nurcombe
-   1 Valley View, Front Street,
-   Fritchley
-   Belper, Derbyshire  DE56 2FT
-   GB
+   c/o SCHMUTZIE.COM
+   P.O. Box 821650
+   Vancouver, WA  98682
+   US
 
    Registrar: NAMESDIRECT
-   Domain Name: SHINGCRAFTS.COM
-      Created on: 03-MAR-08
-      Expires on: 04-MAR-12
-      Last Updated on: 02-MAR-10
+   Domain Name: SCHMUTZIE.COM
+      Created on: 24-JUL-06
+      Expires on: 24-JUL-15
+      Last Updated on: 26-JAN-11
 
-   Administrative, Technical Contact:
-      Nurcombe, Jim  domain.controller@nurcombe.net
-      1 Valley View, Front Street,
-      Fritchley
-      Belper, Derbyshire  DE56 2FT
-      GB
-      07092 258006
+   Administrative Contact:
+      JNaDnb@PRIVACYPOST.COM
+      c/o SCHMUTZIE.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
+      US
+      +1.360-449-5933
+
+   Technical Contact:
+      jSaHMc@PRIVACYPOST.COM
+      c/o SCHMUTZIE.COM
+      P.O. Box 821650
+      Vancouver, WA  98682
+      US
+      +1.360-449-5933
 
 
    Domain servers in listed order:
@@ -102,5 +109,10 @@ Registrant:
       NS2.MYDOMAIN.COM
       NS3.MYDOMAIN.COM
       NS4.MYDOMAIN.COM
+
+This listing is a Whois Privacy Customer. Mail correspondence to this
+address must be sent via USPS Express Mail(TM) or USPS Certified
+Mail(R); all other mail will not be processed. Be sure to include
+the domain name in the address.
 
 End of Whois Information

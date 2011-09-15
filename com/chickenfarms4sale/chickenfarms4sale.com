@@ -5,22 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SHINGCRAFTS.COM
-   Registrar: MYDOMAIN, INC.
-   Whois Server: whois.namesdirect.com
-   Referral URL: http://www.namesdirect.com
-   Name Server: NS1.MYDOMAIN.COM
-   Name Server: NS2.MYDOMAIN.COM
-   Name Server: NS3.MYDOMAIN.COM
-   Name Server: NS4.MYDOMAIN.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 02-mar-2010
-   Creation Date: 04-mar-2008
-   Expiration Date: 04-mar-2012
+   Domain Name: CHICKENFARMS4SALE.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: DNS1.INTERNETCRUSADE.COM
+   Name Server: NS1.REALTOWN.COM
+   Status: ok
+   Updated Date: 23-feb-2011
+   Creation Date: 30-mar-2005
+   Expiration Date: 30-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:10:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:05:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,51 +52,40 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-The information in this whois database is provided for the sole
-purpose of assisting you in obtaining information about domain
-name registration records. This information is available &quot;as is,&quot;
-and we do not guarantee its accuracy. By submitting a whois
-query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data
-to: (1) enable high volume, automated, electronic processes that
-stress or load this whois database system providing you this
-information; or (2) allow,enable, or otherwise support the
-transmission of mass, unsolicited, commercial advertising or
-solicitations via facsimile, electronic mail, or by telephone to
-entitites other than your own existing customers.  The
-compilation, repackaging, dissemination or other use of this data
-is expressly prohibited without prior written consent from this
-company. We reserve the right to modify these terms at any
-time. By submitting an inquiry, you agree to these terms of usage
-and limitations of warranty.  Please limit your queries to 10 per
-minute and one connection.
+Domain Name.......... chickenfarms4sale.com
+  Creation Date........ 2005-03-31
+  Registration Date.... 2005-03-31
+  Expiry Date.......... 2012-03-31
+  Organisation Name.... John Alumbaugh
+  Organisation Address. 420 Fox Bay Drive
+  Organisation Address.
+  Organisation Address. Brandon
+  Organisation Address. 39047
+  Organisation Address. MS
+  Organisation Address. UNITED STATES
 
-Registrant:
-   Jim Nurcombe
-   1 Valley View, Front Street,
-   Fritchley
-   Belper, Derbyshire  DE56 2FT
-   GB
+Admin Name........... John Alumbaugh
+  Admin Address........ 420 Fox Bay Drive
+  Admin Address........
+  Admin Address........ Brandon
+  Admin Address........ 39047
+  Admin Address........ MS
+  Admin Address........ UNITED STATES
+  Admin Email.......... John@JohnAlumbaugh.com
+  Admin Phone.......... 601-506-3350
+  Admin Fax............
 
-   Registrar: NAMESDIRECT
-   Domain Name: SHINGCRAFTS.COM
-      Created on: 03-MAR-08
-      Expires on: 04-MAR-12
-      Last Updated on: 02-MAR-10
-
-   Administrative, Technical Contact:
-      Nurcombe, Jim  domain.controller@nurcombe.net
-      1 Valley View, Front Street,
-      Fritchley
-      Belper, Derbyshire  DE56 2FT
-      GB
-      07092 258006
+Tech Name............ Internet Crusade
+  Tech Address......... 7183 Navajo Rd #F
+  Tech Address.........
+  Tech Address......... San Diego
+  Tech Address......... 92119
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... MelbourneDomains@InternetCrusade.com
+  Tech Phone........... +1.6192837302
+  Tech Fax............. +1.6192837343
+  Name Server.......... NS1.REALTOWN.COM
+  Name Server.......... DNS1.INTERNETCRUSADE.COM
 
 
-   Domain servers in listed order:
-      NS1.MYDOMAIN.COM
-      NS2.MYDOMAIN.COM
-      NS3.MYDOMAIN.COM
-      NS4.MYDOMAIN.COM
-
-End of Whois Information

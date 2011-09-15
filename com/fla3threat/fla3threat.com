@@ -5,12 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-FC2.COM.MORE.INFO.AT.WWW.BEYONDWHOIS.COM
-FC2.COM
-
-To single out one record, look it up with &quot;xxx&quot;, where xxx is one of the
-of the records displayed above. If the records are the same, look them up
-with &quot;=xxx&quot; to receive a full display for each record.
+   Domain Name: FLA3THREAT.COM
+   Registrar: UK2 GROUP LTD.
+   Whois Server: whois.hostingservicesinc.net
+   Referral URL: http://www.resell.biz
+   Name Server: NS1.JAMWD.COM
+   Name Server: NS2.JAMWD.COM
+   Status: ok
+   Updated Date: 12-apr-2011
+   Creation Date: 23-apr-2009
+   Expiration Date: 23-apr-2012
 
 &gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:09:39 UTC &lt;&lt;&lt;
 
@@ -47,3 +51,72 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Registration Service Provided By: RESELL.BIZ
+Contact: +1.8778266890
+Website: http://Resell.biz
+
+Domain Name: FLA3THREAT.COM
+
+Registrant:
+    Floridas Triple Threat AllStars
+    Melissa Rego        (fla3threat@gmail.com)
+    2750 Glades Circle
+    Weston
+    Florida,33326
+    US
+    Tel. +01.7863465522
+
+Creation Date: 23-Apr-2009
+Expiration Date: 23-Apr-2012
+
+Domain servers in listed order:
+    ns1.jamwd.com
+    ns2.jamwd.com
+
+
+Administrative Contact:
+    JAMSpiritSites.com
+    Hostmaster        (kim@jamwd.com)
+    4401 N Classen Blvd
+    Ste 500
+    Oklahoma City
+    OK,73118
+    US
+    Tel. +01.4052399308
+
+Technical Contact:
+    JAMSpiritSites.com
+    Hostmaster        (kim@jamwd.com)
+    4401 N Classen Blvd
+    Ste 500
+    Oklahoma City
+    OK,73118
+    US
+    Tel. +01.4052399308
+
+Billing Contact:
+    JAMSpiritSites.com
+    Hostmaster        (kim@jamwd.com)
+    4401 N Classen Blvd
+    Ste 500
+    Oklahoma City
+    OK,73118
+    US
+    Tel. +01.4052399308
+
+Status:ACTIVE
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is UK2 Group Ltd..
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+

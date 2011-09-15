@@ -5,7 +5,7 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SHINGCRAFTS.COM
+   Domain Name: SCRAPANDPAPERSHOP.COM
    Registrar: MYDOMAIN, INC.
    Whois Server: whois.namesdirect.com
    Referral URL: http://www.namesdirect.com
@@ -13,14 +13,12 @@ for detailed information.
    Name Server: NS2.MYDOMAIN.COM
    Name Server: NS3.MYDOMAIN.COM
    Name Server: NS4.MYDOMAIN.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 02-mar-2010
-   Creation Date: 04-mar-2008
-   Expiration Date: 04-mar-2012
+   Status: ok
+   Updated Date: 24-mar-2011
+   Creation Date: 15-jul-2010
+   Expiration Date: 15-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:10:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:03:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,25 +74,25 @@ and limitations of warranty.  Please limit your queries to 10 per
 minute and one connection.
 
 Registrant:
-   Jim Nurcombe
-   1 Valley View, Front Street,
-   Fritchley
-   Belper, Derbyshire  DE56 2FT
-   GB
+   Creative Crafts Group, LLC
+   14850 Pony Express Rd
+   Bluffdale, UT  84065-4801
+   US
 
    Registrar: NAMESDIRECT
-   Domain Name: SHINGCRAFTS.COM
-      Created on: 03-MAR-08
-      Expires on: 04-MAR-12
-      Last Updated on: 02-MAR-10
+   Domain Name: SCRAPANDPAPERSHOP.COM
+      Created on: 15-JUL-10
+      Expires on: 15-JUL-12
+      Last Updated on: 24-MAR-11
 
    Administrative, Technical Contact:
-      Nurcombe, Jim  domain.controller@nurcombe.net
-      1 Valley View, Front Street,
-      Fritchley
-      Belper, Derbyshire  DE56 2FT
-      GB
-      07092 258006
+      Zacharias, Phillip  phil@fonsandporter.com
+      Fons &amp; Porter's Love of Quilting
+      PO Box 171
+      Winterset, IA  50273
+      US
+      515-462-1020
+      515-462-5856
 
 
    Domain servers in listed order:
