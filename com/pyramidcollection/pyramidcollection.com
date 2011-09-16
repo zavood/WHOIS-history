@@ -24,7 +24,7 @@ for detailed information.
    Creation Date: 13-jun-1997
    Expiration Date: 10-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:26:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:33:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -82,9 +82,31 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 Registrant:
    Potpourri Group Inc
+   222 Mill Rd
+   Chelmsford, Massachusetts 01824
+   United States
 
    Registered through: Domains Priced Right
    Domain Name: PYRAMIDCOLLECTION.COM
+      Created on: 12-Jun-97
+      Expires on: 10-Apr-13
+      Last Updated on: 02-May-11
+
+   Administrative Contact:
+      Administration, Domain  domains@potpourrigroup.com
+      Potpourri Group Inc
+      222 Mill Rd
+      Chelmsford, Massachusetts 01824
+      United States
+      +1.9782564100      Fax -- +1.9782561961
+
+   Technical Contact:
+      Administration, Domain  domains@potpourrigroup.com
+      Potpourri Group Inc
+      222 Mill Rd
+      Chelmsford, Massachusetts 01824
+      United States
+      +1.9782564100      Fax -- +1.9782561961
 
    Domain servers in listed order:
       A4.NSTLD.COM
@@ -95,6 +117,3 @@ Registrant:
       K4.NSTLD.COM
       L4.NSTLD.COM
 
-
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=PYRAMIDCOLLECTION.COM&amp;prog_id=domainspricedright

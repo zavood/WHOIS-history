@@ -1,0 +1,80 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 10:24:09 2011
+
+domain:       ambition.cz
+registrant:   SB:JB4752-RIPE_XX
+admin-c:      JB4752-RIPE
+nsset:        NSS:JB-BUROS:1
+registrar:    REG-ZONER
+status:       paid and in zone
+registered:   18.03.1999 01:00:00
+changed:      11.09.2005 21:55:00
+expire:       10.10.2011
+
+contact:      SB:JB4752-RIPE_XX
+org:          Centrum dopravniho vyzkumu
+name:         Centrum dopravniho vyzkumu
+address:      U Smaltovny 26
+address:      Praha 7
+address:      170 00
+address:      CZ
+e-mail:       buros@ambition.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+
+contact:      JB4752-RIPE
+name:         Jiri Burian
+address:      CZ
+phone:        +420 283870163
+fax-no:       +420 283870229
+e-mail:       buros@ambition.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:JB-BUROS:1
+nserver:      ns.ambition.cz (217.11.249.68)
+nserver:      ns2.ambition.cz (87.213.43.109)
+tech-c:       BUROS
+tech-c:       SB:JB-BUROS
+registrar:    REG-ZONER
+created:      01.10.2007 02:00:00
+changed:      12.04.2010 21:52:07
+
+contact:      BUROS
+name:         Jiri Burian
+address:      Praha
+address:      CZ
+phone:        +420 608258258
+e-mail:       root@ambition.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      04.09.2001 16:41:00
+
+contact:      SB:JB-BUROS
+name:         Jiri Burian
+address:      Chorusicka 470
+address:      Praha
+address:      18100
+address:      CZ
+e-mail:       root@ambition.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+
+

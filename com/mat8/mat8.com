@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 13-jul-2005
    Expiration Date: 13-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:00:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:33:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,14 +77,36 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 Registrant:
    Matt Garrett Ltd.
+   Suite 258
+   20 Winchcombe Street
+   Cheltenham, Gloucestershire GL52 2LY
+   United Kingdom
 
    Registered through: HWNic.com
    Domain Name: MAT8.COM
+      Created on: 13-Jul-05
+      Expires on: 13-Jul-12
+      Last Updated on: 28-Jun-11
+
+   Administrative Contact:
+      Garrett, Matt  email@mattgarrett.com
+      Matt Garrett Ltd.
+      Suite 258
+      20 Winchcombe Street
+      Cheltenham, Gloucestershire GL52 2LY
+      United Kingdom
+      +44.1242255226      Fax --
+
+   Technical Contact:
+      Garrett, Matt  email@mattgarrett.com
+      Matt Garrett Ltd.
+      Suite 258
+      20 Winchcombe Street
+      Cheltenham, Gloucestershire GL52 2LY
+      United Kingdom
+      +44.1242255226      Fax --
 
    Domain servers in listed order:
       NS1.MAT8.COM
       NS2.MAT8.COM
 
-
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=MAT8.COM&amp;prog_id=hwniccom

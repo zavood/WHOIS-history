@@ -1,0 +1,51 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         qualcomm.at
+registrant:     QARC8082135-NICAT
+admin-c:        QARC8082135-NICAT
+tech-c:         QARC8082135-NICAT
+nserver:        a4.nstld.com
+nserver:        f4.nstld.com
+nserver:        g4.nstld.com
+nserver:        h4.nstld.com
+nserver:        j4.nstld.com
+nserver:        k4.nstld.com
+nserver:        l4.nstld.com
+changed:        20110608 01:39:57
+source:         AT-DOM
+
+personname:     Host Mast
+organization:   Qualcomm Austria Research Cent
+street address: Operngasse 17-21
+street address: Suite 1408-12, 14th Fl
+postal code:    A-1040
+city:           Vienna
+country:        Austria
+phone:          +431230606610
+fax-no:         +431230606619
+e-mail:         hostmast@qualcomm.com
+nic-hdl:        QARC8082135-NICAT
+changed:        20110608 01:39:52
+source:         AT-DOM
+

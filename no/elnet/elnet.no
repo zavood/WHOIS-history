@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: ELN89D-NORID
+Domain Name................: elnet.no
+Domain Holder Handle.......: EA2370O-NORID
+Registrar Handle...........: REG42-NORID
+Legal-c Handle.............: RS3694P-NORID
+Tech-c Handle..............: DH38R-NORID
+Name Server Handle.........: NSHY11H-NORID
+Name Server Handle.........: NSHY46H-NORID
+Name Server Handle.........: NSHY81H-NORID
+
+Additional information:
+Created:         2001-02-27
+Last updated:    2011-01-29
+
+NORID Handle...............: EA2370O-NORID
+Type.......................: organization
+Name.......................: ELNET AS
+Id Type....................: organization_number
+Id Number..................: 978662544
+Registrar Handle...........: REG42-NORID
+Post Address...............: Kj&aelig;rveien 34
+Postal Code................: NO-3179
+Postal Area................: &Aring;SG&Aring;RDSTRAND
+Country....................: NO
+Mobile Phone Number........: +47.95020855
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

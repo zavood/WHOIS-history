@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 21-jun-2009
    Expiration Date: 21-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 10:39:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:27:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,14 +77,34 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Gunjan Bidasaria
+   E - 801, Safal Parivesh
+   Prahaladnagar
+   Ahmedabad, GJ 380015
+   India
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: TECHPEEK.COM
+      Created on: 21-Jun-09
+      Expires on: 21-Jun-12
+      Last Updated on: 04-Jun-11
+
+   Administrative Contact:
+      Bidasaria, Gunjan  gunjan.bidasaria@gmail.com
+      E - 801, Safal Parivesh
+      Prahaladnagar
+      Ahmedabad, GJ 380015
+      India
+      +91.9925227520      Fax --
+
+   Technical Contact:
+      Bidasaria, Gunjan  gunjan.bidasaria@gmail.com
+      E - 801, Safal Parivesh
+      Prahaladnagar
+      Ahmedabad, GJ 380015
+      India
+      +91.9925227520      Fax --
 
    Domain servers in listed order:
       HT1.HAGIOTEAM.COM
       HT2.HAGIOTEAM.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=TECHPEEK.COM

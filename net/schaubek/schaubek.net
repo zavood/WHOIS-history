@@ -1,0 +1,151 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: SCHAUBEK.NET
+   Registrar: PSI-USA, INC. DBA DOMAIN ROBOT
+   Whois Server: whois.psi-usa.info
+   Referral URL: http://www.psi-usa.info
+   Name Server: DNS1.PAC4YOU.DE
+   Name Server: DNS2.PAC4YOU.DE
+   Status: clientTransferProhibited
+   Updated Date: 23-apr-2010
+   Creation Date: 22-jan-2007
+   Expiration Date: 22-jan-2012
+
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:28:38 UTC &lt;&lt;&lt;
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' (&quot;VeriSign&quot;) Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+%
+% =============
+% PSI-USA, Inc.
+% =============
+%
+% This is the PSI-USA, Inc. WHOIS server.
+%
+% All requests are logged.
+%
+% Requesting IP: 67.231.254.15
+% Requesting URL: http://whois.psi-usa.info
+% Requesting Object: domain schaubek.net
+% Timestamp: 2011-09-16 10:29:16
+%
+% You can see the policy that you agree by submitting a query to this server:
+% whois -h whois.psi-usa.info POLICY
+
+
+domain:                      schaubek.net
+status:                      LOCK
+owner-c:                     LULU-10893159
+admin-c:                     LULU-10893161
+tech-c:                      LULU-10858612
+zone-c:                      LULU-10858612
+nserver:                     dns1.pac4you.de
+nserver:                     dns2.pac4you.de
+created:                     2007-01-22 10:54:35
+expire:                      2012-01-22 10:54:35 (registry time)
+changed:                     2011-04-23 13:41:01
+
+[owner-c] handle:            10893159
+[owner-c] type:              PERSON
+[owner-c] title:
+[owner-c] fname:             Stefan
+[owner-c] lname:             Lutter
+[owner-c] org:               Schaubek-Verlag Leipzig GmbH
+[owner-c] address:           Am Gl&auml;schen 23
+[owner-c] city:              Markranst&auml;dt
+[owner-c] pcode:             04420
+[owner-c] country:           DE
+[owner-c] state:             Sachsen
+[owner-c] phone:             +49-0-34205-67811
+[owner-c] fax:               +49-0-34205-67829
+[owner-c] email:             info@schaubek.de
+[owner-c] protection:        A
+[owner-c] updated:           2010-04-22 08:13:21
+
+[admin-c] handle:            10893161
+[admin-c] type:              PERSON
+[admin-c] title:
+[admin-c] fname:             Karsten
+[admin-c] lname:             Schaetzer
+[admin-c] org:               Schaubek-Verlag Leipzig GmbH
+[admin-c] address:           Am Gl&auml;schen 23
+[admin-c] city:              Markranst&auml;dt
+[admin-c] pcode:             04420
+[admin-c] country:           DE
+[admin-c] state:             Sachsen
+[admin-c] phone:             +49-0-34205-67827
+[admin-c] fax:               +49-0-34205-67829
+[admin-c] email:             schaetzer@schaubek.de
+[admin-c] protection:        A
+[admin-c] updated:           2010-04-22 08:16:39
+
+[tech-c] handle:             10858612
+[tech-c] type:               PERSON
+[tech-c] title:
+[tech-c] fname:              Karsten
+[tech-c] lname:              Schaetzer
+[tech-c] org:                pac4you GmbH
+[tech-c] address:            Am Glaeschen 23
+[tech-c] city:               Markranstaedt
+[tech-c] pcode:              04420
+[tech-c] country:            DE
+[tech-c] state:              Sachsen
+[tech-c] phone:              +49-34205-678-27
+[tech-c] fax:                +49-34205-678-29
+[tech-c] email:              hostmaster@pac4you.de
+[tech-c] protection:         A
+[tech-c] updated:            2010-06-14 15:24:27
+
+[zone-c] handle:             10858612
+[zone-c] type:               PERSON
+[zone-c] title:
+[zone-c] fname:              Karsten
+[zone-c] lname:              Schaetzer
+[zone-c] org:                pac4you GmbH
+[zone-c] address:            Am Glaeschen 23
+[zone-c] city:               Markranstaedt
+[zone-c] pcode:              04420
+[zone-c] country:            DE
+[zone-c] state:              Sachsen
+[zone-c] phone:              +49-34205-678-27
+[zone-c] fax:                +49-34205-678-29
+[zone-c] email:              hostmaster@pac4you.de
+[zone-c] protection:         A
+[zone-c] updated:            2010-06-14 15:24:27
+

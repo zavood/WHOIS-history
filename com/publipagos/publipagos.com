@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 23-aug-2004
    Expiration Date: 23-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:10:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:31:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,14 +77,31 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    alive PubliPagos
+   alive
+   madrid, Madrid 28023
+   Spain
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: PUBLIPAGOS.COM
+      Created on: 23-Aug-04
+      Expires on: 23-Aug-12
+      Last Updated on: 17-Jul-10
+
+   Administrative Contact:
+      PubliPagos, alive  contacto@publipagos.com
+      alive
+      madrid, Madrid 28023
+      Spain
+      +34.91305520      Fax --
+
+   Technical Contact:
+      PubliPagos, alive  contacto@publipagos.com
+      alive
+      madrid, Madrid 28023
+      Spain
+      +34.91305520      Fax --
 
    Domain servers in listed order:
       NS1.MYDOMAIN.COM
       NS2.MYDOMAIN.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=PUBLIPAGOS.COM

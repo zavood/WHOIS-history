@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 09-jun-2002
    Expiration Date: 09-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 10:23:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:24:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,14 +77,34 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    GMG Soulutions
+   c/o MAD House Graphics
+   PO Box 7619
+   Newark, Delaware 19714
+   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: MYSHERPA.COM
+      Created on: 09-Jun-02
+      Expires on: 09-Jun-12
+      Last Updated on: 10-Jun-11
+
+   Administrative Contact:
+      Administrator, Domain  mysherpa.domain.admin@mad4.us
+      MAD House Graphics
+      PO Box 7619
+      Newark, Delaware 19714
+      United States
+      +1.3023685640      Fax --
+
+   Technical Contact:
+      Administrator, Domain  mysherpa.domain.admin@mad4.us
+      MAD House Graphics
+      PO Box 7619
+      Newark, Delaware 19714
+      United States
+      +1.3023685640      Fax --
 
    Domain servers in listed order:
       NS01.DOMAINCONTROL.COM
       NS02.DOMAINCONTROL.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=MYSHERPA.COM
