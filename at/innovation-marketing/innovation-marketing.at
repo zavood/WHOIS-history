@@ -1,0 +1,68 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         innovation-marketing.at
+registrant:     IMG2169929-NICAT
+admin-c:        HL1632232-NICAT
+tech-c:         HL1632232-NICAT
+tech-c:         AW1632231-NICAT
+nserver:        ns1.idec.at
+remarks:        195.58.178.221
+nserver:        ns2.idec.at
+remarks:        195.58.178.222
+changed:        20060213 10:17:50
+source:         AT-DOM
+
+personname:     Heinz Ramler
+organization:   Innovation marketing gmbh
+street address: Neufeldweg 136
+postal code:    8041
+city:           Graz
+country:        Austria
+phone:          +436642006050
+fax-no:         +436642006050
+e-mail:         office@innovation-marketing.at
+nic-hdl:        IMG2169929-NICAT
+changed:        20060213 10:17:50
+source:         AT-DOM
+
+personname:     Helmut Lerchegger
+organization:
+street address: Mantscha 117
+postal code:    8054
+city:           Attendorf
+country:        Austria
+nic-hdl:        HL1632232-NICAT
+changed:        20101203 16:59:04
+source:         AT-DOM
+
+personname:     Andreas Weilharter
+organization:   IDEC-Internet Database E-Business Center GmbH
+street address: Peter-Tunner-Gasse 60
+postal code:    A-8020
+city:           Graz
+country:        Austria
+nic-hdl:        AW1632231-NICAT
+changed:        20070802 15:00:46
+source:         AT-DOM
+

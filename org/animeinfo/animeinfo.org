@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D27978617-LROR
+Domain Name:ANIMEINFO.ORG
+Created On:28-May-2000 15:43:05 UTC
+Last Updated On:12-Apr-2011 00:26:15 UTC
+Expiration Date:28-May-2013 15:43:05 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:0744d1a8ffaf0f13
+Registrant Name:Shaun  Farol
+Registrant Organization:N/A
+Registrant Street1:1059 Bradford Dr
+Registrant Street2:
+Registrant Street3:
+Registrant City:Glendora
+Registrant State/Province:GL
+Registrant Postal Code:91740
+Registrant Country:US
+Registrant Phone:+1.9092356633
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:livewebmin@gmail.com
+Admin ID:4977bef0cde0e4f4
+Admin Name:Web  Admin
+Admin Organization:N/A
+Admin Street1:1059 Bradford Dr
+Admin Street2:
+Admin Street3:
+Admin City:Glendora
+Admin State/Province:GL
+Admin Postal Code:91740
+Admin Country:US
+Admin Phone:+1.9098330555
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmin@live.com
+Tech ID:4977bef0cde0e4f4
+Tech Name:Web  Admin
+Tech Organization:N/A
+Tech Street1:1059 Bradford Dr
+Tech Street2:
+Tech Street3:
+Tech City:Glendora
+Tech State/Province:GL
+Tech Postal Code:91740
+Tech Country:US
+Tech Phone:+1.9098330555
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webmin@live.com
+Name Server:NS1.SEMPAI.NET
+Name Server:NS2.SEMPAI.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 30-nov-1999
    Expiration Date: 30-nov-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:21:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:33:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: citymax.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 12:16:52 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Fri Sep 16 08:28:39 EDT 2011
 Reason Code: IE

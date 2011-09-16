@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 29-jan-2010
    Expiration Date: 29-jan-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:01:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:36:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: hhgreggnewstores.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 20:56:45 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Fri Sep 16 08:26:54 EDT 2011
 Reason Code: IE

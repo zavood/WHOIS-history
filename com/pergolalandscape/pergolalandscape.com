@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 27-jun-2007
    Expiration Date: 27-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:37:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:27:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,35 +84,38 @@ Domain servers in listed order:
 	 ns9.appservhosting.com 	 ns9.appservnetwork.com
 
 Administrator:
-	 Yapeng, Manas
-	 Yapeng, Manas
-Yapeng, Manas,
-AF
- 51111
+	 name: pergolalandscape
+ mail: thewhoisguard@gmail.com tel: +1.4156656387
+	 org: Yapeng, Manas
 
-	 name:(pergolalandscape)
-mail:(thewhoisguard@gmail.com) +1.4156656387
-	 Yapeng, Manas
+address: Yapeng, Manas
+	 city: Yapeng, Manas
+,province: Yapeng, Manas
+,country: AF
+ postcode: 51111
+
 Technical Contactor:
-	 Yapeng, Manas
-	 Yapeng, Manas
-Yapeng, Manas,
-AF
- 51111
+	 name: pergolalandscape
+ mail: thewhoisguard@gmail.com tel: +1.4156656387
+	 org: Yapeng, Manas
 
-	 name:(pergolalandscape)
-mail:(thewhoisguard@gmail.com) +1.4156656387
-	 Yapeng, Manas
+address: Yapeng, Manas
+	 city: Yapeng, Manas
+,province: Yapeng, Manas
+,country: AF
+ postcode: 51111
+
 Billing Contactor:
-	 Yapeng, Manas
-	 Yapeng, Manas
-Yapeng, Manas,
-AF
- 51111
+	 name: pergolalandscape
+ mail: thewhoisguard@gmail.com tel: +1.4156656387
+	 org: Yapeng, Manas
 
-	 name:(pergolalandscape)
-mail:(thewhoisguard@gmail.com) +1.4156656387
-	 Yapeng, Manas
+address: Yapeng, Manas
+	 city: Yapeng, Manas
+,province: Yapeng, Manas
+,country: AF
+ postcode: 51111
+
 
 Registration Service Provider:
 	name: AppServDomain.com

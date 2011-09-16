@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: SWI241D-NORID
+Domain Name................: swiff.no
+Domain Holder Handle.......: SA5109O-NORID
+Registrar Handle...........: REG502-NORID
+Legal-c Handle.............: OHH77P-NORID
+Tech-c Handle..............: VM509P-NORID
+Name Server Handle.........: NSBK11H-NORID
+Name Server Handle.........: NSSW20H-NORID
+
+Additional information:
+Created:         2001-02-28
+Last updated:    2011-03-03
+
+NORID Handle...............: SA5109O-NORID
+Type.......................: organization
+Name.......................: SwiffCom AS
+Id Type....................: organization_number
+Id Number..................: 984594704
+Registrar Handle...........: REG502-NORID
+Post Address...............: Postboks 4004 Storasund
+Postal Code................: NO-5506
+Postal Area................: Haugesund
+Country....................: NO
+Phone Number...............: +47.52866111
+Fax Number.................: +47.52866110
+Email Address..............: post@swiff.net
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

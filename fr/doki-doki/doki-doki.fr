@@ -1,0 +1,105 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; doki-doki.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      doki-doki.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    BE678-FRNIC
+admin-c:     BE630-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL32301-FRNIC
+registrar:   GANDI
+anniversary: 26/10
+created:     19/12/2005
+last-update: 26/10/2010
+source:      FRNIC
+
+ns-list:     NSL32301-FRNIC
+nserver:     ns.doki-doki.fr [213.246.39.81]
+nserver:     ns1.ikoula.fr [213.246.33.228]
+nserver:     ns2.ikoula.fr [213.246.33.229]
+nserver:     ns3.ikoula.fr
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     BE678-FRNIC
+type:        ORGANIZATION
+contact:     BAMBOO EDITION
+address:     116, rue des Jonch&egrave;res - Bp3
+address:     71012 Charnay les Macon Cedex
+country:     FR
+phone:       +33 3 85 34 99 09
+e-mail:      a.plumeri@bamboo.fr
+changed:     26/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     BE630-FRNIC
+type:        ORGANIZATION
+contact:     Bamboo Edition
+address:     116, rue des Joncheres - B.P. 3
+address:     71012 Charnay-l&egrave;s-M&acirc;con Cedex
+country:     FR
+phone:       +33 3 85 34 99 09
+fax-no:      +33 3 85 34 47 55
+e-mail:      62d4a2d96cbb721af3834490160949c2-ap1485@contact.gandi.net
+changed:     11/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

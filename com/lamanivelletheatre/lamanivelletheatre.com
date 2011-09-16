@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 29-jan-2004
    Expiration Date: 29-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:31:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:40:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name : LAMANIVELLETHEATRE.COM
-Created On : 2004-01-29
-Expiration Date : 2012-01-29
-Status : PROTECTED
-Registrant Name : La Manivelle Theatre
-Registrant Street1 : 18 RUE LOUIS LEJEUNE
-Registrant City : Wasquehal
-Registrant State/Province  :
-Registrant Postal Code : 59290
-Registrant Country : FR
-Admin Name : La Manivelle Theatre
-Admin Street1 : 18 RUE LOUIS LEJEUNE
-Admin City : Wasquehal
-Admin State/Province : FR
-Admin Postal Code : 59290
-Admin Country : FR
-Admin Phone : +33.0320368657
-Admin Email : e.vialette@laposte.net
-Tech Name : La Manivelle Theatre
-Tech Street1 : 18 RUE LOUIS LEJEUNE
-Tech City : Wasquehal
-Tech State/Province : FR
-Tech Postal Code : 59290
-Tech Country : FR
-Tech Phone : +33.0320368657
-Tech Email : e.vialette@laposte.net
-Billing Name : Infomaniak Network
-Billing Street1 : Av. de la Praille 26
-Billing City : Carouge
-Billing State/Province : Geneva
-Billing Postal Code : 1227
-Billing Country : CH
-Billing Phone : +41.228203541
-Billing Email : namebay@infomaniak.ch
-Name Server : NS1.INFOMANIAK.CH
-Name Server : NS2.INFOMANIAK.CH
-Registrar Name : Namebay
+Too much requests for this ip address.
+Please retry later
