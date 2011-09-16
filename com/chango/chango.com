@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 27-feb-2000
    Expiration Date: 27-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 14:15:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 16:33:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,4 +56,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Too many lookups from this IP today. See you tomorrow.
+Registrant:
+ Chango, Inc.
+ 488 Wellington St. West Suite 300
+ Toronto, Ontario M5V 1E3
+ ca
+
+ Domain name: CHANGO.COM
+
+
+ Administrative Contact:
+    El-Daly, Ahmed  ahmed@chango.com
+    488 Wellington St. West Suite 300
+    Toronto, Ontario M5V 1E3
+    ca
+    +14164790778
+ Technical Contact:
+    Hostmaster, easyDNS  hostmaster@easydns.com
+    304A-219 Dufferin Street
+    Toronto, Ontario M6K 3E3
+    CA
+    +1.4165358672
+
+
+ Registrar of Record: easyDNS Technologies, Inc.
+ Record last updated on 06-Sep-2011.
+ Record expires on 27-Feb-2013.
+ Record created on 27-Feb-2000.
+
+ Domain servers in listed order:
+    NS1-105.AKAM.NET
+    USE2.AKAM.NET
+    USE5.AKAM.NET
+    NS1-222.AKAM.NET
+    USC5.AKAM.NET
+    EUR2.AKAM.NET
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns
+  or Identi.ca http://identi.ca/easyDNS )
+
+
+You have 15 lookups left today

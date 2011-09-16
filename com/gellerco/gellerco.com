@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 16-jun-2000
    Expiration Date: 16-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:07:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 16:15:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: gellerco.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 12:02:50 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Fri Sep 16 12:11:37 EDT 2011
 Reason Code: IE

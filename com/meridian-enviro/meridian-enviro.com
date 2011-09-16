@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 15-dec-1997
    Expiration Date: 14-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:54:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 16:34:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,6 +70,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: meridian-enviro.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 10:44:21 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Fri Sep 16 12:24:38 EDT 2011
 Reason Code: IE

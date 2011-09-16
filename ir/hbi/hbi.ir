@@ -1,0 +1,35 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'hbi.ir'
+
+
+domain:		hbi.ir
+ascii:		hbi.ir
+remarks:	(Domain Holder) Health, Biomedical Information, Ministry of Health and Medical Education
+remarks:	(Domain Holder Address) No 211 ,Azadi Street ,After Eskandari Conjunction , Opposite avesta park , Tehran , Iran, Tehran, Tehran, IR
+holder-c:	he113-irnic
+admin-c:	he113-irnic
+tech-c:		he113-irnic
+nserver:	ns1.hbi.ir
+last-updated:	2009-06-07
+source:		IRNIC # Filtered
+
+nic-hdl:	he113-irnic
+org:		Health, Biomedical Information, Ministry of Health and Medical Education
+e-mail:		ali.nasherahkami@gmail.com
+address:	No 211 ,Azadi Street ,After Eskandari Conjunction , Opposite avesta park , Tehran , Iran, Tehran, Tehran, IR
+phone:		+98 21 66424110
+fax-no:		+98 21 66424109
+source:		IRNIC # Filtered
+
+domain:		hbi.ir
+ascii:		hbi.ir
+remarks:	This domain is only available for registration under certain conditions
+source:		IRNIC # Filtered
+
