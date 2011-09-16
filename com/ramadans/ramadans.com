@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 08-aug-1996
    Expiration Date: 07-aug-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 13:19:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 19:23:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,6 +70,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: ramadans.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 09:14:53 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Fri Sep 16 15:13:38 EDT 2011
 Reason Code: IE

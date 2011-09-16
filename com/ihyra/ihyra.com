@@ -12,11 +12,11 @@ for detailed information.
    Name Server: NS1.IHYRA.COM
    Name Server: NS2.IHYRA.COM
    Status: ok
-   Updated Date: 25-aug-2011
+   Updated Date: 15-sep-2011
    Creation Date: 05-feb-2011
    Expiration Date: 05-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:52:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 19:12:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,15 +78,15 @@ Domain Name :  ihyra.com
 	Status : ok
 	Record expires on 6-Feb-2012.
 	Record created on 6-Feb-2011.
-	Database last updated on 26-Aug-2011 02:20:21 GMT+8.
+	Database last updated on 16-Sep-2011 03:55:59 GMT+8.
 
 	Registrar :  Net-Chinese Co., Ltd &lt;Tel :  +886-2-25319696&gt;
 	Referral URL :  http://www.net-chinese.com.tw
 
 	Domain servers in listed order :
 
+	ns1.ihyra.com		195.64.154.90
 	ns2.ihyra.com		83.69.233.124
-	ns1.ihyra.com		195.64.154.85
 
 	&lt;Note 1&gt; Seeing the detail information on &quot;Registration Agreement&quot; :
 		 http://www.net-chinese.com.tw/script/dn_agree.html

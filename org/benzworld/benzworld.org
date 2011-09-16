@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D69336837-LROR
+Domain Name:BENZWORLD.ORG
+Created On:16-Apr-2001 21:03:22 UTC
+Last Updated On:18-Mar-2011 09:06:16 UTC
+Expiration Date:16-Apr-2012 21:03:22 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:608c310b958
+Registrant Name:Rob  Laidlaw
+Registrant Organization:AutoForums.comInc
+Registrant Street1:111PeterStreet
+Registrant Street2:
+Registrant Street3:
+Registrant City:Toronto
+Registrant State/Province:ON
+Registrant Postal Code:M5V2H1
+Registrant Country:CA
+Registrant Phone:+1.4163418950
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@autoforums.com
+Admin ID:608c310b958
+Admin Name:Rob  Laidlaw
+Admin Organization:AutoForums.comInc
+Admin Street1:111PeterStreet
+Admin Street2:
+Admin Street3:
+Admin City:Toronto
+Admin State/Province:ON
+Admin Postal Code:M5V2H1
+Admin Country:CA
+Admin Phone:+1.4163418950
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@autoforums.com
+Tech ID:608c310b958
+Tech Name:Rob  Laidlaw
+Tech Organization:AutoForums.comInc
+Tech Street1:111PeterStreet
+Tech Street2:
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:ON
+Tech Postal Code:M5V2H1
+Tech Country:CA
+Tech Phone:+1.4163418950
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@autoforums.com
+Name Server:NAME1.AUTOFORUMS.COM
+Name Server:NAME2.AUTOFORUMS.COM
+Name Server:NAME3.AUTOFORUMS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

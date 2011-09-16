@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D67819302-LROR
+Domain Name:CCAUSTIN.ORG
+Created On:14-Mar-2001 18:00:36 UTC
+Last Updated On:23-May-2011 16:55:39 UTC
+Expiration Date:14-Mar-2013 18:00:36 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31895946
+Registrant Name:Jeff Bernier
+Registrant Street1:402A West Palm Valley Blvd
+Registrant Street2:#131
+Registrant Street3:
+Registrant City:Round Rock
+Registrant State/Province:Texas
+Registrant Postal Code:78664
+Registrant Country:US
+Registrant Phone:+1.5124876493
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jeff@theccwizards.com
+Admin ID:CR31895948
+Admin Name:Jeff Bernier
+Admin Street1:402A West Palm Valley Blvd
+Admin Street2:#131
+Admin Street3:
+Admin City:Round Rock
+Admin State/Province:Texas
+Admin Postal Code:78664
+Admin Country:US
+Admin Phone:+1.5124876493
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jeff@theccwizards.com
+Tech ID:CR31895947
+Tech Name:Jeff Bernier
+Tech Street1:402A West Palm Valley Blvd
+Tech Street2:#131
+Tech Street3:
+Tech City:Round Rock
+Tech State/Province:Texas
+Tech Postal Code:78664
+Tech Country:US
+Tech Phone:+1.5124876493
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jeff@theccwizards.com
+Name Server:NS1107.WEBSITEWELCOME.COM
+Name Server:NS1108.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

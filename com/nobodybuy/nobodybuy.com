@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 20-nov-2009
    Expiration Date: 20-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:22:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 19:15:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -86,20 +86,35 @@ Domain servers in listed order:
 	 ns3.dns-diy.com 	 ns4.dns-diy.com
 
 Administrator:
-	 wang aiping service@tradevv.com +86.57156851055
-	 wang aiping
-	 Hangzhou E-Commerce Industrial Park
-	 hangzhou,zhejiang,CN 310014
+	 name: wang aiping
+ mail: service@tradevv.com tel: +86.57156851055
+	 org: wang aiping
+
+address: Hangzhou E-Commerce Industrial Park
+	 city: hangzhou
+,province: zhejiang
+,country: CN
+ postcode: 310014
 
 Technical Contactor:
-	 wang aiping service@tradevv.com +86.57156851055
-	 wang aiping
-	 Hangzhou E-Commerce Industrial Park
-	 hangzhou,zhejiang,CN 310014
+	 name: wang aiping
+ mail: service@tradevv.com tel: +86.57156851055
+	 org: wang aiping
+
+address: Hangzhou E-Commerce Industrial Park
+	 city: hangzhou
+,province: zhejiang
+,country: CN
+ postcode: 310014
 
 Billing Contactor:
-	 wang aiping service@tradevv.com +86.57156851055
-	 wang aiping
-	 Hangzhou E-Commerce Industrial Park
-	 hangzhou,zhejiang,CN 310014
+	 name: wang aiping
+ mail: service@tradevv.com tel: +86.57156851055
+	 org: wang aiping
+
+address: Hangzhou E-Commerce Industrial Park
+	 city: hangzhou
+,province: zhejiang
+,country: CN
+ postcode: 310014
 

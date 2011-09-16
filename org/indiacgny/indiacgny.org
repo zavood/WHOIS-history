@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D891180-LROR
+Domain Name:INDIACGNY.ORG
+Created On:18-Feb-1998 05:00:00 UTC
+Last Updated On:26-Feb-2007 16:15:38 UTC
+Expiration Date:17-Feb-2016 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28025294-NSI
+Registrant Name:Consulate General of India
+Registrant Organization:Consulate General of India
+Registrant Street1:3 East 64th Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:NY
+Registrant Postal Code:10021
+Registrant Country:US
+Registrant Phone:+1.21277406
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:economic@indiacgny.org
+Admin ID:34370269-NSI
+Admin Name:Consulate General of India
+Admin Organization:Consulate General of India
+Admin Street1:3 East 64th Street
+Admin Street2:
+Admin Street3:
+Admin City:New York
+Admin State/Province:NY
+Admin Postal Code:10021
+Admin Country:US
+Admin Phone:+1.2127740613
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:economic@indiacgny.org
+Tech ID:5358807-NSI
+Tech Name:Interland, Inc.
+Tech Street1:303 Peachtree Center Avenue
+Tech Street2:suite 500
+Tech Street3:
+Tech City:Atlanta
+Tech State/Province:GA
+Tech Postal Code:30303
+Tech Country:US
+Tech Phone:+1.4047208301
+Tech Phone Ext.:
+Tech FAX:+1.6783652899
+Tech FAX Ext.:
+Tech Email:DOMREG@INTERLAND.COM
+Name Server:NS1.LINEWSLINE.COM
+Name Server:NS2.LINEWSLINE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
