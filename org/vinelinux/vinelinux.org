@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D9686130-LROR
+Domain Name:VINELINUX.ORG
+Created On:01-Sep-1999 09:12:51 UTC
+Last Updated On:09-Jun-2011 07:07:24 UTC
+Expiration Date:01-Sep-2016 09:12:51 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:17345508-NSI
+Registrant Name:Daisuke SUZUKI
+Registrant Organization:Daisuke SUZUKI
+Registrant Street1:1-178-506 Hinode-cho
+Registrant Street2:
+Registrant Street3:
+Registrant City:Komatsu
+Registrant State/Province:Ishikawa
+Registrant Postal Code:923-0868
+Registrant Country:JP
+Registrant Phone:+81.761415204
+Registrant Phone Ext.:
+Registrant FAX:+81.761415204
+Registrant FAX Ext.:
+Registrant Email:daisuke@linux.or.jp
+Admin ID:17345507-NSI
+Admin Name:Daisuke Suzuki
+Admin Street1:1-178-506 Hinode-cho
+Admin Street2:
+Admin Street3:
+Admin City:Komatsu
+Admin State/Province:Ishikawa
+Admin Postal Code:923-0868
+Admin Country:JP
+Admin Phone:+81.761415203
+Admin Phone Ext.:
+Admin FAX:+81.761415204
+Admin FAX Ext.:
+Admin Email:daisuke@linux.or.jp
+Tech ID:17345507-NSI
+Tech Name:Daisuke Suzuki
+Tech Street1:1-178-506 Hinode-cho
+Tech Street2:
+Tech Street3:
+Tech City:Komatsu
+Tech State/Province:Ishikawa
+Tech Postal Code:923-0868
+Tech Country:JP
+Tech Phone:+81.761415203
+Tech Phone Ext.:
+Tech FAX:+81.761415204
+Tech FAX Ext.:
+Tech Email:daisuke@linux.or.jp
+Name Server:NS2.SPHERE.AD.JP
+Name Server:NEO.DICEY.ORG
+Name Server:NS.DICEY.ORG
+Name Server:NS.MICROGROOVE.JP
+Name Server:SS.VINECAVES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

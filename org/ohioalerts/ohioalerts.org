@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158065586-LROR
+Domain Name:OHIOALERTS.ORG
+Created On:15-Jan-2010 18:43:40 UTC
+Last Updated On:23-Sep-2010 12:53:15 UTC
+Expiration Date:15-Jan-2020 18:43:40 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22572604-NSI
+Registrant Name:Northwest Ohio Area Computer Serv. Coop.
+Registrant Organization:Northwest Ohio Area Computer Serv. Coop.
+Registrant Street1:NOACSC Administrative Offices 645 South
+Registrant Street2:Main Street
+Registrant Street3:
+Registrant City:Lima
+Registrant State/Province:OH
+Registrant Postal Code:45804
+Registrant Country:US
+Registrant Phone:+1.4192287417
+Registrant Phone Ext.:
+Registrant FAX:+1.4192225635
+Registrant FAX Ext.:
+Registrant Email:hostmaster@noacsc.org
+Admin ID:22572604-NSI
+Admin Name:Northwest Ohio Area Computer Serv. Coop.
+Admin Organization:Northwest Ohio Area Computer Serv. Coop.
+Admin Street1:NOACSC Administrative Offices 645 South
+Admin Street2:Main Street
+Admin Street3:
+Admin City:Lima
+Admin State/Province:OH
+Admin Postal Code:45804
+Admin Country:US
+Admin Phone:+1.4192287417
+Admin Phone Ext.:
+Admin FAX:+1.4192225635
+Admin FAX Ext.:
+Admin Email:hostmaster@noacsc.org
+Tech ID:22572604-NSI
+Tech Name:Northwest Ohio Area Computer Serv. Coop.
+Tech Organization:Northwest Ohio Area Computer Serv. Coop.
+Tech Street1:NOACSC Administrative Offices 645 South
+Tech Street2:Main Street
+Tech Street3:
+Tech City:Lima
+Tech State/Province:OH
+Tech Postal Code:45804
+Tech Country:US
+Tech Phone:+1.4192287417
+Tech Phone Ext.:
+Tech FAX:+1.4192225635
+Tech FAX Ext.:
+Tech Email:hostmaster@noacsc.org
+Name Server:NS1.ESU.K12.OH.US
+Name Server:NS1.NOACSC.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

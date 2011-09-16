@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 06-jan-1997
    Expiration Date: 05-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 14:32:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 19:55:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,4 +56,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Too many lookups from this IP today. See you tomorrow.
+Registrant:
+ Second Foundation Consulting
+ 45 Washburn Dr
+ Kitchener, Ontario N2G 3X4
+ CA
+
+ Domain name: SECOND-FOUNDATION.COM
+
+
+ Administrative Contact:
+    Canfield, Mark  mcanfield@second-foundation.com
+    45 Washburn Dr
+    Kitchener, Ontario N2G 3X4
+    CA
+    15198852040
+ Technical Contact:
+    Shutsa, Larry  lshutsa@second-foundation.com
+    5 Hill Street
+    Kitchener, Ontario N2G 3X4
+    CA
+    15198852040
+
+
+ Registrar of Record: easyDNS Technologies, Inc.
+ Record last updated on 21-Oct-2010.
+ Record expires on 05-Jan-2012.
+ Record created on 06-Jan-1997.
+
+ Domain servers in listed order:
+    NS2.EASYDNS.COM   72.52.2.1
+    NS3.EASYDNS.ORG   64.68.192.10
+    NS6.EASYDNS.NET   72.52.2.1
+    REMOTE2.EASYDNS.COM   72.52.2.1
+    REMOTE1.EASYDNS.COM   64.68.192.10
+    NS1.EASYDNS.COM   64.68.192.10
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns
+  or Identi.ca http://identi.ca/easyDNS )
+
+
+You have 9 lookups left today

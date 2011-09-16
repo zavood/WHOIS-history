@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 16:29:00 (BRT -03:00)
+
+domain:      grupoalg.com.br
+owner:       ALG Terceiriza&ccedil;&atilde;o e Servi&ccedil;os Ltda.
+ownerid:     001.662.206/0001-40
+responsible: Maur&iacute;cio Nogueira
+country:     BR
+owner-c:     MAN930
+admin-c:     MAN930
+tech-c:      MAN930
+billing-c:   MAN930
+nserver:     ns1.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20010102 #492028
+expires:     20140102
+changed:     20110118
+status:      published
+
+nic-hdl-br:  MAN930
+person:      Mauricio Nogueira
+e-mail:      suporte@grupoalg.com.br
+created:     20060224
+changed:     20080930
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

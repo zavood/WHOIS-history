@@ -1,0 +1,51 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 16:42:47 (BRT -03:00)
+
+domain:      sc.gov.br
+owner:       Centro de Informatica e Automacao do Estado de SC
+ownerid:     083.043.745/0001-65
+responsible: Reinaldo Sabatini Fernandes
+country:     BR
+owner-c:     RSF216
+admin-c:     RSF216
+tech-c:      LAB548
+billing-c:   RSF216
+nserver:     ns1.sc.gov.br 200.19.215.1
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.sc.gov.br 200.19.215.2
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns.pop-sc.rnp.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     before 19950101
+changed:     20060515
+status:      published
+
+nic-hdl-br:  LAB548
+person:      Laercio Brehmer
+e-mail:      laercio@ciasc.gov.br
+created:     20060208
+changed:     20060208
+
+nic-hdl-br:  RSF216
+person:      Reinaldo Sabatini Fernandes
+e-mail:      reinaldo@ciasc.gov.br
+created:     20030717
+changed:     20030717
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

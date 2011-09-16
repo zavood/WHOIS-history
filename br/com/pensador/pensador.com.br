@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 16:42:58 (BRT -03:00)
+
+domain:      pensador.com.br
+owner:       Pensador Solu&ccedil;&otilde;es em Inform&aacute;tica Ltda.
+ownerid:     007.527.420/0001-70
+responsible: Reginaldo Silveira
+country:     BR
+owner-c:     RES177
+admin-c:     RES177
+tech-c:      RES177
+billing-c:   RES177
+nserver:     dns2.pensador.com.br 74.55.129.106
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     pensador.net.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20021119 #1020091
+expires:     20111119
+changed:     20101105
+status:      published
+
+nic-hdl-br:  RES177
+person:      Reginaldo Silveira
+e-mail:      registro@pensador.com.br
+created:     20010804
+changed:     20090622
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

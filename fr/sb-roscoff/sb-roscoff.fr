@@ -1,0 +1,90 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; sb-roscoff.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      sb-roscoff.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SBDR1-FRNIC
+admin-c:     YF92-FRNIC
+tech-c:      OC310-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1200-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 28/05/2004
+source:      FRNIC
+
+ns-list:     NSL1200-FRNIC
+nserver:     sbr.sb-roscoff.fr [193.52.39.100]
+nserver:     resone.univ-rennes1.fr [129.20.254.1]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     SBDR1-FRNIC
+type:        ORGANIZATION
+contact:     Station Biologique de Roscoff
+address:     B.P. 74
+address:     29682 Roscoff Cedex
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     YF92-FRNIC
+type:        PERSON
+contact:     Yves Foll
+address:     Station Biologique, Universite de Rennes1
+address:     B.P. 74
+address:     29682 Roscoff Cedex
+country:     FR
+phone:       +33 98 29 23 01
+fax-no:      +33 98 29 23 24
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OC310-FRNIC
+type:        PERSON
+contact:     Olivier Collin
+address:     Station Biologique, Universite de Rennes1
+address:     B.P. 74
+address:     29682 Roscoff Cedex
+country:     FR
+phone:       +33 2 98 29 23 29
+fax-no:      +33 2 98 29 23 24
+e-mail:      ocollin@sb-roscoff.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
