@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 20-nov-2001
    Expiration Date: 20-nov-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:08:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 06:26:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -105,7 +105,7 @@ JohnsonDiversey
 
    Record expires on 20-Nov-2013.
    Record created on 20-Nov-2001.
-   Database last updated on 15-Sep-2011 01:59:10 EDT.
+   Database last updated on 16-Sep-2011 02:16:20 EDT.
 
    Domain servers in listed order:
 

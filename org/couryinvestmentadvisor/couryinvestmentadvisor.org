@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D20552348-LROR
+Domain Name:COURYINVESTMENTADVISOR.ORG
+Created On:23-Feb-2000 22:08:08 UTC
+Last Updated On:20-Jan-2009 19:02:26 UTC
+Expiration Date:23-Feb-2013 22:08:08 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:27275251-NSI
+Registrant Name:The Coury Financial Group
+Registrant Organization:The Coury Financial Group
+Registrant Street1:USX Tower Suite 3040 600 Grant
+Registrant Street2:
+Registrant Street3:
+Registrant City:Pittsburgh
+Registrant State/Province:PA
+Registrant Postal Code:15219
+Registrant Country:US
+Registrant Phone:+1.41226157
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dnovak@COURYFG.COM
+Admin ID:27275258-NSI
+Admin Name:Coury Financial
+Admin Organization:Coury Financial
+Admin Street1:US steel Tower
+Admin Street2:600 Grant Street
+Admin Street3:
+Admin City:Pittsburgh
+Admin State/Province:PA
+Admin Postal Code:15219
+Admin Country:US
+Admin Phone:+1.412261574
+Admin Phone Ext.:
+Admin FAX:+1.412261275
+Admin FAX Ext.:
+Admin Email:dnovakowski@COURYFG.COM
+Tech ID:5373667-NSI
+Tech Name:Expedient Communications
+Tech Organization:Expedient Holdings
+Tech Street1:810 Parish St.
+Tech Street2:
+Tech Street3:
+Tech City:Pittsburgh
+Tech State/Province:PA
+Tech Postal Code:15220
+Tech Country:US
+Tech Phone:+1.4123167800
+Tech Phone Ext.:
+Tech FAX:+1.4123167800
+Tech FAX Ext.:
+Tech Email:hostmaster@expedient.com
+Name Server:AUTH1.DNS.EXPEDIENT.COM
+Name Server:AUTH2.DNS.EXPEDIENT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

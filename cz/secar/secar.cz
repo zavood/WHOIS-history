@@ -1,0 +1,63 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 08:04:10 2011
+
+domain:       secar.cz
+registrant:   SB:SECAR-CZ
+admin-c:      SECAR_RAMA
+nsset:        NSS:SECAR-CZ:1
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   24.10.1997 02:00:00
+changed:      31.10.2004 19:35:00
+expire:       29.10.2012
+
+contact:      SB:SECAR-CZ
+org:          Secar Bohemia a.s.
+name:         Secar Bohemia a.s.
+address:      &Aring;&nbsp;t&Auml;›p&Atilde;&iexcl;nsk&Atilde;&iexcl; 23/650
+address:      Praha 1
+address:      110 00
+address:      CZ
+e-mail:       systems@secar.cz
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      28.04.2006 10:25:00
+
+contact:      SECAR_RAMA
+name:         Rastislav Manak
+address:      Londynska 48
+address:      Praha
+address:      12000
+address:      CZ
+phone:        +420.602691997
+e-mail:       systems@secar.cz
+registrar:    REG-INTERNET-CZ
+created:      22.11.2005 11:55:00
+changed:      12.05.2006 11:05:00
+
+nsset:        NSS:SECAR-CZ:1
+nserver:      ns1.bluetone.cz
+nserver:      ns.secar.cz (212.158.133.41)
+tech-c:       SB:SECAR-CZ
+tech-c:       SECAR_RAMA
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+
+

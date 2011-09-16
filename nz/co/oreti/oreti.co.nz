@@ -1,0 +1,64 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-16T18:20:55+12:00
+domain_name: oreti.co.nz
+query_status: 200 Active
+domain_dateregistered: 1999-04-27T00:00:00+12:00
+domain_datebilleduntil: 2012-05-27T00:00:00+12:00
+domain_datelastmodified: 2011-05-27T23:31:53+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Actrix Networks Ltd
+registrar_address1: PO Box 11-410
+registrar_city: Wellington
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 801-5225
+registrar_fax: +64 4 801-5335
+registrar_email: dns@actrix.co.nz
+%
+registrant_contact_name: Oreti Systems Limited
+registrant_contact_address1: PO Box 10174
+registrant_contact_city: Wellington
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 4 472 4609
+registrant_contact_fax: +64 4 472 0380
+registrant_contact_email: admin@oreti.co.nz
+%
+admin_contact_name: Davin Murdoch
+admin_contact_address1: PO Box 10174
+admin_contact_city: Wellington
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 4 472 4609
+admin_contact_fax: +64 4 472 0380
+admin_contact_email: admin@oreti.co.nz
+%
+technical_contact_name: Actrix Networks Ltd
+technical_contact_address1: 282 Wakefield St
+technical_contact_address2: PO Box 11-410
+technical_contact_city: Wellington
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 4 8015225
+technical_contact_fax: +64 4 8015335
+technical_contact_email: dns@actrix.co.nz
+%
+ns_name_01: ns1.actrix.co.nz
+ns_name_02: ns2.actrix.co.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

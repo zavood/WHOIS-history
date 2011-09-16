@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; atlantic.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      atlantic.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ASFD16-FRNIC
+admin-c:     AS9411-FRNIC
+tech-c:      IDN42-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL10932-FRNIC
+registrar:   INDOM
+anniversary: 12/08
+created:     04/12/2007
+last-update: 12/08/2011
+source:      FRNIC
+
+ns-list:     NSL10932-FRNIC
+nserver:     ns1.typhon.net
+nserver:     ns2.typhon.net
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     ASFD16-FRNIC
+type:        ORGANIZATION
+contact:     ATLANTIC Soci&eacute;t&eacute; Fran&ccedil;aise de D&eacute;veloppement Thermique
+address:     44, boulevard des Etats-Unis
+address:     85000 La Roche-sur-Yon
+country:     FR
+phone:       +33 1 72 74 00 00
+e-mail:      noc@ordipat.fr
+changed:     12/08/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AS9411-FRNIC
+type:        ORGANIZATION
+contact:     ATLANTIC SFDT
+address:     44, boulevard des Etats-Unis
+address:     85000 la Roche sur Yon
+country:     FR
+phone:       +33 2 51 44 70 30
+fax-no:      +33 2 51 36 29 59
+e-mail:      nom-domaine@groupe-atlantic.com
+changed:     12/08/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     IDN42-FRNIC
+type:        ORGANIZATION
+contact:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 76 70 05 67
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     28/04/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+

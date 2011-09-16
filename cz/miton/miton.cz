@@ -1,0 +1,74 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 08:05:37 2011
+
+domain:       miton.cz
+registrant:   SB:MITON_CZ
+admin-c:      MILAN_ZEMANEK
+nsset:        NSS:MITON_CZ:1
+registrar:    REG-STABLE
+status:       paid and in zone
+registered:   08.01.2000 20:41:00
+changed:      23.08.2006 11:15:00
+expire:       08.01.2012
+
+contact:      SB:MITON_CZ
+org:          Miton cz, s. r. o.
+name:         Miton cz, s. r. o.
+address:      Soukenna 1
+address:      Jablonec nad Nisou
+address:      46601
+address:      CZ
+e-mail:       domeny@miton.cz
+registrar:    REG-STABLE
+created:      10.08.2001 22:13:00
+changed:      17.02.2011 10:45:13
+
+contact:      MILAN_ZEMANEK
+name:         Milan Zemanek
+address:      Soukenna 1
+address:      Jablonec nad Nisou
+address:      46601
+address:      CZ
+phone:        +420.483315443
+e-mail:       faknic@stable.cz
+registrar:    REG-STABLE
+created:      10.08.2001 22:13:00
+changed:      17.06.2004 10:45:00
+
+nsset:        NSS:MITON_CZ:1
+nserver:      ns.mitoncz.com
+nserver:      ns.miton.cz (88.86.120.83)
+tech-c:       STABLE_CZ
+registrar:    REG-STABLE
+created:      01.10.2007 02:00:00
+changed:      20.05.2011 10:03:44
+
+contact:      STABLE_CZ
+org:          Stable.cz, s.r.o.
+name:         Stable.cz, s.r.o.
+address:      Sk&Aring;ôiv&Atilde;&iexcl;n&Auml;ç&Atilde;&shy; 3068/57
+address:      Jablonec nad Nisou
+address:      46601
+address:      CZ
+e-mail:       info@stable.cz
+registrar:    REG-STABLE
+created:      19.05.2011 11:14:50
+
+

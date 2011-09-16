@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155118861-LROR
+Domain Name:UKIMUSA.ORG
+Created On:16-Jan-2009 16:39:22 UTC
+Last Updated On:21-Jan-2011 00:11:32 UTC
+Expiration Date:16-Jan-2012 16:39:22 UTC
+Sponsoring Registrar:NameSecure, L.L.C. (R58-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:wia2NS1923785
+Registrant Name:Kenneth Smith
+Registrant Organization:Kingdom Resource Services
+Registrant Street1:PO BOX 32182
+Registrant Street2:
+Registrant Street3:
+Registrant City:Farifield
+Registrant State/Province:CT
+Registrant Postal Code:06825
+Registrant Country:US
+Registrant Phone:+1.8883155711
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@krsglobal.com
+Admin ID:upw3NS1923785
+Admin Name:Kenneth Smith
+Admin Organization:Kingdom Resource Services
+Admin Street1:PO BOX 32182
+Admin Street2:
+Admin Street3:
+Admin City:Farifield
+Admin State/Province:CT
+Admin Postal Code:06825
+Admin Country:US
+Admin Phone:+1.2033457716
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@krsglobal.com
+Tech ID:dvo0NS0
+Tech Name:Ken Smith
+Tech Organization:KRS Global
+Tech Street1:P.O. Box 321082
+Tech Street2:
+Tech Street3:
+Tech City:fairfield
+Tech State/Province:ct
+Tech Postal Code:06825
+Tech Country:US
+Tech Phone:+1.2033457716
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@namesecure.com
+Name Server:NS1.SITEGROUND215.COM
+Name Server:NS2.SITEGROUND215.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

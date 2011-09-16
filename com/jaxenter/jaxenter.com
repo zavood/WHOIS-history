@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 05-sep-2007
    Expiration Date: 05-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:05:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 06:20:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain jaxenter.com
-% Timestamp: 2011-09-14 20:05:51
+% Timestamp: 2011-09-16 08:21:10
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
