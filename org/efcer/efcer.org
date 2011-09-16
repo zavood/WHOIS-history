@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3061736-LROR
+Domain Name:EFCER.ORG
+Created On:14-Jan-1999 05:00:00 UTC
+Last Updated On:09-Jan-2011 09:12:00 UTC
+Expiration Date:14-Jan-2012 05:00:00 UTC
+Sponsoring Registrar:TLDs L.L.C. d/b/a SRSPlus (R78-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:27265113-NSI
+Registrant Name:Evangelical Friends Church Eas
+Registrant Organization:Evangelical Friends Church Eas
+Registrant Street1:5350 Broadmoor Circle N.W.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Canton
+Registrant State/Province:OH
+Registrant Postal Code:44709
+Registrant Country:US
+Registrant Phone:+1.33049316
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domainreg@intheround.com
+Admin ID:6498260-SRSPLUS
+Admin Name:Domain Registrar
+Admin Organization:In The Round Productions
+Admin Street1:3705 Middlebranch Ave NE
+Admin Street2:
+Admin Street3:
+Admin City:Canton
+Admin State/Province:OH
+Admin Postal Code:44705
+Admin Country:US
+Admin Phone:+1.3304309096
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domainreg@intheround.com
+Tech ID:6498259-SRSPLUS
+Tech Name:Domain Registrar
+Tech Organization:In The Round Productions
+Tech Street1:3705 Middlebranch Ave NE
+Tech Street2:
+Tech Street3:
+Tech City:Canton
+Tech State/Province:OH
+Tech Postal Code:44705
+Tech Country:US
+Tech Phone:+1.3304309096
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domainreg@intheround.com
+Name Server:NS1-HOSTS.SRSPLUS.COM
+Name Server:NS2-HOSTS.SRSPLUS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 08-aug-1997
    Expiration Date: 07-aug-2021
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:06:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:17:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: godlan.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:56:44 EDT 2011
+Date and Time of Query: Thu Sep 15 21:07:49 EDT 2011
 Reason Code: IE

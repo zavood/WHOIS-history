@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D31552190-LROR
+Domain Name:SHERMANLAKEYMCA.ORG
+Created On:18-Jul-2000 20:13:15 UTC
+Last Updated On:24-Jul-2008 17:18:54 UTC
+Expiration Date:18-Jul-2017 20:13:15 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29626117-NSI
+Registrant Name:SHERMAN LAKE YMCA
+Registrant Organization:SHERMAN LAKE YMCA
+Registrant Street1:6225 N. 39TH STREET
+Registrant Street2:
+Registrant Street3:
+Registrant City:AUGUSTA
+Registrant State/Province:MI
+Registrant Postal Code:49012
+Registrant Country:US
+Registrant Phone:+1.61673130
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:gmiller@LPI.COM
+Admin ID:29626119-NSI
+Admin Name:SHERMAN LAKE YMCA
+Admin Organization:SHERMAN LAKE YMCA
+Admin Street1:6225 N. 39TH STREET
+Admin Street2:
+Admin Street3:
+Admin City:AUGUSTA
+Admin State/Province:MI
+Admin Postal Code:49012
+Admin Country:US
+Admin Phone:+1.61673130
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gmiller@LPI.COM
+Tech ID:29626118-NSI
+Tech Name:KATHY SIMPSON
+Tech Organization:SHERMAN LAKE YMCA
+Tech Street1:6225 N. 39TH STREET
+Tech Street2:
+Tech Street3:
+Tech City:AUGUSTA
+Tech State/Province:MI
+Tech Postal Code:49012
+Tech Country:US
+Tech Phone:+1.269731301
+Tech Phone Ext.:
+Tech FAX:+1.269731302
+Tech FAX Ext.:
+Tech Email:kathysimpson@ymcasl.org
+Name Server:E0.NS.VOYAGER.NET
+Name Server:E1.NS.VOYAGER.NET
+Name Server:E2.NS.VOYAGER.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

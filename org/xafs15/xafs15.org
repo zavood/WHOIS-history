@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156610690-LROR
+Domain Name:XAFS15.ORG
+Created On:09-Jul-2009 08:07:36 UTC
+Last Updated On:08-Jul-2011 08:52:21 UTC
+Expiration Date:09-Jul-2016 08:07:36 UTC
+Sponsoring Registrar:Bizcn.com, Inc. (R1248-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:orgwc47126854531
+Registrant Name:Wangsheng Chu
+Registrant Organization:Chu Wangsheng
+Registrant Street1:Beijing
+Registrant Street2:
+Registrant Street3:
+Registrant City:BeiJing
+Registrant State/Province:Beijing
+Registrant Postal Code:100049
+Registrant Country:CN
+Registrant Phone:+86.1088236437
+Registrant Phone Ext.:
+Registrant FAX:+86.1088236437
+Registrant FAX Ext.:
+Registrant Email:ws@ihep.ac.cn
+Admin ID:orgwc47126854882
+Admin Name:Wangsheng Chu
+Admin Organization:Wangsheng Chu
+Admin Street1:Beijing
+Admin Street2:
+Admin Street3:
+Admin City:BeiJing
+Admin State/Province:Beijing
+Admin Postal Code:100049
+Admin Country:CN
+Admin Phone:+86.1088236437
+Admin Phone Ext.:
+Admin FAX:+86.1088236437
+Admin FAX Ext.:
+Admin Email:ws@ihep.ac.cn
+Tech ID:orgwc47126855294
+Tech Name:Wangsheng Chu
+Tech Organization:Wangsheng Chu
+Tech Street1:Beijing
+Tech Street2:
+Tech Street3:
+Tech City:BeiJing
+Tech State/Province:Beijing
+Tech Postal Code:100049
+Tech Country:CN
+Tech Phone:+86.1088236437
+Tech Phone Ext.:
+Tech FAX:+86.1088236437
+Tech FAX Ext.:
+Tech Email:ws@ihep.ac.cn
+Name Server:NS1.CDNCENTER.COM
+Name Server:NS2.CDNCENTER.COM
+Name Server:NS5.CDNCENTER.COM
+Name Server:NS6.CDNCENTER.COM
+Name Server:NS4.CDNCENTER.COM
+Name Server:NS3.CDNCENTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

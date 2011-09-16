@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: JAC357D-NORID
+Domain Name................: jacobsen.no
+Domain Holder Handle.......: JCON2O-NORID
+Registrar Handle...........: REG42-NORID
+Legal-c Handle.............: AJ1687P-NORID
+Tech-c Handle..............: KM2700P-NORID
+Name Server Handle.........: NSNS42H-NORID
+Name Server Handle.........: NSPA63H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-20
+
+NORID Handle...............: JCON2O-NORID
+Type.......................: organization
+Name.......................: JACOBSEN CONSULTING OG NYE MEDIER
+Id Type....................: organization_number
+Id Number..................: 977495997
+Registrar Handle...........: REG42-NORID
+Post Address...............: Tyriveien 5
+Postal Code................: NO-4018
+Postal Area................: Stavanger
+Country....................: NO
+Phone Number...............: +47.51881466
+Email Address..............: anders@jacobsen.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

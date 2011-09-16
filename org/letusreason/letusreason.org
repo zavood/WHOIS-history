@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1775586-LROR
+Domain Name:LETUSREASON.ORG
+Created On:14-Aug-1998 04:00:00 UTC
+Last Updated On:22-Sep-2010 06:23:08 UTC
+Expiration Date:13-Aug-2015 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:23669791-NSI
+Registrant Name:Let Us Reason Ministries
+Registrant Organization:Let Us Reason Ministries
+Registrant Street1:P.O. Box 683
+Registrant Street2:
+Registrant Street3:
+Registrant City:Wahiawa
+Registrant State/Province:HI
+Registrant Postal Code:96786
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:laney@CKN.COM
+Admin ID:6099532-NSI
+Admin Name:Richard A Laney
+Admin Organization:CKN \ Lodestar Internet Systems
+Admin Street1:1306 Hoolaulea St
+Admin Street2:
+Admin Street3:
+Admin City:Pearl City
+Admin State/Province:HI
+Admin Postal Code:96782
+Admin Country:US
+Admin Phone:+1.8087791588
+Admin Phone Ext.:
+Admin FAX:+1.8084551499
+Admin FAX Ext.:
+Admin Email:laney@CKN.COM
+Tech ID:6099532-NSI
+Tech Name:Richard A Laney
+Tech Organization:CKN \ Lodestar Internet Systems
+Tech Street1:1306 Hoolaulea St
+Tech Street2:
+Tech Street3:
+Tech City:Pearl City
+Tech State/Province:HI
+Tech Postal Code:96782
+Tech Country:US
+Tech Phone:+1.8087791588
+Tech Phone Ext.:
+Tech FAX:+1.8084551499
+Tech FAX Ext.:
+Tech Email:laney@CKN.COM
+Name Server:DNS2.STABLETRANSIT.COM
+Name Server:DNS1.STABLETRANSIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

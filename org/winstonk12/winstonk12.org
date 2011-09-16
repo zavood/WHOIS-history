@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D67749111-LROR
+Domain Name:WINSTONK12.ORG
+Created On:13-Mar-2001 16:55:37 UTC
+Last Updated On:31-Jan-2011 20:26:47 UTC
+Expiration Date:13-Mar-2014 16:55:37 UTC
+Sponsoring Registrar:DirectNIC, LTD (R48-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:ODN-309041
+Registrant Name:James Moore
+Registrant Organization:Winston County School System
+Registrant Street1:25125 Hwy 195
+Registrant Street2:
+Registrant Street3:
+Registrant City:Double Springs
+Registrant State/Province:AL
+Registrant Postal Code:35553
+Registrant Country:US
+Registrant Phone:+1.2054895018
+Registrant Phone Ext.:
+Registrant FAX:+1.2054893203
+Registrant FAX Ext.:
+Registrant Email:jmoore@winstonk12.org
+Admin ID:ODN-309041
+Admin Name:James Moore
+Admin Organization:Winston County School System
+Admin Street1:25125 Hwy 195
+Admin Street2:
+Admin Street3:
+Admin City:Double Springs
+Admin State/Province:AL
+Admin Postal Code:35553
+Admin Country:US
+Admin Phone:+1.2054895018
+Admin Phone Ext.:
+Admin FAX:+1.2054893203
+Admin FAX Ext.:
+Admin Email:jmoore@winstonk12.org
+Tech ID:ODN-309041
+Tech Name:James Moore
+Tech Organization:Winston County School System
+Tech Street1:25125 Hwy 195
+Tech Street2:
+Tech Street3:
+Tech City:Double Springs
+Tech State/Province:AL
+Tech Postal Code:35553
+Tech Country:US
+Tech Phone:+1.2054895018
+Tech Phone Ext.:
+Tech FAX:+1.2054893203
+Tech FAX Ext.:
+Tech Email:jmoore@winstonk12.org
+Name Server:ASNSVR.ASC.EDU
+Name Server:NS1.ASC.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

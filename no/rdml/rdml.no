@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: RDM10D-NORID
+Domain Name................: rdml.no
+Domain Holder Handle.......: RMLA3O-NORID
+Registrar Handle...........: REG334-NORID
+Legal-c Handle.............: CC413P-NORID
+Tech-c Handle..............: IAFR5R-NORID
+Tech-c Handle..............: IAFH4R-NORID
+Name Server Handle.........: NSFA33H-NORID
+Name Server Handle.........: NSFA45H-NORID
+
+Additional information:
+Created:         2004-08-24
+Last updated:    2011-08-26
+
+NORID Handle...............: RMLA3O-NORID
+Type.......................: organization
+Name.......................: RUBBERDUCK MEDIA LAB AS
+Id Type....................: organization_number
+Id Number..................: 986704337
+Registrar Handle...........: REG334-NORID
+Post Address...............: &Oslash;vre Slottsgate 25
+Postal Code................: NO-0157
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.21554788
+Email Address..............: support@rubberduckmedialab.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

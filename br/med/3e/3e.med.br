@@ -1,0 +1,45 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 22:24:55 (BRT -03:00)
+
+domain:      3e.med.br
+owner:       Jos&eacute; Francisco de Camargo Carmello
+ownerid:     867.469.958-87
+country:     BR
+owner-c:     JFCCA2
+admin-c:     JFCCA2
+tech-c:      JFCCA2
+billing-c:   JFCCA2
+nserver:     ns1.locaweb.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.locaweb.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns3.locaweb.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20090406 #5443526
+expires:     20180406
+changed:     20090414
+status:      published
+
+nic-hdl-br:  JFCCA2
+person:      Jos&eacute; Francisco de Camargo Carmello
+e-mail:      jfccarmello@gmail.com
+created:     20090406
+changed:     20090406
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

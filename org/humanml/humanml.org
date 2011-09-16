@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94231267-LROR
+Domain Name:HUMANML.ORG
+Created On:21-Jan-2003 17:56:23 UTC
+Last Updated On:22-Jan-2011 01:22:16 UTC
+Expiration Date:21-Jan-2012 17:56:23 UTC
+Sponsoring Registrar:TLDs L.L.C. d/b/a SRSPlus (R78-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:1004672-SRSPLUS
+Registrant Name:Ric Johnson
+Registrant Organization:OpenDomain.Org
+Registrant Street1:PO Boc 15
+Registrant Street2:
+Registrant Street3:
+Registrant City:Doylestown
+Registrant State/Province:PA
+Registrant Postal Code:18901
+Registrant Country:US
+Registrant Phone:+1.2673372121
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ricjohnsoniii@gmail.com
+Admin ID:1004672-SRSPLUS
+Admin Name:Ric Johnson
+Admin Organization:OpenDomain.Org
+Admin Street1:PO Boc 15
+Admin Street2:
+Admin Street3:
+Admin City:Doylestown
+Admin State/Province:PA
+Admin Postal Code:18901
+Admin Country:US
+Admin Phone:+1.2673372121
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ricjohnsoniii@gmail.com
+Tech ID:159540-O-SRSPLUS
+Tech Name:Ric Johnson
+Tech Organization:OpenDomain.Org
+Tech Street1:4902 Carlisle Pike, #303
+Tech Street2:
+Tech Street3:
+Tech City:Mechanicsburg
+Tech State/Province:PA
+Tech Postal Code:17050
+Tech Country:US
+Tech Phone:+1.2679808720
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ricjohnsoniii@gmail.com
+Name Server:NS1-HOSTS.SRSPLUS.COM
+Name Server:NS2-HOSTS.SRSPLUS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 17-mar-2006
    Expiration Date: 17-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:44:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:22:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,49 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Server Version 2.1 at whois.tmagnic.net
-
-Database contains ONLY .COM, .NET, .TV, .CC domains.
-
-Owner Contact:
-   Thi Huong Nguyen
-   Lotusgarten
-   Hagener Str. 409
-   Gevelsberg, D-58285, DE
-
-   Punycode Name:  lotusgarten.com
-   Unicode Name:   lotusgarten.com
-
-   Admin Contact
-      Thi Huong Nguyen
-
-      st.iber@t-online.de
-      Hagener Str. 409
-      Gevelsberg, D-58285, DE
-      phone: +49 233265264
-
-   Technical Contact
-      Hostmaster Strato Rechenzentrum
-      Cronon AG Professional IT-Services
-      hostmaster@cronon-isp.net
-      Emmy-Noether-Str. 10
-      Karlsruhe, D-76131, DE
-      phone: +49 72166320305
-
-   Zone Contact
-      Hostmaster Strato Rechenzentrum
-      Cronon AG Professional IT-Services
-      hostmaster@cronon-isp.net
-      Emmy-Noether-Str. 10
-      Karlsruhe, D-76131, DE
-      phone: +49 72166320305
-
-   Record expires on: 2012-03-17 04:25:46
-
-   Domain servers in listed order:
-
-      shades20.rzone.de
-      docks02.rzone.de
-
-
-
