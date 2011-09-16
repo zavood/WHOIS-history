@@ -1,0 +1,113 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; completel.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      completel.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CS3557-FRNIC
+admin-c:     AT1521-FRNIC
+tech-c:      CS50-FRNIC
+tech-c:      SOC1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1156-FRNIC
+registrar:   COMPLETEL SAS FRANCE
+anniversary: 24/03
+created:     29/07/1998
+last-update: 12/03/2009
+source:      FRNIC
+
+ns-list:     NSL1156-FRNIC
+nserver:     ns1.completel.fr [213.244.0.2]
+nserver:     ns2.completel.fr [213.244.0.3]
+source:      FRNIC
+
+registrar:   COMPLETEL SAS FRANCE
+type:        Isp Option 1
+address:     5 Place de la Pyramide
+address:     Tour Ariane
+address:     LA DEFENSE CEDEX
+country:     FR
+phone:       +33 1 72 92 20 00
+fax-no:      +33 1 72 92 20 01
+e-mail:      hostmaster@completel.fr
+website:     http://www.completel.fr
+anonymous:   NO
+registered:  01/07/1999
+source:      FRNIC
+
+nic-hdl:     CS3557-FRNIC
+type:        ORGANIZATION
+contact:     COMPLETEL SAS
+address:     Tour Egee
+address:     9, allee de l'Arche
+address:     92671 Courbevoie
+country:     FR
+phone:       +33 1 72 74 00 00
+e-mail:      completel@ordipat.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CS50-FRNIC
+type:        ROLE
+contact:     Completel SAS
+address:     Completel SAS France
+address:     15, rue des Sorins
+address:     92741 Nanterre Cedex
+country:     FR
+phone:       +33 1 72 92 44 00
+e-mail:      nic-admin@completel.fr
+admin-c:     NIC6-FRNIC
+tech-c:      SOC1-FRNIC
+tech-c:      XP4-FRNIC
+notify:      nic-admin@completel.fr
+changed:     22/01/2001 nic-admin@completel.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AT1521-FRNIC
+type:        PERSON
+contact:     Antoine Trannoy
+address:     COMPLETEL SAS
+address:     Tour Ariane
+address:     place de la Pyramide
+address:     92088 Paris la Defense Cedex
+country:     FR
+phone:       +33 1 72 92 48 10
+e-mail:      a.trannoy@completel.fr
+changed:     19/10/2007 completel@ordipat.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SOC1-FRNIC
+type:        PERSON
+contact:     Service Operating Center
+address:     Completel SAS France
+address:     15, rue des Sorins
+address:     92741 Nanterre Cedex
+country:     FR
+phone:       +33 1 72 92 44 00
+e-mail:      soc@completel.fr
+changed:     22/01/2001 nic-admin@completel.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

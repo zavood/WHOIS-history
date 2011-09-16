@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; philatelie91.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      philatelie91.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    BPJM4-FRNIC
+admin-c:     PN141-FRNIC
+tech-c:      DN53-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL19029-FRNIC
+registrar:   DIGITAL RURAL INFORMATIQUE
+anniversary: 19/10
+created:     13/06/2007
+last-update: 19/10/2010
+source:      FRNIC
+
+ns-list:     NSL19029-FRNIC
+nserver:     ns1.produhost.net
+nserver:     ns2.produhost.net
+nserver:     ns3.produhost.net
+source:      FRNIC
+
+registrar:   DIGITAL RURAL INFORMATIQUE
+type:        Isp Option 1
+address:     Le Grand Courgoult
+address:     ROUEZ EN CHAMPAGNE
+country:     FR
+phone:       +33 2 43 29 16 59
+fax-no:      +33 2 43 29 61 68
+e-mail:      contact@dri.fr
+website:     http://www.dri.fr
+anonymous:   NO
+registered:  28/02/2002
+source:      FRNIC
+
+nic-hdl:     BPJM4-FRNIC
+type:        ORGANIZATION
+contact:     BOUHIER Pascal Jean Maurice
+address:     78b, rue Vigier
+address:     91600 Savigny-sur-Orge
+country:     FR
+phone:       +33 6 83 45 21 62
+e-mail:      pascal-et-simone@wanadoo.fr
+changed:     19/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     PN141-FRNIC
+type:        ORGANIZATION
+contact:     PHILATELIE 91
+address:     22bis, rue Charles Rossignol
+address:     91600 Savigny-sur-Orge
+country:     FR
+phone:       +033 0169243205
+e-mail:      contact@philatelie91.fr
+changed:     11/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     DN53-FRNIC
+type:        ROLE
+contact:     DRI NIC
+address:     Digital Rural Informatique
+address:     Serv. Gestion Nic-Fr
+address:     le Grand Courgoult
+address:     72140 Rouez
+country:     FR
+phone:       +33 2 43 29 16 59
+fax-no:      +33 2 43 29 61 68
+e-mail:      nic@dri.fr
+trouble:     mailto:nic@dri.fr
+trouble:     ? : mailto:contact@digitalrural.org
+admin-c:     PDR2-FRNIC
+tech-c:      PDR2-FRNIC
+remarks:     DRI - Nic Gestion
+notify:      nic@dri.fr
+changed:     05/03/2002 nic@dri.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

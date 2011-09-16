@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D32656830-LROR
+Domain Name:STRADERS.ORG
+Created On:09-Aug-2000 22:29:06 UTC
+Last Updated On:10-Aug-2011 17:03:48 UTC
+Expiration Date:09-Aug-2012 22:29:06 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:tuiH3avn80XYDHfn
+Registrant Name:Matt Reimer
+Registrant Organization:VPOP Technologies, Inc.
+Registrant Street1:402 W. Ojai Ave.
+Registrant Street2:Suite 101-104
+Registrant Street3:
+Registrant City:Ojai
+Registrant State/Province:Ca
+Registrant Postal Code:93023
+Registrant Country:US
+Registrant Phone:+1.8055299374
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mreimer@vpop.net
+Admin ID:tuiH3avn80XYDHfn
+Admin Name:Matt Reimer
+Admin Organization:VPOP Technologies, Inc.
+Admin Street1:402 W. Ojai Ave.
+Admin Street2:Suite 101-104
+Admin Street3:
+Admin City:Ojai
+Admin State/Province:Ca
+Admin Postal Code:93023
+Admin Country:US
+Admin Phone:+1.8055299374
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mreimer@vpop.net
+Tech ID:tuiH3avn80XYDHfn
+Tech Name:Matt Reimer
+Tech Organization:VPOP Technologies, Inc.
+Tech Street1:402 W. Ojai Ave.
+Tech Street2:Suite 101-104
+Tech Street3:
+Tech City:Ojai
+Tech State/Province:Ca
+Tech Postal Code:93023
+Tech Country:US
+Tech Phone:+1.8055299374
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mreimer@vpop.net
+Name Server:DNS1.VPOP.NET
+Name Server:DNS2.VPOP.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

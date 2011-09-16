@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1401058-LROR
+Domain Name:TANO.ORG
+Created On:18-Apr-1997 04:00:00 UTC
+Last Updated On:15-Mar-2010 01:31:28 UTC
+Expiration Date:19-Apr-2015 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:19367356-NSI
+Registrant Name:Barry Silverberg
+Registrant Organization:ACC CCBNO
+Registrant Street1:5930 Middle Fiskvillre Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Austin
+Registrant State/Province:TX
+Registrant Postal Code:78752
+Registrant Country:US
+Registrant Phone:+1.5125609589
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bsilverb@austincc.edu
+Admin ID:19367356-NSI
+Admin Name:Barry Silverberg
+Admin Organization:ACC CCBNO
+Admin Street1:5930 Middle Fiskvillre Rd
+Admin Street2:
+Admin Street3:
+Admin City:Austin
+Admin State/Province:TX
+Admin Postal Code:78752
+Admin Country:US
+Admin Phone:+1.5125609589
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bsilverb@austincc.edu
+Tech ID:5358805-NSI
+Tech Name:Network Solutions, LLC.
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:NS1.DNSPARK.NET
+Name Server:NS2.DNSPARK.NET
+Name Server:NS3.DNSPARK.NET
+Name Server:NS4.DNSPARK.NET
+Name Server:NS5.DNSPARK.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

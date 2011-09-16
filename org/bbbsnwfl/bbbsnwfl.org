@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D85616832-LROR
+Domain Name:BBBSNWFL.ORG
+Created On:15-Apr-2002 19:04:45 UTC
+Last Updated On:14-Apr-2009 18:56:50 UTC
+Expiration Date:15-Apr-2012 19:04:45 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-HY1YJGF15J5A
+Registrant Name:Jackie Edwards
+Registrant Organization:Big Brothers/Big Sisters of Northwest Florida
+Registrant Street1:5514 N. Davis Hwy Bldg D 117
+Registrant Street2:
+Registrant Street3:
+Registrant City:Pensacola
+Registrant State/Province:Florida
+Registrant Postal Code:32503
+Registrant Country:US
+Registrant Phone:+1.8504335437
+Registrant Phone Ext.:
+Registrant FAX:+1.8504331288
+Registrant FAX Ext.:
+Registrant Email:jedwards@bbbsnwfl.org
+Admin ID:DOT-C1E9SI3O5I01
+Admin Name:Jackie Edwards
+Admin Organization:Big Brothers/Big Sisters of Northwest Florida
+Admin Street1:5514 N. Davis Hwy Bldg D 117
+Admin Street2:
+Admin Street3:
+Admin City:Pensacola
+Admin State/Province:Florida
+Admin Postal Code:32503
+Admin Country:US
+Admin Phone:+1.8504335437
+Admin Phone Ext.:
+Admin FAX:+1.8504331288
+Admin FAX Ext.:
+Admin Email:jedwards@bbbsnwfl.org
+Tech ID:DOT-QH6Y6K8FRGD5
+Tech Name:Jackie Edwards
+Tech Organization:Big Brothers/Big Sisters of Northwest Florida
+Tech Street1:5514 N. Davis Hwy Bldg D 117
+Tech Street2:
+Tech Street3:
+Tech City:Pensacola
+Tech State/Province:Florida
+Tech Postal Code:32503
+Tech Country:US
+Tech Phone:+1.8504335437
+Tech Phone Ext.:
+Tech FAX:+1.8504331288
+Tech FAX Ext.:
+Tech Email:jedwards@bbbsnwfl.org
+Name Server:NS1.COXMAIL.COM
+Name Server:NS2.COXMAIL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
