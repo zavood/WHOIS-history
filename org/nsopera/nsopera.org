@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98263457-LROR
+Domain Name:NSOPERA.ORG
+Created On:17-Jun-2003 12:12:41 UTC
+Last Updated On:13-Jun-2011 13:02:38 UTC
+Expiration Date:17-Jun-2012 12:12:41 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuu3tqNUPUtyBl9M
+Registrant Name:Krista Welsh
+Registrant Organization:Nova Scotia Opera Association
+Registrant Street1:6199 Chebucto Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Halifax
+Registrant State/Province:ns
+Registrant Postal Code:B3L1K7
+Registrant Country:CA
+Registrant Phone:+1.9024258586
+Registrant Phone Ext.:
+Registrant FAX:+1.9024843258
+Registrant FAX Ext.:
+Registrant Email:domains@airfire.ca
+Admin ID:tuzW5MnDj74WLK4U
+Admin Name:Krista Welsh
+Admin Organization:Nova Scotia Opera Association
+Admin Street1:6199 Chebucto Road
+Admin Street2:
+Admin Street3:
+Admin City:Halifax
+Admin State/Province:ns
+Admin Postal Code:B3L1K7
+Admin Country:CA
+Admin Phone:+1.9024258586
+Admin Phone Ext.:
+Admin FAX:+1.9024843258
+Admin FAX Ext.:
+Admin Email:domains@airfire.ca
+Tech ID:tusymHEpUcER3Rzf
+Tech Name:Michael Dinn
+Tech Organization:Airfire Telephone &amp; Data Inc.
+Tech Street1:130 Eileen Stubbs Avenue
+Tech Street2:Suite 25 North
+Tech Street3:
+Tech City:Dartmouth
+Tech State/Province:NS
+Tech Postal Code:B3B2C4
+Tech Country:CA
+Tech Phone:+1.9024201451
+Tech Phone Ext.:
+Tech FAX:+1.9024688930
+Tech FAX Ext.:
+Tech Email:support@airfire.ca
+Name Server:NS1.LANDLORDIT.COM
+Name Server:NS2.LANDLORDIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

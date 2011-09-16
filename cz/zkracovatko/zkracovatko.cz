@@ -1,0 +1,63 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 15:29:56 2011
+
+domain:       zkracovatko.cz
+registrant:   1MK
+nsset:        TELE3
+registrar:    REG-TELE3
+status:       paid and in zone
+registered:   17.10.2008 11:59:19
+changed:      05.02.2011 21:43:36
+expire:       17.10.2011
+
+contact:      1MK
+name:         Michal Kubicek
+address:      Nadrazni 34
+address:      Ostrava
+address:      70200
+address:      CZ
+registrar:    REG-MOJEID
+created:      29.09.2008 13:24:15
+changed:      18.03.2011 23:52:59
+
+nsset:        TELE3
+nserver:      ns1.tele3.cz (81.0.217.111, 2001:1528:123::d01)
+nserver:      ns2.tele3.cz (89.187.135.111, 2a01:5f0:100c::d02)
+nserver:      ns3.tele3.cz (88.146.242.181, 2a01:5e0:26::d03)
+nserver:      ns4.tele3.us
+tech-c:       TELE3
+registrar:    REG-TELE3
+created:      06.04.2008 13:49:05
+changed:      12.05.2011 23:40:54
+
+contact:      TELE3
+org:          TELE3 s.r.o.
+name:         Todor Dimitrov
+address:      Vinohradska 184
+address:      Praha 3
+address:      13052
+address:      CZ
+phone:        +420.777111158
+e-mail:       info@tele3.cz
+registrar:    REG-TELE3
+created:      27.03.2008 10:10:05
+changed:      04.01.2011 09:36:54
+
+

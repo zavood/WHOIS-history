@@ -17,56 +17,53 @@ time. By submitting this query, you agree to abide by this policy.
 Domain ID:D128013098-LROR
 Domain Name:MCIEP.ORG
 Created On:29-Aug-2006 19:32:07 UTC
-Last Updated On:30-Aug-2011 13:36:31 UTC
+Last Updated On:13-Sep-2011 08:52:00 UTC
 Expiration Date:29-Aug-2012 19:32:07 UTC
 Sponsoring Registrar:eNom, Inc. (R39-LROR)
 Status:OK
 Status:AUTORENEWPERIOD
-Registrant ID:6528F7159BB3B326
-Registrant Name:Ross Emmett
-Registrant Organization:Michigan Center for Innovation - Economic Prosperity
-Registrant Street1:303 South Case Hall
-Registrant Street2:James Madison College, Michiga
-Registrant Street3:n State University
-Registrant City:East Lansing
-Registrant State/Province:MI
-Registrant Postal Code:48825
+Registrant ID:8c6b7cee5d3ac550
+Registrant Name:Reactivation  Period
+Registrant Street1:15801 NE 24th Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bellevue
+Registrant State/Province:WA
+Registrant Postal Code:98004
 Registrant Country:US
-Registrant Phone:+1.5178841267
+Registrant Phone:+1.4252744500
 Registrant Phone Ext.:
-Registrant FAX:
+Registrant FAX:+1.4259744791
 Registrant FAX Ext.:
-Registrant Email:RossEmmett@gmail.com
-Admin ID:6528F7159BB3B326
-Admin Name:Ross Emmett
-Admin Organization:Michigan Center for Innovation - Economic Prosperity
-Admin Street1:303 South Case Hall
-Admin Street2:James Madison College, Michiga
-Admin Street3:n State University
-Admin City:East Lansing
-Admin State/Province:MI
-Admin Postal Code:48825
+Registrant Email:Reactivation-Pending@enom.com
+Admin ID:8c6b7cee5d3ac550
+Admin Name:Reactivation  Period
+Admin Street1:15801 NE 24th Street
+Admin Street2:
+Admin Street3:
+Admin City:Bellevue
+Admin State/Province:WA
+Admin Postal Code:98004
 Admin Country:US
-Admin Phone:+1.5178841267
+Admin Phone:+1.4252744500
 Admin Phone Ext.:
-Admin FAX:
+Admin FAX:+1.4259744791
 Admin FAX Ext.:
-Admin Email:RossEmmett@gmail.com
-Tech ID:6528F7159BB3B326
-Tech Name:Ross Emmett
-Tech Organization:Michigan Center for Innovation - Economic Prosperity
-Tech Street1:303 South Case Hall
-Tech Street2:James Madison College, Michiga
-Tech Street3:n State University
-Tech City:East Lansing
-Tech State/Province:MI
-Tech Postal Code:48825
+Admin Email:Reactivation-Pending@enom.com
+Tech ID:8c6b7cee5d3ac550
+Tech Name:Reactivation  Period
+Tech Street1:15801 NE 24th Street
+Tech Street2:
+Tech Street3:
+Tech City:Bellevue
+Tech State/Province:WA
+Tech Postal Code:98004
 Tech Country:US
-Tech Phone:+1.5178841267
+Tech Phone:+1.4252744500
 Tech Phone Ext.:
-Tech FAX:
+Tech FAX:+1.4259744791
 Tech FAX Ext.:
-Tech Email:RossEmmett@gmail.com
+Tech Email:Reactivation-Pending@enom.com
 Name Server:DNS1.NAME-SERVICES.COM
 Name Server:DNS2.NAME-SERVICES.COM
 Name Server:DNS3.NAME-SERVICES.COM

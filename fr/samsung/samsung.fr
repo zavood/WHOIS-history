@@ -1,0 +1,99 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; samsung.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      samsung.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SEF21-FRNIC
+admin-c:     SM679-FRNIC
+tech-c:      CD4068-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1584-FRNIC
+registrar:   GANDI
+anniversary: 10/09
+created:     10/09/1998
+last-update: 21/07/2009
+source:      FRNIC
+
+ns-list:     NSL1584-FRNIC
+nserver:     ns1.gip.net
+nserver:     ns2.gip.net
+nserver:     ns3.gip.net
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     CD4068-FRNIC
+type:        ROLE
+contact:     CDTEL Role
+address:     CDTEL SA
+address:     28, impasse de la Futaie
+address:     zone d'activites d'Alery
+address:     74960 Cran-Gevrier
+country:     FR
+phone:       +33 4 50 52 14 45
+fax-no:      +33 4 50 52 09 94
+e-mail:      cdtel@cdtel.fr
+trouble:     Send bug reports to help-desk@cdtel.fr
+admin-c:     CM515-FRNIC
+tech-c:      MS6547-FRNIC
+notify:      cdtel@cdtel.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SEF21-FRNIC
+type:        ORGANIZATION
+contact:     SAMSUNG ELECTRONICS FRANCE
+address:     305, rue de la Belle Etoile
+address:     95947 Roissy Aeroport Charles de Gaulle Cedex
+country:     FR
+phone:       +33 1 49 38 65 00
+e-mail:      2cb9c2d51e311415237d6c0a6aa5be46-910775@contact.gandi.net
+changed:     06/02/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SM679-FRNIC
+type:        PERSON
+contact:     Sylvie Meloni
+address:     Jet Multimedia France
+address:     immeuble le Quartz 75 cours Emile Zola
+address:     69100 Villeurbanne
+country:     FR
+phone:       +33 4 78 17 16 16
+fax-no:      +33 4 78 17 16 41
+e-mail:      nicadmin@jetmultimedia.fr
+changed:     30/10/2008 nicfr@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
