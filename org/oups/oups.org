@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D19866-LROR
+Domain Name:OUPS.ORG
+Created On:13-Apr-1996 04:00:00 UTC
+Last Updated On:15-Jun-2007 16:21:54 UTC
+Expiration Date:14-Apr-2015 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22153973-NSI
+Registrant Name:OhioUtilitiesProtection Service
+Registrant Organization:OhioUtilitiesProtection Service
+Registrant Street1:4740 Belmont Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Youngstown
+Registrant State/Province:OH
+Registrant Postal Code:44505-1014
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:oups-tech@WORLDNET.ATT.NET
+Admin ID:17047286-NSI
+Admin Name:OhioUtilitiesProtection Service
+Admin Organization:OhioUtilitiesProtection Service
+Admin Street1:4740 Belmont Ave.
+Admin Street2:
+Admin Street3:
+Admin City:Youngstown
+Admin State/Province:OH
+Admin Postal Code:44505-1014
+Admin Country:US
+Admin Phone:+1.8003113692
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:william@ohioonecall.org
+Tech ID:5713071-NSI
+Tech Name:David ** Wilkeson
+Tech Street1:7332 SOUTHERN BLVD STE 3
+Tech Street2:
+Tech Street3:
+Tech City:BOARDMAN
+Tech State/Province:OH
+Tech Postal Code:44512-5622
+Tech Country:US
+Tech Phone:+1.3307589997
+Tech Phone Ext.:
+Tech FAX:+1.3307584326
+Tech FAX Ext.:
+Tech Email:dave@CBOSS.COM
+Name Server:NS.CBOSS.COM
+Name Server:NS2.CBOSS.COM
+Name Server:NS3.CBOSS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

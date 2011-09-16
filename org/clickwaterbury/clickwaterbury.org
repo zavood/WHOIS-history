@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D162281737-LROR
+Domain Name:CLICKWATERBURY.ORG
+Created On:16-May-2011 11:10:00 UTC
+Last Updated On:16-Jul-2011 03:49:54 UTC
+Expiration Date:16-May-2012 11:10:00 UTC
+Sponsoring Registrar:Bizcn.com, Inc. (R1248-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:orgdw05544197543
+Registrant Name:David White
+Registrant Organization:DavidWhite
+Registrant Street1:9776 Elmore st.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bethel
+Registrant State/Province:OH
+Registrant Postal Code:45107
+Registrant Country:US
+Registrant Phone:+1.5136152642
+Registrant Phone Ext.:
+Registrant FAX:+1.5136152642
+Registrant FAX Ext.:
+Registrant Email:DavidnWhite@hotmailbox.com
+Admin ID:orgdw05544198238
+Admin Name:David White
+Admin Organization:DavidWhite
+Admin Street1:9776 Elmore st.
+Admin Street2:
+Admin Street3:
+Admin City:Bethel
+Admin State/Province:OH
+Admin Postal Code:45107
+Admin Country:US
+Admin Phone:+1.5136152642
+Admin Phone Ext.:
+Admin FAX:+1.5136152642
+Admin FAX Ext.:
+Admin Email:DavidnWhite@hotmailbox.com
+Tech ID:orgdw05544198651
+Tech Name:David White
+Tech Organization:DavidWhite
+Tech Street1:9776 Elmore st.
+Tech Street2:
+Tech Street3:
+Tech City:Bethel
+Tech State/Province:OH
+Tech Postal Code:45107
+Tech Country:US
+Tech Phone:+1.5136152642
+Tech Phone Ext.:
+Tech FAX:+1.5136152642
+Tech FAX Ext.:
+Tech Email:DavidnWhite@hotmailbox.com
+Name Server:NS1.CLICKWATERBURY.ORG
+Name Server:NS2.CLICKWATERBURY.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

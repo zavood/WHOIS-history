@@ -14,11 +14,11 @@ for detailed information.
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 14-sep-2010
+   Updated Date: 14-sep-2011
    Creation Date: 15-sep-2003
-   Expiration Date: 15-sep-2011
+   Expiration Date: 15-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:45:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 18:14:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -59,9 +59,9 @@ Domain Information
 ===================
 Domain.......: ACTIVE24.COM (DOM-62780)
 Status.......: SERVER_DELETE_PROHIBITED, SERVER_TRANSFER_PROHIBITED, SERVER_UPDATE_PROHIBITED
-Amended......: 2010-09-15 01:31:47 (CET/CEST)
+Amended......: 2011-09-15 01:15:19 (CET/CEST)
 Created......: 2003-09-15 20:17:06 (CET/CEST)
-Expires......: 2011-09-15 20:17:06 (CET/CEST)
+Expires......: 2012-09-15 20:17:06 (CET/CEST)
 Registrar....: Active 24 (REG-1)
 
 Organisation Contact

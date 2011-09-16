@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 15:06:11 (BRT -03:00)
+
+domain:      argusapae.com.br
+owner:       Wendel Antonio Lopes ME
+ownerid:     009.106.833/0001-06
+responsible: Wendel Lopes
+country:     BR
+owner-c:     WAL117
+admin-c:     WAL117
+tech-c:      WAL117
+billing-c:   WAL117
+nserver:     dns1.wlsistemas.com
+nsstat:      20110909 AA
+nslastaa:    20110909
+nserver:     dns2.wlsistemas.com
+nsstat:      20110909 AA
+nslastaa:    20110909
+created:     20090920 #6020508
+expires:     20120920
+changed:     20110823
+status:      published
+
+nic-hdl-br:  WAL117
+person:      wendel antonio lopes
+e-mail:      registro.br@wlsistemas.com
+created:     20030209
+changed:     20110522
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

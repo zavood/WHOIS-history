@@ -1,0 +1,31 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'sorenanet.ir'
+
+
+domain:		sorenanet.ir
+ascii:		sorenanet.ir
+remarks:	(Domain Holder) Sorena Internet Service Provider
+remarks:	(Domain Holder Address) No. 1, 2nd floor, Shahab building, Next to Photo Hormoz photography, Delgosha Sq., Imam Khomeini Blv.Bandar Abbas, IR79139-46436, IR
+holder-c:	---
+admin-c:	an62-irnic
+tech-c:		an62-irnic
+nserver:	ns5.persiandot.com
+nserver:	ns6.persiandot.com
+last-updated:	2009-05-04
+source:		IRNIC # Filtered
+
+nic-hdl:	an62-irnic
+person:		Arash Nassaji
+e-mail:		sales@alphagroup.ir
+address:	No. 81758-57443, Rashid Aldin Alley, Khaghani St., Esfahan, Esfahan, IR
+phone:		+98(311)628 7668
+fax-no:		+98(311)628 7668
+source:		IRNIC # Filtered
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158211957-LROR
+Domain Name:MYOKENJI.ORG
+Created On:27-Jan-2010 11:28:52 UTC
+Last Updated On:29-Mar-2010 03:47:30 UTC
+Expiration Date:27-Jan-2013 11:28:52 UTC
+Sponsoring Registrar:GMO Internet, Inc. d/b/a Onamae.com (R43-LROR)
+Status:OK
+Registrant ID:1266F8A7032
+Registrant Name:emmyo watanabe
+Registrant Organization:izokushienkyoukai
+Registrant Street1:higashishinmyoutyou477-6
+Registrant Street2:
+Registrant Street3:
+Registrant City:kasugaishi
+Registrant State/Province:Aichi
+Registrant Postal Code:4870021
+Registrant Country:JP
+Registrant Phone:+81.81568511059
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kuyou@jimyouin.or.jp
+Admin ID:1266F8A7398
+Admin Name:emmyo watanabe
+Admin Organization:izokushienkyoukai
+Admin Street1:higashishinmyoutyou477-6
+Admin Street2:
+Admin Street3:
+Admin City:kasugaishi
+Admin State/Province:Aichi
+Admin Postal Code:4870021
+Admin Country:JP
+Admin Phone:+81.81568511059
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:kuyou@jimyouin.or.jp
+Tech ID:1266F8A76FE
+Tech Name:emmyo watanabe
+Tech Organization:izokushienkyoukai
+Tech Street1:higashishinmyoutyou477-6
+Tech Street2:
+Tech Street3:
+Tech City:kasugaishi
+Tech State/Province:Aichi
+Tech Postal Code:4870021
+Tech Country:JP
+Tech Phone:+81.81568511059
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:kuyou@jimyouin.or.jp
+Name Server:NS1.KABOOM7.INFO
+Name Server:NS2.KABOOM7.INFO
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

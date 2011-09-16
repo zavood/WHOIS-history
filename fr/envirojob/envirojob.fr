@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; envirojob.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      envirojob.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    VE304-FRNIC
+admin-c:     AS1233-FRNIC
+tech-c:      OS225-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6612-FRNIC
+registrar:   ORDIPAT
+anniversary: 10/05
+created:     22/05/2006
+last-update: 10/05/2007
+source:      FRNIC
+
+ns-list:     NSL6612-FRNIC
+nserver:     ns0.ordipat.fr [193.41.194.1]
+nserver:     ns2.ordipat.fr [193.41.194.2]
+nserver:     ns3.ordipat.fr [80.252.167.195]
+source:      FRNIC
+
+registrar:   ORDIPAT
+type:        Isp Option 1
+address:     3 Rue Moncey
+address:     PARIS
+country:     FR
+phone:       +33 1 72 74 00 00
+fax-no:      +33 1 53 32 80 89
+e-mail:      info@ordipat.fr
+website:     http://www.ordipat.net/
+anonymous:   NO
+registered:  01/01/1999
+source:      FRNIC
+
+nic-hdl:     VE304-FRNIC
+type:        ORGANIZATION
+contact:     Victoires Editions
+address:     38, rue Croix-des-Petits-Champs Cs30016
+address:     75038 Paris Cedex 1
+country:     FR
+phone:       +33 1 53 45 89 17
+fax-no:      +33 1 53 45 91 84
+e-mail:      a.sergent@victoires-editions.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AS1233-FRNIC
+type:        PERSON
+contact:     Aurelien Sergent
+address:     Victoires Editions
+address:     38, rue Croix-des-Petits-Champs Cs30016
+address:     75038 Paris Cedex 1
+country:     FR
+phone:       +33 1 53 45 89 17
+fax-no:      +33 1 53 45 89 17
+e-mail:      a.sergent@victoires-editions.fr
+changed:     22/05/2006 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OS225-FRNIC
+type:        ROLE
+contact:     Olivier Salmon
+address:     ORDIPAT
+address:     3, rue Moncey
+address:     75009 Paris
+country:     FR
+phone:       +33 1 72 74 00 00
+e-mail:      admins@ordipat.fr
+admin-c:     OS5930-FRNIC
+tech-c:      OS5930-FRNIC
+changed:     16/09/2005 admins@ordipat.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

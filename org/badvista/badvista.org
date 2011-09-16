@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D131071540-LROR
+Domain Name:BADVISTA.ORG
+Created On:19-Oct-2006 16:02:10 UTC
+Last Updated On:19-Aug-2011 16:23:05 UTC
+Expiration Date:19-Oct-2012 16:02:10 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-443631-Gandi
+Registrant Name:GNU/FSF Hostmaster
+Registrant Organization:Free Software Foundation
+Registrant Street1:51 Franklin Street, Fifth Floor
+Registrant Street2:
+Registrant Street3:
+Registrant City:Boston
+Registrant State/Province:MA
+Registrant Postal Code:02110-1301
+Registrant Country:US
+Registrant Phone:+1.6175425942
+Registrant Phone Ext.:
+Registrant FAX:+1.6175422652
+Registrant FAX Ext.:
+Registrant Email:hostmaster@gnu.org
+Admin ID:GH297-GANDI
+Admin Name:GNU/FSF Hostmaster
+Admin Organization:Free Software Foundation
+Admin Street1:51 Franklin Street, Fifth Floor
+Admin Street2:
+Admin Street3:
+Admin City:Boston
+Admin State/Province:MA
+Admin Postal Code:02110-1301
+Admin Country:US
+Admin Phone:+1.6175425942
+Admin Phone Ext.:
+Admin FAX:+1.6175422652
+Admin FAX Ext.:
+Admin Email:hostmaster@gnu.org
+Tech ID:AR41-GANDI
+Tech Name:CONTACT NOT AUTHORITATIVE see http://www.gandi.net/whois
+Tech Organization:GANDI SARL
+Tech Street1:15 place de la Nation
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:75011
+Tech Country:FR
+Tech Phone:+33.1
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@support.gandi.net
+Name Server:NS1.GNU.ORG
+Name Server:NS2.GNU.ORG
+Name Server:NS3.GNU.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

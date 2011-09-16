@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 02-apr-2002
    Expiration Date: 02-apr-2019
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 01:48:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 17:59:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Ottumwa Community School District
-   422 McCarroll Drive
-   Ottumwa, Iowa 52501
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: OTTUMWASCHOOLS.COM
-      Created on: 02-Apr-02
-      Expires on: 02-Apr-19
-      Last Updated on: 11-Nov-10
-
-   Administrative Contact:
-      Meredith, Jesse  jesse.meredith@gpaea.k12.ia.us
-      Ottumwa Community School District
-      422 McCarroll Drive
-      Ottumwa, Iowa 52501
-      United States
-      +1.6416846521      Fax -- +1.6416846522
-
-   Technical Contact:
-      Meredith, Jesse  jesse.meredith@gpaea.k12.ia.us
-      Ottumwa Community School District
-      422 McCarroll Drive
-      Ottumwa, Iowa 52501
-      United States
-      +1.6416846521      Fax -- +1.6416846522
 
    Domain servers in listed order:
       NS29.DOMAINCONTROL.COM
       NS30.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=OTTUMWASCHOOLS.COM

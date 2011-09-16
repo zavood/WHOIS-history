@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D10906601-LROR
+Domain Name:SPAMHAUS.ORG
+Created On:01-Oct-1999 11:03:57 UTC
+Last Updated On:21-Mar-2011 22:22:13 UTC
+Expiration Date:01-Oct-2020 11:03:57 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-1058340-GANDI
+Registrant Name:Spamhaus Hostmaster
+Registrant Organization:The Spamhaus Project
+Registrant Street1:Avenue Louis-Casai 18
+Registrant Street2:
+Registrant Street3:
+Registrant City:Geneva
+Registrant State/Province:
+Registrant Postal Code:CH-1209
+Registrant Country:CH
+Registrant Phone:+41.225330399
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:SH1313-2010@spamhaus.org
+Admin ID:LH721-GANDI
+Admin Name:Logistics Hostmaster
+Admin Organization:Spamhaus Logistics Corp.
+Admin Street1:103 Sham Peng Tong Plaza
+Admin Street2:
+Admin Street3:
+Admin City:Victoria
+Admin State/Province:
+Admin Postal Code:Mahe
+Admin Country:SC
+Admin Phone:+41.225330399
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:LH721-2010@spamhaus.net
+Tech ID:LH721-GANDI
+Tech Name:Logistics Hostmaster
+Tech Organization:Spamhaus Logistics Corp.
+Tech Street1:103 Sham Peng Tong Plaza
+Tech Street2:
+Tech Street3:
+Tech City:Victoria
+Tech State/Province:
+Tech Postal Code:Mahe
+Tech Country:SC
+Tech Phone:+41.225330399
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:LH721-2010@spamhaus.net
+Name Server:NS3.SURFNET.NL
+Name Server:NS8.SPAMHAUS.ORG
+Name Server:NS3.XS4ALL.NL
+Name Server:NS20.JA.NET
+Name Server:NS3.SPAMHAUS.ORG
+Name Server:NS.DNS-OARC.NET
+Name Server:NS1.ZURICH.SURF.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
