@@ -1,0 +1,17 @@
+
+domain:   bofhnetworks.fi
+descr:    BOFH Networks Oy
+descr:    15963045
+address:  Kimmo Jukarainen
+address:  Katinkuja 15
+address:  15300
+address:  LAHTI
+phone:    +358-50-527 3527
+status:   Granted
+created:  6.4.2001
+expires:  31.8.2012
+nserver: ns1.bofhnetworks.net [OK]
+nserver: ns2.bofhnetworks.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

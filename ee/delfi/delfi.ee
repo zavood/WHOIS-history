@@ -1,0 +1,39 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       delfi.ee
+registrant:   CID:ELION:128991696153
+admin-c:      CID:ELION:128991696028
+nsset:        NSSID:ELION:1289916958
+registrar:    elion
+status:       paid and in zone
+registered:   04.07.2010 03:59:01
+changed:      16.11.2010 16:16:04
+expire:       16.11.2011
+
+contact:      CID:ELION:128991696153
+name:         AS DELFI
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elion
+created:      16.11.2010 16:16:02
+
+contact:      CID:ELION:128991696028
+name:         Allan Sombri
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elion
+created:      16.11.2010 16:16:00
+
+nsset:        NSSID:ELION:1289916958
+nserver:      ns.delfi.ee (212.47.223.60)
+nserver:      ns2.delfi.ee (84.50.110.50)
+tech-c:       CID:ELION:128991695898
+registrar:    elion
+created:      16.11.2010 16:15:59
+
+contact:      CID:ELION:128991695898
+name:         Delfi AS
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elion
+created:      16.11.2010 16:15:58
+
+

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157792898-LROR
+Domain Name:CHURCHATMTCOMFORT.ORG
+Created On:11-Dec-2009 16:01:52 UTC
+Last Updated On:19-Nov-2010 15:50:46 UTC
+Expiration Date:11-Dec-2011 16:01:52 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34805789
+Registrant Name:Mary Springer
+Registrant Organization:Mt. Comfort United Methodist Church
+Registrant Street1:3179 N. 600 W.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Greenfield
+Registrant State/Province:Indiana
+Registrant Postal Code:46140
+Registrant Country:US
+Registrant Phone:+1.3178948965
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:gpspring@verizon.net
+Admin ID:CR34805791
+Admin Name:Mary Springer
+Admin Organization:Mt. Comfort United Methodist Church
+Admin Street1:3179 N. 600 W.
+Admin Street2:
+Admin Street3:
+Admin City:Greenfield
+Admin State/Province:Indiana
+Admin Postal Code:46140
+Admin Country:US
+Admin Phone:+1.3178948965
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gpspring@verizon.net
+Tech ID:CR34805790
+Tech Name:Mary Springer
+Tech Organization:Mt. Comfort United Methodist Church
+Tech Street1:3179 N. 600 W.
+Tech Street2:
+Tech Street3:
+Tech City:Greenfield
+Tech State/Province:Indiana
+Tech Postal Code:46140
+Tech Country:US
+Tech Phone:+1.3178948965
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:gpspring@verizon.net
+Name Server:NS61.DOMAINCONTROL.COM
+Name Server:NS62.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

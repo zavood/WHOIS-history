@@ -1,0 +1,23 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       42.in-addr.arpa
+
+organisation: APNIC
+
+nserver:      NS1.APNIC.NET.
+nserver:      NS2.LACNIC.NET.
+nserver:      NS3.APNIC.NET.
+nserver:      NS4.APNIC.NET.
+nserver:      SEC1.AUTHDNS.RIPE.NET.
+nserver:      TINNIE.ARIN.NET.
+ds-rdata:     14866 5 1 46d9ae08fcfd340c8aaa27b5d84fb51a025c100e
+ds-rdata:     14866 5 2 05882a61795c3a31768819bd90880f9589891351010d8bbff0d69548136a6e0f
+
+whois:        whois.apnic.net
+
+changed:      2010-10
+changed:      2011-05-03
+source:       IANA
+

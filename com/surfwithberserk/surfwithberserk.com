@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 28-apr-2010
    Expiration Date: 28-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:54:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 09:41:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,14 +77,31 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    patrick schroeder
+   20732 seine ave apt c
+   lakewood, California 90710
+   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: SURFWITHBERSERK.COM
+      Created on: 28-Apr-10
+      Expires on: 28-Apr-13
+      Last Updated on: 12-May-11
+
+   Administrative Contact:
+      schroeder, patrick  v.enturz@yahoo.com
+      20732 seine ave apt c
+      lakewood, California 90710
+      United States
+      +1.3107295606      Fax --
+
+   Technical Contact:
+      schroeder, patrick  v.enturz@yahoo.com
+      20732 seine ave apt c
+      lakewood, California 90710
+      United States
+      +1.3107295606      Fax --
 
    Domain servers in listed order:
       NS1.TF2WIKI.NET
       NS2.TF2WIKI.NET
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SURFWITHBERSERK.COM

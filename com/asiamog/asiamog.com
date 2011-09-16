@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 12-may-2010
    Expiration Date: 12-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 15:10:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 09:39:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,14 +77,31 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Paha Schulz
+   Am Krebsbach 14
+   Bruchkoebel, Hessen 63486
+   Germany
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: ASIAMOG.COM
+      Created on: 12-May-10
+      Expires on: 12-May-13
+      Last Updated on: 02-Mar-11
+
+   Administrative Contact:
+      Schulz, Paha  pahayah@hotmail.com
+      Am Krebsbach 14
+      Bruchkoebel, Hessen 63486
+      Germany
+      07795498203      Fax --
+
+   Technical Contact:
+      Schulz, Paha  pahayah@hotmail.com
+      Am Krebsbach 14
+      Bruchkoebel, Hessen 63486
+      Germany
+      07795498203      Fax --
 
    Domain servers in listed order:
       NS21.DOMAINCONTROL.COM
       NS22.DOMAINCONTROL.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=ASIAMOG.COM

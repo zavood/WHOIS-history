@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 22-jul-1998
    Expiration Date: 21-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:30:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 09:32:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 174.142.225.246
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain steinbacher-consult.com
-% Timestamp: 2011-09-15 11:30:42
+% Timestamp: 2011-09-16 11:33:26
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

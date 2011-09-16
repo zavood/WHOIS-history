@@ -1,0 +1,98 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; bbcfrance.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      bbcfrance.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    TBBC5-FRNIC
+admin-c:     DM1483-FRNIC
+tech-c:      DT2127-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6253-FRNIC
+registrar:   CSC CORPORATE DOMAINS INC.
+anniversary: 01/07
+created:     28/09/2007
+last-update: 01/07/2011
+source:      FRNIC
+
+ns-list:     NSL6253-FRNIC
+nserver:     ns.bbc.co.uk
+nserver:     ns1.thdo.bbc.co.uk
+nserver:     ns1.thls.bbc.co.uk
+nserver:     ns1.thny.bbc.co.uk
+source:      FRNIC
+
+registrar:   CSC CORPORATE DOMAINS INC.
+type:        Isp Option 1
+address:     2711 Centerville Road, Suite 400
+address:     DE 19808 WILMINGTON
+country:     US
+phone:       +1 302 636 5400
+fax-no:      +1 302 636 5454
+e-mail:      corporatedomains@cscinfo.com
+website:     http://www.csccorporatedomains.com
+anonymous:   NO
+registered:  17/10/2006
+source:      FRNIC
+
+nic-hdl:     TBBC5-FRNIC
+type:        ORGANIZATION
+contact:     The British Broadcasting Corporation
+address:     The British Broadcasting Corporation
+address:     Broadcasting House
+address:     Portland Place
+address:     W1A 1AA London EN
+country:     GB
+phone:       +44 02080083595
+fax-no:      +44 02080082199
+e-mail:      domain.manager@bbc.co.uk
+changed:     01/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     DM1483-FRNIC
+type:        PERSON
+contact:     Domain Manager
+address:     BBC Worldwide France Sarl
+address:     58, rue de Ponthieu
+address:     75008 Paris
+country:     FR
+phone:       +33 14495840
+fax-no:      +33 14495840
+e-mail:      domain.manager@bbc.co.uk
+changed:     04/03/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DT2127-FRNIC
+type:        PERSON
+contact:     Domain Technician
+address:     British Broadcasting Corporation
+address:     Broadcasting House
+address:     W1A 1AA Portland Place
+country:     GB
+phone:       +44 02080083596
+fax-no:      +44 02080082199
+e-mail:      domain.technician@bbc.co.uk
+changed:     16/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

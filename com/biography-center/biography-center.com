@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 11-jan-2000
    Expiration Date: 11-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:53:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 09:41:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,14 +77,33 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Search Results LLC
+   264 Hunters Cove Dr.
+   Mead, Colorado 80542
+   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: BIOGRAPHY-CENTER.COM
+      Created on: 11-Jan-00
+      Expires on: 11-Jan-12
+      Last Updated on: 12-Jan-11
+
+   Administrative Contact:
+      Results, Search  searchresultsllc@gmail.com
+      Search Results LLC
+      264 Hunters Cove Dr.
+      Mead, Colorado 80542
+      United States
+      +1.3034786510      Fax --
+
+   Technical Contact:
+      Results, Search  searchresultsllc@gmail.com
+      Search Results LLC
+      264 Hunters Cove Dr.
+      Mead, Colorado 80542
+      United States
+      +1.3034786510      Fax --
 
    Domain servers in listed order:
       NS21.DOMAINCONTROL.COM
       NS22.DOMAINCONTROL.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BIOGRAPHY-CENTER.COM

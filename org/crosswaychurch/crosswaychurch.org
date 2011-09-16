@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D982071-LROR
+Domain Name:CROSSWAYCHURCH.ORG
+Created On:15-Mar-1998 05:00:00 UTC
+Last Updated On:08-Mar-2007 12:46:18 UTC
+Expiration Date:14-Mar-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31471649-NSI
+Registrant Name:CrossWay Church
+Registrant Organization:CrossWay Church
+Registrant Street1:109 Davis Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Valencia
+Registrant State/Province:PA
+Registrant Postal Code:16059
+Registrant Country:US
+Registrant Phone:+1.7248984600
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:pats@CROSSWAYCHURCH.ORG
+Admin ID:31471649-NSI
+Admin Name:CrossWay Church
+Admin Organization:CrossWay Church
+Admin Street1:109 Davis Road
+Admin Street2:
+Admin Street3:
+Admin City:Valencia
+Admin State/Province:PA
+Admin Postal Code:16059
+Admin Country:US
+Admin Phone:+1.7248984600
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:pats@CROSSWAYCHURCH.ORG
+Tech ID:31471649-NSI
+Tech Name:CrossWay Church
+Tech Organization:CrossWay Church
+Tech Street1:109 Davis Road
+Tech Street2:
+Tech Street3:
+Tech City:Valencia
+Tech State/Province:PA
+Tech Postal Code:16059
+Tech Country:US
+Tech Phone:+1.7248984600
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:pats@CROSSWAYCHURCH.ORG
+Name Server:PGH1.NAUTICOM.NET
+Name Server:PGH.NAUTICOM.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

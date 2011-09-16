@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      acadamh.ie
+descr:       National University of Ireland, Galway
+descr:       School/Educational Institution
+descr:       School/Educational Institution Name
+admin-c:     ABG738-IEDR
+tech-c:      AAQ699-IEDR
+renewal:     06-April-2012
+status:      Active
+nserver:     exdns0.nuigalway.ie
+nserver:     exdns1.nuigalway.ie
+source:      IEDR
+
+person:      Veronica Ni Ghriofa
+nic-hdl:     ABG738-IEDR
+source:      IEDR
+
+person:      Evan Ryder
+nic-hdl:     AAQ699-IEDR
+source:      IEDR
+

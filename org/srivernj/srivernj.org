@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1880404-LROR
+Domain Name:SRIVERNJ.ORG
+Created On:31-Aug-1998 04:00:00 UTC
+Last Updated On:10-Sep-2011 17:12:26 UTC
+Expiration Date:30-Aug-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31441838-NSI
+Registrant Name:South River Board of Education
+Registrant Organization:South River Board of Education
+Registrant Street1:Montgomery Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:South River
+Registrant State/Province:NJ
+Registrant Postal Code:08882
+Registrant Country:US
+Registrant Phone:+1.73261340
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rgrygo@SRIVERNJ.ORG
+Admin ID:31441839-NSI
+Admin Name:Brian Dougherty
+Admin Organization:South River Board of Education
+Admin Street1:15 Montgomery Street
+Admin Street2:
+Admin Street3:
+Admin City:South River
+Admin State/Province:NJ
+Admin Postal Code:08882
+Admin Country:US
+Admin Phone:+1.7326134000
+Admin Phone Ext.:
+Admin FAX:+1.7326134756
+Admin FAX Ext.:
+Admin Email:bdougherty@srivernj.org
+Tech ID:31441839-NSI
+Tech Name:Brian Dougherty
+Tech Organization:South River Board of Education
+Tech Street1:15 Montgomery Street
+Tech Street2:
+Tech Street3:
+Tech City:South River
+Tech State/Province:NJ
+Tech Postal Code:08882
+Tech Country:US
+Tech Phone:+1.7326134000
+Tech Phone Ext.:
+Tech FAX:+1.7326134756
+Tech FAX Ext.:
+Tech Email:bdougherty@srivernj.org
+Name Server:AUTH00.NS.UU.NET
+Name Server:AUTH100.NS.UU.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,23 @@
+
+domain:   ns-sec.fi
+descr:    Cybercom Plenware Oy
+descr:    15166513
+address:  Palvelinkeskus/Sami J. M&auml;kinen
+address:  PL 13
+address:  33201
+address:  Tampere
+phone:    +358 50 5123 880
+status:   Granted
+created:  4.12.2006
+expires:  4.12.2014
+nserver: a.ns-sec.com [OK]
+nserver: b.ns-sec.net [OK]
+nserver: c.ns-sec.fi [OK] 178.217.128.53 2001:67c:224:53::53:1
+nserver: d.ns-sec.org [OK]
+nserver: ns1-fin.global.sonera.fi [OK]
+nserver: ns1-swe.global.sonera.se [OK]
+nserver: ns2-fin.global.sonera.fi [OK]
+nserver: ns2-usa.global.sonera.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

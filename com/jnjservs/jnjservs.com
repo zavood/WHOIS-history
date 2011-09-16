@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 20-jan-2003
    Expiration Date: 20-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:25:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 09:37:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,14 +77,33 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    J &amp; J Services
+   7201 E. 32nd St #743
+   Yuma, Arizona 85365
+   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: JNJSERVS.COM
+      Created on: 20-Jan-03
+      Expires on: 20-Jan-12
+      Last Updated on: 08-Jan-11
+
+   Administrative Contact:
+      Turner, Jean  jmneill35@gmail.com
+      J &amp; J Services
+      7201 E. 32nd St #743
+      Yuma, Arizona 85365
+      United States
+      9167080871      Fax -- 9167080871
+
+   Technical Contact:
+      Turner, Jean  jmneill35@gmail.com
+      J &amp; J Services
+      7201 E. 32nd St #743
+      Yuma, Arizona 85365
+      United States
+      9167080871      Fax -- 9167080871
 
    Domain servers in listed order:
       NS1465.HOSTGATOR.COM
       NS1466.HOSTGATOR.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=JNJSERVS.COM
