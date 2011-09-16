@@ -1,0 +1,90 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ursa.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ursa.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    DHGC1-FRNIC
+admin-c:     FB563-FRNIC
+tech-c:      PD2025-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL288-FRNIC
+registrar:   PERCEVAL TECHNOLOGIES SA
+anniversary: 18/07
+created:     18/07/2002
+last-update: 24/02/2005
+source:      FRNIC
+
+ns-list:     NSL288-FRNIC
+nserver:     ns.perceval.net
+nserver:     ns.perceval.be
+source:      FRNIC
+
+registrar:   PERCEVAL TECHNOLOGIES SA
+type:        Isp Option 2
+address:     Rue Tenbosch 9
+address:     B-1000 BRUXELLES
+country:     BE
+phone:       +32 2 640 91 94
+fax-no:      +32 2 640 31 54
+e-mail:      dnsmaster@perceval.net
+website:     http://www.perceval.net
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     DHGC1-FRNIC
+type:        ORGANIZATION
+contact:     DAeMMSTOFFE HELD GMBH &amp; Co
+address:     100, Rudolf-Diesel-Strasse
+address:     4230 Wesel 13
+country:     DE
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     FB563-FRNIC
+type:        PERSON
+contact:     Frederic Bussemey
+address:     DAeMMSTOFFE HELD GMBH &amp; Co
+address:     4, rue Henri Sainte Claire Deville
+address:     92500 Rueil-Malmaison
+country:     FR
+phone:       +33 1 55 47 59 06
+changed:     18/07/2002 frnic-dbm-updates@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PD2025-FRNIC
+type:        ROLE
+contact:     Perceval DNSmaster
+address:     Rue Tenbosch, 9
+address:     1000 Brussels
+country:     BE
+e-mail:      dnsmaster@perceval.net
+admin-c:     HJP1-FRNIC
+tech-c:      FP4-FRNIC
+tech-c:      EB31-FRNIC
+notify:      registry@perceval.net
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

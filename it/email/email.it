@@ -1,0 +1,37 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://www.nic.it/cgi-bin/Whois/whois.cgi                         *
+*********************************************************************
+
+Domain:             email.it
+Status:             clientDeleteProhibited / clientUpdateProhibited
+Created:            1997-08-07 00:00:00
+Last Update:        2011-08-14 19:58:32
+Expire Date:        2012-07-23
+
+Registrant
+  Name:             Email.it srl
+  Organization:     Email.it srl
+  ContactID:        EMAI16
+
+Admin Contact
+  Name:             Flavio Marchi
+  Organization:     Email.it srl
+  ContactID:        FM14126
+
+Technical Contacts
+  Name:             Gestione Domini Email_it
+  ContactID:        GDE216
+
+Registrar
+  Organization:     Vipnet.it s.r.l.
+  Name:             VIPNET-REG
+
+Nameservers
+  ns1.email.it
+  ns2.email.it
+

@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1131937-LROR
+Domain Name:COBO.ORG
+Created On:20-Apr-1998 04:00:00 UTC
+Last Updated On:20-Apr-2010 00:45:25 UTC
+Expiration Date:19-Apr-2015 04:00:00 UTC
+Sponsoring Registrar:pair Networks, Inc.d/b/a pairNIC (R103-LROR)
+Status:OK
+Registrant ID:CW8034
+Registrant Name:Christopher Wilson
+Registrant Street1:7832 Fawnwood Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Indianapolis
+Registrant State/Province:IN
+Registrant Postal Code:46278
+Registrant Country:US
+Registrant Phone:+1.3173479418
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:chris@alumni.indiana.edu
+Admin ID:PNA110626
+Admin Name:Christopher Wilson
+Admin Street1:4217 Melbourne Road
+Admin Street2:
+Admin Street3:
+Admin City:Indianapolis
+Admin State/Province:IN
+Admin Postal Code:46228
+Admin Country:US
+Admin Phone:+1.3173479418
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:chris@alumni.indiana.edu
+Tech ID:PNA110626
+Tech Name:Christopher Wilson
+Tech Street1:4217 Melbourne Road
+Tech Street2:
+Tech Street3:
+Tech City:Indianapolis
+Tech State/Province:IN
+Tech Postal Code:46228
+Tech Country:US
+Tech Phone:+1.3173479418
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:chris@alumni.indiana.edu
+Name Server:NS000.NS0.COM
+Name Server:NS246.PAIR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

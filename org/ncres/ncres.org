@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98203521-LROR
+Domain Name:NCRES.ORG
+Created On:27-May-2003 21:20:20 UTC
+Last Updated On:21-May-2011 21:56:10 UTC
+Expiration Date:27-May-2012 21:20:20 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR35564893
+Registrant Name:Nathan Howard
+Registrant Organization:NCRES
+Registrant Street1:1019 Remington St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fort Collins
+Registrant State/Province:Colorado
+Registrant Postal Code:80524
+Registrant Country:US
+Registrant Phone:+1.9704201752
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nathan.howard@ncres.org
+Admin ID:CR35564895
+Admin Name:Nathan Howard
+Admin Organization:NCRES
+Admin Street1:1019 Remington St.
+Admin Street2:
+Admin Street3:
+Admin City:Fort Collins
+Admin State/Province:Colorado
+Admin Postal Code:80524
+Admin Country:US
+Admin Phone:+1.9704201752
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nathan.howard@ncres.org
+Tech ID:CR35564894
+Tech Name:Nathan Howard
+Tech Organization:NCRES
+Tech Street1:1019 Remington St.
+Tech Street2:
+Tech Street3:
+Tech City:Fort Collins
+Tech State/Province:Colorado
+Tech Postal Code:80524
+Tech Country:US
+Tech Phone:+1.9704201752
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:nathan.howard@ncres.org
+Name Server:NS41.DOMAINCONTROL.COM
+Name Server:NS42.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 13:49:22 (BRT -03:00)
+
+domain:      bbsc.com.br
+owner:       BBSC DO BRASIL IMPORTA&Ccedil;&Atilde;O E EXPORTA&Ccedil;&Atilde;O LTDA
+ownerid:     085.287.480/0001-76
+responsible: MARCOS PORFIRIO DE SOUZA
+country:     BR
+owner-c:     MAP657
+admin-c:     MPS450
+tech-c:      MPS450
+billing-c:   MPS450
+nserver:     a.ns.viamidia.net
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     b.ns.viamidia.net
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20050816 #2300969
+expires:     20120816
+changed:     20100824
+status:      published
+
+nic-hdl-br:  MAP657
+person:      Manuel Pardo
+e-mail:      fapesp@viamidia.net
+created:     20010212
+changed:     20110815
+
+nic-hdl-br:  MPS450
+person:      Marcos Porfirio de Souza
+e-mail:      marcos@aquecedorsakura.com.br
+created:     20050429
+changed:     20080114
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

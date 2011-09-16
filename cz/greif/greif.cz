@@ -1,0 +1,87 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 18:43:09 2011
+
+domain:       greif.cz
+registrant:   SB:LN314-RIPE_XX
+admin-c:      LN314-RIPE
+nsset:        NSS:ARAKIS-BELLEVILLE:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   31.03.1998 02:00:00
+changed:      08.10.2007 13:41:23
+expire:       10.10.2011
+
+contact:      SB:LN314-RIPE_XX
+org:          Greif-akustika spol. s r.o.
+name:         Libor V&Atilde;&iexcl;gner
+address:      Kubikova 12
+address:      Praha 8
+address:      18200
+address:      CZ
+e-mail:       vagner@greif.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      17.08.2007 10:55:00
+
+contact:      LN314-RIPE
+name:         Libor Novak
+address:      CZ
+phone:        +420 28587763
+fax-no:       +420 28587763
+e-mail:       greif@mbox.vol.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:ARAKIS-BELLEVILLE:1
+nserver:      sns.vol.cz
+nserver:      ns.belleville.cz (195.122.208.13)
+tech-c:       SB:ARAKIS-BELLEVILLE
+tech-c:       LUDEKJIRMAN
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+changed:      16.04.2010 14:33:31
+
+contact:      SB:ARAKIS-BELLEVILLE
+org:          Arakis &amp; Belleville s.r.o.
+name:         Arakis &amp; Belleville s.r.o.
+address:      Brani&Aring;&iexcl;ovsk&Atilde;&iexcl; 16
+address:      &Auml;Œesk&Atilde;&copy; Bud&Auml;›jovice
+address:      370 05
+address:      CZ
+e-mail:       info@arakis.cz
+registrar:    REG-ACTIVE24
+created:      06.10.2002 20:26:00
+changed:      20.02.2007 09:25:00
+
+contact:      LUDEKJIRMAN
+name:         Lud&Auml;›k Jirman
+address:      P&Aring;™emyslova 842
+address:      Roudnice nad Labem
+address:      413 01
+address:      cz
+address:      CZ
+phone:        +420.283883398
+fax-no:       +420.283883398
+e-mail:       ludek@jirman.cz
+registrar:    REG-ACTIVE24
+created:      03.10.2002 13:01:00
+changed:      13.02.2009 16:55:12
+
+

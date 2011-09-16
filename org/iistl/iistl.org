@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104062583-LROR
+Domain Name:IISTL.ORG
+Created On:05-Mar-2004 22:51:04 UTC
+Last Updated On:07-Oct-2009 02:00:43 UTC
+Expiration Date:05-Mar-2012 22:51:04 UTC
+Sponsoring Registrar:Dotregistrar, LLC (R114-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:1612705-R
+Registrant Name:Cesar Figari
+Registrant Street1:3654 South Grand Blvd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:St. louis
+Registrant State/Province:MO
+Registrant Postal Code:63118
+Registrant Country:US
+Registrant Phone:+1.16187739090
+Registrant Phone Ext.:
+Registrant FAX:+1.16187739090
+Registrant FAX Ext.:
+Registrant Email:figaric@iistl.org
+Admin ID:1612705-A
+Admin Name:Cesar Figari
+Admin Street1:3654 South Grand Blvd.
+Admin Street2:
+Admin Street3:
+Admin City:St. louis
+Admin State/Province:MO
+Admin Postal Code:63118
+Admin Country:US
+Admin Phone:+1.16187739090
+Admin Phone Ext.:
+Admin FAX:+1.16187739090
+Admin FAX Ext.:
+Admin Email:figaric@iistl.org
+Tech ID:1612705-T
+Tech Name:Jose Coral / SIMCOR
+Tech Street1:P.O. Box 10
+Tech Street2:
+Tech Street3:
+Tech City:Collinsville
+Tech State/Province:IL
+Tech Postal Code:62234
+Tech Country:US
+Tech Phone:+1.16183443017
+Tech Phone Ext.:
+Tech FAX:+1.16183443517
+Tech FAX Ext.:
+Tech Email:jose@simcorpro.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

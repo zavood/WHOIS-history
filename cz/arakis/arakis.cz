@@ -1,0 +1,70 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 18:48:20 2011
+
+domain:       arakis.cz
+registrant:   SB:VP395-RIPE_XX
+admin-c:      VP395-RIPE
+nsset:        NSS:ARAKIS-BELLEVILLE:2
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   20.07.1998 02:00:00
+changed:      14.06.2011 00:17:46
+expire:       24.10.2011
+
+contact:      SB:VP395-RIPE_XX
+org:          Arakis s r.o.
+name:         Arakis s r.o.
+address:      Klostermannova 535
+address:      Zliv
+address:      37344
+address:      CZ
+e-mail:       panuska@kostax.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+
+contact:      VP395-RIPE
+name:         Vaclav Panuska
+address:      CZ
+phone:        +420 387993030
+fax-no:       +420 387993030
+e-mail:       panuska@kostax.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:ARAKIS-BELLEVILLE:2
+nserver:      ns.belleville.cz (195.122.208.13)
+nserver:      ns.arakis.cz (77.93.217.102)
+tech-c:       SB:ARAKIS-BELLEVILLE
+registrar:    REG-ACTIVE24
+created:      12.08.2010 14:22:54
+
+contact:      SB:ARAKIS-BELLEVILLE
+org:          Arakis &amp; Belleville s.r.o.
+name:         Arakis &amp; Belleville s.r.o.
+address:      Brani&Aring;&iexcl;ovsk&Atilde;&iexcl; 16
+address:      &Auml;Œesk&Atilde;&copy; Bud&Auml;›jovice
+address:      370 05
+address:      CZ
+e-mail:       info@arakis.cz
+registrar:    REG-ACTIVE24
+created:      06.10.2002 20:26:00
+changed:      20.02.2007 09:25:00
+
+

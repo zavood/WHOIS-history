@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; iep.fr
+%%
+%% RL Net [##########] - RL IP [########..]
+%%
+
+domain:      iep.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    IDEP1-FRNIC
+admin-c:     JG1777-FRNIC
+tech-c:      RN252-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL93-FRNIC
+registrar:   RENATER
+anniversary: 18/10
+created:     18/10/1995
+last-update: 01/05/2004
+source:      FRNIC
+
+ns-list:     NSL93-FRNIC
+nserver:     resone.univ-rennes1.fr [129.20.254.1]
+nserver:     servix.univ-rennes1.fr
+nserver:     soleil.uvsq.fr [193.51.24.1]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     IDEP1-FRNIC
+type:        ORGANIZATION
+contact:     Institut d'Etudes Politiques
+address:     104, boulevard la Duchesse Anne
+address:     35700 Rennes
+country:     FR
+phone:       +33 2 23 20 48 13
+changed:     13/01/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JG1777-FRNIC
+type:        PERSON
+contact:     Jean-Francois Guezou
+address:     Institut d'Etudes Politiques
+address:     104, boulevard la Duchesse Anne
+address:     35700 Rennes
+country:     FR
+phone:       +33 2 99 84 39 15
+fax-no:      +33 2 99 84 39 16
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     RN252-FRNIC
+type:        PERSON
+contact:     Roger Negaret
+address:     CRI Universite de Rennes1
+address:     Campus de Beaulieu
+address:     avenue du General Leclerc
+address:     35042 Rennes Cedex
+country:     FR
+phone:       +33 2 99 84 71 49
+fax-no:      +33 2 99 84 71 67
+e-mail:      roger.negaret@univ-rennes1.fr
+notify:      roger.negaret@univ-rennes1.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

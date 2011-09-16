@@ -10,7 +10,7 @@
 %%
 %% Use '-h' option to obtain more information about this service.
 %%
-%% [188.72.227.95 REQUEST] &gt;&gt; pro-forum.fr
+%% [67.231.254.15 REQUEST] &gt;&gt; pro-forum.fr
 %%
 %% RL Net [##########] - RL IP [#########.]
 %%
@@ -47,6 +47,21 @@ anonymous:   NO
 registered:  09/03/2004
 source:      FRNIC
 
+nic-hdl:     E667-FRNIC
+type:        ORGANIZATION
+contact:     SARL ETOXIC
+address:     eToxic
+address:     885, avenue Docteur J. Lefebvre
+address:     06270 Villeneuve
+country:     FR
+phone:       +33 9 25 65 05 60
+e-mail:      e2e411c31df32d2bf6fa03455121a6d1-e1294@contact.gandi.net
+changed:     26/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
 nic-hdl:     GR283-FRNIC
 type:        ROLE
 contact:     GANDI ROLE
@@ -70,20 +85,5 @@ notify:      noc@gandi.net
 changed:     03/03/2006 noc@gandi.net
 anonymous:   NO
 obsoleted:   NO
-source:      FRNIC
-
-nic-hdl:     E667-FRNIC
-type:        ORGANIZATION
-contact:     SARL ETOXIC
-address:     eToxic
-address:     885, avenue Docteur J. Lefebvre
-address:     06270 Villeneuve
-country:     FR
-phone:       +33 9 25 65 05 60
-e-mail:      e2e411c31df32d2bf6fa03455121a6d1-e1294@contact.gandi.net
-changed:     26/08/2010 nic@nic.fr
-anonymous:   NO
-obsoleted:   NO
-idstatus:    ok
 source:      FRNIC
 

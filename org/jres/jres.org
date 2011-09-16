@@ -1,0 +1,99 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D38254357-LROR
+Domain Name:JRES.ORG
+Created On:23-Oct-2000 13:27:16 UTC
+Last Updated On:19-Oct-2008 14:21:20 UTC
+Expiration Date:23-Oct-2013 13:27:16 UTC
+Sponsoring Registrar:Nordnet (R62-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:NNR-comite12
+Registrant Name:COMITE RESEAUX DES UNIVERSITES
+Registrant Organization:COMITE RESEAUX DES UNIVERSITES
+Registrant Street1:CRU Campus Beaulieu
+Registrant Street2:
+Registrant Street3:
+Registrant City:RENNES CEDEX
+Registrant State/Province:
+Registrant Postal Code:35042
+Registrant Country:FR
+Registrant Phone:+33.100
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nonapplicable@pir.nordnet.net
+Admin ID:NNR-comite51
+Admin Name:Serge AUMONT
+Admin Organization:COMITE RESEAUX DES UNIVERSITES
+Admin Street1:CRU Campus Beaulieu
+Admin Street2:
+Admin Street3:
+Admin City:RENNES CEDEX
+Admin State/Province:
+Admin Postal Code:35042
+Admin Country:FR
+Admin Phone:+33.299847147
+Admin Phone Ext.:
+Admin FAX:+33.299847111
+Admin FAX Ext.:
+Admin Email:serge.aumont@cru.fr
+Tech ID:NNR-comite71
+Tech Name:Serge AUMONT
+Tech Organization:COMITE RESEAUX DES UNIVERSITES
+Tech Street1:Campus Beaulieu
+Tech Street2:
+Tech Street3:
+Tech City:RENNES CEDEX
+Tech State/Province:
+Tech Postal Code:35042
+Tech Country:FR
+Tech Phone:+33.299847147
+Tech Phone Ext.:
+Tech FAX:+33.299847111
+Tech FAX Ext.:
+Tech Email:serge.aumont@cru.fr
+Tech ID:NNR-france243
+Tech Name:France Telecom Transpac
+Tech Organization:France Telecom Transpac
+Tech Street1:13 rue de Javel
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:75015
+Tech Country:FR
+Tech Phone:+33.153951400
+Tech Phone Ext.:
+Tech FAX:+33.153951401
+Tech FAX Ext.:
+Tech Email:nordnet-tpc-ac@oleane.net
+Name Server:NS1.U-STRASBG.FR
+Name Server:DNS.CRU.FR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
