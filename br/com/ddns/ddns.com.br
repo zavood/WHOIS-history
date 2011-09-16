@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 12:36:43 (BRT -03:00)
+
+domain:      ddns.com.br
+owner:       Winco Tecnologia e Sistemas Ltda.
+ownerid:     001.662.700/0001-04
+responsible: Ariel Marcelo Nigri
+country:     BR
+owner-c:     WTL3
+admin-c:     WTL3
+tech-c:      WTL3
+billing-c:   WTL3
+nserver:     ddns-ns2.winco.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     https.winco.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20030908 #1351333
+expires:     20120908
+changed:     20110816
+status:      published
+
+nic-hdl-br:  WTL3
+person:      Winco Tecnologia e Sistemas Ltda.
+e-mail:      dominio@winco.com.br
+created:     19980721
+changed:     20090602
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

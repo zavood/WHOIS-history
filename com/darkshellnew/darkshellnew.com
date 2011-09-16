@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 23-aug-2010
    Expiration Date: 23-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 03:37:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 15:35:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    DarkShellNew
-   beijingshi
-   shixiaqu,  100000
-   China
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: DARKSHELLNEW.COM
-      Created on: 23-Aug-10
-      Expires on: 23-Aug-12
-      Last Updated on: 13-Aug-11
-
-   Administrative Contact:
-      New, darkshell  admin@darkshellnew.com
-      DarkShellNew
-      beijingshi
-      shixiaqu,  100000
-      China
-      +86.8600000000000      Fax --
-
-   Technical Contact:
-      New, darkshell  admin@darkshellnew.com
-      DarkShellNew
-      beijingshi
-      shixiaqu,  100000
-      China
-      +86.8600000000000      Fax --
 
    Domain servers in listed order:
       F1G1NS1.DNSPOD.NET
       F1G1NS2.DNSPOD.NET
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=DARKSHELLNEW.COM

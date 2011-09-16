@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 03-oct-2002
    Expiration Date: 03-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 15:39:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 15:44:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,5 +75,33 @@ time. By submitting an inquiry, you agree to these terms of usage
 and limitations of warranty.  Please limit your queries to 10 per
 minute and one connection.
 
-No match for &quot;&quot;.
+Registrant:
+   FavoriteAgent.com
+   4155 Ferncreek Drive
+   Suite 201-B
+   Fayetteville, NC  28314
+   US
 
+   Registrar: NAMESDIRECT
+   Domain Name: FAVORITEAGENT.COM
+      Created on: 03-OCT-02
+      Expires on: 03-OCT-12
+      Last Updated on: 13-SEP-11
+
+   Administrative, Technical Contact:
+       ,    info@favoriteagent.com
+      FavoriteAgent.com
+      4155 Ferncreek Drive
+      Suite 201-B
+      Fayetteville, NC  28314
+      US
+      910-487-3100
+
+
+   Domain servers in listed order:
+      NS1.MYDOMAIN.COM
+      NS2.MYDOMAIN.COM
+      NS3.MYDOMAIN.COM
+      NS4.MYDOMAIN.COM
+
+End of Whois Information
