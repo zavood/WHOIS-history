@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D773235-LROR
+Domain Name:UMPUBLISHING.ORG
+Created On:19-Jan-1998 05:00:00 UTC
+Last Updated On:28-Apr-2010 19:00:02 UTC
+Expiration Date:18-Jan-2017 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26778946-NSI
+Registrant Name:TheUnitedMethodist Publishing House
+Registrant Organization:TheUnitedMethodist Publishing House
+Registrant Street1:201 8th Ave. S
+Registrant Street2:
+Registrant Street3:
+Registrant City:Nashville
+Registrant State/Province:TN
+Registrant Postal Code:37202
+Registrant Country:US
+Registrant Phone:+1.6157496496
+Registrant Phone Ext.:
+Registrant FAX:+1.6157496598
+Registrant FAX Ext.:
+Registrant Email:mcunningham@UMPUBLISHING.ORG
+Admin ID:38935811-NSI
+Admin Name:Domain Admin
+Admin Street1:201 8th Ave S
+Admin Street2:
+Admin Street3:
+Admin City:Nashville
+Admin State/Province:TN
+Admin Postal Code:37202
+Admin Country:US
+Admin Phone:+1.6157496496
+Admin Phone Ext.:
+Admin FAX:+1.6157496598
+Admin FAX Ext.:
+Admin Email:domains@umpublishing.org
+Tech ID:38935811-NSI
+Tech Name:Domain Admin
+Tech Street1:201 8th Ave S
+Tech Street2:
+Tech Street3:
+Tech City:Nashville
+Tech State/Province:TN
+Tech Postal Code:37202
+Tech Country:US
+Tech Phone:+1.6157496496
+Tech Phone Ext.:
+Tech FAX:+1.6157496598
+Tech FAX Ext.:
+Tech Email:domains@umpublishing.org
+Name Server:NS.UMPUBLISHING.ORG
+Name Server:NS2.UMPUBLISHING.ORG
+Name Server:NS3.UMPUBLISHING.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

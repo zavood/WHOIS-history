@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 28-jan-2000
    Expiration Date: 28-jan-2021
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:45:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 03:16:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,5 +70,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: softonic.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:35:55 EDT 2011
+Date and Time of Query: Thu Sep 15 23:06:56 EDT 2011
 Reason Code: IE

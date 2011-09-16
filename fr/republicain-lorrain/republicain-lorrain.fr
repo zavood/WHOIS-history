@@ -1,0 +1,87 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; republicain-lorrain.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      republicain-lorrain.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LRL18-FRNIC
+admin-c:     ACLR207-FRNIC
+tech-c:      ETC2-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6992-FRNIC
+registrar:   EURO INFORMATION
+anniversary: 06/02
+created:     11/06/1996
+last-update: 06/02/2009
+source:      FRNIC
+
+ns-list:     NSL6992-FRNIC
+nserver:     ns1.republicain-lorrain.fr [195.101.106.130]
+nserver:     ns2.republicain-lorrain.fr [195.101.106.157]
+nserver:     ns2.oleane.net
+nserver:     ns3.oleane.net
+source:      FRNIC
+
+registrar:   EURO INFORMATION
+type:        Isp Option 1
+anonymous:   YES
+registered:  01/01/2000
+source:      FRNIC
+
+nic-hdl:     LRL18-FRNIC
+type:        ORGANIZATION
+contact:     Le Republicain Lorrain
+address:     3, rue de Saint Eloy
+address:     57140 Woippy
+country:     FR
+phone:       +33 3 87 34 17 89
+e-mail:      nsmaster@e-i.com
+changed:     06/02/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     ACLR207-FRNIC
+type:        PERSON
+contact:     admin-c Le Republicain Lorrain
+address:     3, rue de Saint Eloy
+address:     57140 Woippy
+country:     FR
+phone:       +33 3 87 34 17 89
+e-mail:      nsmaster@e-i.com
+changed:     06/02/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ETC2-FRNIC
+type:        ROLE
+contact:     EI Technical Contact
+address:     34, rue du Wacken
+address:     67000 Strasbourg
+country:     FR
+e-mail:      nsmaster@e-i.com
+admin-c:     FR280-FRNIC
+tech-c:      FM695-FRNIC
+tech-c:      JSG19-FRNIC
+notify:      nsmaster@e-i.com
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

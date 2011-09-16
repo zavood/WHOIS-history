@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 00:04:15 (BRT -03:00)
+
+domain:      allgames.com.br
+owner:       Allgames Com. Imp. Exp. de Comp. Eletronicos Ltda.
+ownerid:     006.074.535/0001-93
+responsible: Rogerio Cardoso
+country:     BR
+owner-c:     ROC500
+admin-c:     ROC500
+tech-c:      VES65
+billing-c:   ROC500
+nserver:     ns1.hostvi.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.hostvi.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20020324 #756808
+expires:     20130324
+changed:     20090507
+status:      published
+
+nic-hdl-br:  ROC500
+person:      ROGERIO CARDOSO
+e-mail:      allgames@allgames.com.br
+created:     20020313
+changed:     20080614
+
+nic-hdl-br:  VES65
+person:      Vexxa Sistemas
+e-mail:      suporte@vexxainterativo.com.br
+created:     20040113
+changed:     20110804
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

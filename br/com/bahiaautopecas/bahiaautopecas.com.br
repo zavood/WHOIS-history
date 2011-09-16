@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 00:09:08 (BRT -03:00)
+
+domain:      bahiaautopecas.com.br
+owner:       BAHIA AUTO E SERVICOS LTDA
+ownerid:     001.969.854/0001-43
+responsible: ARIOMAR ANDRE SOUZA
+country:     BR
+owner-c:     AAS661
+admin-c:     AAS661
+tech-c:      IEL134
+billing-c:   AAS661
+nserver:     unix.elo.com.br
+nsstat:      20110915 FAIL
+nslastaa:    20110908
+nserver:     nt.elo.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20030607 #1239124
+expires:     20120607
+changed:     20110524
+status:      published
+
+nic-hdl-br:  AAS661
+person:      ARIOMAR ANDRE SOUZA
+e-mail:      BAHIAHP@elo.com.br
+created:     20030607
+changed:     20030607
+
+nic-hdl-br:  IEL134
+person:      IMAGEM EDITORA&Ccedil;&Atilde;O ELETR&Ocirc;NICA E INFOR. LT
+e-mail:      elo@elo.com.br
+created:     20030430
+changed:     20100312
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

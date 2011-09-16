@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D61285800-LROR
+Domain Name:BUSCHTAXI.ORG
+Created On:14-Feb-2001 20:44:36 UTC
+Last Updated On:28-Nov-2010 00:25:36 UTC
+Expiration Date:14-Feb-2012 20:44:36 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ABM-11025410
+Registrant Name:Alexander Wohlfarth
+Registrant Street1:Stettiner Strasse 23
+Registrant Street2:
+Registrant Street3:
+Registrant City:Weingarten
+Registrant State/Province:DE
+Registrant Postal Code:76356
+Registrant Country:DE
+Registrant Phone:+49.7244702730
+Registrant Phone Ext.:
+Registrant FAX:+49.7244702727
+Registrant FAX Ext.:
+Registrant Email:post@welfare.de
+Admin ID:ABM-11025410
+Admin Name:Alexander Wohlfarth
+Admin Street1:Stettiner Strasse 23
+Admin Street2:
+Admin Street3:
+Admin City:Weingarten
+Admin State/Province:DE
+Admin Postal Code:76356
+Admin Country:DE
+Admin Phone:+49.7244702730
+Admin Phone Ext.:
+Admin FAX:+49.7244702727
+Admin FAX Ext.:
+Admin Email:post@welfare.de
+Tech ID:ABM-11025410
+Tech Name:Alexander Wohlfarth
+Tech Street1:Stettiner Strasse 23
+Tech Street2:
+Tech Street3:
+Tech City:Weingarten
+Tech State/Province:DE
+Tech Postal Code:76356
+Tech Country:DE
+Tech Phone:+49.7244702730
+Tech Phone Ext.:
+Tech FAX:+49.7244702727
+Tech FAX Ext.:
+Tech Email:post@welfare.de
+Name Server:A.NS14.NET
+Name Server:B.NS14.NET
+Name Server:C.NS14.NET
+Name Server:D.NS14.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

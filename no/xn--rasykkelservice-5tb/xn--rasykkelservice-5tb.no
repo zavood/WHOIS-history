@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: RAS459D-NORID
+Domain Name................: r&oslash;asykkelservice.no
+ACE Domain Name............: xn--rasykkelservice-5tb.no
+Domain Holder Handle.......: RSA340O-NORID
+Registrar Handle...........: REG334-NORID
+Legal-c Handle.............: PL919P-NORID
+Tech-c Handle..............: IAFR5R-NORID
+Tech-c Handle..............: IAFH4R-NORID
+Name Server Handle.........: NSFA33H-NORID
+Name Server Handle.........: NSFA45H-NORID
+
+Additional information:
+Created:         2004-04-29
+Last updated:    2011-05-01
+
+NORID Handle...............: RSA340O-NORID
+Type.......................: organization
+Name.......................: R&Oslash;A SYKKELSERVICE AS
+Id Type....................: organization_number
+Id Number..................: 969029626
+Registrar Handle...........: REG334-NORID
+Post Address...............: S&oslash;rkedalsveien 257
+Postal Code................: NO-0754
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.22731373
+Email Address..............: peralier@start.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+
