@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D317845-LROR
+Domain Name:FAIRUS.ORG
+Created On:15-Mar-1995 05:00:00 UTC
+Last Updated On:03-Mar-2009 16:51:28 UTC
+Expiration Date:16-Mar-2014 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30923291-NSI
+Registrant Name:FAIR
+Registrant Organization:FAIR
+Registrant Street1:25 Massachusetts Ave. N.W.
+Registrant Street2:Suite 330
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20001
+Registrant Country:US
+Registrant Phone:+1.2023287004
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:postmaster@FAIRUS.ORG
+Admin ID:30923293-NSI
+Admin Name:FAIR
+Admin Organization:FAIR
+Admin Street1:1666 CONNECTICUT AVE NW
+Admin Street2:
+Admin Street3:
+Admin City:WASHINGTON
+Admin State/Province:DC
+Admin Postal Code:20009-1039
+Admin Country:US
+Admin Phone:+1.20232870
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:postmaster@FAIRUS.ORG
+Tech ID:15172554-NSI
+Tech Name:Hostcentric
+Tech Organization:Hostcentric
+Tech Street1:3 RIVERWAY STE 555
+Tech Street2:
+Tech Street3:
+Tech City:HOUSTON
+Tech State/Province:TX
+Tech Postal Code:77056-1986
+Tech Country:US
+Tech Phone:+1.7134038600
+Tech Phone Ext.:
+Tech FAX:+1.7134038646
+Tech FAX Ext.:
+Tech Email:hostmaster@HOSTCENTRIC.COM
+Name Server:NS91.WORLDNIC.COM
+Name Server:NS92.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

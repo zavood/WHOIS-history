@@ -1,0 +1,109 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ensieta.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ensieta.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ENSI5-FRNIC
+admin-c:     FJ547-FRNIC
+tech-c:      AB283-FRNIC
+tech-c:      PM2243-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL45054-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 14/06/2011
+source:      FRNIC
+
+ns-list:     NSL45054-FRNIC
+nserver:     auvergne.ensta-bretagne.fr [193.52.45.6]
+nserver:     resone.univ-rennes1.fr [129.20.254.1]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     AB283-FRNIC
+type:        PERSON
+contact:     Andre Begoc
+address:     ENSIETA
+address:     2, rue Francois Verny
+address:     29806 Brest Cedex 9
+country:     FR
+phone:       +33 98 34 88 83
+fax-no:      +33 98 34 87 50
+e-mail:      begoc@ensieta.fr
+notify:      begoc@ensieta.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     FJ547-FRNIC
+type:        PERSON
+contact:     Francis Jouanjean
+address:     ENSIETA
+address:     2, rue Francois Verny
+address:     29806 Brest Cedex 9
+country:     FR
+phone:       +33 2 98 34 88 34
+fax-no:      +33 2 98 34 88 62
+e-mail:      directeur@ensieta.fr
+changed:     19/12/2008 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ENSI5-FRNIC
+type:        ORGANIZATION
+contact:     ECOLE NAT SUP INGEN ETUDE TECHN ARMEMENT
+address:     2, rue Francois Verny
+address:     29806 Brest
+country:     FR
+phone:       +33 2 98 34 88 00
+fax-no:      +33 2 98 34 87 50
+e-mail:      webmaster@ensieta.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     PM2243-FRNIC
+type:        PERSON
+contact:     Patrice Motte
+address:     ENSIETA
+address:     2, rue Francois Verny
+address:     29806 Brest Cedex 9
+country:     FR
+phone:       +33 98 34 88 49
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

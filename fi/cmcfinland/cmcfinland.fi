@@ -1,0 +1,21 @@
+
+domain:   cmcfinland.fi
+descr:    Pelastusopisto
+descr:    09093063
+address:  Tietohallinto
+address:  Hulkontie 83
+address:  70820
+address:  KUOPIO
+phone:    +358 9 2295 7685
+status:   Granted
+created:  14.8.2006
+expires:  14.8.2012
+nserver: ns1.inet.intermin.fi [OK]
+nserver: ns1-fin.global.sonera.fi [OK]
+nserver: ns1-swe.global.sonera.se [OK]
+nserver: ns2.inet.intermin.fi [OK]
+nserver: ns2-fin.global.sonera.fi [OK]
+nserver: ns2-usa.global.sonera.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

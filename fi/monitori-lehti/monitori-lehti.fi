@@ -1,0 +1,21 @@
+
+domain:   monitori-lehti.fi
+descr:    Sis&auml;asiainministeri&ouml;
+descr:    02459923
+address:  Alueiden ja hallinnonkehitt&auml;misosasto
+address:  PL 26
+address:  00023
+address:  Valtioneuvosto
+phone:    09 160 42534
+status:   Granted
+created:  28.12.2007
+expires:  28.12.2013
+nserver: ns1.inet.intermin.fi [OK]
+nserver: ns1-fin.global.sonera.fi [OK]
+nserver: ns1-swe.global.sonera.se [OK]
+nserver: ns2.inet.intermin.fi [OK]
+nserver: ns2-fin.global.sonera.fi [OK]
+nserver: ns2-usa.global.sonera.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

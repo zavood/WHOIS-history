@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D162475038-LROR
+Domain Name:MANDICOR.ORG
+Created On:08-Jun-2011 14:31:10 UTC
+Last Updated On:08-Aug-2011 03:50:11 UTC
+Expiration Date:08-Jun-2012 14:31:10 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:OK
+Registrant ID:nec06ahzn5zefdj7
+Registrant Name:dodik kurniawan
+Registrant Organization:dodik kurniawan
+Registrant Street1:bali
+Registrant Street2:
+Registrant Street3:
+Registrant City:bali
+Registrant State/Province:bali
+Registrant Postal Code:80364
+Registrant Country:ID
+Registrant Phone:+62.8579687000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dodik_ndut1@yahoo.com
+Admin ID:nec06ahzn5zefdj7
+Admin Name:dodik kurniawan
+Admin Organization:dodik kurniawan
+Admin Street1:bali
+Admin Street2:
+Admin Street3:
+Admin City:bali
+Admin State/Province:bali
+Admin Postal Code:80364
+Admin Country:ID
+Admin Phone:+62.8579687000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dodik_ndut1@yahoo.com
+Tech ID:nec06ahzn5zefdj7
+Tech Name:dodik kurniawan
+Tech Organization:dodik kurniawan
+Tech Street1:bali
+Tech Street2:
+Tech Street3:
+Tech City:bali
+Tech State/Province:bali
+Tech Postal Code:80364
+Tech Country:ID
+Tech Phone:+62.8579687000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dodik_ndut1@yahoo.com
+Name Server:NS2061.HOSTGATOR.COM
+Name Server:NS2062.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

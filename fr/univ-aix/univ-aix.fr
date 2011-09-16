@@ -1,0 +1,105 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; univ-aix.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      univ-aix.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    FDSE6-FRNIC
+admin-c:     GH252-FRNIC
+tech-c:      GR1378-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL35665-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 10/02/2010
+source:      FRNIC
+
+ns-list:     NSL35665-FRNIC
+nserver:     ns1.univmed.fr [139.124.1.1 2001:660:5402:801::1]
+nserver:     cnudns.cines.fr [193.48.169.40 2001:660:6301:301::2:1]
+nserver:     dns.irisa.fr [131.254.254.2 2001:660:7303:254::2]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     FDSE6-FRNIC
+type:        ORGANIZATION
+contact:     Faculte des Sciences Economiques
+address:     14, avenue Jules Ferry
+address:     13621 Aix-en-Provence Cedex
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     GH252-FRNIC
+type:        PERSON
+contact:     Georges Haupt
+address:     Faculte Sciences Economiques
+address:     14, rue Pouis de Chavannes
+address:     13001 Marseille Cedex
+country:     FR
+phone:       +33 4 42 91 34 21
+fax-no:      +33 4 42 26 08 43
+e-mail:      haupt@univ-aix.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

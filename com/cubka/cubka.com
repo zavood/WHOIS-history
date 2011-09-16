@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 08-nov-2010
    Expiration Date: 08-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:51:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 17:20:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,7 +71,7 @@ status:       lock
 created:      2010-11-08 18:11:08 UTC
 modified:     2011-09-10 07:27:09 UTC
 expires:      2012-11-08 18:11:08 UTC
-query-source: 174.142.225.246
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-53891
 person:       Lukas Blecha
@@ -93,8 +93,8 @@ country:      CZ
 phone:        +420.296332211
 
 source:       joker.com live whois service
-query-time:   0.007142
-db-updated:   2011-09-14 07:52:22
+query-time:   0.035485
+db-updated:   2011-09-16 17:20:46
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

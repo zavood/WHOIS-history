@@ -1,0 +1,28 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      carhire3000.ie
+descr:       Travel Jigsaw Ltd
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Publication Name
+admin-c:     ABK594-IEDR
+tech-c:      AAR382-IEDR
+renewal:     27-June-2012
+status:      Active
+nserver:     pdns1.ultradns.net
+nserver:     pdns2.ultradns.net
+nserver:     pdns3.ultradns.org
+nserver:     pdns4.ultradns.org
+nserver:     pdns5.ultradns.info
+nserver:     pdns6.ultradns.co.uk
+source:      IEDR
+
+person:      Andy Pritchard
+nic-hdl:     ABK594-IEDR
+source:      IEDR
+
+person:      Christopher Laursen
+nic-hdl:     AAR382-IEDR
+source:      IEDR
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 15-apr-2002
    Expiration Date: 15-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:20:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 17:27:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,7 +70,7 @@ status:       lock
 created:      2002-04-15 22:44:56 UTC
 modified:     2010-04-07 18:56:25 UTC
 expires:      2012-04-15 20:44:43 UTC
-query-source: 174.142.225.246
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-10027
 person:       Cedric MUNOZ
@@ -94,8 +94,8 @@ country:      FR
 phone:        +33.15626200
 
 source:       joker.com live whois service
-query-time:   0.03384
-db-updated:   2011-09-14 04:21:00
+query-time:   0.04745
+db-updated:   2011-09-16 17:28:23
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

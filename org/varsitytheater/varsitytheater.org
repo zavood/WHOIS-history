@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105313150-LROR
+Domain Name:VARSITYTHEATER.ORG
+Created On:09-Dec-2004 18:36:17 UTC
+Last Updated On:01-Apr-2011 15:39:40 UTC
+Expiration Date:09-Dec-2020 18:36:17 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31064510
+Registrant Name:Jason Mclean
+Registrant Organization:Varsity Theater Project
+Registrant Street1:1308 4th Street SE
+Registrant Street2:714 24TH AVE NE
+Registrant Street3:
+Registrant City:Minneapolis
+Registrant State/Province:Minnesota
+Registrant Postal Code:55414
+Registrant Country:US
+Registrant Phone:+1.6126040404
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@varsitytheater.org
+Admin ID:CR31064520
+Admin Name:Jason Mclean
+Admin Organization:Varsity Theater Project
+Admin Street1:1308 4th Street SE
+Admin Street2:
+Admin Street3:
+Admin City:Minneapolis
+Admin State/Province:Minnesota
+Admin Postal Code:55414
+Admin Country:US
+Admin Phone:+1.6126238244
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jamclean30@msn.com
+Tech ID:CR31064514
+Tech Name:Jason Mclean
+Tech Organization:Varsity Theater Project
+Tech Street1:1308 4th Street SE
+Tech Street2:
+Tech Street3:
+Tech City:Minneapolis
+Tech State/Province:Minnesota
+Tech Postal Code:55414
+Tech Country:US
+Tech Phone:+1.6127021820
+Tech Phone Ext.:
+Tech FAX:+1.6127021820
+Tech FAX Ext.:
+Tech Email:info@varsitytheater.org
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

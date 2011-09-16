@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 14:23:16 (BRT -03:00)
+
+domain:      via-rs.com.br
+owner:       PROCERGS - Cia de Processamento de Dados do RGS
+ownerid:     087.124.582/0001-04
+responsible: Everton Hagen
+country:     BR
+owner-c:     EVH
+admin-c:     EVH
+tech-c:      RDV
+billing-c:   ARR5
+nserver:     dns1.procergs.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     dns2.procergs.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     19950809
+expires:     20120101
+changed:     20101210
+status:      published
+
+nic-hdl-br:  ARR5
+person:      ANTONIO RENO MENDES ROSA
+e-mail:      reno@procergs.com.br
+created:     19971229
+changed:     19971229
+
+nic-hdl-br:  EVH
+person:      Everton Hagen
+e-mail:      everton@via-rs.net
+created:     19981028
+changed:     20060823
+
+nic-hdl-br:  RDV
+person:      Registro de Dominios do Via-RS
+e-mail:      dominio@via-rs.net
+created:     19971218
+changed:     20031017
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

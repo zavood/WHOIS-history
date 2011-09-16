@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158187835-LROR
+Domain Name:ALLOFILM.ORG
+Created On:24-Jan-2010 15:42:05 UTC
+Last Updated On:22-May-2011 11:38:42 UTC
+Expiration Date:24-Jan-2012 15:42:05 UTC
+Sponsoring Registrar:Dynadot, LLC (R1266-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:C-84732
+Registrant Name:bahae
+Registrant Street1:145 bloc saada
+Registrant Street2:
+Registrant Street3:
+Registrant City:fes
+Registrant State/Province:
+Registrant Postal Code:30000
+Registrant Country:MA
+Registrant Phone:+212.654678090
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bahae33@yahoo.fr
+Admin ID:C-84732
+Admin Name:bahae
+Admin Street1:145 bloc saada
+Admin Street2:
+Admin Street3:
+Admin City:fes
+Admin State/Province:
+Admin Postal Code:30000
+Admin Country:MA
+Admin Phone:+212.654678090
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bahae33@yahoo.fr
+Tech ID:C-84732
+Tech Name:bahae
+Tech Street1:145 bloc saada
+Tech Street2:
+Tech Street3:
+Tech City:fes
+Tech State/Province:
+Tech Postal Code:30000
+Tech Country:MA
+Tech Phone:+212.654678090
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bahae33@yahoo.fr
+Name Server:NS.KIMSUFI.COM
+Name Server:KS202827.KIMSUFI.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

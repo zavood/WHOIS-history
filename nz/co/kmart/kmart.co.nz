@@ -1,0 +1,66 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-17T05:20:01+12:00
+domain_name: kmart.co.nz
+query_status: 200 Active
+domain_dateregistered: 2002-10-09T12:01:01+13:00
+domain_datebilleduntil: 2011-10-09T12:01:01+13:00
+domain_datelastmodified: 2011-01-13T13:04:47+13:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Domainz Limited
+registrar_address1: Private Bag 1810
+registrar_city: Wellington
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 473 4567
+registrar_fax: +64 4 473 4569
+registrar_email: 4service@domainz.net.nz
+%
+registrant_contact_name: Kmart Corporation
+registrant_contact_address1: 3100 West Big Beaver Rd
+registrant_contact_city: Troy
+registrant_contact_province: Michigan
+registrant_contact_postalcode: 48084
+registrant_contact_country: US (UNITED STATES)
+registrant_contact_phone: +12 13 3870070
+registrant_contact_fax: +1 213 387 0070
+registrant_contact_email: admin@ebrandsecure.com
+%
+admin_contact_name: Kmart Administrative Department
+admin_contact_address1: 3100 West Big Beaver Rd
+admin_contact_city: Troy
+admin_contact_province: Michigan
+admin_contact_postalcode: 48084
+admin_contact_country: US (UNITED STATES)
+admin_contact_phone: +12 13 3870070
+admin_contact_fax: +1 213 387 0070
+admin_contact_email: admin@ebrandsecure.com
+%
+technical_contact_name: Kmart Australia Limited
+technical_contact_address1: 690 Springvale Road
+technical_contact_city: Mulgrave Victoria 3170
+technical_contact_country: AU (AUSTRALIA)
+technical_contact_phone: +61 39 9023130
+technical_contact_email: KmartITWeb@kmart.com.au
+%
+ns_name_01: ns1.imagineering.net.au
+ns_name_02: ns2.imagineering.net.au
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

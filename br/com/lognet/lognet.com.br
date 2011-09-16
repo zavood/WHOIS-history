@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 14:09:56 (BRT -03:00)
+
+domain:      lognet.com.br
+owner:       Lognet Telecomunica&ccedil;&otilde;es e Inform&aacute;tica Ltda
+ownerid:     001.343.100/0001-83
+responsible: Karina Duarte Franco
+country:     BR
+owner-c:     LOTEL3
+admin-c:     LOTEL3
+tech-c:      LOTEL3
+billing-c:   LOTEL3
+nserver:     ns1.lognet.com.br 177.8.225.51
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.lognet.com.br 177.8.225.52
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     19970201 #29497
+expires:     20120201
+changed:     20110816
+status:      published
+
+nic-hdl-br:  LOTEL3
+person:      Lognet Telecomunica&ccedil;oes
+e-mail:      noc@lognet.com.br
+created:     20091105
+changed:     20100930
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,52 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 14:20:04 (BRT -03:00)
+
+domain:      fabricahost.com.br
+owner:       Elcio L. Magalh&atilde;es Junior e Cia LTDA
+ownerid:     006.307.931/0001-13
+responsible: Elcio Luis Magalh&atilde;es Junior
+country:     BR
+owner-c:     ELJ137
+admin-c:     ELJ137
+tech-c:      ROG424
+billing-c:   ELJ137
+nserver:     ns1.locaweb.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.locaweb.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.locaweb.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20080922 #4888051
+expires:     20120922
+changed:     20110908
+status:      published
+
+nic-hdl-br:  ELJ137
+person:      Elcio Luis Magalh&atilde;es Junior
+e-mail:      registro@fabricahost.com.br
+created:     20050914
+changed:     20090612
+
+nic-hdl-br:  ROG424
+person:      Rodrigo de Oliveira Garcia
+e-mail:      registro@fabricahost.com.br
+created:     20040119
+changed:     20100927
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D69093869-LROR
+Domain Name:OWLNESS.ORG
+Created On:10-Apr-2001 22:19:32 UTC
+Last Updated On:10-Mar-2010 06:16:16 UTC
+Expiration Date:10-Apr-2015 22:19:33 UTC
+Sponsoring Registrar:pair Networks, Inc.d/b/a pairNIC (R103-LROR)
+Status:OK
+Registrant ID:BL99157
+Registrant Name:Brian Loudon
+Registrant Street1:224 17 Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Moline
+Registrant State/Province:IL
+Registrant Postal Code:61265
+Registrant Country:US
+Registrant Phone:+1.3097912562
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:610s7a8p6005@junkemailprevention.com
+Admin ID:BL39982
+Admin Name:Brian Loudon
+Admin Street1:224 17 Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Moline
+Admin State/Province:IL
+Admin Postal Code:61265
+Admin Country:US
+Admin Phone:+1.3097912562
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:610s7a8p6005@junkemailprevention.com
+Tech ID:BL34687
+Tech Name:Brian Loudon
+Tech Street1:224 17 Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Moline
+Tech State/Province:IL
+Tech Postal Code:61265
+Tech Country:US
+Tech Phone:+1.3097912562
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:610s7a8p6005@junkemailprevention.com
+Name Server:NS36.PAIR.COM
+Name Server:NS000.NS0.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

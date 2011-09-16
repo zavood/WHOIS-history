@@ -16,11 +16,11 @@ for detailed information.
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 09-nov-2010
+   Updated Date: 12-sep-2011
    Creation Date: 09-nov-2010
-   Expiration Date: 09-nov-2011
+   Expiration Date: 09-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 21:10:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 17:12:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -142,8 +142,8 @@ Domain servers in listed order:
         NS4.DPNET.COM         208.91.207.18
 
         Record created on:        2010-11-09 19:42:56.0
-        Database last updated on: 2010-11-09 19:51:52.16
-        Domain Expires on:        2011-11-09 19:42:56.0
+        Database last updated on: 2011-09-12 14:49:55.047
+        Domain Expires on:        2012-11-09 19:42:56.0
 
 
 

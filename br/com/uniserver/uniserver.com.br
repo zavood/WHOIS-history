@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 14:22:01 (BRT -03:00)
+
+domain:      uniserver.com.br
+owner:       Assis Processamento de Dados S/C Ltda ME
+ownerid:     002.256.205/0001-68
+responsible: Artenio Zanella
+country:     BR
+owner-c:     ACJ150
+admin-c:     ACJ150
+tech-c:      LOB64
+billing-c:   LOB64
+nserver:     dns1.uniserver.com.br 189.38.95.2
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     dns2.uniserver.com.br 189.38.95.3
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20020211 #733933
+expires:     20120211
+changed:     20110304
+status:      published
+
+nic-hdl-br:  ACJ150
+person:      Antonio Carlos Garcia Junior
+e-mail:      garciajr@lan2.com.br
+created:     20001023
+changed:     20100909
+
+nic-hdl-br:  LOB64
+person:      Luciano Oliveira Bissoli
+e-mail:      luciano@uniserver.com.br
+created:     20041010
+changed:     20080401
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,99 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D16962819-LROR
+Domain Name:ULYSSIS.ORG
+Created On:09-Jan-2000 10:19:10 UTC
+Last Updated On:25-Dec-2009 11:41:23 UTC
+Expiration Date:09-Jan-2014 10:19:10 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:3734070a3fe20609
+Registrant Name:Bart Vanbrabant
+Registrant Organization:K.U.Leuven
+Registrant Street1:Platte-Lostraat 71/1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kessel-Lo
+Registrant State/Province:
+Registrant Postal Code:3010
+Registrant Country:BE
+Registrant Phone:+1.0472380462
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ulyssis@ulyssis.org
+Admin ID:579249752158d696
+Admin Name:Dries Verachtert
+Admin Organization:K.U.Leuven
+Admin Street1:Kapittelbossen 50
+Admin Street2:
+Admin Street3:
+Admin City:Herentals
+Admin State/Province:
+Admin Postal Code:2200
+Admin Country:BE
+Admin Phone:+32.14703876
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:root@ulyssis.student.kuleuven.be
+Admin ID:8379442a4010d393
+Admin Name:Bart Vanbrabant
+Admin Organization:K.U.Leuven
+Admin Street1:Platte-Lostraat 71/1
+Admin Street2:
+Admin Street3:
+Admin City:Kessel-Lo
+Admin State/Province:
+Admin Postal Code:3010
+Admin Country:BE
+Admin Phone:+1.0472380462
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ulyssis@ulyssis.org
+Tech ID:5200924a40398058
+Tech Name:Domain Registrar
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027492701
+Tech FAX Ext.:
+Tech Email:domainregistrar@register.com
+Name Server:NS.ULYSSIS.STUDENT.KULEUVEN.BE
+Name Server:NS2.ULYSSIS.STUDENT.KULEUVEN.BE
+Name Server:NS3.ULYSSIS.STUDENT.KULEUVEN.BE
+Name Server:NS4.ULYSSIS.STUDENT.KULEUVEN.BE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

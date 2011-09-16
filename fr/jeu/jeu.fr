@@ -1,0 +1,99 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; jeu.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      jeu.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SGIB1-FRNIC
+admin-c:     DT1192-FRNIC
+tech-c:      MC239-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL35654-FRNIC
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+anniversary: 27/09
+created:     27/01/2009
+last-update: 27/07/2011
+source:      FRNIC
+
+ns-list:     NSL35654-FRNIC
+nserver:     ns1.p29.dynect.net
+nserver:     ns2.p29.dynect.net
+nserver:     ns3.p29.dynect.net
+nserver:     ns4.p29.dynect.net
+source:      FRNIC
+
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+type:        Isp Option 1
+address:     Emerald Tech Center
+address:     391 N. Ancestor Place
+address:     ID 83704 BOISE
+country:     US
+phone:       +1 208 389 5740
+fax-no:      +1 208 389 5771
+e-mail:      ccops@markmonitor.com
+website:     http://www.markmonitor.com
+anonymous:   NO
+registered:  10/01/2002
+source:      FRNIC
+
+nic-hdl:     SGIB1-FRNIC
+type:        ORGANIZATION
+contact:     Spil Games Intangibles B.V.
+address:     Arendstraat 23
+address:     1223RE Hilversum
+country:     NL
+phone:       +31 356466300
+fax-no:      +31 356466301
+e-mail:      ccops@markmonitor.com
+changed:     07/09/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     DT1192-FRNIC
+type:        PERSON
+contact:     David Taylor
+address:     Spil Games Intangibles B.V.
+address:     32, rue Lauriston
+address:     75116 Paris
+country:     FR
+phone:       +33 1 53 67 47 47
+fax-no:      +33 1 53 67 47 48
+e-mail:      frenchdomains@taylor.eu
+changed:     23/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MC239-FRNIC
+type:        ROLE
+contact:     MARKMONITOR CCOPS
+address:     eMarkmonitor Inc. dba MarkMonitor
+address:     PMB 155
+address:     10400 Overland Road
+address:     83709-1433 Boise, Id
+address:     US
+phone:       +01 2083895740
+e-mail:      ccops@markmonitor.com
+admin-c:     DL534-FRNIC
+tech-c:      DL534-FRNIC
+changed:     10/10/2008 ccops@markmonitor.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

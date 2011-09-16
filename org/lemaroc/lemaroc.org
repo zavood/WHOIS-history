@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D88729428-LROR
+Domain Name:LEMAROC.ORG
+Created On:25-Jul-2002 13:12:37 UTC
+Last Updated On:03-Aug-2011 18:27:24 UTC
+Expiration Date:25-Jul-2012 13:12:36 UTC
+Sponsoring Registrar:UK2 Group Ltd. (R123-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:TRANSFER PROHIBITED
+Registrant ID:DI_12009380
+Registrant Name:Oussama MISKIN
+Registrant Organization:Multimedia Studios
+Registrant Street1:Rue El Farabi, Res Palace 8 Appt 10
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tangier
+Registrant State/Province:Tangier-T&amp;#233;touan
+Registrant Postal Code:90000
+Registrant Country:MA
+Registrant Phone:+212.539343954
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:o.miskin@omihost.com
+Admin ID:DI_12009380
+Admin Name:Oussama MISKIN
+Admin Organization:Multimedia Studios
+Admin Street1:Rue El Farabi, Res Palace 8 Appt 10
+Admin Street2:
+Admin Street3:
+Admin City:Tangier
+Admin State/Province:Tangier-T&amp;#233;touan
+Admin Postal Code:90000
+Admin Country:MA
+Admin Phone:+212.539343954
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:o.miskin@omihost.com
+Tech ID:DI_12009380
+Tech Name:Oussama MISKIN
+Tech Organization:Multimedia Studios
+Tech Street1:Rue El Farabi, Res Palace 8 Appt 10
+Tech Street2:
+Tech Street3:
+Tech City:Tangier
+Tech State/Province:Tangier-T&amp;#233;touan
+Tech Postal Code:90000
+Tech Country:MA
+Tech Phone:+212.539343954
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:o.miskin@omihost.com
+Name Server:LINUX03.OMIHOST.COM
+Name Server:LINUX04.OMIHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
