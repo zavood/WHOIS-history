@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D91070281-LROR
+Domain Name:SZEDU.ORG
+Created On:10-Oct-2002 00:41:23 UTC
+Last Updated On:28-Dec-2010 19:13:21 UTC
+Expiration Date:10-Oct-2020 00:41:23 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:OK
+Registrant ID:28158212-NSI
+Registrant Name:Shengzhou Education and Sports Burean
+Registrant Organization:Shengzhou Education and Sports Burean
+Registrant Street1:NO.38 xiqian street shengzhou zhejia
+Registrant Street2:
+Registrant Street3:
+Registrant City:shengzhou
+Registrant State/Province:zhejiang
+Registrant Postal Code:312400
+Registrant Country:CN
+Registrant Phone:+1.865753037
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nsi_domainadmin@hichina.com
+Admin ID:41450125-NSI
+Admin Name:HiChina Web Solutions Limited
+Admin Organization:HiChina Web Solutions Limited
+Admin Street1:3/F., HiChina Mansion
+Admin Street2:No.27 Gulouwai Avenue
+Admin Street3:
+Admin City:Beijing
+Admin State/Province:Beijing
+Admin Postal Code:100011
+Admin Country:CN
+Admin Phone:+86.01064242
+Admin Phone Ext.:
+Admin FAX:+86.01064258
+Admin FAX Ext.:
+Admin Email:nsi_domainadmin@hichina.com
+Tech ID:19729056-NSI
+Tech Name:HiChina Web Solution Limited
+Tech Organization:HiChina Web Solution Limited
+Tech Street1:11/F., Building C Fuhua Mansio
+Tech Street2:No.8 Chaoyangmen North Avenue
+Tech Street3:
+Tech City:Beijing
+Tech State/Province:Beijing
+Tech Postal Code:100027
+Tech Country:CN
+Tech Phone:+1.86106554787
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domainadm@hichina.com
+Name Server:DNS2.HICHINA.COM
+Name Server:DNS1.HICHINA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

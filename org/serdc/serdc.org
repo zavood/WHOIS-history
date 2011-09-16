@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106111131-LROR
+Domain Name:SERDC.ORG
+Created On:18-Apr-2005 12:24:09 UTC
+Last Updated On:01-Apr-2011 14:31:29 UTC
+Expiration Date:18-Apr-2012 12:24:09 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tu4mczVh2C3whm0H
+Registrant Name:Paul Roszel
+Registrant Organization:RecycleNet Corporation
+Registrant Street1:PO Box 24017
+Registrant Street2:
+Registrant Street3:
+Registrant City:Guelph
+Registrant State/Province:Ontario
+Registrant Postal Code:N1E6V8
+Registrant Country:CA
+Registrant Phone:+1.5197672913
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@recycle.net
+Admin ID:tu4mczVh2C3whm0H
+Admin Name:Paul Roszel
+Admin Organization:RecycleNet Corporation
+Admin Street1:PO Box 24017
+Admin Street2:
+Admin Street3:
+Admin City:Guelph
+Admin State/Province:Ontario
+Admin Postal Code:N1E6V8
+Admin Country:CA
+Admin Phone:+1.5197672913
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@recycle.net
+Tech ID:tuPpNUxllUxeFDMA
+Tech Name:Paul Roszel
+Tech Organization:RecycleNet Corporation
+Tech Street1:P.O. Box 1910
+Tech Street2:
+Tech Street3:
+Tech City:Richfield Springs
+Tech State/Province:New York
+Tech Postal Code:13439
+Tech Country:US
+Tech Phone:+1.5197672913
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webmaster@recycle.net
+Name Server:NS.RECYCLE.NET
+Name Server:NS.SENTEX.CA
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

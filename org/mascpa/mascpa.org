@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D407662-LROR
+Domain Name:MASCPA.ORG
+Created On:09-Aug-1997 04:00:00 UTC
+Last Updated On:11-Aug-2009 15:42:24 UTC
+Expiration Date:08-Aug-2014 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:37268383-NSI
+Registrant Name:Manufacturer'sAssociationof Pennsylvania
+Registrant Organization:Manufacturer'sAssociationof Pennsylvania
+Registrant Street1:25 North Duke St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:York
+Registrant State/Province:PA
+Registrant Postal Code:17405
+Registrant Country:US
+Registrant Phone:+1.7178433891
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:5371874-NSI
+Admin Name:David H Hagan
+Admin Organization:Double Dog Communications, Inc.
+Admin Street1:2615 Joppa Rd.
+Admin Street2:
+Admin Street3:
+Admin City:York
+Admin State/Province:PA
+Admin Postal Code:17403
+Admin Country:US
+Admin Phone:+1.7175059675
+Admin Phone Ext.:
+Admin FAX:+1.7175059674
+Admin FAX Ext.:
+Admin Email:epreston@ddogcom.com
+Tech ID:5371874-NSI
+Tech Name:David H Hagan
+Tech Organization:Double Dog Communications, Inc.
+Tech Street1:2615 Joppa Rd.
+Tech Street2:
+Tech Street3:
+Tech City:York
+Tech State/Province:PA
+Tech Postal Code:17403
+Tech Country:US
+Tech Phone:+1.7175059675
+Tech Phone Ext.:
+Tech FAX:+1.7175059674
+Tech FAX Ext.:
+Tech Email:epreston@ddogcom.com
+Name Server:GTR2.YORKINTERNET.NET
+Name Server:MAILGATE.YORKINTERNET.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

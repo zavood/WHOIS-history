@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 09-aug-2007
    Expiration Date: 09-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:00:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 05:17:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain german-art-project.com
-% Timestamp: 2011-09-15 07:00:44
+% Timestamp: 2011-09-16 07:18:08
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

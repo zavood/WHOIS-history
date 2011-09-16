@@ -1,0 +1,102 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; temoignagechretien.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      temoignagechretien.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    EDTC2-FRNIC
+admin-c:     D5050-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2113-FRNIC
+registrar:   GANDI
+anniversary: 30/11
+created:     05/03/2003
+last-update: 01/12/2009
+source:      FRNIC
+
+ns-list:     NSL2113-FRNIC
+nserver:     ns10.dinaodns.net
+nserver:     ns11.dinaodns.net
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     EDTC2-FRNIC
+type:        ORGANIZATION
+contact:     EDITIONS DU TEMOIGNAGE CHRETIEN
+address:     49, rue du faubourg poissonniere
+address:     75009 Paris
+country:     FR
+changed:     30/11/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     D5050-FRNIC
+type:        ORGANIZATION
+contact:     DINAO
+address:     785, voie antiope
+address:     zone Athelia 3
+address:     13600 La Ciotat
+country:     FR
+phone:       +33 4 84 25 02 20
+fax-no:      +33 4 84 25 02 21
+e-mail:      13bda12e2952780bf15e798bc8c60867-211667@contact.gandi.net
+changed:     23/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
