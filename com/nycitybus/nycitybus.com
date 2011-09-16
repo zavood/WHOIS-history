@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 11-mar-2010
    Expiration Date: 11-mar-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:42:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 07:51:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,14 +77,31 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    TO LEE
+   13 ALLEN ST
+   NEW YORK, NY 10002
+   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: NYCITYBUS.COM
+      Created on: 11-Mar-10
+      Expires on: 11-Mar-15
+      Last Updated on: 19-Apr-10
+
+   Administrative Contact:
+      LEE, TO  tolee99@hotmail.com
+      13 ALLEN ST
+      NEW YORK, NY 10002
+      United States
+      +1.2672558868      Fax --
+
+   Technical Contact:
+      LEE, TO  tolee99@hotmail.com
+      13 ALLEN ST
+      NEW YORK, NY 10002
+      United States
+      +1.2672558868      Fax --
 
    Domain servers in listed order:
       NS51.1AND1.COM
       NS52.1AND1.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=NYCITYBUS.COM

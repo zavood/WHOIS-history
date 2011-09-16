@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 17-jan-1997
    Expiration Date: 18-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:03:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 07:54:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,9 +79,31 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    International Software Systems Solutions
+   109 Commerce Road
+   Boynton Beach, Florida 33426
+   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: IS3.COM
+      Created on: 17-Jan-97
+      Expires on: 18-Jan-12
+      Last Updated on: 14-Sep-11
+
+   Administrative Contact:
+      Admin, DNS  dnsadmin@isss.com
+      International Software Systems Solutions
+      109 Commerce Road
+      Boynton Beach, Florida 33426
+      United States
+      +1.8778779944      Fax --
+
+   Technical Contact:
+      Admin, DNS  dnsadmin@isss.com
+      International Software Systems Solutions
+      109 Commerce Road
+      Boynton Beach, Florida 33426
+      United States
+      +1.8778779944      Fax --
 
    Domain servers in listed order:
       NS-350.AWSDNS-43.COM
@@ -89,6 +111,3 @@ Registrant:
       NS-667.AWSDNS-19.NET
       NS-1571.AWSDNS-04.CO.UK
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=IS3.COM

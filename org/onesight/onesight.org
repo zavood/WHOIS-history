@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D125417564-LROR
+Domain Name:ONESIGHT.ORG
+Created On:04-Jul-2006 05:40:19 UTC
+Last Updated On:01-Jul-2011 05:07:00 UTC
+Expiration Date:04-Jul-2012 05:40:19 UTC
+Sponsoring Registrar:CSC Corporate Domains, Inc. (R24-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:970189433e253668
+Registrant Name:Domain Admin
+Registrant Organization:OneSight
+Registrant Street1:4000 Luxottica Place
+Registrant Street2:
+Registrant Street3:
+Registrant City:Madison,
+Registrant State/Province:OH
+Registrant Postal Code:45040
+Registrant Country:US
+Registrant Phone:+1.5137656390
+Registrant Phone Ext.:
+Registrant FAX:+1.5137656390
+Registrant FAX Ext.:
+Registrant Email:domadmin@luxotticaretail.com
+Admin ID:0879765eda794335
+Admin Name:Domain Admin
+Admin Organization:OneSight
+Admin Street1:4000 Luxottica Place
+Admin Street2:
+Admin Street3:
+Admin City:Madison,
+Admin State/Province:OH
+Admin Postal Code:45040
+Admin Country:US
+Admin Phone:+1.5137656390
+Admin Phone Ext.:
+Admin FAX:+1.5137656390
+Admin FAX Ext.:
+Admin Email:domadmin@luxotticaretail.com
+Tech ID:73780776df90f866
+Tech Name:Gift of Sight Foundation Tech
+Tech Organization:Gift of Sight Foundation
+Tech Street1:4000 Luxottica Place
+Tech Street2:
+Tech Street3:
+Tech City:Mason
+Tech State/Province:OH
+Tech Postal Code:45040
+Tech Country:US
+Tech Phone:+1.5137654488
+Tech Phone Ext.:
+Tech FAX:+1.5134924488
+Tech FAX Ext.:
+Tech Email:techadmin@luxotticaretail.com
+Name Server:AUTH00.NS.UU.NET
+Name Server:AUTH100.NS.UU.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

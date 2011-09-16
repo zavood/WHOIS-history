@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 17-dec-2001
    Expiration Date: 17-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:52:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:02:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 174.142.225.246
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain osb-i.com
-% Timestamp: 2011-09-15 09:52:48
+% Timestamp: 2011-09-16 10:02:44
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

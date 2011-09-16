@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D117131500-LROR
+Domain Name:MONFORUM.ORG
+Created On:22-Feb-2006 15:45:04 UTC
+Last Updated On:28-Jan-2011 08:38:50 UTC
+Expiration Date:22-Feb-2012 15:45:04 UTC
+Sponsoring Registrar:Online SAS (R99-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:BMN-115270
+Registrant Name:Lyes REKKEB
+Registrant Organization:rekkeb
+Registrant Street1:Cite 450 logts eplf
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tizi-Ouzou
+Registrant State/Province:
+Registrant Postal Code:15000
+Registrant Country:FR
+Registrant Phone:+33.21350913856
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:alert@un-nom.com
+Admin ID:BMN-33263
+Admin Name:Jerome OHORODNYK
+Admin Organization:SARL AXEL MATHILDE PRESSE
+Admin Street1:Route du rocher
+Admin Street2:ZA Beslon
+Admin Street3:
+Admin City:La Baule
+Admin State/Province:
+Admin Postal Code:44500
+Admin Country:FR
+Admin Phone:+33.240006099
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:alert@un-nom.com
+Tech ID:BMN-33263
+Tech Name:Jerome OHORODNYK
+Tech Organization:SARL AXEL MATHILDE PRESSE
+Tech Street1:Route du rocher
+Tech Street2:ZA Beslon
+Tech Street3:
+Tech City:La Baule
+Tech State/Province:
+Tech Postal Code:44500
+Tech Country:FR
+Tech Phone:+33.240006099
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:alert@un-nom.com
+Name Server:NS1.GOLD-SERVEUR.BIZ
+Name Server:NS2.GOLD-SERVEUR.BIZ
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
