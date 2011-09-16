@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 27-mar-2000
    Expiration Date: 27-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:00:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:21:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,90 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- Integra Telecom, Inc.
- 1201 NE Lloyd Boulevard
- Suite 500
- Portland, OR 97223
- US
-
- Domain name: ESCHELON.COM
-
-
- Administrative Contact:
-    Master, Host  hostmaster@integraonline.com
-    1201 NE Lloyd Boulevard
-    Suite 500
-    Portland, OR 97223
-    US
-    +1.5034538000    Fax: +1.5034538221
-
- Technical Contact:
-    Master, Host  hostmaster@integraonline.com
-    1201 NE Lloyd Boulevard
-    Suite 500
-    Portland, OR 97223
-    US
-    +1.5034538000    Fax: +1.5034538221
-
-
-
- Registration Service Provider:
-    Integra Telecom, Inc., support@integra.net
-    +1.503.453.8000
-    +1.503.453.8212 (fax)
-    http://www.integra.net/
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions.
-
-
- Registrar of Record: TUCOWS, INC.
- Record last updated on 26-Feb-2011.
- Record expires on 27-Mar-2012.
- Record created on 28-Mar-2000.
-
- Registrar Domain Name Help Center:
-    http://tucowsdomains.com
-
- Domain servers in listed order:
-    NS0.MSP.ESCHELON.COM   204.130.255.2
-    NS0.SEA.ESCHELON.COM   209.63.0.2
-    NS1.MSP.ESCHELON.COM   204.130.255.2
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-Tucows makes this information available &quot;as is,&quot; and does not guarantee its
-accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Tucows.
-
-Tucows reserves the right to terminate your access to the Tucows WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
-
-Tucows reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

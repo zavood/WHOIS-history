@@ -1,0 +1,40 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: DIN2242D-NORID
+Domain Name................: dinepenger.no
+Domain Holder Handle.......: DPA114O-NORID
+Registrar Handle...........: REG48-NORID
+Legal-c Handle.............: CHP12P-NORID
+Tech-c Handle..............: PH27R-NORID
+Name Server Handle.........: A77H-NORID
+Name Server Handle.........: F12H-NORID
+Name Server Handle.........: G13H-NORID
+Name Server Handle.........: H6H-NORID
+Name Server Handle.........: J3H-NORID
+Name Server Handle.........: L9H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-18
+
+NORID Handle...............: DPA114O-NORID
+Type.......................: organization
+Name.......................: DINE PENGER AS
+Id Type....................: organization_number
+Id Number..................: 990601054
+Registrar Handle...........: REG48-NORID
+Post Address...............: Postboks 1185 Sentrum
+Postal Code................: NO-0107
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.22000050
+Fax Number.................: +47.22000060
+Email Address..............: domain@dinepenger.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2011-03-25
+

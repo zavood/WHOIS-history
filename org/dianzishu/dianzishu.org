@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153526920-LROR
+Domain Name:DIANZISHU.ORG
+Created On:05-Aug-2008 07:30:24 UTC
+Last Updated On:07-Aug-2011 05:00:23 UTC
+Expiration Date:05-Aug-2012 07:30:24 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:hc697033684-cn
+Registrant Name:xianghe chen
+Registrant Organization:xianghe chen
+Registrant Street1:guangdongzhaoqingshidinghuqushuikengyimeibaogongsi
+Registrant Street2:
+Registrant Street3:
+Registrant City:zhaoqingshi
+Registrant State/Province:guangdong
+Registrant Postal Code:520607
+Registrant Country:CN
+Registrant Phone:+86.07582603385
+Registrant Phone Ext.:
+Registrant FAX:+86.01064242266
+Registrant FAX Ext.:
+Registrant Email:08txt@163.com
+Admin ID:hc544241033-cn
+Admin Name:zhang zhengjun
+Admin Organization:xuzhou bafang net .ltd.
+Admin Street1:xuzhou qingnian road
+Admin Street2:
+Admin Street3:
+Admin City:xuzhou
+Admin State/Province:jiangsu
+Admin Postal Code:221000
+Admin Country:CN
+Admin Phone:+86.51685995555
+Admin Phone Ext.:
+Admin FAX:+86.51683106831
+Admin FAX Ext.:
+Admin Email:0051@vip.163.com
+Tech ID:hc328631535-cn
+Tech Name:zhang zhengjun
+Tech Organization:xuzhou bafang net .ltd.
+Tech Street1:xuzhou qingnian road
+Tech Street2:
+Tech Street3:
+Tech City:xuzhou
+Tech State/Province:jiangsu
+Tech Postal Code:221000
+Tech Country:CN
+Tech Phone:+86.51685995555
+Tech Phone Ext.:
+Tech FAX:+86.51683106831
+Tech FAX Ext.:
+Tech Email:0051@vip.163.com
+Name Server:DNS15.HICHINA.COM
+Name Server:DNS16.HICHINA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 18-dec-2006
    Expiration Date: 18-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:05:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:13:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,18 +84,26 @@ Domain servers in listed order:
 	 ns1.worldviewer.com 	 ns2.worldviewer.com
 
 Administrator:
-	 Thomas  Vellaringattu tomv@worldviewer.com +1.5166554317
-	 Worldviewer.com, Inc.
 	 20573 Rodrigues Ave
-	 Cupertino,CA,US 95014
+	 Cupertino
+CA,
+US
+ 95014
 
+	 name:(Thomas  Vellaringattu)
+mail:(tomv@worldviewer.com) +1.5166554317
+	 Worldviewer.com, Inc.
 	 Technical Contactor:N/A
 Billing Contactor:
-	 Thomas  Vellaringattu tomv@worldviewer.com +1.5166554317
-	 Worldviewer.com, Inc.
 	 20573 Rodrigues AVe
-	 Cupertino,CA,US 95014
+	 Cupertino
+CA,
+US
+ 95014
 
+	 name:(Thomas  Vellaringattu)
+mail:(tomv@worldviewer.com) +1.5166554317
+	 Worldviewer.com, Inc.
 
 Registration Service Provider:
 	name: Worldviewer.com, Inc.
