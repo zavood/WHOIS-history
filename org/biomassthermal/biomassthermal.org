@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154842237-LROR
+Domain Name:BIOMASSTHERMAL.ORG
+Created On:05-Dec-2008 21:09:21 UTC
+Last Updated On:22-Nov-2010 16:12:40 UTC
+Expiration Date:05-Dec-2011 21:09:21 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:16830385-NSI
+Registrant Name:Technology Transition Corporation
+Registrant Organization:Technology Transition Corporation
+Registrant Street1:1211 Connecticut Ave NW
+Registrant Street2:Suite 600
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20036-2701
+Registrant Country:US
+Registrant Phone:+1.202457086
+Registrant Phone Ext.:
+Registrant FAX:+1.202223553
+Registrant FAX Ext.:
+Registrant Email:achulaki@ttcorp.com
+Admin ID:16830385-NSI
+Admin Name:Technology Transition Corporation
+Admin Organization:Technology Transition Corporation
+Admin Street1:1211 Connecticut Ave NW
+Admin Street2:Suite 600
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20036-2701
+Admin Country:US
+Admin Phone:+1.202457086
+Admin Phone Ext.:
+Admin FAX:+1.202223553
+Admin FAX Ext.:
+Admin Email:achulaki@ttcorp.com
+Tech ID:16830385-NSI
+Tech Name:Technology Transition Corporation
+Tech Organization:Technology Transition Corporation
+Tech Street1:1211 Connecticut Ave NW
+Tech Street2:Suite 600
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20036-2701
+Tech Country:US
+Tech Phone:+1.202457086
+Tech Phone Ext.:
+Tech FAX:+1.202223553
+Tech FAX Ext.:
+Tech Email:achulaki@ttcorp.com
+Name Server:AUTH00.NS.UU.NET
+Name Server:AUTH100.NS.UU.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

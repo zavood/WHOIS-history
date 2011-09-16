@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; isor.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      isor.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    I186-FRNIC
+admin-c:     HR872-FRNIC
+tech-c:      OH251-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL13195-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 16/11
+created:     06/01/2000
+last-update: 16/11/2010
+source:      FRNIC
+
+ns-list:     NSL13195-FRNIC
+nserver:     ns6.oleane.net
+nserver:     ns7.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     I186-FRNIC
+type:        ORGANIZATION
+contact:     ISOR
+address:     18-22, rue d'Arras
+address:     92000 Nanterre
+country:     FR
+phone:       +33 1 47 86 76 23
+fax-no:      +33 1 47 60 20 84
+e-mail:      h.ricard@isor.fr
+changed:     16/11/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     HR872-FRNIC
+type:        PERSON
+contact:     Herve Ricard
+address:     COFIGOR
+address:     18, rue d'Arras
+address:     92000 Nanterre
+country:     FR
+phone:       +33 1 47 86 76 13
+fax-no:      +33 1 47 84 46 73
+e-mail:      H.RICARD@isor.fr
+changed:     28/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
