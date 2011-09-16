@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D968711-LROR
+Domain Name:PEOPLEWHO.ORG
+Created On:11-Mar-1998 05:00:00 UTC
+Last Updated On:10-Dec-2009 12:28:52 UTC
+Expiration Date:10-Mar-2013 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34419041
+Registrant Name:Sylvia Caras
+Registrant Organization:peoplewho.org
+Registrant Street1:146-5 Chrystal Terr.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Santa Cruz
+Registrant State/Province:California
+Registrant Postal Code:95060
+Registrant Country:US
+Registrant Phone:+1.8314265335
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sylvia@peoplewho.org
+Admin ID:CR34419043
+Admin Name:Sylvia Caras
+Admin Organization:peoplewho.org
+Admin Street1:146-5 Chrystal Terr.
+Admin Street2:
+Admin Street3:
+Admin City:Santa Cruz
+Admin State/Province:California
+Admin Postal Code:95060
+Admin Country:US
+Admin Phone:+1.8314265335
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sylvia@peoplewho.org
+Tech ID:CR34419042
+Tech Name:Sylvia Caras
+Tech Organization:peoplewho.org
+Tech Street1:146-5 Chrystal Terr.
+Tech Street2:
+Tech Street3:
+Tech City:Santa Cruz
+Tech State/Province:California
+Tech Postal Code:95060
+Tech Country:US
+Tech Phone:+1.8314265335
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sylvia@peoplewho.org
+Name Server:NS1.LUNARBREEZE.COM
+Name Server:NS2.LUNARBREEZE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105558020-LROR
+Domain Name:ICMAGROUP.ORG
+Created On:12-Jan-2005 08:50:36 UTC
+Last Updated On:13-Jan-2011 01:23:26 UTC
+Expiration Date:12-Jan-2012 08:50:36 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:ABM-10187581
+Registrant Name:ICMA ICMA
+Registrant Organization:ICMA
+Registrant Street1:Talacker 29
+Registrant Street2:
+Registrant Street3:
+Registrant City:Zurich
+Registrant State/Province:Switzerland
+Registrant Postal Code:8001
+Registrant Country:CH
+Registrant Phone:+41.443634242
+Registrant Phone Ext.:
+Registrant FAX:+41.443634242
+Registrant FAX Ext.:
+Registrant Email:laura.casadei@icmagroup.org
+Admin ID:ABM-10187584
+Admin Name:Laura Casadei
+Admin Organization:ICMA
+Admin Street1:Talacker 29
+Admin Street2:
+Admin Street3:
+Admin City:Zurich
+Admin State/Province:Switzerland
+Admin Postal Code:8001
+Admin Country:CH
+Admin Phone:+41.443634242
+Admin Phone Ext.:
+Admin FAX:+41.443634242
+Admin FAX Ext.:
+Admin Email:laura.casadei@icmagroup.org
+Tech ID:ABM-447148
+Tech Name:UK COLT Hostmaster
+Tech Organization:COLT UK
+Tech Street1:Beaufort House
+Tech Street2:15 St Botolph Street
+Tech Street3:
+Tech City:London
+Tech State/Province:United Kingdom
+Tech Postal Code:EC3A 7QN
+Tech Country:GB
+Tech Phone:+44.2073903900
+Tech Phone Ext.:
+Tech FAX:+44.2079471696
+Tech FAX Ext.:
+Tech Email:domain-requests@colt.net
+Name Server:NS1.UK.COLT.NET
+Name Server:NS0.UK.COLT.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

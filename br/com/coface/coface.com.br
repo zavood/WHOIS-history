@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-15 07:38:25 (BRT -03:00)
+%  2011-09-16 18:09:50 (BRT -03:00)
 
 domain:      coface.com.br
 owner:       COFACE DO BRASIL SER DE GERENCIAMENTO DE CRE LTDA
@@ -17,14 +17,14 @@ admin-c:     HUTMO
 tech-c:      ACR88
 billing-c:   HUTMO
 nserver:     ns1.coface.com.br 189.126.108.2
-nsstat:      20110914 AA
-nslastaa:    20110914
+nsstat:      20110916 AA
+nslastaa:    20110916
 nserver:     ns2.coface.com.br 201.76.40.2
-nsstat:      20110914 AA
-nslastaa:    20110914
+nsstat:      20110916 AA
+nslastaa:    20110916
 nserver:     ns3.locaweb.com.br
-nsstat:      20110914 AA
-nslastaa:    20110914
+nsstat:      20110916 AA
+nslastaa:    20110916
 created:     20001023 #451817
 expires:     20171023
 changed:     20100429

@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; nortonpromotion.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      nortonpromotion.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SC7413-FRNIC
+admin-c:     CB6887-FRNIC
+tech-c:      DR1515-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL19570-FRNIC
+registrar:   CSC CORPORATE DOMAINS INC.
+anniversary: 19/02
+created:     16/11/2009
+last-update: 19/02/2010
+source:      FRNIC
+
+ns-list:     NSL19570-FRNIC
+nserver:     dns1.cscdns.net
+nserver:     dns2.cscdns.net
+source:      FRNIC
+
+registrar:   CSC CORPORATE DOMAINS INC.
+type:        Isp Option 1
+address:     2711 Centerville Road, Suite 400
+address:     DE 19808 WILMINGTON
+country:     US
+phone:       +1 302 636 5400
+fax-no:      +1 302 636 5454
+e-mail:      corporatedomains@cscinfo.com
+website:     http://www.csccorporatedomains.com
+anonymous:   NO
+registered:  17/10/2006
+source:      FRNIC
+
+nic-hdl:     SC7413-FRNIC
+type:        ORGANIZATION
+contact:     Symantec Corporation
+address:     Symantec Corporation
+address:     20330, Stevens Creek boulevard
+address:     95014 Cupertino Ca
+country:     FR
+phone:       +1 4085177979
+fax-no:      +1 4085177979
+e-mail:      domains@symantec.com
+changed:     23/02/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CB6887-FRNIC
+type:        PERSON
+contact:     Cecile Bellarosa
+address:     Symantec France
+address:     le River Seine 25 quai Gallieni
+address:     92150 Suresnes
+country:     FR
+phone:       +33 1 41 45 02 02
+fax-no:      +33 1 47 88 08 08
+e-mail:      domains@symantec.com
+changed:     22/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DR1515-FRNIC
+type:        PERSON
+contact:     Domain Registrar
+address:     Corporation Service Company
+address:     PO Box 597
+address:     B5A 4B4 Yarmouth NS
+country:     CA
+phone:       +1 9027465201
+fax-no:      +1 9027465252
+e-mail:      admin@internationaladmin.com
+changed:     24/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

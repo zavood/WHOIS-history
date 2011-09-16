@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 22-may-1997
    Expiration Date: 23-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:28:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 20:53:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,4 +54,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Too many lookups from this IP today. See you tomorrow.
+Registrant:
+ Bridge Entertainment, Inc.
+ 16133 Ventura Blvd. Suite 905
+ Encino, CA 91436
+ US
+
+ Domain name: EPOLL.COM
+
+
+ Administrative Contact:
+    Philpott, Gerry  epoll@myprivacy.ca
+    16133 Ventura Blvd. Suite 905
+    Encino, CA 91436
+    US
+    818-995-4960    Fax: 818-995-4970
+
+ Technical Contact:
+    Philpott, Gerry  epoll@myprivacy.ca
+    16133 Ventura Blvd. Suite 905
+    Encino, CA 91436
+    US
+    818-995-4960    Fax: 818-995-4970
+
+
+
+ Registrar of Record: easyDNS Technologies, Inc.
+ Record last updated on 23-Feb-2010.
+ Record expires on 23-May-2013.
+ Record created on 22-May-1997.
+
+ Domain servers in listed order:
+    NS2.EASYDNS.COM   72.52.2.1
+    REMOTE2.EASYDNS.COM   72.52.2.1
+    REMOTE1.EASYDNS.COM   64.68.192.10
+    NS1.EASYDNS.COM   64.68.192.10
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns
+  or Identi.ca http://identi.ca/easyDNS )
+
+
+You have 6 lookups left today

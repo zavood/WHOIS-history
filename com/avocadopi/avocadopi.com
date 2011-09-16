@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 05-feb-2010
    Expiration Date: 05-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:46:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 21:04:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Thursday, 15-Sep-2011 11:47:14 CEST
-# gmt time      : Thursday, 15-Sep-2011 09:47:14 GMT
+# local time    : Friday, 16-Sep-2011 23:05:26 CEST
+# gmt time      : Friday, 16-Sep-2011 21:05:26 GMT
 # last modify   : Monday, 12-Sep-2011 08:49:05 CEST
-# request from  : 192.168.248.2:64900
+# request from  : 192.168.248.1:6039
 
 Domain name: avocadopi.com
 
