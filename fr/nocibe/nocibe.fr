@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; nocibe.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      nocibe.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    N1287-FRNIC
+admin-c:     XD33-FRNIC
+tech-c:      OH251-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1508-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 07/11
+created:     08/08/1997
+last-update: 12/03/2009
+source:      FRNIC
+
+ns-list:     NSL1508-FRNIC
+nserver:     ns2.oleane.net
+nserver:     ns3.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     XD33-FRNIC
+type:        PERSON
+contact:     Xavier Dura
+address:     NOCIBE
+address:     2, rue de Ticlene
+address:     59493 Villeneuve-d'Ascq
+country:     FR
+phone:       +33 3 20 71 49 49
+fax-no:      +33 3 20 71 49 50
+e-mail:      xdura@nocibe.fr
+changed:     06/11/2001 oal@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     N1287-FRNIC
+type:        ORGANIZATION
+contact:     Nocibe
+address:     2, rue de Ticlene
+address:     59493 Villeneuve-d'Ascq
+country:     FR
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

@@ -5,21 +5,23 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCHEDULEBASE.COM
+   Domain Name: ADAM-BRODY.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS55.DOMAINCONTROL.COM
-   Name Server: NS56.DOMAINCONTROL.COM
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
+   Name Server: NS3.MYDOMAIN.COM
+   Name Server: NS4.MYDOMAIN.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 08-feb-2010
-   Creation Date: 08-feb-2010
-   Expiration Date: 08-feb-2012
+   Updated Date: 19-aug-2011
+   Creation Date: 18-aug-2003
+   Expiration Date: 18-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 02:07:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 02:16:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,15 +78,17 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Jon Forknell
+   Hollywood.com LLC
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SCHEDULEBASE.COM
+   Domain Name: ADAM-BRODY.COM
 
    Domain servers in listed order:
-      NS55.DOMAINCONTROL.COM
-      NS56.DOMAINCONTROL.COM
+      NS1.MYDOMAIN.COM
+      NS2.MYDOMAIN.COM
+      NS3.MYDOMAIN.COM
+      NS4.MYDOMAIN.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SCHEDULEBASE.COM
+   http://who.godaddy.com/whoischeck.aspx?Domain=ADAM-BRODY.COM

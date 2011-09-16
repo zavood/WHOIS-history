@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: SCHEDULEBASE.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS55.DOMAINCONTROL.COM
-   Name Server: NS56.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-feb-2010
-   Creation Date: 08-feb-2010
-   Expiration Date: 08-feb-2012
+   Domain Name: ABSOLUTEMACHINERY.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
+   Name Server: NS3.MYDOMAIN.COM
+   Name Server: NS4.MYDOMAIN.COM
+   Status: ok
+   Updated Date: 20-nov-2008
+   Creation Date: 25-jun-2000
+   Expiration Date: 25-jun-2018
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 02:07:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 02:13:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,37 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... absolutemachinery.com
+  Creation Date........ 2000-06-26
+  Registration Date.... 2000-06-26
+  Expiry Date.......... 2018-06-26
+  Organisation Name.... Absolute Machinery
+  Organisation Address. 16 Martin Lane
+  Organisation Address.
+  Organisation Address. Litchfield
+  Organisation Address. 03052
+  Organisation Address. NH
+  Organisation Address. UNITED STATES
+
+Admin Name........... Michael Ortolano
+  Admin Address........ 16 Martin Lane
+  Admin Address........
+  Admin Address........ Litchfield
+  Admin Address........ 03052
+  Admin Address........ NH
+  Admin Address........ UNITED STATES
+  Admin Email.......... mortolano@aol.com
+  Admin Phone.......... (603)595-6650
+  Admin Fax............
+
+Tech Name............ Verio Hostmaster
+  Tech Address......... 5050 Blue Lake Dr.
+  Tech Address.........
+  Tech Address......... Boca Raton
+  Tech Address......... 33431
+  Tech Address......... FL
+  Tech Address......... UNITED STATES
+  Tech Email........... hostmaster@VERIO-HOSTING.COM
+  Tech Phone........... 888-663-6648
+  Tech Fax.............
+  Name Server.......... ns1.mydomain.com
+  Name Server.......... ns2.mydomain.com
+  Name Server.......... ns3.mydomain.com
+  Name Server.......... ns4.mydomain.com
 
 
-Registrant:
-   Jon Forknell
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: SCHEDULEBASE.COM
-
-   Domain servers in listed order:
-      NS55.DOMAINCONTROL.COM
-      NS56.DOMAINCONTROL.COM
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=SCHEDULEBASE.COM

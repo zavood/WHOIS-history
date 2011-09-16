@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6260858-LROR
+Domain Name:ADID.ORG
+Created On:05-May-1999 13:40:19 UTC
+Last Updated On:18-Apr-2011 15:46:15 UTC
+Expiration Date:05-May-2013 13:38:39 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOTR-00717549
+Registrant Name:Ming Tsay
+Registrant Street1:300 DECARIE
+Registrant Street2:VSL QC H4N 2M2
+Registrant Street3:
+Registrant City:VSL QC
+Registrant State/Province:H4N
+Registrant Postal Code:2M2
+Registrant Country:CA
+Registrant Phone:+1.5147448000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rife@rife.ca
+Admin ID:DOTC-02452036
+Admin Name:Ming Tsay
+Admin Street1:300 DECARIE
+Admin Street2:VSL QC H4N 2M2
+Admin Street3:
+Admin City:VSL QC
+Admin State/Province:H4N
+Admin Postal Code:2M2
+Admin Country:CA
+Admin Phone:+1.5147448000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rife@rife.ca
+Tech ID:DOTC-02452037
+Tech Name:NamesDirect.com Support
+Tech Street1:Visit us at www.NamesDirect.com
+Tech Street2:
+Tech Street3:
+Tech City:N/A
+Tech State/Province:
+Tech Postal Code:N/A
+Tech Country:BM
+Tech Phone:+1.000000000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@namesdirect.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D992016-LROR
+Domain Name:COLLECT.ORG
+Created On:04-Apr-1997 05:00:00 UTC
+Last Updated On:14-May-2011 05:01:57 UTC
+Expiration Date:05-Apr-2013 04:00:00 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:dc0d4ae6d5a0d24b
+Registrant Name:Comtech  Inc.
+Registrant Organization:Comtech Systems Inc.
+Registrant Street1:107 - 859 Orono Ave.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Victoria
+Registrant State/Province:BC
+Registrant Postal Code:V9B 2T9
+Registrant Country:CA
+Registrant Phone:+1.2503910466
+Registrant Phone Ext.:
+Registrant FAX:+1.2503910466
+Registrant FAX Ext.:
+Registrant Email:info@COLLECT.ORG
+Admin ID:cb889446173918f4
+Admin Name:Comtech  Inc.
+Admin Organization:Comtech Systems Inc.
+Admin Street1:107 - 859 Orono Ave.
+Admin Street2:
+Admin Street3:
+Admin City:Victoria
+Admin State/Province:
+Admin Postal Code:V9B 2T9
+Admin Country:CA
+Admin Phone:+1.2503910466
+Admin Phone Ext.:
+Admin FAX:+1.2503910466
+Admin FAX Ext.:
+Admin Email:info@COLLECT.ORG
+Tech ID:8fb99ae545fbaf97
+Tech Name:Fritz  Schulze
+Tech Organization:Comtech Systems Inc.
+Tech Street1:107 - 859 Orono Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Victoria
+Tech State/Province:BC
+Tech Postal Code:V9B 2T9
+Tech Country:CA
+Tech Phone:+1.2503910466
+Tech Phone Ext.:
+Tech FAX:+1.2503910466
+Tech FAX Ext.:
+Tech Email:sales@collect.org
+Name Server:NS1.ISLANDNET.COM
+Name Server:NS2.ISLANDNET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
