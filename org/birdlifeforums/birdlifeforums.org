@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D120194683-LROR
+Domain Name:BIRDLIFEFORUMS.ORG
+Created On:10-Apr-2006 08:24:47 UTC
+Last Updated On:28-Mar-2011 07:48:22 UTC
+Expiration Date:10-Apr-2014 08:24:47 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuJcVeuolf6B3Nig
+Registrant Name:Tony Leggatt
+Registrant Organization:BirdLife International
+Registrant Street1:Wellbrook Court
+Registrant Street2:Girton Road
+Registrant Street3:
+Registrant City:Cambridge
+Registrant State/Province:Cambs.
+Registrant Postal Code:CB30NA
+Registrant Country:GB
+Registrant Phone:+44.1223277318
+Registrant Phone Ext.:
+Registrant FAX:+44.1223277200
+Registrant FAX Ext.:
+Registrant Email:birdlife.admin@birdlife.org
+Admin ID:tubEv07z8uygQbx7
+Admin Name:Tony Leggatt
+Admin Organization:BirdLife International
+Admin Street1:Wellbrook Court
+Admin Street2:Girton Road
+Admin Street3:
+Admin City:Cambridge
+Admin State/Province:Cambs.
+Admin Postal Code:CB30NA
+Admin Country:GB
+Admin Phone:+44.1223277318
+Admin Phone Ext.:
+Admin FAX:+44.1223277200
+Admin FAX Ext.:
+Admin Email:birdlife.admin@birdlife.org
+Tech ID:tuNSyiZF4sSeP3hP
+Tech Name:Webfusion Ltd
+Tech Organization:Webfusion Ltd.
+Tech Street1:5 Roundwood Avenue
+Tech Street2:Stockley Park
+Tech Street3:
+Tech City:Uxbridge
+Tech State/Province:Middlesex
+Tech Postal Code:UB111FF
+Tech Country:GB
+Tech Phone:+44.8712309525
+Tech Phone Ext.:
+Tech FAX:+44.8701650437
+Tech FAX Ext.:
+Tech Email:services@123-reg.co.uk
+Name Server:NS.123-REG.CO.UK
+Name Server:NS2.123-REG.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 27-jun-2002
    Expiration Date: 27-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 07:47:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 02:58:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,7 +73,7 @@ ANDERSON, GARY
 
    Record expires on 27-Jun-2012.
    Record created on 27-Jun-2002.
-   Database last updated on 14-Sep-2011 03:37:20 EDT.
+   Database last updated on 15-Sep-2011 22:48:35 EDT.
 
    Domain servers in listed order:
 

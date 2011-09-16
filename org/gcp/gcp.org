@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1196075-LROR
+Domain Name:GCP.ORG
+Created On:03-May-1996 04:00:00 UTC
+Last Updated On:01-Jun-2011 21:56:39 UTC
+Expiration Date:04-May-2013 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:SN3471-BR
+Registrant Name:Scott Novicki
+Registrant Organization:Great Commission Publications
+Registrant Street1:3640 Windsor Park Dr.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Suwanee
+Registrant State/Province:GA
+Registrant Postal Code:30024-3897
+Registrant Country:US
+Registrant Phone:+01.8006953387
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:scott.novicki@GCP.ORG
+Admin ID:23770243-NSI
+Admin Name:Ray Aiello
+Admin Organization:Great Commission Publications, Inc.
+Admin Street1:3640 Windsor Park Dr.
+Admin Street2:
+Admin Street3:
+Admin City:Suwanee
+Admin State/Province:GA
+Admin Postal Code:30024
+Admin Country:US
+Admin Phone:+1.7708319084113
+Admin Phone Ext.:
+Admin FAX:+1.7702715657
+Admin FAX Ext.:
+Admin Email:ray.aiello@gcp.org
+Tech ID:23770243-NSI
+Tech Name:Ray Aiello
+Tech Organization:Great Commission Publications, Inc.
+Tech Street1:3640 Windsor Park Dr.
+Tech Street2:
+Tech Street3:
+Tech City:Suwanee
+Tech State/Province:GA
+Tech Postal Code:30024
+Tech Country:US
+Tech Phone:+1.7708319084113
+Tech Phone Ext.:
+Tech FAX:+1.7702715657
+Tech FAX Ext.:
+Tech Email:ray.aiello@gcp.org
+Name Server:NS1.PEER1.NET
+Name Server:NS2.PEER1.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

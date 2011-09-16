@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 16-dec-2005
    Expiration Date: 16-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 20:48:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 02:56:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,72 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- WJ Webdesigns
- PMB 52
- 9251 Sprague Road
- North Royalton, OH 44133
- US
-
- Domain name: SHOWMEWIVES.COM
-
-
- Administrative Contact:
-    Swing, J  domains@wjwebdesigns.com
-    PMB 52
-    9251 Sprague Road
-    North Royalton, OH 44133
-    US
-    888-398-8539
- Technical Contact:
-    Martin, Scott  domains@wjwebdesigns.com
-    P.O. Box 91715
-    Louisville, KY 40291
-    US
-    +1.8883988539    Fax: +1.8883988539
-
-
-
- Registrar of Record: Everyones Internet, LLC dba Resellone.net
- Record last updated on 16-Nov-2010.
- Record expires on 16-Dec-2011.
- Record created on 16-Dec-2005.
-
- Domain servers in listed order:
-    NS2.THEPLANET.COM   70.86.61.135
-    NS1.THEPLANET.COM   70.86.61.133
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-The Data in the ResellOne Registrar WHOIS database is provided to you by ResellOne
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-ResellOne makes this information available &quot;as is,&quot; and does not guarantee its accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of ResellOne.
-
-ResellOne reserves the right to terminate your access to the ResellOne WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this policy.
-
-ResellOne reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

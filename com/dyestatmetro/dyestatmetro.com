@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 15-oct-2008
    Expiration Date: 15-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:49:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 02:59:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,5 +71,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: dyestatmetro.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:39:23 EDT 2011
+Date and Time of Query: Thu Sep 15 22:49:50 EDT 2011
 Reason Code: IE
