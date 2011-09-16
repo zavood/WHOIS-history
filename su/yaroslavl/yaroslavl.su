@@ -1,0 +1,22 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     YAROSLAVL.SU
+nserver:    ns.innet.yaroslavl.su. 217.15.134.65
+nserver:    ns1.innet.yaroslavl.su. 217.15.135.68
+state:      REGISTERED, DELEGATED
+org:        Verhnevolzhskiy branch of JSC CenterTelecom
+phone:      +7 4852 739510
+fax-no:     +7 4852 725350
+e-mail:     vaa@yartelecom.ru
+e-mail:     odl@it.yartelecom.ru
+e-mail:     avr@yartelecom.ru
+registrar:  RUCENTER-REG-FID
+created:    1999.08.26
+paid-till:  2012.10.01
+source:     TCI
+
+Last updated on 2011.09.16 13:10:46 MSK/MSD
+

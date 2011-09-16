@@ -1,0 +1,31 @@
+% Hello, this is the DOMREG whois service.
+%
+% By submitting a query you agree not to use the information made
+% available to:
+% - allow, enable or otherwise support the transmission of unsolicited,
+%   commercial advertising or other solicitations whether via email or
+%   otherwise;
+% - target advertising in any possible way;
+% - to cause nuisance in any possible way to the registrants by sending
+%   (whether by automated, electronic processes capable of enabling
+%   high volumes or other possible means) messages to them.
+%
+% Version 0.3
+%
+% For more information please visit http://whois.domreg.lt
+%
+Domain:			iti.lt
+Status:			registered
+Registered:		1996-09-17
+%
+Registrar:		UAB &quot;INFORMACIJOS TILTAS&quot;
+Registrar website:	http://www.iti.lt
+Registrar email:	office@iti.lt
+%
+%
+Contact organization:	UAB &quot;Informacijos Tiltas&quot;
+Contact email:		gintaras@iti.lt
+%
+Nameserver:		s1.iti.lt	[193.219.1.33]
+Nameserver:		s2.iti.lt	[193.219.1.35]
+Nameserver:		ns2.domreg.lt

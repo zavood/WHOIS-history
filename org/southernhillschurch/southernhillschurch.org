@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D33083544-LROR
+Domain Name:SOUTHERNHILLSCHURCH.ORG
+Created On:16-Aug-2000 19:39:14 UTC
+Last Updated On:11-Aug-2009 20:50:07 UTC
+Expiration Date:16-Aug-2014 19:39:14 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOT-6LRWQ8V1V9OD
+Registrant Name:Phil Ware
+Registrant Organization:Heartlight
+Registrant Street1:PO Box 7044
+Registrant Street2:
+Registrant Street3:
+Registrant City:Abilene
+Registrant State/Province:TX
+Registrant Postal Code:79608
+Registrant Country:US
+Registrant Phone:+1.3256922670
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:phil@heartlight.org
+Admin ID:DOT-P5AY7V5IZZ1G
+Admin Name:Phil Ware
+Admin Organization:Heartlight
+Admin Street1:PO Box 7044
+Admin Street2:
+Admin Street3:
+Admin City:Abilene
+Admin State/Province:TX
+Admin Postal Code:79608
+Admin Country:US
+Admin Phone:+1.3256922670
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:phil@heartlight.org
+Tech ID:DOT-PGCVUEF7UBG3
+Tech Name:John Kirkland
+Tech Organization:Heartlight
+Tech Street1:PO Box 7044
+Tech Street2:
+Tech Street3:
+Tech City:Abilene
+Tech State/Province:TX
+Tech Postal Code:79608
+Tech Country:US
+Tech Phone:+1.3256922670
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jpk@heartlight.org
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

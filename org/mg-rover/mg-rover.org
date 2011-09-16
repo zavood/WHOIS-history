@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D56888585-LROR
+Domain Name:MG-ROVER.ORG
+Created On:02-Feb-2001 19:00:33 UTC
+Last Updated On:20-Jun-2011 03:44:30 UTC
+Expiration Date:02-Feb-2012 19:00:33 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tul27t2UCDqfRVJS
+Registrant Name:Steve Childs
+Registrant Organization:Online Enthusiasts Ltd
+Registrant Street1:14 Alderley Crescent
+Registrant Street2:
+Registrant Street3:
+Registrant City:Walsall
+Registrant State/Province:WM
+Registrant Postal Code:WS31TE
+Registrant Country:GB
+Registrant Phone:+44.1922649883
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:steve@online-enthusiasts.com
+Admin ID:tuioHrNPlOQlhorL
+Admin Name:Steve Childs
+Admin Organization:Online Enthusiasts Ltd
+Admin Street1:14 Alderley Crescent
+Admin Street2:
+Admin Street3:
+Admin City:Walsall
+Admin State/Province:WM
+Admin Postal Code:WS31TE
+Admin Country:GB
+Admin Phone:+44.1922649883
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:steve@online-enthusiasts.com
+Tech ID:tuCaVESvRHc8rWlz
+Tech Name:Steve Childs
+Tech Organization:Online Enthusiasts Ltd
+Tech Street1:14 Alderley Crescent
+Tech Street2:
+Tech Street3:
+Tech City:Walsall
+Tech State/Province:WM
+Tech Postal Code:WS31TE
+Tech Country:GB
+Tech Phone:+44.1922649883
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:steve@online-enthusiasts.com
+Name Server:NS.MAINNAMESERVER.COM
+Name Server:NS2.MAINNAMESERVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

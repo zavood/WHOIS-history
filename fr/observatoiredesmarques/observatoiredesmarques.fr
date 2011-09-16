@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; observatoiredesmarques.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      observatoiredesmarques.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LODM1-FRNIC
+admin-c:     JPB94-FRNIC
+tech-c:      OP1104-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2951-FRNIC
+registrar:   NAMESHIELD
+anniversary: 18/09
+created:     06/03/1997
+last-update: 01/05/2004
+source:      FRNIC
+
+ns-list:     NSL2951-FRNIC
+nserver:     observatoire.observatoiredesmarques.fr [62.93.195.146]
+nserver:     ns2.observatoiredesmarques.fr [80.74.69.8]
+source:      FRNIC
+
+registrar:   NAMESHIELD
+type:        Isp Option 1
+address:     16 Rue de St P&eacute;tersbourg
+address:     PARIS
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      jpbechu@nameshield.net
+website:     http://www.nameshield.net
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     LODM1-FRNIC
+type:        ORGANIZATION
+contact:     L'Observatoire des Marques
+address:     46, rue Jean Bodin
+address:     49000 Angers
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     JPB94-FRNIC
+type:        PERSON
+contact:     Jean Paul Bechu
+address:     NAMESHIELD
+address:     27, rue des arenes
+address:     49100 Angers
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      registrar@nameshield.net
+notify:      jpbechu@nameshield.net
+changed:     24/06/2008 laurent@nameshield.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OP1104-FRNIC
+type:        ROLE
+contact:     Observatoire des marques Presenceweb
+address:     NAMESHIELD
+address:     27, rue des arenes
+address:     49100 Angers
+country:     FR
+phone:       +33 2 41 18 28 28
+e-mail:      autonoc@nameshield.net
+admin-c:     JPB94-FRNIC
+tech-c:      TD132-FRNIC
+notify:      technical@nameshield.net
+changed:     23/02/2006 autonoc@nameshield.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

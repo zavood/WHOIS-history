@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; hager.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      hager.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    HE461-FRNIC
+admin-c:     HES21-FRNIC
+tech-c:      IDN49-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL36371-FRNIC
+registrar:   INDOM
+anniversary: 04/03
+created:     27/01/1998
+last-update: 04/03/2010
+source:      FRNIC
+
+ns-list:     NSL36371-FRNIC
+nserver:     bruche.hager.fr [194.99.49.33]
+nserver:     indom10.indomco.com
+nserver:     indom20.indomco.net
+nserver:     indom30.indomco.fr [213.205.102.3]
+nserver:     indom80.indomco.hk
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     HE461-FRNIC
+type:        ORGANIZATION
+contact:     HAGER ELECTRO
+address:     132, boulevard de l'Europe
+address:     B.P. 3
+address:     67215 Obernai
+country:     FR
+changed:     03/06/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     HES21-FRNIC
+type:        ORGANIZATION
+contact:     HAGER SAS
+address:     132, boulevard d'Europe
+address:     B.P. 3 - R10
+address:     67215 Obernai
+country:     FR
+phone:       +33 3 88 49 50 61
+fax-no:      +33 3 88 49 50 70
+e-mail:      domainsadmins@hager.com
+changed:     01/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     IDN49-FRNIC
+type:        ORGANIZATION
+contact:     INDOM
+address:     Indom And Co Andconet
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 76 70 05 67
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     03/05/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

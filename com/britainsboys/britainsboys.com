@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 27-jun-2006
    Expiration Date: 27-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:35:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 09:12:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,14 +77,33 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Likemind Pty Ltd
+   PO Box 13327 George Street
+   Brisbane, QLD 4003
+   Australia
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: BRITAINSBOYS.COM
+      Created on: 27-Jun-06
+      Expires on: 27-Jun-12
+      Last Updated on: 07-May-11
+
+   Administrative Contact:
+      Hubert, Luke  luke@likemind.com.au
+      Likemind Pty Ltd
+      PO Box 13327 George Street
+      Brisbane, QLD 4003
+      Australia
+      +61.0401135025      Fax --
+
+   Technical Contact:
+      Hubert, Luke  luke@likemind.com.au
+      Likemind Pty Ltd
+      PO Box 13327 George Street
+      Brisbane, QLD 4003
+      Australia
+      +61.0401135025      Fax --
 
    Domain servers in listed order:
       NS1.NATIONALNET.COM
       NS2.NATIONALNET.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=BRITAINSBOYS.COM

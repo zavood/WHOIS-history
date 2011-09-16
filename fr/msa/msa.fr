@@ -1,0 +1,116 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; msa.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      msa.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CCDL31-FRNIC
+admin-c:     OM822-FRNIC
+tech-c:      OH251-FRNIC
+tech-c:      LG97-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1833-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 08/01
+created:     08/01/1998
+last-update: 07/04/2010
+source:      FRNIC
+
+ns-list:     NSL1833-FRNIC
+nserver:     pan.getima.fr [194.250.175.132]
+nserver:     ns2.oleane.net
+nserver:     ns3.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     CCDL31-FRNIC
+type:        ORGANIZATION
+contact:     Caisse Centrale de la Mutualite Sociale Agricole
+address:     CAISSE CENTRAL MUTUALITE SOCIALE CCMSA
+address:     les Mercuriales
+address:     40, rue Jean Jaures
+address:     93170 Bagnolet
+country:     FR
+phone:       +33 1 41 63 77 77
+fax-no:      +33 1 41 63 77 77
+e-mail:      GESTIONNOMSDNSDNSCCMSA.GRPREC@cimafap.msa.fr
+changed:     28/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     OM822-FRNIC
+type:        PERSON
+contact:     Olivier Merlen
+address:     cimafap
+address:     66, rue de lile
+address:     59710 Avelin
+country:     FR
+phone:       +33 1 41 63 77 77
+fax-no:      +33 3 20 16 54 08
+e-mail:      gestionnomsdnsccmsa.grprec@cimafap.msa.fr
+changed:     28/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LG97-FRNIC
+type:        PERSON
+contact:     Laure Grac
+address:     CIMAFAP
+address:     39, boulevard des Bouvets
+address:     92741 Nanterre
+country:     FR
+phone:       +33 1 47 75 65 64
+fax-no:      +33 1 47 75 65 65
+e-mail:      grac.laure@cimafap.msa.fr
+changed:     07/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
