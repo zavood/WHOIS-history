@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 17-sep-2007
    Expiration Date: 17-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 21:55:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 10:28:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -63,10 +63,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 174.142.225.246
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain mlenny.com
-% Timestamp: 2011-09-13 23:56:16
+% Timestamp: 2011-09-16 12:29:35
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

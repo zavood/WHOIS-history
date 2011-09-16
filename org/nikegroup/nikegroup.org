@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D163178933-LROR
+Domain Name:NIKEGROUP.ORG
+Created On:30-Aug-2011 13:02:43 UTC
+Last Updated On:30-Aug-2011 13:04:39 UTC
+Expiration Date:30-Aug-2012 13:02:43 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:TRANSFER PROHIBITED
+Registrant ID:C131466514192593
+Registrant Name:kumin
+Registrant Organization:kuminkoho
+Registrant Street1:1-5-25, Shiba-koen
+Registrant Street2:1-5-25, Shiba-koen
+Registrant Street3:
+Registrant City:Minato-ku
+Registrant State/Province:Tokyo
+Registrant Postal Code:105-8511
+Registrant Country:JP
+Registrant Phone:+81.08140419579
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sinh1273@gmail.com
+Admin ID:C131466514192590
+Admin Name:kumin koho
+Admin Organization:kuminkoho
+Admin Street1:1-5-25, Shiba-koen
+Admin Street2:1-5-25, Shiba-koen
+Admin Street3:
+Admin City:Minato-ku
+Admin State/Province:Tokyo
+Admin Postal Code:105-8511
+Admin Country:JP
+Admin Phone:+81.08140419579
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sinh1273@gmail.com
+Tech ID:C131466514192592
+Tech Name:kumin koho
+Tech Organization:kuminkoho
+Tech Street1:1-5-25, Shiba-koen
+Tech Street2:1-5-25, Shiba-koen
+Tech Street3:
+Tech City:Minato-ku
+Tech State/Province:Tokyo
+Tech Postal Code:105-8511
+Tech Country:JP
+Tech Phone:+81.08140419579
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sinh1273@gmail.com
+Name Server:NS1.VISIONDNS.NET
+Name Server:NS2.VISIONDNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

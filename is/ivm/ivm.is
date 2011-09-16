@@ -1,0 +1,49 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       ivm.is
+descr:        &Iacute;slensk veraldars&yacute;n ehf
+descr:        Strandg&ouml;tu 25
+descr:        IS-220 Hafnarfj&ouml;r&eth;ur
+admin-c:      TR3651-IS
+tech-c:       TR3651-IS
+zone-c:       IZ1-IS
+billing-c:    IVE4-IS
+nserver:      ns0.c.is
+nserver:      ns2.c.is
+created:      January 19 2000
+expires:      January 19 2012
+source:       ISNIC
+
+person:       &THORN;&oacute;r&eth;ur Reynisson
+address:      &Iacute;slensk Veraldars&yacute;n ehf
+address:      B&aelig;jarhrauni 14
+address:      IS-220 Hafnarfj&ouml;r&eth;ur
+phone:        +354 698 1259
+e-mail:       thordur@icelandicvision.com
+nic-hdl:      TR3651-IS
+created:      January 19 2000
+source:       ISNIC
+
+role:         &Iacute;slensk vefmenning ehf
+address:      R&aacute;narg&ouml;tu 34
+address:      IS-101 Reykjav&iacute;k
+phone:        +354 581 2770
+e-mail:       tjorvibj@hi.is
+nic-hdl:      IVE4-IS
+created:      September 30 2002
+source:       ISNIC
+
+role:         ISLNET Zonemaster
+address:      Og Fjarskipti ehf
+address:      Sk&uacute;tuvogur 2
+address:      IS-104 Reykjav&iacute;k
+phone:        +354 599 9000
+e-mail:       nic@vodafone.is
+nic-hdl:      IZ1-IS
+created:      May 15 2003
+source:       ISNIC
+
+

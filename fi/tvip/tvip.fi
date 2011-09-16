@@ -1,0 +1,19 @@
+
+domain:   tvip.fi
+descr:    Tietovelhot Oy
+descr:    20910482
+address:  Hallitus
+address:  Viinikankatu 36
+address:  33800
+address:  Tampere
+phone:    050 5950047
+status:   Granted
+created:  6.2.2007
+expires:  6.2.2015
+nserver: ns1.tvip.fi [OK] 81.19.120.11
+nserver: ns2.tvip.fi [OK] 81.19.120.12
+nserver: ns3.tvip.fi [OK] 81.19.120.13
+nserver: ns5.tvip.fi [OK] 81.19.123.171
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

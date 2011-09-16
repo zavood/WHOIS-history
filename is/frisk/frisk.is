@@ -1,0 +1,42 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       frisk.is
+descr:        Fri&eth;rik Sk&uacute;lason ehf
+descr:        &THORN;verholti 18
+descr:        IS-105 Reykjav&iacute;k
+admin-c:      FSE1-IS
+tech-c:       HBM2-IS
+zone-c:       HBM2-IS
+billing-c:    FSE1-IS
+nserver:      ns1.f-prot.com
+nserver:      ns2.f-prot.com
+nserver:      ns0.c.is
+nserver:      ns1.c.is
+created:      September 25 2000
+expires:      September 25 2012
+source:       ISNIC
+
+person:       Helgi Briem Magn&uacute;sson
+address:      Fri&eth;rik Sk&uacute;lason ehf
+address:      &THORN;verholti 18
+address:      IS-105 Reykjav&iacute;k
+phone:        +354 824 7410
+e-mail:       admins@f-prot.com
+nic-hdl:      HBM2-IS
+created:      April 28 2006
+source:       ISNIC
+
+role:         Fri&eth;rik Sk&uacute;lason ehf
+address:      &THORN;verholti 18
+address:      IS-105 Reykjav&iacute;k
+phone:        +354 540 7400
+fax-no:       +354 540 7401
+e-mail:       software@f-prot.com
+nic-hdl:      FSE1-IS
+created:      September 30 2002
+source:       ISNIC
+
+

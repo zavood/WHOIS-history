@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6632005-LROR
+Domain Name:AIRTRAVELCARD.ORG
+Created On:19-May-1999 20:04:37 UTC
+Last Updated On:20-Apr-2011 10:00:03 UTC
+Expiration Date:19-May-2012 20:05:13 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:F4E1B3D7309FCD6E
+Registrant Name:Network Operations
+Registrant Organization:Leapfrog Services, Inc.
+Registrant Street1:1190 West Druid Hills Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Atlanta
+Registrant State/Province:GA
+Registrant Postal Code:30329
+Registrant Country:US
+Registrant Phone:+1.4048702122
+Registrant Phone Ext.:
+Registrant FAX:+1.4048702123
+Registrant FAX Ext.:
+Registrant Email:netops@ribbit.net
+Admin ID:F4E1B3D7309FCD6E
+Admin Name:Network Operations
+Admin Organization:Leapfrog Services, Inc.
+Admin Street1:1190 West Druid Hills Drive
+Admin Street2:
+Admin Street3:
+Admin City:Atlanta
+Admin State/Province:GA
+Admin Postal Code:30329
+Admin Country:US
+Admin Phone:+1.4048702122
+Admin Phone Ext.:
+Admin FAX:+1.4048702123
+Admin FAX Ext.:
+Admin Email:netops@ribbit.net
+Tech ID:F4E1B3D7309FCD6E
+Tech Name:Network Operations
+Tech Organization:Leapfrog Services, Inc.
+Tech Street1:1190 West Druid Hills Drive
+Tech Street2:
+Tech Street3:
+Tech City:Atlanta
+Tech State/Province:GA
+Tech Postal Code:30329
+Tech Country:US
+Tech Phone:+1.4048702122
+Tech Phone Ext.:
+Tech FAX:+1.4048702123
+Tech FAX Ext.:
+Tech Email:netops@ribbit.net
+Name Server:DNS1.1SOURCING.NET
+Name Server:DNS2.1SOURCING.NET
+Name Server:DNS3.1SOURCING.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

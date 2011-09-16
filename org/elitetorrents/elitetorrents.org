@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104608983-LROR
+Domain Name:ELITETORRENTS.ORG
+Created On:07-Jul-2004 23:51:37 UTC
+Last Updated On:06-Aug-2011 00:25:54 UTC
+Expiration Date:07-Jul-2012 23:51:37 UTC
+Sponsoring Registrar:EvoPlus Ltd. (R1823-LROR)
+Status:OK
+Registrant ID:EVN_4227026
+Registrant Name:Proxy Private Registration
+Registrant Organization:WhoisProtectService.net
+Registrant Street1:ATTN: Private Registrations
+Registrant Street2:27 Old Gloucester street
+Registrant Street3:
+Registrant City:London
+Registrant State/Province:
+Registrant Postal Code:WC1N 3AX
+Registrant Country:GB
+Registrant Phone:+44.02074195061
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:elitetorrents.org@whoisprotectservice.net
+Admin ID:EVN_4227026
+Admin Name:Proxy Private Registration
+Admin Organization:WhoisProtectService.net
+Admin Street1:ATTN: Private Registrations
+Admin Street2:27 Old Gloucester street
+Admin Street3:
+Admin City:London
+Admin State/Province:
+Admin Postal Code:WC1N 3AX
+Admin Country:GB
+Admin Phone:+44.02074195061
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:elitetorrents.org@whoisprotectservice.net
+Tech ID:EVN_4227026
+Tech Name:Proxy Private Registration
+Tech Organization:WhoisProtectService.net
+Tech Street1:ATTN: Private Registrations
+Tech Street2:27 Old Gloucester street
+Tech Street3:
+Tech City:London
+Tech State/Province:
+Tech Postal Code:WC1N 3AX
+Tech Country:GB
+Tech Phone:+44.02074195061
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:elitetorrents.org@whoisprotectservice.net
+Name Server:NS3.FASTVPS.RU
+Name Server:NS4.FASTVPS.RU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

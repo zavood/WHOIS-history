@@ -1,0 +1,68 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-16T22:37:25+12:00
+domain_name: vls.co.nz
+query_status: 200 Active
+domain_dateregistered: 2000-11-06T00:00:00+13:00
+domain_datebilleduntil: 2014-11-06T19:45:22+13:00
+domain_datelastmodified: 2009-11-06T08:40:34+13:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Domainz Limited
+registrar_address1: Private Bag 1810
+registrar_city: Wellington
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 473 4567
+registrar_fax: +64 4 473 4569
+registrar_email: 4service@domainz.net.nz
+%
+registrant_contact_name: Vanguard logistics Services (NZ) Limited
+registrant_contact_address1: PO Box 107056, Auckland Airport
+registrant_contact_address2: 131 Montgomerie Rd, Mangere
+registrant_contact_city: AUCKLAND
+registrant_contact_postalcode: 2022
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 9 916 0676
+registrant_contact_fax: +64 9 916 0660
+registrant_contact_email: paul.pashchenko@vls.co.nz
+%
+admin_contact_name: Paul Pashchenko
+admin_contact_address1: PO Box 107056, Auckland Airport
+admin_contact_address2: 131 Montgomerie Rd, Mangere
+admin_contact_city: AUCKLAND
+admin_contact_postalcode: 2022
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 9 916 0676
+admin_contact_fax: +64 9 916 0660
+admin_contact_email: paul.pashchenko@vls.co.nz
+%
+technical_contact_name: Paul Caskie
+technical_contact_address1: PO Box 107056
+technical_contact_address2: Airport Oaks, Auckland  NZ
+technical_contact_city: Airport Oaks, Auckland  NZ
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 99 160650
+technical_contact_email: michael.gomez@otslogisticsgroup.com
+%
+ns_name_01: auth00.ns.uu.net
+ns_name_02: auth100.ns.uu.net
+ns_name_03: sun.nacaworld.com
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

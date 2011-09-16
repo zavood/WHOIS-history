@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 24-aug-1999
    Expiration Date: 24-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:08:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 10:23:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,7 +74,7 @@ status:       lock
 created:      1999-08-24 00:21:38 UTC
 modified:     2010-08-23 09:36:21 UTC
 expires:      2012-08-24 04:21:38 UTC
-query-source: 174.142.225.246
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-24984
 person:       Martijn Tonies
@@ -87,8 +87,8 @@ country:      NL
 phone:        +31.628471792
 
 source:       joker.com live whois service
-query-time:   0.017077
-db-updated:   2011-09-14 23:09:24
+query-time:   0.016155
+db-updated:   2011-09-16 10:24:40
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

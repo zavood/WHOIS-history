@@ -6,17 +6,17 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
    Domain Name: LOVEZH.COM
-   Registrar: 35 TECHNOLOGY CO., LTD
-   Whois Server: whois.35.com
-   Referral URL: http://www.35.com
-   Name Server: CN1.ONLINENIC.NET
-   Name Server: CN2.ONLINENIC.NET
-   Status: pendingDelete
-   Updated Date: 08-sep-2011
-   Creation Date: 30-jun-2004
-   Expiration Date: 30-jun-2011
+   Registrar: HANGZHOU AIMING NETWORK CO.,LTD
+   Whois Server: whois.22.cn
+   Referral URL: http://www.22.cn
+   Name Server: NS1.22.CN
+   Name Server: NS2.22.CN
+   Status: ok
+   Updated Date: 14-sep-2011
+   Creation Date: 14-sep-2011
+   Expiration Date: 14-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 10:53:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 10:33:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +51,44 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+
+Domain name: lovezh.com
+
+Registrant Contact:
+  huzhongwen
+  huzhongwen
+  hao123hzw@163.com
+  tel: 0731-52671012
+  fax: 0731-52671012
+  huashizhenbeidoucunhepingzu
+  CN
+
+Administrative Contact:
+  huzhongwen
+  huzhongwen
+  hao123hzw@163.com
+  tel: 0731-52671012
+  fax: 0731-52671012
+  huashizhenbeidoucunhepingzu
+  CN
+
+Technical Contact:
+  huzhongwen
+  huzhongwen
+  hao123hzw@163.com
+  tel: 0731-52671012
+  fax: 0731-52671012
+  huashizhenbeidoucunhepingzu
+  CN
+
+Billing Contact:
+  huzhongwen
+  huzhongwen
+  hao123hzw@163.com
+  tel: 0731-52671012
+  fax: 0731-52671012
+  huashizhenbeidoucunhepingzu
+  CN
+
+
