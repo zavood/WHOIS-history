@@ -1,0 +1,92 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; anwebcam.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      anwebcam.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    HDT44-FRNIC
+admin-c:     JMF386-FRNIC
+tech-c:      JK237-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL7177-FRNIC
+registrar:   COEUR INTERNET FRANCE
+anniversary: 04/03
+created:     04/03/2010
+last-update: 04/03/2010
+source:      FRNIC
+
+ns-list:     NSL7177-FRNIC
+nserver:     ns.mainnameserver.com
+nserver:     ns2.mainnameserver.com
+source:      FRNIC
+
+registrar:   COEUR INTERNET FRANCE
+type:        Isp Option 1
+address:     Chemin d'Enrobert
+address:     GIMONT
+country:     FR
+phone:       +33 5 62 67 61 16
+fax-no:      +33 5 62 67 91 47
+e-mail:      contact@coeur-internet.fr
+website:     http://www.coeur-internet.fr
+anonymous:   NO
+registered:  19/05/2005
+source:      FRNIC
+
+nic-hdl:     HDT44-FRNIC
+type:        ORGANIZATION
+contact:     Histoire du Temps
+address:     4, rue Gustave binger
+address:     67000 Strasbourg
+country:     FR
+phone:       +33 3 88 31 19 51
+e-mail:      jm.fages@laposte.net
+changed:     04/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JMF386-FRNIC
+type:        PERSON
+contact:     Jean-Marc Fages
+address:     Histoire du Temps
+address:     4, rue Gustave binger
+address:     67000 Strasbourg
+country:     FR
+phone:       +33 3 88 31 19 51
+e-mail:      jm.fages@laposte.net
+changed:     15/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JK237-FRNIC
+type:        ROLE
+contact:     John Kirkham
+address:     Coeur Internet
+address:     chemin d'Enrobert
+address:     32200 Gimont
+country:     FR
+e-mail:      j.kirkham@wanadoo.fr
+admin-c:     JK236-FRNIC
+tech-c:      JK236-FRNIC
+changed:     24/06/2005 j.kirkham@wanadoo.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

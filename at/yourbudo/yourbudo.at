@@ -1,0 +1,43 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         yourbudo.at
+registrant:     CGL3145671-NICAT
+admin-c:        CGL3145671-NICAT
+tech-c:         CGL3145671-NICAT
+nserver:        ns.yourhost.at
+nserver:        ns1.freedns.ws
+nserver:        ns1.yourhost.at
+changed:        20081121 17:05:27
+source:         AT-DOM
+
+personname:     Christian Fruth
+organization:   CCF-Global Ltd.
+street address: Gadollaweg 34
+postal code:    8055
+city:           Graz
+country:        Austria
+nic-hdl:        CGL3145671-NICAT
+changed:        20080105 15:01:46
+source:         AT-DOM
+

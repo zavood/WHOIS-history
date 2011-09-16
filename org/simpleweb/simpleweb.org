@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D8817109-LROR
+Domain Name:SIMPLEWEB.ORG
+Created On:04-Aug-1999 09:08:04 UTC
+Last Updated On:05-Aug-2011 01:23:16 UTC
+Expiration Date:04-Aug-2012 09:07:56 UTC
+Sponsoring Registrar:Key-Systems GmbH (R51-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:P-37514545
+Registrant Name:Gert A Meijerink
+Registrant Organization:University Twente dept. CIV
+Registrant Street1:Postbox 217
+Registrant Street2:
+Registrant Street3:
+Registrant City:Enschede
+Registrant State/Province:
+Registrant Postal Code:7500 AE
+Registrant Country:NL
+Registrant Phone:+31.534892326
+Registrant Phone Ext.:
+Registrant FAX:+31.534892383
+Registrant FAX Ext.:
+Registrant Email:g.a.meijerink@utwente.nl
+Admin ID:P-37514545
+Admin Name:Gert A Meijerink
+Admin Organization:University Twente dept. CIV
+Admin Street1:Postbox 217
+Admin Street2:
+Admin Street3:
+Admin City:Enschede
+Admin State/Province:
+Admin Postal Code:7500 AE
+Admin Country:NL
+Admin Phone:+31.534892326
+Admin Phone Ext.:
+Admin FAX:+31.534892383
+Admin FAX Ext.:
+Admin Email:g.a.meijerink@utwente.nl
+Tech ID:P-37514545
+Tech Name:Gert A Meijerink
+Tech Organization:University Twente dept. CIV
+Tech Street1:Postbox 217
+Tech Street2:
+Tech Street3:
+Tech City:Enschede
+Tech State/Province:
+Tech Postal Code:7500 AE
+Tech Country:NL
+Tech Phone:+31.534892326
+Tech Phone Ext.:
+Tech FAX:+31.534892383
+Tech FAX Ext.:
+Tech Email:g.a.meijerink@utwente.nl
+Name Server:NS1.UTWENTE.NL
+Name Server:NS2.UTWENTE.NL
+Name Server:ROTTERDAM.EWI.UTWENTE.NL
+Name Server:DENHAAG.EWI.UTWENTE.NL
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
