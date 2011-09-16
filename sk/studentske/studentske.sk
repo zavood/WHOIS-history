@@ -1,0 +1,24 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         studentske.sk
+Admin-id            JNCH-0012
+Admin-name          Jan Chlebik SKonline Group
+Admin-legal-form    zivnost
+Admin-org.-ID       41836111
+Admin-address       CSA 29, Myjava 90701
+Admin-telephone     4212346216261, 421905525129
+Admin-email         jan@skonline.sk
+Tech-id             ZONE-0002
+Tech-name           Zoner, s.r.o.
+Tech-org.-ID        35770929
+Tech-address        Kopcianska 94, Bratislava 85101
+Tech-telephone      +421-2-63815272, +421-2-68265986
+dns_name            ns1.slovaknet.sk
+dns_name            ns2.slovnet.com
+Last-update         2011-06-07
+Valid-date          2012-06-22
+Domain-status       DOM_OK
+

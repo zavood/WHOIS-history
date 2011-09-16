@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 22-apr-2010
    Expiration Date: 22-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:49:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 20:30:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -72,7 +72,7 @@ status:       lock
 created:      2010-04-22 15:32:37 UTC
 modified:     2011-04-11 12:18:18 UTC
 expires:      2012-04-22 15:32:37 UTC
-query-source: 174.142.225.246
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-1449546
 person:       Alexander Pravda
@@ -86,8 +86,8 @@ country:      SK
 phone:        +421.948505311
 
 source:       joker.com live whois service
-query-time:   0.019033
-db-updated:   2011-09-14 16:50:22
+query-time:   0.023254
+db-updated:   2011-09-16 20:31:09
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

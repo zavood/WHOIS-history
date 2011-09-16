@@ -16,9 +16,9 @@ Tech-org.-ID        36767085
 Tech-address        Kpt. Jarosa 7, Banska Bystrica 97411
 Tech-telephone      0908 935 999
 dns_name            ns.grinet.sk
-dns_ip              195.168.11.36
+dns_IPv4            195.168.11.36
 dns_name            ns2.grinet.sk
-dns_ip              91.210.181.82
+dns_IPv4            91.210.181.82
 Last-update         2011-03-01
 Valid-date          2012-03-26
 Domain-status       DOM_OK

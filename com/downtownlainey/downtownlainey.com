@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 16-jan-2001
    Expiration Date: 16-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:22:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 20:38:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,84 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- downtownlainey
- 1005-95 Lombard St.
- Toronto, ON M5C 2V3
- CA
-
- Domain name: DOWNTOWNLAINEY.COM
-
-
- Administrative Contact:
-    Iannuzziello, Elaine  downtownlainey@sympatico.ca
-    1005-95 Lombard St.
-    Toronto, ON M5C 2V3
-    CA
-    416-363-5243
- Technical Contact:
-    Admin, Network  postmaster@easyhosting.com
-    5415 Dundas Street West
-    SUITE 207
-    Toronto, ON M9B 1B5
-    CA
-    (416) 233-7150    Fax: (416) 233-6970
-
-
-
- Registration Service Provider:
-    Easy Hosting, dns@easyhosting.com
-    1-888-390-1210
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions.
-
-
- Registrar of Record: TUCOWS, INC.
- Record last updated on 27-May-2011.
- Record expires on 16-Jan-2012.
- Record created on 16-Jan-2001.
-
- Registrar Domain Name Help Center:
-    http://tucowsdomains.com
-
- Domain servers in listed order:
-    NS3.EASYHOSTING.COM
-    NS2.EASYHOSTING.COM
-    NS1.EASYHOSTING.COM
-
-
- Domain status: clientDeleteProhibited
-
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-Tucows makes this information available &quot;as is,&quot; and does not guarantee its
-accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Tucows.
-
-Tucows reserves the right to terminate your access to the Tucows WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
-
-Tucows reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
-
+IP Address: 67.231.254.15
+Maximum Daily connection limit reached. Lookup refused.

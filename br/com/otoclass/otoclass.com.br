@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 17:29:05 (BRT -03:00)
+
+domain:      otoclass.com.br
+owner:       OTOCLASS COM&Eacute;RCIO DE APARELHOS AUDITIVOS LTDA
+ownerid:     007.235.151/0001-78
+responsible: Jair Pimentel
+country:     BR
+owner-c:     REANT11
+admin-c:     REANT11
+tech-c:      DPL229
+billing-c:   REANT11
+nserver:     ns1.hostmonster.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.hostmonster.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20090601 #5604896
+expires:     20120601
+changed:     20110810
+status:      published
+
+nic-hdl-br:  DPL229
+person:      Divulga&ccedil;&atilde;o Publicidade Ltda.
+e-mail:      webmaster@grupodmp.com.br
+created:     20040505
+changed:     20091227
+
+nic-hdl-br:  REANT11
+person:      Regina Antunes
+e-mail:      drppimentel@hotmail.com
+created:     20090528
+changed:     20110810
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

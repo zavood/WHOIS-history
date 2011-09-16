@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 17:26:04 (BRT -03:00)
+
+domain:      refricol.com.br
+owner:       Refricol Ind&uacute;stria e Com&eacute;rcio Marechal Ltda
+ownerid:     076.388.891/0001-67
+responsible: Celso Allebrandt
+country:     BR
+owner-c:     VAD52
+admin-c:     VAD52
+tech-c:      VAD52
+billing-c:   VAD52
+nserver:     ns1.rondotec.net.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.rondotec.net.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     19980522 #99217
+expires:     20120522
+changed:     20110503
+status:      published
+
+nic-hdl-br:  VAD52
+person:      Valmor Drechsler
+e-mail:      valmor@rondotec.com.br
+created:     20030317
+changed:     20100318
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

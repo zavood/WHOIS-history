@@ -12,11 +12,11 @@ for detailed information.
    Name Server: NS.MITONCZ.COM
    Name Server: ROUTER.PROFIMEDIA.CZ
    Status: clientTransferProhibited
-   Updated Date: 11-aug-2011
+   Updated Date: 12-sep-2011
    Creation Date: 29-jan-2001
-   Expiration Date: 29-jan-2013
+   Expiration Date: 29-jan-2015
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 10:20:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 20:27:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,9 +67,9 @@ nserver:      ns.mitoncz.com 87.236.194.62
 nserver:      router.profimedia.cz
 status:       lock
 created:      2001-01-29 14:55:38 UTC
-modified:     2011-08-11 14:28:25 UTC
-expires:      2013-01-29 19:55:38 UTC
-query-source: 95.154.230.221
+modified:     2011-09-12 14:14:54 UTC
+expires:      2015-01-29 19:55:38 UTC
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-131261
 person:       Petr Novak
@@ -92,8 +92,8 @@ country:      CZ
 phone:        +420.480020191
 
 source:       joker.com live whois service
-query-time:   0.012114
-db-updated:   2011-09-10 10:21:12
+query-time:   0.037595
+db-updated:   2011-09-16 20:28:01
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

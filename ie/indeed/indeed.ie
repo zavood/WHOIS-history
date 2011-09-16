@@ -1,0 +1,26 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      indeed.ie
+descr:       Indeed, Inc
+descr:       BODY CORPORATE (LTD,PLC,COMPANY)
+descr:       Corporate Name
+admin-c:     AIW770-IEDR
+tech-c:      CCA7-IEDR
+renewal:     15-December-2012
+status:      Active
+nserver:     ns1.p01.dynect.net
+nserver:     ns2.p01.dynect.net
+nserver:     ns3.p01.dynect.net
+nserver:     ns4.p01.dynect.net
+source:      IEDR
+
+person:      Rony Cahan
+nic-hdl:     AIW770-IEDR
+source:      IEDR
+
+person:      eMarkmonitor Inc
+nic-hdl:     CCA7-IEDR
+source:      IEDR
+

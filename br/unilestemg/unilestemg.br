@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 17:28:53 (BRT -03:00)
+
+domain:      unilestemg.br
+owner:       Uni&atilde;o Brasiliense de Educa&ccedil;&atilde;o e Cultura
+ownerid:     000.331.801/0006-44
+responsible: Venicio Elmar de Oliveira Junior
+country:     BR
+owner-c:     UNIMG2
+admin-c:     UNIMG2
+tech-c:      UNIMG2
+billing-c:   UNIMG2
+nserver:     plutao.unilestemg.br 200.165.58.209
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     netuno.unilestemg.br 200.165.58.210
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20000613 #363033
+changed:     20100622
+status:      published
+
+nic-hdl-br:  UNIMG2
+person:      Unileste MG
+e-mail:      redes@unilestemg.br
+created:     20100507
+changed:     20100816
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

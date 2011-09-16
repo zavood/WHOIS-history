@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 07-mar-2007
    Expiration Date: 07-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:02:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 20:38:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,35 +84,29 @@ Domain servers in listed order:
 	 ns13.chaiyohosting.com 	 ns14.chaiyohosting.com
 
 Administrator:
+	 Name-- Chaiyo Hosting Co., Ltd.
+ EMail-: (support@chaiyohosting.com)
+ tel --: +66.23760580
+	 org: Chaiyo Hosting Co., Ltd.
 	 3312/33-34 2-3 FL Zone A Soi Ladprao 101 Ladprao rd.
-	 Klongchan Bangkapi
-Bangkok,
-TH
- 10240
+	 Klongchan Bangkapi,Bangkok,TH 10240
 
-	 name:(Chaiyo Hosting Co., Ltd.)
-mail:(support@chaiyohosting.com) +66.23760580
-	 Chaiyo Hosting Co., Ltd.
 Technical Contactor:
+	 Name-- Chaiyo Hosting Co., Ltd.
+ EMail-: (support@chaiyohosting.com)
+ tel --: +66.23760580
+	 org: Chaiyo Hosting Co., Ltd.
 	 3312/33-34 2-3 FL Zone A Soi Ladprao 101 Ladprao rd.
-	 Klongchan Bangkapi
-Bangkok,
-TH
- 10240
+	 Klongchan Bangkapi,Bangkok,TH 10240
 
-	 name:(Chaiyo Hosting Co., Ltd.)
-mail:(support@chaiyohosting.com) +66.23760580
-	 Chaiyo Hosting Co., Ltd.
 Billing Contactor:
+	 Name-- Chaiyo Hosting Co., Ltd.
+ EMail-: (support@chaiyohosting.com)
+ tel --: +66.23760580
+	 org: Chaiyo Hosting Co., Ltd.
 	 3312/33-34 2-3 FL Zone A Soi Ladprao 101 Ladprao rd.
-	 Klongchan Bangkapi
-Bangkok,
-TH
- 10240
+	 Klongchan Bangkapi,Bangkok,TH 10240
 
-	 name:(Chaiyo Hosting Co., Ltd.)
-mail:(support@chaiyohosting.com) +66.23760580
-	 Chaiyo Hosting Co., Ltd.
 
 Registration Service Provider:
 	name: Chaiyo Hosting Co., Ltd.
