@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159458-LROR
+Domain Name:MORNINGSTARCC.ORG
+Created On:12-Mar-1996 05:00:00 UTC
+Last Updated On:13-Jan-2011 09:50:05 UTC
+Expiration Date:13-Mar-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:24706816-NSI
+Registrant Name:Morningstar Christian Chapel
+Registrant Organization:Morningstar Christian Chapel
+Registrant Street1:16241 Leffingwell Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Whittier
+Registrant State/Province:CA
+Registrant Postal Code:90603-3215
+Registrant Country:US
+Registrant Phone:+1.5629430297
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:lylephillips@morningstarcc.org
+Admin ID:45831051-NSI
+Admin Name:Rod Harris
+Admin Street1:16241 Leffingwell Rd
+Admin Street2:
+Admin Street3:
+Admin City:Whittier
+Admin State/Province:CA
+Admin Postal Code:90603
+Admin Country:US
+Admin Phone:+1.5629430297
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rodharris@morningstarcc.org
+Tech ID:45831051-NSI
+Tech Name:Rod Harris
+Tech Street1:16241 Leffingwell Rd
+Tech Street2:
+Tech Street3:
+Tech City:Whittier
+Tech State/Province:CA
+Tech Postal Code:90603
+Tech Country:US
+Tech Phone:+1.5629430297
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rodharris@morningstarcc.org
+Name Server:NS13.WORLDNIC.COM
+Name Server:NS14.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D90455291-LROR
+Domain Name:PAULSERENO.ORG
+Created On:20-Sep-2002 05:02:48 UTC
+Last Updated On:21-Sep-2010 01:22:27 UTC
+Expiration Date:20-Sep-2011 05:04:05 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-C1P7P3U5XJ17
+Registrant Name:Erik Vecchione
+Registrant Organization:Project Exploration
+Registrant Street1:950 E. 61st Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chicago
+Registrant State/Province:IL
+Registrant Postal Code:60637
+Registrant Country:US
+Registrant Phone:+1.7738347619
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@projectexploration.org
+Admin ID:DOT-O1QLM8PU2F0U
+Admin Name:Erik Vecchione
+Admin Organization:Project Exploration
+Admin Street1:950 E. 61st Street
+Admin Street2:
+Admin Street3:
+Admin City:Chicago
+Admin State/Province:IL
+Admin Postal Code:60637
+Admin Country:US
+Admin Phone:+1.7738347619
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@projectexploration.org
+Tech ID:DOT-H1DS7CU0RTPE
+Tech Name:Erik Vecchione
+Tech Organization:Project Exploration
+Tech Street1:950 E. 61st Street
+Tech Street2:
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:IL
+Tech Postal Code:60637
+Tech Country:US
+Tech Phone:+1.7738347619
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webmaster@projectexploration.org
+Name Server:NS2.INTERMEDIA.NET
+Name Server:NS3.INTERMEDIA.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

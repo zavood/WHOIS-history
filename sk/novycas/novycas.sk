@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         novycas.sk
+Admin-id            EURO-0013
+Admin-name          Ringier Axel Springer Slovakia
+Admin-legal-form    akciova spolocnost
+Admin-org.-ID       678155
+Admin-address       Prievozska 14, Bratislava 82109
+Admin-telephone     58227168, 0918700907
+Admin-email         miloslav.blaho@ringier.sk
+Tech-id             TELE-0028
+Tech-name           GTS Slovakia, a.s.
+Tech-org.-ID        35795662
+Tech-address        Einsteinova 24, Bratislava 851 01
+Tech-telephone      +421232232232 hotline, +421258228111 desk
+Tech-email          registry@gts.sk
+dns_name            ns1.ringier.sk
+dns_name            ns2.ringier.sk
+dns_name            ns3.ringier.sk
+Last-update         2011-01-28
+Valid-date          2012-02-06
+Domain-status       DOM_OK
+

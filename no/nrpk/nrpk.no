@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: NRP21D-NORID
+Domain Name................: nrpk.no
+Domain Holder Handle.......: NROP3O-NORID
+Registrar Handle...........: REG334-NORID
+Legal-c Handle.............: KS4199P-NORID
+Tech-c Handle..............: IAFR5R-NORID
+Tech-c Handle..............: IAFH4R-NORID
+Name Server Handle.........: NSFA33H-NORID
+Name Server Handle.........: NSFA45H-NORID
+
+Additional information:
+Created:         2006-12-15
+Last updated:    2010-12-17
+
+NORID Handle...............: NROP3O-NORID
+Type.......................: organization
+Name.......................: N&Oslash;KLEVANN RO- OG PADLEKLUBB
+Id Type....................: organization_number
+Id Number..................: 982568935
+Registrar Handle...........: REG334-NORID
+Post Address...............: Demningen p&aring; N&oslash;klevann
+Postal Code................: NO-0621
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.22275945
+Email Address..............: ksrby@chello.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

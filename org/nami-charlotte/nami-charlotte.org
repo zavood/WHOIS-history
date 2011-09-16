@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103429095-LROR
+Domain Name:NAMI-CHARLOTTE.ORG
+Created On:09-Dec-2003 23:55:36 UTC
+Last Updated On:20-Jan-2009 15:45:52 UTC
+Expiration Date:09-Dec-2018 23:55:36 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tufnQe09wxCw1hVd
+Registrant Name:William Wesse
+Registrant Organization:NAMI-Charlotte
+Registrant Street1:300 Hawthorne Lane
+Registrant Street2:
+Registrant Street3:
+Registrant City:Charlotte
+Registrant State/Province:NC
+Registrant Postal Code:28204
+Registrant Country:US
+Registrant Phone:+1.7043338218
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cltwwesse@carolina.rr.com
+Admin ID:tufnQe09wxCw1hVd
+Admin Name:William Wesse
+Admin Organization:NAMI-Charlotte
+Admin Street1:300 Hawthorne Lane
+Admin Street2:
+Admin Street3:
+Admin City:Charlotte
+Admin State/Province:NC
+Admin Postal Code:28204
+Admin Country:US
+Admin Phone:+1.7043338218
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cltwwesse@carolina.rr.com
+Tech ID:tufnQe09wxCw1hVd
+Tech Name:William Wesse
+Tech Organization:NAMI-Charlotte
+Tech Street1:300 Hawthorne Lane
+Tech Street2:
+Tech Street3:
+Tech City:Charlotte
+Tech State/Province:NC
+Tech Postal Code:28204
+Tech Country:US
+Tech Phone:+1.7043338218
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cltwwesse@carolina.rr.com
+Name Server:NS7.READYHOSTING.COM
+Name Server:NS8.READYHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

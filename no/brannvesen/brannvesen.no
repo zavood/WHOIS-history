@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: BRA2804D-NORID
+Domain Name................: brannvesen.no
+Domain Holder Handle.......: OEK4O-NORID
+Registrar Handle...........: REG334-NORID
+Legal-c Handle.............: HO927P-NORID
+Tech-c Handle..............: IAFR5R-NORID
+Tech-c Handle..............: IAFH4R-NORID
+Name Server Handle.........: NSFA33H-NORID
+Name Server Handle.........: NSFA45H-NORID
+
+Additional information:
+Created:         2001-02-28
+Last updated:    2011-03-02
+
+NORID Handle...............: OEK4O-NORID
+Type.......................: organization
+Name.......................: &Oslash;VRE EIKER KOMMUNE
+Id Type....................: organization_number
+Id Number..................: 954597482
+Registrar Handle...........: REG334-NORID
+Post Address...............: Stasjonsgaten 24
+Postal Code................: NO-3300
+Postal Area................: HOKKSUND
+Country....................: NO
+Phone Number...............: +47.32251000
+Fax Number.................: +47.32251090
+Email Address..............: terje.wollertsen@ovre-eiker.kommune.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

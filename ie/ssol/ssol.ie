@@ -1,0 +1,26 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      ssol.ie
+descr:       Safe Surfing Online Limited
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     AFX498-IEDR
+tech-c:      AAM456-IEDR
+renewal:     23-October-2011
+status:      Active
+nserver:     ns1.ssol.ie 195.2.202.34
+nserver:     ns2.ssol.ie 195.2.202.35
+nserver:     puck.nether.net
+nserver:     ns1.orionnetworks.ie
+source:      IEDR
+
+person:      Ronan Nicholson
+nic-hdl:     AFX498-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107978979-LROR
+Domain Name:POWERCABLE.ORG
+Created On:28-Oct-2005 15:15:50 UTC
+Last Updated On:29-Aug-2010 06:43:15 UTC
+Expiration Date:28-Oct-2015 15:15:50 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:16074461-NSI
+Registrant Name:Michelle Sweet
+Registrant Organization:Quail Electronics, Inc.
+Registrant Street1:2171 RESEARCH DR
+Registrant Street2:
+Registrant Street3:
+Registrant City:LIVERMORE
+Registrant State/Province:CA
+Registrant Postal Code:94550-3805
+Registrant Country:US
+Registrant Phone:+1.9253736700
+Registrant Phone Ext.:
+Registrant FAX:+1.9253737099
+Registrant FAX Ext.:
+Registrant Email:marketing@quail.com
+Admin ID:16074461-NSI
+Admin Name:Michelle Sweet
+Admin Organization:Quail Electronics, Inc.
+Admin Street1:2171 RESEARCH DR
+Admin Street2:
+Admin Street3:
+Admin City:LIVERMORE
+Admin State/Province:CA
+Admin Postal Code:94550-3805
+Admin Country:US
+Admin Phone:+1.9253736700
+Admin Phone Ext.:
+Admin FAX:+1.9253737099
+Admin FAX Ext.:
+Admin Email:marketing@quail.com
+Tech ID:16074461-NSI
+Tech Name:Michelle Sweet
+Tech Organization:Quail Electronics, Inc.
+Tech Street1:2171 RESEARCH DR
+Tech Street2:
+Tech Street3:
+Tech City:LIVERMORE
+Tech State/Province:CA
+Tech Postal Code:94550-3805
+Tech Country:US
+Tech Phone:+1.9253736700
+Tech Phone Ext.:
+Tech FAX:+1.9253737099
+Tech FAX Ext.:
+Tech Email:marketing@quail.com
+Name Server:NS53.WORLDNIC.COM
+Name Server:NS54.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
