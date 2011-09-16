@@ -11,14 +11,12 @@ for detailed information.
    Referral URL: http://www.moniker.com
    Name Server: NS1.INFOMYDOMAIN.COM
    Name Server: NS2.INFOMYDOMAIN.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 30-oct-2010
+   Status: ok
+   Updated Date: 12-sep-2011
    Creation Date: 09-apr-2005
    Expiration Date: 08-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 10:45:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 15:13:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -82,54 +80,48 @@ of Moniker.
 Domain Name: WATBOYSWANT.COM
 Registrar: MONIKER
 
-Registrant [3347884]:
-        Moniker Privacy Services WATBOYSWANT.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
+Registrant [3685643]:
+        Domain Administrator manilaindustries@gmail.com
+        Manila Industries, Inc.
+        3843 S. Bristol Street
+        #628
+        Santa Ana
+        CA
+        92704
         US
 
 
-Administrative Contact [3347884]:
-        Moniker Privacy Services WATBOYSWANT.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
+Administrative Contact [3031168]:
+        Domain Administrator manilaindustries@gmail.com
+        3843 S. Bristol Street
+        #628
+        Santa Ana
+        CA
+        92704
         US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
+        Phone: +1.9497431697
 
 
-Billing Contact [3347884]:
-        Moniker Privacy Services WATBOYSWANT.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
+Billing Contact [3031168]:
+        Domain Administrator manilaindustries@gmail.com
+        3843 S. Bristol Street
+        #628
+        Santa Ana
+        CA
+        92704
         US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
+        Phone: +1.9497431697
 
 
-Technical Contact [3347884]:
-        Moniker Privacy Services WATBOYSWANT.COM@monikerprivacy.net
-        Moniker Privacy Services
-        20 SW 27th Ave.
-        Suite 201
-        Pompano Beach
-        FL
-        33069
+Technical Contact [3031168]:
+        Domain Administrator manilaindustries@gmail.com
+        3843 S. Bristol Street
+        #628
+        Santa Ana
+        CA
+        92704
         US
-        Phone: +1.9549848445
-        Fax:   +1.9549699155
+        Phone: +1.9497431697
 
 
 Domain servers in listed order:
@@ -138,7 +130,7 @@ Domain servers in listed order:
         NS2.INFOMYDOMAIN.COM
 
         Record created on:        2010-08-21 17:49:48.687
-        Database last updated on: 2010-10-30 06:46:07.353
+        Database last updated on: 2011-09-12 17:28:41.34
         Domain Expires on:        2011-10-08 23:59:59.0
 
 

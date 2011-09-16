@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 29-jul-2003
    Expiration Date: 29-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 02:21:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 15:17:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 188.72.227.95
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain dsl-startpakete.com
-% Timestamp: 2011-09-11 04:22:18
+% Timestamp: 2011-09-16 17:17:32
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

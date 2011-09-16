@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 12:14:53 (BRT -03:00)
+
+domain:      ignegocios.com.br
+owner:       Internet Group do Brasil SA
+ownerid:     003.368.522/0001-39
+responsible: Andre Galvani
+country:     BR
+owner-c:     INGRE2
+admin-c:     IGGDA
+tech-c:      IGGDA
+billing-c:   IGDCO
+nserver:     dnssec1.ig.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     dnssec2.ig.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20100226 #6556217
+expires:     20120226
+changed:     20110913
+status:      published
+
+nic-hdl-br:  IGDCO
+person:      Internet Group - Dominios Cobranca
+e-mail:      dnscob@ig.com
+created:     20100701
+changed:     20101217
+
+nic-hdl-br:  IGGDA
+person:      iG - Gerencia de Datacenter
+e-mail:      dnsadmin@ig.com
+created:     20091208
+changed:     20101217
+
+nic-hdl-br:  INGRE2
+person:      Internet Group - Registro
+e-mail:      igent@ig.com
+created:     20100701
+changed:     20101222
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

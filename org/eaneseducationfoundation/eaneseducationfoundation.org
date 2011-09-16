@@ -1,1 +1,84 @@
-WHOIS LIMIT EXCEEDED - SEE WWW.PIR.ORG/WHOIS FOR DETAILS
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105776905-LROR
+Domain Name:EANESEDUCATIONFOUNDATION.ORG
+Created On:22-Feb-2005 23:58:43 UTC
+Last Updated On:20-Jan-2011 22:36:51 UTC
+Expiration Date:22-Feb-2014 23:58:43 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-64345XENV406
+Registrant Name:Kaye Kelley
+Registrant Organization:Eanes Education Foundation
+Registrant Street1:601 Camp Craft Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Austin
+Registrant State/Province:TX
+Registrant Postal Code:78746
+Registrant Country:US
+Registrant Phone:+1.5127329065
+Registrant Phone Ext.:
+Registrant FAX:+1.5127329049
+Registrant FAX Ext.:
+Registrant Email:kkelley@eanesisd.net
+Admin ID:DOT-4UVV0G55XXZF
+Admin Name:Kaye Kelley
+Admin Organization:Eanes Education Foundation
+Admin Street1:601 Camp Craft Rd
+Admin Street2:
+Admin Street3:
+Admin City:Austin
+Admin State/Province:TX
+Admin Postal Code:78746
+Admin Country:US
+Admin Phone:+1.5127329065
+Admin Phone Ext.:
+Admin FAX:+1.5127329049
+Admin FAX Ext.:
+Admin Email:kkelley@eanesisd.net
+Tech ID:DOT-A7FAYCGSCKRZ
+Tech Name:Sue Maass
+Tech Organization:Eanes Education Foundation
+Tech Street1:601 Camp Craft Rd
+Tech Street2:
+Tech Street3:
+Tech City:Austin
+Tech State/Province:TX
+Tech Postal Code:78746
+Tech Country:US
+Tech Phone:+1.5127329065
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:kkelley@eanesisd.net
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

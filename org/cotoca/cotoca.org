@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157059750-LROR
+Domain Name:COTOCA.ORG
+Created On:08-Sep-2009 18:23:49 UTC
+Last Updated On:05-Sep-2011 14:50:40 UTC
+Expiration Date:08-Sep-2013 18:23:49 UTC
+Sponsoring Registrar:Dattatec.com de Irazoqui Veronica Palmira (R1737-LROR)
+Status:OK
+Registrant ID:DTTPIR-45379
+Registrant Name:Oscar Velasco
+Registrant Organization:Oscar Velasco
+Registrant Street1:Barrio Alto Delicias  calle Tito Yupanqui 5 B
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sucre
+Registrant State/Province:Chuquisaca
+Registrant Postal Code:520
+Registrant Country:BO
+Registrant Phone:+591.6446827
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:oscarvelascoc@hotmail.com
+Admin ID:DTTPIR-45379
+Admin Name:Oscar Velasco
+Admin Organization:Oscar Velasco
+Admin Street1:Barrio Alto Delicias  calle Tito Yupanqui 5 B
+Admin Street2:
+Admin Street3:
+Admin City:Sucre
+Admin State/Province:Chuquisaca
+Admin Postal Code:520
+Admin Country:BO
+Admin Phone:+591.6446827
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:oscarvelascoc@hotmail.com
+Tech ID:DTTPIR-45379
+Tech Name:Oscar Velasco
+Tech Organization:Oscar Velasco
+Tech Street1:Barrio Alto Delicias  calle Tito Yupanqui 5 B
+Tech Street2:
+Tech Street3:
+Tech City:Sucre
+Tech State/Province:Chuquisaca
+Tech Postal Code:520
+Tech Country:BO
+Tech Phone:+591.6446827
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:oscarvelascoc@hotmail.com
+Name Server:NS1.TRAXHOST.COM
+Name Server:NS2.DATTAELITE.COM
+Name Server:NS21.DATTATEC.COM
+Name Server:NS22.DATTATEC.COM
+Name Server:NS3.HOSTMAR.COM
+Name Server:NS4.HOSTMAR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
