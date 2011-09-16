@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 05:00:49 (BRT -03:00)
+
+domain:      origamy.com.br
+owner:       Alexander Espeschit Bicalho ME
+ownerid:     003.083.894/0001-19
+responsible: Alexander Esppeschit Bica
+country:     BR
+owner-c:     AEB18
+admin-c:     AEB18
+tech-c:      AEB18
+billing-c:   AEB18
+nserver:     ns51.1and1.com
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns52.1and1.com
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     19990430 #157986
+expires:     20120430
+changed:     20110412
+status:      published
+
+nic-hdl-br:  AEB18
+person:      Alexander Espeschit Bicalho
+e-mail:      aebicalho@hotmail.com
+created:     20000716
+changed:     20100730
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

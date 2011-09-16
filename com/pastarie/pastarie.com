@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 06-aug-2010
    Expiration Date: 06-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:59:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:06:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 174.142.225.246
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain pastarie.com
-% Timestamp: 2011-09-15 10:00:29
+% Timestamp: 2011-09-16 10:07:15
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

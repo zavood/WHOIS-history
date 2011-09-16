@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 12-jun-2001
    Expiration Date: 12-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 08:11:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:17:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,14 +77,34 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Joao Pedro Noites
+   Rua Julio Lourenco Pinto
+   N21 4 andar H9
+   Porto, na 4150-004
+   Portugal
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: PINOFIL.COM
+      Created on: 12-Jun-01
+      Expires on: 12-Jun-12
+      Last Updated on: 04-Jun-08
+
+   Administrative Contact:
+      Noites, Joao Pedro  jnoites@hotmail.com
+      Rua Julio Lourenco Pinto
+      N21 4 andar H9
+      Porto, na 4150-004
+      Portugal
+      9999999      Fax --
+
+   Technical Contact:
+      Noites, Joao Pedro  jnoites@hotmail.com
+      Rua Julio Lourenco Pinto
+      N21 4 andar H9
+      Porto, na 4150-004
+      Portugal
+      9999999      Fax --
 
    Domain servers in listed order:
       NS2.MYDOMAIN.COM
       NS1.MYDOMAIN.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=PINOFIL.COM

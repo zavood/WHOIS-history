@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 05:16:22 (BRT -03:00)
+
+domain:      ahora.com.br
+owner:       Empresa Jornal&iacute;stica @HORA Ltda
+ownerid:     001.526.230/0001-51
+responsible: Vicente Jos&eacute; Barone
+country:     BR
+owner-c:     EJL35
+admin-c:     EJL35
+tech-c:      EJL35
+billing-c:   EJL35
+nserver:     a.sec.dns.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     b.sec.dns.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+dsrecord:    54773 RSA/SHA-1 5FE6ED38F4E562CB72CA72E37FD9861C8D731721
+dsstatus:    20110913 DSOK
+dslastok:    20110913
+created:     19990512 #160621
+expires:     20120512
+changed:     20110406
+status:      published
+
+nic-hdl-br:  EJL35
+person:      Empresa Jornal&iacute;stica @HORA ltda
+e-mail:      barone@ahora.com.br
+created:     20010104
+changed:     20030123
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

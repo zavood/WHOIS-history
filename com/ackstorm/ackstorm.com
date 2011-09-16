@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 27-feb-2002
    Expiration Date: 27-feb-2020
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:58:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:17:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -61,10 +61,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 174.142.225.246
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain ackstorm.com
-% Timestamp: 2011-09-14 22:58:31
+% Timestamp: 2011-09-16 10:18:18
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

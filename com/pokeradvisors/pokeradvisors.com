@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 25-nov-2004
    Expiration Date: 25-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:00:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:22:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,14 +77,33 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    GamblingDomains.com
+   2400 Birch Street
+   Alhambra, California 91801
+   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: POKERADVISORS.COM
+      Created on: 25-Nov-04
+      Expires on: 25-Nov-11
+      Last Updated on: 16-Apr-11
+
+   Administrative Contact:
+      Golden, Robert  info@gamblingdomains.com
+      GamblingDomains.com
+      2400 Birch Street
+      Alhambra, California 91801
+      United States
+      +1.6262890103      Fax --
+
+   Technical Contact:
+      Golden, Robert  info@gamblingdomains.com
+      GamblingDomains.com
+      2400 Birch Street
+      Alhambra, California 91801
+      United States
+      +1.6262890103      Fax --
 
    Domain servers in listed order:
       NS1.FABULOUS.COM
       NS2.FABULOUS.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=POKERADVISORS.COM

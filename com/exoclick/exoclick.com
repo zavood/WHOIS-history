@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 01-sep-2006
    Expiration Date: 01-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 08:30:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:14:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,14 +77,36 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    EXOCLICK, S.L.
+   Marina 16-18
+   18B
+   Barcelona, Barcelona 08005
+   Spain
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: EXOCLICK.COM
+      Created on: 01-Sep-06
+      Expires on: 01-Sep-13
+      Last Updated on: 08-Apr-11
+
+   Administrative Contact:
+      Fonze, Benjamin  contact@exoclick.com
+      EXOCLICK, S.L.
+      Marina 16-18
+      18B
+      Barcelona, Barcelona 08005
+      Spain
+      +34.671646725      Fax --
+
+   Technical Contact:
+      Fonze, Benjamin  contact@exoclick.com
+      EXOCLICK, S.L.
+      Marina 16-18
+      18B
+      Barcelona, Barcelona 08005
+      Spain
+      +34.671646725      Fax --
 
    Domain servers in listed order:
       NS1.EXOCLICK.COM
       NS2.EXOCLICK.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=EXOCLICK.COM

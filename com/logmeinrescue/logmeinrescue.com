@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 12-jan-2005
    Expiration Date: 12-jan-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:12:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:06:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,15 +78,34 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    LogMeIn, Inc
+   500 Unicorn Park Drive
+   Woburn, Massachusetts 01801
+   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: LOGMEINRESCUE.COM
+      Created on: 12-Jan-05
+      Expires on: 12-Jan-15
+      Last Updated on: 15-Aug-07
+
+   Administrative Contact:
+      Operations, Network  noc@logmein.com
+      LogMeIn, Inc
+      500 Unicorn Park Drive
+      Woburn, Massachusetts 01801
+      United States
+      +1.8009931790      Fax --
+
+   Technical Contact:
+      Operations, Network  noc@logmein.com
+      LogMeIn, Inc
+      500 Unicorn Park Drive
+      Woburn, Massachusetts 01801
+      United States
+      +1.8009931790      Fax --
 
    Domain servers in listed order:
       NS1.3AMLABS.COM
       NS3.3AMLABS.COM
       NS2.3AMLABS.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=LOGMEINRESCUE.COM
