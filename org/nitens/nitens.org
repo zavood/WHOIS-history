@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D131531115-LROR
+Domain Name:NITENS.ORG
+Created On:25-Oct-2006 14:31:48 UTC
+Last Updated On:26-Oct-2010 01:23:32 UTC
+Expiration Date:25-Oct-2011 14:31:48 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOT-OM3ZVEI1WTNR
+Registrant Name:Dario Taraborelli
+Registrant Street1:Flat 3, 65 Farringdon Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:London
+Registrant State/Province:London
+Registrant Postal Code:EC1M 3JB
+Registrant Country:GB
+Registrant Phone:+44.2074300196
+Registrant Phone Ext.:
+Registrant FAX:+44.1483689551
+Registrant FAX Ext.:
+Registrant Email:dario.taraborelli@gmail.com
+Admin ID:DOT-PFQUH1RV7DA7
+Admin Name:Dario Taraborelli
+Admin Street1:Flat 3, 65 Farringdon Road
+Admin Street2:
+Admin Street3:
+Admin City:London
+Admin State/Province:London
+Admin Postal Code:EC1M 3JB
+Admin Country:GB
+Admin Phone:+44.2074300196
+Admin Phone Ext.:
+Admin FAX:+44.1483689551
+Admin FAX Ext.:
+Admin Email:dario.taraborelli@gmail.com
+Tech ID:DOT-2B1XC2PWRPPD
+Tech Name:Dario Taraborelli
+Tech Street1:Flat 3, 65 Farringdon Road
+Tech Street2:
+Tech Street3:
+Tech City:London
+Tech State/Province:London
+Tech Postal Code:EC1M 3JB
+Tech Country:GB
+Tech Phone:+44.2074300196
+Tech Phone Ext.:
+Tech FAX:+44.1483689551
+Tech FAX Ext.:
+Tech Email:dario.taraborelli@gmail.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

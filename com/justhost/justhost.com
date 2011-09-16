@@ -27,7 +27,6 @@ JUSTHOST.COM.FREETWITTERLAYOUT.NET
 JUSTHOST.COM.FREETWITTERLAYOUT.COM
 JUSTHOST.COM.FORECLOSURECHEMIST.COM
 JUSTHOST.COM.EKTALIMOSERVICE.COM
-JUSTHOST.COM.DTAYLORBOOKS.COM
 JUSTHOST.COM.CONCEPTCLOUD.NET
 JUSTHOST.COM.CARLTONADAMS.COM
 JUSTHOST.COM.CAKEBOSSJUNIOR.COM
@@ -42,7 +41,7 @@ To single out one record, look it up with &quot;xxx&quot;, where xxx is one of t
 of the records displayed above. If the records are the same, look them up
 with &quot;=xxx&quot; to receive a full display for each record.
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:03:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 07:24:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

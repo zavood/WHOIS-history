@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D529876-LROR
+Domain Name:NCMAHQ.ORG
+Created On:04-Dec-1995 05:00:00 UTC
+Last Updated On:17-Nov-2010 15:32:23 UTC
+Expiration Date:03-Dec-2013 05:00:00 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-6J8L2E8I0NO7
+Registrant Name:Will Kohudic
+Registrant Organization:National Contract Management Association
+Registrant Street1:21740 Beaumeade Circle
+Registrant Street2:Suite 125
+Registrant Street3:
+Registrant City:Ashburn
+Registrant State/Province:VA
+Registrant Postal Code:20147
+Registrant Country:US
+Registrant Phone:+1.8003448096
+Registrant Phone Ext.:
+Registrant FAX:+1.7034480939
+Registrant FAX Ext.:
+Registrant Email:wkohudic@ncmahq.org
+Admin ID:DOT-1VXQPUSA5KZK
+Admin Name:Will Kohudic
+Admin Organization:National Contract Management Association
+Admin Street1:21740 Beaumeade Circle
+Admin Street2:Suite 125
+Admin Street3:
+Admin City:Ashburn
+Admin State/Province:VA
+Admin Postal Code:20147
+Admin Country:US
+Admin Phone:+1.8003448096
+Admin Phone Ext.:
+Admin FAX:+1.7034480939
+Admin FAX Ext.:
+Admin Email:wkohudic@ncmahq.org
+Tech ID:DOT-6WIVHZGJTGC0
+Tech Name:Will Kohudic
+Tech Organization:National Contract Management Association
+Tech Street1:21740 Beaumeade Circle
+Tech Street2:Suite 125
+Tech Street3:
+Tech City:Ashburn
+Tech State/Province:VA
+Tech Postal Code:20147
+Tech Country:US
+Tech Phone:+1.8003448096
+Tech Phone Ext.:
+Tech FAX:+1.7034480939
+Tech FAX Ext.:
+Tech Email:wkohudic@ncmahq.org
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

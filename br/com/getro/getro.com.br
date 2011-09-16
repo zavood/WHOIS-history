@@ -1,0 +1,61 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 04:22:52 (BRT -03:00)
+
+domain:      getro.com.br
+owner:       Gr&aacute;fica Moderna Ltda.
+ownerid:     014.462.535/0001-99
+responsible: Getro Guimar&atilde;es
+country:     BR
+owner-c:     GSG54
+admin-c:     GSG54
+tech-c:      HIS5
+billing-c:   GSG54
+nserver:     nsb1.k8.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     nsb2.k8.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     nsb3.k8.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     nsb4.k8.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     nsb5.k8.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     nsb6.k8.com.br
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     20040213 #1527393
+expires:     20120213
+changed:     20100215
+status:      published
+
+nic-hdl-br:  GSG54
+person:      Getro Santa Rosa Guimar&atilde;es
+e-mail:      falecom@getro.com.br
+created:     20040205
+changed:     20060308
+
+nic-hdl-br:  HIS5
+person:      Hostmaster HostNet Networks
+e-mail:      registro@hostnet.com.br
+created:     19981214
+changed:     20070903
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

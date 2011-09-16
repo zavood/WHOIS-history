@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 14-aug-1996
    Expiration Date: 13-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:16:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 07:23:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: nationalsteel.com
 YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 03:11:26 EDT 2011
+Date and Time of Query: Fri Sep 16 03:13:54 EDT 2011
 Reason Code: IE
