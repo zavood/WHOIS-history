@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 08-sep-2008
    Expiration Date: 08-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:07:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 05:21:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -63,8 +63,8 @@ cheap, easy website creation.
 ******************************************************************
 
 Domain Name: 		GLAMLONDON.COM
-Date Created:		Mon 08-September-2008
-Date Expires:		Sat 08-September-2012
+Created Date:		08-Sep-2008
+Expiry Date:		08-Sep-2012
 Nameserver:		ns2.123-reg.co.uk
 Nameserver:		ns.123-reg.co.uk
 Registrant Name:	Daniel Greane
@@ -85,7 +85,7 @@ Technical Address:	Uxbridge
 Technical Address:	Middlesex
 Technical Address:	UB11 1FF
 Technical Address:	United Kingdom
-Technical E-Mail:	services@123-reg.co.uk
+Technical Email:	services@123-reg.co.uk
 Technical Tel:		+44.8712309525
 Technical Fax:		+44.8701650437
 Administrative Name:	Daniel Greane
@@ -97,7 +97,7 @@ Administrative Address:	London
 Administrative Address:	Herts
 Administrative Address:	HA8 2RB
 Administrative Address:	United Kingdom
-Administrative E-Mail:	daniel@greane.co.uk
+Administrative Email:	daniel@greane.co.uk
 Administrative Tel:	+44.7847564756
 Administrative Fax:
 

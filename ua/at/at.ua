@@ -57,7 +57,7 @@ source:         UANIC
 
 % % .UA whois
 
-% Last update of whois database: 15 Sep 2011 08:01:00 +0200 (EET)
+% Last update of whois database: 16 Sep 2011 08:30:06 +0200 (EET)
 
-% Query time:   8 msec
+% Query time:   13 msec
 

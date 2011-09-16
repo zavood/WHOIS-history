@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; dynetcom.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      dynetcom.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    O3985-FRNIC
+admin-c:     CR937-FRNIC
+tech-c:      OH251-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL47328-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 15/03
+created:     15/04/1997
+last-update: 16/03/2011
+source:      FRNIC
+
+ns-list:     NSL47328-FRNIC
+nserver:     ns.dynetcom.fr [194.2.79.2]
+nserver:     ns2.dynetcom.fr [194.2.79.13]
+nserver:     ns0.oleane.net
+nserver:     ns1.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     O3985-FRNIC
+type:        ORGANIZATION
+contact:     OBIANE
+address:     OBIANE
+address:     24, rue Emile Baudot
+address:     91120 Palaiseau
+country:     FR
+phone:       +33 1 64 53 95 00
+fax-no:      +33 1 64 53 95 01
+e-mail:      c.roux@orange-ftgroup.com
+changed:     15/03/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CR937-FRNIC
+type:        PERSON
+contact:     Christian Roux
+address:     OBIANE
+address:     24, rue Emile Baudot
+address:     91120 Palaiseau
+country:     FR
+phone:       +33 1 64 53 95 00
+fax-no:      +33 1 64 53 95 01
+e-mail:      c.roux@orange-ftgroup.com
+changed:     15/03/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
