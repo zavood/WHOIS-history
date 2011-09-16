@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 16-sep-2004
    Expiration Date: 16-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 10:58:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 05:36:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -113,7 +113,7 @@ kelshikar, manish
 
    Record expires on 16-Sep-2013.
    Record created on 16-Sep-2004.
-   Database last updated on 10-Sep-2011 06:49:09 EDT.
+   Database last updated on 16-Sep-2011 01:27:04 EDT.
 
    Domain servers in listed order:
 

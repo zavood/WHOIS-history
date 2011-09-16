@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D81304244-LROR
+Domain Name:TC-TEAM.ORG
+Created On:17-Dec-2001 21:55:59 UTC
+Last Updated On:21-Dec-2010 13:15:13 UTC
+Expiration Date:17-Dec-2011 21:55:59 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30350534
+Registrant Name:Michael McCatty
+Registrant Organization:TEAM
+Registrant Street1:3960 Park Lane St
+Registrant Street2:
+Registrant Street3:
+Registrant City:Traverse City
+Registrant State/Province:Michigan
+Registrant Postal Code:49686
+Registrant Country:US
+Registrant Phone:+1.2319383275
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mikem@villagepress.com
+Admin ID:CR30350536
+Admin Name:Michael McCatty
+Admin Organization:TEAM
+Admin Street1:3960 Park Lane St
+Admin Street2:
+Admin Street3:
+Admin City:Traverse City
+Admin State/Province:Michigan
+Admin Postal Code:49686
+Admin Country:US
+Admin Phone:+1.2319383275
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mikem@villagepress.com
+Tech ID:CR30350535
+Tech Name:Michael McCatty
+Tech Organization:TEAM
+Tech Street1:3960 Park Lane St
+Tech Street2:
+Tech Street3:
+Tech City:Traverse City
+Tech State/Province:Michigan
+Tech Postal Code:49686
+Tech Country:US
+Tech Phone:+1.2319383275
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mikem@villagepress.com
+Name Server:NS2.IRONKEEP.NET
+Name Server:NS1.IRONKEEP.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

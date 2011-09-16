@@ -1,0 +1,84 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 07:32:54 2011
+
+domain:       elaso.cz
+registrant:   SB:VH187-RIPE_XX
+admin-c:      VH187-RIPE
+nsset:        NSS:MP1448-RIPE_XX:1
+registrar:    REG-MIRAMO
+status:       paid and in zone
+registered:   30.11.1997 01:00:00
+changed:      31.10.2003 08:21:00
+expire:       20.10.2011
+
+contact:      SB:VH187-RIPE_XX
+org:          ELASO, spol. s r.o.
+name:         ELASO, spol. s r.o.
+address:      Cechova 560
+address:      Kralupy nad Vltavou
+address:      278 01
+address:      CZ
+e-mail:       elaso@elaso.cz
+registrar:    REG-MIRAMO
+created:      10.08.2001 22:13:00
+
+contact:      VH187-RIPE
+name:         Vladimir Hanzl
+address:      CZ
+phone:        +420 20521612
+fax-no:       +420 20521612
+e-mail:       elaso@elaso.cz
+registrar:    REG-MIRAMO
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:MP1448-RIPE_XX:1
+nserver:      ns.elaso.cz (195.146.96.178)
+nserver:      ns.czcom.cz
+tech-c:       MP1448-RIPE
+tech-c:       SB:MP1448-RIPE_XX
+registrar:    REG-MIRAMO
+created:      01.10.2007 02:00:00
+
+contact:      MP1448-RIPE
+name:         Miloslav Pokorny
+address:      Hurka 1041
+address:      Kralupy nad Vltavou
+address:      278 01
+address:      CZ
+phone:        +420 274008141
+fax-no:       +420 274008141
+e-mail:       admin@spusc.cz
+registrar:    REG-MIRAMO
+created:      10.08.2001 22:13:00
+changed:      11.04.2002 12:16:00
+
+contact:      SB:MP1448-RIPE_XX
+org:          Miloslav Pokorn&Atilde;&frac12;
+name:         Miloslav Pokorn&Atilde;&frac12;
+address:      U cukrovaru 1068
+address:      Kralupy nad Vltavou
+address:      278 01
+address:      CZ
+e-mail:       pokorny@servismen.cz
+registrar:    REG-MIRAMO
+created:      10.08.2001 22:13:00
+changed:      15.02.2007 00:05:00
+
+

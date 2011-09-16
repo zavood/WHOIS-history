@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D67770715-LROR
+Domain Name:MARADNS.ORG
+Created On:14-Mar-2001 01:33:30 UTC
+Last Updated On:23-Jul-2011 15:37:57 UTC
+Expiration Date:14-Mar-2014 01:33:30 UTC
+Sponsoring Registrar:CORE Internet Council of Registrars (R23-LROR)
+Status:OK
+Registrant ID:R23-265766-PIR
+Registrant Name:Sam Trenholme
+Registrant Street1:11 Ote #10
+Registrant Street2:Col. Centro
+Registrant Street3:
+Registrant City:Puebla
+Registrant State/Province:Puebla
+Registrant Postal Code:72000
+Registrant Country:MX
+Registrant Phone:+1.5597671983
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sam-internic@samiam.org
+Admin ID:R23-146867139-P
+Admin Name:Sam Trenholme
+Admin Street1:11 Ote #10
+Admin Street2:Col. Centro
+Admin Street3:
+Admin City:Puebla
+Admin State/Province:Puebla
+Admin Postal Code:72000
+Admin Country:MX
+Admin Phone:+1.5597671983
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sam-internic@samiam.org
+Tech ID:R23-146867139-P
+Tech Name:Sam Trenholme
+Tech Street1:11 Ote #10
+Tech Street2:Col. Centro
+Tech Street3:
+Tech City:Puebla
+Tech State/Province:Puebla
+Tech Postal Code:72000
+Tech Country:MX
+Tech Phone:+1.5597671983
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sam-internic@samiam.org
+Name Server:NS2.MARADNS.ORG
+Name Server:NS1.MARADNS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

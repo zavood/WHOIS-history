@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 09-dec-1999
    Expiration Date: 09-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:26:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 05:42:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain herculespatent.com
-% Timestamp: 2011-09-15 07:27:31
+% Timestamp: 2011-09-16 07:43:30
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

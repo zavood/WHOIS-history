@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D8239798-LROR
+Domain Name:LECHLER.ORG
+Created On:21-Jul-1999 10:27:12 UTC
+Last Updated On:25-Jul-2011 13:06:51 UTC
+Expiration Date:21-Jul-2015 10:27:12 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32216186
+Registrant Name:Robert Lechler
+Registrant Street1:Rhode-Island-Allee 75
+Registrant Street2:
+Registrant Street3:
+Registrant City:Karlsruhe
+Registrant State/Province:
+Registrant Postal Code:76149
+Registrant Country:DE
+Registrant Phone:+7.219375360
+Registrant Phone Ext.:
+Registrant FAX:+7.219375361
+Registrant FAX Ext.:
+Registrant Email:robert@lechler.org
+Admin ID:CR32216188
+Admin Name:Robert Lechler
+Admin Street1:Rhode-Island-Allee 75
+Admin Street2:
+Admin Street3:
+Admin City:Karlsruhe
+Admin State/Province:
+Admin Postal Code:76149
+Admin Country:DE
+Admin Phone:+7.219375360
+Admin Phone Ext.:
+Admin FAX:+7.219375361
+Admin FAX Ext.:
+Admin Email:robert@lechler.org
+Tech ID:CR32216187
+Tech Name:Robert Lechler
+Tech Organization:gamma concept mbH
+Tech Street1:Zaehringerstr. 43
+Tech Street2:
+Tech Street3:
+Tech City:Karlsruhe
+Tech State/Province:
+Tech Postal Code:76133
+Tech Country:DE
+Tech Phone:+7.213545230
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:admin@gamma-concept.de
+Name Server:DNS1.DOMAINCONFIG.NET
+Name Server:DNS2.DOMAINCONFIG.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
