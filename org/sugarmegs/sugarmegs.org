@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2233210-LROR
+Domain Name:SUGARMEGS.ORG
+Created On:07-Jan-1998 05:00:00 UTC
+Last Updated On:27-May-2011 04:19:38 UTC
+Expiration Date:06-Jan-2012 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR35829175
+Registrant Name:Domain Administration
+Registrant Organization:NCR&amp;ASSOCIATES
+Registrant Street1:57 N. Willard Street
+Registrant Street2:Enterprise Suite 100
+Registrant Street3:
+Registrant City:Burlington
+Registrant State/Province:Vermont
+Registrant Postal Code:05401
+Registrant Country:US
+Registrant Phone:+1.5165157594
+Registrant Phone Ext.:
+Registrant FAX:+1.5165157594
+Registrant FAX Ext.:
+Registrant Email:web@nrelation.com
+Admin ID:CR35829177
+Admin Name:Domain Administration
+Admin Organization:NCR&amp;ASSOCIATES
+Admin Street1:57 N. Willard Street
+Admin Street2:Enterprise Suite 100
+Admin Street3:
+Admin City:Burlington
+Admin State/Province:Vermont
+Admin Postal Code:05401
+Admin Country:US
+Admin Phone:+1.5165157594
+Admin Phone Ext.:
+Admin FAX:+1.5165157594
+Admin FAX Ext.:
+Admin Email:web@nrelation.com
+Tech ID:CR35829176
+Tech Name:Domain Administration
+Tech Organization:NCR&amp;ASSOCIATES
+Tech Street1:57 N. Willard Street
+Tech Street2:Enterprise Suite 100
+Tech Street3:
+Tech City:Burlington
+Tech State/Province:Vermont
+Tech Postal Code:05401
+Tech Country:US
+Tech Phone:+1.5165157594
+Tech Phone Ext.:
+Tech FAX:+1.5165157594
+Tech FAX Ext.:
+Tech Email:web@nrelation.com
+Name Server:NS12.ZONEEDIT.COM
+Name Server:NS14.ZONEEDIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

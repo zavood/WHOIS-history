@@ -1,0 +1,104 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; francois-sittler.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      francois-sittler.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SFED14-FRNIC
+admin-c:     MC2899-FRNIC
+tech-c:      HN20-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL8870-FRNIC
+registrar:   NAMEBAY
+anniversary: 14/09
+created:     14/09/2005
+last-update: 16/12/2008
+source:      FRNIC
+
+ns-list:     NSL8870-FRNIC
+nserver:     ns1.nuxit.net
+nserver:     ns2.nuxit.net
+source:      FRNIC
+
+registrar:   NAMEBAY
+type:        Isp Option 1
+address:     27 Boulevard des Moulins
+address:     98000 MONACO
+country:     MC
+phone:       +377 97 70 61 64
+fax-no:      +377 97 97 21 13
+e-mail:      contact@namebay.com
+website:     http://www.namebay.com
+anonymous:   NO
+registered:  18/09/2001
+source:      FRNIC
+
+nic-hdl:     HN20-FRNIC
+type:        ROLE
+contact:     Hostmaster Namebay
+address:     Namebay
+address:     Namebay SAM
+address:     30 bld Princesse Charlotte
+address:     98000 Monaco
+country:     MC
+phone:       +377 97706164
+fax-no:      +377 97972113
+e-mail:      techafnic@namebay.com
+trouble:     http://www.namebay.com
+trouble:     Support : hotline@namebay.com
+trouble:     Spam : abuse@namebay.com
+admin-c:     CV97-FRNIC
+tech-c:      FH448-FRNIC
+tech-c:      BF81-FRNIC
+notify:      techafnic@namebay.com
+changed:     28/09/2001 techafnic@namebay.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SFED14-FRNIC
+type:        ORGANIZATION
+contact:     SARL Francesco Ezzo Diffusion
+address:     bureau Eam Mtg Sud
+address:     33, boulevard Marechal Ju
+address:     06800 Cagnes-sur-Mer
+country:     FR
+phone:       +33 4 93 07 33 25
+e-mail:      f.sittler@free.fr
+changed:     17/07/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     MC2899-FRNIC
+type:        PERSON
+contact:     Mathieu Chouteau
+address:     NUXIT
+address:     les Espaces de Sophia
+address:     80, route des Lucioles
+address:     B.P. 037
+address:     06901 Sophia Antipolis Cedex
+country:     FR
+phone:       +33 8 99 56 36 00
+fax-no:      +33 4 93 65 47 91
+e-mail:      domains@nuxit.net
+changed:     15/12/2008 leslie@namebay.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

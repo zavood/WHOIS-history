@@ -1,0 +1,25 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         slovenska-sporitelna.sk
+Admin-id            SLOV-0062
+Admin-name          Slovenska sporitelna
+Admin-legal-form    akciova spolocnost
+Admin-org.-ID       151653
+Admin-address       Suche myto 4, Bratislava 816 07
+Admin-telephone     5850 3532
+Admin-email         schillova.natalia@slsp.sk
+Tech-id             TELE-0028
+Tech-name           GTS Slovakia, a.s.
+Tech-org.-ID        35795662
+Tech-address        Einsteinova 24, Bratislava 851 01
+Tech-telephone      +421232232232 hotline, +421258228111 desk
+Tech-email          registry@gts.sk
+dns_name            ns.nextra.sk
+dns_name            ns1.nextra.sk
+Last-update         2011-06-14
+Valid-date          2012-07-10
+Domain-status       DOM_OK
+

@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: ELE2058D-NORID
+Domain Name................: elektrodeal.no
+Domain Holder Handle.......: RM245O-NORID
+Registrar Handle...........: REG334-NORID
+Legal-c Handle.............: ER2091P-NORID
+Tech-c Handle..............: IAFR5R-NORID
+Name Server Handle.........: NSFA33H-NORID
+Name Server Handle.........: NSFA45H-NORID
+
+Additional information:
+Created:         2010-12-28
+Last updated:    2010-12-28
+
+NORID Handle...............: RM245O-NORID
+Type.......................: organization
+Name.......................: REMMAN TRADING
+Id Type....................: organization_number
+Id Number..................: 963331886
+Registrar Handle...........: REG334-NORID
+Post Address...............: Steinberget 8
+Postal Code................: NO-7900
+Postal Area................: R&Oslash;RVIK
+Country....................: NO
+Mobile Phone Number........: +47.95171504
+Email Address..............: eivind@namdalsgruppen.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-12-28
+

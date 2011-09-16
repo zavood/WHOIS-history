@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157663613-LROR
+Domain Name:REGISTRDLUZNIKU.ORG
+Created On:23-Nov-2009 16:21:06 UTC
+Last Updated On:08-Nov-2010 21:31:08 UTC
+Expiration Date:23-Nov-2011 16:21:06 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tu5mXWeeUKOrxsZ1
+Registrant Name:Phillip Zardo
+Registrant Organization:CERD LLC
+Registrant Street1:Westover Annex, 4008 West 79th Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Indiana
+Registrant State/Province:IN
+Registrant Postal Code:46268
+Registrant Country:US
+Registrant Phone:+423.3095964
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain@cerd.com
+Admin ID:tudgUoM6A1aYH2MH
+Admin Name:Phillip Zardo
+Admin Organization:CERD LLC
+Admin Street1:Westover Annex, 4008 West 79th Street
+Admin Street2:
+Admin Street3:
+Admin City:Indiana
+Admin State/Province:IN
+Admin Postal Code:46268
+Admin Country:US
+Admin Phone:+423.3095964
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domain@cerd.com
+Tech ID:tuul6rz4y7UhPXVq
+Tech Name:Jaroslava Jakubcova
+Tech Organization:INTERNET CZ, a.s.
+Tech Street1:Ktis 2
+Tech Street2:
+Tech Street3:
+Tech City:Ktis
+Tech State/Province:
+Tech Postal Code:38403
+Tech Country:CZ
+Tech Phone:+420.383835353
+Tech Phone Ext.:
+Tech FAX:+420.383835354
+Tech FAX Ext.:
+Tech Email:domain@forpsi.com
+Name Server:NS.FORPSI.NET
+Name Server:NS.FORPSI.CZ
+Name Server:NS.FORPSI.IT
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

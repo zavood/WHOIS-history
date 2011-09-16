@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D17931490-LROR
+Domain Name:SHIELDSFLEET3.ORG
+Created On:18-Jan-2000 06:25:02 UTC
+Last Updated On:14-Jan-2008 04:32:40 UTC
+Expiration Date:18-Jan-2013 06:25:02 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26404120-NSI
+Registrant Name:Craig Williams
+Registrant Organization:Craig Williams
+Registrant Street1:2822 Peachtree Circle
+Registrant Street2:
+Registrant Street3:
+Registrant City:Aurora
+Registrant State/Province:IL
+Registrant Postal Code:60502
+Registrant Country:US
+Registrant Phone:+1.6305482371
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:csw620@gmail.com
+Admin ID:26404120-NSI
+Admin Name:Craig Williams
+Admin Organization:Craig Williams
+Admin Street1:2822 Peachtree Circle
+Admin Street2:
+Admin Street3:
+Admin City:Aurora
+Admin State/Province:IL
+Admin Postal Code:60502
+Admin Country:US
+Admin Phone:+1.6305482371
+Admin Phone Ext.:
+Admin FAX:+1.9999999999
+Admin FAX Ext.:
+Admin Email:csw620@gmail.com
+Tech ID:5359174-NSI
+Tech Name:WestHost
+Tech Organization:WestHost
+Tech Street1:164 N Spring Creek Pkwy
+Tech Street2:
+Tech Street3:
+Tech City:Providence
+Tech State/Province:UT
+Tech Postal Code:84332
+Tech Country:US
+Tech Phone:+1.4357553433
+Tech Phone Ext.:
+Tech FAX:+1.4357553449
+Tech FAX Ext.:
+Tech Email:hostmaster@WESTHOST.COM
+Name Server:NS1.WEST-DATACENTER.NET
+Name Server:NS2.WEST-DATACENTER.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

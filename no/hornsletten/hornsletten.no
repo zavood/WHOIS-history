@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: HOR828D-NORID
+Domain Name................: hornsletten.no
+Domain Holder Handle.......: HE232O-NORID
+Registrar Handle...........: REG657-NORID
+Legal-c Handle.............: HT1926P-NORID
+Tech-c Handle..............: JEM175P-NORID
+Name Server Handle.........: NSPR129H-NORID
+Name Server Handle.........: NSPR89H-NORID
+
+Additional information:
+Created:         2007-09-03
+Last updated:    2011-09-13
+
+NORID Handle...............: HE232O-NORID
+Type.......................: organization
+Name.......................: HORNSLETTEN ELVERUMNETT
+Id Type....................: organization_number
+Id Number..................: 987362804
+Registrar Handle...........: REG657-NORID
+Post Address...............: Camilla Collettsveg 15
+Postal Code................: NO-2407
+Postal Area................: Elverum
+Country....................: NO
+Mobile Phone Number........: +47.91560640
+Email Address..............: tore@hornsletten.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

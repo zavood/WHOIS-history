@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158662841-LROR
+Domain Name:PROTECTTOMORROW.ORG
+Created On:22-Mar-2010 14:19:14 UTC
+Last Updated On:22-May-2010 03:48:12 UTC
+Expiration Date:22-Mar-2013 14:19:14 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28417587-NSI
+Registrant Name:American Academy of Pediatrics
+Registrant Organization:American Academy of Pediatrics
+Registrant Street1:141 Northwest Point Blvd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Elk Grove Village
+Registrant State/Province:IL
+Registrant Postal Code:60007
+Registrant Country:US
+Registrant Phone:+1.8474344000
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:jnauta@AAP.ORG
+Admin ID:28417587-NSI
+Admin Name:American Academy of Pediatrics
+Admin Organization:American Academy of Pediatrics
+Admin Street1:141 Northwest Point Blvd
+Admin Street2:
+Admin Street3:
+Admin City:Elk Grove Village
+Admin State/Province:IL
+Admin Postal Code:60007
+Admin Country:US
+Admin Phone:+1.8474344000
+Admin Phone Ext.:
+Admin FAX:+1.9999999999
+Admin FAX Ext.:
+Admin Email:jnauta@AAP.ORG
+Tech ID:28417587-NSI
+Tech Name:American Academy of Pediatrics
+Tech Organization:American Academy of Pediatrics
+Tech Street1:141 Northwest Point Blvd
+Tech Street2:
+Tech Street3:
+Tech City:Elk Grove Village
+Tech State/Province:IL
+Tech Postal Code:60007
+Tech Country:US
+Tech Phone:+1.8474344000
+Tech Phone Ext.:
+Tech FAX:+1.9999999999
+Tech FAX Ext.:
+Tech Email:jnauta@AAP.ORG
+Name Server:NS53.WORLDNIC.COM
+Name Server:NS54.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

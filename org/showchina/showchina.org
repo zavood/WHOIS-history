@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D109028896-LROR
+Domain Name:SHOWCHINA.ORG
+Created On:30-Nov-2005 01:47:12 UTC
+Last Updated On:28-Dec-2010 19:02:43 UTC
+Expiration Date:30-Nov-2011 01:47:12 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:OK
+Registrant ID:hc925086245-cn
+Registrant Name:xuedong yu
+Registrant Organization:pan-chinese
+Registrant Street1:Huatian Mansion 26F Lianhuachi East Road Haidian District
+Registrant Street2:
+Registrant Street3:
+Registrant City:beijingshi
+Registrant State/Province:beijing
+Registrant Postal Code:100088
+Registrant Country:CN
+Registrant Phone:+86.01058880000
+Registrant Phone Ext.:0333
+Registrant FAX:+86.01058891321
+Registrant FAX Ext.:
+Registrant Email:xd.y@qq.com
+Admin ID:hc770416311-cn
+Admin Name:xuedong yu
+Admin Organization:pan-chinese
+Admin Street1:lianhuachidonglubeixiaomachang6haohuatiandasha
+Admin Street2:
+Admin Street3:
+Admin City:beijingshi
+Admin State/Province:beijing
+Admin Postal Code:100088
+Admin Country:CN
+Admin Phone:+86.01058880000
+Admin Phone Ext.:0333
+Admin FAX:+86.01058891321
+Admin FAX Ext.:
+Admin Email:xd.y@qq.com
+Tech ID:19607488-NSI
+Tech Name:hichina
+Tech Organization:hichina
+Tech Street1:abc11/F., Building C, Fuhua Mansion,
+Tech Street2:No.8 Chaoyangmen North Avenue
+Tech Street3:
+Tech City:Beijing
+Tech State/Province:Beijing
+Tech Postal Code:100027
+Tech Country:CN
+Tech Phone:+1.86106554787
+Tech Phone Ext.:
+Tech FAX:+1.861065542377
+Tech FAX Ext.:
+Tech Email:domainadm@hichina.com
+Name Server:DNS9.HICHINA.COM
+Name Server:DNS10.HICHINA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

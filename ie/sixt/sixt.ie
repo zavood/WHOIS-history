@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      sixt.ie
+descr:       Sixt AG
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     ES29-IEDR
+tech-c:      ABB375-IEDR
+renewal:     30-September-2012
+status:      Active
+nserver:     NS1.ASCIO.NET
+nserver:     NS2.ASCIO.NET
+nserver:     NS3.ASCIO.NET
+source:      IEDR
+
+person:      Erich Sixt
+nic-hdl:     ES29-IEDR
+source:      IEDR
+
+person:      Speednames Technical
+nic-hdl:     ABB375-IEDR
+source:      IEDR
+
