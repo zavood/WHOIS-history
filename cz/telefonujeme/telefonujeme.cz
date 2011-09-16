@@ -1,0 +1,71 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 15:06:02 2011
+
+domain:       telefonujeme.cz
+registrant:   SB:IGNUM-S7217-SDU
+admin-c:      IGNUM-C12103-6MH
+nsset:        NSSID:IGNUM
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   13.09.2004 13:15:00
+changed:      30.04.2009 21:32:42
+expire:       13.09.2012
+
+contact:      SB:IGNUM-S7217-SDU
+name:         Eduard Kucera
+address:      Bulharska 21
+address:      Praha 10
+address:      10100
+address:      CZ
+phone:        +420.777159688
+registrar:    REG-IGNUM
+created:      23.04.2004 18:25:00
+changed:      05.11.2009 13:14:20
+
+contact:      IGNUM-C12103-6MH
+name:         Eduard Kucera
+address:      Bulharska 21
+address:      Praha 10
+address:      10100
+address:      CZ
+phone:        +420.777159688
+registrar:    REG-IGNUM
+created:      23.04.2004 18:15:00
+changed:      05.11.2009 13:14:20
+
+nsset:        NSSID:IGNUM
+nserver:      ns2.ignum.cz
+nserver:      ns1.ignum.com
+tech-c:       CID:IGN-C117990-YN5
+registrar:    REG-IGNUM
+created:      20.09.2006 09:55:39
+changed:      12.09.2007 11:26:06
+
+contact:      CID:IGN-C117990-YN5
+org:          Ignum, s.r.o.
+name:         Marek Erneker
+address:      Th&Atilde;&iexcl;mova 18
+address:      Praha 8
+address:      18600
+address:      CZ
+registrar:    REG-IGNUM
+created:      11.09.2007 15:28:03
+
+

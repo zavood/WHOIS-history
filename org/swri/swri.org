@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2582930-LROR
+Domain Name:SWRI.ORG
+Created On:02-Feb-1995 05:00:00 UTC
+Last Updated On:04-Feb-2011 01:17:46 UTC
+Expiration Date:03-Feb-2021 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20425734-NSI
+Registrant Name:Southwest Research Institute
+Registrant Organization:Southwest Research Institute
+Registrant Street1:6220 Culebra Rd.
+Registrant Street2:P.O. Drawer 28510 Dept. 26
+Registrant Street3:
+Registrant City:San Antonio
+Registrant State/Province:TX
+Registrant Postal Code:78228-0510
+Registrant Country:US
+Registrant Phone:+1.21052228
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:eperez@SWRI.EDU
+Admin ID:15338086-NSI
+Admin Name:Edgardo Perez
+Admin Organization:Southwest Research Institute
+Admin Street1:Information Technology Center
+Admin Street2:PO BOX 28510
+Admin Street3:
+Admin City:SAN ANTONIO
+Admin State/Province:TX
+Admin Postal Code:78228-0510
+Admin Country:US
+Admin Phone:+1.2105222880
+Admin Phone Ext.:
+Admin FAX:+1.2105223424
+Admin FAX Ext.:
+Admin Email:edgardo.perez@swri.org
+Tech ID:15338086-NSI
+Tech Name:Edgardo Perez
+Tech Organization:Southwest Research Institute
+Tech Street1:Information Technology Center
+Tech Street2:PO BOX 28510
+Tech Street3:
+Tech City:SAN ANTONIO
+Tech State/Province:TX
+Tech Postal Code:78228-0510
+Tech Country:US
+Tech Phone:+1.2105222880
+Tech Phone Ext.:
+Tech FAX:+1.2105223424
+Tech FAX Ext.:
+Tech Email:edgardo.perez@swri.org
+Name Server:NS1.SWBELL.NET
+Name Server:NS2.SWBELL.NET
+Name Server:INS1.LSAG.TWTELECOM.NET
+Name Server:INS1.DLFW.TWTELECOM.NET
+Name Server:NS1.BIZ.RR.COM
+Name Server:NS2.BIZ.RR.COM
+Name Server:NS1.SBCGLOBAL.NET
+Name Server:NS1.SWRI.ORG
+Name Server:NS2.SWRI.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

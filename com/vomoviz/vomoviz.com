@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 03-aug-2010
    Expiration Date: 03-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:56:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 13:14:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,4 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-You have exceeded your access quota. Please try again later.
+Domain Name: vomoviz.com
+Registered at http://www.dynadot.com
+
+Registrant:
+Pending Renewal or Deletion
+PO Box 701
+San Mateo, CA 94401
+United States
+
+Administrative Contact:
+Pending Renewal or Deletion
+PO Box 701
+San Mateo, CA 94401
+United States
+expired@dynadot.com
+1-650-585-1961
+
+Technical Contact:
+Pending Renewal or Deletion
+PO Box 701
+San Mateo, CA 94401
+United States
+expired@dynadot.com
+1-650-585-1961
+
+Record expires on 2012/08/03 UTC
+Record created on 2010/08/03 UTC
+
+Domain servers in listed order:
+ns1.above.com
+ns2.above.com
+
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/16 06:12:19 PST &lt;&lt;&lt;
+

@@ -1,0 +1,48 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 10:09:37 (BRT -03:00)
+
+domain:      trepadaboa.com.br
+owner:       Matheus de Souza Silva
+ownerid:     384.389.368-30
+country:     BR
+owner-c:     MASSI315
+admin-c:     MASSI315
+tech-c:      MASSI315
+billing-c:   MASSI315
+nserver:     dns1.kinghost.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     dns2.kinghost.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     dns3.kinghost.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     dns4.kinghost.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20100121 #6465873
+expires:     20120121
+changed:     20110607
+status:      published
+
+nic-hdl-br:  MASSI315
+person:      Matheus de Souza Silva
+e-mail:      ttfmatheus@gmail.com
+created:     20110110
+changed:     20110110
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D5080-LROR
+Domain Name:APPWP.ORG
+Created On:04-Dec-1995 05:00:00 UTC
+Last Updated On:01-Nov-2010 18:26:42 UTC
+Expiration Date:03-Dec-2011 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22991278-NSI
+Registrant Name:APPWP
+Registrant Organization:APPWP
+Registrant Street1:1212 New York Avenue, NW  Suit
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20005
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:paul@PODI.COM
+Admin ID:15489838-NSI
+Admin Name:Paul Finkel
+Admin Organization:Potomac Digitek
+Admin Street1:814 W DIAMOND AVE STE 325
+Admin Street2:
+Admin Street3:
+Admin City:GAITHERSBURG
+Admin State/Province:MD
+Admin Postal Code:20878-1445
+Admin Country:US
+Admin Phone:+1.3015902770
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:paul@PODI.COM
+Tech ID:15489837-NSI
+Tech Name:OfficeTek
+Tech Organization:OfficeTek
+Tech Street1:814 W DIAMOND AVE STE 325
+Tech Street2:
+Tech Street3:
+Tech City:GAITHERSBURG
+Tech State/Province:MD
+Tech Postal Code:20878-1445
+Tech Country:US
+Tech Phone:+1.3015902770
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:kevin@PODI.COM
+Name Server:AUTH00.NS.UU.NET
+Name Server:AUTH01.NS.UU.NET
+Name Server:UUCP-GW-1.PA.DEC.COM
+Name Server:UUCP-GW-2.PA.DEC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

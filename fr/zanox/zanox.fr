@@ -1,0 +1,99 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; zanox.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      zanox.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ZAHU1-FRNIC
+admin-c:     CS3945-FRNIC
+tech-c:      NH718-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5672-FRNIC
+registrar:   ASCIO TECHNOLOGIES Inc.
+anniversary: 07/04
+created:     16/11/2004
+last-update: 08/09/2009
+source:      FRNIC
+
+ns-list:     NSL5672-FRNIC
+nserver:     ns1.netnames.net
+nserver:     ns2.netnames.net
+nserver:     ns5.netnames.net
+nserver:     ns6.netnames.net
+nserver:     ns7.netnames.net
+source:      FRNIC
+
+registrar:   ASCIO TECHNOLOGIES Inc.
+type:        Isp Option 1
+address:     Islands Brygge 55
+address:     DK-2300 COPENHAGUE S
+country:     DK
+phone:       +45 33 88 61 00
+fax-no:      +45 33 88 61 01
+e-mail:      nicrelations@ascio.com
+website:     http://www.ascio.com
+anonymous:   NO
+registered:  18/01/2001
+source:      FRNIC
+
+nic-hdl:     CS3945-FRNIC
+type:        PERSON
+contact:     Corporate Services
+address:     NetNames
+address:     Green Side B.P. 296
+address:     06906 Sophia Antipolis
+country:     FR
+phone:       +33 4 97 21 22 12
+fax-no:      +33 4 97 21 22 11
+e-mail:      corporate-services@netnames.com
+changed:     16/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NH718-FRNIC
+type:        ROLE
+contact:     NetNames Hostmaster
+address:     3rd Floor Prospero House
+address:     241 Borough High Street
+address:     SE1 1 GB London
+country:     UK
+phone:       +44 8704589400
+fax-no:      +44 8704589404
+e-mail:      corporate-services@netnames.com
+admin-c:     CS484-FRNIC
+tech-c:      NH1724-FRNIC
+notify:      corporate-services@netnames.com
+changed:     08/09/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ZAHU1-FRNIC
+type:        ORGANIZATION
+contact:     ZANOX.de AG handelnd unter zanox AG
+address:     Stralauer allee 2
+address:     10245 Berlin
+country:     GE
+phone:       +49 305296910
+e-mail:      info@zanox.de
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

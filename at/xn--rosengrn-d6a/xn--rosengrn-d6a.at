@@ -1,0 +1,57 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         xn--rosengrn-d6a.at
+registrant:     ENG4906318-NICAT
+admin-c:        KD4716890-NICAT
+tech-c:         KD4716890-NICAT
+nserver:        ns1.sirius-soft.at
+nserver:        ns2.sirius-soft.at
+nserver:        ns3.sirius-soft.at
+changed:        20090504 11:48:44
+source:         AT-DOM
+
+personname:     Christrian Sturz
+organization:   E-NOVATION GmbH
+street address: Hans Sachs Gasse 1A
+postal code:    8010
+city:           Graz
+country:        Austria
+phone:          +43316841841
+e-mail:         domain-admin@e-novation.at
+nic-hdl:        ENG4906318-NICAT
+changed:        20090504 11:48:40
+source:         AT-DOM
+
+personname:     Friedrich Koelbel
+organization:   KMF DatenSysteme
+street address: Lagergasse 12
+postal code:    8020
+city:           Graz
+country:        Austria
+phone:          +436764209045
+e-mail:         domain-admin@kmf.co.at
+nic-hdl:        KD4716890-NICAT
+changed:        20090408 15:11:58
+source:         AT-DOM
+

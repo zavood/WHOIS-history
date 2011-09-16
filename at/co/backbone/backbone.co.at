@@ -1,0 +1,60 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         backbone.co.at
+registrant:     BISG1459259-NICAT
+admin-c:        GS848031-NICAT
+tech-c:         GS848031-NICAT
+nserver:        ns3.backbone.co.at
+remarks:        81.31.132.3
+nserver:        ns4.backbone.co.at
+remarks:        81.31.128.150
+changed:        20110325 14:11:13
+source:         AT-DOM
+
+personname:     Guido Schratzer
+organization:   backbone internet service GmbH
+street address: Iganz rieder Kai 13
+postal code:    A-5020
+city:           Salzburg
+country:        Austria
+phone:          +43662633434
+fax-no:         +4366263343414
+e-mail:         office@backbone.co.at
+nic-hdl:        BISG1459259-NICAT
+changed:        20040108 16:07:27
+source:         AT-DOM
+
+personname:     Guido Schratzer
+organization:
+street address: Dr.-Adolf-Altmann-Strasse 30
+postal code:    A-5020
+city:           Salzburg
+country:        Austria
+phone:          +4366263343420
+fax-no:         +4366263343414
+e-mail:         salzburg@7reasons.at
+nic-hdl:        GS848031-NICAT
+changed:        20070426 16:03:50
+source:         AT-DOM
+
