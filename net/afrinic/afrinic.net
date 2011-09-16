@@ -1,0 +1,145 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: AFRINIC.NET
+   Registrar: GANDI SAS
+   Whois Server: whois.gandi.net
+   Referral URL: http://www.gandi.net
+   Name Server: NS1.AFRINIC.NET
+   Name Server: NS2.LACNIC.NET
+   Name Server: SEC1.APNIC.NET
+   Name Server: SEC1.AUTHDNS.RIPE.NET
+   Name Server: SEC3.APNIC.NET
+   Name Server: TINNIE.ARIN.NET
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Updated Date: 25-mar-2011
+   Creation Date: 14-apr-1999
+   Expiration Date: 14-apr-2013
+
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:05:38 UTC &lt;&lt;&lt;
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' (&quot;VeriSign&quot;) Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+--- #YAML:1.0
+# GANDI Registrar whois database for .COM, .NET, .ORG., .INFO, .BIZ, .NAME
+#
+# Access and use restricted pursuant to French law on personal data.
+# Copy of whole or part of the data without permission from GANDI
+# is strictly forbidden.
+# The sole owner of a domain is the entity described in the relevant
+# 'domain:' record.
+# Domain ownership disputes should be settled using ICANN's Uniform Dispute
+# Resolution Policy: http://www.icann.org/udrp/udrp.htm
+# For inquiries about 'by policy' protection, please check directly
+# with the appropriate registry (Eurid, AFNIC)
+#
+# Acces et utilisation soumis a la legislation francaise sur
+# les donnees personnelles.
+# Copie de tout ou partie de la base interdite sans autorisation de GANDI.
+# Le possesseur d'un domaine est l'entite decrite dans
+# l'enregistrement 'domain:' correspondant.
+# Un desaccord sur la possession d'un nom de domaine peut etre resolu
+# en suivant la Uniform Dispute Resolution Policy de l'ICANN:
+# http://www.icann.org/udrp/udrp.htm
+# Pour obtenir les informations en status 'Protected by policy', contactez
+# directement le registre concerne (Eurid, AFNIC)
+#
+# 2011-09-16 03:06:32 CEST
+
+domain: afrinic.net
+reg_created: 1999-04-14 00:00:00
+expires: 2013-04-14 04:00:00
+created: 2001-03-29 04:36:45
+changed: 2011-03-25 16:01:03
+transfer-prohibited: yes
+ns0: ns1.afrinic.net 196.216.2.1
+ns1: sec1.authdns.ripe.net
+ns2: sec1.apnic.net
+ns3: sec3.apnic.net
+ns4: tinnie.arin.net
+ns5: ns2.lacnic.net
+owner-c:
+  nic-hdl: ANI11-GANDI
+  owner-name: AfriNIC Ltd.
+  organisation: AfriNIC Ltd.
+  person: Adiel Akplogan
+  address: '03B3, 3rd Floor - Cyber Tower Ebene CyberCity'
+  zipcode: 0001
+  city: Reduit
+  country: Mauritius
+  phone: +230.4666616
+  fax: +230.4666758
+  email: 903ffca1756cc69e4f316ea23a308bf7-534925@contact.gandi.net
+  lastupdated: 2010-06-09 14:39:34
+admin-c:
+  nic-hdl: AL1211-GANDI
+  organisation: African Network Informarion Center
+  person: ~
+  address: '03B3, 3rd Floor Cyber Tower - CyberCity'
+  zipcode: 00001
+  city: Reduit
+  country: Mauritius
+  phone: +230.4666616
+  fax: +230.4666758
+  email: fa9de019989e40ffc9a8f91f19c5c4a6-al1211@contact.gandi.net
+  lastupdated: 2011-09-01 08:08:56
+tech-c:
+  nic-hdl: AD1366-GANDI
+  organisation: AfriNIC
+  person: AfriNIC DnsMasters
+  address: &quot;11th Floor, Raffles Tower\r\nCyber City&quot;
+  zipcode: 0001
+  city: Ebene
+  country: Mauritius
+  phone: +230.4035100
+  fax: +230.4666758
+  email: 540871d576991604a2cfa8ab8e7ffaad-328257@contact.gandi.net
+  lastupdated: 2010-08-30 10:39:37
+bill-c:
+  nic-hdl: AB1842-GANDI
+  organisation: African Network Informarion Center
+  person: AfriNIC BIlling
+  address: '3rd Floor Cyber Tower, CyberCity'
+  zipcode: 0000
+  city: Rose-Hill
+  country: Mauritius
+  phone: +230.4666616
+  fax: +230.4666758
+  email: 65db25330bf455b133c4e1d6e594d681-ab1842@contact.gandi.net
+  lastupdated: 2006-07-03 10:04:01

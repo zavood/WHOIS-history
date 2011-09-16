@@ -1,0 +1,81 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; la-boutik-cadeau.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      la-boutik-cadeau.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MB5969-FRNIC
+admin-c:     MB5969-FRNIC
+tech-c:      DA2564-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL20196-FRNIC
+registrar:   Tucows.com CO
+anniversary: 09/02
+created:     09/02/2011
+last-update: 09/02/2011
+source:      FRNIC
+
+ns-list:     NSL20196-FRNIC
+nserver:     ns3.vpweb.com
+nserver:     ns2.vpweb.com
+nserver:     ns4.vpweb.com
+source:      FRNIC
+
+registrar:   Tucows.com CO
+type:        Isp Option 1
+address:     96 Mowat Avenue
+address:     M6K 3M1 TORONTO
+country:     CA
+phone:       +1 416 535 0123
+fax-no:      +1 416 531 55 84
+e-mail:      servicebureau@tucows.com
+website:     http://www.tucows.com
+anonymous:   NO
+registered:  24/01/2005
+source:      FRNIC
+
+nic-hdl:     MB5969-FRNIC
+type:        PERSON
+contact:     Marc Bocchiardo
+address:     bocchiardo
+address:     hameau de partine
+address:     20233 Sisco
+country:     FR
+phone:       +33 4 15 08 66 10
+e-mail:      bocchiardo.marc@orange.fr
+changed:     09/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DA2564-FRNIC
+type:        ROLE
+contact:     Domain Administrator
+address:     VistaPrint
+address:     95 Hayden Ave.
+address:     02421 Lexington, MA
+address:     US
+phone:       +1 7816526199
+e-mail:      servicebureau@tucows.com
+admin-c:     TC429-FRNIC
+tech-c:      TC429-FRNIC
+notify:      csadmin@vistaprint.com
+changed:     13/06/2008 servicebureau@tucows.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

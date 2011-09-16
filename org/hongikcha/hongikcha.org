@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D121719036-LROR
+Domain Name:HONGIKCHA.ORG
+Created On:04-May-2006 04:33:21 UTC
+Last Updated On:11-May-2010 01:17:59 UTC
+Expiration Date:04-May-2012 04:33:21 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_6725006
+Registrant Name:Hanwool Kim
+Registrant Organization:Hanwool Kim
+Registrant Street1:Dogok 1dong Gangnamgu
+Registrant Street2:548-8
+Registrant Street3:
+Registrant City:SEOUL
+Registrant State/Province:seoul Teukbyeolsi
+Registrant Postal Code:135-858
+Registrant Country:KR
+Registrant Phone:+82.0234617557
+Registrant Phone Ext.:
+Registrant FAX:+82.0316750210
+Registrant FAX Ext.:
+Registrant Email:hanul_kim@msn.com
+Admin ID:DI_6725006
+Admin Name:Hanwool Kim
+Admin Organization:Hanwool Kim
+Admin Street1:Dogok 1dong Gangnamgu
+Admin Street2:548-8
+Admin Street3:
+Admin City:SEOUL
+Admin State/Province:seoul Teukbyeolsi
+Admin Postal Code:135-858
+Admin Country:KR
+Admin Phone:+82.0234617557
+Admin Phone Ext.:
+Admin FAX:+82.0316750210
+Admin FAX Ext.:
+Admin Email:hanul_kim@msn.com
+Tech ID:DI_6725006
+Tech Name:Hanwool Kim
+Tech Organization:Hanwool Kim
+Tech Street1:Dogok 1dong Gangnamgu
+Tech Street2:548-8
+Tech Street3:
+Tech City:SEOUL
+Tech State/Province:seoul Teukbyeolsi
+Tech Postal Code:135-858
+Tech Country:KR
+Tech Phone:+82.0234617557
+Tech Phone Ext.:
+Tech FAX:+82.0316750210
+Tech FAX Ext.:
+Tech Email:hanul_kim@msn.com
+Name Server:NS1.MIREENE.COM
+Name Server:NS2.MIREENE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

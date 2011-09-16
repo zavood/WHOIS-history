@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D84660079-LROR
+Domain Name:JUILLIARDSTRINGQUARTET.ORG
+Created On:20-Mar-2002 03:20:38 UTC
+Last Updated On:01-Mar-2011 04:57:41 UTC
+Expiration Date:20-Mar-2012 03:20:38 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tu1u5c9rEnbXtrr8
+Registrant Name:Todd Haley
+Registrant Organization:TeknoWizards, L.L.C.
+Registrant Street1:7110 Carnation Court
+Registrant Street2:
+Registrant Street3:
+Registrant City:Springfield
+Registrant State/Province:VA
+Registrant Postal Code:22152
+Registrant Country:US
+Registrant Phone:+1.7036442918
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:billing@teknowizards.com
+Admin ID:tu0RoKheRJGtESL4
+Admin Name:Todd Haley
+Admin Organization:TeknoWizards, L.L.C.
+Admin Street1:7110 Carnation Court
+Admin Street2:
+Admin Street3:
+Admin City:Springfield
+Admin State/Province:VA
+Admin Postal Code:22152
+Admin Country:US
+Admin Phone:+1.7036442918
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:billing@teknowizards.com
+Tech ID:tuevpjU0hZLboHeI
+Tech Name:Todd Haley
+Tech Organization:TeknoWizards, L.L.C.
+Tech Street1:7110 Carnation Court
+Tech Street2:
+Tech Street3:
+Tech City:Springfield
+Tech State/Province:VA
+Tech Postal Code:22152
+Tech Country:US
+Tech Phone:+1.7036442918
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:billing@teknowizards.com
+Name Server:NS.PERFECTPRESENCE.COM
+Name Server:NS2.PERFECTPRESENCE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

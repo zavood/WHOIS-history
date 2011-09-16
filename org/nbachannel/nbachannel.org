@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157676943-LROR
+Domain Name:NBACHANNEL.ORG
+Created On:25-Nov-2009 05:46:38 UTC
+Last Updated On:17-Nov-2010 02:55:01 UTC
+Expiration Date:25-Nov-2011 05:46:38 UTC
+Sponsoring Registrar:Todaynic.com, Inc. (R1316-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:TOD-41697255
+Registrant Name:liyungui
+Registrant Organization:liyungui
+Registrant Street1:GuangZhouShiTianHeQu
+Registrant Street2:
+Registrant Street3:
+Registrant City:GuangZhou
+Registrant State/Province:GD
+Registrant Postal Code:520660
+Registrant Country:CN
+Registrant Phone:+86.2083620754
+Registrant Phone Ext.:
+Registrant FAX:+86.2083620754
+Registrant FAX Ext.:
+Registrant Email:liyungui666@163.com
+Admin ID:TOD-41697256
+Admin Name:liyungui
+Admin Organization:liyungui
+Admin Street1:GuangZhouShiTianHeQu
+Admin Street2:
+Admin Street3:
+Admin City:GuangZhou
+Admin State/Province:GD
+Admin Postal Code:520660
+Admin Country:CN
+Admin Phone:+86.2083620754
+Admin Phone Ext.:
+Admin FAX:+86.2083620754
+Admin FAX Ext.:
+Admin Email:liyungui666@163.com
+Tech ID:TOD-41697256
+Tech Name:liyungui
+Tech Organization:liyungui
+Tech Street1:GuangZhouShiTianHeQu
+Tech Street2:
+Tech Street3:
+Tech City:GuangZhou
+Tech State/Province:GD
+Tech Postal Code:520660
+Tech Country:CN
+Tech Phone:+86.2083620754
+Tech Phone Ext.:
+Tech FAX:+86.2083620754
+Tech FAX Ext.:
+Tech Email:liyungui666@163.com
+Name Server:NS17.IXWEBHOSTING.COM
+Name Server:NS18.IXWEBHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

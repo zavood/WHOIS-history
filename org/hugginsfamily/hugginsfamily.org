@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104744671-LROR
+Domain Name:HUGGINSFAMILY.ORG
+Created On:11-Aug-2004 12:22:21 UTC
+Last Updated On:11-Aug-2011 06:25:47 UTC
+Expiration Date:11-Aug-2012 12:22:21 UTC
+Sponsoring Registrar:Hostopia.com Inc. d/b/a Aplus.net (R14-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:n6jplo6er6kr21q9
+Registrant Name:Bill Huggins
+Registrant Street1:2457 152nd Ave NE
+Registrant Street2:
+Registrant Street3:
+Registrant City:Redmond
+Registrant State/Province:WA
+Registrant Postal Code:98052
+Registrant Country:US
+Registrant Phone:+1.42586954111
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:wmh@isomedia.com
+Admin ID:urqgaqqbjheh2lmu
+Admin Name:Bill Huggins
+Admin Street1:2457 152nd Ave NE
+Admin Street2:
+Admin Street3:
+Admin City:Redmond
+Admin State/Province:WA
+Admin Postal Code:98052
+Admin Country:US
+Admin Phone:+1.42586954111
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:wmh@isomedia.com
+Tech ID:oivpkjihdere6j2c
+Tech Name:Steve Milton
+Tech Organization:Isomedia
+Tech Street1:2457 152nd Ave Ne
+Tech Street2:
+Tech Street3:
+Tech City:Redmond
+Tech State/Province:WA
+Tech Postal Code:98052
+Tech Country:US
+Tech Phone:+1.4258695411
+Tech Phone Ext.:
+Tech FAX:+1.4258699437
+Tech FAX Ext.:
+Tech Email:hostmaster@isomedia.com
+Name Server:NS1.ISOMEDIA.COM
+Name Server:NS2.ISOMEDIA.COM
+Name Server:NS3.ISOMEDIA.COM
+Name Server:NS4.ISOMEDIA.COM
+Name Server:NS5.ISOMEDIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

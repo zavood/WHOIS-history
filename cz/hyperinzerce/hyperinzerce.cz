@@ -1,0 +1,95 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 03:01:35 2011
+
+domain:       hyperinzerce.cz
+registrant:   SB:HYPERINZERCE
+admin-c:      JANSMIDAK
+temp-c:       MIRAGE
+nsset:        NSS:POWEREDBY:1
+registrar:    REG-GRANSY
+status:       paid and in zone
+registered:   24.10.2003 17:50:00
+changed:      27.09.2007 16:15:00
+expire:       24.10.2012
+
+contact:      SB:HYPERINZERCE
+org:          HyperMedia, a.s.
+name:         Jan Smidak
+address:      Navigatoru 599/47
+address:      Praha 6
+address:      16100
+address:      CZ
+registrar:    REG-GRANSY
+created:      03.05.2005 05:25:00
+changed:      11.02.2011 18:34:55
+
+contact:      JANSMIDAK
+name:         Jan Smidak
+address:      Navigatoru 599
+address:      Praha 6
+address:      16100
+address:      CZ
+e-mail:       webmaster@hyperinzerce.cz
+registrar:    REG-IGNUM
+created:      03.05.2005 05:15:00
+
+contact:      MIRAGE
+name:         Mirek Jindrisek
+address:      Na Zabori 5
+address:      Pardubice
+address:      530 02
+address:      CZ
+e-mail:       mirek@jindrisek.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      05.11.2007 17:18:03
+
+nsset:        NSS:POWEREDBY:1
+nserver:      ns1.ignum.com
+nserver:      ns2.ignum.cz
+tech-c:       SB:POWEREDBY
+tech-c:       JINDRISEK
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+
+contact:      SB:POWEREDBY
+org:          PoweredBy, s.r.o.
+name:         PoweredBy, s.r.o.
+address:      Na Zabori 5
+address:      Pardubice
+address:      530 02
+address:      CZ
+e-mail:       info@poweredby.cz
+registrar:    REG-IGNUM
+created:      10.10.2001 19:26:00
+changed:      05.11.2007 17:37:03
+
+contact:      JINDRISEK
+name:         Miroslav Jindrisek
+address:      Na Zabori 5
+address:      Pardubice
+address:      530 02
+address:      CZ
+e-mail:       mirek@jindrisek.cz
+registrar:    REG-IGNUM
+created:      10.10.2001 19:06:00
+changed:      05.11.2007 17:37:02
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157632148-LROR
+Domain Name:MINIDIGGER.ORG
+Created On:19-Nov-2009 07:44:05 UTC
+Last Updated On:30-Apr-2011 04:18:45 UTC
+Expiration Date:19-Nov-2011 07:44:05 UTC
+Sponsoring Registrar:Todaynic.com, Inc. (R1316-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:TOD-41691791
+Registrant Name:Zhuhai Yingxun information technology limited
+Registrant Organization:Zhuhai Yingxun information technology limited
+Registrant Street1:NO.1111 Chaoyang Road, Beijing
+Registrant Street2:
+Registrant Street3:
+Registrant City:Beijing City
+Registrant State/Province:BJ
+Registrant Postal Code:100000
+Registrant Country:CN
+Registrant Phone:+86.7562281235
+Registrant Phone Ext.:
+Registrant FAX:+86.7563810567
+Registrant FAX Ext.:
+Registrant Email:e183271f73e7f0213ea49e5e5f1c2d37@domain-private.com
+Admin ID:TOD-41691792
+Admin Name:Private Protection Co.LTD. Zhuhai Branch
+Admin Organization:Private Protection Co.LTD.
+Admin Street1:NO.1 Meihua Road, Zhuhai
+Admin Street2:
+Admin Street3:
+Admin City:Zhuhai City
+Admin State/Province:ZH
+Admin Postal Code:519000
+Admin Country:CN
+Admin Phone:+86.7562281235
+Admin Phone Ext.:
+Admin FAX:+86.7563810567
+Admin FAX Ext.:
+Admin Email:e183271f73e7f0213ea49e5e5f1c2d37@domain-private.com
+Tech ID:TOD-41691792
+Tech Name:Private Protection Co.LTD. Zhuhai Branch
+Tech Organization:Private Protection Co.LTD.
+Tech Street1:NO.1 Meihua Road, Zhuhai
+Tech Street2:
+Tech Street3:
+Tech City:Zhuhai City
+Tech State/Province:ZH
+Tech Postal Code:519000
+Tech Country:CN
+Tech Phone:+86.7562281235
+Tech Phone Ext.:
+Tech FAX:+86.7563810567
+Tech FAX Ext.:
+Tech Email:e183271f73e7f0213ea49e5e5f1c2d37@domain-private.com
+Name Server:NS21.IXWEBHOSTING.COM
+Name Server:NS22.IXWEBHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158839877-LROR
+Domain Name:THEUBB.ORG
+Created On:11-Apr-2010 16:38:17 UTC
+Last Updated On:09-Apr-2011 07:09:31 UTC
+Expiration Date:11-Apr-2012 16:38:17 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:D127100093018813
+Registrant Name:Lycos
+Registrant Organization:Michelle Dugger
+Registrant Street1:2744
+Registrant Street2:
+Registrant Street3:
+Registrant City:Milwuakee
+Registrant State/Province:WI
+Registrant Postal Code:53206
+Registrant Country:US
+Registrant Phone:+1.4148379920
+Registrant Phone Ext.:
+Registrant FAX:+1.7814667060
+Registrant FAX Ext.:
+Registrant Email:tyronius11@yahoo.com
+Admin ID:D127100093018810
+Admin Name:Michelle Dugger
+Admin Organization:Michelle Dugger
+Admin Street1:2744
+Admin Street2:
+Admin Street3:
+Admin City:Milwuakee
+Admin State/Province:WI
+Admin Postal Code:53206
+Admin Country:US
+Admin Phone:+1.4148379920
+Admin Phone Ext.:
+Admin FAX:+1.7814667060
+Admin FAX Ext.:
+Admin Email:tyronius11@yahoo.com
+Tech ID:D127100093018812
+Tech Name:Lycos Domains
+Tech Organization:Lycos, Inc.
+Tech Street1:100 5th Ave
+Tech Street2:
+Tech Street3:
+Tech City:Waltham
+Tech State/Province:MA
+Tech Postal Code:02451
+Tech Country:US
+Tech Phone:+1.7813702700
+Tech Phone Ext.:
+Tech FAX:+1.7814667060
+Tech FAX Ext.:
+Tech Email:nic@domains.lycos.com
+Name Server:NS1.THEUBB.ORG
+Name Server:NS2.THEUBB.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

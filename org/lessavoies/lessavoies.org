@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D78402343-LROR
+Domain Name:LESSAVOIES.ORG
+Created On:08-Oct-2001 16:32:48 UTC
+Last Updated On:09-Aug-2011 09:18:16 UTC
+Expiration Date:08-Oct-2012 16:32:48 UTC
+Sponsoring Registrar:OVH (R135-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ovh4e40fb53kvuk
+Registrant Name:KEL'concept
+Registrant Organization:KEL'concept
+Registrant Street1:Place Celestin Roche
+Registrant Street2:
+Registrant Street3:
+Registrant City:EMBRUN
+Registrant State/Province:
+Registrant Postal Code:05200
+Registrant Country:FR
+Registrant Phone:+33.492432988
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dns@accessimmo.net
+Admin ID:ovh4e40fb55gqzk
+Admin Name:JeanLuc Farnaud
+Admin Organization:Accesimmo
+Admin Street1:Place Celestin Roche
+Admin Street2:
+Admin Street3:
+Admin City:Embrun
+Admin State/Province:
+Admin Postal Code:05200
+Admin Country:FR
+Admin Phone:+33.492432988
+Admin Phone Ext.:
+Admin FAX:+33.492437250
+Admin FAX Ext.:
+Admin Email:dns@accessimmo.net
+Tech ID:ovh4e40fb55gqzk
+Tech Name:JeanLuc Farnaud
+Tech Organization:Accesimmo
+Tech Street1:Place Celestin Roche
+Tech Street2:
+Tech Street3:
+Tech City:Embrun
+Tech State/Province:
+Tech Postal Code:05200
+Tech Country:FR
+Tech Phone:+33.492432988
+Tech Phone Ext.:
+Tech FAX:+33.492437250
+Tech FAX Ext.:
+Tech Email:dns@accessimmo.net
+Name Server:DNS12.OVH.NET
+Name Server:NS12.OVH.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

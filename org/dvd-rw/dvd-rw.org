@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148957668-LROR
+Domain Name:DVD-RW.ORG
+Created On:25-Aug-2007 03:34:30 UTC
+Last Updated On:01-Jun-2011 10:29:07 UTC
+Expiration Date:25-Aug-2014 03:34:30 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR36727652
+Registrant Name:Joseph Sullo
+Registrant Organization:IHG, LLC
+Registrant Street1:P.O. Box 290589
+Registrant Street2:
+Registrant Street3:
+Registrant City:Wethersfield
+Registrant State/Province:Connecticut
+Registrant Postal Code:06129
+Registrant Country:US
+Registrant Phone:+1.8602469999
+Registrant Phone Ext.:
+Registrant FAX:+1.8602465555
+Registrant FAX Ext.:
+Registrant Email:ihgdomains@gmail.com
+Admin ID:CR36727654
+Admin Name:Joseph Sullo
+Admin Organization:IHG, LLC
+Admin Street1:P.O. Box 290589
+Admin Street2:
+Admin Street3:
+Admin City:Wethersfield
+Admin State/Province:Connecticut
+Admin Postal Code:06129
+Admin Country:US
+Admin Phone:+1.8602469999
+Admin Phone Ext.:
+Admin FAX:+1.8602465555
+Admin FAX Ext.:
+Admin Email:ihgdomains@gmail.com
+Tech ID:CR36727653
+Tech Name:Joseph Sullo
+Tech Organization:IHG, LLC
+Tech Street1:P.O. Box 290589
+Tech Street2:
+Tech Street3:
+Tech City:Wethersfield
+Tech State/Province:Connecticut
+Tech Postal Code:06129
+Tech Country:US
+Tech Phone:+1.8602469999
+Tech Phone Ext.:
+Tech FAX:+1.8602465555
+Tech FAX Ext.:
+Tech Email:ihgdomains@gmail.com
+Name Server:NS1.SEDOPARKING.COM
+Name Server:NS2.SEDOPARKING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
