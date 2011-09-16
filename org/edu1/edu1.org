@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104054413-LROR
+Domain Name:EDU1.ORG
+Created On:04-Mar-2004 00:37:49 UTC
+Last Updated On:01-Feb-2011 18:53:13 UTC
+Expiration Date:04-Mar-2012 00:37:49 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:A126529562497793
+Registrant Name:Monster Worldwide
+Registrant Organization:Monster Worldwide
+Registrant Street1:444 N. Michigan
+Registrant Street2:Suite 3000
+Registrant Street3:
+Registrant City:Chicago
+Registrant State/Province:IL
+Registrant Postal Code:60611
+Registrant Country:US
+Registrant Phone:+1.3128322320
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:edorg-domainadmin@fastweb.com
+Admin ID:B126538099201450
+Admin Name:Johnson .
+Admin Organization:Monster Worldwide
+Admin Street1:444 N. Michigan
+Admin Street2:Suite 3000
+Admin Street3:
+Admin City:Chicago
+Admin State/Province:IL
+Admin Postal Code:60611
+Admin Country:US
+Admin Phone:+1.3128326562
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:edorg-domainadmin@fastweb.com
+Tech ID:B126538099201451
+Tech Name:Judy Levin
+Tech Organization:Monster.com
+Tech Street1:444 N Michigan #3000
+Tech Street2:
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:IL
+Tech Postal Code:60611
+Tech Country:US
+Tech Phone:+1.312832215
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dbms-tech@verisign.com
+Name Server:NS2.TMPW.NET
+Name Server:NS1.TMPW.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

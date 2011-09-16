@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D129280354-LROR
+Domain Name:NOBLIS.ORG
+Created On:20-Sep-2006 14:55:56 UTC
+Last Updated On:21-Jul-2008 17:20:54 UTC
+Expiration Date:20-Sep-2013 14:55:56 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:3113796-NSI
+Registrant Name:Noblis, Inc.
+Registrant Organization:Noblis, Inc.
+Registrant Street1:3150 FAIRVIEW PARK DR
+Registrant Street2:
+Registrant Street3:
+Registrant City:FALLS CHURCH
+Registrant State/Province:VA
+Registrant Postal Code:22042-4504
+Registrant Country:US
+Registrant Phone:+1.7036102525
+Registrant Phone Ext.:
+Registrant FAX:+1.7036102339
+Registrant FAX Ext.:
+Registrant Email:ghogan@mitretek.org
+Admin ID:31335937-NSI
+Admin Name:Marty Maziarz
+Admin Organization:Noblis
+Admin Street1:3150 Fairview Park Dr.
+Admin Street2:
+Admin Street3:
+Admin City:Fall Church
+Admin State/Province:VA
+Admin Postal Code:22042
+Admin Country:US
+Admin Phone:+1.7036102015
+Admin Phone Ext.:
+Admin FAX:+1.7039922015
+Admin FAX Ext.:
+Admin Email:mmaziarz@noblis.ORG
+Tech ID:3113796-NSI
+Tech Name:Noblis, Inc.
+Tech Organization:Noblis, Inc.
+Tech Street1:3150 FAIRVIEW PARK DR
+Tech Street2:
+Tech Street3:
+Tech City:FALLS CHURCH
+Tech State/Province:VA
+Tech Postal Code:22042-4504
+Tech Country:US
+Tech Phone:+1.7036102525
+Tech Phone Ext.:
+Tech FAX:+1.7036102339
+Tech FAX Ext.:
+Tech Email:ghogan@mitretek.org
+Name Server:AUTH00.NS.UU.NET
+Name Server:AUTH100.NS.UU.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

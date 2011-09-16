@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104509232-LROR
+Domain Name:VOLEYSUR.ORG
+Created On:08-Jun-2004 18:56:58 UTC
+Last Updated On:09-Jun-2011 01:23:40 UTC
+Expiration Date:08-Jun-2012 18:56:58 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:45612834-NSI
+Registrant Name:CSV
+Registrant Street1:AV DAS AMERICAS 700
+Registrant Street2:BL 6 SALA 232
+Registrant Street3:
+Registrant City:RIO DE JANEIRO
+Registrant State/Province:RIO DE JANEIRO
+Registrant Postal Code:20640-100
+Registrant Country:BR
+Registrant Phone:+55.2121327857
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mwangler@voleysur.org
+Admin ID:45612834-NSI
+Admin Name:CSV
+Admin Street1:AV DAS AMERICAS 700
+Admin Street2:BL 6 SALA 232
+Admin Street3:
+Admin City:RIO DE JANEIRO
+Admin State/Province:RIO DE JANEIRO
+Admin Postal Code:20640-100
+Admin Country:BR
+Admin Phone:+55.2121327857
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mwangler@voleysur.org
+Tech ID:45612834-NSI
+Tech Name:CSV
+Tech Street1:AV DAS AMERICAS 700
+Tech Street2:BL 6 SALA 232
+Tech Street3:
+Tech City:RIO DE JANEIRO
+Tech State/Province:RIO DE JANEIRO
+Tech Postal Code:20640-100
+Tech Country:BR
+Tech Phone:+55.2121327857
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mwangler@voleysur.org
+Name Server:NS1.LOCAWEB.COM.BR
+Name Server:NS2.LOCAWEB.COM.BR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

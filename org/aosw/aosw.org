@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1871968-LROR
+Domain Name:AOSW.ORG
+Created On:29-Aug-1998 04:00:00 UTC
+Last Updated On:22-Aug-2011 18:19:14 UTC
+Expiration Date:28-Aug-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:OK
+Registrant ID:26071569-NSI
+Registrant Name:Association of Oncology Social Workers
+Registrant Organization:Association of Oncology Social Workers
+Registrant Street1:100 North 20th St.
+Registrant Street2:Suite 400
+Registrant Street3:
+Registrant City:Philadelphia
+Registrant State/Province:PA
+Registrant Postal Code:19103
+Registrant Country:US
+Registrant Phone:+1.2155996093
+Registrant Phone Ext.:
+Registrant FAX:+1.2155458107
+Registrant FAX Ext.:
+Registrant Email:jeff@creative-energy-design.com
+Admin ID:26071570-NSI
+Admin Name:ProAccess Webmaster
+Admin Organization:ProAccess Internet Services, LLC
+Admin Street1:P.O. Box 7
+Admin Street2:
+Admin Street3:
+Admin City:Magdalena
+Admin State/Province:NM
+Admin Postal Code:87825
+Admin Country:US
+Admin Phone:+1.5758543000
+Admin Phone Ext.:
+Admin FAX:+1.8667916046
+Admin FAX Ext.:
+Admin Email:jmapple@proaccess.net
+Tech ID:26071570-NSI
+Tech Name:ProAccess Webmaster
+Tech Organization:ProAccess Internet Services, LLC
+Tech Street1:P.O. Box 7
+Tech Street2:
+Tech Street3:
+Tech City:Magdalena
+Tech State/Province:NM
+Tech Postal Code:87825
+Tech Country:US
+Tech Phone:+1.5758543000
+Tech Phone Ext.:
+Tech FAX:+1.8667916046
+Tech FAX Ext.:
+Tech Email:jmapple@proaccess.net
+Name Server:KITSUNE.SWCP.COM
+Name Server:NS.PROAXS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
