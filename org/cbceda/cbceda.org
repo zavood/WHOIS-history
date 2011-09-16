@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3548218-LROR
+Domain Name:CBCEDA.ORG
+Created On:27-Dec-1995 05:00:00 UTC
+Last Updated On:18-Oct-2010 17:14:23 UTC
+Expiration Date:26-Dec-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30364731-NSI
+Registrant Name:Cape Breton County Economic De
+Registrant Organization:Cape Breton County Economic De
+Registrant Street1:338 Charlotte St, rm 3
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sydney
+Registrant State/Province:
+Registrant Postal Code:NS
+Registrant Country:CA
+Registrant Phone:+1.9025622201
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@CBCEDA.ORG
+Admin ID:30364733-NSI
+Admin Name:Cape Breton County Economic De
+Admin Organization:Cape Breton County Economic De
+Admin Street1:338 Charlotte St, rm 3
+Admin Street2:Sydney, NS b1p 1c8
+Admin Street3:
+Admin City:Unknown
+Admin State/Province:
+Admin Postal Code:99999
+Admin Country:CA
+Admin Phone:+1.9025622201
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@CBCEDA.ORG
+Tech ID:21568634-NSI
+Tech Name:Michael ContactMiddleName Elberg
+Tech Street1:190 Commerce Way
+Tech Street2:
+Tech Street3:
+Tech City:Portsmouth
+Tech State/Province:NH
+Tech Postal Code:03801
+Tech Country:US
+Tech Phone:+1.603559870
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:michael.elberg@irvingoil.com
+Name Server:ONYX.NBNET.NB.CA
+Name Server:OPAL.NBNET.NB.CA
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

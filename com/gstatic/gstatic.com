@@ -23,7 +23,7 @@ for detailed information.
    Creation Date: 11-feb-2008
    Expiration Date: 11-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:24:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 11:29:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -119,9 +119,9 @@ Registrant:
     Domain servers in listed order:
 
     ns3.google.com
-    ns2.google.com
-    ns4.google.com
     ns1.google.com
+    ns4.google.com
+    ns2.google.com
 
 
 
@@ -136,4 +136,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
---
+

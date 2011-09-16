@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      vivastreet.ie
+descr:       W3 Inc
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Registered Trade Mark Name
+admin-c:     AJP531-IEDR
+tech-c:      AGE218-IEDR
+renewal:     24-July-2012
+status:      Active
+nserver:     ns1.nyc1.vivastreet.com
+nserver:     ns2.nyc1.vivastreet.com
+nserver:     NS1.NYC2.VIVASTREET.COM
+source:      IEDR
+
+person:      Jean C Pons
+nic-hdl:     AJP531-IEDR
+source:      IEDR
+
+person:      Antonio Lentino
+nic-hdl:     AGE218-IEDR
+source:      IEDR
+

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156727633-LROR
+Domain Name:AELIINTERNATIONAL.ORG
+Created On:25-Jul-2009 02:07:59 UTC
+Last Updated On:02-Aug-2011 07:10:05 UTC
+Expiration Date:25-Jul-2012 02:07:59 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR9030826
+Registrant Name:Ravi Thomas
+Registrant Organization:Aluva English Language Institute
+Registrant Street1:Aeli Hills
+Registrant Street2:Keezhmadu, Thottumugham. P.O, Aluva
+Registrant Street3:
+Registrant City:Eranakulam
+Registrant State/Province:Kerala
+Registrant Postal Code:000000
+Registrant Country:IN
+Registrant Phone:+91.9446349060
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:madhukaleeckal@gmail.com
+Admin ID:CR9030828
+Admin Name:Ravi Thomas
+Admin Organization:Aluva English Language Institute
+Admin Street1:Aeli Hills
+Admin Street2:Keezhmadu, Thottumugham. P.O, Aluva
+Admin Street3:
+Admin City:Eranakulam
+Admin State/Province:Kerala
+Admin Postal Code:000000
+Admin Country:IN
+Admin Phone:+91.9446349060
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:madhukaleeckal@gmail.com
+Tech ID:CR9030827
+Tech Name:Ravi Thomas
+Tech Organization:Aluva English Language Institute
+Tech Street1:Aeli Hills
+Tech Street2:Keezhmadu, Thottumugham. P.O, Aluva
+Tech Street3:
+Tech City:Eranakulam
+Tech State/Province:Kerala
+Tech Postal Code:000000
+Tech Country:IN
+Tech Phone:+91.9446349060
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:madhukaleeckal@gmail.com
+Name Server:NS1.MYGLOBALINDEX.INFO
+Name Server:NS2.MYGLOBALINDEX.INFO
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

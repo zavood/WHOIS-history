@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D77289947-LROR
+Domain Name:BIRDWATCHGALWAY.ORG
+Created On:13-Sep-2001 22:54:05 UTC
+Last Updated On:06-Sep-2011 13:36:07 UTC
+Expiration Date:13-Sep-2013 22:54:05 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-70900
+Registrant Name:Chris Peppiatt
+Registrant Organization:BirdWatch Galway
+Registrant Street1:101 Fiars Hill
+Registrant Street2:Bishop O Donnell Road
+Registrant Street3:
+Registrant City:Galway City
+Registrant State/Province:
+Registrant Postal Code:NA
+Registrant Country:IE
+Registrant Phone:+353.91862566
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:chris.peppiatt@iol.ie
+Admin ID:CORG-70901
+Admin Name:Chris Peppiatt
+Admin Organization:BirdWatch Galway
+Admin Street1:101 Friars Hill
+Admin Street2:Bishop O Donnell Road
+Admin Street3:
+Admin City:Galway City
+Admin State/Province:
+Admin Postal Code:NA
+Admin Country:IE
+Admin Phone:+353.91539437
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:chris.peppiatt@iol.ie
+Tech ID:CORG-70901
+Tech Name:Chris Peppiatt
+Tech Organization:BirdWatch Galway
+Tech Street1:101 Friars Hill
+Tech Street2:Bishop O Donnell Road
+Tech Street3:
+Tech City:Galway City
+Tech State/Province:
+Tech Postal Code:NA
+Tech Country:IE
+Tech Phone:+353.91539437
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:chris.peppiatt@iol.ie
+Name Server:NS57.WEBSITEWELCOME.COM
+Name Server:NS58.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

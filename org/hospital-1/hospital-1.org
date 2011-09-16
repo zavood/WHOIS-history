@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D74818473-LROR
+Domain Name:HOSPITAL-1.ORG
+Created On:09-Jul-2001 14:28:35 UTC
+Last Updated On:21-Jun-2010 17:07:26 UTC
+Expiration Date:09-Jul-2012 14:28:35 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22438093-NSI
+Registrant Name:PHLAKE
+Registrant Organization:PHLAKE
+Registrant Street1:sicklingsvagen 3, 5th floor
+Registrant Street2:
+Registrant Street3:
+Registrant City:Enskede
+Registrant State/Province:
+Registrant Postal Code:12246
+Registrant Country:SE
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:erik@COLLIANDER.PP.SE
+Admin ID:15435273-NSI
+Admin Name:Erik Colliander
+Admin Organization:compartment AB
+Admin Street1:Box 1164
+Admin Street2:Attn Erik Colliander
+Admin Street3:
+Admin City:Stockholm
+Admin State/Province:Enskede
+Admin Postal Code:SE-12115
+Admin Country:SE
+Admin Phone:+46.8915544
+Admin Phone Ext.:
+Admin FAX:+46.703817726
+Admin FAX Ext.:
+Admin Email:erik@compartment.se
+Tech ID:5358805-NSI
+Tech Name:Network Solutions, LLC.
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:DNS1.HOSPITAL-1.ORG
+Name Server:NS.COMPARTMENT.SE
+Name Server:NS2.COMPARTMENT.SE
+Name Server:DNS2.HOSPITAL-1.ORG
+Name Server:NS3.COMPARTMENT.NU
+Name Server:NS6.COMPARTMENT.SE
+Name Server:NS9.COMPARTMENT.SE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

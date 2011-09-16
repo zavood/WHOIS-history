@@ -1,0 +1,71 @@
+% Copyright (c) 2010 by DENIC
+% Version: 2.0
+%
+% Restricted rights.
+%
+% Terms and Conditions of Use
+%
+% The data in this record is provided by DENIC for informational purposes only.
+% DENIC does not guarantee its accuracy and cannot, under any circumstances,
+% be held liable in case the stored information would prove to be wrong,
+% incomplete or not accurate in any sense.
+%
+% All the domain data that is visible in the whois service is protected by law.
+% It is not permitted to use it for any purpose other than technical or
+% administrative requirements associated with the operation of the Internet.
+% It is explicitly forbidden to extract, copy and/or use or re-utilise in any
+% form and by any means (electronically or not) the whole or a quantitatively
+% or qualitatively substantial part of the contents of the whois database
+% without prior and explicit written permission by DENIC.
+% It is prohibited, in particular, to use it for transmission of unsolicited
+% and/or commercial and/or advertising by phone, fax, e-mail or for any similar
+% purposes.
+%
+% By maintaining the connection you assure that you have a legitimate interest
+% in the data and that you will only use it for the stated purposes. You are
+% aware that DENIC maintains the right to initiate legal proceedings against
+% you in the event of any breach of this assurance and to bar you from using
+% its whois service.
+%
+% The DENIC whois service on port 43 never discloses any information concerning
+% the domain holder/administrative contact. Information concerning the domain
+% holder/administrative contact can be obtained through use of our web-based
+% whois service available at the DENIC website:
+% http://www.denic.de/en/background/whois-service/webwhois.html
+%
+
+Domain: konjugation.de
+Nserver: ns.inet00.de
+Nserver: ns.inet01.de
+Nserver: ns.inet02.de
+Nserver: ns1.inet00.de
+Status: connect
+Changed: 2009-02-05T15:32:03+01:00
+
+[Tech-C]
+Type: PERSON
+Name: Martin Rautenberg
+Organisation: inetsolutions.de
+Address: Wiesenstr. 18
+PostalCode: 07749
+City: Jena
+CountryCode: DE
+Phone: +49.18059999720
+Fax: +49.18059999721
+Email: info@inetsolutions.de
+Remarks: WebHosting inetsolutions.de
+Changed: 2009-06-12T17:01:05+02:00
+
+[Zone-C]
+Type: PERSON
+Name: Martin Rautenberg
+Organisation: inetsolutions.de
+Address: Wiesenstr. 18
+PostalCode: 07749
+City: Jena
+CountryCode: DE
+Phone: +49.18059999720
+Fax: +49.18059999721
+Email: info@inetsolutions.de
+Remarks: WebHosting inetsolutions.de
+Changed: 2009-06-12T17:01:05+02:00

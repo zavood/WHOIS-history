@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159197706-LROR
+Domain Name:VISION64.ORG
+Created On:17-May-2010 13:50:11 UTC
+Last Updated On:09-Aug-2011 09:23:16 UTC
+Expiration Date:17-May-2012 13:50:11 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ncr-10647982-f8c
+Registrant Name:Alan Twigg
+Registrant Organization:Vision64
+Registrant Street1:Schulenburgs Kamp 8
+Registrant Street2:
+Registrant Street3:
+Registrant City:Zetel
+Registrant State/Province:RP
+Registrant Postal Code:26340
+Registrant Country:DE
+Registrant Phone:+49.04452948615
+Registrant Phone Ext.:
+Registrant FAX:+1.04452948619
+Registrant FAX Ext.:
+Registrant Email:service@vision64.com
+Admin ID:nca-10647983-b84
+Admin Name:Alan Twigg
+Admin Organization:Vision64
+Admin Street1:Schulenburgs Kamp 8
+Admin Street2:
+Admin Street3:
+Admin City:Zetel
+Admin State/Province:RP
+Admin Postal Code:26340
+Admin Country:DE
+Admin Phone:+49.04452948615
+Admin Phone Ext.:
+Admin FAX:+1.04452948619
+Admin FAX Ext.:
+Admin Email:service@vision64.com
+Tech ID:nct-10647984-286
+Tech Name:Alan Twigg
+Tech Organization:Vision64
+Tech Street1:Schulenburgs Kamp 8
+Tech Street2:
+Tech Street3:
+Tech City:Zetel
+Tech State/Province:RP
+Tech Postal Code:26340
+Tech Country:DE
+Tech Phone:+49.04452948615
+Tech Phone Ext.:
+Tech FAX:+1.04452948619
+Tech FAX Ext.:
+Tech Email:service@vision64.com
+Name Server:NS1.VISION64.ORG
+Name Server:NS2.VISION64.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

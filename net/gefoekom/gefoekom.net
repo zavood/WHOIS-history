@@ -1,0 +1,155 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: GEFOEKOM.NET
+   Registrar: PSI-USA, INC. DBA DOMAIN ROBOT
+   Whois Server: whois.psi-usa.info
+   Referral URL: http://www.psi-usa.info
+   Name Server: NS1.GEFOEKOM.NET
+   Name Server: NS10.SCHLUNDTECH.DE
+   Name Server: NS2.GEFOEKOM.NET
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 16-dec-2010
+   Creation Date: 15-dec-1999
+   Expiration Date: 15-dec-2011
+
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 11:36:00 UTC &lt;&lt;&lt;
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' (&quot;VeriSign&quot;) Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+%
+% =============
+% PSI-USA, Inc.
+% =============
+%
+% This is the PSI-USA, Inc. WHOIS server.
+%
+% All requests are logged.
+%
+% Requesting IP: 67.231.254.15
+% Requesting URL: http://whois.psi-usa.info
+% Requesting Object: domain gefoekom.net
+% Timestamp: 2011-09-16 13:36:36
+%
+% You can see the policy that you agree by submitting a query to this server:
+% whois -h whois.psi-usa.info POLICY
+
+
+domain:                      gefoekom.net
+status:                      LOCK
+owner-c:                     LULU-9282450
+admin-c:                     LULU-642355
+tech-c:                      LULU-633110
+zone-c:                      LULU-633110
+nserver:                     ns1.gefoekom.net
+nserver:                     ns2.gefoekom.net
+nserver:                     ns10.schlundtech.de
+created:                     1999-12-16 01:45:33
+expire:                      2011-12-16 01:45:33 (registry time)
+changed:                     2011-04-05 22:30:16
+
+[owner-c] handle:            9282450
+[owner-c] type:              ORG
+[owner-c] title:
+[owner-c] fname:             Der
+[owner-c] lname:             Vorstand
+[owner-c] org:               GeFoekom e.V.
+[owner-c] address:           Haugerring 6
+[owner-c] city:              Wuerzburg
+[owner-c] pcode:             97070
+[owner-c] country:           DE
+[owner-c] state:             Bayern
+[owner-c] phone:             +49-931-2600-110
+[owner-c] fax:               +49-931-2600-111
+[owner-c] email:             info@gefoekom.de
+[owner-c] protection:        B
+[owner-c] updated:           2006-03-17 13:47:56
+
+[admin-c] handle:            642355
+[admin-c] type:              PERSON
+[admin-c] title:
+[admin-c] fname:             Sascha
+[admin-c] lname:             Lenz
+[admin-c] org:
+[admin-c] address:           Sebastiansweg 3
+[admin-c] city:              Wiesentheid-Reupelsdorf
+[admin-c] pcode:             97353
+[admin-c] country:           DE
+[admin-c] state:             Bayern
+[admin-c] phone:             +49-9383-901477
+[admin-c] fax:               +49-9383-901367
+[admin-c] email:             slz@s-lz.net
+[admin-c] protection:        B
+[admin-c] updated:           2007-03-25 00:02:26
+
+[tech-c] handle:             633110
+[tech-c] type:               PERSON
+[tech-c] title:
+[tech-c] fname:              GeFoekoM
+[tech-c] lname:              Hostmaster
+[tech-c] org:                GeFoekoM e.V.
+[tech-c] address:            Haugerring 6
+[tech-c] city:               Wuerzburg
+[tech-c] pcode:              97070
+[tech-c] country:            DE
+[tech-c] state:              Bayern
+[tech-c] phone:              +49-931-2600-110
+[tech-c] fax:                +49-931-2600-111
+[tech-c] email:              noc@gefoekom.net
+[tech-c] protection:         A
+[tech-c] updated:            2006-03-17 12:58:31
+
+[zone-c] handle:             633110
+[zone-c] type:               PERSON
+[zone-c] title:
+[zone-c] fname:              GeFoekoM
+[zone-c] lname:              Hostmaster
+[zone-c] org:                GeFoekoM e.V.
+[zone-c] address:            Haugerring 6
+[zone-c] city:               Wuerzburg
+[zone-c] pcode:              97070
+[zone-c] country:            DE
+[zone-c] state:              Bayern
+[zone-c] phone:              +49-931-2600-110
+[zone-c] fax:                +49-931-2600-111
+[zone-c] email:              noc@gefoekom.net
+[zone-c] protection:         A
+[zone-c] updated:            2006-03-17 12:58:31
+

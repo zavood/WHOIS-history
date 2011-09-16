@@ -1,0 +1,32 @@
+[Domain]
+Domain: microlink.lv
+Status: active
+Changed: 2011-06-20T13:40:45.717900+03:00
+
+[Holder]
+Type: Legal person
+Name: Lattelecom Technology, SIA
+Email: aivars.sterns@lattelecom.lv
+Phone: +371 67055282
+Address: G.Astras iela 2, Riga, LV-1082, Latvia
+RegNr: 40003016728
+
+[Tech]
+Type: Natural person
+Email: aivars.sterns@lattelecom.lv
+Phone: +371 67055282
+
+[Registrar]
+Type: Legal person
+Name: Lattelecom Technology, SIA
+Email: aivars.sterns@lattelecom.lv
+Phone: +371 67055282
+Address: G.Astras iela 2, Riga, LV-1082, Latvia
+RegNr: 40003016728
+
+[Nservers]
+Nserver: ns.online.lv
+Nserver: ns2.online.lv
+
+[Whois]
+Updated: 2011-09-16T11:12:25.238727+00:00

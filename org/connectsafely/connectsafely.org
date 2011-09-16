@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D134611320-LROR
+Domain Name:CONNECTSAFELY.ORG
+Created On:09-Dec-2006 05:04:45 UTC
+Last Updated On:25-Aug-2010 16:08:23 UTC
+Expiration Date:09-Dec-2013 05:04:45 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32646457
+Registrant Name:Larry Magid
+Registrant Street1:3481 Greer Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Palo Alto
+Registrant State/Province:California
+Registrant Postal Code:94303
+Registrant Country:US
+Registrant Phone:+1.6508139478
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:larry@larrymagid.com
+Admin ID:CR32646459
+Admin Name:Larry Magid
+Admin Street1:3481 Greer Rd.
+Admin Street2:
+Admin Street3:
+Admin City:Palo Alto
+Admin State/Province:California
+Admin Postal Code:94303
+Admin Country:US
+Admin Phone:+1.6508139478
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:larry@larrymagid.com
+Tech ID:CR32646458
+Tech Name:Larry Magid
+Tech Street1:3481 Greer Rd.
+Tech Street2:
+Tech Street3:
+Tech City:Palo Alto
+Tech State/Province:California
+Tech Postal Code:94303
+Tech Country:US
+Tech Phone:+1.6508139478
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:larry@larrymagid.com
+Name Server:NS1.BLUEHOST.COM
+Name Server:NS2.BLUEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106001824-LROR
+Domain Name:ASKACOP.ORG
+Created On:02-Apr-2005 01:36:07 UTC
+Last Updated On:07-Sep-2011 14:28:39 UTC
+Expiration Date:02-Apr-2013 01:36:07 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_1310712
+Registrant Name:John Loftus (2190638187)
+Registrant Organization:Mightyheros
+Registrant Street1:PO Box 849
+Registrant Street2:NA
+Registrant Street3:
+Registrant City:Seabeck
+Registrant State/Province:WA
+Registrant Postal Code:98380
+Registrant Country:US
+Registrant Phone:+0.3605091141
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mightyheros@yahoo.com
+Admin ID:DI_1310712
+Admin Name:John Loftus (2190638187)
+Admin Organization:Mightyheros
+Admin Street1:PO Box 849
+Admin Street2:NA
+Admin Street3:
+Admin City:Seabeck
+Admin State/Province:WA
+Admin Postal Code:98380
+Admin Country:US
+Admin Phone:+0.3605091141
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mightyheros@yahoo.com
+Tech ID:DI_1310712
+Tech Name:John Loftus (2190638187)
+Tech Organization:Mightyheros
+Tech Street1:PO Box 849
+Tech Street2:NA
+Tech Street3:
+Tech City:Seabeck
+Tech State/Province:WA
+Tech Postal Code:98380
+Tech Country:US
+Tech Phone:+0.3605091141
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mightyheros@yahoo.com
+Name Server:NS8.BRAVEHOST.COM
+Name Server:NS7.BRAVEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,18 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DICE-COUNTY.COM
-   Registrar: GMO INTERNET, INC. DBA ONAMAE.COM
-   Whois Server: whois.discount-domain.com
-   Referral URL: http://www.onamae.com
-   Name Server: NS1.MUUMUU-DOMAIN.COM
-   Name Server: NS2.MUUMUU-DOMAIN.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 28-jun-2010
-   Expiration Date: 28-jun-2011
-
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 07:58:22 UTC &lt;&lt;&lt;
+No match for &quot;DICE-COUNTY.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 11:29:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,9 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-GMO Internet, Inc. whois server 2.0
-
-This server only serves information on GMO Internet,Inc.-maintained domain names
-For more information, please contact hostmaster@gmo.jp.
-
-No match for &quot;dice-county.com&quot;.

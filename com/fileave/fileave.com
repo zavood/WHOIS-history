@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 28-may-2006
    Expiration Date: 28-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:19:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 11:32:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -109,7 +109,7 @@ Smith, Scott
 
    Record expires on 28-May-2012.
    Record created on 24-Sep-2008.
-   Database last updated on 15-Sep-2011 00:09:34 EDT.
+   Database last updated on 16-Sep-2011 07:22:53 EDT.
 
    Domain servers in listed order:
 

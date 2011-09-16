@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D118562022-LROR
+Domain Name:BELTONALUMNI.ORG
+Created On:16-Mar-2006 18:30:11 UTC
+Last Updated On:04-Dec-2009 11:31:25 UTC
+Expiration Date:16-Mar-2014 18:30:11 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31899390
+Registrant Name:Heather McFarland
+Registrant Organization:Belton Educational Foundation
+Registrant Street1:110 W Walnut
+Registrant Street2:
+Registrant Street3:
+Registrant City:Belton
+Registrant State/Province:Missouri
+Registrant Postal Code:64012
+Registrant Country:US
+Registrant Phone:+1.8163481000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hmcfarland@bsd124.org
+Admin ID:CR31899392
+Admin Name:Heather McFarland
+Admin Organization:Belton Educational Foundation
+Admin Street1:110 W Walnut
+Admin Street2:
+Admin Street3:
+Admin City:Belton
+Admin State/Province:Missouri
+Admin Postal Code:64012
+Admin Country:US
+Admin Phone:+1.8163481000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hmcfarland@bsd124.org
+Tech ID:CR31899391
+Tech Name:Heather McFarland
+Tech Organization:Belton Educational Foundation
+Tech Street1:110 W Walnut
+Tech Street2:
+Tech Street3:
+Tech City:Belton
+Tech State/Province:Missouri
+Tech Postal Code:64012
+Tech Country:US
+Tech Phone:+1.8163481000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hmcfarland@bsd124.org
+Name Server:NS43.DOMAINCONTROL.COM
+Name Server:NS44.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

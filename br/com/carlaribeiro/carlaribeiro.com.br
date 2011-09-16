@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 08:29:26 (BRT -03:00)
+
+domain:      carlaribeiro.com.br
+owner:       Carla Ribeiro Testa ME
+ownerid:     037.054.103/0001-44
+responsible: Carla Ribeiro Testa
+country:     BR
+owner-c:     BMO7
+admin-c:     BMO7
+tech-c:      BMO7
+billing-c:   CRT46
+nserver:     ns1209.websitewelcome.com
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns1210.websitewelcome.com
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     19990712 #177182
+expires:     20120712
+changed:     20100803
+status:      published
+
+nic-hdl-br:  BMO7
+person:      Bruno Mello Ribeiro de Oliveira
+e-mail:      bmro@hotmail.com
+created:     20030219
+changed:     20100721
+
+nic-hdl-br:  CRT46
+person:      Carla Ribeiro Testa
+e-mail:      carlaribeirotesta@yahoo.com.br
+created:     20010606
+changed:     20100509
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

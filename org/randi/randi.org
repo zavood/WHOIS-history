@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D21557-LROR
+Domain Name:RANDI.ORG
+Created On:05-Mar-1996 05:00:00 UTC
+Last Updated On:10-Jun-2011 21:43:04 UTC
+Expiration Date:06-Mar-2012 05:00:00 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-0C0X0UWX0RT8
+Registrant Name:JREF Admininstrator
+Registrant Organization:The James Randi Educational Foundation
+Registrant Street1:2941 Fairview Park Dr
+Registrant Street2:Suite 105
+Registrant Street3:
+Registrant City:Falls Chuch
+Registrant State/Province:VA
+Registrant Postal Code:22042
+Registrant Country:US
+Registrant Phone:+1.7032263782
+Registrant Phone Ext.:
+Registrant FAX:+1.7032263783
+Registrant FAX Ext.:
+Registrant Email:jrefdomain11@randi.org
+Admin ID:DOT-5NCU5A2EP5H5
+Admin Name:JREF Admininstrator
+Admin Organization:The James Randi Educational Foundation
+Admin Street1:2941 Fairview Park Dr
+Admin Street2:Suite 105
+Admin Street3:
+Admin City:Falls Chuch
+Admin State/Province:VA
+Admin Postal Code:22042
+Admin Country:US
+Admin Phone:+1.7032263782
+Admin Phone Ext.:
+Admin FAX:+1.7032263783
+Admin FAX Ext.:
+Admin Email:jrefdomain11@randi.org
+Tech ID:DOT-I1H1IA0V668U
+Tech Name:JREF Admininstrator
+Tech Organization:The James Randi Educational Foundation
+Tech Street1:2941 Fairview Park Dr
+Tech Street2:Suite 105
+Tech Street3:
+Tech City:Falls Chuch
+Tech State/Province:VA
+Tech Postal Code:22042
+Tech Country:US
+Tech Phone:+1.7032263782
+Tech Phone Ext.:
+Tech FAX:+1.7032263783
+Tech FAX Ext.:
+Tech Email:jrefdomain11@randi.org
+Name Server:SFBA.SNS-PB.ISC.ORG
+Name Server:ORD.SNS-PB.ISC.ORG
+Name Server:AMS.SNS-PB.ISC.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

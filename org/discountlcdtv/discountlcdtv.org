@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153365702-LROR
+Domain Name:DISCOUNTLCDTV.ORG
+Created On:16-Jul-2008 10:32:54 UTC
+Last Updated On:01-Jul-2011 12:44:48 UTC
+Expiration Date:16-Jul-2012 10:32:54 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:NF-OWNER-98102
+Registrant Name:nuttakamol boonlai
+Registrant Organization:koy
+Registrant Street1:suksawat
+Registrant Street2:
+Registrant Street3:
+Registrant City:ratburana
+Registrant State/Province:NA
+Registrant Postal Code:10140
+Registrant Country:TH
+Registrant Phone:+1.6628717096
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:phoenix_wawa@hotmail.com
+Admin ID:NF-ADMIN-98102
+Admin Name:nuttakamol boonlai
+Admin Organization:koy
+Admin Street1:suksawat
+Admin Street2:
+Admin Street3:
+Admin City:ratburana
+Admin State/Province:NA
+Admin Postal Code:10140
+Admin Country:TH
+Admin Phone:+1.6628717096
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:phoenix_wawa@hotmail.com
+Tech ID:NF-TECH-98102
+Tech Name:Domains Manager
+Tech Street1:5160 Yonge St., 1800
+Tech Street2:
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:ON
+Tech Postal Code:M2N 6L9
+Tech Country:CA
+Tech Phone:+1.4166612100
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@netfirms.com
+Name Server:NS2194.HOSTGATOR.COM
+Name Server:NS2193.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
