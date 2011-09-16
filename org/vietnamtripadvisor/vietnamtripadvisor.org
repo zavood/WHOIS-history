@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157555959-LROR
+Domain Name:VIETNAMTRIPADVISOR.ORG
+Created On:10-Nov-2009 08:36:45 UTC
+Last Updated On:23-Sep-2010 01:21:14 UTC
+Expiration Date:10-Nov-2011 08:36:45 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-QK3683C858Q9
+Registrant Name:Phung Quang Dung
+Registrant Street1:51 Khuong Thuong
+Registrant Street2:Dong Da
+Registrant Street3:
+Registrant City:Hanoi
+Registrant State/Province:Vietnam
+Registrant Postal Code:0084
+Registrant Country:VN
+Registrant Phone:+84.979816679
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:qdungeng@gmail.com
+Admin ID:DOT-0S34C0DBY36Z
+Admin Name:Phung Quang Dung
+Admin Street1:51 Khuong Thuong
+Admin Street2:Dong Da
+Admin Street3:
+Admin City:Hanoi
+Admin State/Province:Vietnam
+Admin Postal Code:0084
+Admin Country:VN
+Admin Phone:+84.979816679
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:qdungeng@gmail.com
+Tech ID:DOT-NPLMZQ4BTLBA
+Tech Name:Phung Quang Dung
+Tech Street1:51 Khuong Thuong
+Tech Street2:Dong Da
+Tech Street3:
+Tech City:Hanoi
+Tech State/Province:Vietnam
+Tech Postal Code:0084
+Tech Country:VN
+Tech Phone:+84.979816679
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:qdungeng@gmail.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

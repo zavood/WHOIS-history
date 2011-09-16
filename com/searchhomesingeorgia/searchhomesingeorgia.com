@@ -23,7 +23,7 @@ for detailed information.
    Creation Date: 20-aug-2010
    Expiration Date: 20-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 22:39:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 21:40:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -81,29 +81,9 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Christa Michael
-   1910 Grant LN
-   Woodstock, Georgia 30188
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: SEARCHHOMESINGEORGIA.COM
-      Created on: 20-Aug-10
-      Expires on: 20-Aug-13
-      Last Updated on: 03-Sep-10
-
-   Administrative Contact:
-      Michael, Christa  cmsellsga@gmail.com
-      1910 Grant LN
-      Woodstock, Georgia 30188
-      United States
-      (770) 598-7771      Fax --
-
-   Technical Contact:
-      Michael, Christa  cmsellsga@gmail.com
-      1910 Grant LN
-      Woodstock, Georgia 30188
-      United States
-      (770) 598-7771      Fax --
 
    Domain servers in listed order:
       PDNS1.ULTRADNS.NET
@@ -113,3 +93,6 @@ Registrant:
       PDNS5.ULTRADNS.INFO
       PDNS6.ULTRADNS.CO.UK
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=SEARCHHOMESINGEORGIA.COM
