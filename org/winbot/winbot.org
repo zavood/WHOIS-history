@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106675831-LROR
+Domain Name:WINBOT.ORG
+Created On:20-Jun-2005 18:29:37 UTC
+Last Updated On:23-Aug-2011 21:46:44 UTC
+Expiration Date:20-Jun-2012 18:29:37 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tu2ARyrnOD5YNp3b
+Registrant Name:Craig Edwards
+Registrant Organization:Crypt Software
+Registrant Street1:44 Rockwood Crescent
+Registrant Street2:Hucknall
+Registrant Street3:
+Registrant City:Nottingham
+Registrant State/Province:nottinghamshire
+Registrant Postal Code:NG156PY
+Registrant Country:GB
+Registrant Phone:+1.7540791822
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:brain@ssod.org
+Admin ID:turdAq3VjaiUZzFG
+Admin Name:Craig Edwards
+Admin Organization:Crypt Software
+Admin Street1:44 Rockwood Crescent
+Admin Street2:Hucknall
+Admin Street3:
+Admin City:Nottingham
+Admin State/Province:nottinghamshire
+Admin Postal Code:NG156PY
+Admin Country:GB
+Admin Phone:+1.7540791822
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:brain@ssod.org
+Tech ID:tucplTO7Z9iQK6nE
+Tech Name:Craig Edwards
+Tech Organization:Crypt Software
+Tech Street1:44 Rockwood Crescent
+Tech Street2:Hucknall
+Tech Street3:
+Tech City:Nottingham
+Tech State/Province:nottinghamshire
+Tech Postal Code:NG156PY
+Tech Country:GB
+Tech Phone:+1.7540791822
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:brain@ssod.org
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

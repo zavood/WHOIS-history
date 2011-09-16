@@ -1,0 +1,71 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         iblog.at
+registrant:     CK3987579-NICAT
+admin-c:        CK3987580-NICAT
+tech-c:         CK3987581-NICAT
+nserver:        ns1.e-lab.nl
+nserver:        ns2.e-lab.nl
+changed:        20080921 19:20:12
+source:         AT-DOM
+
+personname:     Colin Klinkert
+organization:
+street address: 1 Bld Du Jardin Exotique
+postal code:    98000
+city:           Monaco
+country:        Monaco
+phone:          +33643918446
+fax-no:         +331111111
+e-mail:         klinkecs01@gmail.com
+nic-hdl:        CK3987579-NICAT
+changed:        20080921 18:40:16
+source:         AT-DOM
+
+personname:     Colin Klinkert
+organization:
+street address: 1 Bld Du Jardin Exotique
+postal code:    98000
+city:           Monaco
+country:        Monaco
+phone:          +33643918446
+fax-no:         +331111111
+e-mail:         klinkecs01@gmail.com
+nic-hdl:        CK3987580-NICAT
+changed:        20080921 18:40:23
+source:         AT-DOM
+
+personname:     Colin Klinkert
+organization:
+street address: 1 Bld Du Jardin Exotique, Kenmore Hills
+postal code:    98000
+city:           Monaco
+country:        Monaco
+phone:          +33643918446
+fax-no:         +331111111
+e-mail:         klinkecs01@gmail.com
+nic-hdl:        CK3987581-NICAT
+changed:        20080921 18:40:26
+source:         AT-DOM
+

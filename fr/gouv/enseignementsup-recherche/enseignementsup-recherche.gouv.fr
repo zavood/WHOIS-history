@@ -1,0 +1,88 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; enseignementsup-recherche.gouv.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      enseignementsup-recherche.gouv.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MDLE110-FRNIC
+admin-c:     ACMD360-FRNIC
+tech-c:      AMC66-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1807-FRNIC
+registrar:   ATOS WORLDLINE
+anniversary: 08/06
+created:     08/06/2007
+last-update: 22/03/2009
+source:      FRNIC
+
+ns-list:     NSL1807-FRNIC
+nserver:     ns3.atos.net
+nserver:     ns4.atos.net
+source:      FRNIC
+
+registrar:   ATOS WORLDLINE
+type:        Isp Option 2
+anonymous:   YES
+registered:  19/01/2005
+source:      FRNIC
+
+nic-hdl:     ACMD360-FRNIC
+type:        PERSON
+contact:     admin-c Ministere de l'enseignement sup&eacute;rieur et de la recherche
+address:     61-65, rue Dutot
+address:     75015 Paris
+country:     FR
+phone:       +33 1 55 55 73 93
+fax-no:      +33 1 55 55 39 19
+e-mail:      francois.tassin@education.gouv.fr
+changed:     08/06/2007 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AMC66-FRNIC
+type:        ROLE
+contact:     ATOS WORLDLINE Contact technique
+address:     Atos Worldline
+address:     zone industrielle A rue la Pointe
+address:     59113 Seclin
+country:     FR
+phone:       +33 3 20 60 79 79
+e-mail:      ao-dom@atosorigin.com
+admin-c:     PB868-FRNIC
+tech-c:      EW1780-FRNIC
+notify:      ao-dom@atosorigin.com
+changed:     16/09/2008 ao-dom@atosorigin.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MDLE110-FRNIC
+type:        ORGANIZATION
+contact:     MIN EDUCATION NATIONALE
+address:     61-65, rue Dutot
+address:     75015 Paris
+country:     FR
+phone:       +33 1 55 55 73 93
+fax-no:      +33 1 55 55 39 19
+e-mail:      francois.tassin@education.gouv.fr
+changed:     26/02/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

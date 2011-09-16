@@ -1,0 +1,27 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      nuigalway.ie
+descr:       Ollscoil na hEireann - Gaillimh
+descr:       School/Educational Institution
+descr:       School/Educational Institution Name
+admin-c:     SNF1-IEDR
+tech-c:      RO3-IEDR
+renewal:     03-November-2011
+status:      Active
+nserver:     exdns0.nuigalway.ie 140.203.201.102
+nserver:     exdns1.nuigalway.ie 140.203.202.116
+nserver:     ns2.tcd.ie
+nserver:     nsext2.ucc.ie
+nserver:     ns1.surfnet.nl
+source:      IEDR
+
+person:      Sinead ni Fhaolain
+nic-hdl:     SNF1-IEDR
+source:      IEDR
+
+person:      Ron Owens
+nic-hdl:     RO3-IEDR
+source:      IEDR
+

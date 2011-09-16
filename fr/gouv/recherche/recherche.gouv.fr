@@ -1,0 +1,90 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; recherche.gouv.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      recherche.gouv.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MDLE73-FRNIC
+admin-c:     HB1631-FRNIC
+tech-c:      AMC66-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1807-FRNIC
+registrar:   ATOS WORLDLINE
+anniversary: 18/10
+created:     31/01/1997
+last-update: 20/11/2008
+source:      FRNIC
+
+ns-list:     NSL1807-FRNIC
+nserver:     ns3.atos.net
+nserver:     ns4.atos.net
+source:      FRNIC
+
+registrar:   ATOS WORLDLINE
+type:        Isp Option 2
+anonymous:   YES
+registered:  19/01/2005
+source:      FRNIC
+
+nic-hdl:     MDLE73-FRNIC
+type:        ORGANIZATION
+contact:     Ministere de l'Education nationale, de l'Enseignement Superieure et de la Recherche
+address:     110, rue de Grenelle
+address:     75357 Paris
+country:     FR
+phone:       +33 1 55 55 35 10
+fax-no:      +33 1 55 50 49 34
+e-mail:      helene.bernard@education.gouv.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     HB1631-FRNIC
+type:        PERSON
+contact:     Helene Bernard
+address:     Minist&egrave;re de l'Education Nationale,
+address:     de la Recherche et de la Technologie
+address:     110, rue de Grenelle
+address:     75007 Paris
+country:     FR
+phone:       +33 1 55 55 73 66
+fax-no:      +33 1 55 50 49 34
+e-mail:      andre.patin@education.gouv.fr
+changed:     12/09/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AMC66-FRNIC
+type:        ROLE
+contact:     ATOS WORLDLINE Contact technique
+address:     Atos Worldline
+address:     zone industrielle A rue la Pointe
+address:     59113 Seclin
+country:     FR
+phone:       +33 3 20 60 79 79
+e-mail:      ao-dom@atosorigin.com
+admin-c:     PB868-FRNIC
+tech-c:      EW1780-FRNIC
+notify:      ao-dom@atosorigin.com
+changed:     16/09/2008 ao-dom@atosorigin.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

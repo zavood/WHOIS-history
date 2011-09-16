@@ -1,0 +1,69 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-16T22:53:15+12:00
+domain_name: purina.co.nz
+query_status: 200 Active
+domain_dateregistered: 2002-04-26T08:35:00+12:00
+domain_datebilleduntil: 2012-04-26T08:35:00+12:00
+domain_datelastmodified: 2011-04-09T01:36:29+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Domainz Limited
+registrar_address1: Private Bag 1810
+registrar_city: Wellington
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 473 4567
+registrar_fax: +64 4 473 4569
+registrar_email: 4service@domainz.net.nz
+%
+registrant_contact_name: Nestle NZ
+registrant_contact_address1: 1 Broadway
+registrant_contact_address2: Newmarket
+registrant_contact_city: Auckland
+registrant_contact_postalcode: 1015
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 9 3672883
+registrant_contact_fax: +64 9 3672819
+registrant_contact_email: admin@comlaude.com
+%
+admin_contact_name: Nestle NZ
+admin_contact_address1: 1 Broadway
+admin_contact_address2: Newmarket
+admin_contact_city: Auckland
+admin_contact_postalcode: 1015
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 9 3672883
+admin_contact_fax: +64 9 3672819
+admin_contact_email: admin@comlaude.com
+%
+technical_contact_name: Nestle DNS Administration
+technical_contact_address1: Avenue Nestle 55, Vevey,
+technical_contact_city: Vaud, 1800
+technical_contact_province: NSW
+technical_contact_country: CH (SWITZERLAND)
+technical_contact_phone: +41 21 9242700
+technical_contact_email: nestlednsadmin@nestle.com
+%
+ns_name_01: aoadns1.nestle.com
+ns_name_02: amsdns1.nestle.com
+ns_name_03: ctrdns1.nestle.com
+ns_name_04: eurdns1.nestle.com
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

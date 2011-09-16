@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D71275064-LROR
+Domain Name:LOFAR.ORG
+Created On:23-May-2001 14:54:09 UTC
+Last Updated On:22-Mar-2006 14:19:48 UTC
+Expiration Date:23-May-2015 14:54:09 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:15352859-NSI
+Registrant Name:ASTRON
+Registrant Organization:ASTRON
+Registrant Street1:Oude Hoogeveense dijk 4
+Registrant Street2:
+Registrant Street3:
+Registrant City:Dwingeloo
+Registrant State/Province:
+Registrant Postal Code:7991 PD
+Registrant Country:NL
+Registrant Phone:+31.521595100
+Registrant Phone Ext.:
+Registrant FAX:+31.521597332
+Registrant FAX Ext.:
+Registrant Email:stuurwold@astron.nl
+Admin ID:15352859-NSI
+Admin Name:ASTRON
+Admin Organization:ASTRON
+Admin Street1:Oude Hoogeveense dijk 4
+Admin Street2:
+Admin Street3:
+Admin City:Dwingeloo
+Admin State/Province:
+Admin Postal Code:7991 PD
+Admin Country:NL
+Admin Phone:+31.521595100
+Admin Phone Ext.:
+Admin FAX:+31.521597332
+Admin FAX Ext.:
+Admin Email:stuurwold@astron.nl
+Tech ID:5358805-NSI
+Tech Name:Network Solutions, LLC.
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:NS1.NFRA.NL
+Name Server:NS2.NFRA.NL
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

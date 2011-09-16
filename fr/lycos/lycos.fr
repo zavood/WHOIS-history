@@ -1,0 +1,111 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; lycos.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lycos.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LI138-FRNIC
+admin-c:     DDA49-FRNIC
+tech-c:      DT790-FRNIC
+tech-c:      LNA27-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL36526-FRNIC
+registrar:   MELBOURNE IT LIMITED
+anniversary: 03/03
+created:     13/03/1997
+last-update: 08/03/2010
+source:      FRNIC
+
+ns-list:     NSL36526-FRNIC
+nserver:     ns2.lycos.com
+nserver:     ns1.lycos.com
+nserver:     ns3.lycos.com
+nserver:     ns4.lycos.com
+source:      FRNIC
+
+registrar:   MELBOURNE IT LIMITED
+type:        Isp Option 1
+address:     Level 2
+address:     120 King St
+address:     3000 MELBOURNE, VICTORIA
+country:     AU
+phone:       +61 3 8624 2400
+fax-no:      +61 3 8624 2499
+e-mail:      admin@melbourneitdbs.com
+website:     http://www.melbourneit.com.au
+anonymous:   NO
+registered:  16/03/2007
+source:      FRNIC
+
+nic-hdl:     LI138-FRNIC
+type:        ORGANIZATION
+contact:     Lycos, Inc.
+address:     Lycos, Inc.
+address:     100, Fifth avenue
+address:     02451 Waltham
+country:     US
+phone:       +1 7813702700
+e-mail:      dns-admin@lycos-inc.com
+changed:     03/09/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     DDA49-FRNIC
+type:        PERSON
+contact:     Dbs Domain Admin
+address:     MELBOURNE IT DBS
+address:     52, boulevard de Sebastopol
+address:     75003 Paris
+country:     FR
+phone:       +33 1 53 30 41 02
+e-mail:      admin@melbourneitdbs.com
+changed:     08/10/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DT790-FRNIC
+type:        PERSON
+contact:     Domain Tech
+address:     Melbourne IT DBS Inc
+address:     636, Ellis Street
+address:     94043 Mountain View
+country:     US
+phone:       +1 8669073267
+fax-no:      +1 8669073267
+e-mail:      tech@melbourneitdbs.com
+changed:     15/09/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LNA27-FRNIC
+type:        PERSON
+contact:     Lycos Nic Admin
+address:     Lycos, Inc.
+address:     100, Fifth avenue
+address:     02451 Waltham
+country:     US
+phone:       +1 7813702700
+e-mail:      dns-admin@lycos-inc.com
+changed:     03/09/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

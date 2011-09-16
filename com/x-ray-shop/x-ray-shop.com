@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 14-oct-2004
    Expiration Date: 14-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 00:20:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 11:02:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 174.142.225.246
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain x-ray-shop.com
-% Timestamp: 2011-09-15 02:20:39
+% Timestamp: 2011-09-16 13:03:09
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 01-mar-2000
    Expiration Date: 01-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 00:47:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 10:52:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,7 +70,62 @@ Registrars.
 %% All rights reserved. These terms can be modify at any time.
 %% By submitting this query, you agree to abide by this policy.
 %
-% Date: 2011/09/15 02:47:49
+% Date: 2011/09/16 12:53:21
 
 
-unknown host rejected 174.142.225.246
+Domain Name:xiti.com
+Domain registrar_creation:2000-03-01 04:08:12
+Domain registrar_expiration:2013-03-01 11:08:12
+Domain registry_creation:2000-03-01 11:08:12
+Domain registry_expiration:2013-03-01 11:08:12
+Domain lastupdate:2011-01-17 16:39:13
+Name Server:meucci.atinternet.com
+Name Server:archimede.atinternet.com
+
+Owner ID: FREE-ORG-11774
+Owner Name: Isabelle BRASSEUR
+Owner Organization: applied technologies internet
+Owner Street1: 85 av kennedy
+Owner City: merignac
+Owner Postal Code: 33700
+Owner Country: FRANCE
+Owner Phone: +33.557923434
+Owner Email: ibrasseur@atinternet.com
+Owner lastupdate: 2008-08-05 09:53:59
+
+Admin ID: FREE-ORG-11774
+Admin Name: Isabelle BRASSEUR
+Admin Organization: applied technologies internet
+Admin Street1: 85 av kennedy
+Admin City: merignac
+Admin Postal Code: 33700
+Admin Country: FRANCE
+Admin Phone: +33.557923434
+Admin Email: ibrasseur@atinternet.com
+Admin lastupdate: 2008-08-05 09:53:59
+
+Tech ID: FREE-ORG-10966
+Tech Name: Isabelle BRASSEUR
+Tech Organization: AT Internet
+Tech Street1: 8 impasse Rudolf Diesel
+Tech Street2: Parc d'activit&eacute; la Deveze
+Tech City: MERIGNAC
+Tech Postal Code: 33700
+Tech Country: FRANCE
+Tech Phone: +33.156541430
+Tech Email: domaine@atinternet.com
+Tech lastupdate: 2010-12-20 17:41:45
+
+Bill ID: FREE-ORG-10968
+Bill Name: Isabelle BRASSEUR
+Bill Organization: AT Internet
+Bill Street1: 85 avenue Kennedy
+Bill City: MERIGNAC
+Bill Postal Code: 33700
+Bill Country: FRANCE
+Bill Phone: +33.557923434
+Bill Email: domaine@xiti.com
+Bill lastupdate: 2007-11-23 14:31:54
+
+For support or more information about this domain name please contact
+&lt;a href=&quot;http://www.bookmyname.com/&quot;&gt;http://www.bookmyname.com/&lt;/a&gt;
