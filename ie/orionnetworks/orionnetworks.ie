@@ -1,0 +1,26 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      orionnetworks.ie
+descr:       Edward Campbell
+descr:       Sole Trader
+descr:       Registered Business Name
+admin-c:     AEL136-IEDR
+tech-c:      AAM456-IEDR
+renewal:     09-October-2011
+status:      Active
+nserver:     ns1.alandoherty.net
+nserver:     puck.nether.net
+nserver:     ns1.orionnetworks.ie 193.120.238.109
+nserver:     ns1.narrowpoint.com
+source:      IEDR
+
+person:      Ed Campbell
+nic-hdl:     AEL136-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+

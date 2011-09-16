@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      ucg.ie
+descr:       National University of Ireland Galway
+descr:       School/Educational Institution
+descr:       School/Educational Institution Name
+admin-c:     RO3-IEDR
+tech-c:      RO3-IEDR
+renewal:     07-April-2012
+status:      Active
+nserver:     exdns0.nuigalway.ie
+nserver:     exdns1.nuigalway.ie
+source:      IEDR
+
+person:      Ron Owens
+nic-hdl:     RO3-IEDR
+source:      IEDR
+
+person:      Ron Owens
+nic-hdl:     RO3-IEDR
+source:      IEDR
+

@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 07:00:36 (BRT -03:00)
+
+domain:      websaocarlos.com.br
+owner:       Maffei Com. Quadros e Antiguades Ltda.
+ownerid:     003.023.590/0001-66
+responsible: Alberto Maffei
+country:     BR
+owner-c:     AOM30
+admin-c:     AOM30
+tech-c:      AOM30
+billing-c:   AOM30
+nserver:     ns1.websaocarlos.com.br 187.61.61.241
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.websaocarlos.com.br 187.61.14.179
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20000407 #310177
+expires:     20120407
+changed:     20110325
+status:      published
+
+nic-hdl-br:  AOM30
+person:      Alberto Onesti Maffei
+e-mail:      admin@allsites.com.br
+created:     20010407
+changed:     20050411
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

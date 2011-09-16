@@ -1,0 +1,110 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; elcomsoft.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      elcomsoft.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    K867-FRNIC
+admin-c:     AK381-FRNIC
+tech-c:      IC2-FRNIC
+tech-c:      SVG1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL12823-FRNIC
+registrar:   INDOM
+anniversary: 09/05
+created:     09/05/2006
+last-update: 17/05/2009
+source:      FRNIC
+
+ns-list:     NSL12823-FRNIC
+nserver:     dns1.elcomsoft.com
+nserver:     dns2.elcomsoft.com
+nserver:     dns3.elcomsoft.com
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     AK381-FRNIC
+type:        PERSON
+contact:     Alexandre Kolosovski
+address:     Cabinet d'Avocats
+address:     25, rue Coquilliere
+address:     75001 Paris
+country:     FR
+phone:       +33 1 47 66 31 90
+e-mail:      paris@legal-counsels.com
+changed:     09/05/2006 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IC2-FRNIC
+type:        ROLE
+contact:     INDOM Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+e-mail:      indom@indom.com
+admin-c:     SVG1-FRNIC
+tech-c:      PVG2-FRNIC
+changed:     18/12/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     K867-FRNIC
+type:        ORGANIZATION
+contact:     KOLOSSOVSKI*ALEXANDRE
+address:     25, rue coquilli&egrave;re
+address:     75001 Paris
+country:     FR
+phone:       +33 1 47 66 31 90
+e-mail:      paris@legal-counsels.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SVG1-FRNIC
+type:        PERSON
+contact:     Indom Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     20/11/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D90050025-LROR
+Domain Name:ZEBRAFISH.ORG
+Created On:07-Sep-2002 18:02:37 UTC
+Last Updated On:26-Aug-2010 04:17:58 UTC
+Expiration Date:07-Sep-2019 18:03:27 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOT-2BL57PK8L5ZH
+Registrant Name:Ron Holland
+Registrant Organization:Zebrafish International Resource Center
+Registrant Street1:5274 University of Oregon
+Registrant Street2:
+Registrant Street3:
+Registrant City:Eugene
+Registrant State/Province:OR
+Registrant Postal Code:97403-5274
+Registrant Country:US
+Registrant Phone:+1.5413466028
+Registrant Phone Ext.:
+Registrant FAX:+1.5413466151
+Registrant FAX Ext.:
+Registrant Email:admin@zebrafish.org
+Admin ID:DOT-JHW0YRBXO3FB
+Admin Name:Ron Holland
+Admin Organization:Zebrafish International Resource Center
+Admin Street1:5274 University of Oregon
+Admin Street2:
+Admin Street3:
+Admin City:Eugene
+Admin State/Province:OR
+Admin Postal Code:97403-5274
+Admin Country:US
+Admin Phone:+1.5413466028
+Admin Phone Ext.:
+Admin FAX:+1.5413466151
+Admin FAX Ext.:
+Admin Email:admin@zebrafish.org
+Tech ID:DOT-DYRS3CQ2DL9Q
+Tech Name:Ron Holland
+Tech Organization:Zebrafish International Resource Center
+Tech Street1:5274 University of Oregon
+Tech Street2:
+Tech Street3:
+Tech City:Eugene
+Tech State/Province:OR
+Tech Postal Code:97403-5274
+Tech Country:US
+Tech Phone:+1.5413466028
+Tech Phone Ext.:
+Tech FAX:+1.5413466151
+Tech FAX Ext.:
+Tech Email:admin@zebrafish.org
+Name Server:DNS.CS.UOREGON.EDU
+Name Server:PHLOEM.UOREGON.EDU
+Name Server:RUMINANT.UOREGON.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

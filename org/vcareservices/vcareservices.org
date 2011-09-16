@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157642977-LROR
+Domain Name:VCARESERVICES.ORG
+Created On:20-Nov-2009 12:36:20 UTC
+Last Updated On:21-May-2011 09:10:24 UTC
+Expiration Date:20-Nov-2011 12:36:20 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:D125870078081074
+Registrant Name:VCAREFACILITYSERVICES
+Registrant Organization:V Care
+Registrant Street1:348 &amp; 350 Anna Salai Thousand
+Registrant Street2:Lights , Chennai
+Registrant Street3:
+Registrant City:Chennai
+Registrant State/Province:Tamilnadu
+Registrant Postal Code:600006
+Registrant Country:IN
+Registrant Phone:+91.9884558232
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@anusuyaw3.com
+Admin ID:D125870078081071
+Admin Name:Devanandhan V Care
+Admin Organization:V Care
+Admin Street1:348 &amp; 350 Anna Salai Thousand
+Admin Street2:Lights , Chennai
+Admin Street3:
+Admin City:Chennai
+Admin State/Province:Tamilnadu
+Admin Postal Code:600006
+Admin Country:IN
+Admin Phone:+91.9884558232
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@anusuyaw3.com
+Tech ID:D125870078081073
+Tech Name:Devanandhan V Care
+Tech Organization:V Care
+Tech Street1:348 &amp; 350 Anna Salai Thousand
+Tech Street2:Lights , Chennai
+Tech Street3:
+Tech City:Chennai
+Tech State/Province:Tamilnadu
+Tech Postal Code:600006
+Tech Country:IN
+Tech Phone:+91.9884558232
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@anusuyaw3.com
+Name Server:NS1.W3SOLUTIONS.IN
+Name Server:NS2.W3SOLUTIONS.IN
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 07:15:39 (BRT -03:00)
+
+domain:      lcultural.com.br
+owner:       LUCIANO LINO DE ANDRADE ME
+ownerid:     007.633.435/0001-12
+responsible: Raildo Geraldo
+country:     BR
+owner-c:     RAGER2
+admin-c:     RAGER2
+tech-c:      RAGER2
+billing-c:   RAGER2
+nserver:     ns1.hostnet.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.hostnet.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20090408 #5450937
+expires:     20120408
+changed:     20110503
+status:      published
+
+nic-hdl-br:  RAGER2
+person:      Raildo Geraldo
+e-mail:      railtec@gmail.com
+created:     20080403
+changed:     20110905
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,31 @@
+% Hello, this is the DOMREG whois service.
+%
+% By submitting a query you agree not to use the information made
+% available to:
+% - allow, enable or otherwise support the transmission of unsolicited,
+%   commercial advertising or other solicitations whether via email or
+%   otherwise;
+% - target advertising in any possible way;
+% - to cause nuisance in any possible way to the registrants by sending
+%   (whether by automated, electronic processes capable of enabling
+%   high volumes or other possible means) messages to them.
+%
+% Version 0.3
+%
+% For more information please visit http://whois.domreg.lt
+%
+Domain:			urk.lt
+Status:			registered
+Registered:		2004-04-14
+%
+Registrar:		V&Auml;&reg; &quot;INFOSTRUKT&Aring;&ordf;RA&quot;
+Registrar website:	http://www.is.lt
+Registrar email:	hostmaster@is.lt
+%
+%
+Contact name:		Vaidas Valukonis
+Contact email:		administrator@utenos-kolegija.lt
+%
+Nameserver:		ns1.is.lt
+Nameserver:		ns2.is.lt
+Nameserver:		ns2.domreg.lt

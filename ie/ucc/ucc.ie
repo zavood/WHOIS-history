@@ -1,0 +1,28 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      ucc.ie
+descr:       University College Cork
+descr:       School/Educational Institution
+descr:       School/Educational Institution Name
+admin-c:     JFM1-IEDR
+tech-c:      HGO1-IEDR
+renewal:     14-September-2011
+status:      Active
+nserver:     ns.ucc.ie 143.239.1.1
+nserver:     nsext2.ucc.ie 143.239.1.25
+nserver:     ns1.tcd.ie
+nserver:     auth-ns1.ucd.ie
+nserver:     ns.isi.edu
+nserver:     ns1.surfnet.nl
+source:      IEDR
+
+person:      John F. Murphy
+nic-hdl:     JFM1-IEDR
+source:      IEDR
+
+person:      Henry G. O'Keeffe
+nic-hdl:     HGO1-IEDR
+source:      IEDR
+

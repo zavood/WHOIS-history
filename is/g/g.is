@@ -1,0 +1,38 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       g.is
+descr:        Gar&eth;ar Hauksson
+descr:        Rey&eth;arkv&iacute;sl 15
+descr:        IS-110 Reykjav&iacute;k
+admin-c:      GH38-IS
+tech-c:       AB30-IS
+zone-c:       AB30-IS
+billing-c:    GH38-IS
+nserver:      spider.ivm.is
+nserver:      fly.ivm.is
+created:      February  7 2002
+expires:      February  7 2012
+source:       ISNIC
+
+person:       Gar&eth;ar Hauksson
+address:      Rey&eth;arkv&iacute;sl 15
+address:      IS-110 Reykjav&iacute;k
+phone:        +354 860 2919
+e-mail:       gh.isnic@g.is
+nic-hdl:      GH38-IS
+created:      February  7 2002
+source:       ISNIC
+
+person:       &Aacute;rni Birgisson
+address:      V&iacute;&eth;ihl&iacute;&eth; 41
+address:      IS-105 Reykjav&iacute;k
+phone:        +354 862 6862
+e-mail:       arnib@arnib.net
+nic-hdl:      AB30-IS
+created:      February  7 2002
+source:       ISNIC
+
+

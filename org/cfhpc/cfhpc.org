@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D125429422-LROR
+Domain Name:CFHPC.ORG
+Created On:04-Jul-2006 07:14:59 UTC
+Last Updated On:08-Jul-2008 01:00:50 UTC
+Expiration Date:04-Jul-2018 07:14:59 UTC
+Sponsoring Registrar:Bizcn.com, Inc. (R1248-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:orgjl51997067755
+Registrant Name:jinghua li
+Registrant Organization:Chinese Hepatitis Prevention Control Foundation
+Registrant Street1:Nanwei Road No.27
+Registrant Street2:
+Registrant Street3:
+Registrant City:beijing
+Registrant State/Province:beijing
+Registrant Postal Code:100050
+Registrant Country:CN
+Registrant Phone:+86.37163569701
+Registrant Phone Ext.:
+Registrant FAX:+86.0000000
+Registrant FAX Ext.:
+Registrant Email:chinese82@sohu.com
+Admin ID:orgyy51997068117
+Admin Name:yuanya yue
+Admin Organization:yuanya yue
+Admin Street1:Nanwei Road No.27
+Admin Street2:
+Admin Street3:
+Admin City:beijing
+Admin State/Province:beijing
+Admin Postal Code:100050
+Admin Country:CN
+Admin Phone:+86.13426414390
+Admin Phone Ext.:
+Admin FAX:+86.0000000
+Admin FAX Ext.:
+Admin Email:chinese82@sohu.com
+Tech ID:orgyy51997068436
+Tech Name:yuanya yue
+Tech Organization:yuanya yue
+Tech Street1:Nanwei Road No.27
+Tech Street2:
+Tech Street3:
+Tech City:beijing
+Tech State/Province:beijing
+Tech Postal Code:100050
+Tech Country:CN
+Tech Phone:+86.13426414390
+Tech Phone Ext.:
+Tech FAX:+86.0000000
+Tech FAX Ext.:
+Tech Email:chinese82@sohu.com
+Name Server:NS1.MYHOSTADMIN.NET
+Name Server:NS2.MYHOSTADMIN.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

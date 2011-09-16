@@ -1,0 +1,61 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       islandia.is
+descr:        Fjarskipti ehf
+descr:        Sk&uacute;tuvogi 2
+descr:        IS-104 Reykjav&iacute;k
+admin-c:      MAK3-IS
+tech-c:       IS2316-IS
+zone-c:       IZ1-IS
+billing-c:    OFE3-IS
+nserver:      ns0.c.is
+nserver:      ns1.c.is
+nserver:      ns2.c.is
+created:      September 20 2001
+expires:      September 20 2011
+source:       ISNIC
+
+role:         &Iacute;slensk af&thorn;reying hf
+address:      Og Fjarskipti hf.
+address:      S&iacute;&eth;um&uacute;la 28
+address:      IS-108 Reykjav&iacute;k
+phone:        +354 599 9000
+e-mail:       hostmaster@c.is
+nic-hdl:      IS2316-IS
+created:      February  2 2000
+source:       ISNIC
+
+role:         Fjarskipti ehf
+address:      Sk&uacute;tuvogi 2
+address:      IS-104 Reykjav&iacute;k
+phone:        +354 599 9000
+e-mail:       nic@vodafone.is
+nic-hdl:      OFE3-IS
+created:      July  5 2006
+source:       ISNIC
+
+person:       Magn&uacute;s H&aacute;kon Axelsson Kvaran
+address:      Og fjarskipti hf.
+address:      c/o deild 5400
+address:      Sk&uacute;tuvogi 2
+address:      IS-104 Reykjav&iacute;k
+phone:        +354 599 9000
+e-mail:       nic@vodafone.is
+nic-hdl:      MAK3-IS
+created:      August 22 2007
+source:       ISNIC
+
+role:         ISLNET Zonemaster
+address:      Og Fjarskipti ehf
+address:      Sk&uacute;tuvogur 2
+address:      IS-104 Reykjav&iacute;k
+phone:        +354 599 9000
+e-mail:       nic@vodafone.is
+nic-hdl:      IZ1-IS
+created:      May 15 2003
+source:       ISNIC
+
+

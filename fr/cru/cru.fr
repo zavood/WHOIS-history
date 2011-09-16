@@ -1,0 +1,123 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; cru.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cru.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CRDU1-FRNIC
+admin-c:     AK685-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      SA1741-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL21613-FRNIC
+registrar:   RENATER
+anniversary: 29/08
+created:     29/08/1996
+last-update: 21/08/2008
+source:      FRNIC
+
+ns-list:     NSL21613-FRNIC
+nserver:     dns.cru.fr [195.220.94.139]
+nserver:     dns.irisa.fr [131.254.254.2 2001:660:7303:254::2]
+nserver:     ns1.u-strasbg.fr [130.79.200.1]
+nserver:     resone.univ-rennes1.fr [129.20.254.1]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     CRDU1-FRNIC
+type:        ORGANIZATION
+contact:     Comite Reseaux des Universites
+address:     Campus Beaulieu avenue G. Leclerc
+address:     35042 Rennes Cedex
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     AK685-FRNIC
+type:        PERSON
+contact:     Alain Kavenoky
+address:     Comite Reseau des Universites
+address:     Campus Beaulieu avenue G. Leclerc
+address:     35042 Rennes Cedex
+country:     FR
+phone:       +33 1 46 34 32 69
+fax-no:      +33 1 46 34 30 49
+e-mail:      alain.kavenoky@dger.mesr.fr
+notify:      alain.kavenoky@dger.mesr.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SA1741-FRNIC
+type:        PERSON
+contact:     Serge Aumont
+address:     Cellule Technique du Reseau des Universites (CRU)
+address:     Cru, Campus de Beaulieu
+address:     35042 Rennes Cedex
+country:     FR
+phone:       +33 2 99 84 71 47
+e-mail:      serge.aumont@cru.fr
+notify:      serge.aumont@cru.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

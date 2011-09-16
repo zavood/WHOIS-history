@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D649715-LROR
+Domain Name:TZEMACHDOVID.ORG
+Created On:26-Nov-1997 05:00:00 UTC
+Last Updated On:01-Dec-2009 17:50:22 UTC
+Expiration Date:25-Nov-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29007575-NSI
+Registrant Name:Tzemach Dovid Cong
+Registrant Organization:Tzemach Dovid Cong
+Registrant Street1:1481 East Terrace Circle #3
+Registrant Street2:
+Registrant Street3:
+Registrant City:Teaneck
+Registrant State/Province:NJ
+Registrant Postal Code:07666
+Registrant Country:US
+Registrant Phone:+1.20183392
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:hostmaster@IDTWEB.COM
+Admin ID:15582666-NSI
+Admin Name:Tzemach Dovid Cong.
+Admin Organization:Tzemach Dovid Cong.
+Admin Street1:148 GLENWOOD RD
+Admin Street2:
+Admin Street3:
+Admin City:ELIZABETH
+Admin State/Province:NJ
+Admin Postal Code:07208-1140
+Admin Country:US
+Admin Phone:+1.2018339239
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@IDTWEB.COM
+Tech ID:5466914-NSI
+Tech Name:IDT Corp
+Tech Organization:IDT Corp
+Tech Street1:520 Broad St
+Tech Street2:
+Tech Street3:
+Tech City:Newark
+Tech State/Province:NJ
+Tech Postal Code:07102
+Tech Country:US
+Tech Phone:+1.9734381000
+Tech Phone Ext.:
+Tech FAX:+1.9734381122
+Tech FAX Ext.:
+Tech Email:domreg@corp.idt.net
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

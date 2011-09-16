@@ -1,0 +1,61 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 07:00:12 (BRT -03:00)
+
+domain:      xpgplus.com.br
+owner:       XPG PARTICIPA&Ccedil;&Otilde;ES LTDA
+ownerid:     005.080.532/0001-08
+responsible: Contato T&eacute;cnico
+country:     BR
+owner-c:     COXPG
+admin-c:     COW11
+tech-c:      COW11
+billing-c:   COW20
+nserver:     ns1.xpgpro.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.xpgpro.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.xpgpro.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns4.xpgpro.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20040831 #1797567
+expires:     20120831
+changed:     20110816
+status:      published
+
+nic-hdl-br:  COW11
+person:      Contato WFG
+e-mail:      registro@webforce.com.br
+created:     20020820
+changed:     20101201
+
+nic-hdl-br:  COW20
+person:      Contato WebForce
+e-mail:      cobranca@webforce.com.br
+created:     20051025
+changed:     20090323
+
+nic-hdl-br:  COXPG
+person:      Contato XPG
+e-mail:      registro@xpg.com.br
+created:     20100526
+changed:     20101201
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

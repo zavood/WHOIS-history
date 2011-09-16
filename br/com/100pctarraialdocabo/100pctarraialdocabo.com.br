@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 07:00:02 (BRT -03:00)
+
+domain:      100pctarraialdocabo.com.br
+owner:       Paulo Roberto Borges Mello
+ownerid:     004.882.426/0001-77
+responsible: Paulo Roberto Borges Mello
+country:     BR
+owner-c:     PRM314
+admin-c:     PRM314
+tech-c:      WNA10
+billing-c:   PRM314
+nserver:     ns1.100pctarraialdocabo.com.br 187.61.61.241
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.100pctarraialdocabo.com.br 187.61.14.179
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20051129 #2496374
+expires:     20111129
+changed:     20101208
+status:      published
+
+nic-hdl-br:  PRM314
+person:      Paulo Roberto Borges Mello
+e-mail:      paulobmello@hotmail.com
+created:     20030901
+changed:     20110810
+
+nic-hdl-br:  WNA10
+person:      Weslei Nunes de Assis
+e-mail:      weslei_n@hotmail.com
+created:     20040923
+changed:     20070321
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

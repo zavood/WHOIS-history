@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D8917585-LROR
+Domain Name:RIGHT-TO-WORK.ORG
+Created On:08-Aug-1999 01:42:55 UTC
+Last Updated On:03-Aug-2011 14:46:01 UTC
+Expiration Date:08-Aug-2016 01:42:47 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28004023-NSI
+Registrant Name:NationalRightto Work Committee
+Registrant Organization:NationalRightto Work Committee
+Registrant Street1:8001 Braddock Road, Suite 500
+Registrant Street2:
+Registrant Street3:
+Registrant City:Springfield
+Registrant State/Province:VA
+Registrant Postal Code:22160
+Registrant Country:US
+Registrant Phone:+1.70332198
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mam@NRTW.ORG
+Admin ID:28004025-NSI
+Admin Name:NationalRightto Work Committee
+Admin Organization:NationalRightto Work Committee
+Admin Street1:8001 BRADDOCK RD STE 500
+Admin Street2:
+Admin Street3:
+Admin City:SPRINGFIELD
+Admin State/Province:VA
+Admin Postal Code:22160-0001
+Admin Country:US
+Admin Phone:+1.70332198
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mam@NRTW.ORG
+Tech ID:5359169-NSI
+Tech Name:Domain Administrator
+Tech Organization:pair Networks
+Tech Street1:2403 Sidney St, Suite 510
+Tech Street2:
+Tech Street3:
+Tech City:Pittsburgh
+Tech State/Province:PA
+Tech Postal Code:15203
+Tech Country:US
+Tech Phone:+1.4123817247
+Tech Phone Ext.:
+Tech FAX:+1.4123819997
+Tech FAX Ext.:
+Tech Email:domain@pair.com
+Name Server:NS39.WORLDNIC.COM
+Name Server:NS40.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

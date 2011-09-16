@@ -1,0 +1,20 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     TOMSK.SU
+nserver:    ns.tomsk.su. 212.73.124.2
+nserver:    ns2.tomsk.su. 212.73.97.13
+state:      REGISTERED, DELEGATED
+org:        Ltd. &quot;TDS&quot;
+phone:      +7 3822 26 68 71
+fax-no:     +7 3822 26 68 71
+e-mail:     office@tds.tomsk.ru
+registrar:  RUCENTER-REG-FID
+created:    1999.01.12
+paid-till:  2012.10.01
+source:     TCI
+
+Last updated on 2011.09.16 13:55:46 MSK/MSD
+

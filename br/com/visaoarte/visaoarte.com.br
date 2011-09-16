@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 07:18:44 (BRT -03:00)
+
+domain:      visaoarte.com.br
+owner:       CPC Informatica Ltda.
+ownerid:     002.218.193/0001-87
+responsible: Talles Rodrigues Alves
+country:     BR
+owner-c:     TRA56
+admin-c:     TRA56
+tech-c:      TRA56
+billing-c:   TRA56
+nserver:     nsa1.k8.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     nsa2.k8.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     nsa3.k8.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     nsa4.k8.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     nsa5.k8.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     nsa6.k8.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20100325 #6695155
+expires:     20120325
+changed:     20110225
+status:      published
+
+nic-hdl-br:  TRA56
+person:      Talles Rodrigues Alves
+e-mail:      talles@cpc.com.br
+created:     20041117
+changed:     20110117
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
