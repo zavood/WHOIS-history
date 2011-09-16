@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D23254806-LROR
+Domain Name:CHICAGOAA.ORG
+Created On:24-Mar-2000 19:44:02 UTC
+Last Updated On:23-Oct-2004 11:11:25 UTC
+Expiration Date:24-Mar-2013 19:44:02 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:24255757-NSI
+Registrant Name:ChicagoAreaAlcoholics Anonymous
+Registrant Organization:ChicagoAreaAlcoholics Anonymous
+Registrant Street1:Suite 501 200 N. Michigan Ave.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chicago
+Registrant State/Province:IL
+Registrant Postal Code:60601
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@CHICAGOAA.ORG
+Admin ID:24255760-NSI
+Admin Name:Webmaster, CASO
+Admin Organization:Webmaster, CASO
+Admin Street1:Chicago Area Service Office
+Admin Street2:Suite 501
+Admin Street3:
+Admin City:Chicago
+Admin State/Province:IL
+Admin Postal Code:60601
+Admin Country:US
+Admin Phone:+1.9999999999
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@CHICAGOAA.ORG
+Tech ID:15295002-NSI
+Tech Name:InnovativeStrategicTechnologies, LLC
+Tech Organization:InnovativeStrategicTechnologies, LLC
+Tech Street1:PO BOX 2792
+Tech Street2:
+Tech Street3:
+Tech City:FAIR LAWN
+Tech State/Province:NJ
+Tech Postal Code:07410-8692
+Tech Country:US
+Tech Phone:+1.2017963482
+Tech Phone Ext.:
+Tech FAX:+1.5084642692
+Tech FAX Ext.:
+Tech Email:egoldin@IST2000.NET
+Name Server:NS1.OURDNSSERVER.COM
+Name Server:NS2.OURDNSSERVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

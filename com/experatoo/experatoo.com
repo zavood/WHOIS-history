@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 28-jul-2006
    Expiration Date: 28-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:34:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 21:31:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,7 +75,7 @@ Registrars.
 # Pour obtenir les informations en status 'Protected by policy', contactez
 # directement le registre concerne (Eurid, AFNIC)
 #
-# 2011-09-15 11:35:33 CEST
+# 2011-09-16 23:31:37 CEST
 
 domain: experatoo.com
 reg_created: 2006-07-28 16:55:08

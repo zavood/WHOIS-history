@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; indeed.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      indeed.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    II622-FRNIC
+admin-c:     DT1136-FRNIC
+tech-c:      DA1332-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL38766-FRNIC
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+anniversary: 05/07
+created:     22/03/2001
+last-update: 05/07/2011
+source:      FRNIC
+
+ns-list:     NSL38766-FRNIC
+nserver:     ns1.p01.dynect.net
+nserver:     ns2.p01.dynect.net
+nserver:     ns3.p01.dynect.net
+nserver:     ns4.p01.dynect.net
+source:      FRNIC
+
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+type:        Isp Option 1
+address:     Emerald Tech Center
+address:     391 N. Ancestor Place
+address:     ID 83704 BOISE
+country:     US
+phone:       +1 208 389 5740
+fax-no:      +1 208 389 5771
+e-mail:      ccops@markmonitor.com
+website:     http://www.markmonitor.com
+anonymous:   NO
+registered:  10/01/2002
+source:      FRNIC
+
+nic-hdl:     II622-FRNIC
+type:        ORGANIZATION
+contact:     Indeed, Inc
+address:     177 Broad St. 6th Floor
+address:     06901 Stamford
+country:     US
+phone:       +1 2035642400
+e-mail:      hostmaster@indeed.com
+changed:     05/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     DT1136-FRNIC
+type:        PERSON
+contact:     David Taylor
+address:     Indeed, Inc
+address:     32, rue Lauriston
+address:     75116 Paris
+country:     FR
+phone:       +33 1 53 67 47 47
+fax-no:      +33 1 53 67 47 48
+e-mail:      frenchdomains@taylor.eu
+changed:     27/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DA1332-FRNIC
+type:        PERSON
+contact:     Domain Administrator
+address:     Indeed, Inc
+address:     177 Broad St. 6th Floor
+address:     06901 Stamford
+country:     US
+phone:       +1 2035642400
+e-mail:      hostmaster@indeed.com
+changed:     27/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 31-mar-2010
    Expiration Date: 31-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:35:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 21:20:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,6 +70,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: libertyhigheronecard.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Mon Sep 12 10:25:04 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Fri Sep 16 17:10:46 EDT 2011
 Reason Code: IE

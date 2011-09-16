@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 04-jun-2009
    Expiration Date: 04-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:20:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 21:21:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -60,10 +60,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 174.142.225.246
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain myhallmarkexperience.com
-% Timestamp: 2011-09-13 22:21:06
+% Timestamp: 2011-09-16 23:22:18
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

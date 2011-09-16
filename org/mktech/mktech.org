@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158047669-LROR
+Domain Name:MKTECH.ORG
+Created On:13-Jan-2010 18:44:24 UTC
+Last Updated On:29-Aug-2011 01:16:08 UTC
+Expiration Date:13-Jan-2012 18:44:24 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:16ec2055d40200fd
+Registrant Name:Kevin (MkTechnicalSupport)  Whitman
+Registrant Street1:790 Webster Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Webster
+Registrant State/Province:NY
+Registrant Postal Code:14580
+Registrant Country:US
+Registrant Phone:+1.5853474955
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:service@mktechemail.org
+Admin ID:16ec2055d40200fd
+Admin Name:Kevin (MkTechnicalSupport)  Whitman
+Admin Street1:790 Webster Road
+Admin Street2:
+Admin Street3:
+Admin City:Webster
+Admin State/Province:NY
+Admin Postal Code:14580
+Admin Country:US
+Admin Phone:+1.5853474955
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:service@mktechemail.org
+Tech ID:16ec2055d40200fd
+Tech Name:Kevin (MkTechnicalSupport)  Whitman
+Tech Street1:790 Webster Road
+Tech Street2:
+Tech Street3:
+Tech City:Webster
+Tech State/Province:NY
+Tech Postal Code:14580
+Tech Country:US
+Tech Phone:+1.5853474955
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:service@mktechemail.org
+Name Server:NS1.WEBS.COM
+Name Server:NS2.WEBS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

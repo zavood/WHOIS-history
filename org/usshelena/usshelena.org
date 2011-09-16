@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107558303-LROR
+Domain Name:USSHELENA.ORG
+Created On:20-Sep-2005 21:31:18 UTC
+Last Updated On:20-Sep-2010 19:48:40 UTC
+Expiration Date:20-Sep-2019 21:31:18 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tua5XGAjjcxmh2bF
+Registrant Name:James McNamee
+Registrant Organization:USS HELENA ORGANIZATION
+Registrant Street1:1602 Umpqua Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Woodburn
+Registrant State/Province:OR
+Registrant Postal Code:97071
+Registrant Country:US
+Registrant Phone:+1.5039810873
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jamesmcn602@msn.com
+Admin ID:tuGMQ8evjOui8JNX
+Admin Name:James McNamee
+Admin Organization:USS HELENA ORGANIZATION
+Admin Street1:1602 Umpqua Rd
+Admin Street2:
+Admin Street3:
+Admin City:Woodburn
+Admin State/Province:OR
+Admin Postal Code:97071
+Admin Country:US
+Admin Phone:+1.5039810873
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jamesmcn602@msn.com
+Tech ID:tuoykytaRyaWXzDB
+Tech Name:HOST MASTER
+Tech Organization:CORECOMM INTERNET SERVICES, INC.
+Tech Street1:325 Hampton Hill Rd
+Tech Street2:
+Tech Street3:
+Tech City:Williamsville
+Tech State/Province:NY
+Tech Postal Code:14221
+Tech Country:US
+Tech Phone:+1.7167990401
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@core.com
+Name Server:NS0.CORECOMMHOSTING.COM
+Name Server:NS1.CORECOMMHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

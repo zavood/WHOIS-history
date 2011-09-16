@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; kelkoo.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      kelkoo.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    KS789-FRNIC
+admin-c:     LH811-FRNIC
+tech-c:      MC239-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL7927-FRNIC
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+anniversary: 31/12
+created:     31/12/2007
+last-update: 08/05/2009
+source:      FRNIC
+
+ns-list:     NSL7927-FRNIC
+nserver:     ns1.markmonitor.com
+nserver:     ns3.markmonitor.com
+nserver:     ns4.markmonitor.com
+nserver:     ns5.markmonitor.com
+nserver:     ns6.markmonitor.com
+source:      FRNIC
+
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+type:        Isp Option 1
+address:     Emerald Tech Center
+address:     391 N. Ancestor Place
+address:     ID 83704 BOISE
+country:     US
+phone:       +1 208 389 5740
+fax-no:      +1 208 389 5771
+e-mail:      ccops@markmonitor.com
+website:     http://www.markmonitor.com
+anonymous:   NO
+registered:  10/01/2002
+source:      FRNIC
+
+nic-hdl:     KS789-FRNIC
+type:        ORGANIZATION
+contact:     Kelkoo SAS
+address:     8, rue du Sentier
+address:     75002 Paris
+country:     FR
+phone:       +33 1 70 91 20 00
+fax-no:      +33 1 70 91 20 01
+e-mail:      dnsmaster@kelkoo.com
+changed:     30/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     LH811-FRNIC
+type:        PERSON
+contact:     Lyndon Hearn
+address:     Kelkoo SAS
+address:     17-19, rue Guillaume Tell
+address:     75017 Paris
+country:     FR
+phone:       +33 1 70 91 20 00
+fax-no:      +33 1 70 91 20 01
+e-mail:      dnsmaster@kelkoo.com
+changed:     20/12/2007 ccops@markmonitor.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MC239-FRNIC
+type:        ROLE
+contact:     MARKMONITOR CCOPS
+address:     eMarkmonitor Inc. dba MarkMonitor
+address:     PMB 155
+address:     10400 Overland Road
+address:     83709-1433 Boise, Id
+address:     US
+phone:       +01 2083895740
+e-mail:      ccops@markmonitor.com
+admin-c:     DL534-FRNIC
+tech-c:      DL534-FRNIC
+changed:     10/10/2008 ccops@markmonitor.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

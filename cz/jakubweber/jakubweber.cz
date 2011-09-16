@@ -1,0 +1,55 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 23:12:19 2011
+
+domain:       jakubweber.cz
+registrant:   CID:IGN-C214594-QOS
+nsset:        KRAJACZ
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   27.01.2009 13:43:28
+changed:      27.01.2009 16:09:07
+expire:       27.01.2012
+
+contact:      CID:IGN-C214594-QOS
+name:         Jakub Weber
+address:      Ostro&Aring;&frac34;n&Atilde;&iexcl; 20
+address:      Opava
+address:      746 01
+address:      CZ
+registrar:    REG-IGNUM
+created:      23.01.2009 15:02:17
+
+nsset:        KRAJACZ
+nserver:      ns1.kraja.cz (88.208.78.70)
+nserver:      ns2.kraja.cz (82.208.48.67)
+tech-c:       KRAJACZ
+registrar:    REG-INTERNET-CZ
+created:      01.11.2007 11:52:41
+
+contact:      KRAJACZ
+name:         Radek Vesely
+address:      Riegrova 15
+address:      Olomouc
+address:      77200
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      01.11.2007 11:51:13
+
+

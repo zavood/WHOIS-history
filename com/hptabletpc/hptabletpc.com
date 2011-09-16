@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 12-jun-2009
    Expiration Date: 12-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 06:54:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 21:18:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Mr Beham
-   Singapore
-   4 Lake West, California 42343
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: HPTABLETPC.COM
-      Created on: 12-Jun-09
-      Expires on: 12-Jun-12
-      Last Updated on: 11-Mar-11
-
-   Administrative Contact:
-      Beham, Mr  sell.buy.domain@gmail.com
-      Singapore
-      4 Lake West, California 42343
-      United States
-      +1.45235345      Fax --
-
-   Technical Contact:
-      Beham, Mr  sell.buy.domain@gmail.com
-      Singapore
-      4 Lake West, California 42343
-      United States
-      +1.45235345      Fax --
 
    Domain servers in listed order:
       NS1509.HOSTGATOR.COM
       NS1510.HOSTGATOR.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=HPTABLETPC.COM
