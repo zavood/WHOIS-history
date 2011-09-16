@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D81779003-LROR
+Domain Name:NJABL.ORG
+Created On:29-Dec-2001 22:41:04 UTC
+Last Updated On:30-Nov-2010 05:24:05 UTC
+Expiration Date:29-Dec-2011 22:41:04 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuVqLhg9WV9poquz
+Registrant Name:DNS Admin
+Registrant Organization:NJABL
+Registrant Street1:440 West Kennedy Blvd.
+Registrant Street2:Suite 3
+Registrant Street3:
+Registrant City:Orlando
+Registrant State/Province:FL
+Registrant Postal Code:32810
+Registrant Country:US
+Registrant Phone:+1.3212069662
+Registrant Phone Ext.:
+Registrant FAX:+1.4076608094
+Registrant FAX Ext.:
+Registrant Email:dns-admin@atlantic.net
+Admin ID:tu61EgrkUvJT9tOK
+Admin Name:DNS Admin
+Admin Organization:NJABL
+Admin Street1:440 West Kennedy Blvd.
+Admin Street2:Suite 3
+Admin Street3:
+Admin City:Orlando
+Admin State/Province:FL
+Admin Postal Code:32810
+Admin Country:US
+Admin Phone:+1.3212069662
+Admin Phone Ext.:
+Admin FAX:+1.4076608094
+Admin FAX Ext.:
+Admin Email:dns-admin@atlantic.net
+Tech ID:tuzXXPputGCfsoGt
+Tech Name:DNS Admin
+Tech Organization:NJABL
+Tech Street1:440 West Kennedy Blvd.
+Tech Street2:Suite 3
+Tech Street3:
+Tech City:Orlando
+Tech State/Province:FL
+Tech Postal Code:32810
+Tech Country:US
+Tech Phone:+1.3212069662
+Tech Phone Ext.:
+Tech FAX:+1.4076608094
+Tech FAX Ext.:
+Tech Email:dns-admin@atlantic.net
+Name Server:NS.BRIGHTOK.NET
+Name Server:PUCK.NETHER.NET
+Name Server:NS2.BRIGHTOK.NET
+Name Server:DNS1.NJABL.ORG
+Name Server:DNS2.NJABL.ORG
+Name Server:DNS3.NJABL.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

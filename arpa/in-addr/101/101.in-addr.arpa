@@ -1,0 +1,24 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       101.in-addr.arpa
+
+organisation: APNIC
+
+nserver:      apnic1.dnsnode.net.
+nserver:      ns1.apnic.net.
+nserver:      ns2.lacnic.net.
+nserver:      ns3.apnic.net.
+nserver:      ns4.apnic.net.
+nserver:      sec1.authdns.ripe.net.
+nserver:      tinnie.arin.net.
+ds-rdata:     53108 5 1 4e9111927385a2a715e0d2f96416854a6f01a75a
+ds-rdata:     53108 5 2 8fd1af49f6fc377bad6e6c2b73358d332f67a1feeb01c89f5fe78c25d0ceccc3
+
+whois:        whois.apnic.net
+
+changed:      2010-08
+changed:      2011-05-03
+source:       IANA
+

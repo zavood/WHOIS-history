@@ -1,0 +1,29 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      ncts.ie
+descr:       Applus Car Testing Service Limited
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     AAG705-IEDR
+admin-c:     AKS758-IEDR
+tech-c:      AAG705-IEDR
+renewal:     30-June-2012
+status:      Active
+nserver:     auth01.ns.esat.net
+nserver:     sec01.ns.esat.net
+source:      IEDR
+
+person:      Peter Seacy
+nic-hdl:     AAG705-IEDR
+source:      IEDR
+
+person:      Barry Goodwin
+nic-hdl:     AKS758-IEDR
+source:      IEDR
+
+person:      Peter Seacy
+nic-hdl:     AAG705-IEDR
+source:      IEDR
+

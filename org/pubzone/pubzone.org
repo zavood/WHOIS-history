@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152302806-LROR
+Domain Name:PUBZONE.ORG
+Created On:08-Apr-2008 15:24:36 UTC
+Last Updated On:09-Apr-2011 01:22:57 UTC
+Expiration Date:08-Apr-2012 15:24:36 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:ABM-10517252
+Registrant Name:Donald Kossmann
+Registrant Organization:ETH Zuerich
+Registrant Street1:Universitaetstrasse 6
+Registrant Street2:
+Registrant Street3:
+Registrant City:Zuerich
+Registrant State/Province:Zuerich
+Registrant Postal Code:8092
+Registrant Country:CH
+Registrant Phone:+41.446322940
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:donaldk@inf.ethz.ch
+Admin ID:ABM-10296003
+Admin Name:Martin Kaufmann
+Admin Street1:Langmauerstr.25
+Admin Street2:
+Admin Street3:
+Admin City:Zuerich
+Admin State/Province:Zuerich
+Admin Postal Code:8006
+Admin Country:CH
+Admin Phone:+41.794553819
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:martin@kaufmn.ch
+Tech ID:ABM-520504
+Tech Name:MKdesign Hostmaster
+Tech Street1:Ingenieurbuero MKdesign
+Tech Street2:Bachstr. 83
+Tech Street3:
+Tech City:Gomaringen
+Tech State/Province:DE
+Tech Postal Code:72810
+Tech Country:DE
+Tech Phone:+49.7072920264
+Tech Phone Ext.:
+Tech FAX:+49.7072920265
+Tech FAX Ext.:
+Tech Email:hostmaster@mkdesign.de
+Name Server:NS.MKDESIGN.DE
+Name Server:NS.MKDESIGN2.COM
+Name Server:NS3.MKDESIGN.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

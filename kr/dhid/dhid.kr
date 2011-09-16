@@ -1,0 +1,68 @@
+query: dhid.kr
+
+# KOREAN
+
+
+&micro;&micro;&cedil;&THORN;&Agrave;&Icirc;&Agrave;&Igrave;&cedil;&sect;                  : dhid.kr
+&micro;&icirc;&middot;&Iuml;&Agrave;&Icirc;                      : &acute;&euml;&Ccedil;&Ntilde;&Ccedil;&Iuml;&iquest;&igrave;&Acirc;&iexcl;
+&micro;&icirc;&middot;&Iuml;&Agrave;&Icirc; &Aacute;&Ouml;&frac14;&Ograve;                 : &deg;&shy;&iquest;&oslash; &iquest;&oslash;&Aacute;&Ouml;&frac12;&Atilde; &deg;&uuml;&frac14;&sup3;&micro;&iquest; 632-2
+&micro;&icirc;&middot;&Iuml;&Agrave;&Icirc; &iquest;&igrave;&AElig;&iacute;&sup1;&oslash;&Egrave;&pound;             : 220180
+&Atilde;&yen;&Agrave;&Oacute;&Agrave;&Uacute;                      : &acute;&euml;&Ccedil;&Ntilde;&deg;&Ccedil;&Atilde;&agrave;&Agrave;&Icirc;&Aring;&times;&cedil;&reg;&frac34;&icirc;
+&Atilde;&yen;&Agrave;&Oacute;&Agrave;&Uacute; &Agrave;&uuml;&Agrave;&Uacute;&iquest;&igrave;&AElig;&iacute;             : domain@dhid.kr
+&Atilde;&yen;&Agrave;&Oacute;&Agrave;&Uacute; &Agrave;&uuml;&Egrave;&shy;&sup1;&oslash;&Egrave;&pound;             : 82-033-766-0751
+&micro;&icirc;&middot;&Iuml;&Agrave;&Iuml;                      : 2008. 05. 20.
+&Atilde;&Ouml;&plusmn;&Ugrave; &Aacute;&curren;&ordm;&cedil; &ordm;&macr;&deg;&aelig;&Agrave;&Iuml;            : 2011. 05. 23.
+&raquo;&ccedil;&iquest;&euml; &Aacute;&frac34;&middot;&aacute;&Agrave;&Iuml;                 : 2013. 05. 20.
+&Aacute;&curren;&ordm;&cedil;&deg;&oslash;&deg;&sup3;&iquest;&copy;&ordm;&Icirc;                : Y
+&micro;&icirc;&middot;&Iuml;&acute;&euml;&Ccedil;&agrave;&Agrave;&Uacute;                  : &Egrave;&pound;&frac12;&ordm;&AElig;&reg;&frac14;&frac34;&Aring;&Iacute;(http://www.hostcenter.co.kr)
+
+1&Acirc;&divide; &sup3;&times;&Agrave;&Oacute;&frac14;&shy;&sup1;&ouml; &Aacute;&curren;&ordm;&cedil;
+   &Egrave;&pound;&frac12;&ordm;&AElig;&reg;&Agrave;&Igrave;&cedil;&sect;               : ns1.dhid.kr
+   IP &Aacute;&Ouml;&frac14;&Ograve;                  : 125.141.231.179
+
+2&Acirc;&divide; &sup3;&times;&Agrave;&Oacute;&frac14;&shy;&sup1;&ouml; &Aacute;&curren;&ordm;&cedil;
+   &Egrave;&pound;&frac12;&ordm;&AElig;&reg;&Agrave;&Igrave;&cedil;&sect;               : ns2.dhid.kr
+   IP &Aacute;&Ouml;&frac14;&Ograve;                  : 211.233.59.20
+   &Egrave;&pound;&frac12;&ordm;&AElig;&reg;&Agrave;&Igrave;&cedil;&sect;               : ns3.dhid.kr
+   IP &Aacute;&Ouml;&frac14;&Ograve;                  : 121.254.154.149
+   &Egrave;&pound;&frac12;&ordm;&AElig;&reg;&Agrave;&Igrave;&cedil;&sect;               : ns4.dhid.kr
+   IP &Aacute;&Ouml;&frac14;&Ograve;                  : 121.254.154.151
+   &Egrave;&pound;&frac12;&ordm;&AElig;&reg;&Agrave;&Igrave;&cedil;&sect;               : ns5.dhid.kr
+   IP &Aacute;&Ouml;&frac14;&Ograve;                  : 121.254.154.195
+
+&sup3;&times;&Agrave;&Oacute;&frac14;&shy;&sup1;&ouml; &Agrave;&Igrave;&cedil;&sect;&Agrave;&Igrave; .kr&Agrave;&Igrave; &frac34;&AElig;&acute;&Ntilde; &deg;&aelig;&iquest;&igrave;&acute;&Acirc; IP&Aacute;&Ouml;&frac14;&Ograve;&deg;&iexcl; &ordm;&cedil;&Agrave;&Igrave;&Aacute;&ouml; &frac34;&Ecirc;&frac12;&Agrave;&acute;&Iuml;&acute;&Ugrave;.
+
+# ENGLISH
+
+
+Domain Name                 : dhid.kr
+Registrant                  : Daehan Housing
+Registrant Address          : Gangwon-do Wonju-si Gwanseol-dong 632-2
+Registrant Zip Code         : 220180
+Administrative Contact(AC)  : Daehan Interior Design Architecture
+AC E-Mail                   : domain@dhid.kr
+AC Phone Number             : 82-033-766-0751
+Registered Date             : 2008. 05. 20.
+Last updated Date           : 2011. 05. 23.
+Expiration Date             : 2013. 05. 20.
+Publishes                   : Y
+Authorized Agency           : hostcenter(http://www.hostcenter.co.kr)
+
+Primary Name Server
+   Host Name                : ns1.dhid.kr
+   IP Address               : 125.141.231.179
+
+Secondary Name Server
+   Host Name                : ns2.dhid.kr
+   IP Address               : 211.233.59.20
+   Host Name                : ns3.dhid.kr
+   IP Address               : 121.254.154.149
+   Host Name                : ns4.dhid.kr
+   IP Address               : 121.254.154.151
+   Host Name                : ns5.dhid.kr
+   IP Address               : 121.254.154.195
+
+
+- KISA/KRNIC Whois Service -
+
+

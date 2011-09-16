@@ -1,0 +1,108 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; enst.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      enst.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ENSD23-FRNIC
+admin-c:     JB5921-FRNIC
+tech-c:      GR1378-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL24711-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 07/03/2011
+source:      FRNIC
+
+ns-list:     NSL24711-FRNIC
+nserver:     ns2.enst.fr [137.194.2.34 2001:660:330f:2::22]
+nserver:     ns3.enst.fr [137.194.32.84 2001:660:330f:20::54]
+nserver:     ns6.enst.fr [137.194.2.16 2001:660:330f:2::10]
+nserver:     ns7-ext.enst.fr [188.165.194.191 2001:41d0:2:8bbf::1]
+nserver:     ns8-ext.enst.fr [79.143.243.129 2a01:678:2:100::53]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     ENSD23-FRNIC
+type:        ORGANIZATION
+contact:     Ecole Nationale Superieure des Telecommunications - Telecom/Paris
+address:     46, rue Barrault
+address:     75634 Paris Cedex 13
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     JB5921-FRNIC
+type:        PERSON
+contact:     Jean-Pierre Bach
+address:     Ecole Nationale Superieure Telecommunications
+address:     centre de Calcul
+address:     46, rue Barrault
+address:     75634 Paris Cedex 13
+country:     FR
+phone:       +33 1 45 81 42 96
+e-mail:      bach@enst.enst.fr
+notify:      bach@enst.enst.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
