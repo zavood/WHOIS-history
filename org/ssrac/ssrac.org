@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D75534436-LROR
+Domain Name:SSRAC.ORG
+Created On:31-Jul-2001 08:00:54 UTC
+Last Updated On:09-Jul-2009 01:26:32 UTC
+Expiration Date:31-Jul-2014 08:00:54 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuCmTYJAh68Oi8sf
+Registrant Name:Yang Seung Ho
+Registrant Organization:Seung Ho Yang
+Registrant Street1:MukJung-dong
+Registrant Street2:Hexa Sports Climbing Center, B1
+Registrant Street3:chung-ku
+Registrant City:Seoul
+Registrant State/Province:
+Registrant Postal Code:unknown
+Registrant Country:KR
+Registrant Phone:+82.1190371408
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:anka71@hanmail.net
+Admin ID:tuPc2CWrR9JbTdMi
+Admin Name:Yang Seung Ho
+Admin Organization:Seung Ho Yang
+Admin Street1:MukJung-dong
+Admin Street2:Hexa Sports Climbing Center, B1
+Admin Street3:chung-ku
+Admin City:Seoul
+Admin State/Province:
+Admin Postal Code:unknown
+Admin Country:KR
+Admin Phone:+82.1190371408
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:anka71@hanmail.net
+Tech ID:tuIkv6H0XQtXN1et
+Tech Name:blueweb blueweb
+Tech Organization:blueweb
+Tech Street1:Yeoksam-dong 736-35
+Tech Street2:#4F Jihyun Building
+Tech Street3:Gangnam-gu
+Tech City:Seoul
+Tech State/Province:kr
+Tech Postal Code:135-080
+Tech Country:KR
+Tech Phone:+82.267322000
+Tech Phone Ext.:
+Tech FAX:+82.267322004
+Tech FAX Ext.:
+Tech Email:tdomain@blueweb.co.kr
+Name Server:NIS.BLUEWEB.CO.KR
+Name Server:NS3.BLUEWEB.CO.KR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

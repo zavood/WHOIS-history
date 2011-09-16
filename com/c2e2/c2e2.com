@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 06-mar-2004
    Expiration Date: 06-mar-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 14:20:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 14:22:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: c2e2.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 10:10:44 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Fri Sep 16 10:13:15 EDT 2011
 Reason Code: IE

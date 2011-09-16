@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104463397-LROR
+Domain Name:HEPG.ORG
+Created On:26-May-2004 14:44:32 UTC
+Last Updated On:01-Nov-2010 18:27:04 UTC
+Expiration Date:26-May-2013 14:44:32 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:37920603-NSI
+Registrant Name:HarvardEducationPublishing Group
+Registrant Organization:HarvardEducationPublishing Group
+Registrant Street1:8 Story Street 1st Floor
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cambridge
+Registrant State/Province:MA
+Registrant Postal Code:02138
+Registrant Country:US
+Registrant Phone:+1.6174953432
+Registrant Phone Ext.:
+Registrant FAX:+1.6174963584
+Registrant FAX Ext.:
+Registrant Email:laura_clos@harvard.edu
+Admin ID:41074412-NSI
+Admin Name:RDW Group
+Admin Street1:33 Farnsworth St.
+Admin Street2:4th Floor
+Admin Street3:
+Admin City:Boston
+Admin State/Province:MA
+Admin Postal Code:02210
+Admin Country:US
+Admin Phone:+1.6172355888
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:scott@ifactory.com
+Tech ID:41074412-NSI
+Tech Name:RDW Group
+Tech Street1:33 Farnsworth St.
+Tech Street2:4th Floor
+Tech Street3:
+Tech City:Boston
+Tech State/Province:MA
+Tech Postal Code:02210
+Tech Country:US
+Tech Phone:+1.6172355888
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:scott@ifactory.com
+Name Server:NS37.WORLDNIC.COM
+Name Server:NS38.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

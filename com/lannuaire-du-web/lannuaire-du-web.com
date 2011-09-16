@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 04-jun-2005
    Expiration Date: 04-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 17:35:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 14:24:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -99,10 +99,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Saturday, 10-Sep-2011 19:36:03 CEST
-# gmt time      : Saturday, 10-Sep-2011 17:36:03 GMT
+# local time    : Friday, 16-Sep-2011 16:25:27 CEST
+# gmt time      : Friday, 16-Sep-2011 14:25:27 GMT
 # last modify   : Wednesday, 04-May-2011 18:14:59 CEST
-# request from  : 192.168.248.1:5271
+# request from  : 192.168.248.2:31406
 
 Domain name: lannuaire-du-web.com
 

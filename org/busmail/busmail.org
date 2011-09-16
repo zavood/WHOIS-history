@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D75184235-LROR
+Domain Name:BUSMAIL.ORG
+Created On:19-Jul-2001 20:45:08 UTC
+Last Updated On:20-Jul-2011 10:53:12 UTC
+Expiration Date:19-Jul-2012 20:45:08 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30947483
+Registrant Name:Deb Martinson
+Registrant Organization:Deb Martinson
+Registrant Street1:521 Temple Pl
+Registrant Street2:
+Registrant Street3:
+Registrant City:Seattle
+Registrant State/Province:WA
+Registrant Postal Code:98122
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:llama@drizzle.com
+Admin ID:CR30947485
+Admin Name:Deb Martinson
+Admin Organization:bus list
+Admin Street1:521 Temple Pl
+Admin Street2:
+Admin Street3:
+Admin City:Seattle
+Admin State/Province:WA
+Admin Postal Code:98122
+Admin Country:US
+Admin Phone:+1.2063252609
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:llama@drizzle.com
+Tech ID:CR30947484
+Tech Name:phpwebhosting.com support.phpwebhosting.com
+Tech Organization:phpwebhosting.com, LLC - tech.
+Tech Street1:8888 Keystone Crossing Plaza S
+Tech Street2:uite 1300
+Tech Street3:
+Tech City:Indianapolis
+Tech State/Province:IN
+Tech Postal Code:46240
+Tech Country:US
+Tech Phone:+1.2065743122
+Tech Phone Ext.:
+Tech FAX:+1.2065743122
+Tech FAX Ext.:
+Tech Email:support@phpwebhosting.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
