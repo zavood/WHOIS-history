@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1775616-LROR
+Domain Name:UJAFED.ORG
+Created On:14-Aug-1998 04:00:00 UTC
+Last Updated On:31-Mar-2011 12:49:37 UTC
+Expiration Date:13-Aug-2012 04:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuICKzFgBklYYCDX
+Registrant Name:Bruce Gilbert
+Registrant Organization:Jewish Federation of Greater Toronto
+Registrant Street1:4600 Bathurst Street
+Registrant Street2:3rd Floor
+Registrant Street3:
+Registrant City:Toronto
+Registrant State/Province:ON
+Registrant Postal Code:M2R3V2
+Registrant Country:CA
+Registrant Phone:+1.4166315730
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bgilbert@ujafed.org
+Admin ID:tuICKzFgBklYYCDX
+Admin Name:Bruce Gilbert
+Admin Organization:Jewish Federation of Greater Toronto
+Admin Street1:4600 Bathurst Street
+Admin Street2:3rd Floor
+Admin Street3:
+Admin City:Toronto
+Admin State/Province:ON
+Admin Postal Code:M2R3V2
+Admin Country:CA
+Admin Phone:+1.4166315730
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bgilbert@ujafed.org
+Tech ID:tuj67zqBbcUKMFlC
+Tech Name:DNSAdmin  DNSAdmin
+Tech Organization:Netkeepers Integric Solutions Group Inc.
+Tech Street1:215 Shields Court, Unit 3
+Tech Street2:
+Tech Street3:
+Tech City:Markham
+Tech State/Province:Ontario
+Tech Postal Code:L3R8V2
+Tech Country:CA
+Tech Phone:+1.9057704804
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dnsadmin@netkeepers.com
+Name Server:NS1.WILDDNS.COM
+Name Server:NS2.WILDDNS.COM
+Name Server:NS3.WILDDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

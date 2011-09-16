@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D8326667-LROR
+Domain Name:AKFUSA.ORG
+Created On:22-Jul-1999 20:05:12 UTC
+Last Updated On:26-Jan-2010 02:53:48 UTC
+Expiration Date:22-Jul-2015 20:05:12 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:817496-NSI
+Registrant Name:AGA KHAN FOUNDATION U.S.A
+Registrant Organization:AGA KHAN FOUNDATION U.S.A
+Registrant Street1:1825 K ST NW STE 901
+Registrant Street2:
+Registrant Street3:
+Registrant City:WASHINGTON
+Registrant State/Province:DC
+Registrant Postal Code:20006-1214
+Registrant Country:US
+Registrant Phone:+1.2022932537
+Registrant Phone Ext.:
+Registrant FAX:+1.2027851752
+Registrant FAX Ext.:
+Registrant Email:nkarim@akfusa.org
+Admin ID:35007700-NSI
+Admin Name:Tech Admin
+Admin Organization:Aga Khan Foundation
+Admin Street1:1825 K St NW
+Admin Street2:Suite 901
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20006
+Admin Country:US
+Admin Phone:+1.2022932537
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:techsupport@akfusa.org
+Tech ID:35007700-NSI
+Tech Name:Tech Admin
+Tech Organization:Aga Khan Foundation
+Tech Street1:1825 K St NW
+Tech Street2:Suite 901
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20006
+Tech Country:US
+Tech Phone:+1.2022932537
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:techsupport@akfusa.org
+Name Server:NS55.WORLDNIC.COM
+Name Server:NS56.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

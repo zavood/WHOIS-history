@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106133133-LROR
+Domain Name:LIXIANG.ORG
+Created On:22-Apr-2005 05:49:47 UTC
+Last Updated On:11-May-2011 09:19:09 UTC
+Expiration Date:22-Apr-2013 05:49:47 UTC
+Sponsoring Registrar:Bizcn.com, Inc. (R1248-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:orgxl14148995292
+Registrant Name:xue liu
+Registrant Organization:liu xue
+Registrant Street1:Room 1217 Yinke Building No.38 Haidian Street Haidian
+Registrant Street2:Beijing
+Registrant Street3:
+Registrant City:beijing
+Registrant State/Province:beijing
+Registrant Postal Code:100085
+Registrant Country:CN
+Registrant Phone:+86.13911676528
+Registrant Phone Ext.:
+Registrant FAX:+86.13911676528
+Registrant FAX Ext.:
+Registrant Email:appnet@188.com
+Admin ID:orgxl14148995777
+Admin Name:xue liu
+Admin Organization:liu xue
+Admin Street1:beijing
+Admin Street2:
+Admin Street3:
+Admin City:beijing
+Admin State/Province:beijing
+Admin Postal Code:274000
+Admin Country:CN
+Admin Phone:+1.13671177255
+Admin Phone Ext.:
+Admin FAX:+1.13671177255
+Admin FAX Ext.:
+Admin Email:lvaichun@gmail.com
+Tech ID:orgxl14148996013
+Tech Name:xue liu
+Tech Organization:xue liu
+Tech Street1:shangdong heze
+Tech Street2:
+Tech Street3:
+Tech City:heze
+Tech State/Province:shandong
+Tech Postal Code:274000
+Tech Country:CN
+Tech Phone:+86.2137100200
+Tech Phone Ext.:
+Tech FAX:+86.2137100200
+Tech FAX Ext.:
+Tech Email:flash77@flash77.com
+Name Server:NS1.DNSV5.COM
+Name Server:NS2.DNSV5.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

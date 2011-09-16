@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: F262D-NORID
+Domain Name................: f12.no
+Domain Holder Handle.......: JA678O-NORID
+Registrar Handle...........: REG462-NORID
+Legal-c Handle.............: AS7818P-NORID
+Tech-c Handle..............: UH20R-NORID
+Name Server Handle.........: NSMY240H-NORID
+Name Server Handle.........: NSMY252H-NORID
+Name Server Handle.........: NSMY279H-NORID
+Name Server Handle.........: NSMY291H-NORID
+
+Additional information:
+Created:         2002-09-26
+Last updated:    2010-10-02
+
+NORID Handle...............: JA678O-NORID
+Type.......................: organization
+Name.......................: JAHRAS AS
+Id Type....................: organization_number
+Id Number..................: 960079450
+Registrar Handle...........: REG462-NORID
+Post Address...............: &Oslash;verbyvn. 24
+Postal Code................: NO-2830
+Postal Area................: Raufoss
+Country....................: NO
+Mobile Phone Number........: +47.92443820
+Email Address..............: anderssv@stud.ntnu.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

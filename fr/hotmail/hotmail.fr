@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; hotmail.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      hotmail.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MF3276-FRNIC
+admin-c:     BO548-FRNIC
+tech-c:      MH1646-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL9067-FRNIC
+registrar:   CSC CORPORATE DOMAINS INC.
+anniversary: 29/12
+created:     08/12/2004
+last-update: 29/12/2010
+source:      FRNIC
+
+ns-list:     NSL9067-FRNIC
+nserver:     ns1.msft.net
+nserver:     ns3.msft.net
+nserver:     ns4.msft.net
+source:      FRNIC
+
+registrar:   CSC CORPORATE DOMAINS INC.
+type:        Isp Option 1
+address:     2711 Centerville Road, Suite 400
+address:     DE 19808 WILMINGTON
+country:     US
+phone:       +1 302 636 5400
+fax-no:      +1 302 636 5454
+e-mail:      corporatedomains@cscinfo.com
+website:     http://www.csccorporatedomains.com
+anonymous:   NO
+registered:  17/10/2006
+source:      FRNIC
+
+nic-hdl:     MF3276-FRNIC
+type:        ORGANIZATION
+contact:     MICROSOFT FRANCE
+address:     MICROSOFT FRANCE
+address:     18, avenue du Quebec
+address:     91957 Courtaboeuf Cedex
+country:     FR
+phone:       +33 8 25 82 78 29
+fax-no:      +33 8 25 82 78 29
+e-mail:      admin@internationaladmin.com
+changed:     22/12/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     BO548-FRNIC
+type:        ORGANIZATION
+contact:     MICROSOFT FRANCE
+address:     MICROSOFT FRANCE
+address:     18, avenue du Quebec
+address:     91957 Courtaboeuf
+country:     FR
+phone:       +33 8 25 82 78 29
+fax-no:      +33 8 25 82 78 29
+e-mail:      admin@internationaladmin.com
+changed:     05/04/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     MH1646-FRNIC
+type:        PERSON
+contact:     Msn Hostmaster
+address:     Microsoft Corporation
+address:     One Microsoft Way
+address:     98052 Redmond Wa
+country:     US
+phone:       +1 4258828080
+fax-no:      +1 4259367329
+e-mail:      msnhst@microsoft.com
+changed:     17/06/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

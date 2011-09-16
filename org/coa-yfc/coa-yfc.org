@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D11920759-LROR
+Domain Name:COA-YFC.ORG
+Created On:31-Oct-1999 20:53:39 UTC
+Last Updated On:21-Jul-2009 15:00:33 UTC
+Expiration Date:31-Oct-2014 20:53:39 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29535443-NSI
+Registrant Name:COA Youth and Family Centers
+Registrant Organization:COA Youth and Family Centers
+Registrant Street1:909 E North Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Milwaukee
+Registrant State/Province:WI
+Registrant Postal Code:53212
+Registrant Country:US
+Registrant Phone:+1.41426383
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jbert@EXECPC.COM
+Admin ID:29535444-NSI
+Admin Name:James Bertrand
+Admin Organization:COA Youth and Family Centers
+Admin Street1:909 E North Ave
+Admin Street2:
+Admin Street3:
+Admin City:MIlwaukee
+Admin State/Province:WI
+Admin Postal Code:53212
+Admin Country:US
+Admin Phone:+1.4142638383
+Admin Phone Ext.:
+Admin FAX:+1.4142638386
+Admin FAX Ext.:
+Admin Email:jimb@coa-yfc.org
+Tech ID:29535444-NSI
+Tech Name:James Bertrand
+Tech Organization:COA Youth and Family Centers
+Tech Street1:909 E North Ave
+Tech Street2:
+Tech Street3:
+Tech City:MIlwaukee
+Tech State/Province:WI
+Tech Postal Code:53212
+Tech Country:US
+Tech Phone:+1.4142638383
+Tech Phone Ext.:
+Tech FAX:+1.4142638386
+Tech FAX Ext.:
+Tech Email:jimb@coa-yfc.org
+Name Server:NS0.CORECOMMHOSTING.COM
+Name Server:NS1.CORECOMMHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

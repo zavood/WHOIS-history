@@ -1,0 +1,106 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; eurecom.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      eurecom.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    IE110-FRNIC
+admin-c:     UF2-FRNIC
+tech-c:      GR1378-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL3360-FRNIC
+registrar:   RENATER
+anniversary: 08/03
+created:     08/03/1996
+last-update: 08/03/1996
+source:      FRNIC
+
+ns-list:     NSL3360-FRNIC
+nserver:     dns.eurecom.fr [193.55.113.200]
+nserver:     ns6.enst.fr [137.194.2.16 2001:660:330f:2::10]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     IE110-FRNIC
+type:        ORGANIZATION
+contact:     Institut Eurecom
+address:     2229, route des Cretes
+address:     B.P. 193
+address:     06904 Sophia Antipolis Cedex
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     UF2-FRNIC
+type:        PERSON
+contact:     Ulrich Finger
+address:     Institut EURECOM
+address:     2229, route des Cretes
+address:     B.P. 193
+address:     06904 Sophia Antipolis Cedex
+country:     FR
+phone:       +33 4 93 00 26 99
+fax-no:      +33 4 93 00 26 27
+e-mail:      finger@eurecom.fr
+changed:     24/04/2001 deponthieu@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
