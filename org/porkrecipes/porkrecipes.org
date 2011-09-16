@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D132879037-LROR
+Domain Name:PORKRECIPES.ORG
+Created On:14-Nov-2006 20:11:33 UTC
+Last Updated On:24-Aug-2011 21:09:08 UTC
+Expiration Date:14-Nov-2011 20:11:33 UTC
+Sponsoring Registrar:Moniker Online Services LLC (R145-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:MONIKER569535
+Registrant Name:Shavkat Karimov
+Registrant Street1:240 E Verdugo Ave
+Registrant Street2:227
+Registrant Street3:
+Registrant City:Burbank
+Registrant State/Province:CA
+Registrant Postal Code:91502
+Registrant Country:US
+Registrant Phone:+1.8184686938
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:shk@cinedictum.com
+Admin ID:MONIKER569535
+Admin Name:Shavkat Karimov
+Admin Street1:240 E Verdugo Ave
+Admin Street2:227
+Admin Street3:
+Admin City:Burbank
+Admin State/Province:CA
+Admin Postal Code:91502
+Admin Country:US
+Admin Phone:+1.8184686938
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:shk@cinedictum.com
+Tech ID:MONIKER569535
+Tech Name:Shavkat Karimov
+Tech Street1:240 E Verdugo Ave
+Tech Street2:227
+Tech Street3:
+Tech City:Burbank
+Tech State/Province:CA
+Tech Postal Code:91502
+Tech Country:US
+Tech Phone:+1.8184686938
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:shk@cinedictum.com
+Name Server:SNS93.WEBSITEWELCOME.COM
+Name Server:SNS94.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

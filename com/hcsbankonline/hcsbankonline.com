@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 08-nov-2005
    Expiration Date: 08-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 00:31:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 18:58:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,12 +117,12 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns6.diginsite.com
-    ns1.diginsite.com
-    ns5.diginsite.com
-    ns2.diginsite.com
     ns4.diginsite.com
+    ns6.diginsite.com
     ns3.diginsite.com
+    ns1.diginsite.com
+    ns2.diginsite.com
+    ns5.diginsite.com
 
 
 

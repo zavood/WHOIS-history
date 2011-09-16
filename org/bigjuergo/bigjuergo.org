@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161328404-LROR
+Domain Name:BIGJUERGO.ORG
+Created On:27-Jan-2011 07:18:13 UTC
+Last Updated On:29-Mar-2011 03:49:22 UTC
+Expiration Date:27-Jan-2012 07:18:13 UTC
+Sponsoring Registrar:1API GmbH (R1724-LROR)
+Status:OK
+Registrant ID:JHR6988236-IZNK
+Registrant Name:Juergen Hirzer
+Registrant Street1:Hauptplatz 12
+Registrant Street2:
+Registrant Street3:
+Registrant City:Villach
+Registrant State/Province:
+Registrant Postal Code:9500
+Registrant Country:AT
+Registrant Phone:+43.6501234567
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jhirzer@yahoo.com
+Admin ID:JHR6988236-IZNK
+Admin Name:Juergen Hirzer
+Admin Street1:Hauptplatz 12
+Admin Street2:
+Admin Street3:
+Admin City:Villach
+Admin State/Province:
+Admin Postal Code:9500
+Admin Country:AT
+Admin Phone:+43.6501234567
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jhirzer@yahoo.com
+Tech ID:DHN5738208-CXNX
+Tech Name:Domain Hostmaster
+Tech Organization:NetService24 GmbH
+Tech Street1:Dietlindenstr. 15
+Tech Street2:
+Tech Street3:
+Tech City:Muenchen
+Tech State/Province:DE
+Tech Postal Code:80802
+Tech Country:DE
+Tech Phone:+49.18055552424
+Tech Phone Ext.:
+Tech FAX:+49.18055552422
+Tech FAX Ext.:
+Tech Email:service@domain24.de
+Name Server:NS1.DOMAIN24.DE
+Name Server:NS2.DOMAIN24.DE
+Name Server:NS3.DOMAIN24.DE
+Name Server:NS4.DOMAIN24.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 19-apr-2002
    Expiration Date: 19-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 11:53:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 18:49:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -61,9 +61,9 @@ Domain Name: PASS-GUARANTEED.COM
 Registrant:
     Global CC Ltd.
     R.P.        (support@pass-guaranteed.com)
-    Dalton House 60 Windsor Avenue
-    Wimbledon
-    London,SW19 2RR
+    55 Penton Road
+    Staines
+    London,TW18 2LB
     GB
     Tel. +44.2031511982
 
@@ -80,27 +80,27 @@ Domain servers in listed order:
 Administrative Contact:
     Global CC Ltd.
     R.P.        (support@pass-guaranteed.com)
-    Dalton House 60 Windsor Avenue
-    Wimbledon
-    London,SW19 2RR
+    55 Penton Road
+    Staines
+    London,TW18 2LB
     GB
     Tel. +44.2031511982
 
 Technical Contact:
     Global CC Ltd.
     R.P.        (support@pass-guaranteed.com)
-    Dalton House 60 Windsor Avenue
-    Wimbledon
-    London,SW19 2RR
+    55 Penton Road
+    Staines
+    London,TW18 2LB
     GB
     Tel. +44.2031511982
 
 Billing Contact:
     Global CC Ltd.
     R.P.        (support@pass-guaranteed.com)
-    Dalton House 60 Windsor Avenue
-    Wimbledon
-    London,SW19 2RR
+    55 Penton Road
+    Staines
+    London,TW18 2LB
     GB
     Tel. +44.2031511982
 

@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 10-jan-1995
    Expiration Date: 09-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 04:28:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 18:54:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -129,4 +129,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
---
+
