@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103941860-LROR
+Domain Name:CLINTONVILLECRC.ORG
+Created On:05-Feb-2004 15:17:39 UTC
+Last Updated On:09-Feb-2010 01:37:35 UTC
+Expiration Date:05-Feb-2017 15:17:39 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-7A4657QZWN8N
+Registrant Name:Joel Copeland
+Registrant Organization:KMi Inc.
+Registrant Street1:5025 Arlington Centre Blvd.
+Registrant Street2:Suite 240
+Registrant Street3:
+Registrant City:Columbus
+Registrant State/Province:Ohio
+Registrant Postal Code:43220
+Registrant Country:US
+Registrant Phone:+1.6143266304
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jvcopeland@kmionline.com
+Admin ID:DOT-RJNXUCR9YRFV
+Admin Name:Joel Copeland
+Admin Organization:KMi Inc.
+Admin Street1:5025 Arlington Centre Blvd.
+Admin Street2:Suite 240
+Admin Street3:
+Admin City:Columbus
+Admin State/Province:Ohio
+Admin Postal Code:43220
+Admin Country:US
+Admin Phone:+1.6143266304
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jvcopeland@kmionline.com
+Tech ID:DOT-BLOFDBVN5UXR
+Tech Name:Mark Colasante
+Tech Organization:KMi, Inc.
+Tech Street1:5025 Arlinton Centre Blvd.
+Tech Street2:Suite 240
+Tech Street3:
+Tech City:Columbus
+Tech State/Province:Ohio
+Tech Postal Code:43220
+Tech Country:US
+Tech Phone:+1.6143266304
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mcola@kmionline.com
+Name Server:NS1.LUNARMANIA.COM
+Name Server:NS2.LUNARMANIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

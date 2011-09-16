@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96740251-LROR
+Domain Name:BIGOURDAN.ORG
+Created On:18-Apr-2003 07:55:17 UTC
+Last Updated On:22-Feb-2007 07:14:59 UTC
+Expiration Date:18-Apr-2012 07:55:17 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuT5n3o9BFVwRswb
+Registrant Name:Nicolas BIGOURDAN
+Registrant Organization:BIGOURDAN
+Registrant Street1:2, rue de la Vallee du Lys
+Registrant Street2:
+Registrant Street3:
+Registrant City:Escalquens
+Registrant State/Province:
+Registrant Postal Code:31750
+Registrant Country:FR
+Registrant Phone:+33.689932193
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nbigourdan@yahoo.fr
+Admin ID:tuIRwWblNefZGKl3
+Admin Name:Nicolas BIGOURDAN
+Admin Organization:BIGOURDAN
+Admin Street1:2, rue de la Vallee du Lys
+Admin Street2:
+Admin Street3:
+Admin City:Escalquens
+Admin State/Province:
+Admin Postal Code:31750
+Admin Country:FR
+Admin Phone:+33.689932193
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nbigourdan@yahoo.fr
+Tech ID:tubwwueo7kjvf56Y
+Tech Name:Nicolas BIGOURDAN
+Tech Organization:BIGOURDAN
+Tech Street1:2, rue de la Vallee du Lys
+Tech Street2:
+Tech Street3:
+Tech City:Escalquens
+Tech State/Province:
+Tech Postal Code:31750
+Tech Country:FR
+Tech Phone:+33.689932193
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:nbigourdan@yahoo.fr
+Name Server:NS7.ZONEEDIT.COM
+Name Server:NS14.ZONEEDIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

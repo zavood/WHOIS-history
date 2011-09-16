@@ -1,0 +1,79 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; collectionsjeuxjouets.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      collectionsjeuxjouets.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     C639-FRNIC
+tech-c:      C639-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL44471-FRNIC
+registrar:   ONLINE SAS
+anniversary: 31/08
+created:     31/08/2010
+last-update: 23/12/2010
+source:      FRNIC
+
+ns-list:     NSL44471-FRNIC
+nserver:     backup2.clicboutic.com
+nserver:     ns.ox10.clicboutic.com
+source:      FRNIC
+
+registrar:   ONLINE SAS
+type:        Isp Option 1
+address:     8 Rue de la Ville l'Ev&ecirc;que
+address:     PARIS
+country:     FR
+phone:       +33 1 73 50 20 00
+fax-no:      +33 1 73 50 26 05
+e-mail:      hebergement@online.net
+website:     http://www.online.net
+anonymous:   NO
+registered:  01/04/1999
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     08/07/2011 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     C639-FRNIC
+type:        ORGANIZATION
+contact:     CLICBOUTIC
+address:     52, rue marcadet
+address:     75018 Paris
+country:     FR
+phone:       +33 1 82 83 61 57
+e-mail:      clicboutic.182012@spamfree.bookmyname.com
+changed:     30/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

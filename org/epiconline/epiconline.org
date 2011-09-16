@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D129624238-LROR
+Domain Name:EPICONLINE.ORG
+Created On:26-Sep-2006 19:01:26 UTC
+Last Updated On:05-May-2011 21:43:32 UTC
+Expiration Date:26-Sep-2016 19:01:26 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32423820
+Registrant Name:Dave Conley
+Registrant Organization:Educational Policy Improvement Center
+Registrant Street1:720 E 13th Ave
+Registrant Street2:Ste 201
+Registrant Street3:
+Registrant City:Eugene
+Registrant State/Province:Oregon
+Registrant Postal Code:97401
+Registrant Country:US
+Registrant Phone:+1.5413466153
+Registrant Phone Ext.:
+Registrant FAX:+1.5413466154
+Registrant FAX Ext.:
+Registrant Email:dave_conley@epiconline.org
+Admin ID:CR32423822
+Admin Name:Dave Conley
+Admin Organization:Educational Policy Improvement Center
+Admin Street1:720 E 13th Ave
+Admin Street2:Ste 201
+Admin Street3:
+Admin City:Eugene
+Admin State/Province:Oregon
+Admin Postal Code:97401
+Admin Country:US
+Admin Phone:+1.5413466153
+Admin Phone Ext.:
+Admin FAX:+1.5413466154
+Admin FAX Ext.:
+Admin Email:dave_conley@epiconline.org
+Tech ID:CR32423821
+Tech Name:David Campbell
+Tech Organization:Educational Policy Improvement Center
+Tech Street1:720 E 13th Ave
+Tech Street2:Ste 201
+Tech Street3:
+Tech City:Eugene
+Tech State/Province:Oregon
+Tech Postal Code:97401
+Tech Country:US
+Tech Phone:+1.5413466153
+Tech Phone Ext.:
+Tech FAX:+1.5413466154
+Tech FAX Ext.:
+Tech Email:david_campbell@epiconline.org
+Name Server:NS12.ZONEEDIT.COM
+Name Server:NS14.ZONEEDIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

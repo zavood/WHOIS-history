@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158693372-LROR
+Domain Name:BIAGIBEADS.ORG
+Created On:25-Mar-2010 16:06:40 UTC
+Last Updated On:28-Jan-2011 15:42:45 UTC
+Expiration Date:25-Mar-2012 16:06:40 UTC
+Sponsoring Registrar:Omnis Network LLC (R101-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:OMNIS-1286495198
+Registrant Name:Brett Swartz
+Registrant Organization:Bazinga LLC
+Registrant Street1:3091 Oaklawn Park
+Registrant Street2:
+Registrant Street3:
+Registrant City:Saginaw
+Registrant State/Province:MI
+Registrant Postal Code:48603
+Registrant Country:US
+Registrant Phone:+1.9899927552
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bazingallc@gmail.com
+Admin ID:OMNIS-1286495198
+Admin Name:Brett Swartz
+Admin Organization:Bazinga LLC
+Admin Street1:3091 Oaklawn Park
+Admin Street2:
+Admin Street3:
+Admin City:Saginaw
+Admin State/Province:MI
+Admin Postal Code:48603
+Admin Country:US
+Admin Phone:+1.9899927552
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bazingallc@gmail.com
+Tech ID:OMNIS-1286495198
+Tech Name:Brett Swartz
+Tech Organization:Bazinga LLC
+Tech Street1:3091 Oaklawn Park
+Tech Street2:
+Tech Street3:
+Tech City:Saginaw
+Tech State/Province:MI
+Tech Postal Code:48603
+Tech Country:US
+Tech Phone:+1.9899927552
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bazingallc@gmail.com
+Name Server:NS1.OMNIS.COM
+Name Server:NS2.OMNIS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

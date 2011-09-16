@@ -1,0 +1,88 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157029105-LROR
+Domain Name:FLOWERCOLORINGPAGES.ORG
+Created On:04-Sep-2009 08:18:50 UTC
+Last Updated On:05-Sep-2011 10:47:09 UTC
+Expiration Date:04-Sep-2012 08:18:50 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR87207132
+Registrant Name:Host Master
+Registrant Organization:J3G Limited
+Registrant Street1:Newporte Business Park
+Registrant Street2:Bishops Road
+Registrant Street3:
+Registrant City:Lincoln
+Registrant State/Province:Lincolnshire
+Registrant Postal Code:LN2 4SY
+Registrant Country:GB
+Registrant Phone:+44.1522888625
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@j3g.co.uk
+Admin ID:CR87207140
+Admin Name:Host Master
+Admin Organization:J3G Limited
+Admin Street1:Newporte Business Park
+Admin Street2:Bishops Road
+Admin Street3:
+Admin City:Lincoln
+Admin State/Province:Lincolnshire
+Admin Postal Code:LN2 4SY
+Admin Country:GB
+Admin Phone:+44.1522888625
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@j3g.co.uk
+Tech ID:CR87207134
+Tech Name:Host Master
+Tech Organization:J3G Limited
+Tech Street1:Newporte Business Park
+Tech Street2:Bishops Road
+Tech Street3:
+Tech City:Lincoln
+Tech State/Province:Lincolnshire
+Tech Postal Code:LN2 4SY
+Tech Country:GB
+Tech Phone:+44.1522888625
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@j3g.co.uk
+Name Server:NS1.UKCHEAPHOST.NET
+Name Server:NS2.UKCHEAPHOST.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

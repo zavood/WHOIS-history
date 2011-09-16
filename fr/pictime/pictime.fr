@@ -1,0 +1,81 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; pictime.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      pictime.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    P7515-FRNIC
+admin-c:     FF22-FRNIC
+tech-c:      FF22-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL789-FRNIC
+registrar:   PICTIME
+anniversary: 17/02
+created:     10/01/1996
+last-update: 17/02/2011
+source:      FRNIC
+
+ns-list:     NSL789-FRNIC
+nserver:     edison.pictime.fr [193.238.148.11]
+nserver:     bell.pictime.fr [91.198.159.14]
+source:      FRNIC
+
+registrar:   PICTIME
+type:        Isp Option 2
+address:     Parc de la Haute Borne
+address:     22 Rue Herg&eacute;
+address:     VILLEUVE D'ASCQ
+country:     FR
+phone:       +33 3 28 52 05 20
+fax-no:      +33 3 28 52 05 29
+e-mail:      contact@pictime.com
+website:     http://www.pictime.com
+anonymous:   NO
+registered:  18/10/2002
+source:      FRNIC
+
+nic-hdl:     P7515-FRNIC
+type:        ORGANIZATION
+contact:     PICTIME
+address:     PICITME
+address:     22, rue Herge
+address:     59650 Villeneuve-d'Ascq
+country:     FR
+phone:       +33 3 28 52 05 20
+e-mail:      domaines@pictime.com
+changed:     17/06/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     FF22-FRNIC
+type:        ROLE
+contact:     frank flipo
+address:     Pictime
+address:     677, avenue de la Republique
+address:     59040 Lille Cedex
+country:     FR
+phone:       +33 3 28 52 05 20
+e-mail:      domaines@pictime.com
+admin-c:     FC1476-FRNIC
+tech-c:      FF131-FRNIC
+changed:     16/01/2006 domaines@pictime.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

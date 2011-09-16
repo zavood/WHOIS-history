@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D92801226-LROR
+Domain Name:CENTRALJERSEYDANCE.ORG
+Created On:04-Dec-2002 01:41:37 UTC
+Last Updated On:05-Dec-2010 01:23:43 UTC
+Expiration Date:04-Dec-2011 01:41:37 UTC
+Sponsoring Registrar:TierraNet Inc. dba DomainDiscover (R86-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:TNTN-0000420144
+Registrant Name:Winsor Li
+Registrant Organization:Central Jersey Dance Society
+Registrant Street1:P.O. Box 2193
+Registrant Street2:
+Registrant Street3:
+Registrant City:Princeton
+Registrant State/Province:NJ
+Registrant Postal Code:08543
+Registrant Country:US
+Registrant Phone:+1.6099451883
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:treasurer@centraljerseydance.org
+Admin ID:TNTN-0000420144
+Admin Name:Winsor Li
+Admin Organization:Central Jersey Dance Society
+Admin Street1:P.O. Box 2193
+Admin Street2:
+Admin Street3:
+Admin City:Princeton
+Admin State/Province:NJ
+Admin Postal Code:08543
+Admin Country:US
+Admin Phone:+1.6099451883
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:treasurer@centraljerseydance.org
+Tech ID:TNTN-0000420144
+Tech Name:Winsor Li
+Tech Organization:Central Jersey Dance Society
+Tech Street1:P.O. Box 2193
+Tech Street2:
+Tech Street3:
+Tech City:Princeton
+Tech State/Province:NJ
+Tech Postal Code:08543
+Tech Country:US
+Tech Phone:+1.6099451883
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:treasurer@centraljerseydance.org
+Name Server:NS2.MEDIALAYER.NET
+Name Server:NS1.MEDIALAYER.NET
+Name Server:NS3.MEDIALAYER.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

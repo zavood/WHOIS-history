@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158350039-LROR
+Domain Name:DEESGR.ORG
+Created On:12-Feb-2010 16:13:09 UTC
+Last Updated On:25-Jan-2011 16:11:47 UTC
+Expiration Date:12-Feb-2012 16:13:09 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:l67feboosla2tbkc
+Registrant Name:Paulette Mason
+Registrant Street1:12 Edinburgh Ct
+Registrant Street2:
+Registrant Street3:
+Registrant City:Newark
+Registrant State/Province:DE
+Registrant Postal Code:19711
+Registrant Country:US
+Registrant Phone:+1.3023838611
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:paulettemmason@aol.com
+Admin ID:niqdr81nisgjcref
+Admin Name:Paulette Mason
+Admin Street1:12 Edinburgh Ct
+Admin Street2:
+Admin Street3:
+Admin City:Newark
+Admin State/Province:DE
+Admin Postal Code:19711
+Admin Country:US
+Admin Phone:+1.3023838611
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:paulettemmason@aol.com
+Tech ID:4a0hf3vqfj8mdk65
+Tech Name:Drone Team
+Tech Organization:Web.com
+Tech Street1:12808 Gran Bay Parkway West
+Tech Street2:
+Tech Street3:
+Tech City:Jacksonville
+Tech State/Province:FL
+Tech Postal Code:32258
+Tech Country:US
+Tech Phone:+1.8009324678
+Tech Phone Ext.:
+Tech FAX:+1.4042602545
+Tech FAX Ext.:
+Tech Email:droneteam@corp.web.com
+Name Server:B.NS.INTERLAND.NET
+Name Server:A.NS.INTERLAND.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

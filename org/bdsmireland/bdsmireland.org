@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D93943025-LROR
+Domain Name:BDSMIRELAND.ORG
+Created On:13-Jan-2003 17:41:19 UTC
+Last Updated On:17-Jan-2011 03:26:09 UTC
+Expiration Date:13-Jan-2012 17:41:19 UTC
+Sponsoring Registrar:TotalRegistrations dba Total Web Solutions (R79-LROR)
+Status:OK
+Registrant ID:TWEB-0000069239
+Registrant Name:Andrew Gibbons
+Registrant Organization:Andrew Gibbons
+Registrant Street1:c/o 356 Clogher Road; Crumlin
+Registrant Street2:
+Registrant Street3:
+Registrant City:Dublin
+Registrant State/Province:---
+Registrant Postal Code:DUBLIN 12
+Registrant Country:IE
+Registrant Phone:+35.3879078186
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@bdsmireland.org
+Admin ID:TWEB-AD00358-TR
+Admin Name:Alan Doherty
+Admin Organization:Alan Doherty Networking
+Admin Street1:356 Clogher Road; Crumlin
+Admin Street2:
+Admin Street3:
+Admin City:Dublin
+Admin State/Province:---
+Admin Postal Code:DUBLIN 12
+Admin Country:IE
+Admin Phone:+35.3879078286
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:whois-AD00093-TR@alandoherty.net
+Tech ID:TWEB-AD00358-TR
+Tech Name:Alan Doherty
+Tech Organization:Alan Doherty Networking
+Tech Street1:356 Clogher Road; Crumlin
+Tech Street2:
+Tech Street3:
+Tech City:Dublin
+Tech State/Province:---
+Tech Postal Code:DUBLIN 12
+Tech Country:IE
+Tech Phone:+35.3879078286
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:whois-AD00093-TR@alandoherty.net
+Name Server:PUCK.NETHER.NET
+Name Server:NS1.ALANDOHERTY.NET
+Name Server:NS1.ORIONNETWORKS.IE
+Name Server:NS2.ORIONNETWORKS.IE
+Name Server:NS1.NARROWPOINT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

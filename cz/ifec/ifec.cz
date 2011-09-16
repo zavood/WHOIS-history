@@ -1,0 +1,66 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 02:49:54 2011
+
+domain:       ifec.cz
+registrant:   GR-VLADIMIRLUKAC
+admin-c:      GR-VLADIMIRLUKAC
+nsset:        NSS:GRANSY:3
+registrar:    REG-GRANSY
+status:       paid and in zone
+registered:   16.05.2009 21:40:33
+expire:       16.05.2012
+
+contact:      GR-VLADIMIRLUKAC
+name:         Vladim&Atilde;&shy;r Luk&Atilde;&iexcl;&Auml;ç
+address:      Hlavn&Atilde;&copy; n&Atilde;&iexcl;mestie 17
+address:      Ke&Aring;&frac34;marok
+address:      06001
+address:      SK
+phone:        +421.524524331
+e-mail:       L222@L222.sk
+registrar:    REG-IGNUM
+created:      30.07.2008 04:31:09
+
+nsset:        NSS:GRANSY:3
+nserver:      ns.gransy.com
+nserver:      ns2.gransy.com
+nserver:      ns3.gransy.com
+nserver:      ns4.gransy.com
+nserver:      ns5.gransy.com
+tech-c:       GRANSY
+registrar:    REG-GRANSY
+created:      01.10.2007 02:00:00
+changed:      16.08.2010 00:39:13
+
+contact:      GRANSY
+org:          Gransy s.r.o.
+name:         Jan Hor&Atilde;&iexcl;k
+address:      Bo&Aring;ôivojova 878/35
+address:      Praha 3
+address:      130 00
+address:      CZ
+phone:        +420.732954549
+fax-no:       +420.226517341
+e-mail:       info@gransy.com
+registrar:    REG-MOJEID
+created:      23.08.2004 17:35:00
+changed:      20.04.2011 14:22:45
+
+
