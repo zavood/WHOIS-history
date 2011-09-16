@@ -1,0 +1,59 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         supertuxkart.at
+registrant:     ZC7075770-NICAT
+admin-c:        ZC7075770-NICAT
+tech-c:         CAPI1725059-NICAT
+nserver:        docks01.rzone.de
+remarks:        81.169.146.11
+nserver:        shades11.rzone.de
+remarks:        85.214.0.241
+changed:        20100403 14:25:57
+source:         AT-DOM
+
+personname:     Zigotzky Christian
+organization:
+street address: Emil-Riedl-Weg 15
+postal code:    82049
+city:           Pullach i. Isartal
+country:        Germany
+phone:          +498955293498
+e-mail:         chzigotzky@bayern-mail.de
+nic-hdl:        ZC7075770-NICAT
+changed:        20100403 13:24:55
+source:         AT-DOM
+
+personname:     Hostmaster Strato Rechenzentrum
+organization:   Cronon AG Professional IT-Services
+street address: Emmy-Noether-Str. 10
+postal code:    76131
+city:           Karlsruhe
+country:        Germany
+phone:          +4972166320307
+fax-no:         +4972166320303
+e-mail:         hostmaster@cronon-isp.net
+nic-hdl:        CAPI1725059-NICAT
+changed:        20110901 19:02:35
+source:         AT-DOM
+

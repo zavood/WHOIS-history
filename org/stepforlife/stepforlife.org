@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D121736673-LROR
+Domain Name:STEPFORLIFE.ORG
+Created On:04-May-2006 16:33:10 UTC
+Last Updated On:10-May-2011 22:18:12 UTC
+Expiration Date:04-May-2012 16:33:10 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:A100A036D1E63D2D
+Registrant Name:Globat Web Hosting
+Registrant Organization:Globat.com  - Always Up, Fast and Easy!
+Registrant Street1:11684 Ventura Blvd. #825
+Registrant Street2:
+Registrant Street3:
+Registrant City:Studio City
+Registrant State/Province:
+Registrant Postal Code:91604
+Registrant Country:US
+Registrant Phone:+1.3238749000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@globat.com
+Admin ID:A100A036D1E63D2D
+Admin Name:Globat Web Hosting
+Admin Organization:Globat.com  - Always Up, Fast and Easy!
+Admin Street1:11684 Ventura Blvd. #825
+Admin Street2:
+Admin Street3:
+Admin City:Studio City
+Admin State/Province:
+Admin Postal Code:91604
+Admin Country:US
+Admin Phone:+1.3238749000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@globat.com
+Tech ID:A100A036D1E63D2D
+Tech Name:Globat Web Hosting
+Tech Organization:Globat.com  - Always Up, Fast and Easy!
+Tech Street1:11684 Ventura Blvd. #825
+Tech Street2:
+Tech Street3:
+Tech City:Studio City
+Tech State/Province:
+Tech Postal Code:91604
+Tech Country:US
+Tech Phone:+1.3238749000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@globat.com
+Name Server:NS1.DNSJUNCTION.COM
+Name Server:NS2.DNSJUNCTION.COM
+Name Server:NS3.DNSJUNCTION.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

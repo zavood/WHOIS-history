@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D813530-LROR
+Domain Name:SHAKESPEARES-GLOBE.ORG
+Created On:12-Sep-1997 04:00:00 UTC
+Last Updated On:29-Jun-2011 08:55:22 UTC
+Expiration Date:11-Sep-2012 04:00:00 UTC
+Sponsoring Registrar:easyDNS Technologies Inc. (R1247-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuA1qIntQuTgw2vW
+Registrant Name:Roger Way
+Registrant Organization:The International Shakespeare Globe Centre Ltd.
+Registrant Street1:11 Cheshire Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bethnal Green
+Registrant State/Province:London
+Registrant Postal Code:E26ED
+Registrant Country:GB
+Registrant Phone:+44.2071934383
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:roger.way@kyps.co.uk
+Admin ID:tuFMag6QlqjOswBR
+Admin Name:Roger Way
+Admin Organization:The International Shakespeare Globe Centre Ltd.
+Admin Street1:11 Cheshire Street
+Admin Street2:
+Admin Street3:
+Admin City:Bethnal Green
+Admin State/Province:London
+Admin Postal Code:E26ED
+Admin Country:GB
+Admin Phone:+44.2071934383
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:roger.way@kyps.co.uk
+Tech ID:tuHDyEKbhEhb6TTB
+Tech Name:Roger Way
+Tech Organization:The International Shakespeare Globe Centre Ltd.
+Tech Street1:11 Cheshire Street
+Tech Street2:
+Tech Street3:
+Tech City:Bethnal Green
+Tech State/Province:London
+Tech Postal Code:E26ED
+Tech Country:GB
+Tech Phone:+44.2071934383
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:roger.way@kyps.co.uk
+Name Server:NS2.RACKSPACE.COM
+Name Server:NS.RACKSPACE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

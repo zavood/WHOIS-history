@@ -1,0 +1,77 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; rugby-stream.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      rugby-stream.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    TG989-FRNIC
+admin-c:     TG989-FRNIC
+tech-c:      HU3-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL14859-FRNIC
+registrar:   1&amp;1 Internet AG
+anniversary: 10/07
+created:     10/07/2007
+last-update: 23/10/2008
+source:      FRNIC
+
+ns-list:     NSL14859-FRNIC
+nserver:     ns352967.ovh.net
+nserver:     sdns1.ovh.net
+source:      FRNIC
+
+registrar:   1&amp;1 Internet AG
+type:        Isp Option 1
+address:     Brauerstr. 48
+address:     DE-76135 KARLSRUHE
+country:     DE
+phone:       +49 721 91374 0
+fax-no:      +49 721 91374 215
+e-mail:      hostmaster@1und1.de
+website:     http://registrar.1und1.de
+anonymous:   NO
+registered:  17/01/2001
+source:      FRNIC
+
+nic-hdl:     TG989-FRNIC
+type:        PERSON
+contact:     Thierry Gallay
+address:     229, rue dugesclin
+address:     69003 Lyon
+country:     FR
+phone:       +33 6 18 01 82 84
+e-mail:      tg@vitton.fr
+changed:     09/07/2007 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HU3-FRNIC
+type:        ROLE
+contact:     Hostmaster UNETUN
+address:     1&amp;1 Internet Sarl.
+address:     7, place de la Gare
+address:     57200 Sarreguemines
+country:     FR
+e-mail:      hostmaster@1and1.fr
+admin-c:     IR2-FRNIC
+tech-c:      IR2-FRNIC
+changed:     15/03/2004 hostmaster@1and1.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

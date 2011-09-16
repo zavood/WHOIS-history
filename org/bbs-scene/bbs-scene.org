@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154898453-LROR
+Domain Name:BBS-SCENE.ORG
+Created On:14-Dec-2008 04:06:05 UTC
+Last Updated On:15-Dec-2010 01:23:35 UTC
+Expiration Date:14-Dec-2011 04:06:05 UTC
+Sponsoring Registrar:NameScout Corp. (R57-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:NS443656
+Registrant Name:Mr Frank Linhares
+Registrant Organization:Francisco Linhares
+Registrant Street1:800-234 Eglinton Ave E
+Registrant Street2:
+Registrant Street3:
+Registrant City:Toronto
+Registrant State/Province:on
+Registrant Postal Code:M4P1K7
+Registrant Country:CA
+Registrant Phone:+1.9052766041
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:frank@franklinhares.ca
+Admin ID:NS153341
+Admin Name:Mr Francisco Linhares
+Admin Organization:Frank Linhares
+Admin Street1:P.O. Box 6234
+Admin Street2:
+Admin Street3:
+Admin City:Mississauga
+Admin State/Province:on
+Admin Postal Code:L4R1K1
+Admin Country:CA
+Admin Phone:+1.9052738904
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@franklinhares.ca
+Tech ID:NS153341
+Tech Name:Mr Francisco Linhares
+Tech Organization:Frank Linhares
+Tech Street1:P.O. Box 6234
+Tech Street2:
+Tech Street3:
+Tech City:Mississauga
+Tech State/Province:on
+Tech Postal Code:L4R1K1
+Tech Country:CA
+Tech Phone:+1.9052738904
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@franklinhares.ca
+Name Server:NS1.SLICEHOST.COM
+Name Server:NS2.SLICEHOST.COM
+Name Server:NS3.SLICEHOST.COM
+Name Server:NS1.USW.CA
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

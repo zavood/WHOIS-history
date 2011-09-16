@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106619415-LROR
+Domain Name:RESTOREFREESPEECH.ORG
+Created On:14-Jun-2005 03:16:04 UTC
+Last Updated On:15-Nov-2010 00:25:05 UTC
+Expiration Date:14-Jun-2012 03:16:04 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR62694871
+Registrant Name:Roger Anghis
+Registrant Organization:Roger Anghis
+Registrant Street1:5244 W. Bowles Pl.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Littleton
+Registrant State/Province:Colorado
+Registrant Postal Code:80123
+Registrant Country:US
+Registrant Phone:+1.3039175693
+Registrant Phone Ext.:
+Registrant FAX:+1.0000000000
+Registrant FAX Ext.:
+Registrant Email:roger@mkdbuilders.net
+Admin ID:CR62694873
+Admin Name:Roger Anghis
+Admin Organization:Roger Anghis
+Admin Street1:5244 W. Bowles Pl.
+Admin Street2:
+Admin Street3:
+Admin City:Littleton
+Admin State/Province:Colorado
+Admin Postal Code:80123
+Admin Country:US
+Admin Phone:+1.3039175693
+Admin Phone Ext.:
+Admin FAX:+1.0000000000
+Admin FAX Ext.:
+Admin Email:roger@mkdbuilders.net
+Tech ID:CR62694872
+Tech Name:Roger Anghis
+Tech Organization:Roger Anghis
+Tech Street1:5244 W. Bowles Pl.
+Tech Street2:
+Tech Street3:
+Tech City:Littleton
+Tech State/Province:Colorado
+Tech Postal Code:80123
+Tech Country:US
+Tech Phone:+1.3039175693
+Tech Phone Ext.:
+Tech FAX:+1.0000000000
+Tech FAX Ext.:
+Tech Email:roger@mkdbuilders.net
+Name Server:NS01.DOMAINCONTROL.COM
+Name Server:NS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

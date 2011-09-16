@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154858742-LROR
+Domain Name:PROGRESSNOWCOLORADO.ORG
+Created On:08-Dec-2008 19:29:14 UTC
+Last Updated On:12-Sep-2010 00:23:47 UTC
+Expiration Date:08-Dec-2011 19:29:14 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CR37586953
+Registrant Name:Alan Franklin
+Registrant Street1:8380 W 87TH DR #A
+Registrant Street2:
+Registrant Street3:
+Registrant City:CO
+Registrant State/Province:Colorado
+Registrant Postal Code:80005
+Registrant Country:US
+Registrant Phone:+1.3034323395
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:angka@riseup.net
+Admin ID:CR37586955
+Admin Name:Alan Franklin
+Admin Street1:8380 W 87TH DR #A
+Admin Street2:
+Admin Street3:
+Admin City:CO
+Admin State/Province:Colorado
+Admin Postal Code:80005
+Admin Country:US
+Admin Phone:+1.3034323395
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:angka@riseup.net
+Tech ID:CR37586954
+Tech Name:Alan Franklin
+Tech Street1:8380 W 87TH DR #A
+Tech Street2:
+Tech Street3:
+Tech City:CO
+Tech State/Province:Colorado
+Tech Postal Code:80005
+Tech Country:US
+Tech Phone:+1.3034323395
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:angka@riseup.net
+Name Server:NS1.NAME.COM
+Name Server:NS2.NAME.COM
+Name Server:NS3.NAME.COM
+Name Server:NS4.NAME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-14 12:31:18 (BRT -03:00)
+%  2011-09-16 10:07:21 (BRT -03:00)
 
 domain:      then.com.br
 owner:       Editora Hipocr&aacute;tica Hahnemanianna
@@ -17,11 +17,11 @@ admin-c:     GAC11
 tech-c:      GAC11
 billing-c:   GAC11
 nserver:     ns1.loft4614.serverloft.com
-nsstat:      20110912 AA
-nslastaa:    20110912
+nsstat:      20110915 AA
+nslastaa:    20110915
 nserver:     ns2.loft4614.serverloft.com
-nsstat:      20110912 AA
-nslastaa:    20110912
+nsstat:      20110915 AA
+nslastaa:    20110915
 created:     20080917 #4853447
 expires:     20110917
 changed:     20101021

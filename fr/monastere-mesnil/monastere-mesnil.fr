@@ -1,0 +1,78 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; monastere-mesnil.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      monastere-mesnil.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MSE34-FRNIC
+admin-c:     O2798-FRNIC
+tech-c:      O2798-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL29045-FRNIC
+registrar:   ONLINE SAS
+anniversary: 24/03
+created:     21/06/2008
+last-update: 11/02/2011
+source:      FRNIC
+
+ns-list:     NSL29045-FRNIC
+nserver:     ns2.o2switch.net
+nserver:     ns1.o2switch.net
+source:      FRNIC
+
+registrar:   ONLINE SAS
+type:        Isp Option 1
+address:     8 Rue de la Ville l'Ev&ecirc;que
+address:     PARIS
+country:     FR
+phone:       +33 1 73 50 20 00
+fax-no:      +33 1 73 50 26 05
+e-mail:      hebergement@online.net
+website:     http://www.online.net
+anonymous:   NO
+registered:  01/04/1999
+source:      FRNIC
+
+nic-hdl:     MSE34-FRNIC
+type:        ORGANIZATION
+contact:     MONASTERE SAINTE ESPERANCE
+address:     place Huguenot Bailly
+address:     10190 Mesnil Saint Loup
+country:     FR
+phone:       +33 3 25 40 40 82
+e-mail:      sainte.esperance@aliceadsl.fr
+changed:     24/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     O2798-FRNIC
+type:        ORGANIZATION
+contact:     O2SWITCH
+address:     boulevard Gustave Flaubert
+address:     63000 Clermont Ferrand
+country:     FR
+phone:       +33 4 44 44 60 40
+fax-no:      +33 4 44 44 60 41
+e-mail:      support@o2switch.fr
+changed:     19/08/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

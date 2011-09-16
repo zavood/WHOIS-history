@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D87700795-LROR
+Domain Name:TEXASPOLICECHIEFS.ORG
+Created On:20-Jun-2002 03:36:42 UTC
+Last Updated On:02-Jun-2011 04:23:47 UTC
+Expiration Date:20-Jun-2016 03:36:42 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_10223302
+Registrant Name:Texas Police Chiefs Association
+Registrant Organization:Texas Police Chiefs Association
+Registrant Street1:P.O. Box 819
+Registrant Street2:
+Registrant Street3:
+Registrant City:Elgin
+Registrant State/Province:Texas
+Registrant Postal Code:78621
+Registrant Country:US
+Registrant Phone:+512.2815400
+Registrant Phone Ext.:
+Registrant FAX:+512.2812240
+Registrant FAX Ext.:
+Registrant Email:jmclaughlin@tesaspolicechiefs.org
+Admin ID:DI_1728763
+Admin Name:Peter Banz
+Admin Organization:Ceratec Inc.
+Admin Street1:207 Whipperwill Lane
+Admin Street2:
+Admin Street3:
+Admin City:Elgin
+Admin State/Province:Texas
+Admin Postal Code:78621
+Admin Country:US
+Admin Phone:+001.5122852620
+Admin Phone Ext.:
+Admin FAX:+001.7142421688
+Admin FAX Ext.:
+Admin Email:pbanz@78621.com
+Tech ID:DI_1728763
+Tech Name:Peter Banz
+Tech Organization:Ceratec Inc.
+Tech Street1:207 Whipperwill Lane
+Tech Street2:
+Tech Street3:
+Tech City:Elgin
+Tech State/Province:Texas
+Tech Postal Code:78621
+Tech Country:US
+Tech Phone:+001.5122852620
+Tech Phone Ext.:
+Tech FAX:+001.7142421688
+Tech FAX Ext.:
+Tech Email:pbanz@78621.com
+Name Server:NS13.ZONEEDIT.COM
+Name Server:NS18.ZONEEDIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

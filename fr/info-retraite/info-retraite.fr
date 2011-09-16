@@ -1,0 +1,89 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; info-retraite.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      info-retraite.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CCMS16-FRNIC
+admin-c:     DN445-FRNIC
+tech-c:      CR1986-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6491-FRNIC
+registrar:   CIMAFAP
+anniversary: 11/01
+created:     11/01/2007
+last-update: 15/01/2007
+source:      FRNIC
+
+ns-list:     NSL6491-FRNIC
+nserver:     pan.getima.fr [194.250.175.132]
+nserver:     tatum.getima.fr
+source:      FRNIC
+
+registrar:   CIMAFAP
+type:        Isp Option 2
+anonymous:   YES
+registered:  04/01/2007
+source:      FRNIC
+
+nic-hdl:     CCMS16-FRNIC
+type:        ORGANIZATION
+contact:     CAISSE CENTRALE MUTUALITE SOCIALE AGRICO
+address:     les Mercuriales
+address:     40, rue Jean Jaures
+address:     93170 Bagnolet
+country:     FR
+phone:       +33 1 41 63 77 77
+e-mail:      nunez.denis@ccmsa.msa.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     DN445-FRNIC
+type:        PERSON
+contact:     Denis Nunez
+address:     CCMSA
+address:     les Mercuriales
+address:     40, rue Jean Jaures
+address:     93170 Bagnolet
+country:     FR
+phone:       +33 1 41 63 77 77
+e-mail:      nunez.denis@ccmsa.msa.fr
+notify:      grac.laure@getima.msa.fr
+changed:     20/12/2006 grac.laure@getima.msa.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CR1986-FRNIC
+type:        ROLE
+contact:     cimafap role
+address:     CIMAFAP
+address:     39, boulevard des Bouvets
+address:     92741 Nanterre Cedex
+country:     FR
+e-mail:      grac.laure@cimafap.msa.fr
+admin-c:     JC194-FRNIC
+tech-c:      SS565-FRNIC
+tech-c:      LG123-FRNIC
+changed:     15/12/2006 grac.laure@cimafap.msa.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

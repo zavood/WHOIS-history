@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D204418-LROR
+Domain Name:RCAA.ORG
+Created On:05-Jan-1995 05:00:00 UTC
+Last Updated On:22-Oct-2008 00:42:50 UTC
+Expiration Date:04-Jan-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:27996418-NSI
+Registrant Name:RedwoodCommunityAction Agency
+Registrant Organization:RedwoodCommunityAction Agency
+Registrant Street1:904 G St
+Registrant Street2:
+Registrant Street3:
+Registrant City:Eureka
+Registrant State/Province:CA
+Registrant Postal Code:95501
+Registrant Country:US
+Registrant Phone:+1.70726920
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mamabear@RCAA.ORG
+Admin ID:27996420-NSI
+Admin Name:Maureen Groff
+Admin Organization:Maureen Groff
+Admin Street1:904 G St
+Admin Street2:
+Admin Street3:
+Admin City:Eureka
+Admin State/Province:CA
+Admin Postal Code:95501
+Admin Country:US
+Admin Phone:+1.7072692007
+Admin Phone Ext.:
+Admin FAX:+1.9999999999
+Admin FAX Ext.:
+Admin Email:fiscal@rcaa.org
+Tech ID:5405385-NSI
+Tech Name:Pacific Bell Internet Services
+Tech Organization:SBC E-Services, Inc.
+Tech Street1:PO Box 940972
+Tech Street2:
+Tech Street3:
+Tech City:Plano
+Tech State/Province:TX
+Tech Postal Code:75075
+Tech Country:US
+Tech Phone:+1.1888
+Tech Phone Ext.:
+Tech FAX:+1.4154424999
+Tech FAX Ext.:
+Tech Email:dive4all@hotmail.com
+Name Server:NS35B.ATT-WEBHOSTING.COM
+Name Server:NS35A.ATT-WEBHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

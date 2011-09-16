@@ -1,0 +1,83 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 14:49:07 2011
+
+domain:       prolepsiobec.cz
+registrant:   SB:FORPSI-8QF-S195511
+admin-c:      FORPSI-8QF-C195511
+nsset:        NSS:PIPNI:2
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   15.07.2006 04:15:00
+changed:      23.08.2006 20:55:00
+expire:       15.07.2012
+
+contact:      SB:FORPSI-8QF-S195511
+name:         Petra Venturov&Atilde;&iexcl;
+address:      Osv&Auml;›tov&Atilde;&iexcl; 615
+address:      Praha 4
+address:      149 00
+address:      CZ
+e-mail:       VenturovaP@seznam.cz
+registrar:    REG-INTERNET-CZ
+created:      14.07.2006 08:25:00
+
+contact:      FORPSI-8QF-C195511
+name:         Petra Venturov&Atilde;&iexcl;
+address:      Osv&Auml;›tov&Atilde;&iexcl; 615
+address:      Praha 4
+address:      149 00
+address:      CZ
+phone:        +420.244913359
+e-mail:       VenturovaP@seznam.cz
+registrar:    REG-INTERNET-CZ
+created:      14.07.2006 08:25:00
+
+nsset:        NSS:PIPNI:2
+nserver:      ns.forpsi.net
+nserver:      ns.forpsi.cz
+nserver:      ns.forpsi.us
+nserver:      ns.forpsi.cn
+tech-c:       PIPNI
+tech-c:       SB:PIPNI
+registrar:    REG-CZNIC
+created:      01.10.2007 02:00:00
+
+contact:      PIPNI
+name:         Petr Simonek
+address:      Karlovo n&Atilde;&iexcl;m&Auml;›st&Atilde;&shy; 290/16
+address:      Praha 2
+address:      120 00
+address:      CZ
+registrar:    REG-PIPNI
+created:      14.02.2003 01:56:00
+changed:      23.01.2009 00:55:36
+
+contact:      SB:PIPNI
+org:          PIPNI s.r.o.
+name:         Petr Simonek
+address:      Karlovo namesti 290/16
+address:      Praha 2
+address:      120 00
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      14.02.2003 02:01:00
+changed:      23.01.2009 01:00:08
+
+

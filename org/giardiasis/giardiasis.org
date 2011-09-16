@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103935012-LROR
+Domain Name:GIARDIASIS.ORG
+Created On:03-Feb-2004 20:28:37 UTC
+Last Updated On:21-Jan-2011 20:54:12 UTC
+Expiration Date:03-Feb-2013 20:28:37 UTC
+Sponsoring Registrar:TierraNet Inc. dba DomainDiscover (R86-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:TNTN-0000337508
+Registrant Name:Gary Kloepping
+Registrant Organization:Mission Pharmacal Company
+Registrant Street1:10999 IH-10 West, Suite 1000
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Antonio
+Registrant State/Province:TX
+Registrant Postal Code:78230-1355
+Registrant Country:US
+Registrant Phone:+1.2106968400
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:gkloepping@missionpharmacal.com
+Admin ID:TNTN-0000337508
+Admin Name:Gary Kloepping
+Admin Organization:Mission Pharmacal Company
+Admin Street1:10999 IH-10 West, Suite 1000
+Admin Street2:
+Admin Street3:
+Admin City:San Antonio
+Admin State/Province:TX
+Admin Postal Code:78230-1355
+Admin Country:US
+Admin Phone:+1.2106968400
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gkloepping@missionpharmacal.com
+Tech ID:TNTN-0000337508
+Tech Name:Gary Kloepping
+Tech Organization:Mission Pharmacal Company
+Tech Street1:10999 IH-10 West, Suite 1000
+Tech Street2:
+Tech Street3:
+Tech City:San Antonio
+Tech State/Province:TX
+Tech Postal Code:78230-1355
+Tech Country:US
+Tech Phone:+1.2106968400
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:gkloepping@missionpharmacal.com
+Name Server:NS2.MISSIONPHARMACAL.NET
+Name Server:NS4.MISSIONPHARMACAL.NET
+Name Server:NS1.MISSIONPHARMACAL.COM
+Name Server:NS3.MISSIONPHARMACAL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
