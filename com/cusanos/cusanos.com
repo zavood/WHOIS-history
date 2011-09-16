@@ -5,23 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DNSMADEEASY.COM
-   Registrar: WILD WEST DOMAINS, INC.
-   Whois Server: whois.wildwestdomains.com
-   Referral URL: http://www.wildwestdomains.com
-   Name Server: NS0.DNSMADEEASY.COM
-   Name Server: NS1.DNSMADEEASY.COM
-   Name Server: NS2.DNSMADEEASY.COM
-   Name Server: NS3.DNSMADEEASY.COM
-   Name Server: NS4.DNSMADEEASY.COM
-   Name Server: NS8.DNSMADEEASY.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 06-dec-2010
-   Creation Date: 19-feb-2001
-   Expiration Date: 19-feb-2014
+   Domain Name: CUSANOS.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
+   Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
+   Status: ok
+   Updated Date: 11-jul-2011
+   Creation Date: 01-aug-2005
+   Expiration Date: 01-aug-2012
 
 &gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 03:58:24 UTC &lt;&lt;&lt;
 
@@ -58,41 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in this Registrar's Whois database,
-while believed by the registrar to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy. This information
-is provided for the sole purpose of assisting you in obtaining
-information about domain name registration records. Any use of
-this data for any other purpose is expressly forbidden without
-the prior written permission of this registrar.  By submitting an
-inquiry, you agree to these terms of usage and limitations of warranty.
-In particular, you agree not to use this data to allow, enable, or
-otherwise make possible, dissemination or collection of this data, in
-part or in its entirety, for any purpose, such as the transmission of
-unsolicited advertising and solicitations of any kind, including spam.
-You further agree not to use this data to enable high volume, automated
-or robotic electronic processes designed to collect or compile this data
-for any purpose, including mining this data for your own personal or
-commercial purposes.
 
-Please note: the owner of the domain name is specified in the &quot;registrant&quot; field.
-In most cases, the Registrar is not the owner of domain names listed in this database.
+Domain Name.......... cusanos.com
+  Creation Date........ 2005-08-02
+  Registration Date.... 2005-08-02
+  Expiry Date.......... 2012-08-02
+  Organisation Name.... Cusanos Bakery
+  Organisation Address. 2798 SW 32nd Ave
+  Organisation Address.
+  Organisation Address. Pemberoke Park
+  Organisation Address. 33023
+  Organisation Address. FL
+  Organisation Address. UNITED STATES
+
+Admin Name........... Thomas Williamson
+  Admin Address........ 2798 SW 32nd Ave
+  Admin Address........
+  Admin Address........ Pemberoke Park
+  Admin Address........ 33023
+  Admin Address........ FL
+  Admin Address........ UNITED STATES
+  Admin Email.......... thomas@cusanos.com
+  Admin Phone.......... +1.9544581010
+  Admin Fax............
+
+Tech Name............ YahooDomains TechContact
+  Tech Address......... 701 First Ave.
+  Tech Address.........
+  Tech Address......... Sunnyvale
+  Tech Address......... 94089
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domain.tech@yahoo-inc.com
+  Tech Phone........... +1.4089162124
+  Tech Fax.............
+  Name Server.......... cbru.br.ns.els-gms.att.net
+  Name Server.......... cmtu.mt.ns.els-gms.att.net
 
 
-Registrant:
-   Tiggee
-
-   Registered through: Domains Made Easy
-   Domain Name: DNSMADEEASY.COM
-
-   Domain servers in listed order:
-      NS3.DNSMADEEASY.COM
-      NS4.DNSMADEEASY.COM
-      NS1.DNSMADEEASY.COM
-      NS2.DNSMADEEASY.COM
-      NS0.DNSMADEEASY.COM
-      NS8.DNSMADEEASY.COM
-
-
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=DNSMADEEASY.COM&amp;prog_id=tiggee

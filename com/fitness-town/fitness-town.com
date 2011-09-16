@@ -5,16 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: TISTORY.COM
+   Domain Name: FITNESS-TOWN.COM
    Registrar: NETPIA.COM, INC.
    Whois Server: whois.ibi.net
    Referral URL: http://www.ibi.net
-   Name Server: NS.DAUMZONE.COM
-   Name Server: NS2.DAUMZONE.COM
+   Name Server: NS.COUNTER.CO.KR
+   Name Server: NS.INDUCE.COM
    Status: ok
-   Updated Date: 07-sep-2011
-   Creation Date: 01-oct-2005
-   Expiration Date: 01-oct-2012
+   Updated Date: 27-aug-2011
+   Creation Date: 24-may-2011
+   Expiration Date: 24-may-2012
 
 &gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:06:14 UTC &lt;&lt;&lt;
 
@@ -57,66 +57,66 @@ Welcome to NETPIA.COM's WHOIS Server
 # ENGLISH
 
 Registrant:
-    Daum Communications Corp.
-    Yongsan-gu Hannam-dong 714, Seoul
+    NURINET
+    KyongJu-City Dongguk Univ. Noori net, Kyongbuk
 
-    Domain Name: tistory.com
+    Domain Name: fitness-town.com
     Registrar: NETPIA.COM, INC.(http://www.ibi.net)
 
     Administrative Contact:
-        Daum Communications Corp.     domain@daumcorp.com
-        Yongsan-gu Hannam-dong 714, Seoul,  KR
-        +82.0267180158
+        NURINET     shopkorea@hotmail.com
+        KyongJu-City Dongguk Univ. Noori net, Kyongbuk,  KR
+        +82.7070989901
 
     Technical Contact:
-        Daum Communications Corp.     domain@daumcorp.com
-        Yongsan-gu Hannam-dong 714, Seoul,  KR
-        +82.0267180158
+        NURINET     shopkorea@hotmail.com
+        KyongJu-City Dongguk Univ. Noori net, Kyongbuk,  KR
+        +82.7070989901
 
      Billing Contact:
-        Daum Communications Corp.     domain@daumcorp.com
-        Yongsan-gu Hannam-dong 714, Seoul,  KR
-        +82.0267180158
+        NURINET     shopkorea@hotmail.com
+        KyongJu-City Dongguk Univ. Noori net, Kyongbuk,  KR
+        +82.7070989901
 
-     Record created on........: 01-Oct-2005 EDT.
-     Record expires on........: 01-Oct-2012 EDT.
-     Record last updated on...: 07-Sep-2011 EDT.
+     Record created on........: 25-May-2011 EDT.
+     Record expires on........: 23-May-2012 EDT.
+     Record last updated on...: 27-Aug-2011 EDT.
 
      Domain Name Servers in listed order:
-     NS.DAUMZONE.COM
-     NS2.DAUMZONE.COM
+     NS.COUNTER.CO.KR
+     NS.INDUCE.COM
 
 # KOREAN(UTF-8)
 
 &euml;ì&plusmn;&euml;&iexcl;ù&igrave;ù&cedil;:
-    Daum Communications Corp.
-    Yongsan-gu Hannam-dong 714, Seoul
+    NURINET
+    KyongJu-City Dongguk Univ. Noori net, Kyongbuk
 
-    &euml;èÑ&euml;&copy;î&igrave;ù&cedil;&igrave;ù&acute;&euml;&brvbar;Ñ: tistory.com
+    &euml;èÑ&euml;&copy;î&igrave;ù&cedil;&igrave;ù&acute;&euml;&brvbar;Ñ: fitness-town.com
     &euml;ì&plusmn;&euml;&iexcl;ù&euml;åÄ&iacute;ñâ&igrave;ûê: NETPIA.COM, INC.(http://www.ibi.net)
 
     &ecirc;&acute;Ä&euml;&brvbar;&not;&euml;ã&acute;&euml;ã&sup1;&igrave;ûê:
-        Daum Communications Corp.     domain@daumcorp.com
-        Yongsan-gu Hannam-dong 714, Seoul,  KR
-        +82.0267180158
+        NURINET     shopkorea@hotmail.com
+        KyongJu-City Dongguk Univ. Noori net, Kyongbuk,  KR
+        +82.7070989901
 
     &ecirc;&cedil;&deg;&igrave;à&nbsp;&euml;ã&acute;&euml;ã&sup1;&igrave;ûê:
-        Daum Communications Corp.     domain@daumcorp.com
-        Yongsan-gu Hannam-dong 714, Seoul,  KR
-        +82.0267180158
+        NURINET     shopkorea@hotmail.com
+        KyongJu-City Dongguk Univ. Noori net, Kyongbuk,  KR
+        +82.7070989901
 
     &ecirc;&sup3;&frac14;&ecirc;&cedil;à&euml;ã&acute;&euml;ã&sup1;&igrave;ûê:
-        Daum Communications Corp.     domain@daumcorp.com
-        Yongsan-gu Hannam-dong 714, Seoul,  KR
-        +82.0267180158
+        NURINET     shopkorea@hotmail.com
+        KyongJu-City Dongguk Univ. Noori net, Kyongbuk,  KR
+        +82.7070989901
 
-     &euml;ì&plusmn;&euml;&iexcl;ù&igrave;ù&frac14;........: 01-Oct-2005 EDT.
-     &igrave;Ç&not;&igrave;ö&copy; &igrave;&cent;Ö&euml;&pound;å&igrave;ù&frac14;...: 01-Oct-2012 EDT.
-     &igrave;&micro;ú&ecirc;&middot;&frac14; &euml;&sup3;Ä&ecirc;&sup2;&frac12;&igrave;ù&frac14;...: 07-Sep-2011 EDT.
+     &euml;ì&plusmn;&euml;&iexcl;ù&igrave;ù&frac14;........: 25-May-2011 EDT.
+     &igrave;Ç&not;&igrave;ö&copy; &igrave;&cent;Ö&euml;&pound;å&igrave;ù&frac14;...: 23-May-2012 EDT.
+     &igrave;&micro;ú&ecirc;&middot;&frac14; &euml;&sup3;Ä&ecirc;&sup2;&frac12;&igrave;ù&frac14;...: 27-Aug-2011 EDT.
 
      &euml;Ñ&curren;&igrave;ûÑ&igrave;Ñú&euml;&sup2;Ñ &igrave;&nbsp;ï&euml;&sup3;&acute;:
-     NS.DAUMZONE.COM
-     NS2.DAUMZONE.COM
+     NS.COUNTER.CO.KR
+     NS.INDUCE.COM
 
 
 &lt;img src='http://www.ibi.net/images/r_domain_01.gif'&gt;&lt;br&gt;

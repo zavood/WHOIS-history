@@ -1,0 +1,65 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-16T16:02:31+12:00
+domain_name: tiddlersmultisport.co.nz
+query_status: 200 Active
+domain_dateregistered: 2009-07-09T13:40:55+12:00
+domain_datebilleduntil: 2012-07-09T13:40:55+12:00
+domain_datelastmodified: 2011-07-23T21:10:09+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: 1st Domains
+registrar_address1: P O Box 1520
+registrar_address2: Christchurch Mail Centre
+registrar_city: Christchurch
+registrar_province: Canterbury
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 3 962-9520
+registrar_fax: +64 3 962-9513
+registrar_email: hostmaster@1stdomains.net.nz
+%
+registrant_contact_name: Tiddlers Multisport Ltd
+registrant_contact_address1: 104 Regency Cres
+registrant_contact_address2: Redwood
+registrant_contact_city: Christchurch  8051
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 21 712052
+registrant_contact_email: vivien.mccaskey@ihug.co.nz
+%
+admin_contact_name: Dreamweaver Website Design
+admin_contact_address1: PO Box 80061
+admin_contact_city: Christchurch
+admin_contact_postalcode: 8011
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 3 3225111
+admin_contact_email: marc@dreamweaver.co.nz
+%
+technical_contact_name: Dreamweaver Website Design
+technical_contact_address1: PO Box 80061
+technical_contact_city: Christchurch
+technical_contact_postalcode: 8024
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 3 3225111
+technical_contact_email: marc@dreamweaver.co.nz
+%
+ns_name_01: dns1.supremedns.com
+ns_name_02: dns2.supremedns.com
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MOVIEBOX.COM
-   Registrar: EURODNS S.A
-   Whois Server: whois.eurodns.com
-   Referral URL: http://www.eurodns.com
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
+   Domain Name: CURBENTERTAINMENT.COM
+   Registrar: NETWORK SOLUTIONS, LLC.
+   Whois Server: whois.networksolutions.com
+   Referral URL: http://www.networksolutions.com
+   Name Server: A4.NSTLD.COM
+   Name Server: F4.NSTLD.COM
+   Name Server: H4.NSTLD.COM
+   Name Server: L4.NSTLD.COM
    Status: clientTransferProhibited
-   Status: serverDeleteProhibited
-   Status: serverTransferProhibited
-   Status: serverUpdateProhibited
-   Updated Date: 10-aug-2011
-   Creation Date: 04-nov-1998
-   Expiration Date: 03-nov-2012
+   Updated Date: 30-jul-2010
+   Creation Date: 21-jul-1999
+   Expiration Date: 02-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:06:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 03:56:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,64 +53,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-The Data in EuroDNS WHOIS database is provided for information purposes only.
-The fact that EuroDNS display such information does not provide any guarantee
-expressed or implied on the purpose for which the database may be used, its
-accuracy or usefulness. By submitting a WHOIS query, you agree that you will
-use this Data only for lawful purposes and that, under no circumstances will
-you use this Data to:
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-(1) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that apply to EuroDNS
-(or its systems). EuroDNS reserves the right to modify these terms at any time.
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-By submitting this query, you agree to abide by the above policy.
+http://www.networksolutions.com/whois/index.jhtml
 
-Whois History: 291 records have been archived since 2004-05-25
-http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=moviebox.com
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-Domain: moviebox.com
-Registrar: Eurodns S.A.
-
-Registrant:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-
-Administrative Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
-
-Technical Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
-
-Original Creation Date: 1998-11-04
-Expiration Date: 2012-11-02
-
-Status:
-clientTransferProhibited
-
-Nameserver Information:
-Nameserver: ns.rackspace.com
-Nameserver: ns2.rackspace.com
-
+Whois Query: curbentertainment.com
+YOUR IP address is 174.142.225.246
+Date and Time of Query: Thu Sep 15 23:47:11 EDT 2011
+Reason Code: IE

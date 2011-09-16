@@ -5,24 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PROXIFY.COM
+   Domain Name: CREDIT360CHECKER.COM
    Registrar: MONIKER ONLINE SERVICES, INC.
    Whois Server: whois.moniker.com
    Referral URL: http://www.moniker.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: NS3.EASYDNS.ORG
-   Name Server: NS6.EASYDNS.NET
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Name Server: NS1.MONIKERDNS.NET
+   Name Server: NS2.MONIKERDNS.NET
+   Name Server: NS3.MONIKERDNS.NET
+   Name Server: NS4.MONIKERDNS.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-oct-2010
-   Creation Date: 14-apr-2003
-   Expiration Date: 14-apr-2020
+   Updated Date: 07-apr-2011
+   Creation Date: 27-jan-2011
+   Expiration Date: 27-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:06:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 03:55:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -83,68 +81,58 @@ other use of this Data is expressly
 prohibited without the prior written consent
 of Moniker.
 
-Domain Name: PROXIFY.COM
+Domain Name: CREDIT360CHECKER.COM
 Registrar: MONIKER
 
-Registrant [1961697]:
-        Domain Administrator dns@justholdingsllc.com
-        Just Holdings, LLC
-        1333A North Avenue
-        Suite 315
-        New Rochelle
-        NY
-        10804
+Registrant [3466643]:
+        Web Master readyupnow1@gmail.com
+        8951 ne 8th ave
+        pembroke pines
+        FL
+        33024
         US
 
 
-Administrative Contact [363488]:
-        Domain Administrator dns@upsideout.com
-        UpsideOut, Inc.
-        1333A North Avenue
-        Suite 315
-        New Rochelle
-        NY
-        10804
+Administrative Contact [3466643]:
+        Web Master readyupnow1@gmail.com
+        8951 ne 8th ave
+        pembroke pines
+        FL
+        33024
         US
-        Phone: +1.8884650216
+        Phone: +1.9548855033
 
 
-Billing Contact [363488]:
-        Domain Administrator dns@upsideout.com
-        UpsideOut, Inc.
-        1333A North Avenue
-        Suite 315
-        New Rochelle
-        NY
-        10804
+Billing Contact [3466643]:
+        Web Master readyupnow1@gmail.com
+        8951 ne 8th ave
+        pembroke pines
+        FL
+        33024
         US
-        Phone: +1.8884650216
+        Phone: +1.9548855033
 
 
-Technical Contact [363488]:
-        Domain Administrator dns@upsideout.com
-        UpsideOut, Inc.
-        1333A North Avenue
-        Suite 315
-        New Rochelle
-        NY
-        10804
+Technical Contact [3466643]:
+        Web Master readyupnow1@gmail.com
+        8951 ne 8th ave
+        pembroke pines
+        FL
+        33024
         US
-        Phone: +1.8884650216
+        Phone: +1.9548855033
 
 
 Domain servers in listed order:
 
-        NS1.EASYDNS.COM
-        NS2.EASYDNS.COM
-        REMOTE1.EASYDNS.COM
-        REMOTE2.EASYDNS.COM
-        NS3.EASYDNS.ORG
-        NS6.EASYDNS.NET
+        NS1.MONIKERDNS.NET         208.73.210.41
+        NS2.MONIKERDNS.NET         208.73.211.42
+        NS3.MONIKERDNS.NET         208.73.210.43
+        NS4.MONIKERDNS.NET         50.57.11.88
 
-        Record created on:        2003-04-14 18:36:57.0
-        Database last updated on: 2010-10-11 03:31:44.04
-        Domain Expires on:        2020-04-14 18:36:57.0
+        Record created on:        2011-01-27 08:34:21.0
+        Database last updated on: 2011-04-07 01:00:00.01
+        Domain Expires on:        2012-01-27 08:34:21.0
 
 
 

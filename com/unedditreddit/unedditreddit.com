@@ -5,18 +5,21 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: KBUNION.COM
+   Domain Name: UNEDDITREDDIT.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.SUPERDNS.ORG
-   Name Server: NS2.SUPERDNS.ORG
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 11-apr-2011
-   Creation Date: 20-apr-2008
-   Expiration Date: 20-apr-2012
+   Updated Date: 07-oct-2010
+   Creation Date: 07-oct-2010
+   Expiration Date: 07-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:05:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 03:54:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,47 +55,53 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about kbunion.com
-&lt;a href=&quot;http://www.aboutus.org/kbunion.com&quot;&gt;AboutUs: kbunion.com&lt;/a&gt;
+Visit AboutUs.org for more information about unedditreddit.com
+&lt;a href=&quot;http://www.aboutus.org/unedditreddit.com&quot;&gt;AboutUs: unedditreddit.com&lt;/a&gt;
 
 
-Domain name: kbunion.com
+Domain name: unedditreddit.com
 
 Registrant Contact:
-   zi qiming
-   zi qiming zi qiming ()
+   Whois Privacy Protection Service, Inc.
+   Whois Agent ()
 
    Fax:
-   bei jing
-   beijin, Beijing 529200
-   CN
+   PMB 368, 14150 NE 20th St - F1
+   C/O unedditreddit.com
+   Bellevue, WA 98007
+   US
 
 Administrative Contact:
-
-   yushanli li (domainreseller@vip.qq.com)
-   +1.1082151122
-   Fax: +1.1082151122
-   zhe ge di zhi shi bu dui de
-   beijing, CN 100008
-   CN
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (fglxxbcww@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O unedditreddit.com
+   Bellevue, WA 98007
+   US
 
 Technical Contact:
-
-   yushanli li (domainreseller@vip.qq.com)
-   +1.1082151122
-   Fax: +1.1082151122
-   zhe ge di zhi shi bu dui de
-   beijing, CN 100008
-   CN
+   Whois Privacy Protection Service, Inc.
+   Whois Agent (fglxxbcww@whoisprivacyprotect.com)
+   +1.4252740657
+   Fax: +1.4259744730
+   PMB 368, 14150 NE 20th St - F1
+   C/O unedditreddit.com
+   Bellevue, WA 98007
+   US
 
 Status: Locked
 
 Name Servers:
-   ns1.superdns.org
-   ns2.superdns.org
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
-Creation date: 20 Apr 2008 06:29:58
-Expiration date: 20 Apr 2012 06:29:58
+Creation date: 08 Oct 2010 01:49:00
+Expiration date: 08 Oct 2011 00:49:16
 
 
 

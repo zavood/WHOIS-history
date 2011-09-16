@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: MOVIEBOX.COM
-   Registrar: EURODNS S.A
-   Whois Server: whois.eurodns.com
-   Referral URL: http://www.eurodns.com
-   Name Server: NS.RACKSPACE.COM
-   Name Server: NS2.RACKSPACE.COM
+   Domain Name: CYTAT.COM
+   Registrar: ENOM, INC.
+   Whois Server: whois.enom.com
+   Referral URL: http://www.enom.com
+   Name Server: NS1.MYDOMAIN.COM
+   Name Server: NS2.MYDOMAIN.COM
+   Name Server: NS3.MYDOMAIN.COM
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Status: serverDeleteProhibited
-   Status: serverTransferProhibited
-   Status: serverUpdateProhibited
-   Updated Date: 10-aug-2011
-   Creation Date: 04-nov-1998
-   Expiration Date: 03-nov-2012
+   Updated Date: 20-may-2011
+   Creation Date: 20-may-2005
+   Expiration Date: 20-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:06:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:02:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,64 +53,66 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
 
-The Data in EuroDNS WHOIS database is provided for information purposes only.
-The fact that EuroDNS display such information does not provide any guarantee
-expressed or implied on the purpose for which the database may be used, its
-accuracy or usefulness. By submitting a WHOIS query, you agree that you will
-use this Data only for lawful purposes and that, under no circumstances will
-you use this Data to:
 
-(1) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that apply to EuroDNS
-(or its systems). EuroDNS reserves the right to modify these terms at any time.
+Domain name: cytat.com
 
-By submitting this query, you agree to abide by the above policy.
+Registrant Contact:
+   AskMySite.com LLC
+   NetSupport AskMySite ()
 
-Whois History: 291 records have been archived since 2004-05-25
-http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=moviebox.com
-
-Domain: moviebox.com
-Registrar: Eurodns S.A.
-
-Registrant:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
+   Fax:
+   P.O. Box 411
+   Cresskill, NJ 07626
+   US
 
 Administrative Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
+   AskMySite.com LLC
+   NetSupport AskMySite (AskMySite@aol.com)
+   1.7572572392
+   Fax: 1. 1.11
+   P.O. Box 411
+   Cresskill, NJ 07626
+   US
 
 Technical Contact:
-Company: WhoisPrivacy Limited
-Name: Whois Privacy
-Address: 3/F, Jonsim Place, 228 Queen's Road East
-City: Wanchai
-Country: HONG KONG
-Postal Code: HK
-Phone: +852 5808 1344
-Fax: +852 5808 1345
-Email: d9c1d17f4cde8fe2@whoisprivacy.com
+   AskMySite.com LLC
+   NetSupport AskMySite (AskMySite@aol.com)
+   1.7572572392
+   Fax: 1. 1.11
+   P.O. Box 411
+   Cresskill, NJ 07626
+   US
 
-Original Creation Date: 1998-11-04
-Expiration Date: 2012-11-02
+Status: Locked
 
-Status:
-clientTransferProhibited
+Name Servers:
+   ns1.mydomain.com
+   ns2.mydomain.com
+   ns3.mydomain.com
 
-Nameserver Information:
-Nameserver: ns.rackspace.com
-Nameserver: ns2.rackspace.com
+Creation date: 20 May 2005 18:53:52
+Expiration date: 20 May 2012 18:53:00
 
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

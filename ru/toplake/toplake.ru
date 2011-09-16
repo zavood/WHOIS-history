@@ -3,7 +3,7 @@
 % http://www.ripn.net/about/servpol.html#3.2 (in Russian)
 % http://www.ripn.net/about/en/servpol.html#3.2 (in English).
 
-domain:     ITCHYCLOCK.RU
+domain:     TOPLAKE.RU
 nserver:    ns1.freetgp.net.
 nserver:    ns2.freetgp.net.
 state:      REGISTERED, DELEGATED, VERIFIED

@@ -5,24 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PROXIFY.COM
+   Domain Name: CUMFARTCOCKTAILS.COM
    Registrar: MONIKER ONLINE SERVICES, INC.
    Whois Server: whois.moniker.com
    Referral URL: http://www.moniker.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: NS3.EASYDNS.ORG
-   Name Server: NS6.EASYDNS.NET
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Name Server: NS1.MONIKERDNS.NET
+   Name Server: NS2.MONIKERDNS.NET
+   Name Server: NS3.MONIKERDNS.NET
+   Name Server: NS4.MONIKERDNS.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-oct-2010
-   Creation Date: 14-apr-2003
-   Expiration Date: 14-apr-2020
+   Updated Date: 23-aug-2011
+   Creation Date: 31-jul-2004
+   Expiration Date: 31-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:06:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 03:55:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -83,68 +81,62 @@ other use of this Data is expressly
 prohibited without the prior written consent
 of Moniker.
 
-Domain Name: PROXIFY.COM
+Domain Name: CUMFARTCOCKTAILS.COM
 Registrar: MONIKER
 
-Registrant [1961697]:
-        Domain Administrator dns@justholdingsllc.com
-        Just Holdings, LLC
-        1333A North Avenue
-        Suite 315
-        New Rochelle
-        NY
-        10804
+Registrant [2089267]:
+        WORLDWIDE REDLIGHT DISTRICT, INC. hostmaster@rldd.com
+        WORLDWIDE REDLIGHT DISTRICT, INC.
+        20339 Nordhoff St.
+        Chatsworth
+        CALIFORNIA
+        91311
         US
 
 
-Administrative Contact [363488]:
-        Domain Administrator dns@upsideout.com
-        UpsideOut, Inc.
-        1333A North Avenue
-        Suite 315
-        New Rochelle
-        NY
-        10804
+Administrative Contact [2089267]:
+        WORLDWIDE REDLIGHT DISTRICT, INC. hostmaster@rldd.com
+        WORLDWIDE REDLIGHT DISTRICT, INC.
+        20339 Nordhoff St.
+        Chatsworth
+        CALIFORNIA
+        91311
         US
-        Phone: +1.8884650216
+        Phone: +1.8186786690
 
 
-Billing Contact [363488]:
-        Domain Administrator dns@upsideout.com
-        UpsideOut, Inc.
-        1333A North Avenue
-        Suite 315
-        New Rochelle
-        NY
-        10804
+Billing Contact [2089267]:
+        WORLDWIDE REDLIGHT DISTRICT, INC. hostmaster@rldd.com
+        WORLDWIDE REDLIGHT DISTRICT, INC.
+        20339 Nordhoff St.
+        Chatsworth
+        CALIFORNIA
+        91311
         US
-        Phone: +1.8884650216
+        Phone: +1.8186786690
 
 
-Technical Contact [363488]:
-        Domain Administrator dns@upsideout.com
-        UpsideOut, Inc.
-        1333A North Avenue
-        Suite 315
-        New Rochelle
-        NY
-        10804
+Technical Contact [2089267]:
+        WORLDWIDE REDLIGHT DISTRICT, INC. hostmaster@rldd.com
+        WORLDWIDE REDLIGHT DISTRICT, INC.
+        20339 Nordhoff St.
+        Chatsworth
+        CALIFORNIA
+        91311
         US
-        Phone: +1.8884650216
+        Phone: +1.8186786690
 
 
 Domain servers in listed order:
 
-        NS1.EASYDNS.COM
-        NS2.EASYDNS.COM
-        REMOTE1.EASYDNS.COM
-        REMOTE2.EASYDNS.COM
-        NS3.EASYDNS.ORG
-        NS6.EASYDNS.NET
+        NS1.MONIKERDNS.NET         208.73.210.41
+        NS2.MONIKERDNS.NET         208.73.211.42
+        NS3.MONIKERDNS.NET         208.73.210.43
+        NS4.MONIKERDNS.NET         50.57.11.88
 
-        Record created on:        2003-04-14 18:36:57.0
-        Database last updated on: 2010-10-11 03:31:44.04
-        Domain Expires on:        2020-04-14 18:36:57.0
+        Record created on:        2004-07-31 20:11:18.0
+        Database last updated on: 2011-08-23 12:35:50.85
+        Domain Expires on:        2012-07-31 20:11:18.0
 
 
 

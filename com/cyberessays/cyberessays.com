@@ -5,24 +5,22 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PROXIFY.COM
+   Domain Name: CYBERESSAYS.COM
    Registrar: MONIKER ONLINE SERVICES, INC.
    Whois Server: whois.moniker.com
    Referral URL: http://www.moniker.com
-   Name Server: NS1.EASYDNS.COM
-   Name Server: NS2.EASYDNS.COM
-   Name Server: NS3.EASYDNS.ORG
-   Name Server: NS6.EASYDNS.NET
-   Name Server: REMOTE1.EASYDNS.COM
-   Name Server: REMOTE2.EASYDNS.COM
+   Name Server: NS-1092.AWSDNS-08.ORG
+   Name Server: NS-1772.AWSDNS-29.CO.UK
+   Name Server: NS-274.AWSDNS-34.COM
+   Name Server: NS-955.AWSDNS-55.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-oct-2010
-   Creation Date: 14-apr-2003
-   Expiration Date: 14-apr-2020
+   Updated Date: 14-apr-2011
+   Creation Date: 04-may-1998
+   Expiration Date: 03-may-2018
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:06:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 03:59:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -83,68 +81,69 @@ other use of this Data is expressly
 prohibited without the prior written consent
 of Moniker.
 
-Domain Name: PROXIFY.COM
+Domain Name: CYBERESSAYS.COM
 Registrar: MONIKER
 
-Registrant [1961697]:
-        Domain Administrator dns@justholdingsllc.com
-        Just Holdings, LLC
-        1333A North Avenue
-        Suite 315
-        New Rochelle
-        NY
-        10804
+Registrant [2037242]:
+        Moniker Privacy Services CYBERESSAYS.COM@monikerprivacy.net
+        Moniker Privacy Services
+        20 SW 27th Ave.
+        Suite 201
+        Pompano Beach
+        FL
+        33069
         US
 
 
-Administrative Contact [363488]:
-        Domain Administrator dns@upsideout.com
-        UpsideOut, Inc.
-        1333A North Avenue
-        Suite 315
-        New Rochelle
-        NY
-        10804
+Administrative Contact [2037242]:
+        Moniker Privacy Services CYBERESSAYS.COM@monikerprivacy.net
+        Moniker Privacy Services
+        20 SW 27th Ave.
+        Suite 201
+        Pompano Beach
+        FL
+        33069
         US
-        Phone: +1.8884650216
+        Phone: +1.9549848445
+        Fax:   +1.9549699155
 
 
-Billing Contact [363488]:
-        Domain Administrator dns@upsideout.com
-        UpsideOut, Inc.
-        1333A North Avenue
-        Suite 315
-        New Rochelle
-        NY
-        10804
+Billing Contact [2037242]:
+        Moniker Privacy Services CYBERESSAYS.COM@monikerprivacy.net
+        Moniker Privacy Services
+        20 SW 27th Ave.
+        Suite 201
+        Pompano Beach
+        FL
+        33069
         US
-        Phone: +1.8884650216
+        Phone: +1.9549848445
+        Fax:   +1.9549699155
 
 
-Technical Contact [363488]:
-        Domain Administrator dns@upsideout.com
-        UpsideOut, Inc.
-        1333A North Avenue
-        Suite 315
-        New Rochelle
-        NY
-        10804
+Technical Contact [2037242]:
+        Moniker Privacy Services CYBERESSAYS.COM@monikerprivacy.net
+        Moniker Privacy Services
+        20 SW 27th Ave.
+        Suite 201
+        Pompano Beach
+        FL
+        33069
         US
-        Phone: +1.8884650216
+        Phone: +1.9549848445
+        Fax:   +1.9549699155
 
 
 Domain servers in listed order:
 
-        NS1.EASYDNS.COM
-        NS2.EASYDNS.COM
-        REMOTE1.EASYDNS.COM
-        REMOTE2.EASYDNS.COM
-        NS3.EASYDNS.ORG
-        NS6.EASYDNS.NET
+        NS-955.AWSDNS-55.NET
+        NS-274.AWSDNS-34.COM
+        NS-1092.AWSDNS-08.ORG
+        NS-1772.AWSDNS-29.CO.UK
 
-        Record created on:        2003-04-14 18:36:57.0
-        Database last updated on: 2010-10-11 03:31:44.04
-        Domain Expires on:        2020-04-14 18:36:57.0
+        Record created on:        1998-05-04 00:00:00.0
+        Database last updated on: 2011-04-10 06:50:27.147
+        Domain Expires on:        2018-05-03 00:00:00.0
 
 
 
