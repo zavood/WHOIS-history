@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 26-sep-2007
    Expiration Date: 26-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:01:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 07:14:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain montana-scholarship.com
-% Timestamp: 2011-09-14 21:02:42
+% Timestamp: 2011-09-16 09:15:31
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
@@ -83,7 +83,7 @@ nserver:                     c.ns14.net
 nserver:                     d.ns14.net
 created:                     2007-09-26 16:05:11
 expire:                      2012-09-26 16:05:11 (registry time)
-changed:                     2010-11-05 13:35:58
+changed:                     2011-09-15 13:40:36
 
 [owner-c] handle:            10870970
 [owner-c] type:              PERSON

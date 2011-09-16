@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 24-aug-1995
    Expiration Date: 23-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:18:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 07:13:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -88,34 +88,34 @@ owner-phone: +36.18144351
 owner-fax: +36.18144499
 owner-email: secura@datanet.hu
 
-admin-organization: GTS Hungary Telecommunication Ltd.
+admin-organization: GTS Hungary Ltd.
 admin-name: Laszlo Kozma
-admin-street: Vaci ut 37
-admin-city: Budapest
+admin-street: Ipartelep u. 13-15.
+admin-city: Budaors
 admin-state: -
-admin-zip: 1134
+admin-zip: 2040
 admin-country: HU
 admin-phone: +36.18144444
 admin-fax: +36.18144499
 admin-email: secura@datanet.hu
 
-tech-organization: GTS Hungary Telecommunication Ltd.
+tech-organization: GTS Hungary Ltd.
 tech-name: Zsolt Raksanyi
 tech-street: Vaci ut 37
-tech-city: Budapest
+tech-city: Budaors
 tech-state: -
 tech-zip: 2040
 tech-country: HU
-tech-phone: +36.18144000
-tech-fax: +36.18144047
-tech-email: zsolt.raksanyi@gtsce.com
+tech-phone: +36.18144444
+tech-fax: +36.18144499
+tech-email: secura@datanet.hu
 
-billing-organization: GTS Hungary Telecommunication Ltd.
+billing-organization: GTS Hungary Ltd.
 billing-name: Laszlo Kozma
-billing-street: Vaci ut 37
-billing-city: Budapest
+billing-street: Ipartelep u. 13-15.
+billing-city: Budaors
 billing-state: -
-billing-zip: 1134
+billing-zip: 2040
 billing-country: HU
 billing-phone: +36.18144444
 billing-fax: +36.18144499

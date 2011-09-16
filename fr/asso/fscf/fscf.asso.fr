@@ -1,0 +1,92 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; fscf.asso.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      fscf.asso.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    FSEC1-FRNIC
+admin-c:     MM1997-FRNIC
+tech-c:      LC159-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5325-FRNIC
+registrar:   PROXIM IT
+anniversary: 08/03
+created:     27/01/2000
+last-update: 17/03/2006
+source:      FRNIC
+
+ns-list:     NSL5325-FRNIC
+nserver:     ns1.lsv.fr [85.14.178.9]
+nserver:     ns3.proximit.fr [85.14.178.65]
+source:      FRNIC
+
+registrar:   PROXIM IT
+type:        Isp Option 2
+address:     Les Hauts de Chignac
+address:     POMPADOUR
+country:     FR
+phone:       +33 5 55 73 99 00
+fax-no:      +33 5 55 73 61 84
+e-mail:      ndd@proximit.fr
+website:     http://www.proximit.fr
+anonymous:   NO
+registered:  01/01/2006
+source:      FRNIC
+
+nic-hdl:     MM1997-FRNIC
+type:        PERSON
+contact:     Marina Magnan
+address:     F&eacute;d&eacute;ration Sportive et Culturelle de France
+address:     22, rue Oberkampf
+address:     75011 Paris
+country:     FR
+phone:       +33 1 43 38 50 57
+e-mail:      communication@fscf.asso.fr
+changed:     08/03/2006 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     FSEC1-FRNIC
+type:        ORGANIZATION
+contact:     Federation Sportive et Culturelle de France
+address:     22, rue Oberkampf
+address:     75011 Paris
+country:     FR
+phone:       +33 1 43 38 50 57
+e-mail:      communication@fscf.asso.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     LC159-FRNIC
+type:        ROLE
+contact:     PROXIM IT
+address:     PROXIM IT
+address:     24, avenue du President Wilson
+address:     87700 Aixe-sur-Vienne
+country:     FR
+e-mail:      hebergement@proximit.fr
+admin-c:     PR204-FRNIC
+tech-c:      PR204-FRNIC
+changed:     14/02/2006 hebergement@proximit.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

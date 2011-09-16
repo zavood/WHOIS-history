@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 03:59:25 (BRT -03:00)
+
+domain:      aol.com.br
+owner:       Netscape Communications do Brasil Ltda
+ownerid:     002.283.278/0001-49
+responsible: Jobelino Vitoriano Locateli
+country:     BR
+owner-c:     JOVLO2
+admin-c:     JOVLO2
+tech-c:      JOVLO2
+billing-c:   NSB4
+nserver:     dns-01.ns.aol.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     dns-02.ns.aol.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     19970422 #37321
+expires:     20120422
+changed:     20110328
+status:      published
+
+nic-hdl-br:  JOVLO2
+person:      Jobelino Vitoriano Locateli
+e-mail:      domains@aol.net
+created:     20060615
+changed:     20060615
+
+nic-hdl-br:  NSB4
+person:      Network Solutions - Brazil
+e-mail:      dominios@opelnet.com.br
+created:     19990403
+changed:     20090625
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

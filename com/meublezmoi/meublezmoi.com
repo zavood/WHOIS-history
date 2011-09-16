@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 19-dec-2009
    Expiration Date: 19-dec-2019
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:53:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 07:05:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,7 +75,7 @@ Registrars.
 # Pour obtenir les informations en status 'Protected by policy', contactez
 # directement le registre concerne (Eurid, AFNIC)
 #
-# 2011-09-15 08:54:23 CEST
+# 2011-09-16 09:06:23 CEST
 
 domain: meublezmoi.com
 reg_created: 2009-12-19 18:52:36

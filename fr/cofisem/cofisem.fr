@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; cofisem.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cofisem.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    C7676-FRNIC
+admin-c:     CD252-FRNIC
+tech-c:      IFR3-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2268-FRNIC
+registrar:   NAMEBAY
+anniversary: 17/07
+created:     11/02/1997
+last-update: 12/03/2009
+source:      FRNIC
+
+ns-list:     NSL2268-FRNIC
+nserver:     ns1.internet-fr.net
+nserver:     ns2.internet-fr.net
+source:      FRNIC
+
+registrar:   NAMEBAY
+type:        Isp Option 1
+address:     27 Boulevard des Moulins
+address:     98000 MONACO
+country:     MC
+phone:       +377 97 70 61 64
+fax-no:      +377 97 97 21 13
+e-mail:      contact@namebay.com
+website:     http://www.namebay.com
+anonymous:   NO
+registered:  18/09/2001
+source:      FRNIC
+
+nic-hdl:     CD252-FRNIC
+type:        PERSON
+contact:     Catherine Duval
+address:     COFISEM
+address:     33, avenue de la Republique
+address:     75011 Paris
+country:     FR
+phone:       +33 1 53 36 58 35
+changed:     17/07/2001 frnic-dbm-updates@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IFR3-FRNIC
+type:        ROLE
+contact:     Internet Fr
+address:     InternetFr
+address:     2-12, chemin des Femmes
+address:     91886 Massy Cedex
+country:     FR
+phone:       +33 1 64 53 12 12
+fax-no:      +33 1 64 53 12 19
+e-mail:      noc@internet-fr.net
+trouble:     Informations: http://www.internet-fr.net/
+trouble:     Questions: mailto:tech@internet-fr.net
+admin-c:     DS160-FRNIC
+tech-c:      DS799-FRNIC
+changed:     08/08/2002 noc@internet-fr.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     C7676-FRNIC
+type:        ORGANIZATION
+contact:     COFISEM
+address:     33, avenue de la Republique
+address:     75011 Paris
+country:     FR
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

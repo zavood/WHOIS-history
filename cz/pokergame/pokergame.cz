@@ -1,0 +1,58 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 09:09:19 2011
+
+domain:       pokergame.cz
+registrant:   FORPSI-JCF-S344351
+nsset:        PROFITUXCZ
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   14.01.2010 09:12:08
+changed:      15.01.2010 22:10:26
+expire:       14.01.2012
+
+contact:      FORPSI-JCF-S344351
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Monhart
+address:      Lh&Aring;&macr;ta 86
+address:      Plzen
+address:      33201
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      14.01.2010 09:03:06
+
+nsset:        PROFITUXCZ
+nserver:      ns1.profitux.cz (82.208.47.132)
+nserver:      ns2.profitux.cz (109.123.219.40)
+tech-c:       INETCZ-PDR0OC-59478
+registrar:    REG-INTERNET-CZ
+created:      03.10.2007 12:04:48
+changed:      27.01.2011 17:24:28
+
+contact:      INETCZ-PDR0OC-59478
+name:         Pavel &Aring;&nbsp;i&Aring;&iexcl;ka
+address:      &Auml;Œeskobratrsk&Atilde;&iexcl; 11
+address:      Praha 3
+address:      13000
+address:      CZ
+phone:        +420.608063516
+e-mail:       punjab@punjabcz.net
+registrar:    REG-INTERNET-CZ
+created:      11.12.2003 10:05:00
+
+

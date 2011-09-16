@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154414457-LROR
+Domain Name:HANSRAJEDUCATION.ORG
+Created On:07-Oct-2008 11:32:43 UTC
+Last Updated On:11-Oct-2010 08:40:16 UTC
+Expiration Date:07-Oct-2011 11:32:43 UTC
+Sponsoring Registrar:Netlynx Inc. (R1706-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_8805305
+Registrant Name:Anjana Prakash
+Registrant Organization:Hansraj Morarji Public School
+Registrant Street1:P. O. Box 7352
+Registrant Street2:Munshi Nagar, D. N. Road
+Registrant Street3:Andheri (W)
+Registrant City:Mumbai
+Registrant State/Province:Maharashtra
+Registrant Postal Code:400058
+Registrant Country:IN
+Registrant Phone:+022.26232467
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hmps39@vsnl.com
+Admin ID:DI_8805305
+Admin Name:Anjana Prakash
+Admin Organization:Hansraj Morarji Public School
+Admin Street1:P. O. Box 7352
+Admin Street2:Munshi Nagar, D. N. Road
+Admin Street3:Andheri (W)
+Admin City:Mumbai
+Admin State/Province:Maharashtra
+Admin Postal Code:400058
+Admin Country:IN
+Admin Phone:+022.26232467
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hmps39@vsnl.com
+Tech ID:DI_8805305
+Tech Name:Anjana Prakash
+Tech Organization:Hansraj Morarji Public School
+Tech Street1:P. O. Box 7352
+Tech Street2:Munshi Nagar, D. N. Road
+Tech Street3:Andheri (W)
+Tech City:Mumbai
+Tech State/Province:Maharashtra
+Tech Postal Code:400058
+Tech Country:IN
+Tech Phone:+022.26232467
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hmps39@vsnl.com
+Name Server:TS1.ALLWEBSERVER.COM
+Name Server:TS2.ALLWEBSERVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
