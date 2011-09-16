@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; transportsdudouaisis.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      transportsdudouaisis.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SMDT14-FRNIC
+admin-c:     CW335-FRNIC
+tech-c:      NF485-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL329-FRNIC
+registrar:   NORDNET
+anniversary: 16/09
+created:     16/09/2003
+last-update: 07/04/2009
+source:      FRNIC
+
+ns-list:     NSL329-FRNIC
+nserver:     ns1.lerelaisinternet.com
+nserver:     ns2.lerelaisinternet.com
+source:      FRNIC
+
+registrar:   NORDNET
+type:        Isp Option 1
+address:     111 Rue de Croix
+address:     BP 60 985
+address:     HEM
+country:     FR
+phone:       0 820 800 810
+fax-no:      +33 3 20 66 56 29
+e-mail:      contact@nordnet.net
+website:     http://www.nordnet.com
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     NF485-FRNIC
+type:        ROLE
+contact:     NORDNET France
+address:     Nordnet
+address:     111, rue de Croix
+address:     59510 Hem
+country:     FR
+phone:       +33 3 20 66 55 55
+e-mail:      tech-dom-fr@lerelaisinternet.com
+admin-c:     ML50-FRNIC
+admin-c:     DU11-FRNIC
+tech-c:      ML50-FRNIC
+tech-c:      DU11-FRNIC
+tech-c:      JG3094-FRNIC
+notify:      tech-dom-fr@lerelaisinternet.com
+changed:     17/08/2006 tech-dom-fr@lerelaisinternet.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SMDT14-FRNIC
+type:        ORGANIZATION
+contact:     SYNDICAT MIXTE DES TRANSPORTS DU DOUAISIS
+address:     395, boulevard Pasteur
+address:     59287 Guesnain
+country:     FR
+phone:       +33 3 27 99 19 99
+fax-no:      +33 3 27 87 45 78
+e-mail:      contact@gid.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CW335-FRNIC
+type:        PERSON
+contact:     Coranson William
+address:     SYNDICAT MIXTE DES TRANSPORTS DU DOUAISIS
+address:     395, boulevard Pasteur
+address:     59287 Guesnain
+country:     FR
+phone:       +33 3 27 99 19 99
+fax-no:      +33 3 27 87 45 78
+e-mail:      coranson@smtd.fr
+changed:     09/03/2007 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

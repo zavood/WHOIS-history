@@ -1,0 +1,122 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; u-strasbg.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      u-strasbg.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CREC1-FRNIC
+admin-c:     PD1032-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      JB2348-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL3995-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 28/05/2004
+source:      FRNIC
+
+ns-list:     NSL3995-FRNIC
+nserver:     ns1.u-strasbg.fr [130.79.200.1]
+nserver:     ns2.u-strasbg.fr [130.79.200.3]
+nserver:     shiva.jussieu.fr [134.157.0.129]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     CREC1-FRNIC
+type:        ORGANIZATION
+contact:     UNIVERSITE DE STRASBOURG
+address:     7, rue Rene Descartes
+address:     67084 Strasbourg Cedex
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     PD1032-FRNIC
+type:        PERSON
+contact:     Pierre David
+address:     Univ de Strasbourg
+address:     centre Reseau Communication
+address:     7, rue de l'universite
+address:     67000 Strasbourg
+country:     FR
+phone:       +33 3 90 24 06 00
+fax-no:      +33 3 90 24 06 01
+e-mail:      pda@unistra.fr
+changed:     18/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JB2348-FRNIC
+type:        PERSON
+contact:     Jean Benoit
+address:     Direction Informatique de l'Uds
+address:     7, rue de l'Universite
+address:     67000 Strasbourg
+country:     FR
+phone:       +33 3 90 24 03 18
+fax-no:      +33 3 90 24 03 12
+e-mail:      jean@unistra.fr
+changed:     18/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

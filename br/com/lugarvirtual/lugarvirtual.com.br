@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 08:44:46 (BRT -03:00)
+
+domain:      lugarvirtual.com.br
+owner:       HIGIBELE IND. E COM. DE COSM&Eacute;TICOS LTDA
+ownerid:     008.055.433/0001-56
+responsible: Jaqueline Paim de Arruda
+country:     BR
+owner-c:     JAPAR
+admin-c:     JAPAR
+tech-c:      JAPAR
+billing-c:   JAPAR
+nserver:     ns1.lugarvirtual.com.br 69.175.54.250
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.lugarvirtual.com.br 69.175.54.251
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20071127 #4098084
+expires:     20111127
+changed:     20101209
+status:      published
+
+nic-hdl-br:  JAPAR
+person:      Jaqueline Paim de Arruda
+e-mail:      higibele@hotmail.com
+created:     20060831
+changed:     20110617
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

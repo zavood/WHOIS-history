@@ -23,7 +23,7 @@ for detailed information.
    Creation Date: 08-mar-2005
    Expiration Date: 08-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:13:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 11:50:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -118,10 +118,10 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns4.google.com
+    ns3.google.com
     ns2.google.com
     ns1.google.com
-    ns3.google.com
+    ns4.google.com
 
 
 

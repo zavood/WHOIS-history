@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98304488-LROR
+Domain Name:JAZZDISCO.ORG
+Created On:01-Jul-2003 05:57:22 UTC
+Last Updated On:21-Jan-2010 05:14:27 UTC
+Expiration Date:01-Jul-2013 05:57:22 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuTK3rBrFtq9bDr0
+Registrant Name:Nobuaki Togashi
+Registrant Organization:Jazz Discography Project
+Registrant Street1:Hiragishi 4-6-3-5, Toyohira-ku
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sapporo
+Registrant State/Province:Hokkaido
+Registrant Postal Code:062-0934
+Registrant Country:JP
+Registrant Phone:+81.118236793
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:togashi@jazzdisco.org
+Admin ID:tuHXW6AHxzxa3hzt
+Admin Name:gonbei.jp Interlink Co., Ltd.
+Admin Organization:Interlink Co., Ltd.
+Admin Street1:3-1-1 Higashi-Ikebukuro
+Admin Street2:
+Admin Street3:
+Admin City:Toshima-ku
+Admin State/Province:Tokyo
+Admin Postal Code:1706035
+Admin Country:JP
+Admin Phone:+81.339853711
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:support@gonbei.jp
+Tech ID:tuK8q0iKskXWSLOG
+Tech Name:gonbei.jp Interlink Co., Ltd.
+Tech Organization:Interlink Co., Ltd.
+Tech Street1:3-1-1 Higashi-Ikebukuro
+Tech Street2:
+Tech Street3:
+Tech City:Toshima-ku
+Tech State/Province:Tokyo
+Tech Postal Code:1706035
+Tech Country:JP
+Tech Phone:+81.339853711
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@gonbei.jp
+Name Server:RVG.JAZZDISCO.ORG
+Name Server:NS.MICROGROOVE.JP
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158003802-LROR
+Domain Name:GREENCELEBRITY.ORG
+Created On:08-Jan-2010 00:21:16 UTC
+Last Updated On:09-Mar-2010 03:53:04 UTC
+Expiration Date:08-Jan-2020 00:21:16 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR39966114
+Registrant Name:Kristi Davis
+Registrant Street1:3601 Somerville Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sarasota
+Registrant State/Province:Florida
+Registrant Postal Code:34231
+Registrant Country:US
+Registrant Phone:+1.8287138030
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kaedavis@gmail.com
+Admin ID:CR39966119
+Admin Name:Kristi Davis
+Admin Street1:3601 Somerville Drive
+Admin Street2:
+Admin Street3:
+Admin City:Sarasota
+Admin State/Province:Florida
+Admin Postal Code:34231
+Admin Country:US
+Admin Phone:+1.8287138030
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:kaedavis@gmail.com
+Tech ID:CR39966116
+Tech Name:Kristi Davis
+Tech Street1:3601 Somerville Drive
+Tech Street2:
+Tech Street3:
+Tech City:Sarasota
+Tech State/Province:Florida
+Tech Postal Code:34231
+Tech Country:US
+Tech Phone:+1.8287138030
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:kaedavis@gmail.com
+Name Server:NS1.BLUEHOST.COM
+Name Server:NS2.BLUEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,61 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 08:36:08 (BRT -03:00)
+
+domain:      ferrararing.com.br
+owner:       Centro de Oftalmologia Avan&ccedil;ada Ltda
+ownerid:     000.374.632/0001-15
+responsible: Eduardo Adan Fran&ccedil;a Alves
+country:     BR
+owner-c:     EAA220
+admin-c:     PFC6
+tech-c:      MAVHE8
+billing-c:   PFF36
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     19980806 #110249
+expires:     20120806
+changed:     20110205
+status:      published
+
+nic-hdl-br:  EAA220
+person:      Eduardo Adan Fran&ccedil;a Alves
+e-mail:      eduardo@coa.com.br
+created:     20050607
+changed:     20050607
+
+nic-hdl-br:  MAVHE8
+person:      Maria Virginia Hermeto
+e-mail:      virginia@ferrararing.com.br
+created:     20110126
+changed:     20110126
+
+nic-hdl-br:  PFC6
+person:      Paulo Ferrara de Almeida Cunha
+e-mail:      ferrara@ferrararing.com.br
+created:     19980806
+changed:     20090121
+
+nic-hdl-br:  PFF36
+person:      Paulo Ferrara de Almeida Cunha Filho
+e-mail:      ferrara@ferrararing.com.br
+created:     20010726
+changed:     20030324
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

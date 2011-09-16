@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 29-jul-1995
    Expiration Date: 28-jul-2017
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 17:08:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:04:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: ubu.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 12:58:38 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Fri Sep 16 07:54:31 EDT 2011
 Reason Code: IE

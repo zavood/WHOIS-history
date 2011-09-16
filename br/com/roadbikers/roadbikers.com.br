@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 08:38:06 (BRT -03:00)
+
+domain:      roadbikers.com.br
+owner:       ALLSITES Internet e Telecomunica&ccedil;&otilde;es Ltda.
+ownerid:     007.684.818/0001-10
+responsible: Alberto Maffei
+country:     BR
+owner-c:     AOM30
+admin-c:     AOM30
+tech-c:      AOM30
+billing-c:   AOM30
+nserver:     ns1.websaocarlos.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.websaocarlos.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20070730 #3786956
+expires:     20120730
+changed:     20110704
+status:      published
+
+nic-hdl-br:  AOM30
+person:      Alberto Onesti Maffei
+e-mail:      admin@allsites.com.br
+created:     20010407
+changed:     20050411
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

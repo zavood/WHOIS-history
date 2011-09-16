@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-15 07:54:13 (BRT -03:00)
+%  2011-09-16 08:52:30 (BRT -03:00)
 
 domain:      chrysca.com.br
 owner:       ALDA SALETE BARBOSA DO NASCIMENTO - ME
@@ -17,11 +17,11 @@ admin-c:     CPGSH
 tech-c:      CPGSH
 billing-c:   CPGSH
 nserver:     ns1.softhost.org
-nsstat:      20110912 AA
-nslastaa:    20110912
+nsstat:      20110916 AA
+nslastaa:    20110916
 nserver:     ns2.softhost.org
-nsstat:      20110912 AA
-nslastaa:    20110912
+nsstat:      20110916 AA
+nslastaa:    20110916
 created:     20070314 #3445942
 expires:     20120314
 changed:     20110315

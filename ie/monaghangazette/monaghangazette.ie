@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      monaghangazette.ie
+descr:       JOSEPH MCCABE
+descr:       Sole Trader
+descr:       Registered Business Name
+admin-c:     AHC429-IEDR
+tech-c:      HH36-IEDR
+renewal:     05-March-2012
+status:      Active
+nserver:     ns1.meedja.com
+nserver:     ns2.meedja.com
+source:      IEDR
+
+person:      Joe McCabe
+nic-hdl:     AHC429-IEDR
+source:      IEDR
+
+person:      NamesCo Hostmaster
+nic-hdl:     HH36-IEDR
+source:      IEDR
+

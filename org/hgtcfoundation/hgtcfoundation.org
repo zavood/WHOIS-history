@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104658969-LROR
+Domain Name:HGTCFOUNDATION.ORG
+Created On:21-Jul-2004 19:10:13 UTC
+Last Updated On:02-Dec-2009 13:08:55 UTC
+Expiration Date:21-Jul-2014 19:10:13 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30919915
+Registrant Name:Coleen Nies
+Registrant Organization:Horry-Georgetown Technical College Foundation
+Registrant Street1:743 Hemlock Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Myrtle Beach
+Registrant State/Province:South Carolina
+Registrant Postal Code:29577
+Registrant Country:US
+Registrant Phone:+1.8434772105
+Registrant Phone Ext.:
+Registrant FAX:+1.8434772103
+Registrant FAX Ext.:
+Registrant Email:coleen.nies@hgtc.edu
+Admin ID:CR30919917
+Admin Name:Coleen Nies
+Admin Organization:Horry-Georgetown Technical College Foundation
+Admin Street1:743 Hemlock Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Myrtle Beach
+Admin State/Province:South Carolina
+Admin Postal Code:29577
+Admin Country:US
+Admin Phone:+1.8434772112
+Admin Phone Ext.:
+Admin FAX:+1.8434772103
+Admin FAX Ext.:
+Admin Email:coleen.nies@hgtc.edu
+Tech ID:CR30919916
+Tech Name:Coleen Nies
+Tech Organization:Horry-Georgetown Technical College Foundation
+Tech Street1:743 Hemlock Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Myrtle Beach
+Tech State/Province:South Carolina
+Tech Postal Code:29577
+Tech Country:US
+Tech Phone:+1.8434772112
+Tech Phone Ext.:
+Tech FAX:+1.8434772103
+Tech FAX Ext.:
+Tech Email:coleen.nies@hgtc.edu
+Name Server:NS01.DOMAINCONTROL.COM
+Name Server:NS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

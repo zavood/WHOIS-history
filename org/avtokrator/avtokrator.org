@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D21188771-LROR
+Domain Name:AVTOKRATOR.ORG
+Created On:02-Mar-2000 22:42:31 UTC
+Last Updated On:23-Feb-2009 13:30:22 UTC
+Expiration Date:02-Mar-2012 22:42:31 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuU0mRt3LCmQxPzW
+Registrant Name:U.N. Owen
+Registrant Organization:Big Goddamned Nazi Rocket Company
+Registrant Street1:123 Bite Me Lane
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fly Creek
+Registrant State/Province:NY
+Registrant Postal Code:13337
+Registrant Country:US
+Registrant Phone:+1.6075551212
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@avtokrator.org
+Admin ID:tua7V1aw21xj6YJv
+Admin Name:U.N. Owen
+Admin Organization:Big Goddamned Nazi Rocket Company
+Admin Street1:123 Bite Me Lane
+Admin Street2:
+Admin Street3:
+Admin City:Fly Creek
+Admin State/Province:NY
+Admin Postal Code:13337
+Admin Country:US
+Admin Phone:+1.6075551212
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@avtokrator.org
+Tech ID:tud2dPd8JwZxSLEz
+Tech Name:Tech Support
+Tech Organization:Core Web Ventures, Inc.
+Tech Street1:P.O box 95967
+Tech Street2:
+Tech Street3:
+Tech City:Seattle
+Tech State/Province:WA
+Tech Postal Code:98145-2967
+Tech Country:US
+Tech Phone:+1.2064789562
+Tech Phone Ext.:
+Tech FAX:+1.5205699006
+Tech FAX Ext.:
+Tech Email:marcuso@DomainMonger.com
+Name Server:NS.AVTOKRATOR.ORG
+Name Server:NS.COMFYCHAIR.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

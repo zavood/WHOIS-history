@@ -1,0 +1,125 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; univ-rennes1.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      univ-rennes1.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UDRI2-FRNIC
+admin-c:     FO482-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      PAA31-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1490-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 17/01/2011
+source:      FRNIC
+
+ns-list:     NSL1490-FRNIC
+nserver:     resone.univ-rennes1.fr [129.20.254.1]
+nserver:     soleil.uvsq.fr [193.51.24.1]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     UDRI2-FRNIC
+type:        ORGANIZATION
+contact:     Universite de Rennes I
+address:     Cri
+address:     Campus de Beaulieu
+address:     35042 Rennes
+country:     FR
+phone:       +33 2 23 23 71 35
+e-mail:      franck.ollive@univ-rennes1.fr
+changed:     19/01/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     FO482-FRNIC
+type:        PERSON
+contact:     Franck Ollive
+address:     Univ. de Rennes 1
+address:     Cri
+address:     Campus de Beaulieu
+address:     35042 Rennes
+country:     FR
+phone:       +33 2 23 23 71 35
+fax-no:      +33 2 23 23 71 11
+e-mail:      franck.ollive@univ-rennes1.fr
+changed:     17/01/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PAA31-FRNIC
+type:        PERSON
+contact:     Pierre-Antoine Angelini
+address:     Univ. de Rennes 1
+address:     Cri
+address:     Campus de Beaulieu
+address:     35042 Rennes
+country:     FR
+phone:       +33 2 23 23 71 51
+fax-no:      +33 2 23 23 71 11
+e-mail:      pierre-antoine.angelini@univ-rennes1.fr
+changed:     17/01/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

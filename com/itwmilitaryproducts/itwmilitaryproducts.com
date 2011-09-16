@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 09-may-2006
    Expiration Date: 09-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 04:38:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 11:42:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -108,7 +108,7 @@ itw
 
    Record expires on 09-May-2012.
    Record created on 09-May-2006.
-   Database last updated on 12-Sep-2011 00:29:03 EDT.
+   Database last updated on 16-Sep-2011 07:32:43 EDT.
 
    Domain servers in listed order:
 

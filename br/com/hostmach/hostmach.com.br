@@ -1,0 +1,47 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 08:50:40 (BRT -03:00)
+
+domain:      hostmach.com.br
+owner:       Hosting Machine Inform&aacute;tica Ltda.
+ownerid:     006.100.675/0001-99
+responsible: Steve Nagy
+country:     BR
+owner-c:     SAN97
+admin-c:     SAN97
+tech-c:      SAN97
+billing-c:   SAN97
+nserver:     dns1.hostmach.com.br 174.122.209.37
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     dns2.hostmach.com.br 67.15.27.37
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     dns3.hostmach.com.br 174.122.209.39
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20050225 #2025836
+expires:     20120225
+changed:     20110705
+provider:    HOSTINGMACHINE (25)
+status:      published
+
+nic-hdl-br:  SAN97
+person:      Steve Ambrus Nagy
+e-mail:      registro@hostmach.com.br
+created:     20031203
+changed:     20110210
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

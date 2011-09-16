@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156071812-LROR
+Domain Name:MYFEDLOAN.ORG
+Created On:06-May-2009 18:34:02 UTC
+Last Updated On:06-Jul-2009 03:56:37 UTC
+Expiration Date:06-May-2012 18:34:02 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:15622501-NSI
+Registrant Name:PA Higher Education Assistance Agency
+Registrant Organization:PA Higher Education Assistance Agency
+Registrant Street1:1200 N 7TH ST
+Registrant Street2:
+Registrant Street3:
+Registrant City:HARRISBURG
+Registrant State/Province:PA
+Registrant Postal Code:17102-1419
+Registrant Country:US
+Registrant Phone:+1.7177201712
+Registrant Phone Ext.:
+Registrant FAX:+1.7177203912
+Registrant FAX Ext.:
+Registrant Email:aesjla@aessuccess.org
+Admin ID:15622501-NSI
+Admin Name:PA Higher Education Assistance Agency
+Admin Organization:PA Higher Education Assistance Agency
+Admin Street1:1200 N 7TH ST
+Admin Street2:
+Admin Street3:
+Admin City:HARRISBURG
+Admin State/Province:PA
+Admin Postal Code:17102-1419
+Admin Country:US
+Admin Phone:+1.7177201712
+Admin Phone Ext.:
+Admin FAX:+1.7177203912
+Admin FAX Ext.:
+Admin Email:aesjla@aessuccess.org
+Tech ID:15622501-NSI
+Tech Name:PA Higher Education Assistance Agency
+Tech Organization:PA Higher Education Assistance Agency
+Tech Street1:1200 N 7TH ST
+Tech Street2:
+Tech Street3:
+Tech City:HARRISBURG
+Tech State/Province:PA
+Tech Postal Code:17102-1419
+Tech Country:US
+Tech Phone:+1.7177201712
+Tech Phone Ext.:
+Tech FAX:+1.7177203912
+Tech FAX Ext.:
+Tech Email:aesjla@aessuccess.org
+Name Server:DBRU.BR.NS.ELS-GMS.ATT.NET
+Name Server:DMTU.MT.NS.ELS-GMS.ATT.NET
+Name Server:NS1.PHEAA.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
