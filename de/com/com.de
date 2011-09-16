@@ -1,0 +1,73 @@
+% Copyright (c) 2010 by DENIC
+% Version: 2.0
+%
+% Restricted rights.
+%
+% Terms and Conditions of Use
+%
+% The data in this record is provided by DENIC for informational purposes only.
+% DENIC does not guarantee its accuracy and cannot, under any circumstances,
+% be held liable in case the stored information would prove to be wrong,
+% incomplete or not accurate in any sense.
+%
+% All the domain data that is visible in the whois service is protected by law.
+% It is not permitted to use it for any purpose other than technical or
+% administrative requirements associated with the operation of the Internet.
+% It is explicitly forbidden to extract, copy and/or use or re-utilise in any
+% form and by any means (electronically or not) the whole or a quantitatively
+% or qualitatively substantial part of the contents of the whois database
+% without prior and explicit written permission by DENIC.
+% It is prohibited, in particular, to use it for transmission of unsolicited
+% and/or commercial and/or advertising by phone, fax, e-mail or for any similar
+% purposes.
+%
+% By maintaining the connection you assure that you have a legitimate interest
+% in the data and that you will only use it for the stated purposes. You are
+% aware that DENIC maintains the right to initiate legal proceedings against
+% you in the event of any breach of this assurance and to bar you from using
+% its whois service.
+%
+% The DENIC whois service on port 43 never discloses any information concerning
+% the domain holder/administrative contact. Information concerning the domain
+% holder/administrative contact can be obtained through use of our web-based
+% whois service available at the DENIC website:
+% http://www.denic.de/en/background/whois-service/webwhois.html
+%
+
+Domain: com.de
+Nserver: ns1.centralnic.net
+Nserver: ns2.centralnic.net
+Nserver: ns3.centralnic.net
+Nserver: ns4.centralnic.net
+Nserver: ns5.centralnic.net
+Nserver: ns7.centralnic.net
+Nserver: ns8.centralnic.net
+Dnskey: 257 3 7 BQEAAAABr1C459KtkovkQwCXjzb/+DRXhMAiNku1oP/yCuw0yhzL4fb482UOeQSR8UVIUtunelasbAnIUUaMJfxiCXw61VfS0xkqEuzJhrQxoAwjJtMqe2r7ODw91od/Rx8lX3YWh7mPV/OkYQyolkBZ2NadG7acEwyHZAby4y6eIukoR3ALA/px+OBEfVI4nCF76UIn49HXIbZPQnXf4QBn41GMV4bHwYozMFC9zN5K98zcmzHHIOIBb7JQ/ItfwEygjn+TpxFboeK5RfUaMTMc4Oy5befs0+Q9z+TF88DdlsIuSv0Jvz2D8nd3Ls/THa5iSHMHcxSs5yOnHLF0XbebhOMhfQ==
+Status: connect
+Changed: 2011-06-22T12:42:04+02:00
+
+[Tech-C]
+Type: PERSON
+Name: Domain Administrator
+Organisation: CentralNic Ltd
+Address: 35-39 Moorgate
+PostalCode: EC2R 6AR
+City: London
+CountryCode: GB
+Phone: +44-870-0170900
+Fax: +44-870-0170901
+Email: domains@centralnic.com
+Changed: 2011-04-01T12:34:26+02:00
+
+[Zone-C]
+Type: PERSON
+Name: Domain Administrator
+Organisation: CentralNic Ltd
+Address: 35-39 Moorgate
+PostalCode: EC2R 6AR
+City: London
+CountryCode: GB
+Phone: +44-870-0170900
+Fax: +44-870-0170901
+Email: domains@centralnic.com
+Changed: 2011-04-01T12:34:26+02:00

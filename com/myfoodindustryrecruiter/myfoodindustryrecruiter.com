@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COMMODORE-AMIGA-RETRO.COM
+   Domain Name: MYFOODINDUSTRYRECRUITER.COM
    Registrar: TUCOWS.COM CO.
    Whois Server: whois.tucows.com
    Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 19-mar-2008
-   Creation Date: 31-dec-2005
-   Expiration Date: 31-dec-2012
+   Name Server: NS-1.PRINCIPLE.COM
+   Name Server: NS1.EASYDNS.COM
+   Name Server: NS2.EASYDNS.COM
+   Status: ok
+   Updated Date: 21-oct-2010
+   Creation Date: 29-oct-2005
+   Expiration Date: 29-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 03:47:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 03:37:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

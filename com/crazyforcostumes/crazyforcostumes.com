@@ -5,20 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COMMODORE-AMIGA-RETRO.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
+   Domain Name: CRAZYFORCOSTUMES.COM
+   Registrar: DOMAINNAME, INC.
+   Whois Server: whois.domainname.com
+   Referral URL: http://www.domainname.com
+   Name Server: NS1.PEER1.NET
+   Name Server: NS2.PEER1.NET
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 19-mar-2008
-   Creation Date: 31-dec-2005
-   Expiration Date: 31-dec-2012
+   Updated Date: 19-aug-2011
+   Creation Date: 02-mar-2005
+   Expiration Date: 02-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 03:47:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 03:50:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +52,77 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+; This data is provided by DomainName, Inc.
+; for information purposes, and to assist persons obtaining information
+; about or related to domain name registration records.
+; DomainName, Inc. does not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
+
+
+
+DOMAIN: CRAZYFORCOSTUMES.COM
+
+RSP: DomainName, Inc.
+URL: http://www.domainname.com
+
+created-date: 2005-03-02 00:00:00
+updated-date: 2011-08-20 01:36:15
+registration-expiration-date: 2012-03-02 22:33:44
+
+owner-organization: LA CASA DE LOS TRUCOS
+owner-name: VIVIAN TORRES
+owner-street: 1343 SW 8TH ST.
+owner-city: MIAMI
+owner-state: FL
+owner-zip: 33135
+owner-country: DO
+owner-phone: +809.3058585029
+owner-fax:
+owner-email: viviantorres70@hotmail.com
+
+admin-organization: LA CASA DE LOS TRUCOS
+admin-name: VIVIAN TORRES
+admin-street: 1343 SW 8TH ST.
+admin-city: MIAMI
+admin-state: FL
+admin-zip: 33135
+admin-country: DO
+admin-phone: +809.3058585029
+admin-fax:
+admin-email: sales@cavallocomm.com
+
+tech-organization: Cavallo Communications
+tech-name: Cavallo Communications LLC
+tech-street: 681 Haddon Avenue ,
+tech-city: Collingswood
+tech-state: NJ
+tech-zip: 08108
+tech-country: US
+tech-phone: +1.8004537811
+tech-fax:
+tech-email: sales@cavallocomm.com
+
+billing-organization: LA CASA DE LOS TRUCOS
+billing-name: VIVIAN TORRES
+billing-street: 8345 SW 174 TERR
+billing-city: MIAMI
+billing-state: FL
+billing-zip: 33157
+billing-country: US
+billing-phone: +1.3058585029
+billing-fax:
+billing-email: viviantorres70@hotmail.com
+
+nameserver: ns1.peer1.net
+nameserver: ns2.peer1.net
+
+

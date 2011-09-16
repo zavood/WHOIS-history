@@ -5,20 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: COMMODORE-AMIGA-RETRO.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
-   Name Server: NS.123-REG.CO.UK
-   Name Server: NS2.123-REG.CO.UK
-   Status: clientDeleteProhibited
+   Domain Name: JAYDANLEE.COM
+   Registrar: TPP DOMAINS PTY LTD. DBA TPP INTERNET
+   Whois Server: whois.tppinternet.com
+   Referral URL: http://www.tppinternet.com
+   Name Server: NS1.HOSTINGBAY.NET
+   Name Server: NS2.HOSTINGBAY.NET
+   Name Server: NS3.HOSTINGBAY.NET
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 19-mar-2008
-   Creation Date: 31-dec-2005
-   Expiration Date: 31-dec-2012
+   Updated Date: 02-dec-2010
+   Creation Date: 03-mar-2010
+   Expiration Date: 03-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 03:47:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 03:47:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
