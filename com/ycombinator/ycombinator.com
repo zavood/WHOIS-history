@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 20-mar-2005
    Expiration Date: 20-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 00:04:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:34:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,4 +56,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Too many lookups from this IP today. See you tomorrow.P.S. Keep doing this and we will blackhole you. Thankyouverymuch
+Registrant:
+ Y Combinator LLC
+ 320 Pioneer Way
+ Mountain View, CA 94041
+ US
+
+ Domain name: YCOMBINATOR.COM
+
+
+ Administrative Contact:
+    Nathoo, Kirsty  kirsty@ycombinator.com
+    320 Pioneer Way
+    Mountain View, CA 94041
+    US
+    +1.4159902747
+ Technical Contact:
+    Morris, Robert  rtm@ycombinator.com
+    32 Pioneer Way
+    Mountain View, CA 94041
+    US
+    +1.6172535983
+
+
+ Registrar of Record: easyDNS Technologies, Inc.
+ Record last updated on 26-Apr-2011.
+ Record expires on 20-Mar-2012.
+ Record created on 20-Mar-2005.
+
+ Domain servers in listed order:
+    NS2.EASYDNS.COM   72.52.2.1
+    NS3.EASYDNS.ORG   64.68.192.10
+    NS6.EASYDNS.NET   72.52.2.1
+    REMOTE2.EASYDNS.COM   72.52.2.1
+    REMOTE1.EASYDNS.COM   64.68.192.10
+    NS1.EASYDNS.COM   64.68.192.10
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns
+  or Identi.ca http://identi.ca/easyDNS )
+
+
+You have 4 lookups left today

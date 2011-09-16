@@ -1,0 +1,45 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         quoka.at
+registrant:     QVG1909558-NICAT
+admin-c:        QVG1909558-NICAT
+tech-c:         QVG1909558-NICAT
+nserver:        janus.quoka.com
+nserver:        ns10.ns14.de
+changed:        20050621 12:51:15
+source:         AT-DOM
+
+personname:     Klaus Spangenmacher
+organization:   Quoka Verlag GmbH
+street address: Chemiestr. 14-15
+postal code:    68623
+city:           Lampertheim
+country:        Germany
+phone:          +496206931176
+fax-no:         +496206931193
+e-mail:         domainregverlag@quoka.com
+nic-hdl:        QVG1909558-NICAT
+changed:        20060927 13:26:15
+source:         AT-DOM
+

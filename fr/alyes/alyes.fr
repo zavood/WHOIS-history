@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; alyes.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      alyes.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     JR1723-FRNIC
+tech-c:      AF307-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2890-FRNIC
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+anniversary: 08/03
+created:     08/03/2010
+last-update: 04/04/2010
+source:      FRNIC
+
+ns-list:     NSL2890-FRNIC
+nserver:     ns1.infomaniak.ch
+nserver:     ns2.infomaniak.ch
+source:      FRNIC
+
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+type:        Isp Option 1
+address:     12-14, Rond-point des Champs Elys&eacute;es
+address:     PARIS
+country:     FR
+phone:       0 892 55 66 77
+fax-no:      +33 1 40 87 76 89
+e-mail:      afnic@amen.fr
+website:     http://www.amen.fr
+anonymous:   NO
+registered:  17/01/1999
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     07/05/2009 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JR1723-FRNIC
+type:        PERSON
+contact:     Jeremy Roger
+address:     JEREMY, ROGER
+address:     B.P. 27
+address:     83740 la Cadiere Dazur
+country:     FR
+phone:       +33 6 88 43 12 67
+e-mail:      contact@jeremyroger.fr
+changed:     07/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AF307-FRNIC
+type:        ROLE
+contact:     AMEN France
+address:     Departement Noms de domaine
+address:     12, Rond-Point des Champs-Elysees
+address:     75008 Paris
+country:     FR
+phone:       +33 8 92 55 66 77
+e-mail:      afnic@amen.fr
+admin-c:     AF307-FRNIC
+tech-c:      AF307-FRNIC
+changed:     22/08/2008 afnic@amen.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D86819953-LROR
+Domain Name:P1981.ORG
+Created On:22-May-2002 04:59:17 UTC
+Last Updated On:17-May-2011 07:47:12 UTC
+Expiration Date:22-May-2012 04:59:17 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuICL6mxhlQL3nrs
+Registrant Name:han MinHyoung
+Registrant Organization:pcts1981
+Registrant Street1:Huam-dong Yongsan-gu
+Registrant Street2:
+Registrant Street3:
+Registrant City:SEOUL
+Registrant State/Province:SEOUL
+Registrant Postal Code:140-899
+Registrant Country:KR
+Registrant Phone:+82.27551003
+Registrant Phone Ext.:
+Registrant FAX:+82.27551009
+Registrant FAX Ext.:
+Registrant Email:mtms@korea.com
+Admin ID:tuICL6mxhlQL3nrs
+Admin Name:han MinHyoung
+Admin Organization:pcts1981
+Admin Street1:Huam-dong Yongsan-gu
+Admin Street2:
+Admin Street3:
+Admin City:SEOUL
+Admin State/Province:SEOUL
+Admin Postal Code:140-899
+Admin Country:KR
+Admin Phone:+82.27551003
+Admin Phone Ext.:
+Admin FAX:+82.27551009
+Admin FAX Ext.:
+Admin Email:mtms@korea.com
+Tech ID:tufdf4EhzexJROJn
+Tech Name:Seunghyun Cho
+Tech Organization:Jungbonet
+Tech Street1:7th FL JEI BD 1294-3 Baeksuk Ilsan
+Tech Street2:
+Tech Street3:
+Tech City:Goyang
+Tech State/Province:Gyunggi
+Tech Postal Code:411-816
+Tech Country:KR
+Tech Phone:+82.319076472
+Tech Phone Ext.:
+Tech FAX:+82.319072054
+Tech FAX Ext.:
+Tech Email:jungbo@jungbo.net
+Name Server:NS.NSKOREA.COM
+Name Server:NS2.NSKOREA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D71016732-LROR
+Domain Name:HCDNNJ.ORG
+Created On:18-May-2001 20:13:16 UTC
+Last Updated On:19-Apr-2011 16:43:37 UTC
+Expiration Date:18-May-2013 20:13:16 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tu9W4j9ljAjwF129
+Registrant Name:Michelle McDonald
+Registrant Organization:Housing and Community Development Network of NJ
+Registrant Street1:145 West Hanover St
+Registrant Street2:
+Registrant Street3:
+Registrant City:Trenton
+Registrant State/Province:NJ
+Registrant Postal Code:08618
+Registrant Country:US
+Registrant Phone:+1.6093933752
+Registrant Phone Ext.:34
+Registrant FAX:+1.6093939016
+Registrant FAX Ext.:
+Registrant Email:michelle.mcdonald@hcdnnj.org
+Admin ID:tuBzi9QzxlRkpjZY
+Admin Name:Michelle McDonald
+Admin Organization:Housing and Community Development Network of NJ
+Admin Street1:145 West Hanover St
+Admin Street2:
+Admin Street3:
+Admin City:Trenton
+Admin State/Province:NJ
+Admin Postal Code:08618
+Admin Country:US
+Admin Phone:+1.6093933752
+Admin Phone Ext.:34
+Admin FAX:+1.6093939016
+Admin FAX Ext.:
+Admin Email:michelle.mcdonald@hcdnnj.org
+Tech ID:tuuPaosO2EJq9BsV
+Tech Name:Gregory Baber
+Tech Organization:SteelBridge Networks, LLC
+Tech Street1:Box 305
+Tech Street2:
+Tech Street3:
+Tech City:Washington Crossing
+Tech State/Province:PA
+Tech Postal Code:18977-0305
+Tech Country:US
+Tech Phone:+1.2154314411
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:greg.baber@steelbridgewireless.com
+Name Server:NS1.MEMBERCLICKS.COM
+Name Server:NS2.MEMBERCLICKS.COM
+Name Server:NS3.MEMBERCLICKS.COM
+Name Server:NS4.MEMBERCLICKS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

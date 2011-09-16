@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161348900-LROR
+Domain Name:XINJ.ORG
+Created On:29-Jan-2011 11:03:56 UTC
+Last Updated On:31-Mar-2011 03:49:28 UTC
+Expiration Date:29-Jan-2012 11:03:56 UTC
+Sponsoring Registrar:Bizcn.com, Inc. (R1248-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:orghx96299033894
+Registrant Name:hu xiaoqiang
+Registrant Organization:hu xiaoqiang
+Registrant Street1:shanxishengyunchengshixinjiangxianwananzhenzhaocun
+Registrant Street2:
+Registrant Street3:
+Registrant City:beijing
+Registrant State/Province:beijing
+Registrant Postal Code:043100
+Registrant Country:CN
+Registrant Phone:+86.18701311834
+Registrant Phone Ext.:
+Registrant FAX:+86.18701311834
+Registrant FAX Ext.:
+Registrant Email:412413286@qq.com
+Admin ID:orghx96299034215
+Admin Name:hu xiaoqiang
+Admin Organization:hu xiaoqiang
+Admin Street1:shanxishengyunchengshixinjiangxianwananzhenzhaocun
+Admin Street2:
+Admin Street3:
+Admin City:beijing
+Admin State/Province:beijing
+Admin Postal Code:043100
+Admin Country:CN
+Admin Phone:+86.18701311834
+Admin Phone Ext.:
+Admin FAX:+86.18701311834
+Admin FAX Ext.:
+Admin Email:412413286@qq.com
+Tech ID:orghx96299034488
+Tech Name:hu xiaoqiang
+Tech Organization:hu xiaoqiang
+Tech Street1:shanxishengyunchengshixinjiangxianwananzhenzhaocun
+Tech Street2:
+Tech Street3:
+Tech City:beijing
+Tech State/Province:beijing
+Tech Postal Code:043100
+Tech Country:CN
+Tech Phone:+86.18701311834
+Tech Phone Ext.:
+Tech FAX:+86.18701311834
+Tech FAX Ext.:
+Tech Email:412413286@qq.com
+Name Server:NS8.CDNCENTER.COM
+Name Server:NS7.CDNCENTER.COM
+Name Server:NS9.CDNCENTER.COM
+Name Server:NS10.CDNCENTER.COM
+Name Server:NS11.CDNCENTER.COM
+Name Server:NS12.CDNCENTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

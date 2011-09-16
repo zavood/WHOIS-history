@@ -1,0 +1,52 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 06:26:32 2011
+
+domain:       doom.cz
+registrant:   BELIEVE
+admin-c:      BELIEVE
+nsset:        DOMENA_SHOP
+registrar:    REG-WEDOS
+status:       paid and in zone
+registered:   13.12.2010 14:08:16
+changed:      26.01.2011 13:55:06
+expire:       13.12.2012
+
+contact:      BELIEVE
+name:         Lubo&Aring;&iexcl; Bet&Atilde;&iexcl;k
+address:      Borov&Atilde;&iexcl; 134
+address:      Strakonice
+address:      386 01
+address:      CZ
+e-mail:       domeny@believe.cz
+registrar:    REG-WEDOS
+created:      19.12.2008 12:06:17
+changed:      17.07.2011 12:04:16
+
+nsset:        DOMENA_SHOP
+nserver:      ns.wedos.net
+nserver:      ns.wedos.eu
+nserver:      ns.wedos.com
+nserver:      ns.wedos.cz (46.28.104.67, 2a02:2b88:1:1::2)
+tech-c:       BELIEVE
+registrar:    REG-WEDOS
+created:      12.03.2010 14:54:08
+changed:      20.01.2011 20:10:36
+
+

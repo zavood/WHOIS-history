@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D447786-LROR
+Domain Name:CJP.ORG
+Created On:28-Oct-1995 04:00:00 UTC
+Last Updated On:08-Jan-2011 03:10:18 UTC
+Expiration Date:27-Oct-2017 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30938038-NSI
+Registrant Name:Combined Jewish Philanthropies
+Registrant Organization:Combined Jewish Philanthropies
+Registrant Street1:126 High Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Boston
+Registrant State/Province:MA
+Registrant Postal Code:02110
+Registrant Country:US
+Registrant Phone:+1.61745785
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:peterf@CJP.ORG
+Admin ID:30938038-NSI
+Admin Name:Combined Jewish Philanthropies
+Admin Organization:Combined Jewish Philanthropies
+Admin Street1:126 High Street
+Admin Street2:
+Admin Street3:
+Admin City:Boston
+Admin State/Province:MA
+Admin Postal Code:02110
+Admin Country:US
+Admin Phone:+1.61745785
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:peterf@CJP.ORG
+Tech ID:30938038-NSI
+Tech Name:Combined Jewish Philanthropies
+Tech Organization:Combined Jewish Philanthropies
+Tech Street1:126 High Street
+Tech Street2:
+Tech Street3:
+Tech City:Boston
+Tech State/Province:MA
+Tech Postal Code:02110
+Tech Country:US
+Tech Phone:+1.61745785
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:peterf@CJP.ORG
+Name Server:NS2.DSCI-NET.COM
+Name Server:NS1.DSCI-NET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

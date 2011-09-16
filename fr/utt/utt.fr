@@ -1,0 +1,144 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; utt.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      utt.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UDTD6-FRNIC
+admin-c:     CL2253-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      VT20-FRNIC
+tech-c:      AE78-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6689-FRNIC
+registrar:   RENATER
+anniversary: 16/03
+created:     16/03/2001
+last-update: 04/08/2006
+source:      FRNIC
+
+ns-list:     NSL6689-FRNIC
+nserver:     pluton.utt.fr [193.50.230.240]
+nserver:     uran01.utt.fr [194.254.213.1]
+nserver:     orion.utc.fr [195.83.155.16]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     UDTD6-FRNIC
+type:        ORGANIZATION
+contact:     Universite de Technologie de Troyes
+address:     12, rue Marie Curie
+address:     B.P. 2060
+address:     10010 Troyes Cedex
+country:     FR
+phone:       +33 3 25 71 76 00
+fax-no:      +33 3 25 71 76 76
+e-mail:      president@utt.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CL2253-FRNIC
+type:        PERSON
+contact:     Christian Lerminiaux
+address:     Univ. de Technologies de Troyes
+address:     12, rue Marie Curie
+address:     10010 Troyes Cedex
+country:     FR
+phone:       +33 3 25 71 76 00
+fax-no:      +33 3 25 71 76 76
+e-mail:      president@utt.fr
+changed:     03/08/2006 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     VT20-FRNIC
+type:        PERSON
+contact:     Valerie Thevenin
+address:     Universite de Technologie de Troyes
+address:     12, rue Marie Curie
+address:     B.P. 2060
+address:     10010 Troyes Cedex
+country:     FR
+phone:       +33 3 25 71 76 00
+fax-no:      +33 3 25 71 76 76
+e-mail:      thevenin@utt.fr
+notify:      domaine@renater.fr
+changed:     27/01/2004 thevenin@univ-troyes.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AE78-FRNIC
+type:        PERSON
+contact:     Arthur Ebel
+address:     Univ. de Technologie de Troyes
+address:     12, rue Marie Curie
+address:     B.P. 2060
+address:     10010 Troyes Cedex
+country:     FR
+phone:       +33 3 25 71 76 00
+fax-no:      +33 3 25 71 76 76
+e-mail:      arthur.ebel@utt.fr
+changed:     24/12/2003 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6595061-LROR
+Domain Name:JFGA.ORG
+Created On:18-May-1999 23:05:52 UTC
+Last Updated On:05-Dec-2008 16:46:19 UTC
+Expiration Date:18-May-2014 23:06:28 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30902790-NSI
+Registrant Name:Atlanta Jewish Federation
+Registrant Organization:Atlanta Jewish Federation
+Registrant Street1:1440 SPRING STREET N.W.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Atlanta
+Registrant State/Province:GA
+Registrant Postal Code:30309
+Registrant Country:US
+Registrant Phone:+1.4048731661
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:administrator@JFGA.ORG
+Admin ID:36192661-NSI
+Admin Name:Anna Angelova
+Admin Organization:JFGA
+Admin Street1:1440 Spring Street NW
+Admin Street2:
+Admin Street3:
+Admin City:Atlanta
+Admin State/Province:GA
+Admin Postal Code:30309
+Admin Country:US
+Admin Phone:+1.404870160
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:aangelova@jfga.org
+Tech ID:30902790-NSI
+Tech Name:Atlanta Jewish Federation
+Tech Organization:Atlanta Jewish Federation
+Tech Street1:1440 SPRING STREET N.W.
+Tech Street2:
+Tech Street3:
+Tech City:Atlanta
+Tech State/Province:GA
+Tech Postal Code:30309
+Tech Country:US
+Tech Phone:+1.4048731661
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:administrator@JFGA.ORG
+Name Server:DNS1.BROADRIVER.COM
+Name Server:DNS2.BROADRIVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

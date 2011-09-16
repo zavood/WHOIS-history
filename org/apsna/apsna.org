@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98202358-LROR
+Domain Name:APSNA.ORG
+Created On:27-May-2003 16:15:30 UTC
+Last Updated On:21-Jan-2011 00:25:10 UTC
+Expiration Date:27-May-2014 16:15:30 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR67384300
+Registrant Name:TRIAD Communications
+Registrant Street1:1105 Overlook
+Registrant Street2:
+Registrant Street3:
+Registrant City:Romansville
+Registrant State/Province:Pennsylvania
+Registrant Postal Code:19320
+Registrant Country:US
+Registrant Phone:+1.6104866238
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:gdaney@comcast.net
+Admin ID:CR67384304
+Admin Name:TRIAD Communications
+Admin Street1:1105 Overlook
+Admin Street2:
+Admin Street3:
+Admin City:Romansville
+Admin State/Province:Pennsylvania
+Admin Postal Code:19320
+Admin Country:US
+Admin Phone:+1.6104866238
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gdaney@comcast.net
+Tech ID:CR67384302
+Tech Name:TRIAD Communications
+Tech Street1:1105 Overlook
+Tech Street2:
+Tech Street3:
+Tech City:Romansville
+Tech State/Province:Pennsylvania
+Tech Postal Code:19320
+Tech Country:US
+Tech Phone:+1.6104866238
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:gdaney@comcast.net
+Name Server:NS1.MEMBERCLICKS.COM
+Name Server:NS2.MEMBERCLICKS.COM
+Name Server:NS3.MEMBERCLICKS.COM
+Name Server:NS4.MEMBERCLICKS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
