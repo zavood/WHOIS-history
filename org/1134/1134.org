@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104806869-LROR
+Domain Name:1134.ORG
+Created On:25-Aug-2004 21:15:46 UTC
+Last Updated On:26-Aug-2011 01:22:54 UTC
+Expiration Date:25-Aug-2012 21:15:46 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:DOT-Z3RXM6X62PN3
+Registrant Name:Stan Schwarz
+Registrant Street1:525 S. Wilson Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Pasadena
+Registrant State/Province:CA
+Registrant Postal Code:91106
+Registrant Country:US
+Registrant Phone:+1.6262961216
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:stan@its.caltech.edu
+Admin ID:DOT-4CAV5RF5MELF
+Admin Name:Stan Schwarz
+Admin Street1:525 S. Wilson Ave
+Admin Street2:
+Admin Street3:
+Admin City:Pasadena
+Admin State/Province:CA
+Admin Postal Code:91106
+Admin Country:US
+Admin Phone:+1.6262961216
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:stan@its.caltech.edu
+Tech ID:DOT-2HPOCOWJQX57
+Tech Name:Stan Schwarz
+Tech Street1:525 S. Wilson Ave
+Tech Street2:
+Tech Street3:
+Tech City:Pasadena
+Tech State/Province:CA
+Tech Postal Code:91106
+Tech Country:US
+Tech Phone:+1.6262961216
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:stan@its.caltech.edu
+Name Server:NS2.PHPWEBHOSTING.COM
+Name Server:NS1.PHPWEBHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

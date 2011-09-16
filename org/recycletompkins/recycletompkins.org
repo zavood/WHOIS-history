@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D130605187-LROR
+Domain Name:RECYCLETOMPKINS.ORG
+Created On:12-Oct-2006 16:15:29 UTC
+Last Updated On:24-Aug-2011 13:29:37 UTC
+Expiration Date:12-Oct-2012 16:15:29 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-2SW92WXM9RMH
+Registrant Name:Barbara Eckstrom
+Registrant Organization:Tompkins County Solid Waste
+Registrant Street1:122 Commercial Ave.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ithaca
+Registrant State/Province:NY
+Registrant Postal Code:14850
+Registrant Country:US
+Registrant Phone:+1.6072736632
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:beckstrom@tompkins-co.org
+Admin ID:DOT-4XD63Z53QPU6
+Admin Name:Barbara Eckstrom
+Admin Organization:Tompkins County Solid Waste
+Admin Street1:122 Commercial Ave.
+Admin Street2:
+Admin Street3:
+Admin City:Ithaca
+Admin State/Province:NY
+Admin Postal Code:14850
+Admin Country:US
+Admin Phone:+1.6072736632
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:beckstrom@tompkins-co.org
+Tech ID:DOT-EZ70IB1DEA31
+Tech Name:Barbara Eckstrom
+Tech Organization:Tompkins County Solid Waste
+Tech Street1:122 Commercial Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Ithaca
+Tech State/Province:NY
+Tech Postal Code:14850
+Tech Country:US
+Tech Phone:+1.6072736632
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:beckstrom@tompkins-co.org
+Name Server:NS1.DATA3M2.COM
+Name Server:NS2.DATA3M2.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

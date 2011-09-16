@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 24-mar-1996
    Expiration Date: 25-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:06:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 17:40:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -113,8 +113,8 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns5.infospace.com
     ns4.infospace.com
+    ns5.infospace.com
 
 
 

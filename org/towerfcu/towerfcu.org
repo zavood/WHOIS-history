@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2838295-LROR
+Domain Name:TOWERFCU.ORG
+Created On:26-Sep-1995 04:00:00 UTC
+Last Updated On:24-Aug-2011 09:13:34 UTC
+Expiration Date:25-Sep-2012 04:00:00 UTC
+Sponsoring Registrar:MarkMonitor Inc. (R37-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:mmr-44904
+Registrant Name:domain admin
+Registrant Organization:Tower FCU
+Registrant Street1:7901 Sandy Spring Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Laurel
+Registrant State/Province:MD
+Registrant Postal Code:20707
+Registrant Country:US
+Registrant Phone:+1.999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:custserv@markmonitor.com
+Admin ID:mmr-45877
+Admin Name:Digital Hostmaster
+Admin Organization:Digital Insight
+Admin Street1:26025 Mureau Road
+Admin Street2:
+Admin Street3:
+Admin City:Calabasas
+Admin State/Province:ca
+Admin Postal Code:91302
+Admin Country:US
+Admin Phone:+1.8185976425
+Admin Phone Ext.:
+Admin FAX:+1.8188787555
+Admin FAX Ext.:
+Admin Email:services.management@digitalinsight.com
+Tech ID:mmr-45877
+Tech Name:Digital Hostmaster
+Tech Organization:Digital Insight
+Tech Street1:26025 Mureau Road
+Tech Street2:
+Tech Street3:
+Tech City:Calabasas
+Tech State/Province:ca
+Tech Postal Code:91302
+Tech Country:US
+Tech Phone:+1.8185976425
+Tech Phone Ext.:
+Tech FAX:+1.8188787555
+Tech FAX Ext.:
+Tech Email:services.management@digitalinsight.com
+Name Server:NS1.DIGINSITE.COM
+Name Server:NS2.DIGINSITE.COM
+Name Server:NS3.DIGINSITE.COM
+Name Server:NS4.DIGINSITE.COM
+Name Server:NS5.DIGINSITE.COM
+Name Server:NS6.DIGINSITE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

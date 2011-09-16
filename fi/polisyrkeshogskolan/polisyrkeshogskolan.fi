@@ -1,0 +1,21 @@
+
+domain:   polisyrkeshogskolan.fi
+descr:    Poliisiammattikorkeakoulu
+descr:    21531054
+address:  Viestint&auml;
+address:  PL 123
+address:  33721
+address:  TAMPERE
+phone:    0718780121
+status:   Granted
+created:  14.4.2010
+expires:  14.4.2015
+nserver: ns1.inet.intermin.fi [OK]
+nserver: ns1-fin.global.sonera.fi [OK]
+nserver: ns1-swe.global.sonera.se [OK]
+nserver: ns2.inet.intermin.fi [OK]
+nserver: ns2-fin.global.sonera.fi [OK]
+nserver: ns2-usa.global.sonera.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 14:41:47 (BRT -03:00)
+
+domain:      zonamix.com.br
+owner:       Jo&atilde;o Paulo Rego Magalh&atilde;es
+ownerid:     007.135.134/0001-69
+responsible: Jo&atilde;o Paulo
+country:     BR
+owner-c:     JPRMA
+admin-c:     JPRMA
+tech-c:      JPRMA
+billing-c:   JPRMA
+nserver:     ns1.dominios.uol.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.dominios.uol.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.dominios.uol.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20050324 #2064776
+expires:     20120324
+changed:     20110317
+status:      published
+
+nic-hdl-br:  JPRMA
+person:      Jo&atilde;o Paulo R&ecirc;go Magalh&atilde;es
+e-mail:      jprmrego@uol.com.br
+created:     20060707
+changed:     20060707
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

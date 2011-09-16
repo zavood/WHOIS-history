@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D121005779-LROR
+Domain Name:ZPTO.ORG
+Created On:25-Apr-2006 05:02:21 UTC
+Last Updated On:26-Apr-2011 01:22:24 UTC
+Expiration Date:25-Apr-2012 05:02:21 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ABM-10709320
+Registrant Name:Owner StdLogDMAM
+Registrant Organization:Privacy Register Services
+Registrant Street1:PO Box 609
+Registrant Street2:
+Registrant Street3:
+Registrant City:Camberwell
+Registrant State/Province:Victoria
+Registrant Postal Code:3124
+Registrant Country:AU
+Registrant Phone:+61.39000
+Registrant Phone Ext.:
+Registrant FAX:+61.39000
+Registrant FAX Ext.:
+Registrant Email:domainowners@privacyregister.net
+Admin ID:ABM-10709325
+Admin Name:Domain AdminDMAM
+Admin Organization:Privacy Register Services
+Admin Street1:PO Box 609
+Admin Street2:
+Admin Street3:
+Admin City:Camberwell
+Admin State/Province:Victoria
+Admin Postal Code:3124
+Admin Country:AU
+Admin Phone:+61.39000
+Admin Phone Ext.:
+Admin FAX:+61.39000
+Admin FAX Ext.:
+Admin Email:domainadmin@privacyregister.net
+Tech ID:ABM-10709325
+Tech Name:Domain AdminDMAM
+Tech Organization:Privacy Register Services
+Tech Street1:PO Box 609
+Tech Street2:
+Tech Street3:
+Tech City:Camberwell
+Tech State/Province:Victoria
+Tech Postal Code:3124
+Tech Country:AU
+Tech Phone:+61.39000
+Tech Phone Ext.:
+Tech FAX:+61.39000
+Tech FAX Ext.:
+Tech Email:domainadmin@privacyregister.net
+Name Server:NS1.PARKLOGIC.COM
+Name Server:NS2.PARKLOGIC.COM
+Name Server:NS3.PARKLOGIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

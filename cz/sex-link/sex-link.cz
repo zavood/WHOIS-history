@@ -1,0 +1,73 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 19:35:24 2011
+
+domain:       sex-link.cz
+registrant:   SB:ORBITER-LE-SU
+nsset:        NSS:ORBITER:1
+registrar:    REG-GRANSY
+status:       paid and in zone
+registered:   21.10.2007 22:36:29
+expire:       21.10.2011
+
+contact:      SB:ORBITER-LE-SU
+name:         Milan Le
+address:      Nov&Atilde;&iexcl; Pra&Aring;&frac34;sk&Atilde;&iexcl; 1647
+address:      Bene&Aring;&iexcl;ov
+address:      25601
+address:      CZ
+e-mail:       info@zakulisi.cz
+registrar:    REG-INTERNET-CZ
+created:      22.02.2006 14:45:00
+changed:      19.02.2007 15:35:00
+
+nsset:        NSS:ORBITER:1
+nserver:      ns.forpsi.net
+nserver:      ns.forpsi.cz
+nserver:      ns.forpsi.us
+nserver:      ns.forpsi.cn
+tech-c:       ORBITER_CONTACT
+tech-c:       SB:ORBITER
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 02:00:00
+
+contact:      ORBITER_CONTACT
+org:          Orbiter s.r.o.
+name:         Pavel &Aring;&nbsp;mejkal
+address:      Nepelova 950/4
+address:      Praha 9
+address:      19800
+address:      CZ
+phone:        +420.777244559
+e-mail:       info@orbiter.cz
+registrar:    REG-GRANSY
+created:      27.10.2005 15:25:00
+changed:      25.05.2010 13:48:52
+
+contact:      SB:ORBITER
+name:         Pavel &Aring;&nbsp;mejkal
+address:      Ve struh&Atilde;&iexcl;ch 107
+address:      T&Atilde;&iexcl;bor
+address:      39003
+address:      CZ
+e-mail:       pavel.smejkal@tricube.cz
+registrar:    REG-INTERNET-CZ
+created:      27.10.2005 15:25:00
+
+

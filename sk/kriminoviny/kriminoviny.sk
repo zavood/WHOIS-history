@@ -1,0 +1,25 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         kriminoviny.sk
+Admin-id            GLOB-0022
+Admin-name          Dusan Cernak - Globnet
+Admin-legal-form    zivnost
+Admin-org.-ID       40091830
+Admin-address       Sladkovicova 50, Banska Bystrica 97405
+Admin-telephone     0949325900
+Admin-email         cernak.sk@gmail.com
+Tech-id             YEGO-0001
+Tech-name           Yegon s.r.o.
+Tech-org.-ID        35797924
+Tech-address        Ruzova dolina 6, Bratislava 82108
+Tech-telephone      02/20633171, 0905 612570
+Tech-email          registrator@yegon.sk
+dns_name            ns1.hostmonster.com
+dns_name            ns2.hostmonster.com
+Last-update         2011-06-17
+Valid-date          2012-07-06
+Domain-status       DOM_OK
+

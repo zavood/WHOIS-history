@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104971199-LROR
+Domain Name:DOTFORCE.ORG
+Created On:06-Oct-2004 18:50:04 UTC
+Last Updated On:15-Aug-2011 10:46:21 UTC
+Expiration Date:06-Oct-2012 18:50:04 UTC
+Sponsoring Registrar:Blue Razor Domains, Inc. (R1268-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33487664
+Registrant Name:J B
+Registrant Organization:venusian.com
+Registrant Street1:Noeregade 55,4.tv
+Registrant Street2:
+Registrant Street3:
+Registrant City:Aarhus
+Registrant State/Province:
+Registrant Postal Code:8000
+Registrant Country:DK
+Registrant Phone:+86.125326
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jb@graphix.dk
+Admin ID:CR33487666
+Admin Name:J B
+Admin Organization:venusian.com
+Admin Street1:Noeregade 55,4.tv
+Admin Street2:
+Admin Street3:
+Admin City:Aarhus
+Admin State/Province:
+Admin Postal Code:8000
+Admin Country:DK
+Admin Phone:+86.125326
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jb@graphix.dk
+Tech ID:CR33487665
+Tech Name:J B
+Tech Organization:venusian.com
+Tech Street1:Noeregade 55,4.tv
+Tech Street2:
+Tech Street3:
+Tech City:Aarhus
+Tech State/Province:
+Tech Postal Code:8000
+Tech Country:DK
+Tech Phone:+86.125326
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jb@graphix.dk
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

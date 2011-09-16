@@ -1,0 +1,21 @@
+
+domain:   sjoraddningscentral.fi
+descr:    Hallinnon tietotekniikkakeskus
+descr:    02460035
+address:  RVHP
+address:  PL 191
+address:  01301
+address:  VANTAA
+phone:    0718787680
+status:   Granted
+created:  23.11.2005
+expires:  23.11.2011
+nserver: ns1.inet.intermin.fi [OK]
+nserver: ns1-fin.global.sonera.fi [OK]
+nserver: ns1-swe.global.sonera.se [OK]
+nserver: ns2.inet.intermin.fi [OK]
+nserver: ns2-fin.global.sonera.fi [OK]
+nserver: ns2-usa.global.sonera.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

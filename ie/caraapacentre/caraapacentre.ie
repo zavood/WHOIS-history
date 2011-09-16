@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      caraapacentre.ie
+descr:       Institute of Technology Tralee
+descr:       School/Educational Institution
+descr:       Discretionary Name
+admin-c:     AHO164-IEDR
+tech-c:      ABG704-IEDR
+renewal:     29-August-2012
+status:      Active
+nserver:     ns1.bluehost.com
+nserver:     ns2.bluehost.com
+source:      IEDR
+
+person:      Niamh Daffy
+nic-hdl:     AHO164-IEDR
+source:      IEDR
+
+person:      Lets Host Domain Services
+nic-hdl:     ABG704-IEDR
+source:      IEDR
+

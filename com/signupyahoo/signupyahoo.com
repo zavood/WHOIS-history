@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 15-jul-2005
    Expiration Date: 15-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 06:10:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 17:40:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,10 +117,10 @@ Registrant:
     Domain servers in listed order:
 
     ns3.yahoo.com
-    ns5.yahoo.com
     ns1.yahoo.com
-    ns2.yahoo.com
     ns7.yahoo.com
+    ns2.yahoo.com
+    ns5.yahoo.com
 
 
 

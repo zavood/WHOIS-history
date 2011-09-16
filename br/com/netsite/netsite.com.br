@@ -1,0 +1,61 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 14:47:26 (BRT -03:00)
+
+domain:      netsite.com.br
+owner:       CTBC MULTIM&Iacute;DIA DATA NET S/A
+ownerid:     004.622.116/0001-13
+responsible: S&eacute;rgio Schwetter Silva
+country:     BR
+owner-c:     AIC99
+admin-c:     NSS71
+tech-c:      NSS70
+billing-c:   NSS69
+nserver:     serv1.netsite.com.br 200.187.175.1
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     serv2.netsite.com.br 200.187.175.2
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     19951023 #4355
+expires:     20191023
+changed:     20091112
+status:      published
+
+nic-hdl-br:  AIC99
+person:      Administra&ccedil;&atilde;o IP SP CTBC
+e-mail:      registro@netsite.com.br
+created:     20060531
+changed:     20110223
+
+nic-hdl-br:  NSS69
+person:      NET SITE S/A
+e-mail:      registro@netsite.com.br
+created:     20030711
+changed:     20110223
+
+nic-hdl-br:  NSS70
+person:      NET SITE S/A
+e-mail:      registro@netsite.com.br
+created:     20030711
+changed:     20060803
+
+nic-hdl-br:  NSS71
+person:      NET SITE S/A
+e-mail:      registro@netsite.com.br
+created:     20030711
+changed:     20080508
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

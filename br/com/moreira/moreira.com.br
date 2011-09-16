@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 14:31:12 (BRT -03:00)
+
+domain:      moreira.com.br
+owner:       Supermercado Moreira Ltda
+ownerid:     000.148.007/0001-55
+responsible: Ronnie Von Luiz Amaral
+country:     BR
+owner-c:     SML299
+admin-c:     SML299
+tech-c:      SML299
+billing-c:   SML299
+nserver:     dns1.superdns.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     dns2.superdns.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     19981130 #129728
+expires:     20111130
+changed:     20110218
+status:      published
+
+nic-hdl-br:  SML299
+person:      Supermercado Moreira Ltda
+e-mail:      daniel.lima@moreira.com.br
+created:     20040615
+changed:     20110804
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

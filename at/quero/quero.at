@@ -1,0 +1,54 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         quero.at
+registrant:     VK1512872-NICAT
+admin-c:        VK1512872-NICAT
+tech-c:         ML991971-NICAT
+nserver:        ns1.variomedia.de
+remarks:        81.28.224.2
+nserver:        ns2.variomedia.de
+remarks:        217.27.197.130
+changed:        20041005 18:49:10
+source:         AT-DOM
+
+personname:     Viktor Krammer
+organization:
+street address: Kaiserstr. 28/2/7
+postal code:    1070
+city:           Wien
+country:        Austria
+nic-hdl:        VK1512872-NICAT
+changed:        20070607 20:37:43
+source:         AT-DOM
+
+personname:     Marten Lehmann
+organization:   Variomedia IT-Service GmbH
+street address: August-Bebel-Strasse 68
+postal code:    14482
+city:           Potsdam
+country:        Germany
+nic-hdl:        ML991971-NICAT
+changed:        20070607 20:32:06
+source:         AT-DOM
+

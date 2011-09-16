@@ -1,0 +1,21 @@
+
+domain:   poliisinpaiva.fi
+descr:    Hallinnon tietotekniikkakeskus
+descr:    02459923
+address:  Runkoverkonhallintapalvelut
+address:  PL 56
+address:  96301
+address:  Rovaniemi
+phone:    0718787680
+status:   Granted
+created:  25.5.2009
+expires:  25.5.2012
+nserver: ns1.inet.intermin.fi [OK]
+nserver: ns1-fin.global.sonera.fi [OK]
+nserver: ns1-swe.global.sonera.se [OK]
+nserver: ns2.inet.intermin.fi [OK]
+nserver: ns2-fin.global.sonera.fi [OK]
+nserver: ns2-usa.global.sonera.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

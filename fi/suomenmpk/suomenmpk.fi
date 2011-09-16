@@ -1,0 +1,21 @@
+
+domain:   suomenmpk.fi
+descr:    Etel&auml;-Savon ELY- keskus/AHTI
+descr:    22969621
+address:  IT-Infra/Tietoliikennetiimi
+address:  PL 164
+address:  50101
+address:  Mikkeli
+phone:    0443809216, 0405055330, 0405525284
+status:   Granted
+created:  17.11.2010
+expires:  19.11.2015
+nserver: ns1.inet.intermin.fi [OK]
+nserver: ns1-fin.global.sonera.fi [OK]
+nserver: ns1-swe.global.sonera.se [OK]
+nserver: ns2.inet.intermin.fi [OK]
+nserver: ns2-fin.global.sonera.fi [OK]
+nserver: ns2-usa.global.sonera.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

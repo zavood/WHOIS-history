@@ -1,0 +1,22 @@
+
+domain:   l&auml;&auml;ninhallitus.fi
+domain:   xn--lninhallitus-gcba.fi
+descr:    L&auml;&auml;ninhallinnon tietohallinto
+descr:    10948225
+address:  Arto Nyk&auml;nen
+address:  PL 50
+address:  50101
+address:  Mikkeli
+phone:    0407006377
+status:   Granted
+created:  5.5.2009
+expires:  5.5.2012
+nserver: ns1.inet.intermin.fi [OK]
+nserver: ns1-fin.global.sonera.fi [OK]
+nserver: ns1-swe.global.sonera.se [OK]
+nserver: ns2.inet.intermin.fi [OK]
+nserver: ns2-fin.global.sonera.fi [OK]
+nserver: ns2-usa.global.sonera.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

@@ -1,0 +1,123 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ec-nantes.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ec-nantes.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ECDN2-FRNIC
+admin-c:     AR1649-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      AR1649-FRNIC
+tech-c:      CE1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL3681-FRNIC
+registrar:   RENATER
+anniversary: 15/11
+created:     15/11/1996
+last-update: 14/01/2005
+source:      FRNIC
+
+ns-list:     NSL3681-FRNIC
+nserver:     salsa.ec-nantes.fr [130.66.33.3]
+nserver:     salsabis.ec-nantes.fr [130.66.33.4]
+nserver:     resone.univ-rennes1.fr [129.20.254.1]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     ECDN2-FRNIC
+type:        ORGANIZATION
+contact:     Ecole Centrale de Nantes
+address:     1, rue de la Noe
+address:     44072 Nantes Cedex 3
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AR1649-FRNIC
+type:        PERSON
+contact:     Agnes Raison
+address:     Ecole Centrale de Nantes
+address:     1, rue de la Noe
+address:     44072 Nantes Cedex 3
+country:     FR
+phone:       +33 2 40 37 16 26
+fax-no:      +33 2 40 74 74 06
+e-mail:      cri-sys@ec-nantes.fr
+notify:      agnes.raison@ec-nantes.fr
+changed:     19/01/2005 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CE1-FRNIC
+type:        PERSON
+contact:     Claude Erbacher
+address:     Ecole Centrale de Nantes
+address:     1, rue de la Noe
+address:     44072 Nantes Cedex 3
+country:     FR
+phone:       +33 40 37 16 26
+e-mail:      claude.erbacher@ec-nantes.fr
+notify:      claude.erbacher@ec-nantes.fr
+changed:     14/02/2003 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

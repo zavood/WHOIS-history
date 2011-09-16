@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D92226681-LROR
+Domain Name:NEWMEXICOHISTORY.ORG
+Created On:15-Nov-2002 00:35:05 UTC
+Last Updated On:17-Dec-2010 00:24:56 UTC
+Expiration Date:15-Nov-2012 00:35:05 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:b369973cd0af5280
+Registrant Name:Bonnie  Coleman
+Registrant Organization:New Mexico Office of the State Historian
+Registrant Street1:1205 Camino Carlos Rey
+Registrant Street2:
+Registrant Street3:
+Registrant City:Santa Fe
+Registrant State/Province:NM
+Registrant Postal Code:87507
+Registrant Country:US
+Registrant Phone:+1.5054767998
+Registrant Phone Ext.:
+Registrant FAX:+1.5054767893
+Registrant FAX Ext.:
+Registrant Email:bonnie.coleman@state.nm.us
+Admin ID:4408ab49fe199344
+Admin Name:Peter  Small
+Admin Organization:PRGSoftware, LLC
+Admin Street1:204 Maynard St
+Admin Street2:
+Admin Street3:
+Admin City:Santa Fe
+Admin State/Province:NM
+Admin Postal Code:87501
+Admin Country:US
+Admin Phone:+1.5052166717
+Admin Phone Ext.:
+Admin FAX:+1.5052166717
+Admin FAX Ext.:
+Admin Email:prgsmall@mac.com
+Tech ID:e1340c978dce858f
+Tech Name:Peter  Small
+Tech Organization:PRGSoftware, LLC
+Tech Street1:204 Maynard St
+Tech Street2:
+Tech Street3:
+Tech City:Santa Fe
+Tech State/Province:NM
+Tech Postal Code:87501
+Tech Country:US
+Tech Phone:+1.5052166717
+Tech Phone Ext.:
+Tech FAX:+1.5052166717
+Tech FAX Ext.:
+Tech Email:prgsmall@mac.com
+Name Server:NS1.BROWNRICE.COM
+Name Server:NS2.BROWNRICE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

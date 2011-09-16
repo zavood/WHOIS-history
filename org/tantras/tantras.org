@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D12333930-LROR
+Domain Name:TANTRAS.ORG
+Created On:05-Nov-1999 20:17:36 UTC
+Last Updated On:25-Aug-2008 18:24:12 UTC
+Expiration Date:05-Nov-2013 20:17:36 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:1483388-NSI
+Registrant Name:Pierre Bedard
+Registrant Organization:Pierre Bedard
+Registrant Street1:80 St Viateur e.  # 407
+Registrant Street2:
+Registrant Street3:
+Registrant City:MONTREAL
+Registrant State/Province:QUEBEC
+Registrant Postal Code:H2T 1A6
+Registrant Country:CA
+Registrant Phone:+1.5142763043
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:smokee@videotron.ca
+Admin ID:1483436-NSI
+Admin Name:PIERRE ** BEDARD
+Admin Street1:80 St-Viateur Est
+Admin Street2:# 407
+Admin Street3:
+Admin City:Montreal
+Admin State/Province:QUEBEC
+Admin Postal Code:H2T 1A6
+Admin Country:CA
+Admin Phone:+1.5142763043
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:pierrebedard@tantras.org
+Tech ID:1483388-NSI
+Tech Name:Pierre Bedard
+Tech Organization:Pierre Bedard
+Tech Street1:80 St Viateur e.  # 407
+Tech Street2:
+Tech Street3:
+Tech City:MONTREAL
+Tech State/Province:QUEBEC
+Tech Postal Code:H2T 1A6
+Tech Country:CA
+Tech Phone:+1.5142763043
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:smokee@videotron.ca
+Name Server:NS1.CW3M.NET
+Name Server:NS2.CW3M.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

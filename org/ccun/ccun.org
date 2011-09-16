@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D146805763-LROR
+Domain Name:CCUN.ORG
+Created On:23-May-2007 14:06:57 UTC
+Last Updated On:03-Oct-2009 15:58:11 UTC
+Expiration Date:23-May-2017 14:06:57 UTC
+Sponsoring Registrar:DomainPeople, Inc. (R30-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DPRP-2115222
+Registrant Name:Hassan El-Najjar
+Registrant Organization:El-Najjar, Hassan
+Registrant Street1:P. O. Box 722
+Registrant Street2:
+Registrant Street3:
+Registrant City:DALTON
+Registrant State/Province:GA
+Registrant Postal Code:30722
+Registrant Country:US
+Registrant Phone:+1.7062780955
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:helnajjar@charter.com
+Admin ID:DPRP-2115223
+Admin Name:Hassan El-Najjar
+Admin Organization:El-Najjar, Hassan
+Admin Street1:P. O. Box 722
+Admin Street2:
+Admin Street3:
+Admin City:DALTON
+Admin State/Province:GA
+Admin Postal Code:30722
+Admin Country:US
+Admin Phone:+1.7062780955
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:helnajjar@charter.com
+Tech ID:DPRP-2115225
+Tech Name:Domain Tech
+Tech Organization:Gate.com
+Tech Street1:3250 W. Commercial Blvd.
+Tech Street2:
+Tech Street3:
+Tech City:Ft. Lauderdale
+Tech State/Province:FL
+Tech Postal Code:33309
+Tech Country:US
+Tech Phone:+1.9543348000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domaintech@gate.com
+Name Server:ADNS.CS.SITEPROTECT.COM
+Name Server:BDNS.CS.SITEPROTECT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
