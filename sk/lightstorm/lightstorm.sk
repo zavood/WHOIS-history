@@ -1,0 +1,28 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         lightstorm.sk
+Admin-id            MBHM-0004
+Admin-name          Juraj Molota - MBH
+Admin-legal-form    zivnost
+Admin-org.-ID       17829615
+Admin-address       Prievidzka 20, Bojnice 97201
+Admin-telephone     046/5430517, 0903 788 100
+Tech-id             LIGH-0007
+Tech-name           LightStorm Communications
+Tech-org.-ID        35918667
+Tech-address        Parickova 18, Bratislava 82108
+Tech-telephone      +421-2-32400000, +421 903 788 100
+Tech-email          tomas.molota@lightstorm.sk
+dns_name            ns1.lightstorm.sk
+dns_ip              92.240.232.232
+dns_name            ns2.lightstorm.sk
+dns_ip              92.240.232.242
+dns_name            ns1.easydns.com
+dns_name            ns2.easydns.com
+Last-update         2011-01-20
+Valid-date          2012-01-19
+Domain-status       DOM_OK
+

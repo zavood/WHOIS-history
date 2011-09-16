@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 00:22:16 (BRT -03:00)
+
+domain:      googlegooglegooglegoogle.com.br
+owner:       Manoel Franklin Ferreira da Costa
+ownerid:     005.778.523-61
+country:     BR
+owner-c:     MFFCO
+admin-c:     MFFCO
+tech-c:      MFFCO
+billing-c:   MFFCO
+nserver:     ns1.locaweb.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.locaweb.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns3.locaweb.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20091127 #6320013
+expires:     20111127
+changed:     20101207
+provider:    LOCAWEB (2)
+status:      published
+
+nic-hdl-br:  MFFCO
+person:      Manoel Franklin Ferreira da Costa
+e-mail:      manoel.franklin@gmail.com
+created:     20070430
+changed:     20100128
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

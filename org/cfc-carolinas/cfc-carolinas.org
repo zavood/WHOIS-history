@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156025611-LROR
+Domain Name:CFC-CAROLINAS.ORG
+Created On:29-Apr-2009 22:10:35 UTC
+Last Updated On:02-Apr-2011 17:42:54 UTC
+Expiration Date:29-Apr-2012 22:10:35 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-NAJ2BOJI40YJ
+Registrant Name:Steve Lacy
+Registrant Organization:JSL Solutions
+Registrant Street1:PO Box 68052
+Registrant Street2:
+Registrant Street3:
+Registrant City:Oro Valley
+Registrant State/Province:az
+Registrant Postal Code:85737
+Registrant Country:US
+Registrant Phone:+1.8668526648
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:steve@myflock.com
+Admin ID:DOT-U5GTEX029WBQ
+Admin Name:Steve Lacy
+Admin Organization:JSL Solutions
+Admin Street1:PO Box 68052
+Admin Street2:
+Admin Street3:
+Admin City:Oro Valley
+Admin State/Province:az
+Admin Postal Code:85737
+Admin Country:US
+Admin Phone:+1.8668526648
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:steve@myflock.com
+Tech ID:DOT-CS90DV56YL6I
+Tech Name:Steve Lacy
+Tech Organization:JSL Solutions
+Tech Street1:PO Box 68052
+Tech Street2:
+Tech Street3:
+Tech City:Oro Valley
+Tech State/Province:az
+Tech Postal Code:85737
+Tech Country:US
+Tech Phone:+1.8668526648
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:steve@myflock.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

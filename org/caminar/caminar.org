@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106701232-LROR
+Domain Name:CAMINAR.ORG
+Created On:22-Jun-2005 21:56:28 UTC
+Last Updated On:11-May-2011 15:09:20 UTC
+Expiration Date:22-Jun-2012 21:56:28 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-49065KCOLTS7
+Registrant Name:Steven Gilbert
+Registrant Organization:Caminar
+Registrant Street1:3 Waters Park Drive
+Registrant Street2:Suite 200
+Registrant Street3:
+Registrant City:San Mateo
+Registrant State/Province:CA
+Registrant Postal Code:94403
+Registrant Country:US
+Registrant Phone:+1.6503724080
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:steveng@caminar.org
+Admin ID:DOT-AHAOT14JQBP0
+Admin Name:Steven Gilbert
+Admin Organization:Caminar
+Admin Street1:3 Waters Park Drive
+Admin Street2:Suite 200
+Admin Street3:
+Admin City:San Mateo
+Admin State/Province:CA
+Admin Postal Code:94403
+Admin Country:US
+Admin Phone:+1.6503724080
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:asp_coder@comcast.net
+Tech ID:DOT-DWAOI0KA6PI6
+Tech Name:Steven Gilbert
+Tech Organization:Caminar
+Tech Street1:3 Waters Park Drive
+Tech Street2:Suite 200
+Tech Street3:
+Tech City:San Mateo
+Tech State/Province:CA
+Tech Postal Code:94403
+Tech Country:US
+Tech Phone:+1.6503724080
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:asp_coder@comcast.net
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
