@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D118546788-LROR
+Domain Name:TAOCC.ORG
+Created On:15-Mar-2006 18:30:55 UTC
+Last Updated On:28-Aug-2010 15:52:49 UTC
+Expiration Date:15-Mar-2012 18:30:55 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:RC2448-GANDI
+Registrant Name:Rebekah Cunningham
+Registrant Organization:The Arc of Centre County
+Registrant Street1:1840 N Atherton Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:State College
+Registrant State/Province:Pennsylvania
+Registrant Postal Code:16803
+Registrant Country:US
+Registrant Phone:+1.8142381444
+Registrant Phone Ext.:
+Registrant FAX:+1.8142389460
+Registrant FAX Ext.:
+Registrant Email:733a15a4fdd19174894ceef7700b21c3-891692@contact.gandi.net
+Admin ID:RC2448-GANDI
+Admin Name:Rebekah Cunningham
+Admin Organization:The Arc of Centre County
+Admin Street1:1840 N Atherton Street
+Admin Street2:
+Admin Street3:
+Admin City:State College
+Admin State/Province:Pennsylvania
+Admin Postal Code:16803
+Admin Country:US
+Admin Phone:+1.8142381444
+Admin Phone Ext.:
+Admin FAX:+1.8142389460
+Admin FAX Ext.:
+Admin Email:733a15a4fdd19174894ceef7700b21c3-891692@contact.gandi.net
+Tech ID:RC2448-GANDI
+Tech Name:Rebekah Cunningham
+Tech Organization:The Arc of Centre County
+Tech Street1:1840 N Atherton Street
+Tech Street2:
+Tech Street3:
+Tech City:State College
+Tech State/Province:Pennsylvania
+Tech Postal Code:16803
+Tech Country:US
+Tech Phone:+1.8142381444
+Tech Phone Ext.:
+Tech FAX:+1.8142389460
+Tech FAX Ext.:
+Tech Email:733a15a4fdd19174894ceef7700b21c3-891692@contact.gandi.net
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

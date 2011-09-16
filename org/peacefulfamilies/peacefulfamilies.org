@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105637426-LROR
+Domain Name:PEACEFULFAMILIES.ORG
+Created On:26-Jan-2005 20:50:10 UTC
+Last Updated On:27-Jan-2011 11:21:09 UTC
+Expiration Date:26-Jan-2013 20:50:10 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31126908
+Registrant Name:Maha Alkhateeb
+Registrant Organization:Peaceful Families Project
+Registrant Street1:P.O. Box 771
+Registrant Street2:
+Registrant Street3:
+Registrant City:Great Falls
+Registrant State/Province:Virginia
+Registrant Postal Code:22066
+Registrant Country:US
+Registrant Phone:+1.7034746870
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:maha77@alumni.gwu.edu
+Admin ID:CR31126910
+Admin Name:Maha Alkhateeb
+Admin Organization:Peaceful Families Project
+Admin Street1:P.O. Box 771
+Admin Street2:
+Admin Street3:
+Admin City:Great Falls
+Admin State/Province:Virginia
+Admin Postal Code:22066
+Admin Country:US
+Admin Phone:+1.7034746870
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:maha77@alumni.gwu.edu
+Tech ID:CR31126909
+Tech Name:Maha Alkhateeb
+Tech Organization:Peaceful Families Project
+Tech Street1:P.O. Box 771
+Tech Street2:
+Tech Street3:
+Tech City:Great Falls
+Tech State/Province:Virginia
+Tech Postal Code:22066
+Tech Country:US
+Tech Phone:+1.7034746870
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:maha77@alumni.gwu.edu
+Name Server:NS51.DOMAINCONTROL.COM
+Name Server:NS52.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157843904-LROR
+Domain Name:PARTY-SHOES.ORG
+Created On:18-Dec-2009 15:30:06 UTC
+Last Updated On:28-Dec-2010 18:41:07 UTC
+Expiration Date:18-Dec-2011 15:30:06 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:OK
+Registrant ID:hc089827742-cn
+Registrant Name:wu wu
+Registrant Organization:wu xiaoxiong
+Registrant Street1:Miranda Brendel D.heinsiusstraat 8 044NK Deventer
+Registrant Street2:
+Registrant Street3:
+Registrant City:Deventerde
+Registrant State/Province:Others
+Registrant Postal Code:741212
+Registrant Country:CN
+Registrant Phone:+86.616264044
+Registrant Phone Ext.:
+Registrant FAX:+86.616264044
+Registrant FAX Ext.:
+Registrant Email:chandeaes@yahoo.com.cn
+Admin ID:hc089827742-cn
+Admin Name:wu wu
+Admin Organization:wu xiaoxiong
+Admin Street1:Miranda Brendel D.heinsiusstraat 8 044NK Deventer
+Admin Street2:
+Admin Street3:
+Admin City:Deventerde
+Admin State/Province:Others
+Admin Postal Code:741212
+Admin Country:CN
+Admin Phone:+86.616264044
+Admin Phone Ext.:
+Admin FAX:+86.616264044
+Admin FAX Ext.:
+Admin Email:chandeaes@yahoo.com.cn
+Tech ID:hc089827742-cn
+Tech Name:wu wu
+Tech Organization:wu xiaoxiong
+Tech Street1:Miranda Brendel D.heinsiusstraat 8 044NK Deventer
+Tech Street2:
+Tech Street3:
+Tech City:Deventerde
+Tech State/Province:Others
+Tech Postal Code:741212
+Tech Country:CN
+Tech Phone:+86.616264044
+Tech Phone Ext.:
+Tech FAX:+86.616264044
+Tech FAX Ext.:
+Tech Email:chandeaes@yahoo.com.cn
+Name Server:NS1.SUPERDNS.ORG
+Name Server:NS2.SUPERDNS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

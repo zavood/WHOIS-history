@@ -1,0 +1,84 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; toupeti.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      toupeti.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      NI181-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL19160-FRNIC
+registrar:   IKOULA NET
+anniversary: 26/05
+created:     26/05/2009
+last-update: 06/06/2009
+source:      FRNIC
+
+ns-list:     NSL19160-FRNIC
+nserver:     ns4.ikoula.com
+nserver:     ns5.ikoula.com
+source:      FRNIC
+
+registrar:   IKOULA NET
+type:        Isp Option 1
+address:     175-177 Rue D'Aguesseau
+address:     BOULOGNE-BILLANCOURT
+country:     FR
+phone:       0 892 350 503
+fax-no:      +33 1 71 14 00 19
+e-mail:      ikoula@ikoula.com
+website:     http://www.ikoula.fr
+anonymous:   NO
+registered:  10/05/1999
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     26/05/2009 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NI181-FRNIC
+type:        ROLE
+contact:     NOC IKOULA
+address:     IKOULA
+address:     Energy Park, immeuble Energy 6, 130 boulevard de Verdun
+address:     92400 Courbevoie
+country:     FR
+phone:       +33 8 90 71 07 12
+e-mail:      ikoula@ikoula.com
+trouble:     Hebergement : http://www.ikoula.fr
+trouble:     Monitoring : http://ping.ikoula.com
+admin-c:     JG890-FRNIC
+tech-c:      JG890-FRNIC
+notify:      ikoula@ikoula.com
+changed:     22/11/2007 ikoula@ikoula.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

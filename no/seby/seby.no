@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: SEB200D-NORID
+Domain Name................: seby.no
+Domain Holder Handle.......: KVA62O-NORID
+Registrar Handle...........: REG164-NORID
+Legal-c Handle.............: KKH62P-NORID
+Tech-c Handle..............: SH4153P-NORID
+Name Server Handle.........: NSAS16H-NORID
+Name Server Handle.........: NSAS40H-NORID
+Name Server Handle.........: NSAS56H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-18
+
+NORID Handle...............: KVA62O-NORID
+Type.......................: organization
+Name.......................: Kolo Veidekke AS
+Id Type....................: organization_number
+Id Number..................: 913536770
+Registrar Handle...........: REG164-NORID
+Post Address...............: Skabosvei 4
+Postal Code................: NO-0278
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.21055000
+Fax Number.................: +47.21055051
+Email Address..............: domener@veidekke.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

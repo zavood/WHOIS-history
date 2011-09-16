@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 20:15:48 (BRT -03:00)
+
+domain:      riobolacheia.com.br
+owner:       K.S.W. Inform&aacute;tica LTDA. ME.
+ownerid:     000.634.333/0001-72
+responsible: Marcelo Anderson Guimar&atilde;es do Santos
+country:     BR
+owner-c:     MCP40
+admin-c:     MCP40
+tech-c:      MCP40
+billing-c:   MCP40
+nserver:     ns1677.hostgator.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns1678.hostgator.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20091223 #6394090
+expires:     20111223
+changed:     20110107
+status:      published
+
+nic-hdl-br:  MCP40
+person:      M&aacute;rcio da Costa Pinto
+e-mail:      contato@cadecristo.com.br
+created:     19991127
+changed:     20081109
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

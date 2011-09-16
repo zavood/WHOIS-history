@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98202579-LROR
+Domain Name:SNDCHARDON.ORG
+Created On:27-May-2003 17:16:06 UTC
+Last Updated On:03-Mar-2011 14:33:20 UTC
+Expiration Date:27-May-2016 17:16:06 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tub1fi80g8E7Z3SZ
+Registrant Name:DNS Dept.
+Registrant Organization:The Sisters of Notre Dame
+Registrant Street1:13000 Auburn Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chardon
+Registrant State/Province:OH
+Registrant Postal Code:44024
+Registrant Country:US
+Registrant Phone:+1.4402867101
+Registrant Phone Ext.:
+Registrant FAX:+1.3307260499
+Registrant FAX Ext.:
+Registrant Email:brendon@doy.org
+Admin ID:tuTKVj0PEH6q90U3
+Admin Name:DNS Dept.
+Admin Organization:cboss Community Network
+Admin Street1:7332 Southern Blvd.
+Admin Street2:
+Admin Street3:
+Admin City:Boardman
+Admin State/Province:OH
+Admin Postal Code:44512
+Admin Country:US
+Admin Phone:+1.3307260429
+Admin Phone Ext.:
+Admin FAX:+1.3307260499
+Admin FAX Ext.:
+Admin Email:dnsmgr@cboss.com
+Tech ID:tu6Af22D8OYYPgio
+Tech Name:DNS Tech
+Tech Organization:cboss Community Network
+Tech Street1:7332 Southern Blvd.
+Tech Street2:
+Tech Street3:
+Tech City:Boardman
+Tech State/Province:OH
+Tech Postal Code:44512
+Tech Country:US
+Tech Phone:+1.3307260429
+Tech Phone Ext.:
+Tech FAX:+1.3307260499
+Tech FAX Ext.:
+Tech Email:dnstech@cboss.com
+Name Server:NS.CBOSS.COM
+Name Server:NS2.CBOSS.COM
+Name Server:NS3.CBOSS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

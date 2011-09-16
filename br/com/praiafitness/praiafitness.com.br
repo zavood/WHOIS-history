@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 20:12:32 (BRT -03:00)
+
+domain:      praiafitness.com.br
+owner:       Praia Fitness academia ltda
+ownerid:     005.529.611/0001-45
+responsible: Marcio Bomfim
+country:     BR
+owner-c:     MAB1772
+admin-c:     MAB1772
+tech-c:      ZITEL
+billing-c:   MAB1772
+nserver:     ns1.servidorwebfacil.com
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.servidorwebfacil.com
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20040511 #1639842
+expires:     20130511
+changed:     20110523
+status:      published
+
+nic-hdl-br:  MAB1772
+person:      Marcio Bomfim
+e-mail:      mb@marciobomfim.com
+created:     20040217
+changed:     20040217
+
+nic-hdl-br:  ZITEL
+person:      ZING Telecom
+e-mail:      registro@zing.com.br
+created:     20061101
+changed:     20110803
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

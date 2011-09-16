@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D110785906-LROR
+Domain Name:VOKABULAR.ORG
+Created On:05-Jan-2006 15:40:20 UTC
+Last Updated On:02-Jan-2011 20:11:20 UTC
+Expiration Date:05-Jan-2012 15:40:20 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:cd7545f1c4988c82
+Registrant Name:Igor  Salindrija
+Registrant Organization:Vokabular
+Registrant Street1:Nehruova 68/15
+Registrant Street2:
+Registrant Street3:
+Registrant City:Belgrade
+Registrant State/Province:Serbia
+Registrant Postal Code:11000
+Registrant Country:RS
+Registrant Phone:+381.11111111
+Registrant Phone Ext.:
+Registrant FAX:+381.11111111
+Registrant FAX Ext.:
+Registrant Email:igor.salindrija@gmail.com
+Admin ID:cd7545f1c4988c82
+Admin Name:Igor  Salindrija
+Admin Organization:Vokabular
+Admin Street1:Nehruova 68/15
+Admin Street2:
+Admin Street3:
+Admin City:Belgrade
+Admin State/Province:Serbia
+Admin Postal Code:11000
+Admin Country:RS
+Admin Phone:+381.11111111
+Admin Phone Ext.:
+Admin FAX:+381.11111111
+Admin FAX Ext.:
+Admin Email:igor.salindrija@gmail.com
+Tech ID:cd7545f1c4988c82
+Tech Name:Igor  Salindrija
+Tech Organization:Vokabular
+Tech Street1:Nehruova 68/15
+Tech Street2:
+Tech Street3:
+Tech City:Belgrade
+Tech State/Province:Serbia
+Tech Postal Code:11000
+Tech Country:RS
+Tech Phone:+381.11111111
+Tech Phone Ext.:
+Tech FAX:+381.11111111
+Tech FAX Ext.:
+Tech Email:igor.salindrija@gmail.com
+Name Server:NS1.UZICE.NET
+Name Server:NS2.UZICE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

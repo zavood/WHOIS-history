@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; onlinehome.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      onlinehome.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UIS8-FRNIC
+admin-c:     AG691-FRNIC
+tech-c:      HS34-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2354-FRNIC
+registrar:   1&amp;1 Internet AG
+anniversary: 30/09
+created:     30/09/2004
+last-update: 05/10/2004
+source:      FRNIC
+
+ns-list:     NSL2354-FRNIC
+nserver:     ns3.schlund.de
+nserver:     ns4.schlund.de
+source:      FRNIC
+
+registrar:   1&amp;1 Internet AG
+type:        Isp Option 1
+address:     Brauerstr. 48
+address:     DE-76135 KARLSRUHE
+country:     DE
+phone:       +49 721 91374 0
+fax-no:      +49 721 91374 215
+e-mail:      hostmaster@1und1.de
+website:     http://registrar.1und1.de
+anonymous:   NO
+registered:  17/01/2001
+source:      FRNIC
+
+nic-hdl:     AG691-FRNIC
+type:        PERSON
+contact:     Andreas Gauger
+address:     1&amp;1 Internet SARL
+address:     7, place de la Gare
+address:     57200 Sarreguemines
+country:     FR
+phone:       +33 8 25 08 00 20
+fax-no:      +49 721 91374 215
+e-mail:      hostmaster@1and1.fr
+changed:     20/04/2004 frnic-dbm-updates@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     UIS8-FRNIC
+type:        ORGANIZATION
+contact:     1&amp;1 Internet SARL
+address:     7, place de la Gare
+address:     57200 Sarreguemines
+country:     FR
+phone:       +33 8 25 08 00 20
+fax-no:      +49 721 91374 215
+e-mail:      hostmaster@1and1.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     HS34-FRNIC
+type:        ROLE
+contact:     Hostmaster Schlund
+address:     Schlund + Partner Ag
+address:     Brauerstr. 48
+address:     76135 Karlsruhe
+country:     DE
+e-mail:      hostmaster@schlund.de
+admin-c:     IR2-FRNIC
+tech-c:      IR2-FRNIC
+changed:     19/02/2004 hostmaster@schlund.de
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

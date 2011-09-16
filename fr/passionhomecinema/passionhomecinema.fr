@@ -1,0 +1,105 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; passionhomecinema.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      passionhomecinema.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    PJ594-FRNIC
+admin-c:     ACPH52-FRNIC
+tech-c:      IF10-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL4904-FRNIC
+registrar:   ICODIA
+anniversary: 14/04
+created:     14/04/2008
+last-update: 07/05/2008
+source:      FRNIC
+
+ns-list:     NSL4904-FRNIC
+nserver:     ns.icodia.com
+nserver:     ns2.icodia.com
+nserver:     ns3.icodia.com
+source:      FRNIC
+
+registrar:   ICODIA
+type:        Isp Option 1
+address:     Centre d'Affaires Ath&eacute;a
+address:     11 Rue Louis Kerautret Botmel
+address:     RENNES
+country:     FR
+phone:       08 26 80 02 80
+fax-no:      08 26 80 02 79
+e-mail:      contact@icodia.com
+website:     http://www.icodia.com
+anonymous:   NO
+registered:  25/04/2002
+source:      FRNIC
+
+nic-hdl:     PJ594-FRNIC
+type:        ORGANIZATION
+contact:     PERIN Jonathan
+address:     PASSION HOME CINEMA
+address:     86, rue de Venise
+address:     51100 Reims
+country:     FR
+phone:       +33 6 08 26 83 61
+e-mail:      nic@icodia.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ACPH52-FRNIC
+type:        PERSON
+contact:     admin-c PASSION HOME CINEMA
+address:     86, rue de Venise
+address:     51100 Reims
+country:     FR
+phone:       +33 6 08 26 83 61
+e-mail:      nic@icodia.com
+changed:     14/04/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IF10-FRNIC
+type:        ROLE
+contact:     ICODIA FR
+address:     Icodia
+address:     centre d'Affaires Athea
+address:     11, rue Kerautret Botmel
+address:     35000 Rennes
+country:     FR
+phone:       08 26 80 02 80
+e-mail:      nic@icodia.com
+trouble:     -------------------------------------------------
+trouble:     ICODIA is an accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.icodia.com
+trouble:     -------------------------------------------------
+trouble:     - misc troubles : support@icodia.com
+trouble:     - SPAM troubles : abuse@icodia.com
+trouble:     -------------------------------------------------
+admin-c:     RA165-FRNIC
+tech-c:      RA165-FRNIC
+notify:      nic@icodia.com
+changed:     06/11/2006 nic@icodia.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

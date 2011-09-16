@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 20:22:49 (BRT -03:00)
+
+domain:      dynamicscrm.com.br
+owner:       Habilsoft LTDa
+ownerid:     009.158.041/0001-85
+responsible: Carlos Alberto da Costa Amorim Junior
+country:     BR
+owner-c:     CAJ123
+admin-c:     CAJ123
+tech-c:      CAJ123
+billing-c:   CAJ123
+nserver:     srv01.dynamicscrm.com.br 74.55.44.154
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     srv02.dynamicscrm.com.br 74.55.44.155
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20080927 #4902797
+expires:     20120927
+changed:     20110905
+status:      published
+
+nic-hdl-br:  CAJ123
+person:      Carlos Alberto da Costa Amorim Junior
+e-mail:      amorim@habilsoft.com.br
+created:     20010116
+changed:     20110613
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

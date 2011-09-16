@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 09-mar-1996
    Expiration Date: 10-mar-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:32:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 23:39:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,6 +71,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: lawguru.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 07:22:54 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Fri Sep 16 19:29:42 EDT 2011
 Reason Code: IE

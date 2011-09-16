@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 18-jan-2007
    Expiration Date: 18-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 11:29:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 23:35:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Thursday, 15-Sep-2011 13:30:02 CEST
-# gmt time      : Thursday, 15-Sep-2011 11:30:02 GMT
+# local time    : Saturday, 17-Sep-2011 01:35:36 CEST
+# gmt time      : Friday, 16-Sep-2011 23:35:36 GMT
 # last modify   : Sunday, 11-Sep-2011 12:18:14 CEST
-# request from  : 192.168.248.1:42715
+# request from  : 192.168.248.1:21149
 
 Domain name: freeheberg.com
 

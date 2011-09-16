@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      ebay.ie
+descr:       eBay International A.G
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Registered Trade Mark Name
+admin-c:     ABD140-IEDR
+tech-c:      CCA7-IEDR
+renewal:     09-April-2012
+status:      Active
+nserver:     sjc-dns1.ebaydns.com
+nserver:     sjc-dns2.ebaydns.com
+nserver:     smf-dns1.ebaydns.com
+source:      IEDR
+
+person:      Susan Kawaguchi - Hostmaster
+nic-hdl:     ABD140-IEDR
+source:      IEDR
+
+person:      eMarkmonitor Inc
+nic-hdl:     CCA7-IEDR
+source:      IEDR
+

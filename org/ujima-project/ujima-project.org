@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155436902-LROR
+Domain Name:UJIMA-PROJECT.ORG
+Created On:22-Feb-2009 18:39:13 UTC
+Last Updated On:02-Dec-2010 17:07:25 UTC
+Expiration Date:22-Feb-2013 18:39:13 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR38411654
+Registrant Name:Sally Stapleton
+Registrant Organization:Great Lakes Media Institute, Inc.
+Registrant Street1:8 E. Shore Ave.
+Registrant Street2:P.O. Box 3474
+Registrant Street3:
+Registrant City:Groton Long Point
+Registrant State/Province:Connecticut
+Registrant Postal Code:06340
+Registrant Country:US
+Registrant Phone:+1.6462467370
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sally_stapleton@yahoo.com
+Admin ID:CR38411656
+Admin Name:Sally Stapleton
+Admin Organization:Great Lakes Media Institute, Inc.
+Admin Street1:8 E. Shore Ave.
+Admin Street2:P.O. Box 3474
+Admin Street3:
+Admin City:Groton Long Point
+Admin State/Province:Connecticut
+Admin Postal Code:06340
+Admin Country:US
+Admin Phone:+1.6462467370
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sally_stapleton@yahoo.com
+Tech ID:CR38411655
+Tech Name:Sally Stapleton
+Tech Organization:Great Lakes Media Institute, Inc.
+Tech Street1:8 E. Shore Ave.
+Tech Street2:P.O. Box 3474
+Tech Street3:
+Tech City:Groton Long Point
+Tech State/Province:Connecticut
+Tech Postal Code:06340
+Tech Country:US
+Tech Phone:+1.6462467370
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sally_stapleton@yahoo.com
+Name Server:NS1.WEBFACTION.COM
+Name Server:NS2.WEBFACTION.COM
+Name Server:NS3.WEBFACTION.COM
+Name Server:NS4.WEBFACTION.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

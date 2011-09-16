@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         raftovanie.sk
+Admin-id            RAFT-0006
+Admin-name          RAFTOvanie s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       35897392
+Admin-address       Hraniciarska 120, Bratislava 85110
+Admin-telephone     0903727733, 0911305961
+Admin-email         info@raftovanie.sk
+Tech-id             WEBS-0001
+Tech-name           Websupport, s.r.o.
+Tech-org.-ID        36421928
+Tech-address        Stare grunty 12, Bratislava 84104
+Tech-telephone      0904/306 081, 0904/306 081, 0904/306 081
+Tech-email          helpdesk@websupport.sk
+dns_name            ns1.websupport.sk
+dns_name            ns2.websupport.sk
+dns_name            ns3.websupport.sk
+Last-update         2011-02-14
+Valid-date          2012-03-13
+Domain-status       DOM_OK
+
