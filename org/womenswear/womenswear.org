@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104491293-LROR
+Domain Name:WOMENSWEAR.ORG
+Created On:03-Jun-2004 15:32:22 UTC
+Last Updated On:25-May-2011 17:40:57 UTC
+Expiration Date:03-Jun-2012 15:32:22 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuEReEvP4wW3OBlW
+Registrant Name:Domain Admin
+Registrant Organization:Whois Watchdog
+Registrant Street1:1515 Nan Jing West Road, Level 29
+Registrant Street2:
+Registrant Street3:
+Registrant City:Shanghai
+Registrant State/Province:GRAND CAYMAN
+Registrant Postal Code:20040
+Registrant Country:CN
+Registrant Phone:+86.12161037100
+Registrant Phone Ext.:
+Registrant FAX:+86.12161037100
+Registrant FAX Ext.:
+Registrant Email:a430domainnames@gmail.com
+Admin ID:tuEReEvP4wW3OBlW
+Admin Name:Domain Admin
+Admin Organization:Whois Watchdog
+Admin Street1:1515 Nan Jing West Road, Level 29
+Admin Street2:
+Admin Street3:
+Admin City:Shanghai
+Admin State/Province:GRAND CAYMAN
+Admin Postal Code:20040
+Admin Country:CN
+Admin Phone:+86.12161037100
+Admin Phone Ext.:
+Admin FAX:+86.12161037100
+Admin FAX Ext.:
+Admin Email:a430domainnames@gmail.com
+Tech ID:tuEReEvP4wW3OBlW
+Tech Name:Domain Admin
+Tech Organization:Whois Watchdog
+Tech Street1:1515 Nan Jing West Road, Level 29
+Tech Street2:
+Tech Street3:
+Tech City:Shanghai
+Tech State/Province:GRAND CAYMAN
+Tech Postal Code:20040
+Tech Country:CN
+Tech Phone:+86.12161037100
+Tech Phone Ext.:
+Tech FAX:+86.12161037100
+Tech FAX Ext.:
+Tech Email:a430domainnames@gmail.com
+Name Server:NS1.FASTPARK.NET
+Name Server:NS2.FASTPARK.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

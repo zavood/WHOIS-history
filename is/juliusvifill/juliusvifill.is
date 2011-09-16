@@ -1,0 +1,49 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       juliusvifill.is
+descr:        J&uacute;l&iacute;us V&iacute;fill Ingvarsson
+descr:        Hagamel 2
+descr:        IS-107 Reykjav&iacute;k
+admin-c:      HVJ4-IS
+tech-c:       HVJ4-IS
+zone-c:       IZ1-IS
+billing-c:    JVI5-IS
+nserver:      ns0.c.is
+nserver:      ns1.c.is
+nserver:      ns2.c.is
+created:      September  2 2005
+expires:      September  2 2012
+source:       ISNIC
+
+person:       J&uacute;l&iacute;us V&iacute;fill Ingvarsson
+address:      Hagamel 2
+address:      IS-107 Reykjav&iacute;k
+phone:        +354 567 8000
+e-mail:       jvi@icelaw.is
+nic-hdl:      JVI5-IS
+created:      June  3 2005
+source:       ISNIC
+
+person:       Helgi V&iacute;fill J&uacute;l&iacute;usson
+address:      Hagamel 2
+address:      IS-107 Reykjav&iacute;k
+phone:        +354 692 9200
+e-mail:       helgi@jvi.is
+nic-hdl:      HVJ4-IS
+created:      August 30 2005
+source:       ISNIC
+
+role:         ISLNET Zonemaster
+address:      Og Fjarskipti ehf
+address:      Sk&uacute;tuvogur 2
+address:      IS-104 Reykjav&iacute;k
+phone:        +354 599 9000
+e-mail:       nic@vodafone.is
+nic-hdl:      IZ1-IS
+created:      May 15 2003
+source:       ISNIC
+
+

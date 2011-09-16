@@ -1,0 +1,73 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 02:33:18 2011
+
+domain:       dgstudio.cz
+registrant:   SB:INETCZ-ICVKOX-73860
+admin-c:      FLYWEB
+nsset:        DGSTUDIO
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   07.04.2004 15:15:00
+changed:      07.10.2009 17:07:35
+expire:       07.04.2020
+
+contact:      SB:INETCZ-ICVKOX-73860
+name:         Ji&Aring;ô&Atilde;&shy; B&Atilde;&shy;m
+address:      M&Atilde;&iexcl;nesova 591
+address:      Hradec Kr&Atilde;&iexcl;lov&Atilde;&copy;
+address:      500 02
+address:      CZ
+e-mail:       dan.gregurek@dgstudio.cz
+registrar:    REG-IGNUM
+created:      07.04.2004 15:15:00
+changed:      27.04.2008 10:08:08
+
+contact:      FLYWEB
+org:          FlyNetwork s.r.o.
+name:         Lubo&Aring;&iexcl; Kov&Atilde;&iexcl;&Aring;ô
+address:      Na V&Atilde;&frac12;slun&Atilde;&shy; 518
+address:      Jablonn&Atilde;&copy; nad Orlic&Atilde;&shy;
+address:      56164
+address:      CZ
+phone:        +420.777922442
+e-mail:       domain@flynetwork.cz
+registrar:    REG-IGNUM
+created:      14.10.2007 12:35:01
+
+nsset:        DGSTUDIO
+nserver:      ns.dgstudio.cz (89.187.133.230)
+nserver:      ns2.dgstudio.cz (89.185.225.9)
+tech-c:       DGSTUDIO
+registrar:    REG-IGNUM
+created:      02.10.2009 19:05:34
+changed:      04.10.2010 13:16:06
+
+contact:      DGSTUDIO
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; He&Auml;çko
+address:      T&Aring;ô&Atilde;&shy;da T. Bati &Auml;ç.p. 407
+address:      Zl&Atilde;&shy;n
+address:      763 02
+address:      CZ
+phone:        +420.608143363
+e-mail:       tomas.hecko@dgstudio.cz
+registrar:    REG-IGNUM
+created:      02.10.2009 18:59:34
+
+

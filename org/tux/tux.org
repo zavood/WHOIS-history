@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2038696-LROR
+Domain Name:TUX.ORG
+Created On:28-Sep-1997 04:00:00 UTC
+Last Updated On:08-Feb-2011 14:47:57 UTC
+Expiration Date:27-Sep-2019 04:00:00 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-89323-Gandi
+Registrant Name:JAMUX
+Registrant Organization:JAMUX
+Registrant Street1:4520 Yates Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Beltsville
+Registrant State/Province:MD
+Registrant Postal Code:20705
+Registrant Country:US
+Registrant Phone:+1.2404502162
+Registrant Phone Ext.:
+Registrant FAX:+1.3015952013
+Registrant FAX Ext.:
+Registrant Email:03ebfc64559156d7000c47bac907ec49-j65@contact.gandi.net
+Admin ID:JH71-GANDI
+Admin Name:JAMUX Hostmaster
+Admin Organization:JAMUX
+Admin Street1:4520 Yates Road
+Admin Street2:
+Admin Street3:
+Admin City:Beltsville
+Admin State/Province:MD
+Admin Postal Code:20705
+Admin Country:US
+Admin Phone:+1.3013256554
+Admin Phone Ext.:
+Admin FAX:+1.3015952013
+Admin FAX Ext.:
+Admin Email:168db3e8522654d0528816068beb82ff-25901@contact.gandi.net
+Tech ID:JH71-GANDI
+Tech Name:JAMUX Hostmaster
+Tech Organization:JAMUX
+Tech Street1:4520 Yates Road
+Tech Street2:
+Tech Street3:
+Tech City:Beltsville
+Tech State/Province:MD
+Tech Postal Code:20705
+Tech Country:US
+Tech Phone:+1.3013256554
+Tech Phone Ext.:
+Tech FAX:+1.3015952013
+Tech FAX Ext.:
+Tech Email:168db3e8522654d0528816068beb82ff-25901@contact.gandi.net
+Name Server:BOUDICCA.TUX.ORG
+Name Server:PUCK.NETHER.NET
+Name Server:NS.ELFIE.ORG
+Name Server:NS6.GANDI.NET
+Name Server:CIRCE.TUX.ORG
+Name Server:CALYPSO.TUX.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

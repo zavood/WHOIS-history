@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 21:34:56 (BRT -03:00)
+
+domain:      avivabrasil.com.br
+owner:       Aviva Brasil
+ownerid:     006.279.233/0001-51
+responsible: Leandra Cipriano
+country:     BR
+owner-c:     LCF505
+admin-c:     LCF505
+tech-c:      LCF505
+billing-c:   LCF505
+nserver:     dns1.criosite.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     dns2.criosite.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20050920 #2378060
+expires:     20120920
+changed:     20110830
+status:      published
+
+nic-hdl-br:  LCF505
+person:      Leandra Cipriano Figueirede Ferraz
+e-mail:      avivabrasil@globo.com
+created:     20050905
+changed:     20090909
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

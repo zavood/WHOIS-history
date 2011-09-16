@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152318051-LROR
+Domain Name:BROWNELLLIBRARY.ORG
+Created On:09-Apr-2008 14:05:05 UTC
+Last Updated On:31-Mar-2011 19:48:21 UTC
+Expiration Date:09-Apr-2013 14:05:05 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR36320989
+Registrant Name:Kent LaCombe
+Registrant Organization:Brownell Library
+Registrant Street1:6 Lincoln Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Essex Junction
+Registrant State/Province:Vermont
+Registrant Postal Code:05452
+Registrant Country:US
+Registrant Phone:+1.8028786955
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:e7jvsoe@sover.net
+Admin ID:CR36320991
+Admin Name:Kent LaCombe
+Admin Organization:Brownell Library
+Admin Street1:6 Lincoln Street
+Admin Street2:
+Admin Street3:
+Admin City:Essex Junction
+Admin State/Province:Vermont
+Admin Postal Code:05452
+Admin Country:US
+Admin Phone:+1.8028786955
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:e7jvsoe@sover.net
+Tech ID:CR36320990
+Tech Name:Kent LaCombe
+Tech Organization:Brownell Library
+Tech Street1:6 Lincoln Street
+Tech Street2:
+Tech Street3:
+Tech City:Essex Junction
+Tech State/Province:Vermont
+Tech Postal Code:05452
+Tech Country:US
+Tech Phone:+1.8028786955
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:e7jvsoe@sover.net
+Name Server:NS17.DOMAINCONTROL.COM
+Name Server:NS18.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
