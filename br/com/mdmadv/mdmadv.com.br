@@ -1,0 +1,52 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 04:02:08 (BRT -03:00)
+
+domain:      mdmadv.com.br
+owner:       Aureliano Monteiro Neto Advogados Assoc. S/C Ltda.
+ownerid:     067.178.194/0001-90
+responsible: Aureliano Monteiro Neto
+country:     BR
+owner-c:     MSG91
+admin-c:     MSG91
+tech-c:      MSG91
+billing-c:   AMA194
+nserver:     ns1.locaweb.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.locaweb.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns3.locaweb.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20041117 #1889564
+expires:     20201117
+changed:     20101126
+status:      published
+
+nic-hdl-br:  AMA194
+person:      Aureliano Monteiro Neto Adv. Associados
+e-mail:      pablo@amnadv.com.br
+created:     20010719
+changed:     20041117
+
+nic-hdl-br:  MSG91
+person:      Marcelo Silva Gatti
+e-mail:      mgatti@ig.com.br
+created:     20020423
+changed:     20071024
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

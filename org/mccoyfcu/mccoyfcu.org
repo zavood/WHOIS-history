@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D13321259-LROR
+Domain Name:MCCOYFCU.ORG
+Created On:16-Nov-1999 16:08:25 UTC
+Last Updated On:23-Oct-2004 13:17:42 UTC
+Expiration Date:16-Nov-2012 16:08:25 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22121199-NSI
+Registrant Name:McCoy Federal Credit Union
+Registrant Organization:McCoy Federal Credit Union
+Registrant Street1:1900 McCoy Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Orlando
+Registrant State/Province:FL
+Registrant Postal Code:32809
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tmazzocco@MCCOYFCU.ORG
+Admin ID:16856690-NSI
+Admin Name:Tod Mazzocco
+Admin Street1:1900 MCCOY RD
+Admin Street2:
+Admin Street3:
+Admin City:ORLANDO
+Admin State/Province:FL
+Admin Postal Code:32809-7820
+Admin Country:US
+Admin Phone:+1.4075831106
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tmazzocco@MCCOYFCU.ORG
+Tech ID:16800423-NSI
+Tech Name:SalesandMarketing Technologies
+Tech Organization:SalesandMarketing Technologies
+Tech Street1:220 E CENTRAL PKWY STE 1010
+Tech Street2:
+Tech Street3:
+Tech City:ALTAMONTE SPG
+Tech State/Province:FL
+Tech Postal Code:32701-3400
+Tech Country:US
+Tech Phone:+1.4076822222
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mis@SMTUSA.COM
+Name Server:NS.SMTUSA.COM
+Name Server:NS1.SMTUSA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

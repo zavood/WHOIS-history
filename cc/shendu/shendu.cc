@@ -18,7 +18,7 @@ Go to http://registrar.verisign-grs.com/whois/ for detailed information.
    Expiration Date: 24-dec-2011
 
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:23:05 EDT &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:23:17 EDT &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

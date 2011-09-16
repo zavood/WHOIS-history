@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 20-apr-2009
    Expiration Date: 20-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 17:21:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 06:55:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,7 +73,7 @@ status:       lock
 created:      2009-04-20 22:57:27 UTC
 modified:     2011-03-23 22:39:31 UTC
 expires:      2013-04-20 22:57:27 UTC
-query-source: 188.72.227.95
+query-source: 174.142.225.246
 
 contact-hdl:  CCOM-14910
 person:       Hakan Durov
@@ -86,8 +86,8 @@ country:      RU
 phone:        +7.0959393332
 
 source:       joker.com live whois service
-query-time:   0.010042
-db-updated:   2011-09-12 17:21:50
+query-time:   0.025827
+db-updated:   2011-09-16 06:56:00
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:
