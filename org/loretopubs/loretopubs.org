@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D38837628-LROR
+Domain Name:LORETOPUBS.ORG
+Created On:28-Oct-2000 04:02:56 UTC
+Last Updated On:13-Sep-2011 18:40:03 UTC
+Expiration Date:28-Oct-2012 04:02:56 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:TRANSFER PROHIBITED
+Registrant ID:DOT-UKKLGYKZP96P
+Registrant Name:David Brindle
+Registrant Street1:129 Carey Court
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bardstown
+Registrant State/Province:KY
+Registrant Postal Code:40004
+Registrant Country:US
+Registrant Phone:+1.5023484332
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:design@bonaventuredesign.com
+Admin ID:DOT-4I47020RBE8A
+Admin Name:David Brindle
+Admin Street1:129 Carey Court
+Admin Street2:
+Admin Street3:
+Admin City:Bardstown
+Admin State/Province:KY
+Admin Postal Code:40004
+Admin Country:US
+Admin Phone:+1.5023484332
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:design@bonaventuredesign.com
+Tech ID:DOT-GPVBUG3FLUFZ
+Tech Name:David Brindle
+Tech Street1:129 Carey Court
+Tech Street2:
+Tech Street3:
+Tech City:Bardstown
+Tech State/Province:KY
+Tech Postal Code:40004
+Tech Country:US
+Tech Phone:+1.5023484332
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:design@bonaventuredesign.com
+Name Server:NS1.BONAVENTUREDESIGN.COM
+Name Server:NS2.BONAVENTUREDESIGN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

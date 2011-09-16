@@ -1,0 +1,48 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 12:54:18 (BRT -03:00)
+
+domain:      royalsaopauloo.com.br
+owner:       Angelo Jose dos Santos
+ownerid:     689.835.738-72
+country:     BR
+owner-c:     AJDSA102
+admin-c:     AJDSA102
+tech-c:      AJDSA102
+billing-c:   AJDSA102
+nserver:     ns1.dominios.uol.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.dominios.uol.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns3.dominios.uol.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+saci:        yes
+created:     20110627 #8499846
+expires:     20120627
+changed:     20110627
+provider:    UOLHOST (22)
+status:      published
+
+nic-hdl-br:  AJDSA102
+person:      Angelo Jose dos Santos
+e-mail:      angelodos@uol.com.br
+created:     20110627
+changed:     20110627
+provider:    UOLHOST (22)
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

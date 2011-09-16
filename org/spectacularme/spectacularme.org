@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156912039-LROR
+Domain Name:SPECTACULARME.ORG
+Created On:19-Aug-2009 15:28:34 UTC
+Last Updated On:20-Aug-2011 01:25:43 UTC
+Expiration Date:19-Aug-2012 15:28:34 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR63731704
+Registrant Name:Marten Wikebons
+Registrant Street1:Raadhuisstraat 1188 50
+Registrant Street2:
+Registrant Street3:
+Registrant City:Amsterdam
+Registrant State/Province:DG Amsterdam
+Registrant Postal Code:1016
+Registrant Country:NL
+Registrant Phone:+31.130900404033
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:martenwikebons@yahoo.com
+Admin ID:CR63731706
+Admin Name:Marten Wikebons
+Admin Street1:Raadhuisstraat 1188 50
+Admin Street2:
+Admin Street3:
+Admin City:Amsterdam
+Admin State/Province:DG Amsterdam
+Admin Postal Code:1016
+Admin Country:NL
+Admin Phone:+31.130900404033
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:martenwikebons@yahoo.com
+Tech ID:CR63731705
+Tech Name:Marten Wikebons
+Tech Street1:Raadhuisstraat 1188 50
+Tech Street2:
+Tech Street3:
+Tech City:Amsterdam
+Tech State/Province:DG Amsterdam
+Tech Postal Code:1016
+Tech Country:NL
+Tech Phone:+31.130900404033
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:martenwikebons@yahoo.com
+Name Server:NS1.SUSPENDED-FOR.SPAM-AND-ABUSE.COM
+Name Server:NS2.SUSPENDED-FOR.SPAM-AND-ABUSE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 04-jun-2008
    Expiration Date: 04-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:18:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 15:58:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,8 +117,8 @@ US
 Phone:         +1.7202492374
 Email Address: duperhost.com@protecteddomainservices.com
 
-Timestamp: 1315869550.646
+Timestamp: 1316188738.5565
 
 The Data in the Name.com LLC WHOIS database is provided by Name.com LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.  Name.com LLC does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Name.com LLC (or its systems). Name.com LLC reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
 
-Cached on: 2011-09-12T17:19:10-06:00
+Cached on: 2011-09-16T09:58:58-06:00

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150493932-LROR
+Domain Name:WINDYCITYRAILS.ORG
+Created On:28-Dec-2007 18:03:06 UTC
+Last Updated On:10-Dec-2009 18:50:21 UTC
+Expiration Date:28-Dec-2013 18:03:06 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34551276
+Registrant Name:WindyCityRails.org Domain
+Registrant Organization:Wisdom Consulting Group, Inc.
+Registrant Street1:27 North Wacker Dr, Suite 406
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chicago
+Registrant State/Province:Illinois
+Registrant Postal Code:60606
+Registrant Country:US
+Registrant Phone:+1.3128422200
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@wisdomgroup.com
+Admin ID:CR34551278
+Admin Name:WindyCityRails.org Domain
+Admin Organization:Wisdom Consulting Group, Inc.
+Admin Street1:27 North Wacker Dr, Suite 406
+Admin Street2:
+Admin Street3:
+Admin City:Chicago
+Admin State/Province:Illinois
+Admin Postal Code:60606
+Admin Country:US
+Admin Phone:+1.3128422200
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@wisdomgroup.com
+Tech ID:CR34551277
+Tech Name:WindyCityRails.org Domain
+Tech Organization:Wisdom Consulting Group, Inc.
+Tech Street1:27 North Wacker Dr, Suite 406
+Tech Street2:
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:Illinois
+Tech Postal Code:60606
+Tech Country:US
+Tech Phone:+1.3128422200
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@wisdomgroup.com
+Name Server:NS19.DOMAINCONTROL.COM
+Name Server:NS20.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

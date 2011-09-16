@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104692762-LROR
+Domain Name:GREGORIANS.ORG
+Created On:27-Jul-2004 16:18:18 UTC
+Last Updated On:13-Dec-2008 17:21:14 UTC
+Expiration Date:27-Jul-2014 16:18:18 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuJzOioCghpEbDCv
+Registrant Name:Thomas Bushnell, BSG
+Registrant Organization:Brotherhood of Saint Gregory
+Registrant Street1:4531 Ellenwood Dr. #5
+Registrant Street2:
+Registrant Street3:
+Registrant City:Los Angeles
+Registrant State/Province:CA
+Registrant Postal Code:90041
+Registrant Country:US
+Registrant Phone:+1.7033465654
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tb@becket.net
+Admin ID:tu2iKtsaHh7JpdFS
+Admin Name:Thomas Bushnell, BSG
+Admin Organization:Brotherhood of Saint Gregory
+Admin Street1:4531 Ellenwood Dr. #5
+Admin Street2:
+Admin Street3:
+Admin City:Los Angeles
+Admin State/Province:CA
+Admin Postal Code:90041
+Admin Country:US
+Admin Phone:+1.7033465654
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tb@becket.net
+Tech ID:tuZqB3Iar2szQJ6m
+Tech Name:Thomas Bushnell, BSG
+Tech Organization:Brotherhood of Saint Gregory
+Tech Street1:4531 Ellenwood Dr. #5
+Tech Street2:
+Tech Street3:
+Tech City:Los Angeles
+Tech State/Province:CA
+Tech Postal Code:90041
+Tech Country:US
+Tech Phone:+1.7033465654
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tb@becket.net
+Name Server:BIFROST.SEASTROM.COM
+Name Server:NS1.GNU.ORG
+Name Server:ALFHEIM.SEASTROM.COM
+Name Server:NS.RED-BEAN.COM
+Name Server:AQUINAS.BECKET.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

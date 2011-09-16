@@ -1,0 +1,85 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 17:51:52 2011
+
+domain:       becolink.cz
+registrant:   SB:ST52-RIPE_XX
+admin-c:      ST52-RIPE
+nsset:        NSS:JB186-RIPE_XX:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   05.05.1996 02:00:00
+changed:      22.10.2003 14:50:00
+expire:       12.10.2012
+
+contact:      SB:ST52-RIPE_XX
+org:          BECO Link, Ltd.
+name:         BECO Link, Ltd.
+address:      Jindrisska 2038
+address:      Pardubice
+address:      530 02
+address:      CZ
+e-mail:       stefan@becolink.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+
+contact:      ST52-RIPE
+name:         Stefan Trulik
+address:      CZ
+phone:        +420 466657049
+fax-no:       +420 466657052
+e-mail:       stefan@becolink.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+changed:      02.04.2004 11:23:00
+
+nsset:        NSS:JB186-RIPE_XX:1
+nserver:      fenix.becolink.cz (213.226.192.2)
+nserver:      sns.vol.cz
+tech-c:       JB186-RIPE
+tech-c:       SB:JB186-RIPE_XX
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+changed:      09.06.2008 15:31:10
+
+contact:      JB186-RIPE
+name:         Jan Beranek
+address:      Jindrisska 2038
+address:      Pardubice
+address:      53002
+address:      CZ
+phone:        +420.466657049
+fax-no:       +420.466657052
+e-mail:       beco@becolink.cz
+registrar:    REG-DIAL-TEL
+created:      10.08.2001 22:13:00
+changed:      05.12.2006 17:05:00
+
+contact:      SB:JB186-RIPE_XX
+org:          BECO Link, Ltd.
+name:         BECO Link, Ltd.
+address:      Jindrisska 2038
+address:      Pardubice
+address:      530 02
+address:      CZ
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      22.07.2003 09:36:00
+
+

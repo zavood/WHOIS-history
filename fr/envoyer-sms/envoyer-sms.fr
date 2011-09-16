@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; envoyer-sms.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      envoyer-sms.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    G1877-FRNIC
+admin-c:     BJ1152-FRNIC
+tech-c:      DT124-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL41195-FRNIC
+registrar:   GROUPE MIT
+anniversary: 13/03
+created:     13/03/2008
+last-update: 20/09/2010
+source:      FRNIC
+
+ns-list:     NSL41195-FRNIC
+nserver:     ns1.groupe-mit.com
+nserver:     ns2.groupe-mit.com
+source:      FRNIC
+
+registrar:   GROUPE MIT
+type:        Isp Option 1
+address:     143 Rue Emile Julien
+address:     MONTPELLIER
+country:     FR
+phone:       0 825 00 33 42
+fax-no:      +33 4 67 65 10 44
+e-mail:      info@drim.com
+website:     http://www.drim.com
+anonymous:   NO
+registered:  18/02/2004
+source:      FRNIC
+
+nic-hdl:     G1877-FRNIC
+type:        ORGANIZATION
+contact:     GibMedia
+address:     99, route d'Espagne
+address:     31100 Toulouse
+country:     FR
+phone:       +33 5 67 04 04 40
+fax-no:      +33 5 61 83 81 52
+e-mail:      domaine@gibmedia.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     BJ1152-FRNIC
+type:        PERSON
+contact:     Benjamin Jayet
+address:     GibMedia
+address:     99, route d'espagne
+address:     31100 Toulouse
+country:     FR
+phone:       +33 5 67 04 04 40
+fax-no:      +33 5 61 83 81 52
+e-mail:      domaine@gibmedia.fr
+changed:     17/01/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DT124-FRNIC
+type:        ROLE
+contact:     DRIM TECHNOLOGIES
+address:     DRIM TECHNOLOGIES
+address:     Pit de la Pompignane batiment T4
+address:     rue de la Vieille Poste
+address:     34055 Montpellier Cedex 1
+country:     FR
+e-mail:      domaine@drim.com
+admin-c:     PC939-FRNIC
+tech-c:      PC939-FRNIC
+changed:     20/02/2004 domaine@drim.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

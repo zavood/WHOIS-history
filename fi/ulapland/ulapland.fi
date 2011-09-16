@@ -1,0 +1,21 @@
+
+domain:   ulapland.fi
+descr:    Lapin yliopisto
+descr:    02928005
+address:  Atk-palvelut
+address:  PL 122
+address:  96101
+address:  Rovaniemi
+phone:    +358 16 341 2301
+status:   Granted
+created:  30.9.2003
+expires:  30.9.2012
+nserver: levi.ulapland.fi [OK] 193.167.212.34
+nserver: luosto.ulapland.fi [OK] 193.167.212.35
+nserver: ns1-fin.global.sonera.fi [OK]
+nserver: ns1-swe.global.sonera.se [OK]
+nserver: ns2-fin.global.sonera.fi [OK]
+nserver: ns2-usa.global.sonera.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority
