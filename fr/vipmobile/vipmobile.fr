@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; vipmobile.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      vipmobile.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     AV2147-FRNIC
+tech-c:      AV2148-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6020-FRNIC
+registrar:   NETIM
+anniversary: 11/02
+created:     11/02/2010
+last-update: 11/02/2010
+source:      FRNIC
+
+ns-list:     NSL6020-FRNIC
+nserver:     ns5.securenetim.net
+nserver:     ns6.securenetim.net
+source:      FRNIC
+
+registrar:   NETIM
+type:        Isp Option 1
+address:     Euratechnologies
+address:     165 Avenue de Bretagne
+address:     LILLE
+country:     FR
+phone:       +33 9 72 11 33 52
+fax-no:      +33 3 59 35 03 74
+e-mail:      contact@netim.fr
+website:     http://www.netim.fr
+anonymous:   NO
+registered:  04/01/2005
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     13/04/2011 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AV2147-FRNIC
+type:        PERSON
+contact:     Antonio Villella
+address:     NEOMOBILE SPA
+address:     4, de l'abreuvoir
+address:     92415 Paris
+country:     FR
+phone:       +33 6 35 36 68 90
+e-mail:      antonio.villella@neomobilegroup.com
+changed:     11/02/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AV2148-FRNIC
+type:        PERSON
+contact:     Antonio Villella
+address:     NEOMOBILE SPA
+address:     65, boulevard Sebastopol
+address:     75001 Paris
+country:     FR
+phone:       +33 1 40 13 90 42
+fax-no:      +39 0654221788
+e-mail:      antonio.villella@neomobilegroup.com
+changed:     13/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

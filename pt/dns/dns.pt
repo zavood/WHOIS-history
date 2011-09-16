@@ -1,0 +1,28 @@
+Nome de dom&iacute;nio / Domain Name: dns.pt
+Data de registo / Creation Date (dd/mm/yyyy): 03/10/1991
+Data de expira&ccedil;&atilde;o / Expiration Date (dd/mm/yyyy): 31/12/2011
+Estado / Status: ACTIVE
+
+Titular / Registrant
+   Funda&ccedil;&atilde;o para a Computa&ccedil;&atilde;o Cientifica Nacional
+   Av. do Brasil, no. 101
+   Lisboa
+   1700-066 Lisboa
+   Email: secretaria@fccn.pt
+
+Entidade Gestora / Billing Contact
+   Funda&ccedil;&atilde;o para a Computa&ccedil;&atilde;o Cientifica Nacional
+   Email: secretaria@fccn.pt
+
+Respons&aacute;vel T&eacute;cnico / Tech Contact
+
+Nameserver Information
+   Nameserver: dns.pt	NS	ns.dns.pt.
+   Nameserver: dns.pt	NS	ns02.fccn.pt.
+   Nameserver: dns.pt	NS	inesc.inesc.pt.
+   Nameserver: ns.dns.pt.	A	193.136.0.1
+   Nameserver: ns02.fccn.pt.	A	193.136.2.228
+   Nameserver: inesc.inesc.pt.	A	146.193.0.1
+   Nameserver: ns.dns.pt.	AAAA	2001:690:a00:1016:905::1
+   Nameserver: ns02.fccn.pt.	AAAA	2001:690:a80:4001::200
+   Nameserver: dns.pt DS ED346BCCEED24AC3310FAF8BCC98EC928AD1F7EC RSA/SHA-1 (NSEC3) SHA-1 46146

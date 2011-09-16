@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 17-jul-2010
    Expiration Date: 17-jul-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:58:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:53:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,14 +77,36 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    7Seas Technologies Limited
+   6-3-1239/2/A, 3rd Floor, Kotis Court,
+   Rajbhavan Road, Somajiguda
+   Hyderabad, Andhra Pradesh 500082
+   India
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: 7SEASENT.COM
+      Created on: 16-Jul-10
+      Expires on: 16-Jul-15
+      Last Updated on: 16-Jul-10
+
+   Administrative Contact:
+      Lingamaneni, Maruti Sanker  7seastech@gmail.com
+      7Seas Technologies Limited
+      6-3-1239/2/A, 3rd Floor, Kotis Court,
+      Rajbhavan Road, Somajiguda
+      Hyderabad, Andhra Pradesh 500082
+      India
+      (403) 068-6161      Fax -- (403) 068-6163
+
+   Technical Contact:
+      Lingamaneni, Maruti Sanker  7seastech@gmail.com
+      7Seas Technologies Limited
+      6-3-1239/2/A, 3rd Floor, Kotis Court,
+      Rajbhavan Road, Somajiguda
+      Hyderabad, Andhra Pradesh 500082
+      India
+      (403) 068-6161      Fax -- (403) 068-6163
 
    Domain servers in listed order:
       NS37.DOMAINCONTROL.COM
       NS38.DOMAINCONTROL.COM
 
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=7SEASENT.COM

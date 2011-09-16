@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 04-jun-1995
    Expiration Date: 03-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:58:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:48:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,15 +78,34 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 Registrant:
    Glenrose Systems
+   P. O. Box 161270
+   Austin, Texas 78716-1270
+   United States
 
    Registered through: Sustainable Sources
    Domain Name: GLENROSE.COM
+      Created on: 03-Jun-95
+      Expires on: 02-Jun-12
+      Last Updated on: 06-Apr-11
+
+   Administrative Contact:
+      Christensen, Bill  billc_lists@greenbuilder.com
+      Greenbuilder.com
+      108 Royal Way #1004
+      Austin, Texas 78737
+      United States
+      5122885223      Fax --
+
+   Technical Contact:
+      Christensen, Bill  billc_lists@greenbuilder.com
+      Greenbuilder.com
+      108 Royal Way #1004
+      Austin, Texas 78737
+      United States
+      5122885223      Fax --
 
    Domain servers in listed order:
       NS1.SUSTAINABLESOURCES.COM
       NS2.SUSTAINABLESOURCES.COM
       NS3.SUSTAINABLESOURCES.COM
 
-
-   For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=GLENROSE.COM&amp;prog_id=greenbuilder
