@@ -1,0 +1,115 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; stif-idf.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      stif-idf.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SDTP11-FRNIC
+admin-c:     CM1493-FRNIC
+tech-c:      TG251-FRNIC
+tech-c:      TK6368-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6612-FRNIC
+registrar:   ORDIPAT
+anniversary: 02/05
+created:     23/11/2000
+last-update: 11/07/2007
+source:      FRNIC
+
+ns-list:     NSL6612-FRNIC
+nserver:     ns0.ordipat.fr [193.41.194.1]
+nserver:     ns2.ordipat.fr [193.41.194.2]
+nserver:     ns3.ordipat.fr [80.252.167.195]
+source:      FRNIC
+
+registrar:   ORDIPAT
+type:        Isp Option 1
+address:     3 Rue Moncey
+address:     PARIS
+country:     FR
+phone:       +33 1 72 74 00 00
+fax-no:      +33 1 53 32 80 89
+e-mail:      info@ordipat.fr
+website:     http://www.ordipat.net/
+anonymous:   NO
+registered:  01/01/1999
+source:      FRNIC
+
+nic-hdl:     TG251-FRNIC
+type:        PERSON
+contact:     Thierry Gaiffe
+address:     ORDIPAT
+address:     3, rue Moncey
+address:     75009 Paris
+country:     FR
+phone:       +33 1 53 32 86 60
+fax-no:      +33 1 53 32 84 39
+e-mail:      gaiffe@ordipat.fr
+notify:      gaiffe@ordipat.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SDTP11-FRNIC
+type:        ORGANIZATION
+contact:     SYNDICAT DES TRANSPORTS PARISIENS
+address:     39bis, rue de Ch&acirc;teaudun
+address:     75009 Paris
+country:     FR
+phone:       +33 1 72 74 00 00
+e-mail:      noc@ordipat.fr
+changed:     02/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CM1493-FRNIC
+type:        PERSON
+contact:     Christophe Menant
+address:     Syndicat des Transports d'Ile de France
+address:     39bis, rue de Ch&acirc;teaudun
+address:     75009 Paris
+country:     FR
+phone:       +33 1 72 74 00 00
+e-mail:      christophe.menant@stf-idf.fr
+changed:     02/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     TK6368-FRNIC
+type:        ROLE
+contact:     tech ordipat
+address:     ORDIPAT
+address:     3, rue Moncey
+address:     75009 Paris
+country:     FR
+phone:       +33 1 53 32 86 60
+fax-no:      +33 1 53 32 80 89
+e-mail:      admins@ordipat.fr
+trouble:     Information: http://www.ordipat.fr
+trouble:     Questions: mailto:info@ordipat.fr
+admin-c:     TG251-FRNIC
+tech-c:      TG251-FRNIC
+notify:      admins@ordipat.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

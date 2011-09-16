@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 28-mar-1996
    Expiration Date: 29-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 10:31:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 05:55:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 Registrant:
    1-800CONTACTS, INC.
-   66 East Wadsworth Park Drive
-   Draper, Utah 84020
-   United States
 
    Registered through: Digital Asset Protection
    Domain Name: 1800CONTACTS.COM
-      Created on: 28-Mar-96
-      Expires on: 28-Mar-13
-      Last Updated on: 17-Mar-10
-
-   Administrative Contact:
-      Sutton, Kenny  domain@1800contacts.com
-      1-800CONTACTS, INC.
-      66 East Wadsworth Park Drive
-      Draper, Utah 84020
-      United States
-      +1.8019249800
-
-   Technical Contact:
-      Sutton, Kenny  domain@1800contacts.com
-      1-800CONTACTS, INC.
-      66 East Wadsworth Park Drive
-      Draper, Utah 84020
-      United States
-      +1.8019249800
 
    Domain servers in listed order:
       UDNS2.ULTRADNS.NET
       UDNS1.ULTRADNS.NET
 
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=1800CONTACTS.COM&amp;prog_id=

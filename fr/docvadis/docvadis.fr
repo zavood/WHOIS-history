@@ -1,0 +1,92 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; docvadis.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      docvadis.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LMSD3-FRNIC
+admin-c:     LR2572-FRNIC
+tech-c:      GNMC1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5471-FRNIC
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+anniversary: 29/03
+created:     30/05/2007
+last-update: 09/06/2011
+source:      FRNIC
+
+ns-list:     NSL5471-FRNIC
+nserver:     cbru.br.ns.els-gms.att.net
+nserver:     cmtu.mt.ns.els-gms.att.net
+source:      FRNIC
+
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+type:        Isp Option 1
+address:     Emerald Tech Center
+address:     391 N. Ancestor Place
+address:     ID 83704 BOISE
+country:     US
+phone:       +1 208 389 5740
+fax-no:      +1 208 389 5771
+e-mail:      ccops@markmonitor.com
+website:     http://www.markmonitor.com
+anonymous:   NO
+registered:  10/01/2002
+source:      FRNIC
+
+nic-hdl:     LMSD3-FRNIC
+type:        ORGANIZATION
+contact:     Laboratoires Merck Sharp &amp; Dohme Chibret
+address:     3, avenue Hoche
+address:     75008 Paris
+country:     FR
+phone:       +33 1 47 54 87 00
+e-mail:      merckdomains@merck.com
+changed:     12/04/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     LR2572-FRNIC
+type:        PERSON
+contact:     Linda Rauch
+address:     3, avenue Hoche
+address:     75008 Paris
+country:     FR
+phone:       +33 1 47 54 87 00
+e-mail:      merckdomains@merck.com
+changed:     03/03/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GNMC1-FRNIC
+type:        PERSON
+contact:     Global Network Management Center Gnmc)
+address:     AT&amp;T DNS Services, Inc.
+address:     1111 Woodsmill Dr.
+address:     63017 Town and Country
+country:     US
+phone:       +1 6365195708
+fax-no:      +1 6365195573
+e-mail:      rm-hostmaster@ems.att.com
+changed:     01/03/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
