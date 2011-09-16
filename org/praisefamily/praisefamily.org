@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D28502372-LROR
+Domain Name:PRAISEFAMILY.ORG
+Created On:05-Jun-2000 00:30:11 UTC
+Last Updated On:08-Oct-2010 23:14:48 UTC
+Expiration Date:05-Jun-2015 00:30:11 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:24887269cfc93771
+Registrant Name:Randy Smith
+Registrant Organization:Industrial Recruiting Services Inc.
+Registrant Street1:P.O. Box 190461
+Registrant Street2:
+Registrant Street3:
+Registrant City:Mobile
+Registrant State/Province:AL
+Registrant Postal Code:36619
+Registrant Country:US
+Registrant Phone:+1.2516611755
+Registrant Phone Ext.:
+Registrant FAX:+1.2516611770
+Registrant FAX Ext.:
+Registrant Email:randy@reliablestaffinginc.com
+Admin ID:92754019ebff0628
+Admin Name:Randy Smith
+Admin Organization:Reliable Staffing
+Admin Street1:P.O. Box 190461
+Admin Street2:
+Admin Street3:
+Admin City:Mobile
+Admin State/Province:AL
+Admin Postal Code:36619
+Admin Country:US
+Admin Phone:+1.2516611755
+Admin Phone Ext.:
+Admin FAX:+1.2516611770
+Admin FAX Ext.:
+Admin Email:randy@reliablestaffinginc.com
+Tech ID:C47112443-RCOM
+Tech Name:Randy Smith
+Tech Organization:Industrial Recruiting Services Inc.
+Tech Street1:P.O. Box 190461
+Tech Street2:
+Tech Street3:
+Tech City:Mobile
+Tech State/Province:AL
+Tech Postal Code:36619
+Tech Country:US
+Tech Phone:+1.2516623150
+Tech Phone Ext.:
+Tech FAX:+1.2516623151
+Tech FAX Ext.:
+Tech Email:rsmith@industrialrecruiting.com
+Name Server:NS1.PEPPERMEDIANET.COM
+Name Server:NS2.PEPPERMEDIANET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

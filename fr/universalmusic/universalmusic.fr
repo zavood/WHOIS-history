@@ -1,0 +1,65 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; universalmusic.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      universalmusic.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UM7-FRNIC
+admin-c:     UM7-FRNIC
+tech-c:      UM7-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5146-FRNIC
+registrar:   ASCIO TECHNOLOGIES Inc.
+anniversary: 04/01
+created:     08/01/1998
+last-update: 04/01/2011
+source:      FRNIC
+
+ns-list:     NSL5146-FRNIC
+nserver:     ns1.artful.net
+nserver:     ns2.artful.net
+nserver:     ns3.artful.net
+source:      FRNIC
+
+registrar:   ASCIO TECHNOLOGIES Inc.
+type:        Isp Option 1
+address:     Islands Brygge 55
+address:     DK-2300 COPENHAGUE S
+country:     DK
+phone:       +45 33 88 61 00
+fax-no:      +45 33 88 61 01
+e-mail:      nicrelations@ascio.com
+website:     http://www.ascio.com
+anonymous:   NO
+registered:  18/01/2001
+source:      FRNIC
+
+nic-hdl:     UM7-FRNIC
+type:        ORGANIZATION
+contact:     UNIVERSAL MUSIC FRANCE
+address:     20, rue des Fosses Saint Jacques
+address:     75005 Paris
+country:     FR
+phone:       +33 1 44 41 94 99
+fax-no:      +33 1 44 41 94 98
+e-mail:      corporate-services@netnames.com
+changed:     09/12/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

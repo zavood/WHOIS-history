@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 28-may-1999
    Expiration Date: 28-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:01:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 02:40:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,85 +55,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- broadbandreports.com
- 408/1636 third avenue
- New York, NY 10128
- US
-
- Domain name: DSLREPORTS.COM
-
-
- Administrative Contact:
-    Manager, Domain  tucows@dslr.net
-    408/1636 third avenue
-    New York, NY 10128
-    US
-    212 937 3800
- Technical Contact:
-    Manager, Domain  tucows@dslr.net
-    408/1636 third avenue
-    New York, NY 10128
-    US
-    212 937 3800
-
-
- Registration Service Provider:
-    Hover, help@hover.com
-    416.538.5498
-    http://help.hover.com
-
-
-
- Registrar of Record: TUCOWS, INC.
- Record last updated on 24-Apr-2011.
- Record expires on 28-May-2013.
- Record created on 28-May-1999.
-
- Registrar Domain Name Help Center:
-    http://tucowsdomains.com
-
- Domain servers in listed order:
-    NS2.EASYDNS.COM
-    NS6.EASYDNS.NET
-    REMOTE2.EASYDNS.COM
-    REMOTE1.EASYDNS.COM
-    NS1.EASYDNS.COM
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-Tucows makes this information available &quot;as is,&quot; and does not guarantee its
-accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Tucows.
-
-Tucows reserves the right to terminate your access to the Tucows WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
-
-Tucows reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

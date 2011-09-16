@@ -1,0 +1,104 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; polytrans.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      polytrans.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    P8373-FRNIC
+admin-c:     JG1671-FRNIC
+tech-c:      HN20-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL11541-FRNIC
+registrar:   NAMEBAY
+anniversary: 28/10
+created:     17/04/2000
+last-update: 28/10/2010
+source:      FRNIC
+
+ns-list:     NSL11541-FRNIC
+nserver:     ns1.medialibs.com
+nserver:     ns2.pulsation.fr [80.74.64.2]
+nserver:     ns3.pulsation.fr
+source:      FRNIC
+
+registrar:   NAMEBAY
+type:        Isp Option 1
+address:     27 Boulevard des Moulins
+address:     98000 MONACO
+country:     MC
+phone:       +377 97 70 61 64
+fax-no:      +377 97 97 21 13
+e-mail:      contact@namebay.com
+website:     http://www.namebay.com
+anonymous:   NO
+registered:  18/09/2001
+source:      FRNIC
+
+nic-hdl:     P8373-FRNIC
+type:        ORGANIZATION
+contact:     POLYTRANS
+address:     route de la Previere
+address:     49420 Pouanc&eacute;
+country:     FR
+phone:       +33 2 41 92 49 60
+fax-no:      +33 2 41 92 40 40
+e-mail:      domaines@fidelis.fr
+changed:     28/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JG1671-FRNIC
+type:        PERSON
+contact:     Julien Guerry
+address:     MEDIAPILOTE
+address:     8, rue Terre Neuve
+address:     Z. Tertiaire de l'ecuy&egrave;re
+address:     49300 Cholet
+country:     FR
+phone:       +33 2 41 70 05 12
+fax-no:      +33 2 41 70 05 17
+e-mail:      domaines@mediapilote.com
+changed:     23/07/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HN20-FRNIC
+type:        ROLE
+contact:     Hostmaster Namebay
+address:     Namebay
+address:     Namebay SAM
+address:     30 bld Princesse Charlotte
+address:     98000 Monaco
+country:     MC
+phone:       +377 97706164
+fax-no:      +377 97972113
+e-mail:      techafnic@namebay.com
+trouble:     http://www.namebay.com
+trouble:     Support : hotline@namebay.com
+trouble:     Spam : abuse@namebay.com
+admin-c:     CV97-FRNIC
+tech-c:      FH448-FRNIC
+tech-c:      BF81-FRNIC
+notify:      techafnic@namebay.com
+changed:     28/09/2001 techafnic@namebay.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

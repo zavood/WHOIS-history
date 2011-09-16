@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 24-jul-2007
    Expiration Date: 24-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:10:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 02:36:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,7 +73,7 @@ Strickland, Daniel
 
    Record expires on 24-Jul-2012.
    Record created on 24-Jul-2007.
-   Database last updated on 12-Sep-2011 18:01:11 EDT.
+   Database last updated on 15-Sep-2011 22:26:01 EDT.
 
    Domain servers in listed order:
 

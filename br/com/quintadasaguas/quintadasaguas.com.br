@@ -1,0 +1,54 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 23:38:21 (BRT -03:00)
+
+domain:      quintadasaguas.com.br
+owner:       Silvana Fernandes da Costa
+ownerid:     721.735.217-72
+country:     BR
+owner-c:     SIC230
+admin-c:     SIC230
+tech-c:      SIC230
+billing-c:   SIC230
+nserver:     nsa1.k8.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     nsa2.k8.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     nsa3.k8.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     nsa4.k8.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     nsa5.k8.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     nsa6.k8.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20090812 #5878548
+expires:     20130812
+changed:     20110718
+status:      published
+
+nic-hdl-br:  SIC230
+person:      Silvana Costa
+e-mail:      silvana@itcp.coppe.ufrj.br
+created:     20040916
+changed:     20051101
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

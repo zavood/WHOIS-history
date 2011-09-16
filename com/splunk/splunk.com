@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 07-dec-2001
    Expiration Date: 07-dec-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:37:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 02:38:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,58 +56,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- Splunk
- 250 Brannan Street, 2nd Floor
- San Francisco, CA 94107
- US
-
- Domain name: SPLUNK.COM
-
-
- Administrative Contact:
-    Operations, Splunk  ops@splunk.com
-    250 Brannan Street, 2nd Floor
-    San Francisco, CA 94107
-    US
-    414-848-8500
- Technical Contact:
-    Operations, Splunk  ops@splunk.com
-    250 Brannan Street, 2nd Floor
-    San Francisco, CA 94107
-    US
-    414-848-8500
-
-
- Registrar of Record: easyDNS Technologies, Inc.
- Record last updated on 01-Sep-2011.
- Record expires on 07-Dec-2016.
- Record created on 07-Dec-2001.
-
- Domain servers in listed order:
-    NS1.EASYDNS.COM   64.68.192.10
-    NS6.EASYDNS.NET   72.52.2.1
-    REMOTE2.EASYDNS.COM   72.52.2.1
-    NS3.EASYDNS.ORG   64.68.192.10
-    NS2.EASYDNS.COM   72.52.2.1
-    REMOTE1.EASYDNS.COM   64.68.192.10
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-This domain is being managed via EASYDNS
-
-The DNS Hosting specialists since 1998
-
-DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
-
-Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
-
-System Status Updates: http://easyurl.net/easystatus
-
-( Follow us on Twitter http://twitter.com/easydns
-  or Identi.ca http://identi.ca/easyDNS )
-
-
-You have 1 lookups left today
+Too many lookups from this IP today. See you tomorrow.

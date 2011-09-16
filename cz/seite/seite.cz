@@ -1,0 +1,59 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 04:39:22 2011
+
+domain:       seite.cz
+registrant:   IX-10541456
+admin-c:      IX-10862038
+nsset:        INTERNETX-58B284E7DC7763EFB0204043A8A68EC9-1
+registrar:    REG-INTERNETX
+status:       paid and in zone
+registered:   29.08.2007 17:05:00
+changed:      24.08.2011 14:08:56
+expire:       29.08.2012
+
+contact:      IX-10541456
+name:         websuche search technology gmbh &amp; co. kg
+address:      martinistr 3
+address:      osnabrueck
+address:      49080
+address:      osnabrueck
+address:      DE
+registrar:    REG-INTERNETX
+created:      24.08.2011 14:08:51
+
+contact:      IX-10862038
+org:          Websuche Search Technology GmbH &amp; Co. KG
+name:         Ansas Meyer
+address:      Martinistr. 3
+address:      Osnabrueck
+address:      49080
+address:      DE
+address:      DE
+registrar:    REG-INTERNETX
+created:      24.08.2011 14:08:52
+
+nsset:        INTERNETX-58B284E7DC7763EFB0204043A8A68EC9-1
+nserver:      ns1.subdomain.com
+nserver:      ns2.subdomain.com
+tech-c:       IX-10541456
+registrar:    REG-INTERNETX
+created:      24.08.2011 14:08:55
+
+

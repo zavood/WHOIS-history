@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158215878-LROR
+Domain Name:PORTLANDSOCCER.ORG
+Created On:27-Jan-2010 19:04:37 UTC
+Last Updated On:30-Dec-2010 08:50:14 UTC
+Expiration Date:27-Jan-2012 19:04:37 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:101d966645267d0d
+Registrant Name:Amy  Pate
+Registrant Organization:Portland High School Soccer
+Registrant Street1:5228 SE Simpson St
+Registrant Street2:
+Registrant Street3:
+Registrant City:Portland
+Registrant State/Province:OR
+Registrant Postal Code:97218
+Registrant Country:US
+Registrant Phone:+1.5036206661
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:accounting@bonzidev.com
+Admin ID:101d966645267d0d
+Admin Name:Amy  Pate
+Admin Organization:Portland High School Soccer
+Admin Street1:5228 SE Simpson St
+Admin Street2:
+Admin Street3:
+Admin City:Portland
+Admin State/Province:OR
+Admin Postal Code:97218
+Admin Country:US
+Admin Phone:+1.5036206661
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:accounting@bonzidev.com
+Tech ID:101d966645267d0d
+Tech Name:Amy  Pate
+Tech Organization:Portland High School Soccer
+Tech Street1:5228 SE Simpson St
+Tech Street2:
+Tech Street3:
+Tech City:Portland
+Tech State/Province:OR
+Tech Postal Code:97218
+Tech Country:US
+Tech Phone:+1.5036206661
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:accounting@bonzidev.com
+Name Server:NS1.BONZIDEV.COM
+Name Server:NS2.BONZIDEV.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 23:39:01 (BRT -03:00)
+
+domain:      prnewswire.com.br
+owner:       Notilog do Brasil Servi&ccedil;os Informativos Ltda
+ownerid:     006.910.579/0001-06
+responsible: Pablo Anzorena Lozoya
+country:     BR
+owner-c:     JBC144
+admin-c:     JBC144
+tech-c:      JOA85
+billing-c:   NSB4
+nserver:     ns1.prnewswire.com.br 187.17.65.170
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.prnewswire.com.br 189.39.11.52
+nsstat:      20110915 NOT SYNC ZONE
+nslastaa:    20110915
+created:     20000313 #284107
+expires:     20120313
+changed:     20110217
+status:      published
+
+nic-hdl-br:  JBC144
+person:      Joaquin Burgos Carreto
+e-mail:      joaquin@notilog.com
+created:     20040722
+changed:     20070102
+
+nic-hdl-br:  JOA85
+person:      Jo&atilde;o Abramo
+e-mail:      jabramo@backend.com.br
+created:     20000107
+changed:     20090430
+
+nic-hdl-br:  NSB4
+person:      Network Solutions - Brazil
+e-mail:      dominios@opelnet.com.br
+created:     19990403
+changed:     20090625
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
