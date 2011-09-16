@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96727409-LROR
+Domain Name:OKLARIFLE.ORG
+Created On:14-Apr-2003 14:50:07 UTC
+Last Updated On:31-Jan-2011 02:18:03 UTC
+Expiration Date:14-Apr-2012 14:50:07 UTC
+Sponsoring Registrar:Catalog.com, Inc (R98-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CTLG235114
+Registrant Name:CHARLES H. SMITH
+Registrant Organization:CHARLES H. SMITH
+Registrant Street1:P.O. BOX 850927
+Registrant Street2:
+Registrant Street3:
+Registrant City:YUKON
+Registrant State/Province:
+Registrant Postal Code:73085-0927
+Registrant Country:US
+Registrant Phone:+1.4053242450
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:okgun@prodigy.net
+Admin ID:CTLG235694
+Admin Name:CHARLES H. SMITH
+Admin Organization:OKLAHOMA RIFLE ASSOC.
+Admin Street1:P.O. BOX 850927
+Admin Street2:
+Admin Street3:
+Admin City:YUKON
+Admin State/Province:
+Admin Postal Code:73085-0927
+Admin Country:US
+Admin Phone:+1.4053242450
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:okgun@prodigy.net
+Tech ID:CTLG235693
+Tech Name:Ron Hull
+Tech Organization:OKLAHOMA RIFLE ASSOC.
+Tech Street1:HC70 Box 85
+Tech Street2:
+Tech Street3:
+Tech City:Boswell
+Tech State/Province:OK
+Tech Postal Code:74727-9309
+Tech Country:US
+Tech Phone:+1.5662687
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ronhull@oklarifle.org
+Name Server:NS1.ICH-17.COM
+Name Server:NS2.ICH-17.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

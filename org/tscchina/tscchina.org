@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158025618-LROR
+Domain Name:TSCCHINA.ORG
+Created On:11-Jan-2010 10:35:16 UTC
+Last Updated On:31-Dec-2010 03:41:05 UTC
+Expiration Date:11-Jan-2012 10:35:16 UTC
+Sponsoring Registrar:Web Commerce Communications Limited dba WebNic.cc (R140-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:WN14655232T
+Registrant Name:wu zhijie
+Registrant Organization:wu zhijie
+Registrant Street1:room 1401, no.140 tianhe qu tiyu east road
+Registrant Street2:
+Registrant Street3:
+Registrant City:gz
+Registrant State/Province:
+Registrant Postal Code:510000
+Registrant Country:CN
+Registrant Phone:+86.013719479852
+Registrant Phone Ext.:
+Registrant FAX:+86.2038878613
+Registrant FAX Ext.:
+Registrant Email:gzwzj@126.com
+Admin ID:WN14655233T
+Admin Name:wen biwei
+Admin Organization:GZ JK Tech. Co.
+Admin Street1:GuangZhou
+Admin Street2:-
+Admin Street3:
+Admin City:GuangZhou
+Admin State/Province:GD
+Admin Postal Code:510623
+Admin Country:CN
+Admin Phone:+86.2028865561
+Admin Phone Ext.:
+Admin FAX:+86.2028865563
+Admin FAX Ext.:
+Admin Email:jk@cexpress.com
+Tech ID:WN14655234T
+Tech Name:wen biwei
+Tech Organization:GZ JK Tech. Co.
+Tech Street1:GuangZhou
+Tech Street2:-
+Tech Street3:
+Tech City:GuangZhou
+Tech State/Province:GD
+Tech Postal Code:510623
+Tech Country:CN
+Tech Phone:+86.2028865561
+Tech Phone Ext.:
+Tech FAX:+86.2028865563
+Tech FAX Ext.:
+Tech Email:jk@cexpress.com
+Name Server:DNS1.CEXPRESS.COM
+Name Server:DNS2.CEXPRESS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

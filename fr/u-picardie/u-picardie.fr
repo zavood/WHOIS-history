@@ -1,0 +1,137 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; u-picardie.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      u-picardie.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UDP1-FRNIC
+admin-c:     GF2147-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      CD1361-FRNIC
+tech-c:      JCD91-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL235-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 14/04/2009
+source:      FRNIC
+
+ns-list:     NSL235-FRNIC
+nserver:     gip.u-picardie.fr [193.49.184.17]
+nserver:     omega.u-picardie.fr [193.49.184.5]
+nserver:     ns1.syrhano.net
+nserver:     orion.utc.fr [195.83.155.16]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     UDP1-FRNIC
+type:        ORGANIZATION
+contact:     UNIVERSITE DE PICARDIE JULES VERNE
+address:     Curi, 5 rue du Moulin Neuf
+address:     80000 Amiens
+country:     FR
+changed:     06/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GF2147-FRNIC
+type:        PERSON
+contact:     Georges Faure
+address:     Univ. de Picardie Jules Vernes
+address:     chemin du Thil
+address:     80025 Amiens
+country:     FR
+phone:       +33 3 22 82 72 64
+fax-no:      +33 3 22 82 75 00
+e-mail:      georges.faure@u-picardie.fr
+changed:     14/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CD1361-FRNIC
+type:        PERSON
+contact:     Christophe Dupreuil
+address:     Univ. de Picardie
+address:     Curi, 5 rue du Moulin Neuf
+address:     80000 Amiens
+country:     FR
+phone:       +33 3 22 82 78 07
+fax-no:      +33 3 22 82 72 95
+e-mail:      christophe.dupreuil@u-picardie.fr
+changed:     09/05/2005 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JCD91-FRNIC
+type:        PERSON
+contact:     Jean-Charles Delepine
+address:     Univ. de Picardie
+address:     Curi, 5 rue du Moulin Neuf
+address:     80000 Amiens
+country:     FR
+phone:       +33 3 22 82 78 68
+e-mail:      delepine@u-picardie.fr
+changed:     09/05/2005 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

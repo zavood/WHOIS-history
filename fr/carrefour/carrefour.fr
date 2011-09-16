@@ -1,0 +1,116 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; carrefour.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      carrefour.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    C1730-FRNIC
+admin-c:     ASS6-FRNIC
+tech-c:      SVG1-FRNIC
+tech-c:      IC2-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL212-FRNIC
+registrar:   INDOM
+anniversary: 23/06
+created:     23/06/2005
+last-update: 17/05/2009
+source:      FRNIC
+
+ns-list:     NSL212-FRNIC
+nserver:     antor.carrefour.com
+nserver:     keu.carrefour.com
+nserver:     ygerne.carrefour.com
+nserver:     indom10.indomco.com
+nserver:     indom20.indomco.net
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     SVG1-FRNIC
+type:        PERSON
+contact:     Indom Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     20/11/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ASS6-FRNIC
+type:        PERSON
+contact:     Anne-Sophie Sebire
+address:     Carrefour
+address:     26, quai Michelet
+address:     Tsa 20016
+address:     92695 Levallois-Perret Cedex
+country:     FR
+phone:       +33 1 55 63 39 00
+fax-no:      +33 1 55 63 40 94
+e-mail:      administrative@carrefour.com
+changed:     11/04/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     C1730-FRNIC
+type:        ORGANIZATION
+contact:     Carrefour
+address:     26, quai Michelet
+address:     Tsa 20016
+address:     92695 Levallois-Perret Cedex
+country:     FR
+phone:       +33 1 55 63 39 00
+fax-no:      +33 1 55 63 40 94
+e-mail:      administrative@carrefour.com
+changed:     11/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     IC2-FRNIC
+type:        ROLE
+contact:     INDOM Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+e-mail:      indom@indom.com
+admin-c:     SVG1-FRNIC
+tech-c:      PVG2-FRNIC
+changed:     18/12/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

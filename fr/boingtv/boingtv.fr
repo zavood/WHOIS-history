@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; boingtv.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      boingtv.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    TBSF3-FRNIC
+admin-c:     DNM1-FRNIC
+tech-c:      TSO2-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL34300-FRNIC
+registrar:   CSC CORPORATE DOMAINS INC.
+anniversary: 13/11
+created:     06/10/2009
+last-update: 21/01/2010
+source:      FRNIC
+
+ns-list:     NSL34300-FRNIC
+nserver:     ns1.timewarner.net
+nserver:     ns3.timewarner.net
+nserver:     ns5.timewarner.net
+source:      FRNIC
+
+registrar:   CSC CORPORATE DOMAINS INC.
+type:        Isp Option 1
+address:     2711 Centerville Road, Suite 400
+address:     DE 19808 WILMINGTON
+country:     US
+phone:       +1 302 636 5400
+fax-no:      +1 302 636 5454
+e-mail:      corporatedomains@cscinfo.com
+website:     http://www.csccorporatedomains.com
+anonymous:   NO
+registered:  17/10/2006
+source:      FRNIC
+
+nic-hdl:     TBSF3-FRNIC
+type:        ORGANIZATION
+contact:     TURNER BROADCASTING SYSTEM FRANCE
+address:     Turner Broadcasting System FRANCE SAS
+address:     le France 115-123 avenue Charles de Gaulle
+address:     92200 Neuilly-sur-Seine
+country:     FR
+phone:       +33 1 72 25 18 28
+fax-no:      +33 1 53 30 41 27
+e-mail:      tmgroup@turner.com
+changed:     01/02/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     DNM1-FRNIC
+type:        PERSON
+contact:     Domain Name Manager
+address:     Turner Broadcasting System FRANCE SAS
+address:     le France, 115-123 avenue Charles de Gaulle
+address:     92200 Neuilly-sur-Seine
+country:     FR
+phone:       +33 1 72 25 18 28
+fax-no:      +33 1 53 30 41 27
+e-mail:      tmgroup@turner.com
+changed:     01/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     TSO2-FRNIC
+type:        PERSON
+contact:     Tbs Server Operations
+address:     Turner Broadcasting System, Inc.
+address:     One Cnn Center 13N
+address:     30303 Atlanta Ga
+country:     US
+phone:       +1 4048275000
+fax-no:      +1 4048271593
+e-mail:      hostmaster@turner.com
+changed:     21/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
