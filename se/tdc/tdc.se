@@ -1,0 +1,36 @@
+# Copyright (c) 1997- .SE (The Internet Infrastructure Foundation).
+# All rights reserved.
+
+# The information obtained through searches, or otherwise, is protected
+# by the Swedish Copyright Act (1960:729) and international conventions.
+# It is also subject to database protection according to the Swedish
+# Copyright Act.
+
+# Any use of this material to target advertising or
+# similar activities is forbidden and will be prosecuted.
+# If any of the information below is transferred to a third
+# party, it must be done in its entirety. This server must
+# not be used as a backend for a search engine.
+
+# Result of search for registered domain names under
+# the .SE top level domain.
+
+# The data is in the UTF-8 character set and the result is
+# printed with eight bits.
+
+state:            active
+domain:           tdc.se
+holder:           tdctdc8856-00001
+admin-c:          -
+tech-c:           -
+billing-c:        -
+created:          2004-12-20
+modified:         2011-01-06
+expires:          2011-12-20
+transferred:      2010-05-11
+nserver:          a.dns.tdc.se 213.50.29.190
+nserver:          b.dns.tdc.se 213.50.29.195
+nserver:          c.dns.tdc.se 130.242.124.20
+dnssec:           signed delegation
+status:           ok
+registrar:        SE Direkt

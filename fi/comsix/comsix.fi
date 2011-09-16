@@ -1,0 +1,17 @@
+
+domain:   comsix.fi
+descr:    COMSIX OY
+descr:    15938413
+address:  Jussi Salokangas
+address:  Pl 553
+address:  00101
+address:  HELSINKI
+phone:    0408323300
+status:   Granted
+created:  4.7.2002
+expires:  31.8.2012
+nserver: auth01.comsix.fi [OK] 81.22.255.100
+nserver: auth02.comsix.fi [OK] 83.145.224.36
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

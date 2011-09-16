@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [174.142.225.246 REQUEST] &gt;&gt; visionic.tm.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      visionic.tm.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    S1293-FRNIC
+admin-c:     S1890-FRNIC
+tech-c:      NF485-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL329-FRNIC
+registrar:   NORDNET
+anniversary: 21/04
+created:     21/04/2000
+last-update: 04/12/2009
+source:      FRNIC
+
+ns-list:     NSL329-FRNIC
+nserver:     ns1.lerelaisinternet.com
+nserver:     ns2.lerelaisinternet.com
+source:      FRNIC
+
+registrar:   NORDNET
+type:        Isp Option 1
+address:     111 Rue de Croix
+address:     BP 60 985
+address:     HEM
+country:     FR
+phone:       0 820 800 810
+fax-no:      +33 3 20 66 56 29
+e-mail:      contact@nordnet.net
+website:     http://www.nordnet.com
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     S1293-FRNIC
+type:        ORGANIZATION
+contact:     sedea
+address:     zone industrielle A
+address:     Seclin
+address:     B.P. 404
+address:     59747 Seclin Cedex
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     S1890-FRNIC
+type:        ORGANIZATION
+contact:     Sedea
+address:     zone industrielle A
+address:     Bp10404
+address:     59474 Seclin
+country:     FR
+phone:       +33 3 20 96 47 47
+fax-no:      +33 3 20 32 16 74
+e-mail:      info@sedea.fr
+changed:     04/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     NF485-FRNIC
+type:        ROLE
+contact:     NORDNET France
+address:     Nordnet
+address:     111, rue de Croix
+address:     59510 Hem
+country:     FR
+phone:       +33 3 20 66 55 55
+e-mail:      tech-dom-fr@lerelaisinternet.com
+admin-c:     ML50-FRNIC
+admin-c:     DU11-FRNIC
+tech-c:      ML50-FRNIC
+tech-c:      DU11-FRNIC
+tech-c:      JG3094-FRNIC
+notify:      tech-dom-fr@lerelaisinternet.com
+changed:     17/08/2006 tech-dom-fr@lerelaisinternet.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

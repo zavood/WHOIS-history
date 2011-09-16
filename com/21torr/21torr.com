@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 08-feb-1996
    Expiration Date: 09-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:12:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:41:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -66,7 +66,7 @@ Registrars.
 % Requesting IP: 174.142.225.246
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain 21torr.com
-% Timestamp: 2011-09-14 00:12:48
+% Timestamp: 2011-09-16 03:41:48
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

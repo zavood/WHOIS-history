@@ -1,0 +1,47 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 22:38:20 (BRT -03:00)
+
+domain:      3demais.com.br
+owner:       Julieta Bedran Larica
+ownerid:     089.237.767-42
+country:     BR
+owner-c:     JUBLA3
+admin-c:     JUBLA3
+tech-c:      JUBLA3
+billing-c:   JUBLA3
+nserver:     ns1.locaweb.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.locaweb.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns3.locaweb.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20090610 #5633065
+expires:     20120610
+changed:     20100712
+provider:    LOCAWEB (2)
+status:      published
+
+nic-hdl-br:  JUBLA3
+person:      Julieta Bedran Larica
+e-mail:      julietabedran@gmail.com
+created:     20090605
+changed:     20090605
+provider:    LOCAWEB (2)
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
