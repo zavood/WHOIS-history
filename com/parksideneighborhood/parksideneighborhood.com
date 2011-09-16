@@ -5,18 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: PARKSIDENEIGHBORHOOD.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS77.DOMAINCONTROL.COM
-   Name Server: NS78.DOMAINCONTROL.COM
-   Status: pendingDelete
-   Updated Date: 10-sep-2011
-   Creation Date: 14-jan-2009
-   Expiration Date: 14-jan-2012
-
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:29:44 UTC &lt;&lt;&lt;
+No match for &quot;PARKSIDENEIGHBORHOOD.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 23:08:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-No match for &quot;parksideneighborhood.com&quot; in the registrar database.
-

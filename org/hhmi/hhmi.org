@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D330812-LROR
+Domain Name:HHMI.ORG
+Created On:14-Apr-1993 04:00:00 UTC
+Last Updated On:09-Sep-2010 15:15:26 UTC
+Expiration Date:15-Apr-2015 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:5484239-NSI
+Registrant Name:Howard Hughes Medical Institute
+Registrant Organization:Howard Hughes Medical Institute
+Registrant Street1:4000 Jones Bridge Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chevy Chase
+Registrant State/Province:MD
+Registrant Postal Code:20815-6789
+Registrant Country:US
+Registrant Phone:+1.3012158500
+Registrant Phone Ext.:
+Registrant FAX:+1.1231231234
+Registrant FAX Ext.:
+Registrant Email:mailman@hhmi.org
+Admin ID:44010483-NSI
+Admin Name:HHMI
+Admin Street1:19700 Helix Dr.
+Admin Street2:
+Admin Street3:
+Admin City:Ashburn
+Admin State/Province:VA
+Admin Postal Code:20147
+Admin Country:US
+Admin Phone:+1.5712094618
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cericg@janelia.hhmi.org
+Tech ID:5484093-NSI
+Tech Name:Arnold Fields
+Tech Organization:HHMI
+Tech Street1:4000 Jones Bridge Road
+Tech Street2:
+Tech Street3:
+Tech City:Chevy Chase
+Tech State/Province:MD
+Tech Postal Code:20815-6789
+Tech Country:US
+Tech Phone:+1.3012158764
+Tech Phone Ext.:
+Tech FAX:+1.3012158612
+Tech FAX Ext.:
+Tech Email:fieldsa@HHMI.ORG
+Name Server:SPRUCEGOOSE.HHMI.ORG
+Name Server:DNSAUTH1.SYS.GTEI.NET
+Name Server:DNSAUTH2.SYS.GTEI.NET
+Name Server:DNSAUTH3.SYS.GTEI.NET
+Name Server:OUTLAW.HHMI.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

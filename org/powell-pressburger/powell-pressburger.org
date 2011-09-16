@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D85648542-LROR
+Domain Name:POWELL-PRESSBURGER.ORG
+Created On:16-Apr-2002 16:56:13 UTC
+Last Updated On:21-Mar-2007 15:38:00 UTC
+Expiration Date:16-Apr-2012 16:56:13 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tutO8UBhIGW9pkHd
+Registrant Name:Steve Crook
+Registrant Organization:Powell and Pressburger Appreciation Society
+Registrant Street1:127 Monkleigh Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Morden
+Registrant State/Province:Surrey
+Registrant Postal Code:SM44EQ
+Registrant Country:GB
+Registrant Phone:+44.2083954043
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:Steve_JS_Crook@Hotmail.com
+Admin ID:tutO8UBhIGW9pkHd
+Admin Name:Steve Crook
+Admin Organization:Powell and Pressburger Appreciation Society
+Admin Street1:127 Monkleigh Road
+Admin Street2:
+Admin Street3:
+Admin City:Morden
+Admin State/Province:Surrey
+Admin Postal Code:SM44EQ
+Admin Country:GB
+Admin Phone:+44.2083954043
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:Steve_JS_Crook@Hotmail.com
+Tech ID:tuqbxWGJD0HY9Q7V
+Tech Name:Jake Jellinek
+Tech Organization:The Positive Internet Company Limited
+Tech Street1:24 Broadway
+Tech Street2:West Ealing
+Tech Street3:
+Tech City:London
+Tech State/Province:London
+Tech Postal Code:W130SU
+Tech Country:GB
+Tech Phone:+44.2085791555
+Tech Phone Ext.:
+Tech FAX:+44.2076811881
+Tech FAX Ext.:
+Tech Email:hostmaster@positive-internet.com
+Name Server:NS1.POSITIVE-INTERNET.COM
+Name Server:NS5.POSITIVE-INTERNET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

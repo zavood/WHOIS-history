@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D146684545-LROR
+Domain Name:PUBLICCHRISTIANITY.ORG
+Created On:21-May-2007 10:11:42 UTC
+Last Updated On:03-Aug-2011 07:18:24 UTC
+Expiration Date:21-May-2012 10:11:42 UTC
+Sponsoring Registrar:PlanetDomain Pty Ltd (R134-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ID00457573-PR
+Registrant Name:Vaughan Olliffe
+Registrant Organization:Centre for Public Christianity
+Registrant Street1:Suite 702,121 Walker St
+Registrant Street2:
+Registrant Street3:
+Registrant City:North Sydney
+Registrant State/Province:Australian Capital Territory
+Registrant Postal Code:2060
+Registrant Country:AU
+Registrant Phone:+61.299550077
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:accounts@publicchristianity.org
+Admin ID:ID00457573-PR
+Admin Name:Vaughan Olliffe
+Admin Organization:Centre for Public Christianity
+Admin Street1:Suite 702,121 Walker St
+Admin Street2:
+Admin Street3:
+Admin City:North Sydney
+Admin State/Province:Australian Capital Territory
+Admin Postal Code:2060
+Admin Country:AU
+Admin Phone:+61.299550077
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:accounts@publicchristianity.org
+Tech ID:ID00457573-PR
+Tech Name:Vaughan Olliffe
+Tech Organization:Centre for Public Christianity
+Tech Street1:Suite 702,121 Walker St
+Tech Street2:
+Tech Street3:
+Tech City:North Sydney
+Tech State/Province:Australian Capital Territory
+Tech Postal Code:2060
+Tech Country:AU
+Tech Phone:+61.299550077
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:accounts@publicchristianity.org
+Name Server:NS1.VENTRAIP.NET.AU
+Name Server:NS3.VENTRAIP.NET.AU
+Name Server:NS2.VENTRAIP.NET.AU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

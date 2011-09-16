@@ -1,0 +1,41 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       ttu.ee
+registrant:   CID:EENET:BB6F
+admin-c:      CID:EENET:52FF
+nsset:        NSSID:EENET:A47A
+registrar:    eenet
+status:       paid and in zone
+registered:   04.07.2010 03:43:44
+changed:      10.12.2010 17:06:08
+expire:       10.12.2011
+
+contact:      CID:EENET:BB6F
+name:         Tallinna Tehnika&Atilde;&frac14;likool
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      10.12.2010 17:06:04
+
+contact:      CID:EENET:52FF
+name:         Edgars &Aring;&frac12;igurs
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      10.12.2010 17:06:03
+
+nsset:        NSSID:EENET:A47A
+nserver:      ns.eenet.ee (193.40.56.245)
+nserver:      zaphod.ttu.ee (193.40.254.227)
+nserver:      benjy.cc.ttu.ee (193.40.254.226)
+nserver:      onyx.ttu.ee (193.40.242.230)
+tech-c:       CID:EENET:279E
+registrar:    eenet
+created:      10.12.2010 17:06:02
+
+contact:      CID:EENET:279E
+name:         Andres Lepp
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      03.11.2010 14:44:08
+
+

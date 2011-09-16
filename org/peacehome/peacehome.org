@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D52593126-LROR
+Domain Name:PEACEHOME.ORG
+Created On:18-Jan-2001 20:44:52 UTC
+Last Updated On:27-Feb-2011 05:37:51 UTC
+Expiration Date:18-Jan-2012 20:44:52 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32770102
+Registrant Name:Linda Wallace
+Registrant Organization:Peace Lutheran Church
+Registrant Street1:21W500 Butterfield Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lombard
+Registrant State/Province:Illinois
+Registrant Postal Code:60148
+Registrant Country:US
+Registrant Phone:+1.6306271101
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:lwallace@peacehome.org
+Admin ID:CR32770104
+Admin Name:Linda Wallace
+Admin Organization:Peace Lutheran Church
+Admin Street1:21W500 Butterfield Rd
+Admin Street2:
+Admin Street3:
+Admin City:Lombard
+Admin State/Province:Illinois
+Admin Postal Code:60148
+Admin Country:US
+Admin Phone:+1.6306271101
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:lwallace@peacehome.org
+Tech ID:CR32770103
+Tech Name:Richard Sohn
+Tech Organization:Peace Lutheran Church
+Tech Street1:21W500 Butterfield Rd
+Tech Street2:
+Tech Street3:
+Tech City:Lombard
+Tech State/Province:Illinois
+Tech Postal Code:60148
+Tech Country:US
+Tech Phone:+1.6306271101
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:richard_sohn@comcast.net
+Name Server:NS67.DOMAINCONTROL.COM
+Name Server:NS68.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

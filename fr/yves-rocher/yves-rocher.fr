@@ -1,0 +1,115 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; yves-rocher.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      yves-rocher.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LDBV17-FRNIC
+admin-c:     VL1346-FRNIC
+tech-c:      HE213-FRNIC
+tech-c:      DM4010-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2114-FRNIC
+registrar:   MELBOURNE IT LIMITED
+anniversary: 04/09
+created:     05/08/1996
+last-update: 27/05/2009
+source:      FRNIC
+
+ns-list:     NSL2114-FRNIC
+nserver:     ns1.mgn.net
+nserver:     ns2.mgn.net
+nserver:     ns3.mgn.net
+source:      FRNIC
+
+registrar:   MELBOURNE IT LIMITED
+type:        Isp Option 1
+address:     Level 2
+address:     120 King St
+address:     3000 MELBOURNE, VICTORIA
+country:     AU
+phone:       +61 3 8624 2400
+fax-no:      +61 3 8624 2499
+e-mail:      admin@melbourneitdbs.com
+website:     http://www.melbourneit.com.au
+anonymous:   NO
+registered:  16/03/2007
+source:      FRNIC
+
+nic-hdl:     VL1346-FRNIC
+type:        PERSON
+contact:     Veronique Lamour
+address:     LABORATOIRE DE BIOLOGIE VEGETALE YVES ROCHER
+address:     la Croix des Archers
+address:     56200 La Gacilly
+country:     FR
+phone:       +33 1 41 08 55 00
+fax-no:      +33 1 41 08 58 90
+e-mail:      veronique_lamour@yrnet.com
+changed:     27/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HE213-FRNIC
+type:        ROLE
+contact:     Hostmaster Euro909
+address:     VeriSign Sweden AB
+address:     Box 7101
+address:     20042 Malmo
+address:     SE
+phone:       +46 406919150
+fax-no:      +46 406919159
+e-mail:      domain@se.euro909.com
+admin-c:     TWA5-FRNIC
+tech-c:      TWA5-FRNIC
+notify:      domain@se.euro909.com
+changed:     27/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LDBV17-FRNIC
+type:        ORGANIZATION
+contact:     Laboratoires de Biologie Vegetale Yves Rocher
+address:     la Croix des Archers
+address:     56200 La Gacilly
+country:     FR
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     DM4010-FRNIC
+type:        ROLE
+contact:     DNS Master
+address:     PROSODIE
+address:     8, rue Grange Dame Rose
+address:     78140 V&eacute;lizy-Villacoublay
+country:     FR
+phone:       +33 1 34 49 06 70
+fax-no:      +33 1 39 49 06 79
+e-mail:      clheritier@verisign.com
+admin-c:     VL85-FRNIC
+tech-c:      HE2351-FRNIC
+notify:      dnsmaster@mgn.net
+changed:     27/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
