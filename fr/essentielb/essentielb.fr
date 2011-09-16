@@ -1,0 +1,112 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; essentielb.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      essentielb.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    B2002-FRNIC
+admin-c:     EV317-FRNIC
+tech-c:      CS50-FRNIC
+tech-c:      SOC1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1156-FRNIC
+registrar:   COMPLETEL SAS FRANCE
+anniversary: 12/12
+created:     12/12/2005
+last-update: 12/12/2005
+source:      FRNIC
+
+ns-list:     NSL1156-FRNIC
+nserver:     ns1.completel.fr [213.244.0.2]
+nserver:     ns2.completel.fr [213.244.0.3]
+source:      FRNIC
+
+registrar:   COMPLETEL SAS FRANCE
+type:        Isp Option 1
+address:     5 Place de la Pyramide
+address:     Tour Ariane
+address:     LA DEFENSE CEDEX
+country:     FR
+phone:       +33 1 72 92 20 00
+fax-no:      +33 1 72 92 20 01
+e-mail:      hostmaster@completel.fr
+website:     http://www.completel.fr
+anonymous:   NO
+registered:  01/07/1999
+source:      FRNIC
+
+nic-hdl:     EV317-FRNIC
+type:        PERSON
+contact:     Eric Vaneenoo
+address:     BOULANGER
+address:     rue de la Haie Plouvier
+address:     59273 Fretin
+country:     FR
+phone:       +33 1 72 74 00 00
+e-mail:      vaneenoo-er@boulnet.com
+changed:     30/08/2006 completel@ordipat.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     B2002-FRNIC
+type:        ORGANIZATION
+contact:     BOULANGER
+address:     centre Regional de Transport
+address:     rue de la Haie Plouvier
+address:     59273 Fretin
+country:     FR
+phone:       +33 1 72 74 00 00
+e-mail:      completel@ordipat.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CS50-FRNIC
+type:        ROLE
+contact:     Completel SAS
+address:     Completel SAS France
+address:     15, rue des Sorins
+address:     92741 Nanterre Cedex
+country:     FR
+phone:       +33 1 72 92 44 00
+e-mail:      nic-admin@completel.fr
+admin-c:     NIC6-FRNIC
+tech-c:      SOC1-FRNIC
+tech-c:      XP4-FRNIC
+notify:      nic-admin@completel.fr
+changed:     22/01/2001 nic-admin@completel.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SOC1-FRNIC
+type:        PERSON
+contact:     Service Operating Center
+address:     Completel SAS France
+address:     15, rue des Sorins
+address:     92741 Nanterre Cedex
+country:     FR
+phone:       +33 1 72 92 44 00
+e-mail:      soc@completel.fr
+changed:     22/01/2001 nic-admin@completel.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

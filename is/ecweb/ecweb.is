@@ -1,0 +1,41 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       ecweb.is
+descr:        EC Hugb&uacute;na&eth;ur ehf
+descr:        Thorvaldssenstr&aelig;ti 4-6, 4h&aelig;&eth;
+descr:        Landss&iacute;mah&uacute;s vi&eth; Austurv&ouml;ll
+descr:        IS-101 Reykjav&iacute;k
+admin-c:      EHE8-IS
+tech-c:       EHE8-IS
+zone-c:       EHE8-IS
+billing-c:    EHE20-IS
+nserver:      ns1.ecweb.is
+nserver:      ns2.ecweb.is
+nserver:      ns3.ecweb.is
+created:      August 28 2003
+expires:      August 28 2012
+source:       ISNIC
+
+role:         EC Hugb&uacute;na&eth;ur ehf
+address:      A&eth;alstr&aelig;ti 6
+address:      IS-101 Reykjav&iacute;k
+phone:        +354 595 5900
+e-mail:       billing@ec.is
+nic-hdl:      EHE20-IS
+created:      May 23 2006
+source:       ISNIC
+
+role:         EC Hugb&uacute;na&eth;ur ehf
+address:      A&eth;alstr&aelig;ti 6, 5h&aelig;&eth;
+address:      IS-101 Reykjav&iacute;k
+phone:        +354 595 5900
+fax-no:       +354 595 5901
+e-mail:       hostmaster@ec.is
+nic-hdl:      EHE8-IS
+created:      May  9 2005
+source:       ISNIC
+
+

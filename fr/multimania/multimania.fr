@@ -1,0 +1,92 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; multimania.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      multimania.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    PK659-FRNIC
+admin-c:     JT1544-FRNIC
+tech-c:      PK927-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL27788-FRNIC
+registrar:   InterNetWire Communications GmbH
+anniversary: 09/02
+created:     09/10/1998
+last-update: 09/02/2010
+source:      FRNIC
+
+ns-list:     NSL27788-FRNIC
+nserver:     ns1.conversis.de
+nserver:     ns2.conversis.de
+source:      FRNIC
+
+registrar:   InterNetWire Communications GmbH
+type:        Isp Option 2
+address:     Wilhelm-Wagenfeld Strasse 20
+address:     D-80807 M&Uuml;NCHEN
+country:     DE
+phone:       +49 89 550 61 0
+fax-no:      +49 89 550 61 199
+e-mail:      info@internetwire.de
+website:     http://www.internetwire.de
+anonymous:   NO
+registered:  10/08/2007
+source:      FRNIC
+
+nic-hdl:     PK659-FRNIC
+type:        ORGANIZATION
+contact:     CONVERSIS HOSTING GMBH
+address:     conversis hosting GmbH
+address:     Erftstrasse 11
+address:     47051 Duisburg
+country:     DE
+phone:       +49 2037187475
+fax-no:      +49 2037187476
+e-mail:      p.kirchhoff@conversis.de
+changed:     11/02/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JT1544-FRNIC
+type:        PERSON
+contact:     Julien Toupart
+address:     le bourg
+address:     24200 Marcillac
+country:     FR
+phone:       +33 5 53 29 23 48
+e-mail:      admincfr@gmail.com
+changed:     07/01/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PK927-FRNIC
+type:        PERSON
+contact:     Patrick Kirchhoff
+address:     Erftstrasse 11
+address:     47051 Duisburg
+country:     DE
+phone:       +49.2037187475
+fax-no:      +49.2037187476
+e-mail:      p.kirchhoff@conversis.de
+changed:     26/10/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

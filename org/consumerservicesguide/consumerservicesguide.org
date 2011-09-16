@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D123063436-LROR
+Domain Name:CONSUMERSERVICESGUIDE.ORG
+Created On:24-May-2006 18:40:13 UTC
+Last Updated On:10-Aug-2010 19:54:28 UTC
+Expiration Date:24-May-2019 18:40:13 UTC
+Sponsoring Registrar:GKG.NET, INC. (Formerly GK Group L.L.C.) (R164-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:GKG-C0000189B5
+Registrant Name:Kathy Li
+Registrant Organization:Consumer Action
+Registrant Street1:221 Main Street, Ste 480
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Francisco
+Registrant State/Province:CA
+Registrant Postal Code:94105
+Registrant Country:US
+Registrant Phone:+1.4157779648
+Registrant Phone Ext.:
+Registrant FAX:+1.4157775267
+Registrant FAX Ext.:
+Registrant Email:f5eb7ffce29cfbf22b4f08e650f1c99bbdc5c6e4@whois.gkg.net
+Admin ID:GKG-C0000189B5
+Admin Name:Kathy Li
+Admin Organization:Consumer Action
+Admin Street1:221 Main Street, Ste 480
+Admin Street2:
+Admin Street3:
+Admin City:San Francisco
+Admin State/Province:CA
+Admin Postal Code:94105
+Admin Country:US
+Admin Phone:+1.4157779648
+Admin Phone Ext.:
+Admin FAX:+1.4157775267
+Admin FAX Ext.:
+Admin Email:f5eb7ffce29cfbf22b4f08e650f1c99bbdc5c6e4@whois.gkg.net
+Tech ID:GKG-C000017E80
+Tech Name:Alnisa Allgood
+Tech Organization:Nonprofit Tech
+Tech Street1:266 Waubesa St, Apt 2
+Tech Street2:
+Tech Street3:
+Tech City:Madison
+Tech State/Province:WISCONSIN
+Tech Postal Code:53704-5736
+Tech Country:US
+Tech Phone:+1.6082413616
+Tech Phone Ext.:
+Tech FAX:+1.6082413709
+Tech FAX Ext.:
+Tech Email:e0a1dd8e791567fcd773c386d78694e7054ce83e@whois.gkg.net
+Name Server:NS2.GIPPY.NET
+Name Server:NS1.GIPPY.NET
+Name Server:NS3.GIPPY.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

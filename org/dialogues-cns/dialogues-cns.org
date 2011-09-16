@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D91291865-LROR
+Domain Name:DIALOGUES-CNS.ORG
+Created On:17-Oct-2002 08:11:54 UTC
+Last Updated On:15-Sep-2011 09:17:19 UTC
+Expiration Date:17-Oct-2013 08:11:54 UTC
+Sponsoring Registrar:MarkMonitor Inc. (R37-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:RENEWPERIOD
+Registrant ID:mmr-29804
+Registrant Name:Catherine Boudot
+Registrant Organization:BIOFARMA
+Registrant Street1:22 rue Garnier
+Registrant Street2:
+Registrant Street3:
+Registrant City:NEUILLY SUR SEINE
+Registrant State/Province:-
+Registrant Postal Code:92578
+Registrant Country:FR
+Registrant Phone:+33.155726000
+Registrant Phone Ext.:
+Registrant FAX:+33.155723269
+Registrant FAX Ext.:
+Registrant Email:mail.domaines@fr.netgrs.com
+Admin ID:mmr-29804
+Admin Name:Catherine Boudot
+Admin Organization:BIOFARMA
+Admin Street1:22 rue Garnier
+Admin Street2:
+Admin Street3:
+Admin City:NEUILLY SUR SEINE
+Admin State/Province:-
+Admin Postal Code:92578
+Admin Country:FR
+Admin Phone:+33.155726000
+Admin Phone Ext.:
+Admin FAX:+33.155723269
+Admin FAX Ext.:
+Admin Email:mail.domaines@fr.netgrs.com
+Tech ID:mmr-29804
+Tech Name:Catherine Boudot
+Tech Organization:BIOFARMA
+Tech Street1:22 rue Garnier
+Tech Street2:
+Tech Street3:
+Tech City:NEUILLY SUR SEINE
+Tech State/Province:-
+Tech Postal Code:92578
+Tech Country:FR
+Tech Phone:+33.155726000
+Tech Phone Ext.:
+Tech FAX:+33.155723269
+Tech FAX Ext.:
+Tech Email:mail.domaines@fr.netgrs.com
+Name Server:NS2.MARKMONITOR.COM
+Name Server:NS1.MARKMONITOR.COM
+Name Server:NS7.MARKMONITOR.COM
+Name Server:NS6.MARKMONITOR.COM
+Name Server:NS5.MARKMONITOR.COM
+Name Server:NS4.MARKMONITOR.COM
+Name Server:NS3.MARKMONITOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

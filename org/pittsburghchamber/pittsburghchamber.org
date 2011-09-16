@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D102793572-LROR
+Domain Name:PITTSBURGHCHAMBER.ORG
+Created On:17-Nov-2003 20:09:39 UTC
+Last Updated On:10-Nov-2010 21:15:25 UTC
+Expiration Date:17-Nov-2012 20:09:39 UTC
+Sponsoring Registrar:DirectNIC, LTD (R48-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:ODN-376068
+Registrant Name:Keith Trageser
+Registrant Organization:Allegheny Conference
+Registrant Street1:11 Stanwix Street
+Registrant Street2:17th Floor
+Registrant Street3:
+Registrant City:Pittsburgh
+Registrant State/Province:PA
+Registrant Postal Code:15222
+Registrant Country:US
+Registrant Phone:+1.4123924555
+Registrant Phone Ext.:4507
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ktrageser@alleghenyconference.org
+Admin ID:ODN-376068
+Admin Name:Keith Trageser
+Admin Organization:Allegheny Conference
+Admin Street1:11 Stanwix Street
+Admin Street2:17th Floor
+Admin Street3:
+Admin City:Pittsburgh
+Admin State/Province:PA
+Admin Postal Code:15222
+Admin Country:US
+Admin Phone:+1.4123924555
+Admin Phone Ext.:4507
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ktrageser@alleghenyconference.org
+Tech ID:ODN-376068
+Tech Name:Keith Trageser
+Tech Organization:Allegheny Conference
+Tech Street1:11 Stanwix Street
+Tech Street2:17th Floor
+Tech Street3:
+Tech City:Pittsburgh
+Tech State/Province:PA
+Tech Postal Code:15222
+Tech Country:US
+Tech Phone:+1.4123924555
+Tech Phone Ext.:4507
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ktrageser@alleghenyconference.org
+Name Server:PGH1.NAUTICOM.NET
+Name Server:PGH.NAUTICOM.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

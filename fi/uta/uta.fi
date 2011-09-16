@@ -1,0 +1,18 @@
+
+domain:   uta.fi
+descr:    Tampereen yliopisto
+descr:    01556684
+address:  Tietohallinto
+address:  Kanslerinrinne 1
+address:  33014
+address:  Tampereen yliopisto
+phone:    03 355111
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: kaktus.uta.fi [OK] 153.1.3.10
+nserver: ns-secondary.funet.fi [OK]
+nserver: pellava.uta.fi [OK] 153.1.2.12
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

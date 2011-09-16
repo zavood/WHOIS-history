@@ -1,0 +1,32 @@
+% Hello, this is the DOMREG whois service.
+%
+% By submitting a query you agree not to use the information made
+% available to:
+% - allow, enable or otherwise support the transmission of unsolicited,
+%   commercial advertising or other solicitations whether via email or
+%   otherwise;
+% - target advertising in any possible way;
+% - to cause nuisance in any possible way to the registrants by sending
+%   (whether by automated, electronic processes capable of enabling
+%   high volumes or other possible means) messages to them.
+%
+% Version 0.3
+%
+% For more information please visit http://whois.domreg.lt
+%
+Domain:			eik.lt
+Status:			registered
+Registered:		2000-12-13
+%
+Registrar:		V&Aring;&iexcl;&Auml;&reg; &quot;Eikneta&quot;
+Registrar website:	http://eik.lt
+Registrar email:	hostmaster@eik.lt
+%
+%
+Contact name:		Valdas Cernius
+Contact email:		valdas@eik.lt
+%
+Nameserver:		ns.eik.lt	[77.240.252.2]
+Nameserver:		ns2.eik.lt	[77.240.252.18]
+Nameserver:		us.eik.lt	[64.130.237.45]
+Nameserver:		ns2.domreg.lt

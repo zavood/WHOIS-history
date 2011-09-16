@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105950687-LROR
+Domain Name:MILWAUKEELABOR.ORG
+Created On:24-Mar-2005 07:00:46 UTC
+Last Updated On:17-Nov-2008 22:45:39 UTC
+Expiration Date:24-Mar-2013 07:00:46 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:39268038-NSI
+Registrant Name:Milwaukee County Labor Council
+Registrant Organization:Milwaukee County Labor Council
+Registrant Street1:633 S. Hawley Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Milwaukee
+Registrant State/Province:WI
+Registrant Postal Code:53214
+Registrant Country:US
+Registrant Phone:+1.4147717070
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:23414354-NSI
+Admin Name:Becker Technology, Inc.
+Admin Organization:Becker Technology, Inc.
+Admin Street1:PO Box 190
+Admin Street2:
+Admin Street3:
+Admin City:Hubertus
+Admin State/Province:WI
+Admin Postal Code:53033
+Admin Country:US
+Admin Phone:+262.6283531
+Admin Phone Ext.:
+Admin FAX:+1.262628717
+Admin FAX Ext.:
+Admin Email:tom@beckertechnology.com
+Tech ID:23414354-NSI
+Tech Name:Becker Technology, Inc.
+Tech Organization:Becker Technology, Inc.
+Tech Street1:PO Box 190
+Tech Street2:
+Tech Street3:
+Tech City:Hubertus
+Tech State/Province:WI
+Tech Postal Code:53033
+Tech Country:US
+Tech Phone:+262.6283531
+Tech Phone Ext.:
+Tech FAX:+1.262628717
+Tech FAX Ext.:
+Tech Email:tom@beckertechnology.com
+Name Server:E0.NS.VOYAGER.NET
+Name Server:E1.NS.VOYAGER.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

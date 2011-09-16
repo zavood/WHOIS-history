@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 06:56:20 (BRT -03:00)
+
+domain:      musiconline.com.br
+owner:       Hospitaline Com. e Man. Equip. El-Eletr&ocirc;nicos ltda
+ownerid:     082.264.961/0001-78
+responsible: Jo&atilde;o Jubery Scholz de Andrade
+country:     BR
+owner-c:     JJA7
+admin-c:     JJA7
+tech-c:      ANLAN32
+billing-c:   ANLAN32
+nserver:     ns1.xpg.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.xpg.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     19990702 #174635
+expires:     20130702
+changed:     20110401
+status:      published
+
+nic-hdl-br:  ANLAN32
+person:      Andre Luis de Andrade
+e-mail:      andre@ate.com.br
+created:     20091029
+changed:     20091029
+
+nic-hdl-br:  JJA7
+person:      Jo&atilde;o Jubery Scholz de Andrade
+e-mail:      hospitaline@netpar.com.br
+created:     19990320
+changed:     20110202
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

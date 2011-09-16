@@ -1,0 +1,31 @@
+% Hello, this is the DOMREG whois service.
+%
+% By submitting a query you agree not to use the information made
+% available to:
+% - allow, enable or otherwise support the transmission of unsolicited,
+%   commercial advertising or other solicitations whether via email or
+%   otherwise;
+% - target advertising in any possible way;
+% - to cause nuisance in any possible way to the registrants by sending
+%   (whether by automated, electronic processes capable of enabling
+%   high volumes or other possible means) messages to them.
+%
+% Version 0.3
+%
+% For more information please visit http://whois.domreg.lt
+%
+Domain:			lenet.lt
+Status:			registered
+Registered:		2001-12-22
+%
+Registrar:		AB &quot;Lietuvos energijos gamyba&quot;
+Registrar website:	http://www.le.lt
+Registrar email:	hostmaster@lenet.lt
+%
+%
+Contact organization:	UAB &quot;Technologij&Aring;&sup3; ir inovacij&Aring;&sup3; centras&quot;
+Contact email:		webmaster@etic.lt
+%
+Nameserver:		ns1.lenet.lt	[81.16.224.1]
+Nameserver:		ns2.lenet.lt	[81.16.224.2]
+Nameserver:		ns2.domreg.lt

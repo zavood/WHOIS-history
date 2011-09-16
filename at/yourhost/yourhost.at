@@ -1,0 +1,71 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         yourhost.at
+registrant:     CGL3102410-NICAT
+admin-c:        ESK6921681-NICAT
+tech-c:         IA6935763-NICAT
+nserver:        ns55.1und1.de
+remarks:        195.20.224.156
+nserver:        ns56.1und1.de
+remarks:        212.227.123.77
+changed:        20100301 13:21:12
+source:         AT-DOM
+
+personname:     Christian Fruth
+organization:   CCF-Global Ltd.
+street address: Gadollaweg 34
+postal code:    8055
+city:           Graz-Puntigam
+country:        Austria
+nic-hdl:        CGL3102410-NICAT
+changed:        20090101 19:34:24
+source:         AT-DOM
+
+personname:
+organization:   eTrade Service KG
+street address: c/o Christian Fruth
+street address: Gadollaweg 34
+postal code:    8055
+city:           Graz-Puntigam
+country:        Austria
+phone:          +43436991105988
+e-mail:         office@etskg.at
+nic-hdl:        ESK6921681-NICAT
+changed:        20100224 16:22:16
+source:         AT-DOM
+
+personname:
+organization:   1&amp;1 Internet AG
+street address: c/o Hostmaster EINSUNDEINS
+street address: Brauerstr. 48
+postal code:    76135
+city:           Karlsruhe
+country:        Germany
+phone:          +49721913747660
+fax-no:         +4972191374246
+e-mail:         hostmaster@1und1.de
+nic-hdl:        IA6935763-NICAT
+changed:        20100228 15:23:23
+source:         AT-DOM
+

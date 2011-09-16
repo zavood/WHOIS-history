@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159186887-LROR
+Domain Name:ILMPEDIA.ORG
+Created On:16-May-2010 11:36:37 UTC
+Last Updated On:10-May-2011 15:19:58 UTC
+Expiration Date:16-May-2012 11:36:37 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR48067946
+Registrant Name:Amr Ali Ibrahim
+Registrant Street1:14 Westlea Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Richmond Hill
+Registrant State/Province:Ontario
+Registrant Postal Code:L4S2T1
+Registrant Country:CA
+Registrant Phone:+1.4163213330
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:amr_ali_i@hotmail.com
+Admin ID:CR48067948
+Admin Name:Amr Ali Ibrahim
+Admin Street1:14 Westlea Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Richmond Hill
+Admin State/Province:Ontario
+Admin Postal Code:L4S2T1
+Admin Country:CA
+Admin Phone:+1.4163213330
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:amr_ali_i@hotmail.com
+Tech ID:CR48067947
+Tech Name:Amr Ali Ibrahim
+Tech Street1:14 Westlea Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Richmond Hill
+Tech State/Province:Ontario
+Tech Postal Code:L4S2T1
+Tech Country:CA
+Tech Phone:+1.4163213330
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:amr_ali_i@hotmail.com
+Name Server:NS21.DOMAINCONTROL.COM
+Name Server:NS22.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

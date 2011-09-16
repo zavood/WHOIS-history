@@ -1,0 +1,31 @@
+% Hello, this is the DOMREG whois service.
+%
+% By submitting a query you agree not to use the information made
+% available to:
+% - allow, enable or otherwise support the transmission of unsolicited,
+%   commercial advertising or other solicitations whether via email or
+%   otherwise;
+% - target advertising in any possible way;
+% - to cause nuisance in any possible way to the registrants by sending
+%   (whether by automated, electronic processes capable of enabling
+%   high volumes or other possible means) messages to them.
+%
+% Version 0.3
+%
+% For more information please visit http://whois.domreg.lt
+%
+Domain:			erdves.lt
+Status:			registered
+Registered:		2001-04-06
+%
+Registrar:		AB &quot;Lietuvos radijo ir televizijos centras&quot;
+Registrar website:	http://www.erdves.lt
+Registrar email:	iss@lrtc.lt
+%
+%
+Contact organization:	AB Lietuvos radijo ir televizijos centras
+Contact email:		iss@lrtc.lt
+%
+Nameserver:		ns1.erdves.lt	[217.9.240.102]
+Nameserver:		ns2.domreg.lt
+Nameserver:		ns2.erdves.lt	[217.9.240.98]

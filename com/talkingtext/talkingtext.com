@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 23-apr-2006
    Expiration Date: 23-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:41:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 09:43:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 174.142.225.246
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain talkingtext.com
-% Timestamp: 2011-09-15 11:42:01
+% Timestamp: 2011-09-16 11:44:30
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
