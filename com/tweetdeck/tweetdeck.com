@@ -5,23 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LLNWD.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS11.LLNWD.NET
-   Name Server: DNS12.LLNWD.NET
-   Name Server: DNS13.LLNWD.NET
-   Name Server: DNS14.LLNWD.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: TWEETDECK.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.P34.DYNECT.NET
+   Name Server: NS2.P34.DYNECT.NET
+   Name Server: NS3.P34.DYNECT.NET
+   Name Server: NS4.P34.DYNECT.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-jan-2011
-   Creation Date: 02-jul-2002
-   Expiration Date: 02-jul-2020
+   Updated Date: 01-aug-2011
+   Creation Date: 16-may-2008
+   Expiration Date: 16-may-2013
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:49:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:47:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain Name.......... tweetdeck.com
+  Creation Date........ 2008-05-17
+  Registration Date.... 2011-08-01
+  Expiry Date.......... 2013-05-17
+  Organisation Name.... Twitter, Inc.
+  Organisation Address. 795 Folsom Street
+  Organisation Address. Suite 600
+  Organisation Address. San Francisco
+  Organisation Address. 94107
+  Organisation Address. CA
+  Organisation Address. UNITED STATES
+
+Admin Name........... Domain Admin
+  Admin Address........ 795 Folsom Street
+  Admin Address........ Suite 600
+  Admin Address........ San Francisco
+  Admin Address........ 94107
+  Admin Address........ CA
+  Admin Address........ UNITED STATES
+  Admin Email.......... admin@melbourneitdbs.com
+  Admin Phone.......... +415.2229670
+  Admin Fax............ +415.2220922
+
+Tech Name............ Tech Admin
+  Tech Address......... 795 Folsom Street
+  Tech Address......... Suite 600
+  Tech Address......... San Francisco
+  Tech Address......... 94107
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... domains-tech@twitter.com
+  Tech Phone........... +415.2229670
+  Tech Fax............. +415.2220922
+  Name Server.......... ns4.p34.dynect.net
+  Name Server.......... ns3.p34.dynect.net
+  Name Server.......... ns1.p34.dynect.net
+  Name Server.......... ns2.p34.dynect.net
 
 
-Registrant:
-   Limelight Networks Inc.
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: LLNWD.NET
-
-   Domain servers in listed order:
-      DNS11.LLNWD.NET
-      DNS12.LLNWD.NET
-      DNS13.LLNWD.NET
-      DNS14.LLNWD.NET
-
-
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=LLNWD.NET

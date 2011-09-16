@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IFASTNET.COM
+   Domain Name: FRAGRANCEGLOBE.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.BYET.ORG
-   Name Server: NS2.BYET.ORG
-   Name Server: NS3.BYET.ORG
-   Name Server: NS4.BYET.ORG
-   Name Server: NS5.BYET.ORG
-   Status: clientTransferProhibited
-   Updated Date: 19-may-2011
-   Creation Date: 17-may-2005
-   Expiration Date: 17-may-2012
+   Name Server: NS1.SEEKDOTNET.COM
+   Name Server: NS2.SEEKDOTNET.COM
+   Status: ok
+   Updated Date: 26-oct-2010
+   Creation Date: 24-nov-2005
+   Expiration Date: 24-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:47:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:47:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,53 +52,47 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about ifastnet.com
-&lt;a href=&quot;http://www.aboutus.org/ifastnet.com&quot;&gt;AboutUs: ifastnet.com&lt;/a&gt;
+Visit AboutUs.org for more information about fragranceglobe.com
+&lt;a href=&quot;http://www.aboutus.org/fragranceglobe.com&quot;&gt;AboutUs: fragranceglobe.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: ifastnet.com
-
-Registrant Contact:
-   iFastNet Internet
-   Administrator Administrator ()
-
-   Fax:
-   548 Market St. #11820
-   Califonia City, CA 94104
-   US
+Domain name: fragranceglobe.com
 
 Administrative Contact:
-   iFastNet Internet
-   Administrator Administrator (abuse@byethost.org)
-   +1.7602846681
-   Fax: +1.7602846681
-   548 Market St. #11820
-   Califonia City, CA 94104
+   Perfumes 4 All, Inc
+   Sahakul Khatri (sahakul@gmail.com)
+   +1.7188214405
+   Fax: +1.7184184084
+   1605 PUTNAM AVE, #5G
+   Ridgewood, NY 11385
    US
 
 Technical Contact:
-   iFastNet Internet
-   Administrator Administrator (abuse@byethost.org)
-   +1.7602846681
-   Fax: +1.7602846681
-   548 Market St. #11820
-   Califonia City, CA 94104
+   Perfumes 4 All, Inc
+   Sahakul Khatri (sahakul@gmail.com)
+   +1.7188214405
+   Fax: +1.7184184084
+   1605 PUTNAM AVE, #5G
+   Ridgewood, NY 11385
    US
 
-Status: Locked
+Registrant Contact:
+   Perfumes 4 All, Inc
+   Sahakul Khatri ()
+
+   Fax:
+   1605 PUTNAM AVE, #5G
+   Ridgewood, NY 11385
+   US
+
+Status: Active
 
 Name Servers:
-   NS1.BYET.ORG
-   NS2.BYET.ORG
-   NS3.BYET.ORG
-   NS4.BYET.ORG
-   NS5.BYET.ORG
+   ns1.seekdotnet.com
+   ns2.seekdotnet.com
 
-Creation date: 17 May 2005 20:50:00
-Expiration date: 17 May 2012 20:50:00
+Creation date: 25 Nov 2005 00:11:23
+Expiration date: 25 Nov 2011 00:11:00
 
 
 

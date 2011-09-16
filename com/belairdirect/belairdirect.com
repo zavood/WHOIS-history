@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IFASTNET.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: NS1.BYET.ORG
-   Name Server: NS2.BYET.ORG
-   Name Server: NS3.BYET.ORG
-   Name Server: NS4.BYET.ORG
-   Name Server: NS5.BYET.ORG
+   Domain Name: BELAIRDIRECT.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: NS1.EASYDNS.COM
+   Name Server: NS2.EASYDNS.COM
+   Name Server: REMOTE1.EASYDNS.COM
+   Name Server: REMOTE2.EASYDNS.COM
    Status: clientTransferProhibited
-   Updated Date: 19-may-2011
-   Creation Date: 17-may-2005
-   Expiration Date: 17-may-2012
+   Updated Date: 10-may-2011
+   Creation Date: 21-jun-1996
+   Expiration Date: 20-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:47:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:56:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,58 +53,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+
+
 =-=-=-=
-Visit AboutUs.org for more information about ifastnet.com
-&lt;a href=&quot;http://www.aboutus.org/ifastnet.com&quot;&gt;AboutUs: ifastnet.com&lt;/a&gt;
 
-Registration Service Provided By: Namecheap.com
-Contact: support@namecheap.com
-Visit: http://namecheap.com
 
-Domain name: ifastnet.com
+Domain name: belairdirect.com
 
 Registrant Contact:
-   iFastNet Internet
-   Administrator Administrator ()
+   Intact Financial Corporation
+   Serge Belleau ()
 
    Fax:
-   548 Market St. #11820
-   Califonia City, CA 94104
-   US
+   455%20South%20St%2DJoseph%20Avenue
+   St-Hyacinthe, QC J2S8K8
+   CA
 
 Administrative Contact:
-   iFastNet Internet
-   Administrator Administrator (abuse@byethost.org)
-   +1.7602846681
-   Fax: +1.7602846681
-   548 Market St. #11820
-   Califonia City, CA 94104
-   US
+   Intact Financial Corporation
+   Serge Belleau (hostmaster@intact.net)
+   +1.4507789580
+   Fax:
+   455 South St-Joseph Avenue
+   St-Hyacinthe, QC J2S8K8
+   CA
 
 Technical Contact:
-   iFastNet Internet
-   Administrator Administrator (abuse@byethost.org)
-   +1.7602846681
-   Fax: +1.7602846681
-   548 Market St. #11820
-   Califonia City, CA 94104
-   US
+   Intact Financial Corporation
+   Serge Belleau (hostmaster@intact.net)
+   +1.4507789580
+   Fax:
+   455 South St-Joseph Avenue
+   St-Hyacinthe, QC J2S8K8
+   CA
 
 Status: Locked
 
 Name Servers:
-   NS1.BYET.ORG
-   NS2.BYET.ORG
-   NS3.BYET.ORG
-   NS4.BYET.ORG
-   NS5.BYET.ORG
+   ns1.easyDNS.com
+   ns2.easyDNS.com
+   remote1.easyDNS.com
+   remote2.easyDNS.com
 
-Creation date: 17 May 2005 20:50:00
-Expiration date: 17 May 2012 20:50:00
-
+Creation date: 21 Jun 1996 10:00:00
+Expiration date: 20 Jun 2012 10:00:00
 
 
-Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+
+
 =-=-=-=
 The data in this whois database is provided to you for information
 purposes only, that is, to assist you in obtaining information about or
@@ -124,3 +135,10 @@ consent from us.
 We reserve the right to modify these terms at any time. By submitting
 this query, you agree to abide by these terms.
 Version 6.3 4/3/2002
+
+
+Visit AboutUs.org for more information about belairdirect.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/belairdirect.com&quot;&gt;AboutUs: belairdirect.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com

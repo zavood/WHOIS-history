@@ -5,23 +5,24 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LLNWD.NET
+   Domain Name: LSFINTERACTIVE.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS11.LLNWD.NET
-   Name Server: DNS12.LLNWD.NET
-   Name Server: DNS13.LLNWD.NET
-   Name Server: DNS14.LLNWD.NET
+   Name Server: NS0.DNSMADEEASY.COM
+   Name Server: NS1.DNSMADEEASY.COM
+   Name Server: NS2.DNSMADEEASY.COM
+   Name Server: NS3.DNSMADEEASY.COM
+   Name Server: NS4.DNSMADEEASY.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-jan-2011
-   Creation Date: 02-jul-2002
-   Expiration Date: 02-jul-2020
+   Updated Date: 11-nov-2010
+   Creation Date: 10-nov-2003
+   Expiration Date: 10-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:49:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:49:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,17 +79,18 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Limelight Networks Inc.
+   Network LSF
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: LLNWD.NET
+   Domain Name: LSFINTERACTIVE.COM
 
    Domain servers in listed order:
-      DNS11.LLNWD.NET
-      DNS12.LLNWD.NET
-      DNS13.LLNWD.NET
-      DNS14.LLNWD.NET
+      NS0.DNSMADEEASY.COM
+      NS1.DNSMADEEASY.COM
+      NS2.DNSMADEEASY.COM
+      NS3.DNSMADEEASY.COM
+      NS4.DNSMADEEASY.COM
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=LLNWD.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=LSFINTERACTIVE.COM

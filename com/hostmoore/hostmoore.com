@@ -5,21 +5,18 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IFASTNET.COM
+   Domain Name: HOSTMOORE.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.BYET.ORG
-   Name Server: NS2.BYET.ORG
-   Name Server: NS3.BYET.ORG
-   Name Server: NS4.BYET.ORG
-   Name Server: NS5.BYET.ORG
+   Name Server: NS.MOOREDESIGNSDNS.COM
+   Name Server: NS2.MOOREDESIGNSDNS.COM
    Status: clientTransferProhibited
-   Updated Date: 19-may-2011
-   Creation Date: 17-may-2005
-   Expiration Date: 17-may-2012
+   Updated Date: 29-jun-2011
+   Creation Date: 22-feb-2007
+   Expiration Date: 22-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:47:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:46:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,53 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about ifastnet.com
-&lt;a href=&quot;http://www.aboutus.org/ifastnet.com&quot;&gt;AboutUs: ifastnet.com&lt;/a&gt;
+Visit AboutUs.org for more information about hostmoore.com
+&lt;a href=&quot;http://www.aboutus.org/hostmoore.com&quot;&gt;AboutUs: hostmoore.com&lt;/a&gt;
 
 Registration Service Provided By: Namecheap.com
 Contact: support@namecheap.com
 Visit: http://namecheap.com
 
-Domain name: ifastnet.com
+Domain name: hostmoore.com
 
 Registrant Contact:
-   iFastNet Internet
-   Administrator Administrator ()
+   Moore Designs
+   Debbie Moore ()
 
    Fax:
-   548 Market St. #11820
-   Califonia City, CA 94104
-   US
+   16 Gillett Place
+   Mount Pearl, NL A1N 2V3
+   CA
 
 Administrative Contact:
-   iFastNet Internet
-   Administrator Administrator (abuse@byethost.org)
-   +1.7602846681
-   Fax: +1.7602846681
-   548 Market St. #11820
-   Califonia City, CA 94104
-   US
+   Moore Designs
+   Debbie Moore (mooredesigns@gmail.com)
+   +1.7093647546
+   Fax: +1.7093643277
+   16 Gillett Place
+   Mount Pearl, NL A1N 2V3
+   CA
 
 Technical Contact:
-   iFastNet Internet
-   Administrator Administrator (abuse@byethost.org)
-   +1.7602846681
-   Fax: +1.7602846681
-   548 Market St. #11820
-   Califonia City, CA 94104
-   US
+   Moore Designs
+   Debbie Moore (mooredesigns@gmail.com)
+   +1.7093647546
+   Fax: +1.7093643277
+   16 Gillett Place
+   Mount Pearl, NL A1N 2V3
+   CA
 
 Status: Locked
 
 Name Servers:
-   NS1.BYET.ORG
-   NS2.BYET.ORG
-   NS3.BYET.ORG
-   NS4.BYET.ORG
-   NS5.BYET.ORG
+   ns.mooredesignsdns.com
+   ns2.mooredesignsdns.com
 
-Creation date: 17 May 2005 20:50:00
-Expiration date: 17 May 2012 20:50:00
+Creation date: 23 Feb 2007 01:17:36
+Expiration date: 23 Feb 2012 01:17:36
 
 
 

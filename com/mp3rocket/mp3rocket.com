@@ -5,23 +5,19 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LLNWD.NET
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: DNS11.LLNWD.NET
-   Name Server: DNS12.LLNWD.NET
-   Name Server: DNS13.LLNWD.NET
-   Name Server: DNS14.LLNWD.NET
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
+   Domain Name: MP3ROCKET.COM
+   Registrar: REGIONAL NETWORK INFORMATION CENTER, JSC DBA RU-CENTER
+   Whois Server: whois.nic.ru
+   Referral URL: http://www.nic.ru
+   Name Server: DNS1.EASYDNS.COM
+   Name Server: DNS2.EASYDNS.NET
+   Name Server: DNS3.EASYDNS.ORG
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 10-jan-2011
-   Creation Date: 02-jul-2002
-   Expiration Date: 02-jul-2020
+   Updated Date: 14-mar-2011
+   Creation Date: 10-jun-2003
+   Expiration Date: 10-jun-2016
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:49:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:45:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,39 +52,46 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
+% By submitting a query to RU-CENTER's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.nic.ru/about/servpol.html (in Russian)
+% http://www.nic.ru/about/en/servpol.html (in English).
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+Domain name:             MP3ROCKET.COM
+Name Server:             dns1.easydns.com
+Name Server:             dns2.easydns.net
+Name Server:             dns3.easydns.org
+Creation Date:           2003.06.10
+Updated Date:            2011.03.15
+Expiration Date:         2016.06.10
 
+Status:                  DELEGATED
 
-Registrant:
-   Limelight Networks Inc.
+Registrant ID:           AVXVS6E-RU
+Registrant Name:         MP3 Rocket Inc
+Registrant Organization: MP3 Rocket Inc
+Registrant Street1:      PO Box 0843-03073
+Registrant Street1:      Suite # 4707
+Registrant City:         Panama City
+Registrant State:        Balboa Ancon
+Registrant Postal Code:  Zona 6
+Registrant Country:      PA
 
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: LLNWD.NET
+Administrative, Technical Contact
+Contact ID:              AVXVS6E-RU
+Contact Name:            MP3 Rocket Inc
+Contact Organization:    MP3 Rocket Inc
+Contact Street1:         PO Box 0843-03073
+Contact Street1:         Suite # 4707
+Contact City:            Panama City
+Contact State:           Balboa Ancon
+Contact Postal Code:     Zona 6
+Contact Country:         PA
+Contact Phone:           +56 229 97569
+Contact Fax:             +56 229 97569
+Contact E-mail:          admin@mp3rocket.net
 
-   Domain servers in listed order:
-      DNS11.LLNWD.NET
-      DNS12.LLNWD.NET
-      DNS13.LLNWD.NET
-      DNS14.LLNWD.NET
+Registrar:               Regional Network Information Center, JSC dba RU-CENTER
 
+Last updated on 2011.09.16 05:46:20 MSK/MSD
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=LLNWD.NET

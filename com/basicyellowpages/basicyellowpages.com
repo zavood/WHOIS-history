@@ -5,23 +5,25 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: LLNWD.NET
+   Domain Name: BASICYELLOWPAGES.COM
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: DNS11.LLNWD.NET
-   Name Server: DNS12.LLNWD.NET
-   Name Server: DNS13.LLNWD.NET
-   Name Server: DNS14.LLNWD.NET
+   Name Server: NS1.EASYDNS.COM
+   Name Server: NS2.EASYDNS.COM
+   Name Server: NS3.EASYDNS.ORG
+   Name Server: NS6.EASYDNS.NET
+   Name Server: REMOTE1.EASYDNS.COM
+   Name Server: REMOTE2.EASYDNS.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-jan-2011
-   Creation Date: 02-jul-2002
-   Expiration Date: 02-jul-2020
+   Updated Date: 02-jun-2011
+   Creation Date: 12-jun-2008
+   Expiration Date: 12-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:49:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:50:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,17 +80,19 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Limelight Networks Inc.
+   madrona group llc
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: LLNWD.NET
+   Domain Name: BASICYELLOWPAGES.COM
 
    Domain servers in listed order:
-      DNS11.LLNWD.NET
-      DNS12.LLNWD.NET
-      DNS13.LLNWD.NET
-      DNS14.LLNWD.NET
+      NS1.EASYDNS.COM
+      NS2.EASYDNS.COM
+      REMOTE1.EASYDNS.COM
+      REMOTE2.EASYDNS.COM
+      NS3.EASYDNS.ORG
+      NS6.EASYDNS.NET
 
 
    For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=LLNWD.NET
+   http://who.godaddy.com/whoischeck.aspx?Domain=BASICYELLOWPAGES.COM

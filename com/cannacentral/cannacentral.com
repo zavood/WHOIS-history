@@ -5,21 +5,20 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: IFASTNET.COM
+   Domain Name: CANNACENTRAL.COM
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.BYET.ORG
-   Name Server: NS2.BYET.ORG
-   Name Server: NS3.BYET.ORG
-   Name Server: NS4.BYET.ORG
-   Name Server: NS5.BYET.ORG
+   Name Server: NS1.EAPPS.COM
+   Name Server: NS2.EAPPS.COM
+   Name Server: NS5.EAPPS.COM
+   Name Server: NS6.EAPPS.COM
    Status: clientTransferProhibited
-   Updated Date: 19-may-2011
-   Creation Date: 17-may-2005
-   Expiration Date: 17-may-2012
+   Updated Date: 04-sep-2011
+   Creation Date: 04-oct-2009
+   Expiration Date: 04-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:47:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:45:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,53 +54,55 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 =-=-=-=
-Visit AboutUs.org for more information about ifastnet.com
-&lt;a href=&quot;http://www.aboutus.org/ifastnet.com&quot;&gt;AboutUs: ifastnet.com&lt;/a&gt;
+Visit AboutUs.org for more information about cannacentral.com
+&lt;a href=&quot;http://www.aboutus.org/cannacentral.com&quot;&gt;AboutUs: cannacentral.com&lt;/a&gt;
 
 Registration Service Provided By: Namecheap.com
 Contact: support@namecheap.com
 Visit: http://namecheap.com
 
-Domain name: ifastnet.com
+Domain name: cannacentral.com
 
 Registrant Contact:
-   iFastNet Internet
-   Administrator Administrator ()
+   Self Organized
+   Sebastian Schepis ()
 
    Fax:
-   548 Market St. #11820
-   Califonia City, CA 94104
+   12618 Carmel Country Road
+   Unit 60
+   San Diego, S 92130
    US
 
 Administrative Contact:
-   iFastNet Internet
-   Administrator Administrator (abuse@byethost.org)
-   +1.7602846681
-   Fax: +1.7602846681
-   548 Market St. #11820
-   Califonia City, CA 94104
+   Self Organized
+    Schepis (sschepis@yahoo.com)
+   +1.4154015509
+   Fax: +1.5555555555
+   12618 Carmel Country Road
+   Unit 60
+   San Diego, S 92130
    US
 
 Technical Contact:
-   iFastNet Internet
-   Administrator Administrator (abuse@byethost.org)
-   +1.7602846681
-   Fax: +1.7602846681
-   548 Market St. #11820
-   Califonia City, CA 94104
+   Self Organized
+   Sebastian Schepis (sschepis@yahoo.com)
+   +1.4154015509
+   Fax: +1.5555555555
+   12618 Carmel Country Road
+   Unit 60
+   San Diego, S 92130
    US
 
 Status: Locked
 
 Name Servers:
-   NS1.BYET.ORG
-   NS2.BYET.ORG
-   NS3.BYET.ORG
-   NS4.BYET.ORG
-   NS5.BYET.ORG
+   ns1.eapps.com
+   ns2.eapps.com
+   ns5.eapps.com
+   ns6.eapps.com
 
-Creation date: 17 May 2005 20:50:00
-Expiration date: 17 May 2012 20:50:00
+Creation date: 05 Oct 2009 01:11:21
+Expiration date: 05 Oct 2012 01:11:21
 
 
 

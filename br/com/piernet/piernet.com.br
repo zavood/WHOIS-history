@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 22:49:15 (BRT -03:00)
+
+domain:      piernet.com.br
+owner:       A.F.B. RODRIGUES - ME
+ownerid:     001.500.751/0001-30
+responsible: Andre Felipe B. Rodrigues
+country:     BR
+owner-c:     AFR
+admin-c:     AFR
+tech-c:      AFR
+billing-c:   AFR
+nserver:     sol.piernet.com.br 187.60.255.2
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     lua.piernet.com.br 187.60.255.3
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     19970805 #50304
+expires:     20160805
+changed:     20110711
+status:      published
+
+nic-hdl-br:  AFR
+person:      Andre Felipe B. Rodrigues
+e-mail:      webmaster@piernet.com.br
+created:     19971229
+changed:     20060812
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

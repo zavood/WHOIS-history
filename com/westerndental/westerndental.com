@@ -5,18 +5,16 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: 101GREATGOALS.COM
-   Registrar: REGISTER.IT SPA
-   Whois Server: whois.register.it
-   Referral URL: http://we.register.it
-   Name Server: BETH.NS.CLOUDFLARE.COM
-   Name Server: MAX.NS.CLOUDFLARE.COM
-   Status: clientDeleteProhibited
+   Domain Name: WESTERNDENTAL.COM
+   Registrar: REGISTER.COM, INC.
+   Whois Server: whois.register.com
+   Referral URL: http://www.register.com
+   Name Server: NS1.ORNG.TWTELECOM.NET
+   Name Server: NS1.PTLD.TWTELECOM.NET
    Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 07-sep-2011
-   Creation Date: 18-sep-2006
-   Expiration Date: 18-sep-2016
+   Updated Date: 13-aug-2008
+   Creation Date: 13-feb-1996
+   Expiration Date: 14-feb-2015
 
 &gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:50:05 UTC &lt;&lt;&lt;
 
@@ -54,41 +52,71 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-REGISTER.IT SPA - Whois Server Version 1.4
-
-The Registry database contains ONLY .COM, .NET and .ORG domains.
-
-     Domain name: 101GREATGOALS.COM
-     Created on: 2009-08-21
-     Updated on: 2011-09-07
-     Expires on: 2016-09-18
-     Registrant Name: GLOBAL DOMAIN PRIVACY
-     Contact: GLOBAL DOMAIN PRIVACY
-     Registrant Address: 33 Cavendish Square
-     Registrant City: London
-     Registrant Postal Code: W1G 0PW
-     Registrant Country: GB
-     Administrative Contact Organization: GLOBAL DOMAIN PRIVACY
-     Administrative Contact Name: Global Domain Privacy
-     Administrative Contact Address: 33 Cavendish Square
-     Administrative Contact City: London
-     Administrative Contact Postal Code: W1G 0PW
-     Administrative Contact Country: GB
-     Administrative Contact Email: 4a8efeecad0f8@globaldomainprivacy.net
-     Administrative Contact Tel: +44 207 1383172
-     Administrative Contact Fax: +44 207 1383172
-     Technical Contact Organization: GLOBAL DOMAIN PRIVACY
-     Technical Contact Name:
-     Technical Contact Address: 33 Cavendish Square
-     Technical Contact City: London
-     Technical Contact Postal Code: W1G 0PW
-     Technical Contact Country: GB
-     Technical Contact Email: 4a8efeecad0f8@globaldomainprivacy.net
-     Technical Contact Phone: +44 207 1383172
-     Technical Contact Fax: +44 207 1383172
-     Primary Name Server Hostname: BETH.NS.CLOUDFLARE.COM
-     Secondary Name Server Hostname: MAX.NS.CLOUDFLARE.COM
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available &quot;as is,&quot; and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
 
-&gt;&gt;&gt; Last update of whois database: Fri Sep 16 01:01:48 2011 &lt;&lt;&lt;
+   Registrant:
+      Western Dental Services, Inc.
+      Monya Hawkins
+      530 S. Main St.
+      Orange, CA 92863
+      US
+      Phone: +1.7144803000
+      Email: cclose@WESTERNDENTAL.COM
+
+
+
+   Registrar Name....: Register.com
+   Registrar Whois...: whois.register.com
+   Registrar Homepage: www.register.com
+
+   Domain Name: westerndental.com
+      Created on..............: 1996-02-13
+      Expires on..............: 2015-02-14
+
+   Administrative Contact:
+      Western Dental Services, Inc.
+      Chris Close
+      530 S. Main St.
+      Orange, CA 92863
+      US
+      Phone: +1.7144803000
+      Email: cclose@WESTERNDENTAL.COM
+
+
+   Technical  Contact:
+      Western Dental Services, Inc.
+      Chris Close
+      530 S. Main St
+      Orange, CA 92868
+      US
+      Phone: +1.9027492701
+      Email: cclose@westerndental.com
+
+
+   DNS Servers:
+      ns1.ptld.twtelecom.net
+      ns1.orng.twtelecom.net
+
+
+
+Visit AboutUs.org for more information about westerndental.com
+
+&lt;A HREF=&quot;http://www.aboutus.org/westerndental.com&quot;&gt;AboutUs: westerndental.com&lt;/A&gt;
+
+Register your domain name at http://www.register.com
 
