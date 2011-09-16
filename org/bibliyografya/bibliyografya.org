@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152571852-LROR
+Domain Name:BIBLIYOGRAFYA.ORG
+Created On:28-Apr-2008 21:03:03 UTC
+Last Updated On:19-Apr-2011 16:56:20 UTC
+Expiration Date:28-Apr-2012 21:03:03 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ONLC-3256810-4
+Registrant Name:Askin KESER
+Registrant Organization:Yedirenk Teknoloji Yazilim ve Egitim Hizmetleri
+Registrant Street1:Cumhuriyet Cad.Yagci Ishani Kat:5 No:37
+Registrant Street2:
+Registrant Street3:
+Registrant City:Merkez
+Registrant State/Province:Yalova
+Registrant Postal Code:77100
+Registrant Country:TR
+Registrant Phone:+90.2268111919
+Registrant Phone Ext.:
+Registrant FAX:+90.2268113332
+Registrant FAX Ext.:
+Registrant Email:askinkeser@yahoo.com
+Admin ID:ONLC-3256810-1
+Admin Name:Askin KESER
+Admin Organization:Yedirenk Teknoloji Yazilim ve Egitim Hizmetleri
+Admin Street1:Cumhuriyet Cad.Yagci Ishani Kat:5 No:37
+Admin Street2:
+Admin Street3:
+Admin City:Merkez
+Admin State/Province:Yalova
+Admin Postal Code:77100
+Admin Country:TR
+Admin Phone:+90.2268111919
+Admin Phone Ext.:
+Admin FAX:+90.2268113332
+Admin FAX Ext.:
+Admin Email:askinkeser@yahoo.com
+Tech ID:ONLC-3256810-2
+Tech Name:Askin KESER
+Tech Organization:Yedirenk Teknoloji Yazilim ve Egitim Hizmetleri
+Tech Street1:Cumhuriyet Cad.Yagci Ishani Kat:5 No:37
+Tech Street2:
+Tech Street3:
+Tech City:Merkez
+Tech State/Province:Yalova
+Tech Postal Code:77100
+Tech Country:TR
+Tech Phone:+90.2268111919
+Tech Phone Ext.:
+Tech FAX:+90.2268113332
+Tech FAX Ext.:
+Tech Email:askinkeser@yahoo.com
+Name Server:DNS1.MARKUM.NET
+Name Server:DNS2.MARKUM.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

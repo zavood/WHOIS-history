@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D108109202-LROR
+Domain Name:YMCAGHANA.ORG
+Created On:04-Nov-2005 16:07:17 UTC
+Last Updated On:03-Nov-2010 09:30:11 UTC
+Expiration Date:04-Nov-2011 16:07:17 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:C11311197634878
+Registrant Name:Visionet Networks LTD
+Registrant Organization:Visionet Limited
+Registrant Street1:P.O.Box 3969
+Registrant Street2:
+Registrant Street3:
+Registrant City:Accra
+Registrant State/Province:Accra
+Registrant Postal Code:23321
+Registrant Country:GH
+Registrant Phone:+233.233244026538
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:visiomart@hotmail.com
+Admin ID:C11311197634875
+Admin Name:Martin Kuse
+Admin Organization:Visionet Limited
+Admin Street1:P.O.Box 3969
+Admin Street2:
+Admin Street3:
+Admin City:Accra
+Admin State/Province:Accra
+Admin Postal Code:23321
+Admin Country:GH
+Admin Phone:+233.233244026538
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:visiomart@hotmail.com
+Tech ID:C11311197634877
+Tech Name:Martin Kuse
+Tech Organization:Visionet Limited
+Tech Street1:P.O.Box 3969
+Tech Street2:
+Tech Street3:
+Tech City:Accra
+Tech State/Province:Accra
+Tech Postal Code:23321
+Tech Country:GH
+Tech Phone:+233.233244026538
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:visiomart@hotmail.com
+Name Server:NS1.DEERFIELDHOSTING.NET
+Name Server:NS2.DEERFIELDHOSTING.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

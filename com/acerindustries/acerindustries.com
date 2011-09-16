@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 11-aug-2011
    Expiration Date: 11-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 06:56:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 22:33:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,8 +52,128 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-  ACERINDUSTRIES.COM NOT FOUND.
 
 
 
-Request 2/20
+Domain Name:                 ACERINDUSTRIES.com
+
+
+
+
+Registrant
+------------------------------------------------------------
+
+
+
+Name:                        Admin -
+
+
+Organization:                Oversee Domain Management, LLC
+
+Email:                       admin@overseedomainmanagement.com
+Address:                     515 S. Flower Street
+
+                             Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2132653191
+
+
+
+
+
+Admin Contact
+------------------------------------------------------------
+
+
+
+Name:                        Admin -
+
+
+Organization:                Oversee Domain Management, LLC
+
+Email:                       admin@overseedomainmanagement.com
+Address:                     515 S. Flower Street
+
+                             Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2132653191
+
+
+
+
+
+Billing Contact
+------------------------------------------------------------
+
+
+
+Name:                        Admin -
+
+
+Organization:                Oversee Domain Management, LLC
+
+Email:                       admin@overseedomainmanagement.com
+Address:                     515 S. Flower Street
+
+                             Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2132653191
+
+
+
+
+
+Tech Contact
+------------------------------------------------------------
+
+
+
+Name:                        Admin -
+
+
+Organization:                Oversee Domain Management, LLC
+
+Email:                       admin@overseedomainmanagement.com
+Address:                     515 S. Flower Street
+
+                             Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2132653191
+
+
+
+
+
+
+Creation Date:               08/11/11
+Expiration Date:             08/11/12
+Domain Status:               ACTIVE
+
+
+Domain Servers
+
+
+  ns1.dsredirection.com
+
+  ns2.dsredirection.com
+
+
+
+Registration Provided By:    NAMEKING INC.
+Contact:                     info@nameking.com
+Abuse Desk Email Address:    abuse@nameking.com
+
+
+
+
+
+
+Request 4/20

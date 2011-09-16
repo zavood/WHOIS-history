@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161162899-LROR
+Domain Name:WACYPAA15.ORG
+Created On:10-Jan-2011 17:24:14 UTC
+Last Updated On:12-Mar-2011 03:52:01 UTC
+Expiration Date:10-Jan-2012 17:24:14 UTC
+Sponsoring Registrar:LiquidNet Ltd. (R1831-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:LN_13880472
+Registrant Name:Whois Agent LiquidNet US LLC
+Registrant Organization:wacypaa15.org
+Registrant Street1:C/O wacypaa15.org
+Registrant Street2:1500 N. University Drive, suite 115
+Registrant Street3:
+Registrant City:Coral Springs
+Registrant State/Province:FL
+Registrant Postal Code:33071
+Registrant Country:US
+Registrant Phone:+1.5108700646
+Registrant Phone Ext.:
+Registrant FAX:+1.5108686446
+Registrant FAX Ext.:
+Registrant Email:00eox5us@whois-shield.com
+Admin ID:LN_13880474
+Admin Name:Whois Agent LiquidNet US LLC
+Admin Organization:wacypaa15.org
+Admin Street1:C/O wacypaa15.org
+Admin Street2:1500 N. University Drive, suite 115
+Admin Street3:
+Admin City:Coral Springs
+Admin State/Province:FL
+Admin Postal Code:33071
+Admin Country:US
+Admin Phone:+1.5108700646
+Admin Phone Ext.:
+Admin FAX:+1.5108686446
+Admin FAX Ext.:
+Admin Email:00eox5us@whois-shield.com
+Tech ID:LN_13880473
+Tech Name:Whois Agent LiquidNet US LLC
+Tech Organization:wacypaa15.org
+Tech Street1:C/O wacypaa15.org
+Tech Street2:1500 N. University Drive, suite 115
+Tech Street3:
+Tech City:Coral Springs
+Tech State/Province:FL
+Tech Postal Code:33071
+Tech Country:US
+Tech Phone:+1.5108700646
+Tech Phone Ext.:
+Tech FAX:+1.5108686446
+Tech FAX Ext.:
+Tech Email:00eox5us@whois-shield.com
+Name Server:DNS1.SUPREMEDNS.COM
+Name Server:DNS2.SUPREMEDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

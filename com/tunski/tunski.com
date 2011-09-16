@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 28-dec-2004
    Expiration Date: 28-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 20:56:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 22:32:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Akintunde Adegbola
-   16228 NE 13th Pl, Apt I-201
-   Bellevue, Washington 63108
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: TUNSKI.COM
-      Created on: 28-Dec-04
-      Expires on: 28-Dec-11
-      Last Updated on: 29-Dec-10
-
-   Administrative Contact:
-      Adegbola, Akintunde  tunski@hotmail.com
-      16228 NE 13th Pl, Apt I-201
-      Bellevue, Washington 63108
-      United States
-      +1.3143085681      Fax --
-
-   Technical Contact:
-      Adegbola, Akintunde  tunski@hotmail.com
-      16228 NE 13th Pl, Apt I-201
-      Bellevue, Washington 63108
-      United States
-      +1.3143085681      Fax --
 
    Domain servers in listed order:
       NS1.SUSPENDED-FOR.SPAM-AND-ABUSE.COM
       NS2.SUSPENDED-FOR.SPAM-AND-ABUSE.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=TUNSKI.COM
