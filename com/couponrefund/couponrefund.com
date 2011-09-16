@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 07-mar-2007
    Expiration Date: 07-mar-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 14:42:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 14:56:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,40 +84,22 @@ Domain servers in listed order:
 	 ns51.1and1.com 	 ns52.1and1.com
 
 Administrator:
-	 name:(Coupon Refund Inc.)
-	Email:(admin@couponrefund.com) tel-- +1.7082900474
+	 Coupon Refund Inc. admin@couponrefund.com +1.7082900474
 	 Coupon Refund Inc.
 	 1295 Santa Anita Dr.
-\r
-t Hanover Park
-Illinois,
-US
-
- zipcode:60133
+	 Hanover Park,Illinois,US 60133
 
 Technical Contactor:
-	 name:(Coupon Refund Inc.)
-	Email:(admin@couponrefund.com) tel-- +1.7082900474
+	 Coupon Refund Inc. admin@couponrefund.com +1.7082900474
 	 Coupon Refund Inc.
 	 1295 Santa Anita Dr.
-\r
-t Hanover Park
-Illinois,
-US
-
- zipcode:60133
+	 Hanover Park,Illinois,US 60133
 
 Billing Contactor:
-	 name:(Coupon Refund Inc.)
-	Email:(admin@couponrefund.com) tel-- +1.7082900474
+	 Coupon Refund Inc. admin@couponrefund.com +1.7082900474
 	 Coupon Refund Inc.
 	 1295 Santa Anita Dr.
-\r
-t Hanover Park
-Illinois,
-US
-
- zipcode:60133
+	 Hanover Park,Illinois,US 60133
 
 
 Registration Service Provider:
