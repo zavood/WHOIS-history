@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-15 23:18:04 (BRT -03:00)
+
+domain:      h4w.com.br
+owner:       Sidney Dias dos Santos
+ownerid:     542.830.861-34
+country:     BR
+owner-c:     SDS166
+admin-c:     SDS166
+tech-c:      SDS166
+billing-c:   SDS166
+nserver:     ns1.h4w.com.br 187.61.61.241
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.h4w.com.br 187.61.14.179
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20090729 #5834654
+expires:     20120729
+changed:     20110705
+status:      published
+
+nic-hdl-br:  SDS166
+person:      Sidney dias Dos Santos
+e-mail:      microney@bol.com.br
+created:     20041026
+changed:     20070110
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

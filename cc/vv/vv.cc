@@ -16,7 +16,7 @@ Go to http://registrar.verisign-grs.com/whois/ for detailed information.
    Expiration Date: 26-mar-2015
 
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:23:05 EDT &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 13:22:48 EDT &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,4 +52,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .cc, .tv, and .jobs domains
 and Registrars.
-We're sorry, there has been a problem. Technicians have been notified. Code E3.
+=-=-=-=
+Visit AboutUs.org for more information about vv.cc
+&lt;a href=&quot;http://www.aboutus.org/vv.cc&quot;&gt;AboutUs: vv.cc&lt;/a&gt;
+
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
+
+Domain name: vv.cc
+
+Registrant Contact:
+   WhoisGuard
+   WhoisGuard Protected ()
+
+   Fax:
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Administrative Contact:
+   WhoisGuard
+   WhoisGuard Protected (a9b3d42c7db24c9d8602367832582f78.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Technical Contact:
+   WhoisGuard
+   WhoisGuard Protected (a9b3d42c7db24c9d8602367832582f78.protect@whoisguard.com)
+   +1.6613102107
+   Fax: +1.6613102107
+   11400 W. Olympic Blvd. Suite 200
+   Los Angeles, CA 90064
+   US
+
+Status: Active
+
+Name Servers:
+   ns1.next-store.com
+   ns2.next-store.com
+
+Creation date: 13 Oct 1997 04:00:00
+Expiration date: 26 Mar 2015 04:00:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

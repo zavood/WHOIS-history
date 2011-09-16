@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 04-jun-2008
    Expiration Date: 04-jun-2018
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 19:52:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 02:20:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,88 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- Trifega Ltd
- Trafalgar House
- 25 Nelson Street
- Douglas, Isle of Man IM1 2AN
- GB
-
- Domain name: TRIFEGA.COM
-
-
- Administrative Contact:
-    Jackson, Tom  tjackson@sovereigngroup.com
-    Trafalgar House
-    25 Nelson Street
-    Douglas, Isle of Man IM1 2AN
-    GB
-    +44.1624699807
- Technical Contact:
-    Ltd, Webfusion  services@123-reg.co.uk
-    5 Roundwood Avenue
-    Stockley Park
-    Uxbridge, Middlesex UB11 1FF
-    GB
-    +44.8712309525    Fax: +44.8701650437
-
-
-
- Registration Service Provider:
-    123-reg.co.uk, services@123-reg.co.uk
-    08712309525
-    08709126612 (fax)
-    http://www.123-reg.co.uk
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions.
-
-
- Registrar of Record: TUCOWS, INC.
- Record last updated on 13-Sep-2010.
- Record expires on 04-Jun-2018.
- Record created on 04-Jun-2008.
-
- Registrar Domain Name Help Center:
-    http://tucowsdomains.com
-
- Domain servers in listed order:
-    NS.123-REG.CO.UK
-    NS2.123-REG.CO.UK
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-Tucows makes this information available &quot;as is,&quot; and does not guarantee its
-accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Tucows.
-
-Tucows reserves the right to terminate your access to the Tucows WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
-
-Tucows reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
-
+IP Address: 174.142.225.246
+Maximum Daily connection limit reached. Lookup refused.

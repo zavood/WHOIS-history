@@ -9,14 +9,14 @@ for detailed information.
    Registrar: GANDI SAS
    Whois Server: whois.gandi.net
    Referral URL: http://www.gandi.net
-   Name Server: NS1.NONEXISTE.NET
-   Name Server: NS2.NONEXISTE.NET
+   Name Server: NS1.SSDSANDBOX.NET
+   Name Server: NS2.SSDSANDBOX.NET
    Status: clientTransferProhibited
-   Updated Date: 06-dec-2010
+   Updated Date: 15-sep-2011
    Creation Date: 05-oct-2009
    Expiration Date: 05-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:23:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 02:32:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,16 +75,16 @@ Registrars.
 # Pour obtenir les informations en status 'Protected by policy', contactez
 # directement le registre concerne (Eurid, AFNIC)
 #
-# 2011-09-14 23:24:30 CEST
+# 2011-09-16 04:32:46 CEST
 
 domain: ssdsandbox.net
 reg_created: 2009-10-05 06:17:41
 expires: 2011-10-05 06:17:41
 created: 2010-10-03 06:25:59
-changed: 2010-12-06 06:29:44
+changed: 2011-09-16 00:39:13
 transfer-prohibited: yes
-ns0: ns1.nonexiste.net
-ns1: ns2.nonexiste.net
+ns0: NS1.SSDSANDBOX.NET 72.64.146.67
+ns1: NS2.SSDSANDBOX.NET 72.64.146.135
 owner-c:
   nic-hdl: NS2308-GANDI
   owner-name: Sunbelt Software
