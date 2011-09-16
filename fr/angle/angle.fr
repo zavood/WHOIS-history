@@ -1,0 +1,106 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; angle.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      angle.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    BE1602-FRNIC
+admin-c:     BE630-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL33187-FRNIC
+registrar:   GANDI
+anniversary: 12/07
+created:     29/07/2004
+last-update: 13/07/2011
+source:      FRNIC
+
+ns-list:     NSL33187-FRNIC
+nserver:     b.dns.gandi.net
+nserver:     a.dns.gandi.net
+nserver:     c.dns.gandi.net
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     BE1602-FRNIC
+type:        ORGANIZATION
+contact:     BAMBOO EDITION
+address:     116, rue des Joncheres
+address:     B.P. 3
+address:     71012 Charnay-l&egrave;s-M&acirc;con Cedex
+country:     FR
+phone:       +33 3 85 34 99 09
+fax-no:      +33 3 85 34 47 55
+e-mail:      arnaud@globarep.com
+changed:     12/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     BE630-FRNIC
+type:        ORGANIZATION
+contact:     Bamboo Edition
+address:     116, rue des Joncheres - B.P. 3
+address:     71012 Charnay-l&egrave;s-M&acirc;con Cedex
+country:     FR
+phone:       +33 3 85 34 99 09
+fax-no:      +33 3 85 34 47 55
+e-mail:      62d4a2d96cbb721af3834490160949c2-ap1485@contact.gandi.net
+changed:     11/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

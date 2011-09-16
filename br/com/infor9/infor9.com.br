@@ -1,0 +1,44 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 09:13:02 (BRT -03:00)
+
+domain:      infor9.com.br
+owner:       MARCELO LUIS BARBOSA DOS SANTOS
+ownerid:     010.363.602/0001-67
+responsible: Steve Ambrus Nagy
+country:     BR
+owner-c:     SAN97
+admin-c:     SAN97
+tech-c:      SAN97
+billing-c:   SAN97
+nserver:     ns015.hostmach.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns016.hostmach.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20100903 #7287196
+expires:     20120903
+changed:     20110829
+provider:    HOSTINGMACHINE (25)
+status:      published
+
+nic-hdl-br:  SAN97
+person:      Steve Ambrus Nagy
+e-mail:      registro@hostmach.com.br
+created:     20031203
+changed:     20110210
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

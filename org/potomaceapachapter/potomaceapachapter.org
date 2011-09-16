@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154262415-LROR
+Domain Name:POTOMACEAPACHAPTER.ORG
+Created On:23-Sep-2008 16:11:54 UTC
+Last Updated On:23-Nov-2008 03:49:21 UTC
+Expiration Date:23-Sep-2013 16:11:54 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:623537666828f943
+Registrant Name:Michelle Russell
+Registrant Organization:EAPA potomac
+Registrant Street1:5225 pooks hill rd
+Registrant Street2:Aprt.426 N
+Registrant Street3:
+Registrant City:Bethesda
+Registrant State/Province:MD
+Registrant Postal Code:20814
+Registrant Country:US
+Registrant Phone:+1.3017046437
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nblendman@yahoo.com
+Admin ID:0784777664036853
+Admin Name:Nina Blendman
+Admin Organization:EAPA potomac
+Admin Street1:6 Montgomery Village Ave
+Admin Street2:Suite 670
+Admin Street3:
+Admin City:Gaithersburg
+Admin State/Province:MD
+Admin Postal Code:20879
+Admin Country:US
+Admin Phone:+1.3018060906
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:Faye.Mcaneny@montgomerycountymd.gov
+Tech ID:0986238fb1be7382
+Tech Name:Domain Registrar
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027492701
+Tech FAX Ext.:
+Tech Email:domainregistrar@register.com
+Name Server:DNS158.A.REGISTER.COM
+Name Server:DNS168.B.REGISTER.COM
+Name Server:DNS042.C.REGISTER.COM
+Name Server:DNS010.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 28-dec-1998
    Expiration Date: 28-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 11:42:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:13:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: clevescene.com
-YOUR IP address is 95.154.230.221
-Date and Time of Query: Sat Sep 10 07:38:03 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Fri Sep 16 08:09:28 EDT 2011
 Reason Code: IE

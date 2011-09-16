@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 30-jun-2010
    Expiration Date: 30-jun-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:28:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:20:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,4 +51,7 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-You have exceeded your access quota. Please try again later.
+No match for domain 'timeforanewplace.com'.
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/16 05:17:19 PST &lt;&lt;&lt;
+

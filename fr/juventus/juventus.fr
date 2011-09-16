@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; juventus.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      juventus.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    JCCB1-FRNIC
+admin-c:     AG4168-FRNIC
+tech-c:      HN20-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2890-FRNIC
+registrar:   NAMEBAY
+anniversary: 26/04
+created:     30/04/2004
+last-update: 26/04/2010
+source:      FRNIC
+
+ns-list:     NSL2890-FRNIC
+nserver:     ns1.infomaniak.ch
+nserver:     ns2.infomaniak.ch
+source:      FRNIC
+
+registrar:   NAMEBAY
+type:        Isp Option 1
+address:     27 Boulevard des Moulins
+address:     98000 MONACO
+country:     MC
+phone:       +377 97 70 61 64
+fax-no:      +377 97 97 21 13
+e-mail:      contact@namebay.com
+website:     http://www.namebay.com
+anonymous:   NO
+registered:  18/09/2001
+source:      FRNIC
+
+nic-hdl:     JCCB1-FRNIC
+type:        ORGANIZATION
+contact:     JUVENTUS CLUB COMET BEAUSOLEIL
+address:     9, rue Jean Emile
+address:     06240 Beausoleil
+country:     FR
+phone:       +33 5 45 64 54 54
+e-mail:      domaine@lws.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AG4168-FRNIC
+type:        PERSON
+contact:     Amor Guglielmi
+address:     Juventus Club Beausoleil
+address:     9, rue Jean Emile
+address:     06240 Beausoleil
+country:     FR
+phone:       +33 5 45 64 54 54
+e-mail:      clubs@juventus.fr
+changed:     08/07/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HN20-FRNIC
+type:        ROLE
+contact:     Hostmaster Namebay
+address:     Namebay
+address:     Namebay SAM
+address:     30 bld Princesse Charlotte
+address:     98000 Monaco
+country:     MC
+phone:       +377 97706164
+fax-no:      +377 97972113
+e-mail:      techafnic@namebay.com
+trouble:     http://www.namebay.com
+trouble:     Support : hotline@namebay.com
+trouble:     Spam : abuse@namebay.com
+admin-c:     CV97-FRNIC
+tech-c:      FH448-FRNIC
+tech-c:      BF81-FRNIC
+notify:      techafnic@namebay.com
+changed:     28/09/2001 techafnic@namebay.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

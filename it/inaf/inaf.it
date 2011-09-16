@@ -1,0 +1,60 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://www.nic.it/cgi-bin/Whois/whois.cgi                         *
+*********************************************************************
+
+Domain:             inaf.it
+Status:             ok
+Created:            2000-09-18 00:00:00
+Last Update:        2011-03-24 11:01:21
+Expire Date:        2011-09-30
+
+Registrant
+  Name:             INAF
+  Organization:     INAF
+  ContactID:        INAF7
+  Address:          Via del Parco Mellini 84
+                    Roma
+                    00136
+                    RM
+                    IT
+  Created:          2007-03-01 10:45:47
+  Last Update:      2011-03-24 11:01:07
+
+Admin Contact
+  Name:             Gaetano Tato
+  ContactID:        GT2638
+  Address:          Via del Parco Mellini 84
+                    Roma
+                    00136
+                    RM
+                    IT
+  Created:          2003-09-05 00:00:00
+  Last Update:      2011-03-24 11:01:08
+
+Technical Contacts
+  Name:             Gaetano Tato
+  ContactID:        GT2638
+  Address:          Via del Parco Mellini 84
+                    Roma
+                    00136
+                    RM
+                    IT
+  Created:          2003-09-05 00:00:00
+  Last Update:      2011-03-24 11:01:08
+
+Registrar
+  Organization:     Consortium GARR
+  Name:             GARR-REG
+
+Nameservers
+  dnsi.inaf.it
+  serv-e.sedecentrale.inaf.it
+  ext-dns-2.cern.ch
+  davide.bo.astro.it
+  ns1.garr.net
+

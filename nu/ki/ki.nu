@@ -30,5 +30,5 @@ registered in .nu is available upon request from support@nic.nu
 
 Copyright by .NU Domain Ltd - http://www.nunames.nu
 ------------------------------------------------------------------------
-Database last updated: 2011-Sep-14 22:44:42 GMT
+Database last updated: 2011-Sep-16 10:44:36 GMT
 ------------------------------------------------------------------------

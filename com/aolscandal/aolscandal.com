@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 12-aug-2010
    Expiration Date: 12-aug-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:34:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:19:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -90,5 +90,5 @@ dns4.nettica.com
 dns5.nettica.com
 
 
-&gt;&gt;&gt; Last update of whois database: 2011/09/12 19:30:51 PST &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: 2011/09/16 05:17:19 PST &lt;&lt;&lt;
 

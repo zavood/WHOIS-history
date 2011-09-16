@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 20-mar-2007
    Expiration Date: 20-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:32:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:19:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,38 +84,32 @@ Domain servers in listed order:
 	 mns01.domaincontrol.com 	 mns02.domaincontrol.com
 
 Administrator:
-	 name:(Aimersoft)
-	Email:(tobee@sina.com) tel-- +86.75526038199
-	 Aimersoft
 	 High Tech Industry Park
-\r
-t SHENZHEN
+	 SHENZHEN
 Guangdong,
 CN
+ 518000
 
- zipcode:518000
-
+	 name:(Aimersoft)
+mail:(tobee@sina.com) +86.75526038199
+	 Aimersoft
 Technical Contactor:
-	 name:(Aimersoft)
-	Email:(tobee@sina.com) tel-- +86.75526038199
-	 Aimersoft
 	 High Tech Industry Park
-\r
-t SHENZHEN
+	 SHENZHEN
 Guangdong,
 CN
+ 518000
 
- zipcode:518000
-
+	 name:(Aimersoft)
+mail:(tobee@sina.com) +86.75526038199
+	 Aimersoft
 Billing Contactor:
-	 name:(Aimersoft)
-	Email:(tobee@sina.com) tel-- +86.75526038199
-	 Aimersoft
 	 High Tech Industry Park
-\r
-t SHENZHEN
+	 SHENZHEN
 Guangdong,
 CN
+ 518000
 
- zipcode:518000
-
+	 name:(Aimersoft)
+mail:(tobee@sina.com) +86.75526038199
+	 Aimersoft

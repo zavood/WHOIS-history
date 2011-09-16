@@ -1,0 +1,81 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Fri Sep 16 14:14:00 2011
+
+domain:       lupacovka.cz
+registrant:   SB:MH2095-RIPE_XX
+admin-c:      MH2095-RIPE
+nsset:        NSS:UAM:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   25.04.1998 02:00:00
+changed:      08.08.2006 14:25:00
+expire:       11.10.2016
+
+contact:      SB:MH2095-RIPE_XX
+org:          Zakladni Jazykova Skola
+name:         Zakladni Jazykova Skola
+address:      Lupacova 1
+address:      Praha 3
+address:      13000
+address:      CZ
+e-mail:       zjsr@netforce.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+
+contact:      MH2095-RIPE
+name:         Milan Hausner
+address:      CZ
+phone:        +420 26976542
+fax-no:       +420 26976542
+e-mail:       zjsr@netforce.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:UAM:1
+nserver:      ns.mysh.cz
+nserver:      ns2.mysh.cz
+tech-c:       UAM99CJK
+tech-c:       UAM-VM
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+changed:      26.04.2010 22:25:02
+
+contact:      UAM99CJK
+name:         Jan Ku&Auml;çera
+address:      Po&Auml;çernick&Atilde;&iexcl; 467/44
+address:      Praha 10
+address:      108 00
+address:      CZ
+e-mail:       uam@centrum.cz
+registrar:    REG-IGNUM
+created:      06.11.2005 19:35:00
+
+contact:      UAM-VM
+name:         Vladim&Atilde;&shy;r Mach
+address:      Hlavn&Atilde;&shy; 2742/126
+address:      Praha 4 - Spo&Aring;ôilov
+address:      141 00
+address:      CZ
+phone:        +420.777615119
+e-mail:       wladik@gmail.com
+registrar:    REG-IGNUM
+created:      21.11.2007 10:05:06
+
+

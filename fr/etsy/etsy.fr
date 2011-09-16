@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; etsy.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      etsy.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    EI768-FRNIC
+admin-c:     DDT22-FRNIC
+tech-c:      MC239-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL25461-FRNIC
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+anniversary: 06/05
+created:     16/06/2008
+last-update: 14/08/2009
+source:      FRNIC
+
+ns-list:     NSL25461-FRNIC
+nserver:     ns1.etsy.com
+nserver:     ns2.etsy.com
+source:      FRNIC
+
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+type:        Isp Option 1
+address:     Emerald Tech Center
+address:     391 N. Ancestor Place
+address:     ID 83704 BOISE
+country:     US
+phone:       +1 208 389 5740
+fax-no:      +1 208 389 5771
+e-mail:      ccops@markmonitor.com
+website:     http://www.markmonitor.com
+anonymous:   NO
+registered:  10/01/2002
+source:      FRNIC
+
+nic-hdl:     EI768-FRNIC
+type:        ORGANIZATION
+contact:     Etsy, Inc.
+address:     719, E. 12th Street
+address:     11229 Brooklyn Ny
+country:     US
+phone:       +1 7188557955
+fax-no:      +1 7187322613
+e-mail:      dns-admin@etsy.com
+changed:     02/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     DDT22-FRNIC
+type:        PERSON
+contact:     David David Taylor
+address:     Etsy, Inc.
+address:     6, avenue Kleber
+address:     75116 Paris
+country:     FR
+phone:       +33 1 53 67 47 47
+fax-no:      +33 1 53 67 47 48
+e-mail:      drd@lovells.com
+changed:     01/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MC239-FRNIC
+type:        ROLE
+contact:     MARKMONITOR CCOPS
+address:     eMarkmonitor Inc. dba MarkMonitor
+address:     PMB 155
+address:     10400 Overland Road
+address:     83709-1433 Boise, Id
+address:     US
+phone:       +01 2083895740
+e-mail:      ccops@markmonitor.com
+admin-c:     DL534-FRNIC
+tech-c:      DL534-FRNIC
+changed:     10/10/2008 ccops@markmonitor.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 08:56:54 (BRT -03:00)
+
+domain:      redsuns.com.br
+owner:       Geraldo Yukio Ishida
+ownerid:     036.660.369-88
+country:     BR
+owner-c:     GEYIS2
+admin-c:     GEYIS2
+tech-c:      GEYIS2
+billing-c:   GEYIS2
+nserver:     ns1.redsuns.com.br 174.121.167.211
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.redsuns.com.br 174.121.167.212
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20080721 #4698898
+expires:     20120721
+changed:     20110713
+status:      published
+
+nic-hdl-br:  GEYIS2
+person:      Geraldo Yukio Ishida
+e-mail:      contato@redsuns.com.br
+created:     20080721
+changed:     20100315
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

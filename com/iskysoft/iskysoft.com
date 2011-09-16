@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 27-jun-2007
    Expiration Date: 27-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 00:51:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:21:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,20 +84,35 @@ Domain servers in listed order:
 	 mns01.domaincontrol.com 	 mns02.domaincontrol.com
 
 Administrator:
-	 Tobee Wu tobee@wondershare.cn +86.75526038199
-	 Wondershare Software
-	 High Tech Industry Park
-	 SHENZHEN,Guangdong,CN 518000
+	 name: Tobee Wu
+ mail: tobee@wondershare.cn tel: +86.75526038199
+	 org: Wondershare Software
+
+address: High Tech Industry Park
+	 city: SHENZHEN
+,province: Guangdong
+,country: CN
+ postcode: 518000
 
 Technical Contactor:
-	 Tobee Wu tobee@wondershare.cn +86.75526038199
-	 Wondershare Software
-	 High Tech Industry Park
-	 SHENZHEN,Guangdong,CN 518000
+	 name: Tobee Wu
+ mail: tobee@wondershare.cn tel: +86.75526038199
+	 org: Wondershare Software
+
+address: High Tech Industry Park
+	 city: SHENZHEN
+,province: Guangdong
+,country: CN
+ postcode: 518000
 
 Billing Contactor:
-	 Tobee Wu tobee@wondershare.cn +86.75526038199
-	 Wondershare Software
-	 High Tech Industry Park
-	 SHENZHEN,Guangdong,CN 518000
+	 name: Tobee Wu
+ mail: tobee@wondershare.cn tel: +86.75526038199
+	 org: Wondershare Software
+
+address: High Tech Industry Park
+	 city: SHENZHEN
+,province: Guangdong
+,country: CN
+ postcode: 518000
 
