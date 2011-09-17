@@ -1,0 +1,24 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         wilbury.sk
+Admin-id            JURA-0090
+Admin-name          Juraj Lutter
+Admin-legal-form    fyzicka osoba (nepodnikatel)
+Admin-email         hostmaster@wilbury.sk
+Tech-id             NHOS-0001
+Tech-name           NIC Hosting s.r.o.
+Tech-org.-ID        44488254
+Tech-address        Dlha 9, Ivanka pri Dunaji 90028
+Tech-telephone      +421 02 45 945 252, +421 0908 11 22 11
+Tech-email          domeny@nic.sk
+dns_name            ns.wilbury.sk
+dns_IPv4            195.168.11.131
+dns_name            ns1.wilbury.sk
+dns_IPv4            217.73.17.21
+Last-update         2011-09-16
+Valid-date          2012-09-13
+Domain-status       DOM_OK
+

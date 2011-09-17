@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 25-apr-2000
    Expiration Date: 07-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 15:11:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 00:01:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -121,8 +121,8 @@ US
 Phone:         +1.3236456000
 Email Address: abuse@deviantart.com
 
-Timestamp: 1315926755.9795
+Timestamp: 1316217705.2556
 
 The Data in the Name.com LLC WHOIS database is provided by Name.com LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.  Name.com LLC does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Name.com LLC (or its systems). Name.com LLC reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
 
-Cached on: 2011-09-13T09:12:35-06:00
+Cached on: 2011-09-16T18:01:45-06:00

@@ -1,0 +1,71 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         daxbacher.at
+registrant:     HD2988685-NICAT
+admin-c:        HD2988686-NICAT
+tech-c:         TD2988687-NICAT
+nserver:        ns1.easyname.eu
+nserver:        ns2.easyname.eu
+changed:        20070821 15:57:44
+source:         AT-DOM
+
+personname:     Hannes Daxbacher
+organization:
+street address: Kaiserbrunnstrasse 68/4
+postal code:    A-3021
+city:           Pressbaum
+country:        Austria
+phone:          +43223355487
+e-mail:         h@daxbacher.net
+nic-hdl:        HD2988685-NICAT
+changed:        20070821 15:57:44
+source:         AT-DOM
+
+personname:     Hannes Daxbacher
+organization:
+street address: Kaiserbrunnstrasse 68/4
+postal code:    3021
+city:           Pressbaum
+country:        Austria
+phone:          +43223355487
+e-mail:         h@daxbacher.net
+nic-hdl:        HD2988686-NICAT
+changed:        20070821 15:57:44
+source:         AT-DOM
+
+personname:     Thomas Dolezal
+organization:
+street address: Anastastasius Gruengasse 14/8
+street address: A-1180 Vienna
+street address: Austria
+postal code:
+city:
+country:
+phone:          +4314708278
+fax-no:         +4314708278
+e-mail:         dolezal@webagentur.at
+nic-hdl:        TD2988687-NICAT
+changed:        20070821 15:57:44
+source:         AT-DOM
+

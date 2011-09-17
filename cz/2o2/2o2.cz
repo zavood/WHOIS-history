@@ -1,0 +1,74 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sat Sep 17 01:43:28 2011
+
+domain:       2o2.cz
+registrant:   SB:FORPSI-7AD-S126802
+admin-c:      FORPSI-7AD-C126802
+nsset:        FORPSI
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   30.11.2006 20:15:00
+changed:      24.04.2011 11:21:36
+expire:       30.11.2011
+
+contact:      SB:FORPSI-7AD-S126802
+org:          Ing. Josef Szu&Aring;›cik
+name:         Josef Szu&Aring;›cik
+address:      E. Kr&Atilde;&iexcl;snohorsk&Atilde;&copy; 19
+address:      Hav&Atilde;&shy;&Aring;™ov
+address:      73601
+address:      CZ
+e-mail:       josef.szuscik@click.cz
+registrar:    REG-INTERNET-CZ
+created:      30.11.2006 16:15:00
+
+contact:      FORPSI-7AD-C126802
+name:         Josef Szu&Aring;›cik
+address:      E. Kr&Atilde;&iexcl;snohorsk&Atilde;&copy; 19
+address:      Hav&Atilde;&shy;&Aring;™ov
+address:      73601
+address:      CZ
+phone:        +420.603429411
+e-mail:       josef.szuscik@click.cz
+registrar:    REG-INTERNET-CZ
+created:      30.11.2006 16:15:00
+
+nsset:        FORPSI
+nserver:      ns.forpsi.net
+nserver:      ns.forpsi.cz (81.2.209.185)
+nserver:      ns.forpsi.it
+tech-c:       FORPSI
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 10:19:47
+changed:      30.09.2010 10:21:36
+
+contact:      FORPSI
+org:          INTERNET CZ, a.s.
+name:         Stefano Cecconi
+address:      Kti&Aring;&iexcl; 2
+address:      Kti&Aring;&iexcl;
+address:      38403
+address:      CZ
+fax-no:       +420.383835354
+registrar:    REG-INTERNET-CZ
+created:      04.08.2008 14:42:08
+changed:      06.06.2011 13:55:12
+
+

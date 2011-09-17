@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 01-dec-2010
    Expiration Date: 01-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:57:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 23:51:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,20 +84,32 @@ Domain servers in listed order:
 	 ns1.dnsv2.com 	 ns2.dnsv2.com
 
 Administrator:
-	 zhaozhenwei ppaa918@163.com +86.51252775361
-	 zhao zhenwei
 	 jiangsu,suzhou
-	 suzhou,Jiangsu,CN 215000
+	 suzhou
+Jiangsu,
+CN
+ 215000
 
+	 name:(zhaozhenwei)
+mail:(ppaa918@163.com) +86.51252775361
+	 zhao zhenwei
 Technical Contactor:
-	 zhaozhenwei ppaa918@163.com +86.51252775361
-	 zhao zhenwei
 	 jiangsu,suzhou
-	 suzhou,Jiangsu,CN 215000
+	 suzhou
+Jiangsu,
+CN
+ 215000
 
+	 name:(zhaozhenwei)
+mail:(ppaa918@163.com) +86.51252775361
+	 zhao zhenwei
 Billing Contactor:
-	 zhaozhenwei ppaa918@163.com +86.51252775361
-	 zhao zhenwei
 	 jiangsu,suzhou
-	 suzhou,Jiangsu,CN 215000
+	 suzhou
+Jiangsu,
+CN
+ 215000
 
+	 name:(zhaozhenwei)
+mail:(ppaa918@163.com) +86.51252775361
+	 zhao zhenwei

@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104285156-LROR
+Domain Name:BIKEEXTREME.ORG
+Created On:29-Apr-2004 14:03:19 UTC
+Last Updated On:30-Apr-2011 01:24:52 UTC
+Expiration Date:29-Apr-2012 14:03:19 UTC
+Sponsoring Registrar:Ledl.net GmbH dba domaintechnik.at (R1323-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-1175692559-53
+Registrant Name:Wirnitzer Gerold
+Registrant Street1:Berchat 302
+Registrant Street2:
+Registrant Street3:
+Registrant City:Stans
+Registrant State/Province:
+Registrant Postal Code:6135
+Registrant Country:AT
+Registrant Phone:+43.6505901793
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:gerold@wirnitzer.at
+Admin ID:0-1175692559-32
+Admin Name:Wirnitzer Gerold
+Admin Street1:Berchat 302
+Admin Street2:
+Admin Street3:
+Admin City:Stans
+Admin State/Province:
+Admin Postal Code:6135
+Admin Country:AT
+Admin Phone:+43.6505901793
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gerold@wirnitzer.at
+Tech ID:dtech-1
+Tech Name:Domain Admin
+Tech Organization:Ledl.net GmbH, Domaintechnik.at
+Tech Street1:Lederergasse 6
+Tech Street2:
+Tech Street3:
+Tech City:Strasswalchen
+Tech State/Province:
+Tech Postal Code:5204
+Tech Country:AT
+Tech Phone:+43.621520888
+Tech Phone Ext.:
+Tech FAX:+43.621520889
+Tech FAX Ext.:
+Tech Email:domainadmin@domaintechnik.at
+Name Server:NS1.DOMAINTECHNIK.AT
+Name Server:NS2.DOMAINTECHNIK.AT
+Name Server:NS3.DOMAINTECHNIK.AT
+Name Server:NS4.DOMAINTECHNIK.AT
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

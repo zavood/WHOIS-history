@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D34055396-LROR
+Domain Name:AWAG.ORG
+Created On:05-Sep-2000 15:19:15 UTC
+Last Updated On:06-Sep-2011 01:22:22 UTC
+Expiration Date:05-Sep-2012 15:19:15 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:DOTR-00068978
+Registrant Name:Jim Kane
+Registrant Organization:Arkansas Watershed Advisory Group
+Registrant Street1:8001 National Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Little Rock
+Registrant State/Province:AR
+Registrant Postal Code:72209
+Registrant Country:US
+Registrant Phone:+1.5013248900
+Registrant Phone Ext.:
+Registrant FAX:+1.5013248904
+Registrant FAX Ext.:
+Registrant Email:jim@ark.org
+Admin ID:DOTC-00088844
+Admin Name:Jim Kane
+Admin Organization:Arkansas Information Consortium
+Admin Street1:425 West Capitol Avenue
+Admin Street2:Suite 3565
+Admin Street3:
+Admin City:Little Rock
+Admin State/Province:AR
+Admin Postal Code:72201
+Admin Country:US
+Admin Phone:+1.5013248906
+Admin Phone Ext.:
+Admin FAX:+1.5013248904
+Admin FAX Ext.:
+Admin Email:jim@ark.org
+Tech ID:DOTC-00088848
+Tech Name:Jim Kane
+Tech Organization:Arkansas Information Consortium
+Tech Street1:425 West Capitol Avenue
+Tech Street2:Suite 3565
+Tech Street3:
+Tech City:Little Rock
+Tech State/Province:AR
+Tech Postal Code:72201
+Tech Country:US
+Tech Phone:+1.5013248906
+Tech Phone Ext.:
+Tech FAX:+1.5013248904
+Tech FAX Ext.:
+Tech Email:jim@ark.org
+Name Server:PNS-1.CDC.NICUSA.COM
+Name Server:PNS-2.CDC.NICUSA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

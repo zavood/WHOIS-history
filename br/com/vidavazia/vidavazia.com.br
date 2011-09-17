@@ -1,0 +1,47 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 20:37:45 (BRT -03:00)
+
+domain:      vidavazia.com.br
+owner:       Israel Porto
+ownerid:     295.772.358-16
+country:     BR
+owner-c:     ISPOR5
+admin-c:     ISPOR5
+tech-c:      ISPOR5
+billing-c:   ISPOR5
+nserver:     ns1.dominios.uol.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.dominios.uol.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns3.dominios.uol.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20100331 #6713860
+expires:     20120331
+changed:     20110330
+provider:    UOLHOST (22)
+status:      published
+
+nic-hdl-br:  ISPOR5
+person:      Israel Porto
+e-mail:      israelporto@uol.com.br
+created:     20100331
+changed:     20100331
+provider:    UOLHOST (22)
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

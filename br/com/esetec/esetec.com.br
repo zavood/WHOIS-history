@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 20:39:11 (BRT -03:00)
+
+domain:      esetec.com.br
+owner:       Esetec Editores Associados Ltda - ME
+ownerid:     003.971.829/0001-20
+responsible: Teresa Cristina C. Grassi Leonardi
+country:     BR
+owner-c:     EEM52
+admin-c:     EEM52
+tech-c:      SIL17
+billing-c:   EEM52
+nserver:     ns1.schemer.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.schemer.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20010612 #580194
+expires:     20120612
+changed:     20110523
+status:      published
+
+nic-hdl-br:  EEM52
+person:      Esetec Editores Associados Ltda - ME
+e-mail:      esetec@esetec.com.br
+created:     20040317
+changed:     20070801
+
+nic-hdl-br:  SIL17
+person:      Schemer Inform&aacute;tica Ltda
+e-mail:      FAPESP@schemer.com.br
+created:     19980127
+changed:     20101004
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

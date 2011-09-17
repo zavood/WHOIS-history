@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 20:57:25 (BRT -03:00)
+
+domain:      cseletro.com.br
+owner:       CS Industria Eletronica Ltda
+ownerid:     091.821.637/0001-02
+responsible: Roberto Fonanella Fagundes
+country:     BR
+owner-c:     RSL249
+admin-c:     RSL249
+tech-c:      RSL249
+billing-c:   RSL249
+nserver:     ns.cseletro.com.br 200.163.176.146
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.cseletro.com.br 200.163.176.147
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     19991124 #224318
+expires:     20201124
+changed:     20101111
+status:      published
+
+nic-hdl-br:  RSL249
+person:      raidbr solu&ccedil;&otilde;es em inform&aacute;tica ltda
+e-mail:      domain@raidbr.com.br
+created:     20030204
+changed:     20101216
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
