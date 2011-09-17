@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157674138-LROR
+Domain Name:HPDV.ORG
+Created On:24-Nov-2009 20:31:10 UTC
+Last Updated On:24-Jan-2010 03:55:00 UTC
+Expiration Date:24-Nov-2011 20:31:10 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30087080
+Registrant Name:Steven Dawson
+Registrant Organization:Henderson Police Volunteers
+Registrant Street1:223 Lead St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Henderson
+Registrant State/Province:Nevada
+Registrant Postal Code:89015
+Registrant Country:US
+Registrant Phone:+1.7022674517
+Registrant Phone Ext.:
+Registrant FAX:+1.7022675001
+Registrant FAX Ext.:
+Registrant Email:sdawson8@cox.net
+Admin ID:CR30087084
+Admin Name:Steven Dawson
+Admin Organization:Henderson Police Volunteers
+Admin Street1:223 Lead St.
+Admin Street2:
+Admin Street3:
+Admin City:Henderson
+Admin State/Province:Nevada
+Admin Postal Code:89015
+Admin Country:US
+Admin Phone:+1.7022674517
+Admin Phone Ext.:
+Admin FAX:+1.7022675001
+Admin FAX Ext.:
+Admin Email:sdawson8@cox.net
+Tech ID:CR30087082
+Tech Name:Steven Dawson
+Tech Organization:Henderson Police Volunteers
+Tech Street1:223 Lead St.
+Tech Street2:
+Tech Street3:
+Tech City:Henderson
+Tech State/Province:Nevada
+Tech Postal Code:89015
+Tech Country:US
+Tech Phone:+1.7022674517
+Tech Phone Ext.:
+Tech FAX:+1.7022675001
+Tech FAX Ext.:
+Tech Email:sdawson8@cox.net
+Name Server:DNS1.HOSTRACK.COM
+Name Server:DNS2.HOSTRACK.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

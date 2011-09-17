@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D11170449-LROR
+Domain Name:JUD6.ORG
+Created On:10-Oct-1999 19:25:57 UTC
+Last Updated On:07-Sep-2011 16:09:47 UTC
+Expiration Date:10-Oct-2020 19:25:57 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:9650609a6f501305
+Registrant Name:CourtAdmin SixthCircuit
+Registrant Organization:Sixth Judicial Circuit Court of Florida
+Registrant Street1:324 S. Ft. Harrison Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Clearwater
+Registrant State/Province:FL
+Registrant Postal Code:33756
+Registrant Country:US
+Registrant Phone:+1.7274645265
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cto6@jud6.org
+Admin ID:819269071b594933
+Admin Name:CourtAdmin SixthCircuit
+Admin Organization:Sixth Judicial Circuit Court of Florida
+Admin Street1:324 S. Ft. Harrison Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Clearwater
+Admin State/Province:FL
+Admin Postal Code:33756
+Admin Country:US
+Admin Phone:+1.7274643806
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cto6@jud6.org
+Tech ID:34390706ad0da593
+Tech Name:Jud6 Court Pinellas Hostmaster
+Tech Organization:Pinellas County
+Tech Street1:400 S. Ft. Harrison Ave
+Tech Street2:BTS Department Room 349
+Tech Street3:
+Tech City:Clearwater
+Tech State/Province:FL
+Tech Postal Code:33756
+Tech Country:US
+Tech Phone:+1.7274643619
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@pinellascounty.org
+Name Server:NS1.CHRL.TWTELECOM.NET
+Name Server:NS1.PINELLASCOUNTY.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

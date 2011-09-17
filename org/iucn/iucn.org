@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2741152-LROR
+Domain Name:IUCN.ORG
+Created On:24-Feb-1996 05:00:00 UTC
+Last Updated On:19-Apr-2010 10:21:22 UTC
+Expiration Date:25-Feb-2013 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25599152-NSI
+Registrant Name:IUCN-World Conservation Union
+Registrant Organization:IUCN-World Conservation Union
+Registrant Street1:28 rue Mauverney
+Registrant Street2:
+Registrant Street3:
+Registrant City:Gland
+Registrant State/Province:
+Registrant Postal Code:1196
+Registrant Country:CH
+Registrant Phone:+1.412299900
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dns-group@IUCN.ORG
+Admin ID:25599154-NSI
+Admin Name:DNS Group
+Admin Organization:DNS Group
+Admin Street1:Iucn - The Wolrd Conservation
+Admin Street2:Rue Mauverney 28
+Admin Street3:
+Admin City:Gland
+Admin State/Province:
+Admin Postal Code:1196
+Admin Country:CH
+Admin Phone:+1.9999999999
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dns-group@IUCN.ORG
+Tech ID:15661302-NSI
+Tech Name:PSINet Europe
+Tech Organization:PSINet Europe
+Tech Street1:103-105 rue Fritz Courvoisier
+Tech Street2:
+Tech Street3:
+Tech City:La Chaux-de-Fonds
+Tech State/Province:2300
+Tech Postal Code:99999
+Tech Country:CH
+Tech Phone:+41.329675200
+Tech Phone Ext.:
+Tech FAX:+41.329675201
+Tech FAX Ext.:
+Tech Email:dom-reg@EUROPE.PSI.COM
+Name Server:NS1.DNS.INTEROUTE.NET
+Name Server:NS2.DNS.INTEROUTE.NET
+Name Server:NS3.DNS.INTEROUTE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

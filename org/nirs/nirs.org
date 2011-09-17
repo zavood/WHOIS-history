@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2653384-LROR
+Domain Name:NIRS.ORG
+Created On:17-Mar-1996 05:00:00 UTC
+Last Updated On:24-Mar-2010 19:17:08 UTC
+Expiration Date:18-Mar-2015 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:38032654-NSI
+Registrant Name:NuclearInformationand Resource Service.
+Registrant Organization:NuclearInformationand Resource Service.
+Registrant Street1:1424 16th Street NW, #404
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20036
+Registrant Country:US
+Registrant Phone:+1.2023280002
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:38032655-NSI
+Admin Name:NuclearInformationand Resource Service
+Admin Organization:NuclearInformationand Resource Service
+Admin Street1:1424 16th Street NW, #404
+Admin Street2:
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20036
+Admin Country:US
+Admin Phone:+1.2023280002
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nirsnet@IGC.ORG
+Tech ID:6102455-NSI
+Tech Name:Howard Cunningham
+Tech Street1:3867 Plaza Dr.
+Tech Street2:
+Tech Street3:
+Tech City:Fairfax
+Tech State/Province:VA
+Tech Postal Code:22030
+Tech Country:US
+Tech Phone:+703.3599211
+Tech Phone Ext.:
+Tech FAX:+1.703591044
+Tech FAX Ext.:
+Tech Email:howardc@MACROLLC.COM
+Name Server:BIFROST.SEASTROM.COM
+Name Server:NS1.MACROLLC.COM
+Name Server:NS2.MACROLLC.COM
+Name Server:NS3.MACROLLC.COM
+Name Server:ALFHEIM.SEASTROM.COM
+Name Server:ASGARD.SEASTROM.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

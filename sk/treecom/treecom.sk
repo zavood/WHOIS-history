@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         treecom.sk
+Admin-id            WEBI-0003
+Admin-name          Buckova Dana
+Admin-legal-form    zivnost
+Admin-org.-ID       34412654
+Admin-address       Zupkova 8, Kosice 04022
+Admin-telephone     +421902899588, +421903626988, +421902899588
+Admin-email         domains@treecom.net
+Tech-id             WEBI-0003
+Tech-name           Buckova Dana
+Tech-org.-ID        34412654
+Tech-address        Zupkova 8, Kosice 04022
+Tech-telephone      +421902899588, +421903626988, +421902899588
+Tech-email          domains@treecom.net
+dns_name            ns1.treecom.net
+dns_name            ns2.treecom.net
+dns_name            ns3.treecom.net
+Last-update         2011-04-07
+Valid-date          2012-04-14
+Domain-status       DOM_OK
+

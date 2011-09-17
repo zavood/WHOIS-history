@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4407272-LROR
+Domain Name:NASN.ORG
+Created On:15-Oct-1997 04:00:00 UTC
+Last Updated On:05-Feb-2009 16:06:16 UTC
+Expiration Date:14-Oct-2011 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28193878-NSI
+Registrant Name:National Association of School Nurses, Inc.
+Registrant Organization:National Association of School Nurses, Inc.
+Registrant Street1:8484 Georgia Avenue
+Registrant Street2:Suite 420
+Registrant Street3:
+Registrant City:Silver Spring
+Registrant State/Province:MD
+Registrant Postal Code:20910
+Registrant Country:US
+Registrant Phone:+1.2403380688
+Registrant Phone Ext.:
+Registrant FAX:+1.3015851791
+Registrant FAX Ext.:
+Registrant Email:nasn@NASN.ORG
+Admin ID:2608947-NSI
+Admin Name:Domain Administrator
+Admin Organization:National Association of School Nurses, Inc.
+Admin Street1:8484 Georgia Avenue
+Admin Street2:Suite 420
+Admin Street3:
+Admin City:Silver Spring
+Admin State/Province:MD
+Admin Postal Code:20910
+Admin Country:US
+Admin Phone:+1.2403380688
+Admin Phone Ext.:
+Admin FAX:+1.3015851791
+Admin FAX Ext.:
+Admin Email:nasn@nasn.org
+Tech ID:43357712-NSI
+Tech Name:WinXnet, Inc.
+Tech Organization:WinXnet, Inc.
+Tech Street1:84 Marginal Way
+Tech Street2:
+Tech Street3:
+Tech City:Portland
+Tech State/Province:ME
+Tech Postal Code:04101
+Tech Country:US
+Tech Phone:+1.2077800497
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mtownsend@winxnet.com
+Name Server:DNS1.ATLANTECH.NET
+Name Server:DNS2.ATLANTECH.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D314377-LROR
+Domain Name:KVMR.ORG
+Created On:25-Jun-1997 04:00:00 UTC
+Last Updated On:12-May-2011 20:03:25 UTC
+Expiration Date:24-Jun-2016 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30580220
+Registrant Name:Nevada City Community Broadcas Nevada City Community Broadcas
+Registrant Organization:Nevada City Community Broadcast Group dba KVMR FM
+Registrant Street1:401 Spring St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Nevada City
+Registrant State/Province:California
+Registrant Postal Code:95959
+Registrant Country:US
+Registrant Phone:+1.5302659073
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:button@foothill.net
+Admin ID:CR30580222
+Admin Name:John Button
+Admin Organization:Nevada City Community Broadcast Grp. dba KVMR FM
+Admin Street1:620 Zion Street
+Admin Street2:
+Admin Street3:
+Admin City:Nevada City
+Admin State/Province:California
+Admin Postal Code:95959
+Admin Country:US
+Admin Phone:+1.5302654824
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:button@foothill.net
+Tech ID:CR30580221
+Tech Name:Paul Castro
+Tech Organization:Art of Logic
+Tech Street1:25 Turpentine St.
+Tech Street2:
+Tech Street3:
+Tech City:Nevada City
+Tech State/Province:California
+Tech Postal Code:95959
+Tech Country:US
+Tech Phone:+1.5302656222
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rgs@artoflogic.com
+Name Server:SLV1.1AND1.COM
+Name Server:NS1.ARTOFLOGIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      giveandbuy.ie
+descr:       Careaid International Limited
+descr:       Charity
+descr:       Discretionary Name
+admin-c:     AKE962-IEDR
+tech-c:      HH36-IEDR
+renewal:     23-November-2011
+status:      Active
+nserver:     ns5.dnsireland.com
+nserver:     ns6.dnsireland.com
+nserver:     ns7.dnsireland.ie
+source:      IEDR
+
+person:      Aidan Corless
+nic-hdl:     AKE962-IEDR
+source:      IEDR
+
+person:      NamesCo Hostmaster
+nic-hdl:     HH36-IEDR
+source:      IEDR
+

@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      hosfordsgardencentre.ie
+descr:       HOSFORDS GERANIUM &amp; GARDEN CENTRE LIMITED
+descr:       BODY CORPORATE (LTD,PLC,COMPANY)
+descr:       Corporate Name
+admin-c:     ADE201-IEDR
+tech-c:      HH36-IEDR
+renewal:     03-April-2012
+status:      Active
+nserver:     ns.blacknightsolutions.com
+nserver:     ns2.blacknightsolutions.com
+source:      IEDR
+
+person:      John B Hosford
+nic-hdl:     ADE201-IEDR
+source:      IEDR
+
+person:      NamesCo Hostmaster
+nic-hdl:     HH36-IEDR
+source:      IEDR
+

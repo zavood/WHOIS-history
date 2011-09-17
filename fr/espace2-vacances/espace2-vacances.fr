@@ -1,0 +1,91 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; espace2-vacances.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      espace2-vacances.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    C9141-FRNIC
+admin-c:     ACC686-FRNIC
+tech-c:      SN40-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1425-FRNIC
+registrar:   NERIM
+anniversary: 17/04
+created:     03/09/2004
+last-update: 17/04/2008
+source:      FRNIC
+
+ns-list:     NSL1425-FRNIC
+nserver:     maridia.nerim.net
+nserver:     noemie.nerim.net
+source:      FRNIC
+
+registrar:   NERIM
+type:        Isp Option 2
+address:     19 rue du Quatre Septembre
+address:     PARIS
+country:     FR
+phone:       +33 1 44 82 07 17
+e-mail:      nerim@nerim.net
+website:     http://www.nerim.net
+anonymous:   NO
+registered:  06/02/2002
+source:      FRNIC
+
+nic-hdl:     C9141-FRNIC
+type:        ORGANIZATION
+contact:     CERS
+address:     58, avenue Marceau
+address:     75008 Paris
+country:     FR
+phone:       +33 1 44 82 07 17
+e-mail:      afnic@nerim.net
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ACC686-FRNIC
+type:        PERSON
+contact:     Laurent De Conto
+address:     Espace 2 Vacances
+address:     58, avenue Marceau
+address:     75008 Paris
+country:     FR
+phone:       +33 1 44 82 07 17
+e-mail:      afnic@nerim.net
+changed:     28/03/2008 afnic@nerim.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SN40-FRNIC
+type:        ROLE
+contact:     Societe Nerim
+address:     Nerim
+address:     29, rue du Louvre
+address:     75002 Paris
+country:     FR
+e-mail:      afnic@nerim.net
+admin-c:     CR382-FRNIC
+tech-c:      RB692-FRNIC
+changed:     16/10/2003 afnic@nerim.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

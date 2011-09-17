@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D75630267-LROR
+Domain Name:KSLEGISLATURE.ORG
+Created On:02-Aug-2001 21:27:43 UTC
+Last Updated On:28-Jul-2011 15:32:41 UTC
+Expiration Date:02-Aug-2014 21:27:43 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuhc7I3GZGjHtmR3
+Registrant Name:David Larson
+Registrant Organization:Kansas Legislature
+Registrant Street1:300 SW 10th
+Registrant Street2:Room 063-W
+Registrant Street3:
+Registrant City:Topeka
+Registrant State/Province:Kansas
+Registrant Postal Code:66612
+Registrant Country:US
+Registrant Phone:+1.7852967666
+Registrant Phone Ext.:
+Registrant FAX:+1.7852967104
+Registrant FAX Ext.:
+Registrant Email:dave.larson@las.ks.gov
+Admin ID:tu6UoWY7zljv8jBn
+Admin Name:David Larson
+Admin Organization:Kansas Legislature
+Admin Street1:300 SW 10th
+Admin Street2:Room 063-W
+Admin Street3:
+Admin City:Topeka
+Admin State/Province:Kansas
+Admin Postal Code:66612
+Admin Country:US
+Admin Phone:+1.7852967666
+Admin Phone Ext.:
+Admin FAX:+1.7852967104
+Admin FAX Ext.:
+Admin Email:dave.larson@las.ks.gov
+Tech ID:tuIN3zOtxcfJrxKj
+Tech Name:Jonathan Lee
+Tech Organization:123CheapDomains.com - $13.95/yr Domain Registrations
+Tech Street1:920 Cranbrook Court, Suite #7
+Tech Street2:Renew / Manage domain at 123CHEAPDOMAINS.COM - Keep for memo
+Tech Street3:For support, please send email to:   help@123cheapdomains.com
+Tech City:Davis
+Tech State/Province:Ca
+Tech Postal Code:95616
+Tech Country:US
+Tech Phone:+1.4156823859
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jonathan@123cheapdomains.com
+Name Server:KS01.STATE.KS.US
+Name Server:KS03.STATE.KS.US
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 26-nov-2009
    Expiration Date: 26-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 04:16:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 12:32:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,60 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Arsys Internet's WHOIS database is only for information purposes,
-this information consists on domain name registration records.
-Arsys Internet does not guarantee the accuracy of the information
-contained in the WHOIS. Arsys Internet allows the use of the
-information only for lawful purposes, under no circumstances this data
-will be use for: (a) allow, enable, or otherwise support the transmission
-by e-mail, telephone, or facsimile of mass unsolicited, commercial
-advertising or solicitations to entities other than the data recipient's
-own existing customers; or (b) enable high volume, automated,
-electronic processes that send queries or data to the systems of
-Registry Operator or any ICANN-Accredited Registrar, except as
-reasonably necessary to register domain names or modify existing
-registrations.
-
-
-
-Domain name: tuctucstore.com
-
-Registrant:
-      Tuc Tuc World  (SROW-1408828)
-
-   informatica@tuctuc.es
-   MONTE LA PILA 5
-   LARDERO   LA RIOJA
-   26140   ES
-   +34 941252278
-
-
-Administrative contact:
-   TUCTUC WORLD S.L   (SRCO-2185181)
-   informatica@tuctuc.es
-   MONTE LA PILA 5
-   LARDERO   LA RIOJA
-   26140   ES
-   +34 941252278
-
-
-Technical contact:
-   TUCTUC WORLD S.L   (SRCO-2185182)
-   informatica@tuctuc.es
-   MONTE LA PILA 5
-   LARDERO   LA RIOJA
-   26140   ES
-   +34 941252278
-
-
-Domain servers in listed order:
-   dns19.servidoresdns.net  217.76.128.137
-   dns20.servidoresdns.net  217.76.129.137
-
-
-Created:       26 Nov 2009 19:14:13:403   UTC
-Expires:       26 Nov 2011 18:14:17:000   UTC
-Last updated:  27 Nov 2010 12:26:38:393   UTC
-
-
-
+Acceso restringido

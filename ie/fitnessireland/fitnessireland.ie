@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      fitnessireland.ie
+descr:       Graeme Conkie
+descr:       Sole Trader
+descr:       Registered Business Name
+admin-c:     AAK286-IEDR
+tech-c:      ABG704-IEDR
+renewal:     07-January-2012
+status:      Active
+nserver:     ns1.fitnessireland.ie 212.126.36.157
+nserver:     ns2.fitnessireland.ie 212.126.36.225
+source:      IEDR
+
+person:      Graeme Conkie
+nic-hdl:     AAK286-IEDR
+source:      IEDR
+
+person:      Lets Host Domain Services
+nic-hdl:     ABG704-IEDR
+source:      IEDR
+

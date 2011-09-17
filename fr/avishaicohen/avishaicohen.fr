@@ -1,0 +1,92 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; avishaicohen.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      avishaicohen.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    EMF28-FRNIC
+admin-c:     ACEM7-FRNIC
+tech-c:      AF307-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5881-FRNIC
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+anniversary: 27/02
+created:     27/02/2009
+last-update: 16/05/2011
+source:      FRNIC
+
+ns-list:     NSL5881-FRNIC
+nserver:     cleon.oxalide.net
+nserver:     gladia.oxalide.net
+source:      FRNIC
+
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+type:        Isp Option 1
+address:     12-14, Rond-point des Champs Elys&eacute;es
+address:     PARIS
+country:     FR
+phone:       0 892 55 66 77
+fax-no:      +33 1 40 87 76 89
+e-mail:      afnic@amen.fr
+website:     http://www.amen.fr
+anonymous:   NO
+registered:  17/01/1999
+source:      FRNIC
+
+nic-hdl:     ACEM7-FRNIC
+type:        PERSON
+contact:     admin-c EMI MUSIC FRANCE
+address:     118, rue du Mont-Cenis
+address:     75891 Paris
+country:     FR
+phone:       +33 1 56 55 77 77
+e-mail:      hostmaster@virgin-fr.net
+changed:     30/06/2006 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AF307-FRNIC
+type:        ROLE
+contact:     AMEN France
+address:     Departement Noms de domaine
+address:     12, Rond-Point des Champs-Elysees
+address:     75008 Paris
+country:     FR
+phone:       +33 8 92 55 66 77
+e-mail:      afnic@amen.fr
+admin-c:     AF307-FRNIC
+tech-c:      AF307-FRNIC
+changed:     22/08/2008 afnic@amen.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     EMF28-FRNIC
+type:        ORGANIZATION
+contact:     EMI MUSIC France
+address:     118, rue du Mont-Cenis
+address:     75891 Paris
+country:     FR
+phone:       +33 1 56 55 77 77
+e-mail:      hostmaster@virgin-fr.net
+changed:     11/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

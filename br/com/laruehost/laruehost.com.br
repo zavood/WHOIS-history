@@ -1,0 +1,44 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 09:31:52 (BRT -03:00)
+
+domain:      laruehost.com.br
+owner:       CARLOS EDUARDO R. NOGUEIRA
+ownerid:     008.738.761/0001-57
+responsible: LARUE AG&Ecirc;NCIA
+country:     BR
+owner-c:     LAA481
+admin-c:     LAA481
+tech-c:      LAA481
+billing-c:   LAA481
+nserver:     ns1.laruehost.com.br 200.98.246.51
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.laruehost.com.br 200.98.246.52
+nsstat:      20110913 AA
+nslastaa:    20110913
+saci:        yes
+created:     20101021 #7478335
+expires:     20111021
+changed:     20101029
+status:      published
+
+nic-hdl-br:  LAA481
+person:      Larue Agencia
+e-mail:      agencia@larue.com.br
+created:     20060519
+changed:     20080713
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

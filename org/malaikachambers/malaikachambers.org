@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158483098-LROR
+Domain Name:MALAIKACHAMBERS.ORG
+Created On:01-Mar-2010 13:16:54 UTC
+Last Updated On:01-May-2010 03:48:58 UTC
+Expiration Date:01-Mar-2015 13:16:54 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:D126742819252241
+Registrant Name:MelronNicol-Wilson
+Registrant Organization:MelronNicol-Wilson
+Registrant Street1:10 Whetstone Road
+Registrant Street2:Blackheath
+Registrant Street3:South East
+Registrant City:London
+Registrant State/Province:England
+Registrant Postal Code:SE7 8AZ
+Registrant Country:GB
+Registrant Phone:+44.07949118141
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mnicolwilson@yahoo.co.uk
+Admin ID:D126742819252238
+Admin Name:Melron Nicol-Wilson
+Admin Street1:10 Whetstone Road
+Admin Street2:Blackheath
+Admin Street3:
+Admin City:London
+Admin State/Province:England
+Admin Postal Code:Se7 8AZ
+Admin Country:GB
+Admin Phone:+44.07949118141
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mnicolwilson@yahoo.co.uk
+Tech ID:D126742819252240
+Tech Name:Ukservers Hostmaster
+Tech Organization:UKServers Ltd
+Tech Street1:PO Box 34
+Tech Street2:
+Tech Street3:
+Tech City:Merriott
+Tech State/Province:Somerset
+Tech Postal Code:TA16 5YZ
+Tech Country:GB
+Tech Phone:+44.8701651416
+Tech Phone Ext.:
+Tech FAX:+44.8700940342
+Tech FAX Ext.:
+Tech Email:hostmaster@ukservers.net
+Name Server:NS.UKSERVERS.NET
+Name Server:NS1.UKSERVERS.NET
+Name Server:NS3.UKSERVERS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

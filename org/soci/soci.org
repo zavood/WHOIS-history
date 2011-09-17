@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D14761794-LROR
+Domain Name:SOCI.ORG
+Created On:07-Dec-1999 10:30:43 UTC
+Last Updated On:12-Nov-2008 15:51:00 UTC
+Expiration Date:07-Dec-2011 10:30:43 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:10686231981920
+Registrant Name:Society of Chemical industry
+Registrant Street1:14-15 belgrave square
+Registrant Street2:
+Registrant Street3:
+Registrant City:london
+Registrant State/Province:.
+Registrant Postal Code:sw1x 8ps
+Registrant Country:GB
+Registrant Phone:+99.999999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:itsupport@soci.org
+Admin ID:10686231985270
+Admin Name:Hitesh Velani
+Admin Street1:14-15 belgrave square
+Admin Street2:
+Admin Street3:
+Admin City:london
+Admin State/Province:.
+Admin Postal Code:sw1x 8ps
+Admin Country:GB
+Admin Phone:+44.02075981541
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:itsupport@soci.org
+Tech ID:10686231991830
+Tech Name:Hitesh Velani
+Tech Street1:14-15 belgrave square
+Tech Street2:
+Tech Street3:
+Tech City:london
+Tech State/Province:.
+Tech Postal Code:sw1x 8ps
+Tech Country:GB
+Tech Phone:+44.02075981541
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:itsupport@soci.org
+Name Server:NS0-S.DNS.PIPEX.NET
+Name Server:NS1-S.DNS.PIPEX.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

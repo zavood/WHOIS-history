@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D11490470-LROR
+Domain Name:STWENCESLAUS.ORG
+Created On:19-Oct-1999 21:39:34 UTC
+Last Updated On:20-Oct-2008 14:12:31 UTC
+Expiration Date:19-Oct-2017 21:39:34 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:OK
+Registrant ID:C3748720-RCOM
+Registrant Name:Mark Waring
+Registrant Organization:St. Wenceslaus Parish
+Registrant Street1:16555 Pasadena Circle
+Registrant Street2:
+Registrant Street3:
+Registrant City:Omaha
+Registrant State/Province:NE
+Registrant Postal Code:68130
+Registrant Country:US
+Registrant Phone:+1.4023337237
+Registrant Phone Ext.:
+Registrant FAX:+1.6038490261
+Registrant FAX Ext.:
+Registrant Email:markwaring@yahoo.com
+Admin ID:251509101d558079
+Admin Name:Mary Stanton
+Admin Organization:St. Wenceslaus
+Admin Street1:15353 Pacific St.
+Admin Street2:
+Admin Street3:
+Admin City:Omaha
+Admin State/Province:NE
+Admin Postal Code:68154
+Admin Country:US
+Admin Phone:+1.4023304356
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:stantonm@stwenc.creighton.edu
+Tech ID:32154367a779a869
+Tech Name:Russell Wall
+Tech Organization:ShowPage, Inc.
+Tech Street1:1216 S 168th Ave
+Tech Street2:
+Tech Street3:
+Tech City:Omaha
+Tech State/Province:NE
+Tech Postal Code:68130
+Tech Country:US
+Tech Phone:+1.4027781234
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rwall@showpageinc.com
+Name Server:DNS1.QUICKHOST.COM
+Name Server:DNS2.QUICKHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

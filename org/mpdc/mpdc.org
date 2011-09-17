@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2827154-LROR
+Domain Name:MPDC.ORG
+Created On:21-Apr-1998 04:00:00 UTC
+Last Updated On:27-Apr-2006 15:01:18 UTC
+Expiration Date:20-Apr-2015 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26874622-NSI
+Registrant Name:Metropolitan Police Department
+Registrant Organization:Metropolitan Police Department
+Registrant Street1:300 Indiana Ave. Room 1104
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20001
+Registrant Country:US
+Registrant Phone:+1.20272733
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:GCRAWFOR@BELLATLANTIC.NET
+Admin ID:26874622-NSI
+Admin Name:Metropolitan Police Department
+Admin Organization:Metropolitan Police Department
+Admin Street1:300 Indiana Ave. Room 1104
+Admin Street2:
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20001
+Admin Country:US
+Admin Phone:+1.20272733
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:GCRAWFOR@BELLATLANTIC.NET
+Tech ID:26874622-NSI
+Tech Name:Metropolitan Police Department
+Tech Organization:Metropolitan Police Department
+Tech Street1:300 Indiana Ave. Room 1104
+Tech Street2:
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20001
+Tech Country:US
+Tech Phone:+1.20272733
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:GCRAWFOR@BELLATLANTIC.NET
+Name Server:NS1.WASHINGTONDC.GOV
+Name Server:NS2.WASHINGTONDC.GOV
+Name Server:NS3.WASHINGTONDC.GOV
+Name Server:NS4.WASHINGTONDC.GOV
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

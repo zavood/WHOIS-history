@@ -1,0 +1,79 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ladmedia.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ladmedia.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    D1423-FRNIC
+admin-c:     SM1564-FRNIC
+tech-c:      SM1564-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL44718-FRNIC
+registrar:   DOCTISSIMO
+anniversary: 23/12
+created:     23/12/2010
+last-update: 24/12/2010
+source:      FRNIC
+
+ns-list:     NSL44718-FRNIC
+nserver:     ns1.ladtech.fr [85.116.42.147]
+nserver:     ns2.ladtech.fr [85.116.42.148]
+nserver:     ns7.newstech.fr [95.130.11.128]
+source:      FRNIC
+
+registrar:   DOCTISSIMO
+type:        Isp Option 2
+address:     33 Rue Raffet
+address:     PARIS
+country:     FR
+phone:       +33 1 42 15 08 08
+fax-no:      +33 1 42 15 00 17
+e-mail:      dnsmaster@medcost.fr
+website:     http://www.medcost.fr
+anonymous:   NO
+registered:  22/05/1998
+source:      FRNIC
+
+nic-hdl:     D1423-FRNIC
+type:        ORGANIZATION
+contact:     Doctissimo
+address:     DOCTISSIMO
+address:     9, place Marie Jeanne Bassot
+address:     92300 Levallois-Perret
+country:     FR
+phone:       +33 1 41 34 99 00
+e-mail:      dnsmaster@doctissimo.fr
+changed:     23/12/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SM1564-FRNIC
+type:        PERSON
+contact:     St&eacute;phane Menier
+address:     DOCTISSIMO
+address:     9, place Marie-Jeanne Bassot
+address:     92300 Levallois-Perret
+country:     FR
+phone:       +33 1 41 34 99 00
+e-mail:      dnsmaster@doctissimo.fr
+changed:     24/12/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

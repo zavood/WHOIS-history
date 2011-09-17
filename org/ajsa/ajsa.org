@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D71290769-LROR
+Domain Name:AJSA.ORG
+Created On:23-May-2001 21:33:32 UTC
+Last Updated On:10-May-2010 13:36:31 UTC
+Expiration Date:23-May-2012 21:33:32 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuVKe0tgfXB4NaFo
+Registrant Name:Alex Foster
+Registrant Organization:American Job Shop Association
+Registrant Street1:11 Spencer Lane
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lee
+Registrant State/Province:NH
+Registrant Postal Code:03824
+Registrant Country:US
+Registrant Phone:+1.6036594555
+Registrant Phone Ext.:
+Registrant FAX:+1.6036916123
+Registrant FAX Ext.:
+Registrant Email:ace@icswebs.com
+Admin ID:tuVKe0tgfXB4NaFo
+Admin Name:Alex Foster
+Admin Organization:American Job Shop Association
+Admin Street1:11 Spencer Lane
+Admin Street2:
+Admin Street3:
+Admin City:Lee
+Admin State/Province:NH
+Admin Postal Code:03824
+Admin Country:US
+Admin Phone:+1.6036594555
+Admin Phone Ext.:
+Admin FAX:+1.6036916123
+Admin FAX Ext.:
+Admin Email:ace@icswebs.com
+Tech ID:tu4gGQMrlkZ4o8K4
+Tech Name:Tech Support
+Tech Organization:HomepageNames
+Tech Street1:Office 10 Arkwright Suite
+Tech Street2:Coppull Enterprise Centre
+Tech Street3:Mill Lane
+Tech City:Coppull, Chorley
+Tech State/Province:Lancashire
+Tech Postal Code:PR75BW
+Tech Country:GB
+Tech Phone:+44.1257794911
+Tech Phone Ext.:
+Tech FAX:+44.1257794911
+Tech FAX Ext.:
+Tech Email:techsupport@homepagenames.com
+Name Server:NS.HOMEPAGENAMES.NET
+Name Server:NS2.HOMEPAGENAMES.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

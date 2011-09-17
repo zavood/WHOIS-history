@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      lynnhilary.ie
+descr:       Lynn Hilary
+descr:       Natural Person
+descr:       Personal Name
+admin-c:     AGS138-IEDR
+tech-c:      ABG704-IEDR
+renewal:     05-March-2013
+status:      Active
+nserver:     ns5.dnsireland.com
+nserver:     ns6.dnsireland.com
+nserver:     ns7.dnsireland.ie
+source:      IEDR
+
+person:      Lynn Hilary
+nic-hdl:     AGS138-IEDR
+source:      IEDR
+
+person:      Lets Host Domain Services
+nic-hdl:     ABG704-IEDR
+source:      IEDR
+

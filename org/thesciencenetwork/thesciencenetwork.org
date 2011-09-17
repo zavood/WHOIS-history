@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101851145-LROR
+Domain Name:THESCIENCENETWORK.ORG
+Created On:14-Oct-2003 23:25:00 UTC
+Last Updated On:14-Oct-2010 22:27:21 UTC
+Expiration Date:14-Oct-2012 23:25:00 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOTR-00852765
+Registrant Name:Roger Bingham
+Registrant Organization:C-SSN
+Registrant Street1:1482 East Valley Rd., #123
+Registrant Street2:
+Registrant Street3:
+Registrant City:Santa Barbara
+Registrant State/Province:CA
+Registrant Postal Code:93108
+Registrant Country:US
+Registrant Phone:+1.8054551682
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rsbingham@psy.ucsd.edu
+Admin ID:DOT-911KGFVX1RV9
+Admin Name:Roger Bingham
+Admin Organization:Salk Institute
+Admin Street1:10010 North Torrey Pines
+Admin Street2:
+Admin Street3:
+Admin City:La Jolla
+Admin State/Province:CA
+Admin Postal Code:92037
+Admin Country:US
+Admin Phone:+1.8584534100
+Admin Phone Ext.:
+Admin FAX:+1.8585870417
+Admin FAX Ext.:
+Admin Email:bingham@salk.edu
+Tech ID:DOT-UF86LSWRJ4Z1
+Tech Name:SNL Support
+Tech Organization:Salk Institute
+Tech Street1:10010 North Torrey Pines
+Tech Street2:
+Tech Street3:
+Tech City:La Jolla
+Tech State/Province:CA
+Tech Postal Code:92037
+Tech Country:US
+Tech Phone:+1.5555555555
+Tech Phone Ext.:
+Tech FAX:+1.8584534100
+Tech FAX Ext.:
+Tech Email:support@snl.salk.edu
+Name Server:NS1.THESCIENCENETWORK.ORG
+Name Server:NS2.THESCIENCENETWORK.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

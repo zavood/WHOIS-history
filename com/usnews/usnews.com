@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 20-jan-1995
    Expiration Date: 21-jan-2021
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:44:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 12:46:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,6 +70,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: usnews.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 20:35:11 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sat Sep 17 08:42:20 EDT 2011
 Reason Code: IE

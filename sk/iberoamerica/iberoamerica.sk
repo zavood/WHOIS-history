@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         iberoamerica.sk
+Admin-id            JURA-0827
+Admin-name          Juraj Bodnar - BODTRADE
+Admin-legal-form    zivnost
+Admin-org.-ID       41512464
+Admin-address       Lesna 25, Kosice 04001
+Admin-telephone     0905212623
+Admin-email         juraj@yudiny.sk
+Tech-id             ISKI-0001
+Tech-name           INTERNET SK s.r.o.
+Tech-org.-ID        35826339
+Tech-address        Palisady 33, Bratislava 81106
+Tech-telephone      +421 2 52623007, +420 383835353
+Tech-email          sknic@forpsi.com;domain@forpsi.com
+dns_name            ns1.websupport.sk
+dns_name            ns2.websupport.sk
+dns_name            ns3.websupport.sk
+Last-update         2011-02-02
+Valid-date          2012-02-24
+Domain-status       DOM_OK
+

@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      tsbbank.ie
+descr:       TSB Bank Ltd
+descr:       BODY CORPORATE (LTD,PLC,COMPANY)
+descr:       Corporate Name
+admin-c:     AAW670-IEDR
+tech-c:      KH175-IEDR
+renewal:     22-January-2012
+status:      Active
+nserver:     NS1.IRISHLIFEPERMANENT.IE
+nserver:     NS2.IRISHLIFEPERMANENT.IE
+source:      IEDR
+
+person:      Martin Farrelly
+nic-hdl:     AAW670-IEDR
+source:      IEDR
+
+person:      Kerna Hostmaster
+nic-hdl:     KH175-IEDR
+source:      IEDR
+

@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      fleadh2010.ie
+descr:       Cavan County Council
+descr:       Statutory Body
+descr:       Discretionary Name
+admin-c:     AGX636-IEDR
+tech-c:      AAD320-IEDR
+renewal:     29-September-2011
+status:      Active
+nserver:     NS1.LGCSB.IE
+nserver:     NS2.LGCSB.IE
+source:      IEDR
+
+person:      Daniel Peeters
+nic-hdl:     AGX636-IEDR
+source:      IEDR
+
+person:      Local Government Computer Services Board
+nic-hdl:     AAD320-IEDR
+source:      IEDR
+

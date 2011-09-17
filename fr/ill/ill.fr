@@ -1,0 +1,126 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ill.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ill.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    IMVL1-FRNIC
+admin-c:     RW163-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      OT454-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL4172-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL4172-FRNIC
+nserver:     firewall.ill.fr [193.49.43.1]
+nserver:     ccpntc3.in2p3.fr [134.158.69.191]
+nserver:     dns2.embl-heidelberg.de
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     IMVL1-FRNIC
+type:        ORGANIZATION
+contact:     INSTITUT MAX VON LAUE - PAUL LANGEVIN
+address:     6, rue Jules Horowitz
+address:     B.P. 156
+address:     38042 Grenoble
+country:     FR
+phone:       +33 4 76 20 71 11
+fax-no:      +33 4 76 48 39 06
+e-mail:      welcom@ill.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     RW163-FRNIC
+type:        PERSON
+contact:     Richard Wagner
+address:     ILL
+address:     Sce Informatique
+address:     6, rue Jules Horowitz
+address:     38000 Grenoble
+country:     FR
+phone:       +33 4 76 20 70 03
+fax-no:      +33 4 76 96 11 95
+e-mail:      wagner@ill.fr
+changed:     02/03/2009 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OT454-FRNIC
+type:        PERSON
+contact:     Odile Tillier
+address:     Institut Laue-Langevin
+address:     B.P. 156X
+address:     38042 Grenoble Cedex
+country:     FR
+phone:       +33 76 48 73 89
+e-mail:      tillier@frill.bitnet
+notify:      tillier@frill.bitnet
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
