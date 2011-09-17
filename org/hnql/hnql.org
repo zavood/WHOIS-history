@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104825255-LROR
+Domain Name:HNQL.ORG
+Created On:30-Aug-2004 06:42:31 UTC
+Last Updated On:02-Sep-2011 12:02:12 UTC
+Expiration Date:30-Aug-2016 06:42:31 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:38337516-NSI
+Registrant Name:hainan sheng qiaolian
+Registrant Organization:hainan sheng qiaolian
+Registrant Street1:the 2nd office building No 49 haifu Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:haikou
+Registrant State/Province:Hainan
+Registrant Postal Code:570204
+Registrant Country:CN
+Registrant Phone:+1.860898653
+Registrant Phone Ext.:
+Registrant FAX:+1.860898653
+Registrant FAX Ext.:
+Registrant Email:hainanese@163.com
+Admin ID:38337516-NSI
+Admin Name:hainan sheng qiaolian
+Admin Organization:hainan sheng qiaolian
+Admin Street1:the 2nd office building No 49 haifu Road
+Admin Street2:
+Admin Street3:
+Admin City:haikou
+Admin State/Province:Hainan
+Admin Postal Code:570204
+Admin Country:CN
+Admin Phone:+1.860898653
+Admin Phone Ext.:
+Admin FAX:+1.860898653
+Admin FAX Ext.:
+Admin Email:hainanese@163.com
+Tech ID:38337516-NSI
+Tech Name:hainan sheng qiaolian
+Tech Organization:hainan sheng qiaolian
+Tech Street1:the 2nd office building No 49 haifu Road
+Tech Street2:
+Tech Street3:
+Tech City:haikou
+Tech State/Province:Hainan
+Tech Postal Code:570204
+Tech Country:CN
+Tech Phone:+1.860898653
+Tech Phone Ext.:
+Tech FAX:+1.860898653
+Tech FAX Ext.:
+Tech Email:hainanese@163.com
+Name Server:NS1.168DNS.COM
+Name Server:NS2.168DNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

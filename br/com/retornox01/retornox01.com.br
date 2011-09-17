@@ -1,0 +1,47 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 22:27:30 (BRT -03:00)
+
+domain:      retornox01.com.br
+owner:       RONES RODRIGUES E SILVA
+ownerid:     363.550.928-03
+country:     BR
+owner-c:     SARBA21
+admin-c:     SARBA21
+tech-c:      SARBA21
+billing-c:   SARBA21
+nserver:     ns1.dominios.uol.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.dominios.uol.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.dominios.uol.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20100614 #6981531
+expires:     20110614
+changed:     20110628
+provider:    UOLHOST (22)
+status:      on-hold
+
+nic-hdl-br:  SARBA21
+person:      SAMELA ROBERTA BATITA
+e-mail:      mbazinho07@gmail.com
+created:     20100614
+changed:     20100614
+provider:    UOLHOST (22)
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

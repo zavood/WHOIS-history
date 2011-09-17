@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 22:28:37 (BRT -03:00)
+
+domain:      borussiabahia.com.br
+owner:       borussia com e repres. de mat hosp ltda
+ownerid:     007.936.790/0001-60
+responsible: ana verena mello freitas
+country:     BR
+owner-c:     BCRML
+admin-c:     BCRML
+tech-c:      BCRML
+billing-c:   BCRML
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20060929 #3091225
+expires:     20110929
+changed:     20101026
+status:      published
+
+nic-hdl-br:  BCRML
+person:      borussia com e repres. de mat hosp ltda
+e-mail:      borussiabahia_fapesp@terra.com.br
+created:     20060929
+changed:     20081106
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

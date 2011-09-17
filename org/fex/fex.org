@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D261156-LROR
+Domain Name:FEX.ORG
+Created On:26-Feb-1996 05:00:00 UTC
+Last Updated On:15-Jun-2011 19:10:38 UTC
+Expiration Date:27-Feb-2017 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29367934-NSI
+Registrant Name:Funding Exchange
+Registrant Organization:Funding Exchange
+Registrant Street1:666 Broadway
+Registrant Street2:
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:NY
+Registrant Postal Code:10002
+Registrant Country:US
+Registrant Phone:+1.2125295300
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:FHFEX@AOL.COM
+Admin ID:38813287-NSI
+Admin Name:Funding Exchange
+Admin Street1:666 Broadway, #500
+Admin Street2:
+Admin Street3:
+Admin City:New York
+Admin State/Province:NY
+Admin Postal Code:10012
+Admin Country:US
+Admin Phone:+212.5295300319
+Admin Phone Ext.:
+Admin FAX:+1.2129829272
+Admin FAX Ext.:
+Admin Email:information@fex.org
+Tech ID:38813287-NSI
+Tech Name:Funding Exchange
+Tech Street1:666 Broadway, #500
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10012
+Tech Country:US
+Tech Phone:+212.5295300319
+Tech Phone Ext.:
+Tech FAX:+1.2129829272
+Tech FAX Ext.:
+Tech Email:information@fex.org
+Name Server:NS.VERVEHOSTING.COM
+Name Server:NS2.VERVEHOSTING.COM
+Name Server:NS3.VERVEHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
