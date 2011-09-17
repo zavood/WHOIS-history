@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ellos.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ellos.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    EA1717-FRNIC
+admin-c:     ER1721-FRNIC
+tech-c:      MIDT4-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL7342-FRNIC
+registrar:   MELBOURNE IT LIMITED
+anniversary: 16/09
+created:     16/09/2009
+last-update: 16/09/2009
+source:      FRNIC
+
+ns-list:     NSL7342-FRNIC
+nserver:     a4.nstld.com
+nserver:     f4.nstld.com
+nserver:     g4.nstld.com
+nserver:     l4.nstld.com
+source:      FRNIC
+
+registrar:   MELBOURNE IT LIMITED
+type:        Isp Option 1
+address:     Level 2
+address:     120 King St
+address:     3000 MELBOURNE, VICTORIA
+country:     AU
+phone:       +61 3 8624 2400
+fax-no:      +61 3 8624 2499
+e-mail:      admin@melbourneitdbs.com
+website:     http://www.melbourneit.com.au
+anonymous:   NO
+registered:  16/03/2007
+source:      FRNIC
+
+nic-hdl:     EA1717-FRNIC
+type:        ORGANIZATION
+contact:     Ellos AB
+address:     Ellos AB
+address:     Odegardgatan 4
+address:     50186 Boras
+country:     SE
+phone:       +46 33160000
+fax-no:      +46 33160500
+e-mail:      domainadmin@ellos.se
+changed:     22/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ER1721-FRNIC
+type:        PERSON
+contact:     Eric Ravy
+address:     REDCATS
+address:     110, rue de Blanchemaille
+address:     59100 Roubaix
+country:     FR
+phone:       +33 1 56 92 98 00
+e-mail:      eravy@redcats.com
+changed:     16/09/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MIDT4-FRNIC
+type:        PERSON
+contact:     Melbourne It Dbs Tech
+address:     Melbourne IT DBS Inc
+address:     636, Ellis Street
+address:     94043 Mountain View
+country:     US
+phone:       +1 8669073267
+fax-no:      +1 6506182574
+e-mail:      tech@melbourneitdbs.com
+changed:     21/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
