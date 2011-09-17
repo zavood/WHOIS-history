@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D129654622-LROR
+Domain Name:SCOPENETWORK.ORG
+Created On:27-Sep-2006 17:47:34 UTC
+Last Updated On:27-Sep-2009 23:08:53 UTC
+Expiration Date:27-Sep-2011 17:47:34 UTC
+Sponsoring Registrar:CORE Internet Council of Registrars (R23-LROR)
+Status:OK
+Registrant ID:R23-70454951-PIR
+Registrant Name:Charite
+Registrant Street1:Chariteplatz 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Berlin
+Registrant State/Province:Berlin
+Registrant Postal Code:10117
+Registrant Country:DE
+Registrant Phone:+49.30450518358
+Registrant Phone Ext.:
+Registrant FAX:+49.30450518935
+Registrant FAX Ext.:
+Registrant Email:birgit.hinrichs@charite.de
+Admin ID:R23-70454955-PIR
+Admin Name:Ingo Schroeder
+Admin Organization:Deutsches Zentrum fuer Luft- und Raumfahrt e.V.
+Admin Street1:Rutherfordstrasse 2
+Admin Street2:
+Admin Street3:
+Admin City:Berlin
+Admin State/Province:
+Admin Postal Code:12489
+Admin Country:DE
+Admin Phone:+49.3067055703
+Admin Phone Ext.:
+Admin FAX:+49.3067055712
+Admin FAX Ext.:
+Admin Email:ingo.schroeder@dlr.de
+Tech ID:R23-70454965-PIR
+Tech Name:Gerhard Chati
+Tech Organization:T-Systems Solutions for Research GmbH
+Tech Street1:Muenchener Str. 20
+Tech Street2:
+Tech Street3:
+Tech City:Wessling
+Tech State/Province:
+Tech Postal Code:82230
+Tech Country:DE
+Tech Phone:+49.8153282943
+Tech Phone Ext.:
+Tech FAX:+49.81532842943
+Tech FAX Ext.:
+Tech Email:gerhard.chati@t-systems.com
+Name Server:NS1.DLR.DE
+Name Server:NS2.DLR.DE
+Name Server:NS5.DLR.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

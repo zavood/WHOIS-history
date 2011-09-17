@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 21-nov-1995
    Expiration Date: 01-nov-2019
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:37:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 22:00:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,6 +70,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: honeybaked.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Mon Sep 12 22:27:25 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sat Sep 17 17:56:23 EDT 2011
 Reason Code: IE

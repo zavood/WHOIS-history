@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D861465-LROR
+Domain Name:PANSPERMIA.ORG
+Created On:24-Aug-1996 04:00:00 UTC
+Last Updated On:24-Nov-2008 20:58:19 UTC
+Expiration Date:23-Aug-2013 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26956937-NSI
+Registrant Name:Brig Klyce
+Registrant Organization:Acorn Enterprises LLC
+Registrant Street1:168 Grove Park Circle
+Registrant Street2:
+Registrant Street3:
+Registrant City:Memphis
+Registrant State/Province:TN
+Registrant Postal Code:38117-3134
+Registrant Country:US
+Registrant Phone:+1.901763222
+Registrant Phone Ext.:
+Registrant FAX:+1.901767299
+Registrant FAX Ext.:
+Registrant Email:brigklyce@panspermia.org
+Admin ID:26956937-NSI
+Admin Name:Brig Klyce
+Admin Organization:Acorn Enterprises LLC
+Admin Street1:168 Grove Park Circle
+Admin Street2:
+Admin Street3:
+Admin City:Memphis
+Admin State/Province:TN
+Admin Postal Code:38117-3134
+Admin Country:US
+Admin Phone:+1.901763222
+Admin Phone Ext.:
+Admin FAX:+1.901767299
+Admin FAX Ext.:
+Admin Email:brigklyce@panspermia.org
+Tech ID:26956937-NSI
+Tech Name:Brig Klyce
+Tech Organization:Acorn Enterprises LLC
+Tech Street1:168 Grove Park Circle
+Tech Street2:
+Tech Street3:
+Tech City:Memphis
+Tech State/Province:TN
+Tech Postal Code:38117-3134
+Tech Country:US
+Tech Phone:+1.901763222
+Tech Phone Ext.:
+Tech FAX:+1.901767299
+Tech FAX Ext.:
+Tech Email:brigklyce@panspermia.org
+Name Server:NS491.PAIR.COM
+Name Server:NS6.NS0.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

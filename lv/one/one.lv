@@ -1,0 +1,24 @@
+[Domain]
+Domain: one.lv
+Status: active
+Changed: 2004-01-23T16:19:38+02:00
+
+[Holder]
+Type: Legal person
+Name: Forticom, SIA
+Email: noc@hq.one.lv
+Phone: +371 67060530
+Address: Ulbrokas iela 23, Riga, LV-1021
+RegNr: 40003493646
+
+[Tech]
+Type: Natural person
+Email: noc@hq.one.lv
+Phone: +371 67060530
+
+[Nservers]
+Nserver: ns.one.lv
+Nserver: ns1.one.lv
+
+[Whois]
+Updated: 2011-09-17T17:12:25.167886+00:00

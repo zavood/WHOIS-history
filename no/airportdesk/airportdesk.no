@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: AIR571D-NORID
+Domain Name................: airportdesk.no
+Domain Holder Handle.......: DE86O-NORID
+Registrar Handle...........: REG112-NORID
+Legal-c Handle.............: TK2864P-NORID
+Tech-c Handle..............: HO22R-NORID
+Name Server Handle.........: DNSM115H-NORID
+Name Server Handle.........: DNSM118H-NORID
+
+Additional information:
+Created:         2009-05-06
+Last updated:    2011-05-08
+
+NORID Handle...............: DE86O-NORID
+Type.......................: organization
+Name.......................: DESIGNAWEB
+Id Type....................: organization_number
+Id Number..................: 991488472
+Registrar Handle...........: REG112-NORID
+Post Address...............: Postboks 447
+Postal Code................: NO-1373
+Postal Area................: Asker
+Country....................: NO
+Phone Number...............: +31.646766806
+Fax Number.................: +31.205248422
+Email Address..............: info@designaweb.nl
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

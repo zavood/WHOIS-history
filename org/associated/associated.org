@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2851822-LROR
+Domain Name:ASSOCIATED.ORG
+Created On:04-Feb-1997 05:00:00 UTC
+Last Updated On:04-Apr-2011 16:16:29 UTC
+Expiration Date:05-Feb-2012 05:00:00 UTC
+Sponsoring Registrar:TierraNet Inc. dba DomainDiscover (R86-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:TNTN-0000555751
+Registrant Name:Associated Jewish Com. Fed. of Baltimore
+Registrant Organization:Associated Jewish Com. Fed. of Baltimore
+Registrant Street1:101 W Mt. Royal Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Baltimore
+Registrant State/Province:MD
+Registrant Postal Code:21201
+Registrant Country:US
+Registrant Phone:+1.4107274828
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:administrator@associated.org
+Admin ID:TNTN-0000555749
+Admin Name:Associated Jewish Com. Fed. of Baltimore
+Admin Organization:Associated Jewish Comm. Fed. of
+Admin Street1:101 Mt. Royal Ave.
+Admin Street2:
+Admin Street3:
+Admin City:Baltimore
+Admin State/Province:MD
+Admin Postal Code:21201
+Admin Country:US
+Admin Phone:+1.4107274828
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:administrator@associated.org
+Tech ID:TNTN-0000555751
+Tech Name:Associated Jewish Com. Fed. of Baltimore
+Tech Organization:Associated Jewish Com. Fed. of Baltimore
+Tech Street1:101 W Mt. Royal Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Baltimore
+Tech State/Province:MD
+Tech Postal Code:21201
+Tech Country:US
+Tech Phone:+1.4107274828
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:administrator@associated.org
+Name Server:DNS3.JCFB.ORG
+Name Server:DNS4.JCFB.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

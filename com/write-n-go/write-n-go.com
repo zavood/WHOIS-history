@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 24-nov-2006
    Expiration Date: 24-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:13:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 22:17:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -133,10 +133,10 @@ Billing Fax Ext:
 Billing Email: info@windows-powershell.com
 Name Server: de02.ns-all-tld.biz
 Name Server ACE: de02.ns-all-tld.biz
-Name Server: ca01.ns-all-tld.info
-Name Server ACE: ca01.ns-all-tld.info
 Name Server: us01.ns-all-tld.com 64.191.59.150
 Name Server ACE: us01.ns-all-tld.com 64.191.59.150
+Name Server: ca01.ns-all-tld.info
+Name Server ACE: ca01.ns-all-tld.info
 Name Server: de01.ns-all-tld.net 193.138.108.10
 Name Server ACE: de01.ns-all-tld.net 193.138.108.10
 

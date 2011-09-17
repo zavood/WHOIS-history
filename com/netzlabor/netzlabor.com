@@ -12,11 +12,11 @@ for detailed information.
    Name Server: NS1.NETZLABOR.COM
    Name Server: NS2.SECONDARY.COM
    Status: clientTransferProhibited
-   Updated Date: 21-aug-2009
+   Updated Date: 13-sep-2011
    Creation Date: 21-nov-2000
-   Expiration Date: 21-nov-2011
+   Expiration Date: 21-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 21:33:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 21:56:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,9 +68,9 @@ nserver:      ns2.secondary.com
 nserver:      ns1.netzlabor.com 194.208.119.122
 status:       lock
 created:      2000-11-21 18:49:08 UTC
-modified:     2009-08-21 08:03:01 UTC
-expires:      2011-11-21 23:49:08 UTC
-query-source: 174.142.225.246
+modified:     2011-09-13 15:48:11 UTC
+expires:      2012-11-21 23:49:08 UTC
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-27648
 person:       Thomas Keuscher
@@ -84,8 +84,8 @@ country:      AT
 phone:        +43.6644652776
 
 source:       joker.com live whois service
-query-time:   0.028007
-db-updated:   2011-09-12 21:34:03
+query-time:   0.022407
+db-updated:   2011-09-17 21:57:09
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

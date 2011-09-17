@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; schwarzkopf.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      schwarzkopf.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    HACK1-FRNIC
+admin-c:     JR1479-FRNIC
+tech-c:      ID401-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL7736-FRNIC
+registrar:   CSC CORPORATE DOMAINS INC.
+anniversary: 11/08
+created:     16/06/2005
+last-update: 11/08/2009
+source:      FRNIC
+
+ns-list:     NSL7736-FRNIC
+nserver:     hh-ns01.henkel.de
+nserver:     sbdns3.cscdns.net
+source:      FRNIC
+
+registrar:   CSC CORPORATE DOMAINS INC.
+type:        Isp Option 1
+address:     2711 Centerville Road, Suite 400
+address:     DE 19808 WILMINGTON
+country:     US
+phone:       +1 302 636 5400
+fax-no:      +1 302 636 5454
+e-mail:      corporatedomains@cscinfo.com
+website:     http://www.csccorporatedomains.com
+anonymous:   NO
+registered:  17/10/2006
+source:      FRNIC
+
+nic-hdl:     HACK1-FRNIC
+type:        ORGANIZATION
+contact:     Henkel AG &amp; Co. KGaA
+address:     Henkel AG &amp; Co. KGaA
+address:     Henkelstrasse 67
+address:     40589 Duesseldorf
+country:     DE
+phone:       +49 02117970
+fax-no:      +49 2117982465
+e-mail:      domainadmin@henkel.com
+changed:     09/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JR1479-FRNIC
+type:        PERSON
+contact:     Joachim Renner
+address:     Henkel France S.A
+address:     161, rue de Silly
+address:     92642 Boulogne-Billancourt Cedex
+country:     FR
+phone:       +33 1 46 84 90 00
+fax-no:      +33 1 46 84 90 00
+e-mail:      domainadmin@henkel.com
+changed:     24/02/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ID401-FRNIC
+type:        PERSON
+contact:     It Departement
+address:     Henkel AG &amp; Co. KGaA
+address:     Henkelstrasse 67
+address:     40589 Duesseldorf
+country:     DE
+phone:       +49.2117970
+fax-no:      +49.2117981500
+e-mail:      dns-tech@henkel.com
+changed:     17/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

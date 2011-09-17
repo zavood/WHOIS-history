@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3724510-LROR
+Domain Name:JFSATX.ORG
+Created On:18-Feb-1999 05:00:00 UTC
+Last Updated On:16-Jul-2010 13:45:51 UTC
+Expiration Date:18-Feb-2015 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:37994450-NSI
+Registrant Name:Campusofthe San Antonio Jewish Community
+Registrant Organization:Campusofthe San Antonio Jewish Community
+Registrant Street1:12500 N.W. Military Hwy
+Registrant Street2:Suite 100
+Registrant Street3:
+Registrant City:San Antonio
+Registrant State/Province:TX
+Registrant Postal Code:78231
+Registrant Country:US
+Registrant Phone:+1.2103026800
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:37994451-NSI
+Admin Name:Janetta Spencer
+Admin Organization:Campus of the San Antonio Jewish Community
+Admin Street1:12500 N.W. Military Hwy
+Admin Street2:Suite 100
+Admin Street3:
+Admin City:San Antonio
+Admin State/Province:TX
+Admin Postal Code:78231
+Admin Country:US
+Admin Phone:+1.2103026800
+Admin Phone Ext.:
+Admin FAX:+1.2104082322
+Admin FAX Ext.:
+Admin Email:bbanis@resonanttechnologypartners.com
+Tech ID:37994451-NSI
+Tech Name:Janetta Spencer
+Tech Organization:Campus of the San Antonio Jewish Community
+Tech Street1:12500 N.W. Military Hwy
+Tech Street2:Suite 100
+Tech Street3:
+Tech City:San Antonio
+Tech State/Province:TX
+Tech Postal Code:78231
+Tech Country:US
+Tech Phone:+1.2103026800
+Tech Phone Ext.:
+Tech FAX:+1.2104082322
+Tech FAX Ext.:
+Tech Email:bbanis@resonanttechnologypartners.com
+Name Server:NS23.WORLDNIC.COM
+Name Server:NS24.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

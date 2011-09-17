@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-15 22:49:15 (BRT -03:00)
+%  2011-09-17 19:20:45 (BRT -03:00)
 
 domain:      piernet.com.br
 owner:       A.F.B. RODRIGUES - ME
@@ -17,11 +17,11 @@ admin-c:     AFR
 tech-c:      AFR
 billing-c:   AFR
 nserver:     sol.piernet.com.br 187.60.255.2
-nsstat:      20110912 AA
-nslastaa:    20110912
+nsstat:      20110916 AA
+nslastaa:    20110916
 nserver:     lua.piernet.com.br 187.60.255.3
-nsstat:      20110912 AA
-nslastaa:    20110912
+nsstat:      20110916 AA
+nslastaa:    20110916
 created:     19970805 #50304
 expires:     20160805
 changed:     20110711

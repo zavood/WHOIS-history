@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155545381-LROR
+Domain Name:SEACOMPANY.ORG
+Created On:06-Mar-2009 04:08:15 UTC
+Last Updated On:06-Mar-2011 06:31:26 UTC
+Expiration Date:06-Mar-2013 04:08:15 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:aa18838d3d4ae778
+Registrant Name:Domain  Privacy
+Registrant Organization:Domain Privacy
+Registrant Street1:Domain Privacy
+Registrant Street2:
+Registrant Street3:
+Registrant City:Domain Privacy
+Registrant State/Province:Privacy
+Registrant Postal Code:Domain Privacy
+Registrant Country:DO
+Registrant Phone:+1.123456798
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:privacy@pipedns.com
+Admin ID:d4899ed9caef2f23
+Admin Name:Domain  Privacy
+Admin Organization:Domain Privacy
+Admin Street1:Domain Privacy
+Admin Street2:
+Admin Street3:
+Admin City:Domain Privacy
+Admin State/Province:Domain Privacy
+Admin Postal Code:Domain Privacy
+Admin Country:DO
+Admin Phone:+1.8713110873
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:privacy@pipedns.com
+Tech ID:d4899ed9caef2f23
+Tech Name:Domain  Privacy
+Tech Organization:Domain Privacy
+Tech Street1:Domain Privacy
+Tech Street2:
+Tech Street3:
+Tech City:Domain Privacy
+Tech State/Province:Domain Privacy
+Tech Postal Code:Domain Privacy
+Tech Country:DO
+Tech Phone:+1.8713110873
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:privacy@pipedns.com
+Name Server:NS1.PIPEDNS.COM
+Name Server:NS2.PIPEDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D5555407-LROR
+Domain Name:TOLEDOMUSEUM.ORG
+Created On:26-Feb-1997 05:00:00 UTC
+Last Updated On:13-Jan-2009 17:22:45 UTC
+Expiration Date:27-Feb-2012 05:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tu8fUEq4K5IPpKDz
+Registrant Name:Sandy Moore
+Registrant Organization:Toledo Museum of Art
+Registrant Street1:P.O. Box 1013
+Registrant Street2:
+Registrant Street3:
+Registrant City:Toledo
+Registrant State/Province:OH
+Registrant Postal Code:43697
+Registrant Country:US
+Registrant Phone:+1.4192558000
+Registrant Phone Ext.:7308
+Registrant FAX:+1.4192555638
+Registrant FAX Ext.:
+Registrant Email:smoore@toledomuseum.org
+Admin ID:tu8fUEq4K5IPpKDz
+Admin Name:Sandy Moore
+Admin Organization:Toledo Museum of Art
+Admin Street1:P.O. Box 1013
+Admin Street2:
+Admin Street3:
+Admin City:Toledo
+Admin State/Province:OH
+Admin Postal Code:43697
+Admin Country:US
+Admin Phone:+1.4192558000
+Admin Phone Ext.:7308
+Admin FAX:+1.4192555638
+Admin FAX Ext.:
+Admin Email:smoore@toledomuseum.org
+Tech ID:tu6ATXmrmehtb4ha
+Tech Name:DNS Technical Resources
+Tech Organization:Access Toledo Ltd
+Tech Street1:4818 Angola Road
+Tech Street2:
+Tech Street3:
+Tech City:Toledo
+Tech State/Province:OH
+Tech Postal Code:43615
+Tech Country:US
+Tech Phone:+1.4197244000
+Tech Phone Ext.:
+Tech FAX:+1.4197244001
+Tech FAX Ext.:
+Tech Email:dns-tech@accesstoledo.com
+Name Server:NS1.LUNARMANIA.COM
+Name Server:NS2.LUNARMANIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 18:38:48 (BRT -03:00)
+
+domain:      admlink.com.br
+owner:       Tecsupri Suprimentos e Informatica Ltda - Me
+ownerid:     005.873.844/0001-60
+responsible: Claudio Ferreira
+country:     BR
+owner-c:     CLF241
+admin-c:     CLF241
+tech-c:      HWI
+billing-c:   CLF241
+nserver:     ns41.roteador.info
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns42.roteador.info
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     20050913 #2354213
+expires:     20120913
+changed:     20110830
+status:      published
+
+nic-hdl-br:  CLF241
+person:      Claudio Ferreira
+e-mail:      claudio@tecsupri.com.br
+created:     20030922
+changed:     20030922
+
+nic-hdl-br:  HWI
+person:      Hard Wide Net Inform&aacute;tica
+e-mail:      fapesp@hwn.com.br
+created:     20011122
+changed:     20040108
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
