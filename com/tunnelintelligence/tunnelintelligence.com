@@ -6,18 +6,19 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
    Domain Name: TUNNELINTELLIGENCE.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
+   Registrar: WEBFUSION LTD.
+   Whois Server: whois.123-reg.co.uk
+   Referral URL: http://www.123-reg.co.uk
    Name Server: NS.123-REG.CO.UK
    Name Server: NS2.123-REG.CO.UK
+   Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 22-sep-2009
+   Updated Date: 17-sep-2011
    Creation Date: 18-sep-2000
-   Expiration Date: 18-sep-2011
+   Expiration Date: 18-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 19:13:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 06:15:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,86 +53,66 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- Tunnelbuilder Ltd
- 96 Wyndham Crescent
- Cardiff,  CF11 9EF
- GB
+******************************************************************
+Registrar:	123Reg/Webfusion
+Url:		http://www.123-reg.co.uk
 
- Domain name: TUNNELINTELLIGENCE.COM
+This domain is provided by 123-reg. We're the UK's largest
+registrar with over 2.7 million domains sold. We also provide
+cheap, easy website creation.
+******************************************************************
 
+Domain Name: 		TUNNELINTELLIGENCE.COM
+Created Date:		18-Sep-2000
+Expiry Date:		18-Sep-2012
+Nameserver:		ns.123-reg.co.uk
+Nameserver:		ns2.123-reg.co.uk
+Registrant Name:	Mike Smith
+Registrant Company:	Tunnelbuilder Ltd
+Registrant Address:	96 Wyndham Crescent
+Registrant Address:
+Registrant Address:
+Registrant Address:	Cardiff
+Registrant Address:
+Registrant Address:	CF11 9EF
+Registrant Address:	United Kingdom
+Technical Name:		Webfusion Ltd
+Technical Company:	Webfusion Ltd.
+Technical Address:	5 Roundwood Avenue
+Technical Address:	Stockley Park
+Technical Address:
+Technical Address:	Uxbridge
+Technical Address:	Middlesex
+Technical Address:	UB11 1FF
+Technical Address:	United Kingdom
+Technical Email:	services@123-reg.co.uk
+Technical Tel:		+44.8712309525
+Technical Fax:		+44.8701650437
+Administrative Name:	Mike Smith
+Administrative Company:	Tunnelbuilder Ltd
+Administrative Address:	96 Wyndham Crescent
+Administrative Address:
+Administrative Address:
+Administrative Address:	Cardiff
+Administrative Address:
+Administrative Address:	CF11 9EF
+Administrative Address:	United Kingdom
+Administrative Email:	mike@tunnelbuilder.com
+Administrative Tel:	+44.2920220304
+Administrative Fax:
 
- Administrative Contact:
-    Smith, Mike  mike@tunnelbuilder.com
-    96 Wyndham Crescent
-    Cardiff,  CF11 9EF
-    GB
-    +44.2920220304
- Technical Contact:
-    Ltd, Webfusion  services@123-reg.co.uk
-    5 Roundwood Avenue
-    Stockley Park
-    Uxbridge, Middlesex UB11 1FF
-    GB
-    +44.8712309525    Fax: +44.8701650437
+The Data in this WHOIS database is provided
+for information purposes only, and is designed to assist persons in
+obtaining information related to domain name registration records.
+It's accuracy is not guarenteed. By submitting a
+WHOIS query, you agree that you will use this Data only for lawful
+purposes and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+ or (2) enable high volume, automated, electronic processes that
+apply to this WHOIS or any of its related systems. The provider of
+this WHOIS reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
 
-
-
- Registration Service Provider:
-    123-reg.co.uk, services@123-reg.co.uk
-    08712309525
-    08709126612 (fax)
-    http://www.123-reg.co.uk
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions.
-
-
- Registrar of Record: TUCOWS, INC.
- Record last updated on 16-Dec-2009.
- Record expires on 18-Sep-2011.
- Record created on 18-Sep-2000.
-
- Registrar Domain Name Help Center:
-    http://tucowsdomains.com
-
- Domain servers in listed order:
-    NS.123-REG.CO.UK
-    NS2.123-REG.CO.UK
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-Tucows makes this information available &quot;as is,&quot; and does not guarantee its
-accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Tucows.
-
-Tucows reserves the right to terminate your access to the Tucows WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
-
-Tucows reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
-
+LACK OF A DOMAIN RECORD IN THE WHOIS DATABASE DOES
+NOT INDICATE DOMAIN AVAILABILITY.

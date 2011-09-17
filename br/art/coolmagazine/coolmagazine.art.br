@@ -1,0 +1,50 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 03:07:35 (BRT -03:00)
+
+domain:      coolmagazine.art.br
+owner:       Cool Editora LTDA
+ownerid:     002.096.631/0001-81
+responsible: Marcelo Jardim de Souza
+country:     BR
+owner-c:     MJS278
+admin-c:     MJS278
+tech-c:      COS249
+billing-c:   MJS278
+nserver:     ns1.ibiza.coolmagazine.art.br 216.75.60.95
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.ibiza.coolmagazine.art.br 66.240.192.155
+nsstat:      20110914 AA
+nslastaa:    20110914
+saci:        yes
+created:     20110719 #8594524
+expires:     20130719
+changed:     20110808
+status:      published
+
+nic-hdl-br:  COS249
+person:      Cassiano Olavo Cunha M Santos
+e-mail:      cassianoolavo@gmail.com
+created:     20060410
+changed:     20110201
+
+nic-hdl-br:  MJS278
+person:      Marcelo Jardim de Souza
+e-mail:      coolmagazine@ymail.com
+created:     20040105
+changed:     20100215
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

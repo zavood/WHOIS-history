@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D79098981-LROR
+Domain Name:MORGANMUSEUM.ORG
+Created On:29-Oct-2001 16:32:43 UTC
+Last Updated On:04-Nov-2008 23:10:24 UTC
+Expiration Date:29-Oct-2013 16:32:43 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:17007739-NSI
+Registrant Name:TheNationalMuseum of the Morgan Horse
+Registrant Organization:TheNationalMuseum of the Morgan Horse
+Registrant Street1:122 Bostwick Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Shelburne
+Registrant State/Province:VT
+Registrant Postal Code:05482
+Registrant Country:US
+Registrant Phone:+1.8029858665
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cwrw@llprindle.com
+Admin ID:17007739-NSI
+Admin Name:TheNationalMuseum of the Morgan Horse
+Admin Organization:TheNationalMuseum of the Morgan Horse
+Admin Street1:122 Bostwick Road
+Admin Street2:
+Admin Street3:
+Admin City:Shelburne
+Admin State/Province:VT
+Admin Postal Code:05482
+Admin Country:US
+Admin Phone:+1.8029858665
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cwrw@llprindle.com
+Tech ID:17007739-NSI
+Tech Name:TheNationalMuseum of the Morgan Horse
+Tech Organization:TheNationalMuseum of the Morgan Horse
+Tech Street1:122 Bostwick Road
+Tech Street2:
+Tech Street3:
+Tech City:Shelburne
+Tech State/Province:VT
+Tech Postal Code:05482
+Tech Country:US
+Tech Phone:+1.8029858665
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cwrw@llprindle.com
+Name Server:NS1.QWKNETLLC.COM
+Name Server:NS2.QWKNETLLC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

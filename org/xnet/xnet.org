@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D5264654-LROR
+Domain Name:XNET.ORG
+Created On:20-Aug-1997 04:00:00 UTC
+Last Updated On:17-Jul-2011 23:11:08 UTC
+Expiration Date:19-Aug-2013 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30619971
+Registrant Name:Karl Tiedt
+Registrant Street1:1314 Mullins Loop S
+Registrant Street2:
+Registrant Street3:
+Registrant City:College Station
+Registrant State/Province:Texas
+Registrant Postal Code:77845
+Registrant Country:US
+Registrant Phone:+1.9795872672
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ktiedt@gmail.com
+Admin ID:CR30619973
+Admin Name:Karl Tiedt
+Admin Street1:1314 Mullins Loop S
+Admin Street2:
+Admin Street3:
+Admin City:College Station
+Admin State/Province:Texas
+Admin Postal Code:77845
+Admin Country:US
+Admin Phone:+1.9795872672
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ktiedt@gmail.com
+Tech ID:CR30619972
+Tech Name:Karl Tiedt
+Tech Street1:1314 Mullins Loop S
+Tech Street2:
+Tech Street3:
+Tech City:College Station
+Tech State/Province:Texas
+Tech Postal Code:77845
+Tech Country:US
+Tech Phone:+1.9795872672
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ktiedt@gmail.com
+Name Server:DNS2.POINTHQ.COM
+Name Server:DNS1.POINTHQ.COM
+Name Server:DNS3.POINTHQ.COM
+Name Server:DNS4.POINTHQ.COM
+Name Server:DNS5.POINTHQ.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

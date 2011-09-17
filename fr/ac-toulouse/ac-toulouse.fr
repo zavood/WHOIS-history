@@ -1,0 +1,141 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ac-toulouse.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ac-toulouse.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ADT72-FRNIC
+admin-c:     CM3984-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      DE812-FRNIC
+tech-c:      AMC44-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL17775-FRNIC
+registrar:   RENATER
+anniversary: 08/02
+created:     08/02/1996
+last-update: 12/03/2009
+source:      FRNIC
+
+ns-list:     NSL17775-FRNIC
+nserver:     dns1.ac-toulouse.fr [194.214.239.1]
+nserver:     dns2.ac-toulouse.fr [194.214.239.2]
+nserver:     dns1.ac-bordeaux.fr [194.199.33.1]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     ADT72-FRNIC
+type:        ORGANIZATION
+contact:     ACADEMIE DE TOULOUSE
+address:     1, impasse Saint Jacques
+address:     31073 Toulouse
+country:     FR
+phone:       +33 5 61 17 77 13
+fax-no:      +33 5 61 17 77 26
+e-mail:      recteur@ac-toulouse.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CM3984-FRNIC
+type:        PERSON
+contact:     Christian Merlin
+address:     Acad&eacute;mie de Toulouse
+address:     1, Impase Saint Jacques
+address:     31073 Toulouse Cedex
+country:     FR
+phone:       +33 5 61 17 77 13
+fax-no:      +33 5 61 17 77 26
+e-mail:      recteur@ac-toulouse.fr
+changed:     21/06/2007 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DE812-FRNIC
+type:        PERSON
+contact:     Duval Eric
+address:     Synergia France
+address:     8, avenue Parmentier
+address:     75011 Paris
+country:     FR
+phone:       +33 1 58 39 38 10
+fax-no:      +33 1 40 09 23 40
+e-mail:      noc@synergia-france.com.fr
+changed:     08/01/2007 nicfr@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AMC44-FRNIC
+type:        PERSON
+contact:     Anne-Marie Calvet
+address:     Acad&eacute;mie de Toulouse
+address:     Sigat
+address:     1, impasse Saint Jacques
+address:     31073 Toulouse Cedex
+country:     FR
+phone:       +33 5 61 17 80 53
+fax-no:      +33 5 61 17 79 10
+e-mail:      anne-marie.calvet@ac-toulouse.fr
+changed:     21/06/2007 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 21-may-1998
    Expiration Date: 20-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 06:06:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 06:12:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -115,7 +115,7 @@ CARRIER CORPORATION
 
    Record expires on 20-May-2012.
    Record created on 21-May-1998.
-   Database last updated on 16-Sep-2011 01:56:17 EDT.
+   Database last updated on 17-Sep-2011 02:02:27 EDT.
 
    Domain servers in listed order:
 

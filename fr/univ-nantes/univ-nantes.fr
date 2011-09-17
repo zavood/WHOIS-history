@@ -1,0 +1,112 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; univ-nantes.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      univ-nantes.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UDN30-FRNIC
+admin-c:     AA289-FRNIC
+tech-c:      GR1378-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5513-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL5513-FRNIC
+nserver:     dns1.univ-nantes.fr [193.52.108.41]
+nserver:     dns2.univ-nantes.fr [193.52.101.20]
+nserver:     resone.univ-rennes1.fr [129.20.254.1]
+nserver:     ufc.univ-fcomte.fr [194.57.91.200]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     UDN30-FRNIC
+type:        ORGANIZATION
+contact:     Universite de Nantes
+address:     1, quai de Tourville
+address:     B.P. 1026
+address:     44035 Nantes
+country:     FR
+phone:       +33 2 40 99 83 60
+e-mail:      andriet@presidence.univ-nantes.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AA289-FRNIC
+type:        PERSON
+contact:     Alain Andriet
+address:     Presidence de l'Universite de Nantes
+address:     Service Informatique de Gestion
+address:     1, quai de Tourville
+address:     B.P. 1026
+address:     44035 Nantes Cedex 1
+country:     FR
+phone:       +33 2 40 99 83 60
+fax-no:      +33 2 40 99 83 00
+e-mail:      andriet@presidence.univ-nantes.fr
+notify:      andriet@presidence.univ-nantes.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

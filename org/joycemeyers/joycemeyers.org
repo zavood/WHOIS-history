@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D77036812-LROR
+Domain Name:JOYCEMEYERS.ORG
+Created On:08-Sep-2001 02:49:39 UTC
+Last Updated On:09-Sep-2011 19:40:16 UTC
+Expiration Date:08-Sep-2012 02:49:39 UTC
+Sponsoring Registrar:Fabulous.com Pty Ltd. (R133-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT HOLD
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:fab-41846-6ae43c
+Registrant Name:Mr Bauer
+Registrant Street1:P.O. Box 1491 St. John's
+Registrant Street2:
+Registrant Street3:
+Registrant City:Antigua
+Registrant State/Province:NA
+Registrant Postal Code:WI
+Registrant Country:AG
+Registrant Phone:+1.123456
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:windinv@yahoo.com
+Admin ID:fab-41846-6ae43c
+Admin Name:Mr Bauer
+Admin Street1:P.O. Box 1491 St. John's
+Admin Street2:
+Admin Street3:
+Admin City:Antigua
+Admin State/Province:NA
+Admin Postal Code:WI
+Admin Country:AG
+Admin Phone:+1.123456
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:windinv@yahoo.com
+Tech ID:fab-41846-6ae43c
+Tech Name:Mr Bauer
+Tech Street1:P.O. Box 1491 St. John's
+Tech Street2:
+Tech Street3:
+Tech City:Antigua
+Tech State/Province:NA
+Tech Postal Code:WI
+Tech Country:AG
+Tech Phone:+1.123456
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:windinv@yahoo.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

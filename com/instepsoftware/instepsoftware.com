@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 14-jul-1998
    Expiration Date: 13-jul-2014
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 06:12:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 06:14:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -108,7 +108,7 @@ InStep Software L.L.C.
 
    Record expires on 13-Jul-2014.
    Record created on 14-Jul-1998.
-   Database last updated on 16-Sep-2011 02:08:00 EDT.
+   Database last updated on 17-Sep-2011 02:10:14 EDT.
 
    Domain servers in listed order:
 
