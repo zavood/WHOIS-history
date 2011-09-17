@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104493982-LROR
+Domain Name:SLACK390.ORG
+Created On:04-Jun-2004 05:42:24 UTC
+Last Updated On:24-May-2011 19:37:30 UTC
+Expiration Date:04-Jun-2012 05:42:24 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:OK
+Registrant ID:O-403310-GANDI
+Registrant Name:Mark Post
+Registrant Organization:Postmodern Consulting
+Registrant Street1:5398 Corbin
+Registrant Street2:
+Registrant Street3:
+Registrant City:Troy
+Registrant State/Province:MI
+Registrant Postal Code:48098
+Registrant Country:US
+Registrant Phone:+1.2482679477
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:markkp@miner.mst.edu
+Admin ID:MP227-GANDI
+Admin Name:Mark Post
+Admin Organization:Postmodern Consulting
+Admin Street1:5398 Corbin
+Admin Street2:
+Admin Street3:
+Admin City:Troy
+Admin State/Province:MI
+Admin Postal Code:48098
+Admin Country:US
+Admin Phone:+1.2482679477
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:markkp@miner.mst.edu
+Tech ID:UHO2-GANDI
+Tech Name:UNC Hostmaster (UH1409-ORG) hostmaster@UNC.EDU
+Tech Organization:University of North Carolina
+Tech Street1:University of North Carolina, ATN CB #3420, Abernethy Hall
+Tech Street2:
+Tech Street3:
+Tech City:Chapel Hill
+Tech State/Province:North Carolina
+Tech Postal Code:27599-3420
+Tech Country:US
+Tech Phone:+001.9199624357
+Tech Phone Ext.:
+Tech FAX:+001.9199625604
+Tech FAX Ext.:
+Tech Email:hostmaster@UNC.EDU
+Name Server:NS2.UNC.EDU
+Name Server:NS.UNC.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

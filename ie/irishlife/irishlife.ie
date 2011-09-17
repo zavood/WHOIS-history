@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      irishlife.ie
+descr:       Irish Life &amp; Permanent Plc
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     MF24-IEDR
+tech-c:      KH175-IEDR
+renewal:     10-July-2012
+status:      Active
+nserver:     ns.tsbbank.ie
+nserver:     ns1.kerna.ie
+source:      IEDR
+
+person:      Martin Farrelly
+nic-hdl:     MF24-IEDR
+source:      IEDR
+
+person:      Kerna Hostmaster
+nic-hdl:     KH175-IEDR
+source:      IEDR
+

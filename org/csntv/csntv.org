@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98507827-LROR
+Domain Name:CSNTV.ORG
+Created On:18-Jul-2003 20:51:06 UTC
+Last Updated On:07-Jul-2011 21:05:19 UTC
+Expiration Date:18-Jul-2012 20:51:06 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-I36VUXSY2V52
+Registrant Name:Roger Bingham
+Registrant Organization:C-SSN
+Registrant Street1:1482 East Valley Rd., #123
+Registrant Street2:
+Registrant Street3:
+Registrant City:Santa Barbara
+Registrant State/Province:CA
+Registrant Postal Code:93108
+Registrant Country:US
+Registrant Phone:+1.8054551682
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bingham@salk.edu
+Admin ID:DOT-YVOOFI5HZNC1
+Admin Name:Roger Bingham
+Admin Organization:C-SSN
+Admin Street1:1482 East Valley Rd., #123
+Admin Street2:
+Admin Street3:
+Admin City:Santa Barbara
+Admin State/Province:CA
+Admin Postal Code:93108
+Admin Country:US
+Admin Phone:+1.8054551682
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bingham@salk.edu
+Tech ID:DOT-DLU84I2C2VTK
+Tech Name:Roger Bingham
+Tech Organization:C-SSN
+Tech Street1:1482 East Valley Rd., #123
+Tech Street2:
+Tech Street3:
+Tech City:Santa Barbara
+Tech State/Province:CA
+Tech Postal Code:93108
+Tech Country:US
+Tech Phone:+1.8054551682
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bingham@salk.edu
+Name Server:NS1.THESCIENCENETWORK.ORG
+Name Server:NS2.THESCIENCENETWORK.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

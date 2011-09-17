@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D87919556-LROR
+Domain Name:LOTTOLAB.ORG
+Created On:27-Jun-2002 10:32:00 UTC
+Last Updated On:24-May-2011 11:19:50 UTC
+Expiration Date:27-Jun-2012 10:37:18 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tueDbXphlYzw7Lo7
+Registrant Name:Ray Beau Lotto
+Registrant Street1:Combe Barton
+Registrant Street2:Curtisknowle
+Registrant Street3:
+Registrant City:Totnes
+Registrant State/Province:Devon
+Registrant Postal Code:TQ97JU
+Registrant Country:GB
+Registrant Phone:+44.02076084052
+Registrant Phone Ext.:
+Registrant FAX:+44.02076084052
+Registrant FAX Ext.:
+Registrant Email:guy@rubbaglove.co.uk
+Admin ID:tu32pCYYAPJE3iXn
+Admin Name:Internet Services
+Admin Organization:BTA Ltd
+Admin Street1:Unit 1
+Admin Street2:Delta Park
+Admin Street3:Smugglers Way
+Admin City:Wandsworth
+Admin State/Province:London
+Admin Postal Code:SW181EG
+Admin Country:GB
+Admin Phone:+44.2088714240
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@bta.com
+Tech ID:tuMZofwLqBz3pDBL
+Tech Name:Internet Services
+Tech Organization:BTA Ltd
+Tech Street1:Unit 1
+Tech Street2:Delta Park
+Tech Street3:Smugglers Way
+Tech City:Wandsworth
+Tech State/Province:London
+Tech Postal Code:SW181EG
+Tech Country:GB
+Tech Phone:+44.2088714240
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@bta.com
+Name Server:NS2.BTA.COM
+Name Server:NS.BTA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 11-jul-1995
    Expiration Date: 10-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:07:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 14:34:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,6 +70,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: majic.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 17:02:55 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sat Sep 17 10:30:37 EDT 2011
 Reason Code: IE

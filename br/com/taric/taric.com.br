@@ -1,0 +1,45 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 11:21:40 (BRT -03:00)
+
+domain:      taric.com.br
+owner:       Ademir Viana de Oliveira
+ownerid:     122.760.816-00
+country:     BR
+owner-c:     TANVI2
+admin-c:     TANVI2
+tech-c:      TANVI2
+billing-c:   TANVI2
+nserver:     ns1.dabliuweb.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns2.dabliuweb.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+saci:        yes
+created:     20110530 #8345203
+expires:     20120530
+changed:     20110530
+provider:    UOLHOST (22)
+status:      published
+
+nic-hdl-br:  TANVI2
+person:      T&aacute;ric Nunes Viana
+e-mail:      tariq.alqaeda@gmail.com
+created:     20110530
+changed:     20110530
+provider:    UOLHOST (22)
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

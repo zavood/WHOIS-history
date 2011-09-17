@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      togetherwebdesign.ie
+descr:       Niall Mulvey
+descr:       Sole Trader
+descr:       Registered Business Name
+admin-c:     ALP301-IEDR
+tech-c:      AAM456-IEDR
+renewal:     31-August-2012
+status:      Active
+nserver:     ns1.togetherwebdesign.ie 174.121.135.194
+nserver:     ns2.togetherwebdesign.ie 174.121.135.195
+source:      IEDR
+
+person:      Niall Mulvey
+nic-hdl:     ALP301-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+

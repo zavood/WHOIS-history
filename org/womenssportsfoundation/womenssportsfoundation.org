@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2334693-LROR
+Domain Name:WOMENSSPORTSFOUNDATION.ORG
+Created On:03-Nov-1998 05:00:00 UTC
+Last Updated On:24-Jun-2011 15:05:10 UTC
+Expiration Date:02-Nov-2013 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:2960531-NSI
+Registrant Name:WOMEN'S SPORTS FOUNDATION
+Registrant Organization:WOMEN'S SPORTS FOUNDATION
+Registrant Street1:1899 Hempstead Tpke Suite 400
+Registrant Street2:Eisenhower Park
+Registrant Street3:
+Registrant City:EAST MEADOW
+Registrant State/Province:NY
+Registrant Postal Code:11554
+Registrant Country:US
+Registrant Phone:+1.5165424700
+Registrant Phone Ext.:
+Registrant FAX:+1.5165424716
+Registrant FAX Ext.:
+Registrant Email:wosportmas@aol.com
+Admin ID:51530357-NSI
+Admin Name:Stephen Collins
+Admin Organization:Women's Sports Foundation
+Admin Street1:1899 Hempstead Tpke Ste 400
+Admin Street2:Eisenhower Park
+Admin Street3:
+Admin City:East Meadow
+Admin State/Province:NY
+Admin Postal Code:11554-1000
+Admin Country:US
+Admin Phone:+1.5163073921
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:scollins@womenssportsfoundation.org
+Tech ID:2960531-NSI
+Tech Name:WOMEN'S SPORTS FOUNDATION
+Tech Organization:WOMEN'S SPORTS FOUNDATION
+Tech Street1:1899 Hempstead Tpke Suite 400
+Tech Street2:Eisenhower Park
+Tech Street3:
+Tech City:EAST MEADOW
+Tech State/Province:NY
+Tech Postal Code:11554
+Tech Country:US
+Tech Phone:+1.5165424700
+Tech Phone Ext.:
+Tech FAX:+1.5165424716
+Tech FAX Ext.:
+Tech Email:wosportmas@aol.com
+Name Server:DNS.INVISION.NET
+Name Server:NS.INVISION.NET
+Name Server:ONS.INVISION.NET
+Name Server:TNS.INVISION.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

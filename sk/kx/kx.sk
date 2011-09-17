@@ -1,0 +1,27 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         kx.sk
+Admin-id            PETE-0060
+Admin-name          Peter Imre KOREX
+Admin-legal-form    zivnost
+Admin-org.-ID       35249773
+Admin-address       Budovatelska 607/58, Giraltovce 087 01
+Admin-telephone     041 5625648, 0903821982
+Admin-email         nic@korex.sk
+Tech-id             PETE-0060
+Tech-name           Peter Imre KOREX
+Tech-org.-ID        35249773
+Tech-address        Budovatelska 607/58, Giraltovce 087 01
+Tech-telephone      041 5625648, 0903821982
+Tech-email          nic@korex.sk
+dns_name            ns.korex.sk
+dns_name            ns.kx.sk
+dns_IPv4            85.248.45.251
+dns_name            ns3.korex.sk
+Last-update         2010-12-23
+Valid-date          2012-01-02
+Domain-status       DOM_OK
+

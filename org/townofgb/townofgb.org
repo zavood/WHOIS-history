@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104482804-LROR
+Domain Name:TOWNOFGB.ORG
+Created On:01-Jun-2004 13:15:35 UTC
+Last Updated On:02-Mar-2007 14:57:23 UTC
+Expiration Date:01-Jun-2012 13:15:35 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:37947004-NSI
+Registrant Name:Town of Great Barrington
+Registrant Organization:Town of Great Barrington
+Registrant Street1:334 Main Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Great Barrington
+Registrant State/Province:MA
+Registrant Postal Code:01230
+Registrant Country:US
+Registrant Phone:+1.4135281629
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:37947005-NSI
+Admin Name:Lauren Sartori
+Admin Organization:Town of Great Barrington
+Admin Street1:334 Main Street
+Admin Street2:
+Admin Street3:
+Admin City:Great Barrington
+Admin State/Province:MA
+Admin Postal Code:01230
+Admin Country:US
+Admin Phone:+413.5281629
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:lsartori@townofgb.org
+Tech ID:5358805-NSI
+Tech Name:Network Solutions, LLC.
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:NS1.INFOTECH-MAINE.COM
+Name Server:NS2.INFOTECH-MAINE.COM
+Name Server:NS3.INFOTECH-MAINE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

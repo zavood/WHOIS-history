@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 11:03:44 (BRT -03:00)
+
+domain:      ipced.com.br
+owner:       Jos&eacute; Costa Santos
+ownerid:     196.628.583-34
+country:     BR
+owner-c:     JOCOS26
+admin-c:     JOCOS26
+tech-c:      JOCOS26
+billing-c:   JOCOS26
+nserver:     ns1.servidorwebfacil.com
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.servidorwebfacil.com
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20081219 #5142670
+expires:     20111219
+changed:     20110217
+status:      published
+
+nic-hdl-br:  JOCOS26
+person:      jose costasantos
+e-mail:      pr.josecostasantos@ig.com.br
+created:     20081219
+changed:     20110216
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

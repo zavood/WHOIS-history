@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 10:45:46 (BRT -03:00)
+
+domain:      bqhost.com.br
+owner:       BQHost Internet LTDA
+ownerid:     007.430.521/0001-28
+responsible: Marcelo Vitor de Faria Ferreira
+country:     BR
+owner-c:     MVF166
+admin-c:     MVF166
+tech-c:      MVF166
+billing-c:   MVF166
+nserver:     ns1.bqhost.com.br 66.7.202.65
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns2.bqhost.com.br 66.7.202.66
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     20041213 #1933981
+expires:     20111213
+changed:     20101222
+status:      published
+
+nic-hdl-br:  MVF166
+person:      Marcelo Vitor de Faria Ferreira
+e-mail:      gerente@bqhost.com.br
+created:     20040523
+changed:     20100914
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

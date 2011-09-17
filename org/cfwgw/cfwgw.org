@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159771382-LROR
+Domain Name:CFWGW.ORG
+Created On:29-Jul-2010 11:53:56 UTC
+Last Updated On:26-Aug-2011 12:00:43 UTC
+Expiration Date:29-Jul-2012 11:53:56 UTC
+Sponsoring Registrar:Beijing Innovative Linkage Technology Ltd. (R1292-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CTNZT5GGZDDK57Z
+Registrant Name:Gang De Mao
+Registrant Organization:Gang De Mao
+Registrant Street1:Dengzhoushi dongyihuanlu
+Registrant Street2:
+Registrant Street3:
+Registrant City:NanYangShi
+Registrant State/Province:HA
+Registrant Postal Code:474100
+Registrant Country:CN
+Registrant Phone:+86.3772823051
+Registrant Phone Ext.:
+Registrant FAX:+86.3772823015
+Registrant FAX Ext.:
+Registrant Email:263817191@qq.com
+Admin ID:CTQWO2PQ6EW8GTD
+Admin Name:Gang De Mao
+Admin Organization:Gang De Mao
+Admin Street1:Dengzhoushi dongyihuanlu
+Admin Street2:
+Admin Street3:
+Admin City:NanYangShi
+Admin State/Province:HA
+Admin Postal Code:474100
+Admin Country:CN
+Admin Phone:+86.3772823051
+Admin Phone Ext.:
+Admin FAX:+86.3772823015
+Admin FAX Ext.:
+Admin Email:263817191@qq.com
+Tech ID:CTA38HL9R1TOTBT
+Tech Name:gong yingzheng
+Tech Organization:Chongqing Xinwai Network Sience and Technology Company
+Tech Street1:West Nanping Road No.31,Nan an district
+Tech Street2:
+Tech Street3:
+Tech City:Zhongqing
+Tech State/Province:CQ
+Tech Postal Code:400060
+Tech Country:CN
+Tech Phone:+86.2360683938
+Tech Phone Ext.:
+Tech FAX:+86.2360683938
+Tech FAX Ext.:
+Tech Email:agent15615@agent.dns.com.cn
+Name Server:NS1.DNSV2.COM
+Name Server:NS2.DNSV2.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

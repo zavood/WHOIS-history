@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; matton.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      matton.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MI399-FRNIC
+admin-c:     SA55-FRNIC
+tech-c:      PI506-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5356-FRNIC
+registrar:   DOMAININFO AB
+anniversary: 24/06
+created:     24/06/2003
+last-update: 01/05/2004
+source:      FRNIC
+
+ns-list:     NSL5356-FRNIC
+nserver:     ns.matton.se
+nserver:     dns2.utfors.se
+source:      FRNIC
+
+registrar:   DOMAININFO AB
+type:        Isp Option 2
+address:     William Gibsons V.1
+address:     433 76 JONSERED
+country:     SE
+phone:       +46 31 720 20 10
+fax-no:      +46 31 720 20 19
+e-mail:      reg@domaininfo.com
+website:     http://www.domaininfo.com
+anonymous:   NO
+registered:  06/03/2000
+source:      FRNIC
+
+nic-hdl:     MI399-FRNIC
+type:        ORGANIZATION
+contact:     Matton Images
+address:     116, rue Reaumur
+address:     75002 Paris
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SA55-FRNIC
+type:        PERSON
+contact:     Silvio Ascoli
+address:     Matton Images
+address:     116, rue Reaumur
+address:     75002 Paris
+country:     FR
+phone:       +33 1 41 16 26 27
+fax-no:      +33 1 41 16 26 20
+e-mail:      hostmaster@matton.se
+changed:     24/06/2003 frnic-dbm-updates@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PI506-FRNIC
+type:        ROLE
+contact:     Port Information
+address:     Domaininfo AB
+address:     William Gibsons v. 1
+address:     43376 Jonsered
+country:     SE
+phone:       +46 317202010
+fax-no:      +46 317202019
+e-mail:      reg@domaininfo.com
+admin-c:     PR918-FRNIC
+tech-c:      PR918-FRNIC
+changed:     28/01/2002 reg@domaininfo.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

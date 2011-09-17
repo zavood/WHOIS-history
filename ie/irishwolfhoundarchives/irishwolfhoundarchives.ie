@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      irishwolfhoundarchives.ie
+descr:       Elizabeth Murphy
+descr:       Natural Person
+descr:       Discretionary Name
+admin-c:     AEJ855-IEDR
+tech-c:      ABG704-IEDR
+renewal:     25-September-2012
+status:      Active
+nserver:     NS5.DNSIRELAND.COM
+nserver:     NS6.DNSIRELAND.COM
+nserver:     NS7.DNSIRELAND.IE
+source:      IEDR
+
+person:      Elizabeth Murphy
+nic-hdl:     AEJ855-IEDR
+source:      IEDR
+
+person:      Lets Host Domain Services
+nic-hdl:     ABG704-IEDR
+source:      IEDR
+

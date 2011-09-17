@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D85992082-LROR
+Domain Name:CANTIENI.ORG
+Created On:26-Apr-2002 11:24:18 UTC
+Last Updated On:19-Aug-2006 12:38:52 UTC
+Expiration Date:26-Apr-2013 11:24:18 UTC
+Sponsoring Registrar:DSTR Acquisition PA I, LLC dba DomainBank.com (R28-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DOT-PDEEPQLV1DF8
+Registrant Name:Arno Cantieni
+Registrant Street1:Rigistrasse 164
+Registrant Street2:
+Registrant Street3:
+Registrant City:Baar
+Registrant State/Province:Zug
+Registrant Postal Code:6340
+Registrant Country:CH
+Registrant Phone:+41.7406826
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain@cantieni.org
+Admin ID:DB74920128414943
+Admin Name:Arno Cantieni
+Admin Street1:Rigistr. 164
+Admin Street2:
+Admin Street3:
+Admin City:Baar
+Admin State/Province:Zug
+Admin Postal Code:6340
+Admin Country:CH
+Admin Phone:+41.0417406826
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domain@cantieni.org
+Tech ID:DOT-JVZEBZHZZN1F
+Tech Name:N/A
+Tech Organization:Dynamic-Net
+Tech Street1:Technopark Luzern
+Tech Street2:
+Tech Street3:
+Tech City:Root
+Tech State/Province:LU
+Tech Postal Code:6039
+Tech Country:CH
+Tech Phone:+41.414505858
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:admin@dynamic-net.ch
+Name Server:NS1.DYNAMIC-NET.CH
+Name Server:NS2.DYNAMIC-NET.CH
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
