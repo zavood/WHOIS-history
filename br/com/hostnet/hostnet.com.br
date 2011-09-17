@@ -1,0 +1,57 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 17:21:03 (BRT -03:00)
+
+domain:      hostnet.com.br
+owner:       Digirati Inform&aacute;tica, servi&ccedil;os e telecomunica&ccedil;&otilde;es
+ownerid:     004.371.843/0001-55
+responsible: Contato da Entidade Digirati
+country:     BR
+owner-c:     COEDI2
+admin-c:     COEDI2
+tech-c:      COEDI2
+billing-c:   COEDI2
+nserver:     nsb1.k8.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     nsb2.k8.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     nsb3.k8.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     nsb4.k8.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     nsb5.k8.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     nsb6.k8.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     19980909 #115677
+expires:     20140909
+changed:     20100325
+provider:    HOSTNET (3)
+status:      published
+
+nic-hdl-br:  COEDI2
+person:      Contato da Entidade Digirati
+e-mail:      admin@digirati.com.br
+created:     20100325
+changed:     20100325
+provider:    HOSTNET (3)
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

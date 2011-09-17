@@ -1,0 +1,39 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       lason.is
+descr:        M&aacute;ni Atlason
+descr:        Vallholti 19
+descr:        IS-300 Akranes
+admin-c:      MA77-IS
+tech-c:       MA77-IS
+zone-c:       EH59-IS
+billing-c:    MA77-IS
+nserver:      ns0.1984.is
+nserver:      ns1.1984.is
+nserver:      ns2.1984.is
+created:      April 29 2010
+expires:      April 29 2012
+source:       ISNIC
+
+person:       M&aacute;ni Atlason
+address:      [address withheld]
+address:      IS Akranes
+phone:        +354 865 7643
+e-mail:       maniatlason@gmail.com
+nic-hdl:      MA77-IS
+created:      April 29 2010
+source:       ISNIC
+
+role:         1984 ehf
+address:      P&oacute;sth&oacute;lf 126
+address:      IS-121 Reykjav&iacute;k
+phone:        +354 546 1984
+e-mail:       isnic@1984.is
+nic-hdl:      EH59-IS
+created:      April 29 2006
+source:       ISNIC
+
+

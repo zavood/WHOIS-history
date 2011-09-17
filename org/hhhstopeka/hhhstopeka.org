@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106233067-LROR
+Domain Name:HHHSTOPEKA.ORG
+Created On:03-May-2005 12:53:41 UTC
+Last Updated On:02-Jan-2011 00:25:39 UTC
+Expiration Date:03-May-2012 12:53:41 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuUxkijawzkufroI
+Registrant Name:Helping Hands Humane Society, Inc.
+Registrant Organization:Helping Hands Humane Society, Inc.
+Registrant Street1:2625 NW Rochester Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Topeka
+Registrant State/Province:KS
+Registrant Postal Code:66617
+Registrant Country:US
+Registrant Phone:+1.7852337325
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:renac@hhhstopeka.org
+Admin ID:tuUxkijawzkufroI
+Admin Name:Helping Hands Humane Society, Inc.
+Admin Organization:Helping Hands Humane Society, Inc.
+Admin Street1:2625 NW Rochester Road
+Admin Street2:
+Admin Street3:
+Admin City:Topeka
+Admin State/Province:KS
+Admin Postal Code:66617
+Admin Country:US
+Admin Phone:+1.7852337325
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:renac@hhhstopeka.org
+Tech ID:tuwsgnCnXot8l8A0
+Tech Name:SoftComTechnologyConsulting Inc
+Tech Organization:SoftComTechnologyConsulting Inc
+Tech Street1:10 Bay Street, Suite 310
+Tech Street2:
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:ON
+Tech Postal Code:M5J2R8
+Tech Country:CA
+Tech Phone:+1.4169577400
+Tech Phone Ext.:
+Tech FAX:+1.4169577401
+Tech FAX Ext.:
+Tech Email:domains@myhosting.com
+Name Server:NS5.SOFTCOMCA.COM
+Name Server:NS6.SOFTCOMCA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

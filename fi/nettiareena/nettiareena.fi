@@ -1,0 +1,17 @@
+
+domain:   nettiareena.fi
+descr:    Helsingin kaupunki
+descr:    02012566
+address:  Nuorisoasiainkeskus
+address:  PL 5000
+address:  00099
+address:  Helsingin kaupunki
+phone:    09 3108 900
+status:   Granted
+created:  31.3.2009
+expires:  31.3.2012
+nserver: ns.edu.hel.fi [OK]
+nserver: ns.lasipalatsi.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

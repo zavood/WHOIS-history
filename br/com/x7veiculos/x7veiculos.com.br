@@ -1,0 +1,48 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 16:48:20 (BRT -03:00)
+
+domain:      x7veiculos.com.br
+owner:       Decio Alves Cardoso junior
+ownerid:     016.185.548-24
+country:     BR
+owner-c:     CSL287
+admin-c:     DACJU14
+tech-c:      CSL287
+billing-c:   DACJU14
+nserver:     ns.centralserver.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns2.centralserver.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     20100111 #6432637
+expires:     20120111
+changed:     20101221
+status:      published
+
+nic-hdl-br:  CSL287
+person:      Central Server Inform&aacute;tica Ltda
+e-mail:      registro@centralserver.com.br
+created:     20020130
+changed:     20110822
+
+nic-hdl-br:  DACJU14
+person:      Decio Alves Cardoso Junior
+e-mail:      engenharia@canal57.com.br
+created:     20100113
+changed:     20100114
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

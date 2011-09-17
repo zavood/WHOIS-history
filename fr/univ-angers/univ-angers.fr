@@ -1,0 +1,108 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; univ-angers.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      univ-angers.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UDA23-FRNIC
+admin-c:     JA69-FRNIC
+tech-c:      GR1378-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL4207-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL4207-FRNIC
+nserver:     ns.univ-angers.fr [193.49.144.1]
+nserver:     resone.univ-rennes1.fr [129.20.254.1]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     JA69-FRNIC
+type:        PERSON
+contact:     Jacques Allo
+address:     Universite d'Angers
+address:     2, boulevard Lavoisier
+address:     49045 Angers Cedex 1
+country:     FR
+phone:       +33 41 73 53 84
+fax-no:      +33 41 73 54 31
+e-mail:      jacques.allo@univ-angers.fr
+notify:      jacques.allo@univ-angers.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     UDA23-FRNIC
+type:        ORGANIZATION
+contact:     Universite d'Angers
+address:     30, rue des Arenes
+address:     49035 Angers
+country:     FR
+phone:       +33 41735384
+fax-no:      +33 41735431
+e-mail:      jacques.allo@univ-angers.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

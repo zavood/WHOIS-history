@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96783258-LROR
+Domain Name:NOBAWC.ORG
+Created On:03-May-2003 00:57:13 UTC
+Last Updated On:17-Mar-2008 16:20:11 UTC
+Expiration Date:03-May-2013 00:57:13 UTC
+Sponsoring Registrar:GKG.NET, INC. (Formerly GK Group L.L.C.) (R164-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:GKG-C0000220B4
+Registrant Name:Staff Organizer
+Registrant Organization:Network of Bay Area Worker Cooperatives
+Registrant Street1:2335 Valley Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Oakland
+Registrant State/Province:CA
+Registrant Postal Code:94612
+Registrant Country:US
+Registrant Phone:+1.5108350254
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:010ef473367bf93a9774a0b019bbcb7f452ea27f@whois.gkg.net
+Admin ID:GKG-C0000220B4
+Admin Name:Staff Organizer
+Admin Organization:Network of Bay Area Worker Cooperatives
+Admin Street1:2335 Valley Street
+Admin Street2:
+Admin Street3:
+Admin City:Oakland
+Admin State/Province:CA
+Admin Postal Code:94612
+Admin Country:US
+Admin Phone:+1.5108350254
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:010ef473367bf93a9774a0b019bbcb7f452ea27f@whois.gkg.net
+Tech ID:GKG-C0000159E6
+Tech Name:Electric Embers Hostmaster
+Tech Organization:Electric Embers Cooperative, Inc.
+Tech Street1:PO Box 71942
+Tech Street2:
+Tech Street3:
+Tech City:Oakland
+Tech State/Province:CA
+Tech Postal Code:94612
+Tech Country:US
+Tech Phone:+1.8008436197
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:d7cfe131ed9c5458022b74e4429bab0d0181ae5c@whois.gkg.net
+Name Server:NS1.ELECTRICEMBERS.NET
+Name Server:NS2.ELECTRICEMBERS.NET
+Name Server:NS3.ELECTRICEMBERS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

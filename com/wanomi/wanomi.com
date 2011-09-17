@@ -6,7 +6,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for &quot;WANOMI.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:50:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 20:21:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D84886113-LROR
+Domain Name:SANDCARVER.ORG
+Created On:26-Mar-2002 16:50:32 UTC
+Last Updated On:02-Mar-2011 16:04:24 UTC
+Expiration Date:26-Mar-2012 16:50:32 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31570499
+Registrant Name:Mary Anne Lauby
+Registrant Organization:Mary Anne Lauby
+Registrant Street1:292 Lone Eagle Lane
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sequim
+Registrant State/Province:Washington
+Registrant Postal Code:98382
+Registrant Country:US
+Registrant Phone:+1.3606817660
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:maryanne@graydog.org
+Admin ID:CR31570501
+Admin Name:Mary Anne Lauby
+Admin Organization:Mary Anne Lauby
+Admin Street1:292 Lone Eagle Lane
+Admin Street2:
+Admin Street3:
+Admin City:Sequim
+Admin State/Province:Washington
+Admin Postal Code:98382
+Admin Country:US
+Admin Phone:+1.3606817660
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:maryanne@graydog.org
+Tech ID:CR31570500
+Tech Name:Jim Yount
+Tech Street1:292 Lone Eagle Lane
+Tech Street2:
+Tech Street3:
+Tech City:Sequim
+Tech State/Province:Washington
+Tech Postal Code:98382
+Tech Country:US
+Tech Phone:+1.3606817660
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jim@graydog.org
+Name Server:NS469.WEBSITEWELCOME.COM
+Name Server:NS470.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; denistouret.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      denistouret.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CA4145-FRNIC
+admin-c:     SD5975-FRNIC
+tech-c:      SD5974-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1158-FRNIC
+registrar:   ASCIO TECHNOLOGIES Inc.
+anniversary: 10/04
+created:     10/04/2007
+last-update: 05/08/2010
+source:      FRNIC
+
+ns-list:     NSL1158-FRNIC
+nserver:     ns1.surf-town.net
+nserver:     ns2.surf-town.net
+nserver:     ns3.surf-town.net
+source:      FRNIC
+
+registrar:   ASCIO TECHNOLOGIES Inc.
+type:        Isp Option 1
+address:     Islands Brygge 55
+address:     DK-2300 COPENHAGUE S
+country:     DK
+phone:       +45 33 88 61 00
+fax-no:      +45 33 88 61 01
+e-mail:      nicrelations@ascio.com
+website:     http://www.ascio.com
+anonymous:   NO
+registered:  18/01/2001
+source:      FRNIC
+
+nic-hdl:     SD5974-FRNIC
+type:        ROLE
+contact:     Surftown Domains
+address:     SURFTOWN FRANCE
+address:     142, avenue des Champs Elysees
+address:     75008 Paris
+country:     FR
+e-mail:      dns@surf-town.net
+admin-c:     DA718-FRNIC
+tech-c:      DA718-FRNIC
+changed:     05/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SD5975-FRNIC
+type:        PERSON
+contact:     Surftown Domains
+address:     SURFTOWN FRANCE
+address:     142, avenue des Champs Elysees
+address:     75008 Paris
+country:     FR
+phone:       +33 1 45 88 08 88
+e-mail:      dns@surf-town.net
+changed:     05/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CA4145-FRNIC
+type:        ORGANIZATION
+contact:     COHAESIO A/S
+address:     MAGLEBJEGVEJ 5 D
+address:     DK-2800 LYNGBY
+country:     DK
+phone:       +45 70 70 24 74
+fax-no:      +33 1 53 01 35 07
+e-mail:      DNS@surf-town.net
+changed:     05/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

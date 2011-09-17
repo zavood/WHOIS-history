@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D140679539-LROR
+Domain Name:EASTSIDEFC.ORG
+Created On:01-Mar-2007 23:37:52 UTC
+Last Updated On:23-Apr-2011 00:26:10 UTC
+Expiration Date:01-Mar-2017 23:37:52 UTC
+Sponsoring Registrar:pair Networks, Inc.d/b/a pairNIC (R103-LROR)
+Status:OK
+Registrant ID:MR39849
+Registrant Name:Michael Racine
+Registrant Organization:Eastside Football Club
+Registrant Street1:c/o pairNIC.com Whois Privacy
+Registrant Street2:PO Box 42319
+Registrant Street3:
+Registrant City:Pittsburgh
+Registrant State/Province:PA
+Registrant Postal Code:15203
+Registrant Country:US
+Registrant Phone:+1.4123257437
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@eastsidefc.org
+Admin ID:MR20503
+Admin Name:Michael Racine
+Admin Organization:Eastside Football Club
+Admin Street1:c/o pairNIC.com Whois Privacy
+Admin Street2:PO Box 42319
+Admin Street3:
+Admin City:Pittsburgh
+Admin State/Province:PA
+Admin Postal Code:15203
+Admin Country:US
+Admin Phone:+1.4123257437
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:execdirector@eastsidefc.org
+Tech ID:MR82974
+Tech Name:Michael Racine
+Tech Organization:Eastside Football Club
+Tech Street1:c/o pairNIC.com Whois Privacy
+Tech Street2:PO Box 42319
+Tech Street3:
+Tech City:Pittsburgh
+Tech State/Province:PA
+Tech Postal Code:15203
+Tech Country:US
+Tech Phone:+1.4123257437
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:admin@eastsidefc.org
+Name Server:NS3.PAIRNIC.COM
+Name Server:NS4.PAIRNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

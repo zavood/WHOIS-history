@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       bioanalys.ee
+registrant:   CID:ZONE:196377
+admin-c:      CID:ZONE:196378
+nsset:        NSSID:ZONE:44526
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 05:18:57
+changed:      09.02.2011 11:50:05
+expire:       09.02.2012
+
+contact:      CID:ZONE:196377
+org:          BioAnalys O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      09.02.2011 11:50:02
+
+contact:      CID:ZONE:196378
+name:         Toomas J&Atilde;&micro;ks
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      09.02.2011 11:50:02
+
+nsset:        NSSID:ZONE:44526
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:196379
+registrar:    zone
+created:      09.02.2011 11:50:04
+
+contact:      CID:ZONE:196379
+name:         Priit Kippasto
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      09.02.2011 11:50:02
+
+

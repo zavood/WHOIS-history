@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 18-jul-2002
    Expiration Date: 18-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:26:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 21:03:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,35 +84,41 @@ Domain servers in listed order:
 	 ns1.ionlab.net 	 secondary.dns2.hu
 
 Administrator:
-	 Boszormenyi ut 20-22.
-	 Budapest
-Hungary,
-HU
- H-1126
-
 	 name:(Mimoza Kommunikacios Kft.)
-mail:(sysadmin@mimoza.hu) +36.14894180
+	Email:(sysadmin@mimoza.hu) tel-- +36.14894180
 	 Mimoza Kommunikacios Kft.
+	 Boszormenyi ut 20-22.
+\r
+t Budapest
+Hungary,
+HU
+
+ zipcode:H-1126
+
 Technical Contactor:
-	 Victor Hugo u. 18-22.
-	 Budapest
-Hungary,
-HU
- H-1132
-
 	 name:(INTEGRITY Tech Contact)
-mail:(tech-c@integrity.hu) +36.14502660
+	Email:(tech-c@integrity.hu) tel-- +36.14502660
 	 INTEGRITY Kft.
-Billing Contactor:
 	 Victor Hugo u. 18-22.
-	 Budapest
+\r
+t Budapest
 Hungary,
 HU
- H-1132
 
+ zipcode:H-1132
+
+Billing Contactor:
 	 name:(INTEGRITY Billing Contact)
-mail:(billing-c@integrity.hu) +36.14502660
+	Email:(billing-c@integrity.hu) tel-- +36.14502660
 	 INTEGRITY Kft.
+	 Victor Hugo u. 18-22.
+\r
+t Budapest
+Hungary,
+HU
+
+ zipcode:H-1132
+
 
 Registration Service Provider:
 	name: INTEGRITY Kft.

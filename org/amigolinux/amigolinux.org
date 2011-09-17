@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104202803-LROR
+Domain Name:AMIGOLINUX.ORG
+Created On:07-Apr-2004 16:40:28 UTC
+Last Updated On:08-Apr-2011 11:25:18 UTC
+Expiration Date:07-Apr-2012 16:40:28 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30829884
+Registrant Name:Mira Ashley
+Registrant Street1:Westendstrasse 27
+Registrant Street2:
+Registrant Street3:
+Registrant City:Dreieich
+Registrant State/Province:Hessen
+Registrant Postal Code:63303
+Registrant Country:DE
+Registrant Phone:+49.61032701929
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:amigo@ibiblio.org
+Admin ID:CR30829886
+Admin Name:Mira Ashley
+Admin Street1:Westendstrasse 27
+Admin Street2:
+Admin Street3:
+Admin City:Dreieich
+Admin State/Province:Hessen
+Admin Postal Code:63303
+Admin Country:DE
+Admin Phone:+49.61032701929
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:amigo@ibiblio.org
+Tech ID:CR30829885
+Tech Name:Mira Ashley
+Tech Street1:Westendstrasse 27
+Tech Street2:
+Tech Street3:
+Tech City:Dreieich
+Tech State/Province:Hessen
+Tech Postal Code:63303
+Tech Country:DE
+Tech Phone:+49.61032701929
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:amigo@ibiblio.org
+Name Server:NS2.UNC.EDU
+Name Server:NS.UNC.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

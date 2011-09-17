@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D71634354-LROR
+Domain Name:3CHOPT.ORG
+Created On:31-May-2001 17:09:16 UTC
+Last Updated On:18-Oct-2010 16:11:39 UTC
+Expiration Date:31-May-2012 17:09:16 UTC
+Sponsoring Registrar:Advanced Internet Technologies, Inc. (AIT) (R232-LROR)
+Status:OK
+Registrant ID:AITorgORG6245
+Registrant Name:Michael D. West
+Registrant Organization:Webwrightshop
+Registrant Street1:10137 Peridot Court South
+Registrant Street2:
+Registrant Street3:
+Registrant City:Mechanicsville
+Registrant State/Province:VA
+Registrant Postal Code:23116
+Registrant Country:US
+Registrant Phone:+1.8048285957
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mdwest@vcu.edu
+Admin ID:AITorgADM6245
+Admin Name:Michael D. West
+Admin Organization:Webwrightshop
+Admin Street1:10137 Peridot Court South
+Admin Street2:
+Admin Street3:
+Admin City:Mechanicsville
+Admin State/Province:VA
+Admin Postal Code:23116
+Admin Country:US
+Admin Phone:+1.8048285957
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mdwest@vcu.edu
+Tech ID:AITorgTEC6245
+Tech Name:Michael D. West
+Tech Organization:Webwrightshop
+Tech Street1:10137 Peridot Court South
+Tech Street2:
+Tech Street3:
+Tech City:Mechanicsville
+Tech State/Province:VA
+Tech Postal Code:23116
+Tech Country:US
+Tech Phone:+1.8048285957
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mdwest@vcu.edu
+Name Server:NS1.FAITHHIWAY.COM
+Name Server:NS2.FAITHHIWAY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
