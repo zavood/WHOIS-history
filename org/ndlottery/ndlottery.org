@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94238756-LROR
+Domain Name:NDLOTTERY.ORG
+Created On:21-Jan-2003 20:55:24 UTC
+Last Updated On:14-Dec-2010 15:48:32 UTC
+Expiration Date:21-Jan-2013 20:55:24 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25882226-NSI
+Registrant Name:Information Technology Department
+Registrant Organization:Information Technology Department
+Registrant Street1:600 E. Blvd. Ave. - Dept. 112
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bismarck
+Registrant State/Province:ND
+Registrant Postal Code:58505-0100
+Registrant Country:US
+Registrant Phone:+1.7013281021
+Registrant Phone Ext.:
+Registrant FAX:+1.7013283300
+Registrant FAX Ext.:
+Registrant Email:ipadmin@nd.gov
+Admin ID:25882226-NSI
+Admin Name:Information Technology Department
+Admin Organization:Information Technology Department
+Admin Street1:600 E. Blvd. Ave. - Dept. 112
+Admin Street2:
+Admin Street3:
+Admin City:Bismarck
+Admin State/Province:ND
+Admin Postal Code:58505-0100
+Admin Country:US
+Admin Phone:+1.7013281021
+Admin Phone Ext.:
+Admin FAX:+1.7013283300
+Admin FAX Ext.:
+Admin Email:ipadmin@nd.gov
+Tech ID:15858535-NSI
+Tech Name:Curt Wahl
+Tech Organization:State of North Dakota (ITD)
+Tech Street1:600 E BOULEVARD AVE
+Tech Street2:
+Tech Street3:
+Tech City:BISMARCK
+Tech State/Province:ND
+Tech Postal Code:58505-0660
+Tech Country:US
+Tech Phone:+1.7013281021
+Tech Phone Ext.:
+Tech FAX:+1.7013283300
+Tech FAX Ext.:
+Tech Email:cgwahl@nd.gov
+Name Server:NS3.STATE.ND.US
+Name Server:NS3.NDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

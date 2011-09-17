@@ -1,0 +1,46 @@
+%
+%  TZNIC WHOIS data and services are subject to the Terms of Use
+%  available at: http://www.tznic.or.tz/docs/whois_tou.pdf
+%
+%  You may also use our WHOIS Web service available at:
+%  http://whois.tznic.or.tz/whois
+%
+%
+% Whoisd Server Version: 3.1.1
+% Timestamp: Sat Sep 17 18:14:44 2011
+
+domain:       mzumbe.ac.tz
+registrant:   CK5-TZNIC
+admin-c:      CK5-TZNIC
+nsset:        NS-MZUMBE.AC.TZ
+registrar:    REG-TZNIC
+status:       paid and in zone
+registered:   24.07.2009 10:49:48
+changed:      26.08.2010 13:39:08
+expire:       24.07.2012
+
+contact:      CK5-TZNIC
+org:          Mzumbe University
+name:         Charles Mutta Kaijage
+address:      Mvomero District
+address:      Mzumbe Area
+address:      Morogoro
+address:      P.O.Box 1
+address:      TZ
+phone:        +255.0784595976
+e-mail:       mu@mzumbe.ac.tz
+registrar:    REG-PT
+created:      26.08.2010 13:30:24
+changed:      29.08.2011 18:59:02
+
+nsset:        NS-MZUMBE.AC.TZ
+nserver:      ns1.uunet.co.ke
+nserver:      ns1.africaonline.co.tz
+nserver:      ns1.africaonline.com
+nserver:      ns2.africaonline.co.tz
+tech-c:       CK5-TZNIC
+registrar:    REG-TZNIC
+created:      24.07.2009 08:20:58
+changed:      26.08.2010 13:41:07
+
+

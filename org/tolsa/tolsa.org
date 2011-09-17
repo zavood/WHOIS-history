@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150156067-LROR
+Domain Name:TOLSA.ORG
+Created On:03-Dec-2007 08:28:46 UTC
+Last Updated On:29-Nov-2010 08:27:14 UTC
+Expiration Date:03-Dec-2012 08:28:46 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tulNBcv5mFsGnEjO
+Registrant Name:philippe perdu
+Registrant Organization:perdu philippe
+Registrant Street1:CNES Bpi 1414, 18 avenue Edouard Belin
+Registrant Street2:
+Registrant Street3:
+Registrant City:Toulouse
+Registrant State/Province:FR
+Registrant Postal Code:31400
+Registrant Country:FR
+Registrant Phone:+33.561282017
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:philippe.perdu@cnes.fr
+Admin ID:tulNBcv5mFsGnEjO
+Admin Name:philippe perdu
+Admin Organization:perdu philippe
+Admin Street1:CNES Bpi 1414, 18 avenue Edouard Belin
+Admin Street2:
+Admin Street3:
+Admin City:Toulouse
+Admin State/Province:FR
+Admin Postal Code:31400
+Admin Country:FR
+Admin Phone:+33.561282017
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:philippe.perdu@cnes.fr
+Tech ID:tulNBcv5mFsGnEjO
+Tech Name:philippe perdu
+Tech Organization:perdu philippe
+Tech Street1:CNES Bpi 1414, 18 avenue Edouard Belin
+Tech Street2:
+Tech Street3:
+Tech City:Toulouse
+Tech State/Province:FR
+Tech Postal Code:31400
+Tech Country:FR
+Tech Phone:+33.561282017
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:philippe.perdu@cnes.fr
+Name Server:NS1.NEODOMAINE.COM
+Name Server:NS2.NEODOMAINE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; herbatica.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      herbatica.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    H2945-FRNIC
+admin-c:     AD7118-FRNIC
+tech-c:      AD7118-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL23321-FRNIC
+registrar:   HOSTWAY DEUTSCHLAND GMBH
+anniversary: 03/06
+created:     03/06/2005
+last-update: 19/10/2010
+source:      FRNIC
+
+ns-list:     NSL23321-FRNIC
+nserver:     ns1.hostway.fr [217.195.32.10]
+nserver:     ns2.hostway.fr [81.3.2.135]
+source:      FRNIC
+
+registrar:   HOSTWAY DEUTSCHLAND GMBH
+type:        Isp Option 2
+address:     Am Mittelfelde 29
+address:     30519 HANOVRE
+country:     DE
+phone:       +49 71260 150
+fax-no:      +49 71260 199
+e-mail:      torsten.schroeder@hostway.de
+website:     http://www.hostway.de
+anonymous:   NO
+registered:  19/10/2010
+source:      FRNIC
+
+nic-hdl:     AD7118-FRNIC
+type:        ROLE
+contact:     Administrateur DNS
+address:     HOSTWAY France
+address:     parc Technologique de Garlande
+address:     1, rue de l'Egalite
+address:     92220 Bagneux
+country:     FR
+phone:       +33 8 25 29 07 00
+e-mail:      dns-admin@hostway.fr
+trouble:     Spam: mailto:abuse@hostway.fr
+trouble:     Informations: http://www.hostway.fr
+admin-c:     AG277-FRNIC
+tech-c:      MC221-FRNIC
+notify:      admin@hostway.fr
+changed:     19/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     H2945-FRNIC
+type:        ORGANIZATION
+contact:     HOSTWAY
+address:     57, Esplanade Charles de Gaulle
+address:     92081 Paris la Defense Cedex
+country:     FR
+phone:       +33 1 39 65 67 00
+fax-no:      +33 1 39 65 67 77
+e-mail:      dns-admin@hostway.fr
+changed:     19/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

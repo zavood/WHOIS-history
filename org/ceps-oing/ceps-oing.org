@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105863136-LROR
+Domain Name:CEPS-OING.ORG
+Created On:10-Mar-2005 16:44:33 UTC
+Last Updated On:25-May-2011 10:18:24 UTC
+Expiration Date:10-Mar-2012 16:44:33 UTC
+Sponsoring Registrar:OVH (R135-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ovh4ddcd76d2qa2
+Registrant Name:Admin System
+Registrant Organization:CEPS
+Registrant Street1:1 rue de Villersexel
+Registrant Street2:
+Registrant Street3:
+Registrant City:PARIS
+Registrant State/Province:
+Registrant Postal Code:F-75005
+Registrant Country:FR
+Registrant Phone:+33.153631363
+Registrant Phone Ext.:
+Registrant FAX:+33.153631360
+Registrant FAX Ext.:
+Registrant Email:2eijgbw9f7z9wkipn9cy@z.o-w-o.info
+Admin ID:ovh4ddcd76ffvox
+Admin Name:Jean-Pierre COUSSOT
+Admin Organization:Alteo
+Admin Street1:2, Rue des Chenes Emeraude - BP 20005
+Admin Street2:
+Admin Street3:
+Admin City:Cergy-Pontoise Cedex
+Admin State/Province:
+Admin Postal Code:95001
+Admin Country:FR
+Admin Phone:+33.810060933
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nz9hh8tt80tg4sfrpljr@z.o-w-o.info
+Tech ID:ovh4ddcd76ffvox
+Tech Name:Jean-Pierre COUSSOT
+Tech Organization:Alteo
+Tech Street1:2, Rue des Chenes Emeraude - BP 20005
+Tech Street2:
+Tech Street3:
+Tech City:Cergy-Pontoise Cedex
+Tech State/Province:
+Tech Postal Code:95001
+Tech Country:FR
+Tech Phone:+33.810060933
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:nz9hh8tt80tg4sfrpljr@z.o-w-o.info
+Name Server:HERMES.WEB-HEBERGEMENT.NET
+Name Server:LEON.WEB-HEBERGEMENT.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
