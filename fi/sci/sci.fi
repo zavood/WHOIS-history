@@ -1,0 +1,18 @@
+
+domain:   sci.fi
+descr:    Saunalahti Group Oyj
+descr:    10643333
+address:  Riku Hakkarainen
+address:  Ratavartijankatu 3 D
+address:  00520
+address:  Helsinki
+phone:    +358 9 42430840
+status:   Granted
+created:  11.4.2000
+expires:  31.8.2012
+nserver: ns3.sci.fi [OK] 195.74.0.10
+nserver: ns5.sci.fi [OK] 213.192.189.2
+nserver: ns6.sci.fi [OK] 195.74.0.59
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

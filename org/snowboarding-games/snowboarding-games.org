@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159362893-LROR
+Domain Name:SNOWBOARDING-GAMES.ORG
+Created On:07-Jun-2010 16:11:09 UTC
+Last Updated On:28-Feb-2011 18:31:10 UTC
+Expiration Date:07-Jun-2012 16:11:09 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR49767787
+Registrant Name:Ketoulhou Paira
+Registrant Street1:Little Star Higher Secondary School
+Registrant Street2:Midland
+Registrant Street3:
+Registrant City:Dimapur
+Registrant State/Province:Nagaland
+Registrant Postal Code:797112
+Registrant Country:IN
+Registrant Phone:+386.2226463
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ketoulhou@gmail.com
+Admin ID:CR49767789
+Admin Name:Ketoulhou Paira
+Admin Street1:Little Star Higher Secondary School
+Admin Street2:Midland
+Admin Street3:
+Admin City:Dimapur
+Admin State/Province:Nagaland
+Admin Postal Code:797112
+Admin Country:IN
+Admin Phone:+386.2226463
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ketoulhou@gmail.com
+Tech ID:CR49767788
+Tech Name:Ketoulhou Paira
+Tech Street1:Little Star Higher Secondary School
+Tech Street2:Midland
+Tech Street3:
+Tech City:Dimapur
+Tech State/Province:Nagaland
+Tech Postal Code:797112
+Tech Country:IN
+Tech Phone:+386.2226463
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ketoulhou@gmail.com
+Name Server:NS1.SYNETICTHEATRE.ORG
+Name Server:NS2.SYNETICTHEATRE.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

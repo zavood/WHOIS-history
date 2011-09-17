@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D483531-LROR
+Domain Name:VNT.ORG
+Created On:19-Sep-1997 04:00:00 UTC
+Last Updated On:20-Aug-2011 04:52:57 UTC
+Expiration Date:18-Sep-2012 04:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuMBSbxK7tvDgKa5
+Registrant Name:VerbondvanNederlandse Tussenpersonen
+Registrant Organization:VerbondvanNederlandse Tussenpersonen
+Registrant Street1:Zwaansvliet 20
+Registrant Street2:
+Registrant Street3:
+Registrant City:Amsterdam
+Registrant State/Province:VA
+Registrant Postal Code:1081AP
+Registrant Country:NL
+Registrant Phone:+31.302483930
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@domainregistry.tiscali.nl
+Admin ID:tuTWh6fV8fCIIHua
+Admin Name:Domain Office
+Admin Organization:KPN BV
+Admin Street1:Regulusweg 1
+Admin Street2:
+Admin Street3:
+Admin City:Den Haag
+Admin State/Province:NA
+Admin Postal Code:2516AC
+Admin Country:NL
+Admin Phone:+31.704512555
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domain@kpn.com
+Tech ID:tuGvK2Yhl5jglvhv
+Tech Name:Domain Office
+Tech Organization:KPN BV
+Tech Street1:Regulusweg 1
+Tech Street2:-
+Tech Street3:
+Tech City:Den Haag
+Tech State/Province:
+Tech Postal Code:2516AC
+Tech Country:NL
+Tech Phone:+31.704512555
+Tech Phone Ext.:
+Tech FAX:+31.704511116
+Tech FAX Ext.:
+Tech Email:domain@kpn.com
+Name Server:NS1.PEM.KPN.NET
+Name Server:NS3.PEM.KPN.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

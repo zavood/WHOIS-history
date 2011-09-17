@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 07:02:09 (BRT -03:00)
+
+domain:      tirabassigomes.com.br
+owner:       Tirabassigomes - Solu&ccedil;&otilde;es Gr&aacute;ficas Ltda ME
+ownerid:     006.893.365/0001-79
+responsible: Marcelo Espinha Gomes
+country:     BR
+owner-c:     MEG82
+admin-c:     MEG82
+tech-c:      HOT20
+billing-c:   MEG82
+nserver:     ns1.host4.net.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.host4.net.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20050210 #2004383
+expires:     20120210
+changed:     20110227
+status:      published
+
+nic-hdl-br:  HOT20
+person:      H O S T 4
+e-mail:      registro@host4.com.br
+created:     20041107
+changed:     20080115
+
+nic-hdl-br:  MEG82
+person:      Marcelo Espinha Gomes
+e-mail:      webmaster@tirabassi.com.br
+created:     20041015
+changed:     20100903
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

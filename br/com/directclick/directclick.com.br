@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-14 12:27:29 (BRT -03:00)
+%  2011-09-17 07:01:22 (BRT -03:00)
 
 domain:      directclick.com.br
 owner:       LayerDev Sistemas e Consultoria em TI
@@ -17,11 +17,11 @@ admin-c:     LSCLT
 tech-c:      LSCLT
 billing-c:   LSCLT
 nserver:     sp.directclick.com.br 67.228.254.4
-nsstat:      20110914 AA
-nslastaa:    20110914
+nsstat:      20110917 AA
+nslastaa:    20110917
 nserver:     rj.directclick.com.br 67.228.255.5
-nsstat:      20110914 AA
-nslastaa:    20110914
+nsstat:      20110917 AA
+nslastaa:    20110917
 created:     20090731 #5833439
 expires:     20120731
 changed:     20100211

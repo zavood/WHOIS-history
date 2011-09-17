@@ -1,0 +1,58 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         apa.at
+registrant:     AAPA2803417-NICAT
+admin-c:        AI2803418-NICAT
+tech-c:         AI2803418-NICAT
+nserver:        ns1.apa.at
+remarks:        194.158.133.1
+nserver:        ns2.apa.at
+remarks:        194.232.133.2
+nserver:        ns5.univie.ac.at
+remarks:        193.171.255.77
+changed:        20080108 15:06:52
+source:         AT-DOM
+
+personname:
+organization:   APA Austria Presse Agentur
+street address: Laimgrubengasse 10
+postal code:    A-1060
+city:           Wien
+country:        Austria
+nic-hdl:        AAPA2803417-NICAT
+changed:        20070504 14:03:11
+source:         AT-DOM
+
+personname:     Service Desk
+organization:   APA-IT
+street address: Laimgrubengasse 10
+postal code:    1060
+city:           Wien
+country:        Austria
+phone:          +431360606666
+fax-no:         +431360606099
+nic-hdl:        AI2803418-NICAT
+changed:        20070504 14:03:11
+source:         AT-DOM
+

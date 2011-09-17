@@ -1,0 +1,18 @@
+
+domain:   ssf.fi
+descr:    Space Systems Finland
+descr:    07302706
+address:  Esa Norola
+address:  Kappelitie 6
+address:  02200
+address:  Espoo
+phone:    0961328642
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: ns4.sci.fi [OK]
+nserver: ns5.sci.fi [OK]
+nserver: ns6.sci.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

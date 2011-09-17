@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; jama.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      jama.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    JES24-FRNIC
+admin-c:     MJ1025-FRNIC
+tech-c:      CML29-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL7894-FRNIC
+registrar:   NAMESHIELD
+anniversary: 13/08
+created:     15/12/2000
+last-update: 13/08/2009
+source:      FRNIC
+
+ns-list:     NSL7894-FRNIC
+nserver:     observatoire.observatoiredesmarques.fr [62.93.195.146]
+nserver:     ns2.observatoiredesmarques.fr [80.74.69.8]
+nserver:     ns3.nameshield.net
+source:      FRNIC
+
+registrar:   NAMESHIELD
+type:        Isp Option 1
+address:     16 Rue de St P&eacute;tersbourg
+address:     PARIS
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      jpbechu@nameshield.net
+website:     http://www.nameshield.net
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     JES24-FRNIC
+type:        ORGANIZATION
+contact:     JAMA ELECTRONIQUE SARL
+address:     22, rue de la fraternite
+address:     12100 Millau
+country:     FR
+phone:       +33 5 65 60 76 01
+fax-no:      +33 5 65 60 76 04
+e-mail:      marc@jama.fr
+changed:     19/10/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     MJ1025-FRNIC
+type:        PERSON
+contact:     Marc Jardel
+address:     JAMA
+address:     22, rue de la fraternite
+address:     12100 Millau
+country:     FR
+phone:       +33 5 65 60 76 01
+fax-no:      +33 5 65 60 76 04
+e-mail:      marc@jama.fr
+changed:     10/08/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CML29-FRNIC
+type:        PERSON
+contact:     Creations Multimedia Laetis
+address:     LAETIS
+address:     place de l'eglise
+address:     12120 Arvieu
+country:     FR
+phone:       +33 5 65 74 70 97
+fax-no:      +33 5 65 74 70 98
+e-mail:      dns@laetis.fr
+changed:     02/06/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

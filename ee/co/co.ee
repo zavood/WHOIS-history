@@ -1,0 +1,39 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       co.ee
+registrant:   CID:ELKDATA:ORG-80622
+admin-c:      CID:ELKDATA:ADMIN-80623
+nsset:        NSSID:ELKDATA:16230
+registrar:    elkdata
+status:       paid and in zone
+registered:   04.07.2010 03:44:11
+changed:      04.01.2011 23:59:02
+expire:       04.01.2012
+
+contact:      CID:ELKDATA:ORG-80622
+name:         Code Owners O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elkdata
+created:      04.01.2011 23:58:57
+
+contact:      CID:ELKDATA:ADMIN-80623
+name:         Gren-Christian Kass
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elkdata
+created:      04.01.2011 23:58:57
+
+nsset:        NSSID:ELKDATA:16230
+nserver:      ns.elkdata.ee (194.106.101.162)
+nserver:      ns2.elkdata.ee (194.106.101.163)
+tech-c:       CID:ELKDATA:TECH-38716
+registrar:    elkdata
+created:      04.01.2011 23:59:00
+
+contact:      CID:ELKDATA:TECH-38716
+name:         Elkdata O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    elkdata
+created:      08.07.2010 16:41:17
+
+

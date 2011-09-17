@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98329775-LROR
+Domain Name:AMIGOSCENTER.ORG
+Created On:09-Jul-2003 17:29:09 UTC
+Last Updated On:07-Aug-2011 00:25:55 UTC
+Expiration Date:09-Jul-2015 17:29:09 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR85012102
+Registrant Name:Sarah Willig
+Registrant Organization:Amigos en Cristo
+Registrant Street1:25999 Old 41 Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bonita Springs
+Registrant State/Province:Florida
+Registrant Postal Code:34135
+Registrant Country:US
+Registrant Phone:+1.2394376727
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sarah@amigoscenter.org
+Admin ID:CR85012115
+Admin Name:Sarah Willig
+Admin Organization:Amigos en Cristo
+Admin Street1:25999 Old 41 Rd
+Admin Street2:
+Admin Street3:
+Admin City:Bonita Springs
+Admin State/Province:Florida
+Admin Postal Code:34135
+Admin Country:US
+Admin Phone:+1.2394376727
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sarah@amigoscenter.org
+Tech ID:CR85012109
+Tech Name:Sarah Willig
+Tech Organization:Amigos en Cristo
+Tech Street1:25999 Old 41 Rd
+Tech Street2:
+Tech Street3:
+Tech City:Bonita Springs
+Tech State/Province:Florida
+Tech Postal Code:34135
+Tech Country:US
+Tech Phone:+1.2394376727
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sarah@amigoscenter.org
+Name Server:NS67.DOMAINCONTROL.COM
+Name Server:NS68.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

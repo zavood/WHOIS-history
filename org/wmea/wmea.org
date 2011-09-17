@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D788900-LROR
+Domain Name:WMEA.ORG
+Created On:23-Jan-1998 05:00:00 UTC
+Last Updated On:22-Oct-2008 17:01:52 UTC
+Expiration Date:22-Jan-2013 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:27205565-NSI
+Registrant Name:WashingtonMusicEducators Association
+Registrant Organization:WashingtonMusicEducators Association
+Registrant Street1:PO BOX 1117
+Registrant Street2:
+Registrant Street3:
+Registrant City:Edmonds
+Registrant State/Province:WA
+Registrant Postal Code:98020-1117
+Registrant Country:US
+Registrant Phone:+1.42574586
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:demohs@YAHOO.COM
+Admin ID:41437633-NSI
+Admin Name:Rick Lysen
+Admin Street1:3705 E Smith Rd
+Admin Street2:
+Admin Street3:
+Admin City:Bellingham
+Admin State/Province:WA
+Admin Postal Code:98226
+Admin Country:US
+Admin Phone:+1.360592555
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rick@slowdrip.com
+Tech ID:5392908-NSI
+Tech Name:Tim Uzzanti
+Tech Organization:Crystaltech Web Hosting Inc.
+Tech Street1:6135 N 7th St.
+Tech Street2:
+Tech Street3:
+Tech City:Phoenix
+Tech State/Province:AZ
+Tech Postal Code:85014
+Tech Country:US
+Tech Phone:+1.9154795151
+Tech Phone Ext.:
+Tech FAX:+1.9155859400
+Tech FAX Ext.:
+Tech Email:juan@teamjuanuribe.com
+Name Server:WEBTERMINATOR2.CRYSTALTECH.COM
+Name Server:WEBTERMINATOR1.CRYSTALTECH.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D589839-LROR
+Domain Name:PWPL.ORG
+Created On:12-Sep-1997 04:00:00 UTC
+Last Updated On:05-Aug-2008 20:12:08 UTC
+Expiration Date:11-Sep-2017 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29328393-NSI
+Registrant Name:Port Washington Public Library
+Registrant Organization:Port Washington Public Library
+Registrant Street1:1 Library Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Port Washington
+Registrant State/Province:NY
+Registrant Postal Code:11050
+Registrant Country:US
+Registrant Phone:+1.51688344
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:fertigh@PWPL.ORG
+Admin ID:29328395-NSI
+Admin Name:Corinne Camarata
+Admin Organization:Port Washington Public Library
+Admin Street1:1 LIBRARY DR
+Admin Street2:
+Admin Street3:
+Admin City:PORT WASHINGTON
+Admin State/Province:NY
+Admin Postal Code:11050-2741
+Admin Country:US
+Admin Phone:+1.5168834400
+Admin Phone Ext.:
+Admin FAX:+1.5168837927
+Admin FAX Ext.:
+Admin Email:CAMARATA@PWPL.ORG
+Tech ID:29328395-NSI
+Tech Name:Corinne Camarata
+Tech Organization:Port Washington Public Library
+Tech Street1:1 LIBRARY DR
+Tech Street2:
+Tech Street3:
+Tech City:PORT WASHINGTON
+Tech State/Province:NY
+Tech Postal Code:11050-2741
+Tech Country:US
+Tech Phone:+1.5168834400
+Tech Phone Ext.:
+Tech FAX:+1.5168837927
+Tech FAX Ext.:
+Tech Email:CAMARATA@PWPL.ORG
+Name Server:NS267.WEBSITEWELCOME.COM
+Name Server:NS268.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

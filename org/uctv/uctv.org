@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104694084-LROR
+Domain Name:UCTV.ORG
+Created On:27-Jul-2004 21:43:09 UTC
+Last Updated On:04-Jul-2011 10:35:02 UTC
+Expiration Date:27-Jul-2012 21:43:09 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:B121962013130497
+Registrant Name:Shaie Selzer
+Registrant Organization:Shaie Selzer
+Registrant Street1:7 Manchester Street
+Registrant Street2:Clearwater House
+Registrant Street3:
+Registrant City:London
+Registrant State/Province:-
+Registrant Postal Code:W1U3AE
+Registrant Country:GB
+Registrant Phone:+44.207935385
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sks@uctv.org
+Admin ID:A121967715262263
+Admin Name:Shaie Selzer
+Admin Organization:Shaie Selzer
+Admin Street1:7 Manchester Street
+Admin Street2:Clearwater House
+Admin Street3:
+Admin City:London
+Admin State/Province:-
+Admin Postal Code:W1U3AE
+Admin Country:GB
+Admin Phone:+44.207935385
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin@globalgold.co.uk
+Tech ID:A121967715262264
+Tech Name:Technical Department
+Tech Organization:Global Gold Network Ltd
+Tech Street1:Unit 2
+Tech Street2:6 West Road
+Tech Street3:
+Tech City:Harlow
+Tech State/Province:Essex
+Tech Postal Code:CM20 2DU
+Tech Country:GB
+Tech Phone:+44.8453130909
+Tech Phone Ext.:
+Tech FAX:+44.8453130910
+Tech FAX Ext.:
+Tech Email:admin@globalgold.co.uk
+Name Server:NS2.GLOBALGOLD.CO.UK
+Name Server:NS1.GLOBALGOLD.CO.UK
+Name Server:NS3.GLOBALGOLD.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

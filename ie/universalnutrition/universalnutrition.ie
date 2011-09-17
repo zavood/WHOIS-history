@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      universalnutrition.ie
+descr:       Gareth Duignan
+descr:       Sole Trader
+descr:       Registered Business Name
+admin-c:     ADF238-IEDR
+tech-c:      AAM456-IEDR
+renewal:     16-April-2012
+status:      Active
+nserver:     ns.blacknightsolutions.com
+nserver:     ns2.blacknightsolutions.com
+source:      IEDR
+
+person:      Gareth Duignan
+nic-hdl:     ADF238-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+
