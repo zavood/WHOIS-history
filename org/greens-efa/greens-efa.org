@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D74742676-LROR
+Domain Name:GREENS-EFA.ORG
+Created On:06-Jul-2001 10:02:39 UTC
+Last Updated On:05-Sep-2011 00:25:57 UTC
+Expiration Date:06-Jul-2012 10:02:39 UTC
+Sponsoring Registrar:united-domains AG (R1838-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:UR-0002211210
+Registrant Name:Jean Kutten
+Registrant Organization:The Greens/European Free Alliance in the European Parliament
+Registrant Street1:Rue Wiertz 60
+Registrant Street2:
+Registrant Street3:
+Registrant City:Brussels
+Registrant State/Province:
+Registrant Postal Code:1047
+Registrant Country:BE
+Registrant Phone:+32.22841664
+Registrant Phone Ext.:
+Registrant FAX:+32.22307837
+Registrant FAX Ext.:
+Registrant Email:Jean-Marie.Kutten@europarl.europa.eu
+Admin ID:UR-0002211210
+Admin Name:Jean Kutten
+Admin Organization:The Greens/European Free Alliance in the European Parliament
+Admin Street1:Rue Wiertz 60
+Admin Street2:
+Admin Street3:
+Admin City:Brussels
+Admin State/Province:
+Admin Postal Code:1047
+Admin Country:BE
+Admin Phone:+32.22841664
+Admin Phone Ext.:
+Admin FAX:+32.22307837
+Admin FAX Ext.:
+Admin Email:Jean-Marie.Kutten@europarl.europa.eu
+Tech ID:UR-0002036453
+Tech Name:Dirk Moenig
+Tech Organization:M-DV
+Tech Street1:Luetzowplatz 5
+Tech Street2:
+Tech Street3:
+Tech City:Berlin
+Tech State/Province:
+Tech Postal Code:10785
+Tech Country:DE
+Tech Phone:+49.3023003323
+Tech Phone Ext.:
+Tech FAX:+49.3023003324
+Tech FAX Ext.:
+Tech Email:d.moenig@m-dv.de
+Name Server:DNS1.DNSSPACE.NET
+Name Server:DNS2.DNSSPACE.NET
+Name Server:DNS3.DNSSPACE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,114 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; pasteur.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      pasteur.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    IP720-FRNIC
+admin-c:     LB1035-FRNIC
+tech-c:      NA394-FRNIC
+tech-c:      OH251-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1251-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 18/09
+created:     01/01/1995
+last-update: 06/03/2009
+source:      FRNIC
+
+ns-list:     NSL1251-FRNIC
+nserver:     ns0.pasteur.fr [157.99.64.64]
+nserver:     ns1.pasteur.fr [157.99.64.65]
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     LB1035-FRNIC
+type:        PERSON
+contact:     Laurent Bloch
+address:     Institut Pasteur - Informatique Scientifique
+address:     25-28, rue du Docteur Roux
+address:     75724 Paris Cedex 15
+country:     FR
+phone:       +33 1 45 68 85 10
+fax-no:      +33 1 40 61 30 80
+e-mail:      bloch@pasteur.fr
+notify:      bloch@pasteur.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NA394-FRNIC
+type:        ROLE
+contact:     Institut Pasteur Network Administrator
+address:     Service d'Informatique Scientifique
+address:     25-28, rue du Docteur Roux
+address:     75724 Paris Cedex 15
+country:     FR
+phone:       +33 1 45 68 85 10
+fax-no:      +33 1 40 61 30 80
+e-mail:      hostmaster@pasteur.fr
+admin-c:     LB1035-FRNIC
+tech-c:      GM10-FRNIC
+changed:     13/02/2003 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IP720-FRNIC
+type:        ORGANIZATION
+contact:     INSTITUT PASTEUR
+address:     25-28, rue du Docteur Roux
+address:     75724 Paris
+country:     FR
+phone:       +33 1 45 68 80 00
+changed:     30/12/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

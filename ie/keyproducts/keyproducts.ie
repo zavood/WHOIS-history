@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      keyproducts.ie
+descr:       Aim Cash And Carry Limited
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Discretionary Name
+admin-c:     AJQ710-IEDR
+tech-c:      ABG704-IEDR
+renewal:     05-August-2011
+status:      Active
+nserver:     ns5.dnsireland.com
+nserver:     ns6.dnsireland.com
+nserver:     ns7.dnsireland.ie
+source:      IEDR
+
+person:      NAEEM MANIAR
+nic-hdl:     AJQ710-IEDR
+source:      IEDR
+
+person:      Lets Host Domain Services
+nic-hdl:     ABG704-IEDR
+source:      IEDR
+

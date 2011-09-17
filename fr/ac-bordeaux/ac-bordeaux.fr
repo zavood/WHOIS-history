@@ -1,0 +1,141 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ac-bordeaux.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ac-bordeaux.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    RDLA2-FRNIC
+admin-c:     PC255-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      DC3033-FRNIC
+tech-c:      FH956-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL48339-FRNIC
+registrar:   RENATER
+anniversary: 08/07
+created:     10/11/1995
+last-update: 14/04/2011
+source:      FRNIC
+
+ns-list:     NSL48339-FRNIC
+nserver:     dns1.ac-bordeaux.fr [194.199.33.1]
+nserver:     camus.dr15.cnrs.fr [147.210.72.192 2001:660:6101:21::1]
+nserver:     dns1.ac-toulouse.fr [194.214.239.1]
+nserver:     dns2.ac-toulouse.fr [194.214.239.2]
+nserver:     ns3.aquitaine.fr [81.255.96.237]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     RDLA2-FRNIC
+type:        ORGANIZATION
+contact:     ACADEMIE DE BORDEAUX RECTORAT
+address:     5, rue Joseph Carayon-Latour
+address:     33060 Bordeaux
+country:     FR
+phone:       +33 5 57 57 38 00
+changed:     12/01/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     PC255-FRNIC
+type:        PERSON
+contact:     Paule Clavel
+address:     5, rue Joseph de Carayon Latour
+address:     B.P. 935
+address:     33060 Bordeaux Cedex
+country:     FR
+phone:       +33 57 57 38 00
+fax-no:      +33 56 96 29 42
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DC3033-FRNIC
+type:        PERSON
+contact:     Didier Camino
+address:     Rectorat de Bordeaux
+address:     Direction Informatique
+address:     5, Joseph de Carayon la Tour
+address:     33060 Bordeaux Cedex
+country:     FR
+phone:       +33 5 57 57 87 85
+fax-no:      +33 5 57 57 35 10
+e-mail:      olivier.camino@ac-bordeaux.fr
+changed:     21/06/2007 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     FH956-FRNIC
+type:        PERSON
+contact:     Fabien Hernando
+address:     Rectorat de Bordeaux
+address:     Direction Informatique
+address:     5, Joseph de Carayon la Tour
+address:     33060 Bordeaux Cedex
+country:     FR
+phone:       +33 5 57 57 38 78
+fax-no:      +33 5 57 57 35 10
+e-mail:      fabien.hernando@ac-bordeaux.fr
+changed:     21/06/2007 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

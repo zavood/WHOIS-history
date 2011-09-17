@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158502220-LROR
+Domain Name:ALLDETAILS.ORG
+Created On:03-Mar-2010 11:46:59 UTC
+Last Updated On:17-Mar-2011 13:06:12 UTC
+Expiration Date:03-Mar-2012 11:46:59 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:12f162b19091d9e6
+Registrant Name:Anil  Valvi
+Registrant Street1:Sec:-28
+Registrant Street2:
+Registrant Street3:
+Registrant City:Gujarat
+Registrant State/Province:Gujarat
+Registrant Postal Code:382028
+Registrant Country:IN
+Registrant Phone:+91.9974
+Registrant Phone Ext.:
+Registrant FAX:+91.9974
+Registrant FAX Ext.:
+Registrant Email:anilbvalvi@gmail.com
+Admin ID:12f162b19091d9e6
+Admin Name:Anil  Valvi
+Admin Street1:Sec:-28
+Admin Street2:
+Admin Street3:
+Admin City:Gujarat
+Admin State/Province:Gujarat
+Admin Postal Code:382028
+Admin Country:IN
+Admin Phone:+91.9974
+Admin Phone Ext.:
+Admin FAX:+91.9974
+Admin FAX Ext.:
+Admin Email:anilbvalvi@gmail.com
+Tech ID:12f162b19091d9e6
+Tech Name:Anil  Valvi
+Tech Street1:Sec:-28
+Tech Street2:
+Tech Street3:
+Tech City:Gujarat
+Tech State/Province:Gujarat
+Tech Postal Code:382028
+Tech Country:IN
+Tech Phone:+91.9974
+Tech Phone Ext.:
+Tech FAX:+91.9974
+Tech FAX Ext.:
+Tech Email:anilbvalvi@gmail.com
+Name Server:FERRARI1.HOSTRIGHTNOW.COM
+Name Server:FERRARI2.HOSTRIGHTNOW.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

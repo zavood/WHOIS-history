@@ -1,0 +1,43 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'taghrib.ir'
+
+
+domain:		taghrib.ir
+ascii:		taghrib.ir
+remarks:	(Domain Holder) SGNetWay Co.
+remarks:	(Domain Holder Address) 5th Floor, #20, Sahand St, East Hoveizeh Ave., North Sohrevardi Ave., Tehran, Tehran, IR
+holder-c:	sg445-irnic
+admin-c:	te56-irnic
+tech-c:		te56-irnic
+bill-c:		te56-irnic
+nserver:	ns1.taghrib.ir
+nserver:	ns2.taghrib.ir
+nserver:	ns4.sgnetway.net
+nserver:	ns5.sgnetway.net
+last-updated:	2011-06-14
+source:		IRNIC # Filtered
+
+nic-hdl:	sg445-irnic
+org:		SGNetWay Co.
+person:		Mahmood Bashash
+e-mail:		domains@sgnetway.com
+address:	5th Floor, #20, Sahand St, East Hoveizeh Ave., North Sohrevardi Ave., Tehran, Tehran, IR
+phone:		+98 21 8850 0244
+fax-no:		+98 21 8850 0243
+source:		IRNIC # Filtered
+
+nic-hdl:	te56-irnic
+org:		Fananavaran Masir Samaneh
+e-mail:		domain@ebnetway.ir
+address:	Unit 1, No.24, 4th Pakistan St., Shahid Beheshti Ave.,, Tehran, Tehran, IR
+phone:		+98 21 8850 0244
+fax-no:		+98 21 8850 0243
+source:		IRNIC # Filtered
+

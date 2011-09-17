@@ -1,0 +1,45 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 16:30:19 (BRT -03:00)
+
+domain:      seutoba.com.br
+owner:       AIRES RUY FIDELIS RAMOS
+ownerid:     948.516.381-91
+country:     BR
+owner-c:     ARFRA8
+admin-c:     ARFRA8
+tech-c:      ARFRA8
+billing-c:   ARFRA8
+nserver:     ns1.umhost.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns2.umhost.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+saci:        yes
+created:     20110116 #7787690
+expires:     20120116
+changed:     20110211
+provider:    UOLHOST (22)
+status:      published
+
+nic-hdl-br:  ARFRA8
+person:      AIRES RUY FIDELIS RAMOS
+e-mail:      airesruy@uol.com.br
+created:     20090902
+changed:     20090902
+provider:    UOLHOST (22)
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

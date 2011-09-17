@@ -1,0 +1,109 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; classaction.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      classaction.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    GEA9-FRNIC
+admin-c:     JMG75-FRNIC
+tech-c:      IC2-FRNIC
+tech-c:      SVG1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL8914-FRNIC
+registrar:   INDOM
+anniversary: 17/09
+created:     17/09/2004
+last-update: 17/05/2009
+source:      FRNIC
+
+ns-list:     NSL8914-FRNIC
+nserver:     ns21a.haisoft.net
+nserver:     ns21b.haisoft.net
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     IC2-FRNIC
+type:        ROLE
+contact:     INDOM Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+e-mail:      indom@indom.com
+admin-c:     SVG1-FRNIC
+tech-c:      PVG2-FRNIC
+changed:     18/12/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JMG75-FRNIC
+type:        PERSON
+contact:     Jean Marc Goldnadel
+address:     GOLDNADEL ET ASSOCIES
+address:     109, avenue Henri Martin
+address:     75116 Paris
+country:     FR
+phone:       +33 1 45 04 12 12
+e-mail:      goldnadellebris@wanadoo.fr
+changed:     17/09/2004 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GEA9-FRNIC
+type:        ORGANIZATION
+contact:     GOLDNADEL ET ASSOCIES
+address:     109, avenue henri martin
+address:     75116 Paris
+country:     FR
+phone:       +33 1 45 04 12 12
+e-mail:      goldnadellebris@wanadoo.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SVG1-FRNIC
+type:        PERSON
+contact:     Indom Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     20/11/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

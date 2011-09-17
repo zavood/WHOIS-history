@@ -1,0 +1,58 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 16:44:22 (BRT -03:00)
+
+domain:      siemens.com.br
+owner:       SIEMENS LTDA
+ownerid:     044.013.159/0001-16
+responsible: Paulo de Tarso
+country:     BR
+owner-c:     PATQU
+admin-c:     HON
+tech-c:      SINAD2
+billing-c:   PATQU
+nserver:     sulu.siemens.com.br 189.44.172.38
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     chekov.siemens.com.br 189.44.172.37
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     isrv0001.siemens.com.ar
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     19970604 #42171
+expires:     20160604
+changed:     20110506
+status:      published
+
+nic-hdl-br:  HON
+person:      Antonio Aparecido Alvares de Lima
+e-mail:      antonio.lima@siemens.com
+created:     19980108
+changed:     20080630
+
+nic-hdl-br:  PATQU
+person:      Paulo Tarso Queiroz
+e-mail:      paulo.tarso@siemens.com
+created:     20080630
+changed:     20080630
+
+nic-hdl-br:  SINAD2
+person:      Siemens NOC Administra&ccedil;&atilde;o
+e-mail:      luiz.henrique@siemens.com
+created:     20070916
+changed:     20070916
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      evangelical.ie
+descr:       Evangelical Alliance Ireland
+descr:       Unincorporated Association
+descr:       Registered Trade Mark Name
+admin-c:     AAL575-IEDR
+tech-c:      RIH12-IEDR
+renewal:     22-September-2011
+status:      Active
+nserver:     NS1.CHRISTIANHOSTS.CO.UK
+nserver:     NS2.CHRISTIANHOSTS.CO.UK
+source:      IEDR
+
+person:      Mary Dwyer
+nic-hdl:     AAL575-IEDR
+source:      IEDR
+
+person:      Register.ie Hostmaster
+nic-hdl:     RIH12-IEDR
+source:      IEDR
+

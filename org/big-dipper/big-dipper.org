@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D92531282-LROR
+Domain Name:BIG-DIPPER.ORG
+Created On:25-Nov-2002 05:31:09 UTC
+Last Updated On:06-Oct-2009 01:15:06 UTC
+Expiration Date:25-Nov-2011 05:31:09 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:OK
+Registrant ID:ONLC-517163-4
+Registrant Name:NPO Big Dipper
+Registrant Organization:NPO Big Dipper
+Registrant Street1:2-1-16 Shibadaimon
+Registrant Street2:2-1-16 Shibadaimon
+Registrant Street3:
+Registrant City:Minato-ku
+Registrant State/Province:Tokyo
+Registrant Postal Code:105-0012
+Registrant Country:JP
+Registrant Phone:+81.354059573
+Registrant Phone Ext.:
+Registrant FAX:+81.354059574
+Registrant FAX Ext.:
+Registrant Email:mail01@big-dipper.org
+Admin ID:ONLC-517163-1
+Admin Name:Enet Corporation
+Admin Organization:Enet Corporation
+Admin Street1:1-29-5-4 Higashiyurigaoka
+Admin Street2:1-29-5-4 Higashiyurigaoka
+Admin Street3:
+Admin City:Kawasaki
+Admin State/Province:Kanagawa
+Admin Postal Code:215-0012
+Admin Country:JP
+Admin Phone:+81.449663946
+Admin Phone Ext.:
+Admin FAX:+81.449663946
+Admin FAX Ext.:
+Admin Email:webmaster@enet.cc
+Tech ID:ONLC-517163-2
+Tech Name:Enet Corporation
+Tech Organization:Enet Corporation
+Tech Street1:1-29-5-4 Higashiyurigaoka
+Tech Street2:1-29-5-4 Higashiyurigaoka
+Tech Street3:
+Tech City:Kawasaki
+Tech State/Province:Kanagawa
+Tech Postal Code:215-0012
+Tech Country:JP
+Tech Phone:+81.449663946
+Tech Phone Ext.:
+Tech FAX:+81.449663946
+Tech FAX Ext.:
+Tech Email:webmaster@enet.cc
+Name Server:DNS1.INTERQ.OR.JP
+Name Server:DNS.INTERQ.OR.JP
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
