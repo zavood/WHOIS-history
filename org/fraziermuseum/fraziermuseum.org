@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D75090313-LROR
+Domain Name:FRAZIERMUSEUM.ORG
+Created On:17-Jul-2001 16:35:48 UTC
+Last Updated On:10-Jul-2010 05:09:11 UTC
+Expiration Date:17-Jul-2015 16:35:45 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:5930215-NSI
+Registrant Name:Blake and Others, LLC
+Registrant Organization:Blake and Others, LLC
+Registrant Street1:106 Forest Court
+Registrant Street2:
+Registrant Street3:
+Registrant City:Louisville
+Registrant State/Province:KY
+Registrant Postal Code:40206
+Registrant Country:US
+Registrant Phone:+1.5028949998
+Registrant Phone Ext.:
+Registrant FAX:+1.5028949125
+Registrant FAX Ext.:
+Registrant Email:brian@blakeandothers.com
+Admin ID:5930215-NSI
+Admin Name:Blake and Others, LLC
+Admin Organization:Blake and Others, LLC
+Admin Street1:106 Forest Court
+Admin Street2:
+Admin Street3:
+Admin City:Louisville
+Admin State/Province:KY
+Admin Postal Code:40206
+Admin Country:US
+Admin Phone:+1.5028949998
+Admin Phone Ext.:
+Admin FAX:+1.5028949125
+Admin FAX Ext.:
+Admin Email:brian@blakeandothers.com
+Tech ID:5930215-NSI
+Tech Name:Blake and Others, LLC
+Tech Organization:Blake and Others, LLC
+Tech Street1:106 Forest Court
+Tech Street2:
+Tech Street3:
+Tech City:Louisville
+Tech State/Province:KY
+Tech Postal Code:40206
+Tech Country:US
+Tech Phone:+1.5028949998
+Tech Phone Ext.:
+Tech FAX:+1.5028949125
+Tech FAX Ext.:
+Tech Email:brian@blakeandothers.com
+Name Server:NS1.CLT.PEAK-10.COM
+Name Server:NS1.JAX.PEAK-10.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

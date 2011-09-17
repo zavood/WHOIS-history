@@ -1,0 +1,114 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D151809401-LROR
+Domain Name:FORO-MUNDIAL.ORG
+Created On:22-Feb-2008 14:30:53 UTC
+Last Updated On:16-Aug-2011 00:25:53 UTC
+Expiration Date:22-Feb-2013 14:30:53 UTC
+Sponsoring Registrar:Dattatec.com de Irazoqui Veronica Palmira (R1737-LROR)
+Status:OK
+Registrant ID:DTTPIR-25441
+Registrant Name:FUNDACION FORO MUNDIAL DE UNIVERSIARIOS A.C.
+Registrant Organization:FUNDACION FORO MUNDIAL DE UNIVERSIARIOS A.C.
+Registrant Street1:Paseo de los Tamarindos No. 90 Torre 1 Piso 14
+Registrant Street2:Col. Bosques de las Lomas
+Registrant Street3:
+Registrant City:Ciudad de Mexico
+Registrant State/Province:Distrito Federal
+Registrant Postal Code:C.P. 05120
+Registrant Country:MX
+Registrant Phone:+52.5559055974
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@foro-mundial.org
+Admin ID:DI_8051670
+Admin Name:Servicio de renovacion
+Admin Organization:Hostmar.com
+Admin Street1:Cordoba 3753
+Admin Street2:
+Admin Street3:
+Admin City:Argentina
+Admin State/Province:Santa Fe
+Admin Postal Code:2000
+Admin Country:AR
+Admin Phone:+54.3414360555
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:renovaciones@hostmar.com
+Admin ID:DTTPIR-25441
+Admin Name:FUNDACION FORO MUNDIAL DE UNIVERSIARIOS A.C.
+Admin Organization:FUNDACION FORO MUNDIAL DE UNIVERSIARIOS A.C.
+Admin Street1:Paseo de los Tamarindos No. 90 Torre 1 Piso 14
+Admin Street2:Col. Bosques de las Lomas
+Admin Street3:
+Admin City:Ciudad de Mexico
+Admin State/Province:Distrito Federal
+Admin Postal Code:C.P. 05120
+Admin Country:MX
+Admin Phone:+52.5559055974
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@foro-mundial.org
+Tech ID:DI_8051670
+Tech Name:Servicio de renovacion
+Tech Organization:Hostmar.com
+Tech Street1:Cordoba 3753
+Tech Street2:
+Tech Street3:
+Tech City:Argentina
+Tech State/Province:Santa Fe
+Tech Postal Code:2000
+Tech Country:AR
+Tech Phone:+54.3414360555
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:renovaciones@hostmar.com
+Tech ID:DTTPIR-25441
+Tech Name:FUNDACION FORO MUNDIAL DE UNIVERSIARIOS A.C.
+Tech Organization:FUNDACION FORO MUNDIAL DE UNIVERSIARIOS A.C.
+Tech Street1:Paseo de los Tamarindos No. 90 Torre 1 Piso 14
+Tech Street2:Col. Bosques de las Lomas
+Tech Street3:
+Tech City:Ciudad de Mexico
+Tech State/Province:Distrito Federal
+Tech Postal Code:C.P. 05120
+Tech Country:MX
+Tech Phone:+52.5559055974
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@foro-mundial.org
+Name Server:MY.PRIVATEDNS.COM
+Name Server:YOUR.PRIVATEDNS.COM
+Name Server:NS1.PRIVATEDNS.COM
+Name Server:NS2.PRIVATEDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

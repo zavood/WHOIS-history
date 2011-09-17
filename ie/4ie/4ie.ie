@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      4ie.ie
+descr:       Flagship Media Group Ltd
+descr:       BODY CORPORATE (LTD,PLC,COMPANY)
+descr:       Publication Name
+admin-c:     ADC256-IEDR
+tech-c:      RIH12-IEDR
+renewal:     20-March-2012
+status:      Active
+nserver:     ans1.cw.net
+nserver:     ans2.cw.net
+source:      IEDR
+
+person:      Jonathan Stewart
+nic-hdl:     ADC256-IEDR
+source:      IEDR
+
+person:      Register.ie Hostmaster
+nic-hdl:     RIH12-IEDR
+source:      IEDR
+

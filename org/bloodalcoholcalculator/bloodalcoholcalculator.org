@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D136513688-LROR
+Domain Name:BLOODALCOHOLCALCULATOR.ORG
+Created On:04-Jan-2007 22:31:32 UTC
+Last Updated On:14-Sep-2011 22:50:02 UTC
+Expiration Date:04-Jan-2013 22:31:32 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-N9IOFB3OX05O
+Registrant Name:Edmond El Dabe
+Registrant Organization:EL DABE LAW FIRM
+Registrant Street1:1120 Pacific Coast Hwy
+Registrant Street2:Suite A
+Registrant Street3:
+Registrant City:Huntington Beach
+Registrant State/Province:CA
+Registrant Postal Code:92648
+Registrant Country:US
+Registrant Phone:+1.7145369366
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sherif2@yahoo.com
+Admin ID:DOT-2BRT2WDO60BU
+Admin Name:Edmond El Dabe
+Admin Organization:EL DABE LAW FIRM
+Admin Street1:1120 Pacific Coast Hwy
+Admin Street2:Suite A
+Admin Street3:
+Admin City:Huntington Beach
+Admin State/Province:CA
+Admin Postal Code:92648
+Admin Country:US
+Admin Phone:+1.7145369366
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sherif2@yahoo.com
+Tech ID:DOT-C50XNS3MRZ0V
+Tech Name:Edmond El Dabe
+Tech Organization:EL DABE LAW FIRM
+Tech Street1:1120 Pacific Coast Hwy
+Tech Street2:Suite A
+Tech Street3:
+Tech City:Huntington Beach
+Tech State/Province:CA
+Tech Postal Code:92648
+Tech Country:US
+Tech Phone:+1.7145369366
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sherif2@yahoo.com
+Name Server:NS17.ETHII.COM
+Name Server:NS18.ETHII.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156918221-LROR
+Domain Name:COACHITONETWORK.ORG
+Created On:20-Aug-2009 12:47:49 UTC
+Last Updated On:14-Jul-2011 17:15:38 UTC
+Expiration Date:20-Aug-2012 12:47:49 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:5d9c83469613681a
+Registrant Name:Joe  Iyang
+Registrant Organization:Healthy Cities Foundation
+Registrant Street1:jan van Zutphenstraat 18,
+Registrant Street2:
+Registrant Street3:
+Registrant City:SCHIEDAM
+Registrant State/Province:
+Registrant Postal Code:3119 BP
+Registrant Country:NL
+Registrant Phone:+31.686199663
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:makwelhost@yahoo.co.uk
+Admin ID:5d9c83469613681a
+Admin Name:Joe  Iyang
+Admin Organization:Healthy Cities Foundation
+Admin Street1:jan van Zutphenstraat 18,
+Admin Street2:
+Admin Street3:
+Admin City:SCHIEDAM
+Admin State/Province:
+Admin Postal Code:3119 BP
+Admin Country:NL
+Admin Phone:+31.686199663
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:makwelhost@yahoo.co.uk
+Tech ID:a4caa33d0be84e25
+Tech Name:Flex  Webhosting
+Tech Street1:Doctor Cuyperslaan 76
+Tech Street2:
+Tech Street3:
+Tech City:Eindhoven
+Tech State/Province:
+Tech Postal Code:5623 BB
+Tech Country:NL
+Tech Phone:+31.402359290
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:administratie@flexwebhosting.nl
+Name Server:NS5.AWARDSPACE.COM
+Name Server:NS6.AWARDSPACE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

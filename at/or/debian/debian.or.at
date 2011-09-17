@@ -1,0 +1,57 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         debian.or.at
+registrant:     VZFD1683749-NICAT
+admin-c:        VZFD1683749-NICAT
+tech-c:         SSRA2150127-NICAT
+nserver:        ns1.sil.at
+nserver:        ns2.sil.at
+nserver:        ns3.sil.at
+changed:        20060208 16:52:51
+source:         AT-DOM
+
+personname:     Gerfried Fuchs
+organization:   Verein zur Foerderung des Debian-Projekts
+street address: Buchberggasse 63
+postal code:    A-3400
+city:           Klosterneuburg
+country:        Austria
+e-mail:         obmann@verein.debian.at
+nic-hdl:        VZFD1683749-NICAT
+changed:        20040920 18:29:11
+source:         AT-DOM
+
+personname:     Silver Server GmbH
+organization:   Silver Server ROLE Account
+street address: Lorenz Mandlgasse 33/1
+postal code:    A-1160
+city:           Vienna
+country:        Austria
+phone:          +43599442010
+fax-no:         +43599449000
+e-mail:         hostmaster@sil.at
+nic-hdl:        SSRA2150127-NICAT
+changed:        20061114 15:21:08
+source:         AT-DOM
+

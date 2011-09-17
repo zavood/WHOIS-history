@@ -1,0 +1,27 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         chello.sk
+Admin-id            UPCS-0002
+Admin-name          UPC BROADBAND Slovakia, s.r.o
+Admin-legal-form    s.r.o
+Admin-org.-ID       35971967
+Admin-address       Sevcenkova 36, Bratislava 85101
+Admin-telephone     +421259422808, +421259422801
+Admin-email         UPCSK-InternetIT@upc.sk
+Tech-id             UPCS-0002
+Tech-name           UPC BROADBAND Slovakia, s.r.o
+Tech-org.-ID        35971967
+Tech-address        Sevcenkova 36, Bratislava 85101
+Tech-telephone      +421259422808, +421259422801
+Tech-email          UPCSK-InternetIT@upc.sk
+dns_name            ns2.chello.at
+dns_name            ns3.chello.at
+dns_name            ns01.chello.com
+dns_name            ns02.chello.com
+Last-update         2011-02-15
+Valid-date          2012-03-05
+Domain-status       DOM_OK
+

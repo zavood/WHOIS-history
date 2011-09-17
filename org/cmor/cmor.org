@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D219682-LROR
+Domain Name:CMOR.ORG
+Created On:18-Apr-1997 04:00:00 UTC
+Last Updated On:05-Aug-2011 08:01:10 UTC
+Expiration Date:19-Apr-2013 04:00:00 UTC
+Sponsoring Registrar:GMO Internet, Inc. d/b/a Onamae.com (R43-LROR)
+Status:TRANSFER PROHIBITED
+Registrant ID:13155BB0925
+Registrant Name:Daisuke Miyake
+Registrant Organization:across corporation Co., Ltd
+Registrant Street1:Mukonoso
+Registrant Street2:
+Registrant Street3:
+Registrant City:Amagasaki-shi
+Registrant State/Province:Hyogo
+Registrant Postal Code:661-0035
+Registrant Country:JP
+Registrant Phone:+81.664334343
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain@estate-search.jp
+Admin ID:13155BB0B27
+Admin Name:akiko hioki
+Admin Organization:-
+Admin Street1:2 3 1Mukonosou
+Admin Street2:
+Admin Street3:
+Admin City:Amagasaki
+Admin State/Province:Tokyo
+Admin Postal Code:6610035
+Admin Country:JP
+Admin Phone:+81.0664334343
+Admin Phone Ext.:
+Admin FAX:+81.0664334455
+Admin FAX Ext.:
+Admin Email:miltusan@c21myhome.com
+Tech ID:13155BB0F19
+Tech Name:akiko hioki
+Tech Organization:-
+Tech Street1:2 3 1Mukonosou
+Tech Street2:
+Tech Street3:
+Tech City:Amagasaki
+Tech State/Province:Tokyo
+Tech Postal Code:6610035
+Tech Country:JP
+Tech Phone:+81.0664334343
+Tech Phone Ext.:
+Tech FAX:+81.0664334455
+Tech FAX Ext.:
+Tech Email:miltusan@c21myhome.com
+Name Server:01.DNSV.JP
+Name Server:02.DNSV.JP
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

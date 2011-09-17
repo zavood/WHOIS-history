@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1764290-LROR
+Domain Name:AITP.ORG
+Created On:04-Sep-1996 04:00:00 UTC
+Last Updated On:18-Dec-2009 03:02:07 UTC
+Expiration Date:03-Sep-2014 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37517241
+Registrant Name:AITP Webmaster
+Registrant Organization:Association of Information Technology Professionals
+Registrant Street1:401 North Michigan Avenue, Suite 2400
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chicago
+Registrant State/Province:IL
+Registrant Postal Code:60611
+Registrant Country:US
+Registrant Phone:+1.3122451070
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:aitpwebmaster@usa.net
+Admin ID:CR37517243
+Admin Name:AITP Webmaster
+Admin Organization:Association of Information Technology Professionals
+Admin Street1:401 North Michigan Avenue, Suite 2400
+Admin Street2:
+Admin Street3:
+Admin City:Chicago
+Admin State/Province:IL
+Admin Postal Code:60611
+Admin Country:US
+Admin Phone:+1.3122451070
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:aitpwebmaster@usa.net
+Tech ID:CR37517242
+Tech Name:AITP Webmaster
+Tech Organization:Association of Information Technology Professionals
+Tech Street1:401 North Michigan Avenue, Suite 2400
+Tech Street2:
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:IL
+Tech Postal Code:60611
+Tech Country:US
+Tech Phone:+1.3122451070
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:aitpwebmaster@usa.net
+Name Server:A.DNSVR.COM
+Name Server:D.DNSVR.COM
+Name Server:E.DNSVR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

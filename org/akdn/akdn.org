@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1498132-LROR
+Domain Name:AKDN.ORG
+Created On:18-Aug-1996 04:00:00 UTC
+Last Updated On:27-Mar-2007 12:22:52 UTC
+Expiration Date:17-Aug-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28890349-NSI
+Registrant Name:Aga Khan Development Network
+Registrant Organization:Aga Khan Development Network
+Registrant Street1:1-3 avenue de la paix
+Registrant Street2:
+Registrant Street3:
+Registrant City:Geneve
+Registrant State/Province:
+Registrant Postal Code:1202
+Registrant Country:CH
+Registrant Phone:+41.229097277
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sam.pickens@akdn.ch
+Admin ID:39601595-NSI
+Admin Name:Samuel Pickens
+Admin Organization:Aga Khan Development Network
+Admin Street1:1-3 avenue de la paix
+Admin Street2:
+Admin Street3:
+Admin City:Geneva
+Admin State/Province:
+Admin Postal Code:CH1202
+Admin Country:CH
+Admin Phone:+1.41229097277
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sam.pickens@akdn.org
+Tech ID:41666853-NSI
+Tech Name:AKDN Geneva
+Tech Organization:AKDN
+Tech Street1:1-3 avenue de la Paix
+Tech Street2:
+Tech Street3:
+Tech City:GENEVA
+Tech State/Province:
+Tech Postal Code:1202
+Tech Country:CH
+Tech Phone:+1.412290972
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:itgeneva@akdn.org
+Name Server:NS1.GVA.CH.COLT.NET
+Name Server:NS1.ZRH1.CH.COLT.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

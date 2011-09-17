@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      bbnet.ie
+descr:       Eithne O'Riordan
+descr:       Sole Trader
+descr:       Registered Business Name
+admin-c:     ABK269-IEDR
+tech-c:      ABG704-IEDR
+renewal:     21-June-2012
+status:      Active
+nserver:     ns1.asmallorange.com
+nserver:     ns2.asmallorange.com
+source:      IEDR
+
+person:      Eithne O'Riordan
+nic-hdl:     ABK269-IEDR
+source:      IEDR
+
+person:      Lets Host Domain Services
+nic-hdl:     ABG704-IEDR
+source:      IEDR
+

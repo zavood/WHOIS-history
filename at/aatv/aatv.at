@@ -1,0 +1,70 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         aatv.at
+registrant:     GG2025976-NICAT
+admin-c:        NN2025974-NICAT
+tech-c:         HG1246933-NICAT
+nserver:        a1.wpns.hosteurope.de
+remarks:        217.115.143.193
+nserver:        a1.wsns.hosteurope.de
+remarks:        80.237.128.65
+changed:        20051004 13:59:45
+source:         AT-DOM
+
+personname:     Gregor Gruber
+organization:   Gregor Gruber
+street address: Siebeneichengasse 5/12
+postal code:    AT-1150
+city:           Wien
+country:        Austria
+phone:          +436764057480
+e-mail:         scaar@chello.at
+nic-hdl:        GG2025976-NICAT
+changed:        20051004 13:42:18
+source:         AT-DOM
+
+personname:     Gregor Gruber
+organization:   private
+street address: Siebeneichengasse 5/12
+postal code:    AT-1150
+city:           Wien
+country:        Austria
+phone:          +436764057480
+e-mail:         scaar@chello.at
+nic-hdl:        NN2025974-NICAT
+changed:        20051004 13:42:13
+source:         AT-DOM
+
+personname:     HostEurope GmbH
+organization:   HostEurope GmbH
+street address: Welserstrasse 14
+postal code:    51149
+city:           Koeln
+country:        Germany
+phone:          +491805467838
+fax-no:         +491805663233
+nic-hdl:        HG1246933-NICAT
+changed:        20081204 10:17:22
+source:         AT-DOM
+

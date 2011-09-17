@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 09-feb-2003
    Expiration Date: 09-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:40:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 12:19:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +53,90 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
-Maximum Daily connection limit reached. Lookup refused.
+Registrant:
+ Quality Books
+ 42 Chatsworth Avenue
+ Wimbledon Chase
+ London
+ London, United Kingdom SW20 8JZ
+ GB
+
+ Domain name: HPSTORES.COM
+
+
+ Administrative Contact:
+    Rowland, Leslie  lrowland@dircon.co.uk
+    42 Chatsworth Avenue
+    Wimbledon Chase
+    London
+    London, United Kingdom SW20 8JZ
+    GB
+    +442085436382
+ Technical Contact:
+    Rowland, Leslie  lrowland@dircon.co.uk
+    42 Chatsworth Avenue
+    Wimbledon Chase
+    London
+    London, United Kingdom SW20 8JZ
+    GB
+    +442085436382
+
+
+ Registration Service Provider:
+    Fasthosts Internet Limited, domains@fasthosts.co.uk
+    +44.8708883600
+    +44.8708883760 (fax)
+    http://www.Fasthosts.co.uk
+
+
+
+ Registrar of Record: TUCOWS, INC.
+ Record last updated on 10-Jan-2011.
+ Record expires on 09-Feb-2012.
+ Record created on 09-Feb-2003.
+
+ Registrar Domain Name Help Center:
+    http://tucowsdomains.com
+
+ Domain servers in listed order:
+    NS1.SITELUTIONS.COM
+    NS3.SITELUTIONS.COM
+
+
+ Domain status: clientDeleteProhibited
+                clientTransferProhibited
+                clientUpdateProhibited
+
+The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
+for information purposes only, and may be used to assist you in obtaining
+information about or related to a domain name's registration record.
+
+Tucows makes this information available &quot;as is,&quot; and does not guarantee its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising or
+solicitations to entities other than the data recipient's own existing
+customers; or (b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator or
+ICANN-Accredited registrar, except as reasonably necessary to register
+domain names or modify existing registrations.
+
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of Tucows.
+
+Tucows reserves the right to terminate your access to the Tucows WHOIS
+database in its sole discretion, including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this
+policy.
+
+Tucows reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by these terms.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
+RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
+
+

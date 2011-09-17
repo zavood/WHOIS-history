@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      pcireland.ie
+descr:       paralympic council of ireland
+descr:       Unincorporated Association
+descr:       Unincorporated Association Name
+admin-c:     AKB721-IEDR
+tech-c:      DAD1-IEDR
+renewal:     19-May-2012
+status:      Active
+nserver:     ns8.digiweb.ie
+nserver:     ns9.digiweb.ie
+source:      IEDR
+
+person:      Liam Harbison
+nic-hdl:     AKB721-IEDR
+source:      IEDR
+
+person:      Digiweb Hosting
+nic-hdl:     DAD1-IEDR
+source:      IEDR
+

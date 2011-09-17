@@ -1,0 +1,60 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         brusselsairlines.at
+registrant:     BA3080969-NICAT
+admin-c:        BA3080973-NICAT
+tech-c:         BA3080969-NICAT
+nserver:        ns3.asp.be
+remarks:        80.65.128.124
+nserver:        ns4.asp.be
+remarks:        195.16.185.228
+changed:        20071112 14:20:35
+source:         AT-DOM
+
+personname:
+organization:   Brussels Airlines
+street address: Mariahilfer Str. 123/5.Stock
+postal code:    A-1060
+city:           Wien
+country:        Austria
+phone:          +4315955280
+fax-no:         +431595528090
+e-mail:         vienna@brusselsairlines.com
+nic-hdl:        BA3080969-NICAT
+changed:        20071112 14:20:25
+source:         AT-DOM
+
+personname:
+organization:   Brussels Airlines
+street address: Mariahilfer Str. 123/5
+postal code:    1060
+city:           Wien
+country:        Austria
+phone:          +4315955280
+fax-no:         +4315955280
+e-mail:         vienna@brusselsairlines.com
+nic-hdl:        BA3080973-NICAT
+changed:        20071112 14:20:30
+source:         AT-DOM
+

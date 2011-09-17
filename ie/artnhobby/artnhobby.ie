@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      artnhobby.ie
+descr:       The Art And Hobby Shop Limited
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Registered Business Name
+admin-c:     BF41-IEDR
+tech-c:      ABG704-IEDR
+renewal:     30-September-2011
+status:      Active
+nserver:     ns5.dnsireland.com
+nserver:     ns6.dnsireland.com
+nserver:     ns7.dnsireland.ie
+source:      IEDR
+
+person:      Barry Fogarty
+nic-hdl:     BF41-IEDR
+source:      IEDR
+
+person:      Lets Host Domain Services
+nic-hdl:     ABG704-IEDR
+source:      IEDR
+

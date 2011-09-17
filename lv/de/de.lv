@@ -1,0 +1,26 @@
+[Domain]
+Domain: de.lv
+Status: active
+Changed: 2011-07-14T01:42:56.205603+03:00
+
+[Holder]
+Type: Legal person
+Name: mpexx subdomainservice
+Email: ms@interdots.com
+Fax: +1-253-323-0927
+Phone: +1-253-323-0927
+Address: None
+RegNr: None
+
+[Tech]
+Type: Natural person
+Email: ms@interdots.com
+Fax: +1-253-323-0927
+Phone: +1-253-323-0927
+
+[Nservers]
+Nserver: ns1.idnscan.net
+Nserver: ns2.idnscan.net
+
+[Whois]
+Updated: 2011-09-17T11:12:24.761060+00:00

@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 09:08:05 (BRT -03:00)
+
+domain:      hoteldaweb.com.br
+owner:       Blink Inform&aacute;tica Ltda
+ownerid:     004.781.207/0001-00
+responsible: Depto de Registro
+country:     BR
+owner-c:     RAP139
+admin-c:     RAP139
+tech-c:      RAP139
+billing-c:   RAP139
+nserver:     ns.hoteldaweb.com.br 75.125.35.242
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.hoteldaweb.com.br 75.125.35.243
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20020404 #773810
+expires:     20120404
+changed:     20110310
+status:      published
+
+nic-hdl-br:  RAP139
+person:      Rafael Pires
+e-mail:      registro1@hoteldanet.com.br
+created:     20001020
+changed:     20110303
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

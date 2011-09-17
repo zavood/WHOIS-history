@@ -1,0 +1,31 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'baratian.ir'
+
+
+domain:		baratian.ir
+ascii:		baratian.ir
+remarks:	(Domain Holder) Ali Baratian
+remarks:	(Domain Holder Address) No. 60, 9th Vila, Abobargh, Mashhad, Khorasan, IR
+holder-c:	ab309-irnic
+admin-c:	ab309-irnic
+tech-c:		ab309-irnic
+nserver:	cp1.irwhost.com
+nserver:	cp2.irwhost.com
+last-updated:	2010-10-30
+source:		IRNIC # Filtered
+
+nic-hdl:	ab309-irnic
+person:		Ali Baratian
+e-mail:		baratian84@gmail.com
+address:	No. 60, 9th Vila, Abobargh, Mashhad, Khorasan, IR
+phone:		+989352549017
+fax-no:		+985118684831
+source:		IRNIC # Filtered
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3373510-LROR
+Domain Name:GERMANY-INFO.ORG
+Created On:17-Jan-1996 05:00:00 UTC
+Last Updated On:26-Feb-2010 10:03:54 UTC
+Expiration Date:18-Jan-2012 05:00:00 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:OK
+Registrant ID:ABM-10859855
+Registrant Name:Hinrich Thoelken
+Registrant Organization:Auswaertiges Amt
+Registrant Street1:Werderscher Markt 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Berlin
+Registrant State/Province:Berlin
+Registrant Postal Code:10117
+Registrant Country:DE
+Registrant Phone:+49.30500057922
+Registrant Phone Ext.:
+Registrant FAX:+49.3050007922
+Registrant FAX Ext.:
+Registrant Email:k02-0@auswaertiges-amt.de
+Admin ID:ABM-10859855
+Admin Name:Hinrich Thoelken
+Admin Organization:Auswaertiges Amt
+Admin Street1:Werderscher Markt 1
+Admin Street2:
+Admin Street3:
+Admin City:Berlin
+Admin State/Province:Berlin
+Admin Postal Code:10117
+Admin Country:DE
+Admin Phone:+49.30500057922
+Admin Phone Ext.:
+Admin FAX:+49.3050007922
+Admin FAX Ext.:
+Admin Email:k02-0@auswaertiges-amt.de
+Tech ID:ABM-10168371
+Tech Name:Harald Babiel
+Tech Organization:Babiel GmbH
+Tech Street1:Moskauer Strasse 27
+Tech Street2:
+Tech Street3:
+Tech City:Duesseldorf
+Tech State/Province:NRW
+Tech Postal Code:40227
+Tech Country:DE
+Tech Phone:+49.2111793490
+Tech Phone Ext.:
+Tech FAX:+49.21117934929
+Tech FAX Ext.:
+Tech Email:admin@babiel.com
+Name Server:NS0.DNS-NET.DE
+Name Server:NS2.BABIEL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

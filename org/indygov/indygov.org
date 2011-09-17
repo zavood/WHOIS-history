@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1183448-LROR
+Domain Name:INDYGOV.ORG
+Created On:19-Feb-1997 05:00:00 UTC
+Last Updated On:22-Dec-2010 18:42:38 UTC
+Expiration Date:20-Feb-2013 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:5665564-NSI
+Registrant Name:CITYOFINDIANAPOLIS MARION COUNTY
+Registrant Organization:CITYOFINDIANAPOLIS MARION COUNTY
+Registrant Street1:200 E WASHINGTON ST STE 1960
+Registrant Street2:
+Registrant Street3:
+Registrant City:INDIANAPOLIS
+Registrant State/Province:IN
+Registrant Postal Code:46204-3327
+Registrant Country:US
+Registrant Phone:+1.3173273100
+Registrant Phone Ext.:
+Registrant FAX:+1.3173275696
+Registrant FAX Ext.:
+Registrant Email:webmaster@indygov.org
+Admin ID:5665564-NSI
+Admin Name:CITYOFINDIANAPOLIS MARION COUNTY
+Admin Organization:CITYOFINDIANAPOLIS MARION COUNTY
+Admin Street1:200 E WASHINGTON ST STE 1960
+Admin Street2:
+Admin Street3:
+Admin City:INDIANAPOLIS
+Admin State/Province:IN
+Admin Postal Code:46204-3327
+Admin Country:US
+Admin Phone:+1.3173273100
+Admin Phone Ext.:
+Admin FAX:+1.3173275696
+Admin FAX Ext.:
+Admin Email:webmaster@indygov.org
+Tech ID:5665564-NSI
+Tech Name:CITYOFINDIANAPOLIS MARION COUNTY
+Tech Organization:CITYOFINDIANAPOLIS MARION COUNTY
+Tech Street1:200 E WASHINGTON ST STE 1960
+Tech Street2:
+Tech Street3:
+Tech City:INDIANAPOLIS
+Tech State/Province:IN
+Tech Postal Code:46204-3327
+Tech Country:US
+Tech Phone:+1.3173273100
+Tech Phone Ext.:
+Tech FAX:+1.3173275696
+Tech FAX Ext.:
+Tech Email:webmaster@indygov.org
+Name Server:NS1.TWTELECOM.NET
+Name Server:NS2.TWTELECOM.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

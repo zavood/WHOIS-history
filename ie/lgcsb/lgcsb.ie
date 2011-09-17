@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      lgcsb.ie
+descr:       Local Government Computer Services Board
+descr:       Statutory Body
+descr:       Registered Trade Mark Name
+admin-c:     AAE968-IEDR
+tech-c:      AAE913-IEDR
+renewal:     19-September-2011
+status:      Active
+nserver:     NS1.LGCSB.IE 193.178.1.8
+nserver:     NS2.LGCSB.IE 193.178.30.8
+nserver:     VMS.EUROKOM.IE
+source:      IEDR
+
+person:      Cyrl Prout
+nic-hdl:     AAE968-IEDR
+source:      IEDR
+
+person:      Hostmaster
+nic-hdl:     AAE913-IEDR
+source:      IEDR
+
