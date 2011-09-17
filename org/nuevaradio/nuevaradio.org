@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D27269468-LROR
+Domain Name:NUEVARADIO.ORG
+Created On:17-May-2000 10:34:33 UTC
+Last Updated On:03-May-2011 07:45:31 UTC
+Expiration Date:17-May-2012 10:34:33 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tud8Ot4sLVmzuPlS
+Registrant Name:Mette Martinsen
+Registrant Organization:Visual Web Sverige
+Registrant Street1:Box 48
+Registrant Street2:
+Registrant Street3:
+Registrant City:Veberod
+Registrant State/Province:
+Registrant Postal Code:24014
+Registrant Country:SE
+Registrant Phone:+46.4685429
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@isphuset.se
+Admin ID:tut5Jn6EnznBwZBN
+Admin Name:Freningen Atlanten
+Admin Street1:Grvdersvgen 4G
+Admin Street2:
+Admin Street3:
+Admin City:Lund
+Admin State/Province:-
+Admin Postal Code:22228
+Admin Country:SE
+Admin Phone:+46.46335353
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@nuevaradio.org
+Tech ID:tuaq4qo0KocFCMFz
+Tech Name:Freningen Atlanten
+Tech Street1:Grvdersvgen 4G
+Tech Street2:
+Tech Street3:
+Tech City:Lund
+Tech State/Province:-
+Tech Postal Code:22228
+Tech Country:SE
+Tech Phone:+46.46335353
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webmaster@nuevaradio.org
+Name Server:NS1.LUNARBREEZE.COM
+Name Server:NS2.LUNARBREEZE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

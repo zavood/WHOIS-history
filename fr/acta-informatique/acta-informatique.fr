@@ -1,0 +1,105 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; acta-informatique.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      acta-informatique.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    AI2656-FRNIC
+admin-c:     AI174-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL13550-FRNIC
+registrar:   GANDI
+anniversary: 24/04
+created:     01/04/1998
+last-update: 07/07/2010
+source:      FRNIC
+
+ns-list:     NSL13550-FRNIC
+nserver:     a.dns.gandi.net
+nserver:     b.dns.gandi.net
+nserver:     c.dns.gandi.net
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     AI2656-FRNIC
+type:        ORGANIZATION
+contact:     ACTA INFORMATIQUE
+address:     149, rue de Bercy
+address:     75012 Paris
+country:     FR
+phone:       +33 1 40 04 50 35
+e-mail:      archier@acta-informatique.fr
+changed:     19/05/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AI174-FRNIC
+type:        ORGANIZATION
+contact:     ACTA INFORMATIQUE
+address:     ACTA INFORMATIQUE
+address:     149, rue de Bercy
+address:     75012 Paris
+country:     FR
+phone:       +33 1 40 04 50 35
+fax-no:      +33 1 40 04 50 11
+e-mail:      ee71c6f93a83d8680ba21d7902bf6ea5-878198@contact.gandi.net
+changed:     14/09/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

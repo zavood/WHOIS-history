@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 21-oct-1999
    Expiration Date: 21-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:24:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 00:21:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: hoskal.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 13:15:02 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Fri Sep 16 20:11:48 EDT 2011
 Reason Code: IE

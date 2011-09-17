@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158008923-LROR
+Domain Name:LOANSHELPER.ORG
+Created On:08-Jan-2010 17:50:01 UTC
+Last Updated On:27-Aug-2010 18:48:07 UTC
+Expiration Date:08-Jan-2012 17:50:01 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR40004152
+Registrant Name:Lance Schafer
+Registrant Organization:Long Tail Ventures Inc.
+Registrant Street1:305-171 Donald Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Winnipeg
+Registrant State/Province:Manitoba
+Registrant Postal Code:R3C1M4
+Registrant Country:CA
+Registrant Phone:+1.2049892005
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:lschafer@pointofimpact.com
+Admin ID:CR40004161
+Admin Name:Lance Schafer
+Admin Organization:Long Tail Ventures Inc.
+Admin Street1:305-171 Donald Street
+Admin Street2:
+Admin Street3:
+Admin City:Winnipeg
+Admin State/Province:Manitoba
+Admin Postal Code:R3C1M4
+Admin Country:CA
+Admin Phone:+1.2049892005
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:lschafer@pointofimpact.com
+Tech ID:CR40004158
+Tech Name:Lance Schafer
+Tech Organization:Long Tail Ventures Inc.
+Tech Street1:305-171 Donald Street
+Tech Street2:
+Tech Street3:
+Tech City:Winnipeg
+Tech State/Province:Manitoba
+Tech Postal Code:R3C1M4
+Tech Country:CA
+Tech Phone:+1.2049892005
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:lschafer@pointofimpact.com
+Name Server:NS115.HOSTGATOR.COM
+Name Server:NS116.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

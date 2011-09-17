@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105269324-LROR
+Domain Name:HOW-TO-TIE-A-TIE.ORG
+Created On:30-Nov-2004 15:37:51 UTC
+Last Updated On:02-Dec-2009 19:12:51 UTC
+Expiration Date:30-Nov-2011 15:37:51 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31051678
+Registrant Name:Mike Schommer
+Registrant Organization:Enfo LLC
+Registrant Street1:7228 Main St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Port Sanilac
+Registrant State/Province:Michigan
+Registrant Postal Code:48469
+Registrant Country:US
+Registrant Phone:+1.8106228977
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sales@enfollc.com
+Admin ID:CR31051680
+Admin Name:Mike Schommer
+Admin Organization:Enfo LLC
+Admin Street1:7228 Main St.
+Admin Street2:
+Admin Street3:
+Admin City:Port Sanilac
+Admin State/Province:Michigan
+Admin Postal Code:48469
+Admin Country:US
+Admin Phone:+1.8106228977
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sales@enfollc.com
+Tech ID:CR31051679
+Tech Name:Mike Schommer
+Tech Organization:Enfo LLC
+Tech Street1:7228 Main St.
+Tech Street2:
+Tech Street3:
+Tech City:Port Sanilac
+Tech State/Province:Michigan
+Tech Postal Code:48469
+Tech Country:US
+Tech Phone:+1.8106228977
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sales@enfollc.com
+Name Server:NS01.DOMAINCONTROL.COM
+Name Server:NS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

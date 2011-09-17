@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104695136-LROR
+Domain Name:KOTOBUKIMARU.ORG
+Created On:28-Jul-2004 07:56:34 UTC
+Last Updated On:27-May-2011 06:57:27 UTC
+Expiration Date:28-Jul-2012 07:56:34 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:C109097476523893
+Registrant Name:Suzuki Toshihiro
+Registrant Organization:_
+Registrant Street1:1-4-9 benten
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hitachi
+Registrant State/Province:Ibaraki
+Registrant Postal Code:541-0056
+Registrant Country:JP
+Registrant Phone:+81.81662654830
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nic-staff@sakura.ad.jp
+Admin ID:C109097476523890
+Admin Name:Toshihiro Suzuki
+Admin Organization:_
+Admin Street1:1-4-9 benten
+Admin Street2:
+Admin Street3:
+Admin City:Hitachi
+Admin State/Province:Ibaraki
+Admin Postal Code:541-0056
+Admin Country:JP
+Admin Phone:+81.81662654830
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nic-staff@sakura.ad.jp
+Tech ID:C109097476523892
+Tech Name:Internet SAKURA
+Tech Organization:_
+Tech Street1:1-9-26-3F Kyutaro-cho, Chuo-ku
+Tech Street2:
+Tech Street3:
+Tech City:Osaka
+Tech State/Province:Osaka
+Tech Postal Code:541-0056
+Tech Country:JP
+Tech Phone:+81.81662654830
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:nic-staff@sakura.ad.jp
+Name Server:NS1.DNS.NE.JP
+Name Server:NS2.DNS.NE.JP
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

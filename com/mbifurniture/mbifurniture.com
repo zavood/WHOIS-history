@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 30-may-1997
    Expiration Date: 29-may-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:09:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 00:31:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: mbifurniture.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 14:59:32 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Fri Sep 16 20:27:41 EDT 2011
 Reason Code: IE

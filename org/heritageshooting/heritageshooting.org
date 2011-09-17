@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D88064113-LROR
+Domain Name:HERITAGESHOOTING.ORG
+Created On:02-Jul-2002 18:16:49 UTC
+Last Updated On:28-Jun-2010 12:10:08 UTC
+Expiration Date:02-Jul-2013 18:22:16 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tu8vqSQR1fSbtkI1
+Registrant Name:Jeff Laughland
+Registrant Organization:Heritage Shooting, Inc.
+Registrant Street1:PO Box 528
+Registrant Street2:
+Registrant Street3:
+Registrant City:Oconomowoc
+Registrant State/Province:WI
+Registrant Postal Code:53066
+Registrant Country:US
+Registrant Phone:+1.2628201827
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@heritageshooting.org
+Admin ID:turV2uekipxqYNVC
+Admin Name:Jeff Laughland
+Admin Organization:Heritage Shooting, Inc.
+Admin Street1:PO Box 528
+Admin Street2:
+Admin Street3:
+Admin City:Oconomowoc
+Admin State/Province:WI
+Admin Postal Code:53066
+Admin Country:US
+Admin Phone:+1.2628201827
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@heritageshooting.org
+Tech ID:turNLaw5utRzS5gb
+Tech Name:Jeff Laughland
+Tech Organization:Heritage Shooting, Inc.
+Tech Street1:PO Box 528
+Tech Street2:
+Tech Street3:
+Tech City:Oconomowoc
+Tech State/Province:WI
+Tech Postal Code:53066
+Tech Country:US
+Tech Phone:+1.2628201827
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@heritageshooting.org
+Name Server:NS1.BLUEDOMINO.NET
+Name Server:NS2.BLUEDOMINO.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

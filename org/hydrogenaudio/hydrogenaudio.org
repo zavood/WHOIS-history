@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D77568647-LROR
+Domain Name:HYDROGENAUDIO.ORG
+Created On:21-Sep-2001 00:14:11 UTC
+Last Updated On:13-Sep-2011 02:49:03 UTC
+Expiration Date:21-Sep-2012 00:14:11 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:RENEWPERIOD
+Registrant ID:E7F383DADAF91190
+Registrant Name:Darin Morrison
+Registrant Organization:Darin Morrison
+Registrant Street1:625 SW Jackson St., Apt #965
+Registrant Street2:
+Registrant Street3:
+Registrant City:Portland
+Registrant State/Province:OR
+Registrant Postal Code:97201
+Registrant Country:US
+Registrant Phone:+1.5037298497
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:goardgvwyse@gmail.com
+Admin ID:E7F383DADAF91190
+Admin Name:Darin Morrison
+Admin Organization:Darin Morrison
+Admin Street1:625 SW Jackson St., Apt #965
+Admin Street2:
+Admin Street3:
+Admin City:Portland
+Admin State/Province:OR
+Admin Postal Code:97201
+Admin Country:US
+Admin Phone:+1.5037298497
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:goardgvwyse@gmail.com
+Tech ID:E7F383DADAF91190
+Tech Name:Darin Morrison
+Tech Organization:Darin Morrison
+Tech Street1:625 SW Jackson St., Apt #965
+Tech Street2:
+Tech Street3:
+Tech City:Portland
+Tech State/Province:OR
+Tech Postal Code:97201
+Tech Country:US
+Tech Phone:+1.5037298497
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:goardgvwyse@gmail.com
+Name Server:NS1.SJENG.ORG
+Name Server:NS2.SJENG.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

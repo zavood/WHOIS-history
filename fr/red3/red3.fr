@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; red3.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      red3.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    F973-FRNIC
+admin-c:     MT634-FRNIC
+tech-c:      FF161-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL11146-FRNIC
+registrar:   FULLSIX FRANCE
+anniversary: 22/07
+created:     22/07/2005
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL11146-FRNIC
+nserver:     draco.fullsix.com
+nserver:     gemini.fullsix.com
+nserver:     ns.red3.fr [62.210.191.168]
+source:      FRNIC
+
+registrar:   FULLSIX FRANCE
+type:        Isp Option 2
+address:     157 Rue Anatole France
+address:     LEVALLOIS-PERRET
+country:     FR
+phone:       +33 1 49 68 73 00
+fax-no:      +33 1 49 68 74 94
+e-mail:      contact@fullsix.com
+anonymous:   NO
+registered:  09/01/1998
+source:      FRNIC
+
+nic-hdl:     FF161-FRNIC
+type:        ROLE
+contact:     FullSIX France
+address:     FullSIX
+address:     63bis, rue de Sevres
+address:     92514 Boulogne-Billancourt Cedex
+country:     FR
+phone:       +33 1 46 84 85 23
+fax-no:      +33 1 46 84 09 97
+e-mail:      nic@fullsix.com
+admin-c:     MT634-FRNIC
+tech-c:      YD49-FRNIC
+notify:      nic@fullsix.com
+changed:     17/12/2001 nic@fullsix.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MT634-FRNIC
+type:        PERSON
+contact:     Marco Tinelli
+address:     157, rue Anatole France
+address:     92300 Levallois-Perret
+country:     FR
+phone:       +33 1 49 68 73 00
+fax-no:      +33 1 49 68 73 18
+e-mail:      nic@fullsix.com
+changed:     27/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     F973-FRNIC
+type:        ORGANIZATION
+contact:     Fullsix
+address:     123, rue Jules Guesde
+address:     92300 Levallois-Perret
+country:     FR
+phone:       +33 1 49 68 73 00
+e-mail:      nic@fullsix.com
+changed:     11/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

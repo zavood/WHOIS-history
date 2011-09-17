@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 15-dec-2010
    Expiration Date: 15-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 22:36:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 00:31:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,34 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Clever Garcia
-   San Antonio de Los Altos
-   Estado Miranda
-   San Antonio de Los Altos, Estado Miranda 1204
-   Venezuela
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: MAGISTERVENEZUELA.COM
-      Created on: 15-Dec-10
-      Expires on: 15-Dec-11
-      Last Updated on: 15-Dec-10
-
-   Administrative Contact:
-      Garcia, Clever  gerencia.venturismo@gmail.com
-      San Antonio de Los Altos
-      Estado Miranda
-      San Antonio de Los Altos, Estado Miranda 1204
-      Venezuela
-      04129737082      Fax --
-
-   Technical Contact:
-      Garcia, Clever  gerencia.venturismo@gmail.com
-      San Antonio de Los Altos
-      Estado Miranda
-      San Antonio de Los Altos, Estado Miranda 1204
-      Venezuela
-      04129737082      Fax --
 
    Domain servers in listed order:
       NS01.DOMAINCONTROL.COM
       NS02.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=MAGISTERVENEZUELA.COM

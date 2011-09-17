@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; cnfpt.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cnfpt.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    C3212-FRNIC
+admin-c:     JMC54-FRNIC
+tech-c:      PS10099-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1566-FRNIC
+registrar:   PLANET SERVICE
+anniversary: 27/10
+created:     05/10/1998
+last-update: 24/08/2011
+source:      FRNIC
+
+ns-list:     NSL1566-FRNIC
+nserver:     a.ns.planet-service.fr [62.4.78.143]
+nserver:     b.ns.planet-service.fr [84.233.158.133]
+source:      FRNIC
+
+registrar:   PLANET SERVICE
+type:        Isp Option 2
+address:     69 Rue de Lyon
+address:     PARIS
+country:     FR
+phone:       +33 1 43 37 02 04
+fax-no:      +33 1 43 40 35 96
+e-mail:      ctc@planet-service.com
+website:     http://www.planet-service.com
+anonymous:   NO
+registered:  10/04/2000
+source:      FRNIC
+
+nic-hdl:     C3212-FRNIC
+type:        ORGANIZATION
+contact:     CNFPT
+address:     10-12, rue d'Anjou
+address:     75381 Paris Cedex 8
+country:     FR
+changed:     12/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JMC54-FRNIC
+type:        PERSON
+contact:     Jean-Michel Carsuzaa
+address:     CNFPT
+address:     80, rue de Reuilly
+address:     75012 Paris
+country:     FR
+phone:       +33 1 55 27 44 00
+fax-no:      +33 1 55 27 44 01
+e-mail:      jeanmichel.carsuzaa@cnfpt.fr
+changed:     24/08/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PS10099-FRNIC
+type:        ROLE
+contact:     planet service
+address:     Planet Service
+address:     69, rue de Lyon
+address:     75012 Paris
+country:     FR
+e-mail:      riperole@planet-service.com
+trouble:     Informations: http://planet-service.com
+trouble:     Questions: mailto@contact@planet-service.com
+admin-c:     PL4371-FRNIC
+tech-c:      PL4371-FRNIC
+notify:      riperole@planet-service.com
+changed:     29/01/2008 riperole@planet-service.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

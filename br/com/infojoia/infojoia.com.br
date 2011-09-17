@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 21:24:02 (BRT -03:00)
+
+domain:      infojoia.com.br
+owner:       IBGM - INSTITUTO BRASILEIRO DE GEMAS E METAIS
+ownerid:     029.527.793/0002-64
+responsible: Ecio Morais
+country:     BR
+owner-c:     EBM19
+admin-c:     EBM19
+tech-c:      EBM19
+billing-c:   EBM19
+nserver:     ns1.locaweb.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.locaweb.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20080420 #4405568
+expires:     20120420
+changed:     20110330
+status:      published
+
+nic-hdl-br:  EBM19
+person:      Ecio Barbosa de Morais
+e-mail:      tecnico@ibgm.com.br
+created:     20000404
+changed:     20110608
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

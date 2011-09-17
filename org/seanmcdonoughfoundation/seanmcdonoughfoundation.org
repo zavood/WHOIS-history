@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98417157-LROR
+Domain Name:SEANMCDONOUGHFOUNDATION.ORG
+Created On:16-Jul-2003 15:41:24 UTC
+Last Updated On:24-Aug-2010 00:26:01 UTC
+Expiration Date:16-Jul-2017 15:41:24 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR50808771
+Registrant Name:Erin McDonough
+Registrant Organization:Sean McDonough Charitable Foundation
+Registrant Street1:PO Box 710217
+Registrant Street2:
+Registrant Street3:
+Registrant City:North Quincy
+Registrant State/Province:Massachusetts
+Registrant Postal Code:02171
+Registrant Country:US
+Registrant Phone:+1.6179840660
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:seanmcdonoughfoundation@comcast.net
+Admin ID:CR50808773
+Admin Name:Erin McDonough
+Admin Organization:Sean McDonough Charitable Foundation
+Admin Street1:PO Box 710217
+Admin Street2:
+Admin Street3:
+Admin City:North Quincy
+Admin State/Province:Massachusetts
+Admin Postal Code:02171
+Admin Country:US
+Admin Phone:+1.6179840660
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:seanmcdonoughfoundation@comcast.net
+Tech ID:CR50808772
+Tech Name:Domain Registrar
+Tech Organization:Register.Com
+Tech Street1:575 8th Avenue
+Tech Street2:11th Floor
+Tech Street3:
+Tech City:New York
+Tech State/Province:New York
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027495429
+Tech FAX Ext.:
+Tech Email:domain-registrar@register.com
+Name Server:NS49.DOMAINCONTROL.COM
+Name Server:NS50.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

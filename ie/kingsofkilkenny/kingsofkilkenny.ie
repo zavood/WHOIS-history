@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      kingsofkilkenny.ie
+descr:       Kings of Kilkenny Limited
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     AAZ792-IEDR
+tech-c:      TDI2-IEDR
+renewal:     20-October-2011
+status:      Active
+nserver:     ns1.webhostingireland.ie
+nserver:     ns2.webhostingireland.ie
+nserver:     ns3.webhostingireland.ie
+source:      IEDR
+
+person:      Wolfgang Schnittger
+nic-hdl:     AAZ792-IEDR
+source:      IEDR
+
+person:      Technical Department Irish Domains
+nic-hdl:     TDI2-IEDR
+source:      IEDR
+
