@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D26255204-LROR
+Domain Name:ALSAPLAYER.ORG
+Created On:03-May-2000 10:11:39 UTC
+Last Updated On:19-Apr-2011 13:49:58 UTC
+Expiration Date:03-May-2012 10:11:39 UTC
+Sponsoring Registrar:DomainPeople, Inc. (R30-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DPRP-2107566
+Registrant Name:Andy Lo-A-Foe
+Registrant Organization:Internet New Business Concepts
+Registrant Street1:Minstraat 6
+Registrant Street2:
+Registrant Street3:
+Registrant City:Utrecht
+Registrant State/Province:
+Registrant Postal Code:3582 CC
+Registrant Country:NL
+Registrant Phone:+31.622440695
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:postmaster@fedora.nl
+Admin ID:DPRP-12007254
+Admin Name:Andy Lo-A-Foe
+Admin Organization:Lo-A-Foe
+Admin Street1:J.S. Ruppertstraat 17
+Admin Street2:
+Admin Street3:
+Admin City:Amsterdam
+Admin State/Province:NH
+Admin Postal Code:1069 KJ
+Admin Country:NL
+Admin Phone:+31.624363072
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:postmaster@fedora.nl
+Tech ID:DPRP-12007256
+Tech Name:Andy Lo-A-Foe
+Tech Organization:Lo-A-Foe
+Tech Street1:J.S. Ruppertstraat 17
+Tech Street2:
+Tech Street3:
+Tech City:Amsterdam
+Tech State/Province:NH
+Tech Postal Code:1069 KJ
+Tech Country:NL
+Tech Phone:+31.624363072
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:postmaster@fedora.nl
+Name Server:NS3.INBC-HOSTING.NL
+Name Server:NS4.INBC-HOSTING.NL
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

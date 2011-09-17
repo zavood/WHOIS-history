@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D19450486-LROR
+Domain Name:RAINBOWPCA.ORG
+Created On:09-Feb-2000 03:01:11 UTC
+Last Updated On:11-Jan-2007 16:43:21 UTC
+Expiration Date:09-Feb-2016 03:01:11 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:18667620-NSI
+Registrant Name:Rainbow Presbyterian Church
+Registrant Organization:Rainbow Presbyterian Church
+Registrant Street1:3220 Rainbow Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Rainbow City
+Registrant State/Province:AL
+Registrant Postal Code:35906
+Registrant Country:US
+Registrant Phone:+1.2564423440
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:vincenthill@earthlink.net
+Admin ID:18852978-NSI
+Admin Name:Rainbow Presbyterian Church
+Admin Organization:Rainbow Presbyterian Church
+Admin Street1:3220 Rainbow Drive
+Admin Street2:
+Admin Street3:
+Admin City:Rainbow City
+Admin State/Province:AL
+Admin Postal Code:35906
+Admin Country:US
+Admin Phone:+1.2564423440
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:vincenthill@earthlink.net
+Tech ID:18821590-NSI
+Tech Name:Host Master
+Tech Organization:Host Master
+Tech Street1:1401 Main Street Suite 850
+Tech Street2:
+Tech Street3:
+Tech City:Columbia
+Tech State/Province:SC
+Tech Postal Code:29201
+Tech Country:US
+Tech Phone:+1.8039391747
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dns@xeran.com
+Name Server:NS0.ITICOM.NET
+Name Server:NS1.ITICOM.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

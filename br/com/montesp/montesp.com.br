@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 18:16:12 (BRT -03:00)
+
+domain:      montesp.com.br
+owner:       Montesp Com&eacute;rcio e Montagens Ltda.
+ownerid:     054.208.053/0001-21
+responsible: Alvaro Douglas Del Col Sanchez
+country:     BR
+owner-c:     ADS151
+admin-c:     ADS43
+tech-c:      SAMDL
+billing-c:   ADS43
+nserver:     ns1.smartmarketingdigital.com
+nsstat:      20110910 AA
+nslastaa:    20110910
+nserver:     ns2.smartmarketingdigital.com
+nsstat:      20110910 AA
+nslastaa:    20110910
+created:     19980820 #112520
+expires:     20190820
+changed:     20101025
+status:      published
+
+nic-hdl-br:  ADS151
+person:      Alvaro Douglas D. C Sanches
+e-mail:      alvarodouglas@montesp.com.br
+created:     20000428
+changed:     20101025
+
+nic-hdl-br:  ADS43
+person:      Alvaro Douglas Del Col Sanchez
+e-mail:      alvarodouglas@montesp.com.br
+created:     19980819
+changed:     20101025
+
+nic-hdl-br:  SAMDL
+person:      SMART AD MARKETING DIGITAL LTDA
+e-mail:      comercial@smartmarketing.com.br
+created:     20090629
+changed:     20110604
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

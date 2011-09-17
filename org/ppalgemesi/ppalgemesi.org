@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161148586-LROR
+Domain Name:PPALGEMESI.ORG
+Created On:08-Jan-2011 18:10:23 UTC
+Last Updated On:10-Mar-2011 03:49:32 UTC
+Expiration Date:08-Jan-2012 18:10:23 UTC
+Sponsoring Registrar:Arsys Internet, S.L. dba nicline.com (R144-LROR)
+Status:OK
+Registrant ID:ARS1294510211400
+Registrant Name:Associacio Popular del Grup Popular d Algemesi
+Registrant Organization:NULL
+Registrant Street1:C  Plaza del Mercat 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Algemesi
+Registrant State/Province:VALENCIA
+Registrant Postal Code:46680
+Registrant Country:ES
+Registrant Phone:+34.649284594
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:fraalri@hotmail.com
+Admin ID:ARS1294510211914
+Admin Name:Associacio Popular del Grup Popular dAlgemesi
+Admin Organization:NULL
+Admin Street1:C  Plaza del Mercat 1
+Admin Street2:
+Admin Street3:
+Admin City:Algemesi
+Admin State/Province:VALENCIA
+Admin Postal Code:46680
+Admin Country:ES
+Admin Phone:+34.649284594
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:fraalri@hotmail.com
+Tech ID:ARS1294510213270
+Tech Name:Associacio Popular del Grup Popular dAlgemesi
+Tech Organization:NULL
+Tech Street1:C  Plaza del Mercat 1
+Tech Street2:
+Tech Street3:
+Tech City:Algemesi
+Tech State/Province:VALENCIA
+Tech Postal Code:46680
+Tech Country:ES
+Tech Phone:+34.649284594
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:fraalri@hotmail.com
+Name Server:DNS21.SERVIDORESDNS.NET
+Name Server:DNS22.SERVIDORESDNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

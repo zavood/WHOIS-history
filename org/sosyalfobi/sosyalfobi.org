@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148559969-LROR
+Domain Name:SOSYALFOBI.ORG
+Created On:12-Jul-2007 10:47:13 UTC
+Last Updated On:19-Jul-2011 06:06:29 UTC
+Expiration Date:12-Jul-2012 10:47:13 UTC
+Sponsoring Registrar:IHS Telekom, Inc. (R1705-LROR)
+Status:OK
+Registrant ID:DI_6856419
+Registrant Name:Arda YILDIRIM
+Registrant Organization:Arda YILDIRIM
+Registrant Street1:Arda YILDIRIM
+Registrant Street2:Arda YILDIRIM
+Registrant Street3:Arda YILDIRIM
+Registrant City:Istanbul
+Registrant State/Province:
+Registrant Postal Code:340030
+Registrant Country:TR
+Registrant Phone:+90.5058519284
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:arda@inbox.com
+Admin ID:DI_6856419
+Admin Name:Arda YILDIRIM
+Admin Organization:Arda YILDIRIM
+Admin Street1:Arda YILDIRIM
+Admin Street2:Arda YILDIRIM
+Admin Street3:Arda YILDIRIM
+Admin City:Istanbul
+Admin State/Province:
+Admin Postal Code:340030
+Admin Country:TR
+Admin Phone:+90.5058519284
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:arda@inbox.com
+Tech ID:DI_6856419
+Tech Name:Arda YILDIRIM
+Tech Organization:Arda YILDIRIM
+Tech Street1:Arda YILDIRIM
+Tech Street2:Arda YILDIRIM
+Tech Street3:Arda YILDIRIM
+Tech City:Istanbul
+Tech State/Province:
+Tech Postal Code:340030
+Tech Country:TR
+Tech Phone:+90.5058519284
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:arda@inbox.com
+Name Server:NS875.WEBSITEWELCOME.COM
+Name Server:NS876.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

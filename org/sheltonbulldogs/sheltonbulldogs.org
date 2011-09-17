@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158694785-LROR
+Domain Name:SHELTONBULLDOGS.ORG
+Created On:25-Mar-2010 18:24:28 UTC
+Last Updated On:25-May-2010 03:48:47 UTC
+Expiration Date:25-Mar-2013 18:24:28 UTC
+Sponsoring Registrar:DirectNIC, LTD (R48-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:ODN-500813
+Registrant Name:FES Internet
+Registrant Organization:FES
+Registrant Street1:1300 O Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lincoln
+Registrant State/Province:NE
+Registrant Postal Code:68508
+Registrant Country:US
+Registrant Phone:+1.4024796930
+Registrant Phone Ext.:
+Registrant FAX:+1.4024796658
+Registrant FAX Ext.:
+Registrant Email:inet@fes.org
+Admin ID:ODN-523308
+Admin Name:FES Domain Administration
+Admin Organization:FES
+Admin Street1:1300 O Street
+Admin Street2:
+Admin Street3:
+Admin City:Lincoln
+Admin State/Province:NE
+Admin Postal Code:68508
+Admin Country:US
+Admin Phone:+1.4024796930
+Admin Phone Ext.:
+Admin FAX:+1.4024796658
+Admin FAX Ext.:
+Admin Email:inet@fes.org
+Tech ID:ODN-523309
+Tech Name:FES Technical Administration
+Tech Organization:FES
+Tech Street1:1300 O Street
+Tech Street2:
+Tech Street3:
+Tech City:Lincoln
+Tech State/Province:NE
+Tech Postal Code:68508
+Tech Country:US
+Tech Phone:+1.4024796930
+Tech Phone Ext.:
+Tech FAX:+1.4024796658
+Tech FAX Ext.:
+Tech Email:inet@fes.org
+Name Server:NS0.DIRECTNIC.COM
+Name Server:NS1.DIRECTNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

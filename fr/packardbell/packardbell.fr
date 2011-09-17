@@ -1,0 +1,78 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; packardbell.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      packardbell.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    PBF39-FRNIC
+admin-c:     PBF39-FRNIC
+tech-c:      AA4055-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL27077-FRNIC
+registrar:   EURODNS S.A.
+anniversary: 05/08
+created:     25/02/2008
+last-update: 05/08/2010
+source:      FRNIC
+
+ns-list:     NSL27077-FRNIC
+nserver:     ns1.acer.com
+nserver:     ns2.acer.com
+source:      FRNIC
+
+registrar:   EURODNS S.A.
+type:        Isp Option 1
+address:     2 Rue L&eacute;on Laval
+address:     L-3372 LEUDELANGE
+country:     LU
+phone:       +352 26 19 16 1
+e-mail:      staff@eurodns.com
+website:     http://www.eurodns.com
+anonymous:   NO
+registered:  24/09/2003
+source:      FRNIC
+
+nic-hdl:     PBF39-FRNIC
+type:        ORGANIZATION
+contact:     PACKARD BELL FRANCE
+address:     PACKARD BELL FRANCE
+address:     165, avenue du Bois de la Pie
+address:     95940 Roissy Charles de Gaulle
+country:     FR
+phone:       +33 1 55 23 76 00
+e-mail:      dns_admin@acer.com
+changed:     08/07/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AA4055-FRNIC
+type:        PERSON
+contact:     Anouar Adlani
+address:     EuroDNS
+address:     2 rue Leon Laval
+address:     L-3372 Leudelange
+country:     LU
+phone:       +352.2637252
+fax-no:      +352.26372537
+e-mail:      staff@eurodns.com
+changed:     17/07/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

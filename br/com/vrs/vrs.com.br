@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-15 13:48:41 (BRT -03:00)
+%  2011-09-17 18:44:01 (BRT -03:00)
 
 domain:      vrs.com.br
 owner:       Via Rede Sul Servi&ccedil;o de Informatica Ltda
@@ -17,11 +17,11 @@ admin-c:     VIRSU
 tech-c:      VIRSU
 billing-c:   VIRSU
 nserver:     ns1.vrs.com.br 189.90.138.58
-nsstat:      20110915 AA
-nslastaa:    20110915
+nsstat:      20110917 AA
+nslastaa:    20110917
 nserver:     ns2.vrs.com.br 189.90.138.59
-nsstat:      20110915 AA
-nslastaa:    20110915
+nsstat:      20110917 AA
+nslastaa:    20110917
 created:     19960722 #12234
 expires:     20120722
 changed:     20110630

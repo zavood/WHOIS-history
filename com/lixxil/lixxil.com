@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 17-mar-2009
    Expiration Date: 17-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:42:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 21:08:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,8 +117,8 @@ US
 Phone:         +1.7202492374
 Email Address: lixxil.com@protecteddomainservices.com
 
-Timestamp: 1316177000.2743
+Timestamp: 1316293714.975
 
 The Data in the Name.com LLC WHOIS database is provided by Name.com LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.  Name.com LLC does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Name.com LLC (or its systems). Name.com LLC reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
 
-Cached on: 2011-09-16T06:43:20-06:00
+Cached on: 2011-09-17T15:08:34-06:00

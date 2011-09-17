@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83878787-LROR
+Domain Name:SURDIMOBIL.ORG
+Created On:22-Feb-2002 10:42:31 UTC
+Last Updated On:04-May-2010 00:24:59 UTC
+Expiration Date:22-Feb-2012 10:42:31 UTC
+Sponsoring Registrar:OVH (R135-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ovh4bc0891f3465
+Registrant Name:maurice  hayard
+Registrant Street1:rue de l avenir 75
+Registrant Street2:
+Registrant Street3:
+Registrant City:grace hollogne
+Registrant State/Province:
+Registrant Postal Code:4460
+Registrant Country:BE
+Registrant Phone:+1.3243440530
+Registrant Phone Ext.:
+Registrant FAX:+1.3243440530
+Registrant FAX Ext.:
+Registrant Email:surdimobil@surdimobil.org
+Admin ID:ovh4bc08921d9gi
+Admin Name:Willem Kuypers
+Admin Organization:Pragmacom Main and Design
+Admin Street1:Al Cassette 11
+Admin Street2:
+Admin Street3:
+Admin City:Haltinne
+Admin State/Province:
+Admin Postal Code:5340
+Admin Country:BE
+Admin Phone:+32.81583380
+Admin Phone Ext.:
+Admin FAX:+32.81583381
+Admin FAX Ext.:
+Admin Email:dns@pragmacom.eu
+Tech ID:ovh4bc08921d9gi
+Tech Name:Willem Kuypers
+Tech Organization:Pragmacom Main and Design
+Tech Street1:Al Cassette 11
+Tech Street2:
+Tech Street3:
+Tech City:Haltinne
+Tech State/Province:
+Tech Postal Code:5340
+Tech Country:BE
+Tech Phone:+32.81583380
+Tech Phone Ext.:
+Tech FAX:+32.81583381
+Tech FAX Ext.:
+Tech Email:dns@pragmacom.eu
+Name Server:NS1.PRAGMACOM.BE
+Name Server:NS2.PRAGMACOM.BE
+Name Server:NS0.PRAGMACOM.BE
+Name Server:NS4.PRAGMACOM.BE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

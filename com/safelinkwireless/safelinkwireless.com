@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 24-jun-2008
    Expiration Date: 24-jun-2020
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 18:04:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 21:39:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,8 +76,8 @@ By submitting this query, you agree to abide by these terms.
    Registrant:
       TracFone Wireless Inc.
       TracFone Wireless Inc.
-      9700 N.W. 112th
-      Miami, FL 33178
+      9700 N.W. 112th AVE
+      Medley, FL 33178
       US
       Phone: +1.3057156500
       Email: dnsbilling@tracfone.com
@@ -95,7 +95,7 @@ By submitting this query, you agree to abide by these terms.
    Administrative Contact:
       TracFone Wireless Inc.
       TracFone Wireless Inc.
-      9700 N.W. 112th Street
+      9700 N.W. 112th AVE
       Medley, FL 33178
       US
       Phone: +1.3057156500
@@ -105,7 +105,7 @@ By submitting this query, you agree to abide by these terms.
    Technical  Contact:
       TracFone Wireless Inc.
       TracFone Wireless Inc.
-      9700 N.W. 112th Street
+      9700 N.W. 112th AVE
       Medley, FL 33178
       US
       Phone: +1.3057156500

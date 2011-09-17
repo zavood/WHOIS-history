@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104702966-LROR
+Domain Name:VYSOKA.ORG
+Created On:30-Jul-2004 07:32:35 UTC
+Last Updated On:11-Jul-2011 07:08:06 UTC
+Expiration Date:30-Jul-2013 07:32:35 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuEEmr2KNOIEvCNa
+Registrant Name:Farma Vysoka
+Registrant Organization:Farma Vysoka
+Registrant Street1:Frydlantska 131
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chrastava
+Registrant State/Province:LA
+Registrant Postal Code:46331
+Registrant Country:CZ
+Registrant Phone:+420.383835353
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:farmavysoka@seznam.cz
+Admin ID:tujqavueYGstqIW7
+Admin Name:Farma Vysoka
+Admin Organization:Farma Vysoka
+Admin Street1:Frydlantska 131
+Admin Street2:
+Admin Street3:
+Admin City:Chrastava
+Admin State/Province:LA
+Admin Postal Code:46331
+Admin Country:CZ
+Admin Phone:+420.383835353
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:farmavysoka@seznam.cz
+Tech ID:tuJjko34UymhdeI2
+Tech Name:P.E.S. consulting, s.r.o.
+Tech Organization:P.E.S. consulting, s.r.o.
+Tech Street1:Vaclavske namesti 17
+Tech Street2:
+Tech Street3:
+Tech City:Prague 1
+Tech State/Province:
+Tech Postal Code:11000
+Tech Country:CZ
+Tech Phone:+420.383835353
+Tech Phone Ext.:
+Tech FAX:+420.383835354
+Tech FAX Ext.:
+Tech Email:admin@psisco.com
+Name Server:NS.FORPSI.NET
+Name Server:NS.FORPSI.CZ
+Name Server:NS.FORPSI.IT
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

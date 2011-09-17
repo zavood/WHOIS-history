@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 29-apr-2005
    Expiration Date: 29-apr-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:44:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 21:20:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,8 +65,8 @@ Contact us to learn more about our enterprise solutions for Global Domain Name R
 NOTICE: You are not authorized to access or query our WHOIS database through the use of high-volume, automated, electronic processes or for the purpose or purposes of using the data in any manner that violates these terms of use. The Data in the CSC WHOIS database is provided by CSC for information purposes only, and to assist persons in obtaining information about or related to a domain name registration record. CSC does not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: you agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CSC (or its computer systems). CSC reserves the right to terminate your access to the WHOIS database in its sole discretion for any violations by you of these terms of use. CSC reserves the right to modify these terms at any time.
 
    Registrant:
-      Conde Nast Digital
-      Conde Nast Digital
+      Reddit, Inc.
+      Domain Administrator
       Four Times Square 23rd Floor
       New York, NY 10036
       US
@@ -80,7 +80,7 @@ NOTICE: You are not authorized to access or query our WHOIS database through the
 
       Created on..............: Fri, Apr 29, 2005
       Expires on..............: Fri, Apr 29, 2016
-      Record last updated on..: Wed, Aug 10, 2011
+      Record last updated on..: Thu, Sep 15, 2011
 
    Administrative Contact:
       Advance Magazine Group
@@ -107,8 +107,8 @@ NOTICE: You are not authorized to access or query our WHOIS database through the
    use4.akam.net
    asia1.akam.net
    aus2.akam.net
-   usw5.akam.net
    usw3.akam.net
+   usw5.akam.net
    ns1-1.akam.net
 
 

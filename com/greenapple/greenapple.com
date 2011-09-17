@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 13-may-1995
    Expiration Date: 14-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 11:57:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 21:04:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,6 +69,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: greenapple.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 07:53:23 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sat Sep 17 16:54:28 EDT 2011
 Reason Code: IE

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 10-jun-2010
    Expiration Date: 10-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:29:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 21:35:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,8 +56,8 @@ Registrar:		Domainmonster.com
 			The friendly future of domain name registration.
 
 Domain Name: 		SACEMA.COM
-Date Created:		Thu 10-June-2010
-Date Expires:		Sun 10-June-2012
+Created Date:		10-Jun-2010
+Expiry Date:		10-Jun-2012
 Nameserver:		ns1.dataflamedns.com
 Nameserver:		ns2.dataflamedns.com
 Registrant Name:	Hayden Eastwood
@@ -78,7 +78,7 @@ Technical Address:	Cape Town
 Technical Address:	Western Cape
 Technical Address:	7700
 Technical Address:	South Africa
-Technical E-Mail:	hayden.eastwood@gmail.com
+Technical Email:	hayden.eastwood@gmail.com
 Technical Tel:		+27.732905711
 Technical Fax:
 Administrative Name:	Hayden Eastwood
@@ -90,7 +90,7 @@ Administrative Address:	Cape Town
 Administrative Address:	Western Cape
 Administrative Address:	7700
 Administrative Address:	South Africa
-Administrative E-Mail:	hayden.eastwood@gmail.com
+Administrative Email:	hayden.eastwood@gmail.com
 Administrative Tel:	+27.732905711
 Administrative Fax:
 

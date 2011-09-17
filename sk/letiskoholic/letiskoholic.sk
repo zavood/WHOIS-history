@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         letiskoholic.sk
+Admin-id            AERO-0017
+Admin-name          Aeroklub Holic o.z.
+Admin-legal-form    ina pravna forma
+Admin-org.-ID       34028803
+Admin-address       Stanicna 13, Holic 908 51
+Admin-telephone     034 6682433
+Admin-email         info@letiskoholic.sk
+Tech-id             ISKI-0001
+Tech-name           INTERNET SK s.r.o.
+Tech-org.-ID        35826339
+Tech-address        Palisady 33, Bratislava 81106
+Tech-telephone      +421 2 52623007, +420 383835353
+Tech-email          sknic@forpsi.com;domain@forpsi.com
+dns_name            ns.forpsi.net
+dns_name            ns.forpsi.it
+dns_name            ns.forpsi.cz
+Last-update         2011-03-04
+Valid-date          2012-03-29
+Domain-status       DOM_OK
+

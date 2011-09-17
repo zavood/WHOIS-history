@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149171173-LROR
+Domain Name:GLASSRBIJE.ORG
+Created On:19-Sep-2007 00:54:33 UTC
+Last Updated On:07-Jul-2011 10:14:04 UTC
+Expiration Date:19-Sep-2012 00:54:33 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:b79bb410b3d635ea
+Registrant Name:Milorad  Vujovic
+Registrant Organization:SJU Radio- Jugoslavija
+Registrant Street1:Hilandarska 2/IV
+Registrant Street2:
+Registrant Street3:
+Registrant City:Belgrade
+Registrant State/Province:
+Registrant Postal Code:11000
+Registrant Country:RS
+Registrant Phone:+381.113245935
+Registrant Phone Ext.:
+Registrant FAX:+381.113245935
+Registrant FAX Ext.:
+Registrant Email:rjteh@sbb.rs
+Admin ID:b79bb410b3d635ea
+Admin Name:Milorad  Vujovic
+Admin Organization:SJU Radio- Jugoslavija
+Admin Street1:Hilandarska 2/IV
+Admin Street2:
+Admin Street3:
+Admin City:Belgrade
+Admin State/Province:
+Admin Postal Code:11000
+Admin Country:RS
+Admin Phone:+381.113245935
+Admin Phone Ext.:
+Admin FAX:+381.113245935
+Admin FAX Ext.:
+Admin Email:rjteh@sbb.rs
+Tech ID:81BF3707F09620B6
+Tech Name:Nenad Cosic
+Tech Organization:Gama Electronics
+Tech Street1:Misarska 11
+Tech Street2:
+Tech Street3:
+Tech City:Belgrade
+Tech State/Province:RS
+Tech Postal Code:11000
+Tech Country:RS
+Tech Phone:+381.113239494
+Tech Phone Ext.:
+Tech FAX:+381.113227281
+Tech FAX Ext.:
+Tech Email:nenad@bitsyu.net
+Name Server:DNS1.ORION.RS
+Name Server:DNS2.ORION.RS
+Name Server:DNS3.ORION.RS
+Name Server:DNS4.ORION.RS
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

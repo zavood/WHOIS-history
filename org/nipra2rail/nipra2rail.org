@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157074596-LROR
+Domain Name:NIPRA2RAIL.ORG
+Created On:10-Sep-2009 14:24:32 UTC
+Last Updated On:12-Sep-2011 14:42:25 UTC
+Expiration Date:10-Sep-2012 14:24:32 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR13820571
+Registrant Name:Michael Waskiewicz
+Registrant Street1:9710 Ballymore Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fort Wayne
+Registrant State/Province:Indiana
+Registrant Postal Code:46835
+Registrant Country:US
+Registrant Phone:+1.2609181334
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:michael@emagc.com
+Admin ID:CR13820573
+Admin Name:Michael Waskiewicz
+Admin Street1:9710 Ballymore Drive
+Admin Street2:
+Admin Street3:
+Admin City:Fort Wayne
+Admin State/Province:Indiana
+Admin Postal Code:46835
+Admin Country:US
+Admin Phone:+1.2609181334
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:michael@emagc.com
+Tech ID:CR13820572
+Tech Name:Michael Waskiewicz
+Tech Street1:9710 Ballymore Drive
+Tech Street2:
+Tech Street3:
+Tech City:Fort Wayne
+Tech State/Province:Indiana
+Tech Postal Code:46835
+Tech Country:US
+Tech Phone:+1.2609181334
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:michael@emagc.com
+Name Server:NS1.SERVER296.COM
+Name Server:NS2.SERVER296.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

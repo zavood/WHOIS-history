@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 17:43:43 (BRT -03:00)
+
+domain:      informerendimentosgrupoliv.net.br
+owner:       ANATALIA DE ARAUJO SIQUEIRA
+ownerid:     892.870.530-49
+country:     BR
+owner-c:     JOASA76
+admin-c:     JOASA76
+tech-c:      JOASA76
+billing-c:   JOASA76
+nserver:     ns1.athlonsolucoesnet.net
+nsstat:      20110917 UDN
+nslastaa:    20110904
+nserver:     ns2.athlonsolucoesnet.net
+nsstat:      20110917 UDN
+nslastaa:    20110904
+saci:        yes
+created:     20110904 #8790520
+expires:     20110904
+changed:     20110904
+status:      published
+
+nic-hdl-br:  JOASA76
+person:      JOSE DE ARAUJO SANTOS
+e-mail:      the.token@msn.com
+created:     20100809
+changed:     20100809
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

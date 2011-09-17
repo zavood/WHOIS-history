@@ -1,0 +1,71 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sat Sep 17 22:47:42 2011
+
+domain:       michalhejna.cz
+registrant:   CID:MICHALHEJNA13958
+admin-c:      CID:MICHALHEJNA13958
+nsset:        INTERNETCENTRUM
+registrar:    REG-GRANSY
+status:       paid and in zone
+registered:   10.06.2010 08:19:49
+expire:       10.06.2012
+
+contact:      CID:MICHALHEJNA13958
+name:         Michal Hejna
+address:      Zakou&Aring;™ilova 73
+address:      Praha 4
+address:      149 00
+address:      Czech Republic
+address:      CZ
+e-mail:       hejna.michal@gmail.com
+registrar:    REG-GRANSY
+created:      10.06.2010 08:16:09
+
+nsset:        INTERNETCENTRUM
+nserver:      ns1.ic.cz
+nserver:      ns2.ic.cz
+nserver:      ns3.ic.cz
+tech-c:       SB:INETCZ-XHX31B-65743
+tech-c:       SB:JANKARABINA
+registrar:    REG-IGNUM
+created:      03.10.2007 19:41:06
+changed:      05.02.2010 16:08:02
+
+contact:      SB:INETCZ-XHX31B-65743
+name:         Standa Pacan
+address:      U hranic 19
+address:      Praha 10
+address:      10000
+address:      CZ
+e-mail:       pacans@seznam.cz
+registrar:    REG-IGNUM
+created:      01.02.2004 18:20:00
+
+contact:      SB:JANKARABINA
+name:         Jan Karabina
+address:      Radimovicka 1415
+address:      Praha
+address:      14900
+address:      CZ
+e-mail:       jan@karabina.cz
+registrar:    REG-IGNUM
+created:      07.12.2005 03:05:00
+
+

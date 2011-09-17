@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: PAC105D-NORID
+Domain Name................: packardbell.no
+Domain Holder Handle.......: PBNA32O-NORID
+Registrar Handle...........: REG810-NORID
+Legal-c Handle.............: SR2560P-NORID
+Tech-c Handle..............: AI1R-NORID
+Tech-c Handle..............: DM720P-NORID
+Name Server Handle.........: NSAC138H-NORID
+Name Server Handle.........: NSAC139H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-12-30
+
+NORID Handle...............: PBNA32O-NORID
+Type.......................: organization
+Name.......................: PACKARD BELL NORDEN AS
+Id Type....................: organization_number
+Id Number..................: 979487126
+Registrar Handle...........: REG810-NORID
+Post Address...............: Hamangskogen 60
+Postal Code................: NO-1338
+Postal Area................: Sandvika
+Country....................: NO
+Phone Number...............: +31.246489602
+Fax Number.................: +31.246450108
+Email Address..............: dnsmaster@packardbell.com
+
+Additional information:
+Created:         2010-12-30
+Last updated:    2010-12-30
+

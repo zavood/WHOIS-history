@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D135312211-LROR
+Domain Name:SERVIWEB.ORG
+Created On:18-Dec-2006 11:51:50 UTC
+Last Updated On:29-Jun-2011 14:04:05 UTC
+Expiration Date:18-Dec-2013 11:51:50 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_10636300
+Registrant Name:Ricardo Suarez Caballero
+Registrant Organization:Consultoria y Desarrollo ServiWeb S.L.
+Registrant Street1:c./ Tierno Galvan,11,11,izq
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cartagena
+Registrant State/Province:Murcia
+Registrant Postal Code:30203
+Registrant Country:ES
+Registrant Phone:+034.630748996
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dominios@serviweb.es
+Admin ID:DI_10636300
+Admin Name:Ricardo Suarez Caballero
+Admin Organization:Consultoria y Desarrollo ServiWeb S.L.
+Admin Street1:c./ Tierno Galvan,11,11,izq
+Admin Street2:
+Admin Street3:
+Admin City:Cartagena
+Admin State/Province:Murcia
+Admin Postal Code:30203
+Admin Country:ES
+Admin Phone:+034.630748996
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dominios@serviweb.es
+Tech ID:DI_10636300
+Tech Name:Ricardo Suarez Caballero
+Tech Organization:Consultoria y Desarrollo ServiWeb S.L.
+Tech Street1:c./ Tierno Galvan,11,11,izq
+Tech Street2:
+Tech Street3:
+Tech City:Cartagena
+Tech State/Province:Murcia
+Tech Postal Code:30203
+Tech Country:ES
+Tech Phone:+034.630748996
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dominios@serviweb.es
+Name Server:NS1.SERVIWEB.INFO
+Name Server:NS2.SERVIWEB.INFO
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

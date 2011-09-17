@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1035326-LROR
+Domain Name:LIVINGREVIEWS.ORG
+Created On:22-Oct-1997 04:00:00 UTC
+Last Updated On:22-Oct-2010 01:22:50 UTC
+Expiration Date:21-Oct-2011 04:00:00 UTC
+Sponsoring Registrar:EPAG Domainservices GmbH (R40-LROR)
+Status:OK
+Registrant ID:AD46-EPNIC
+Registrant Name:Andreas Donath
+Registrant Organization:Max Planck Institut fuer Gravitationsphysik
+Registrant Street1:Am Muehlenberg 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Golm
+Registrant State/Province:
+Registrant Postal Code:D-14476
+Registrant Country:DE
+Registrant Phone:+49.3315677205
+Registrant Phone Ext.:
+Registrant FAX:+49.3315677298
+Registrant FAX Ext.:
+Registrant Email:domainadmin@aei.mpg.de
+Admin ID:AD46-EPNIC
+Admin Name:Andreas Donath
+Admin Organization:Max Planck Institut fuer Gravitationsphysik
+Admin Street1:Am Muehlenberg 1
+Admin Street2:
+Admin Street3:
+Admin City:Golm
+Admin State/Province:
+Admin Postal Code:D-14476
+Admin Country:DE
+Admin Phone:+49.3315677205
+Admin Phone Ext.:
+Admin FAX:+49.3315677298
+Admin FAX Ext.:
+Admin Email:domainadmin@aei.mpg.de
+Tech ID:AD46-EPNIC
+Tech Name:Andreas Donath
+Tech Organization:Max Planck Institut fuer Gravitationsphysik
+Tech Street1:Am Muehlenberg 1
+Tech Street2:
+Tech Street3:
+Tech City:Golm
+Tech State/Province:
+Tech Postal Code:D-14476
+Tech Country:DE
+Tech Phone:+49.3315677205
+Tech Phone Ext.:
+Tech FAX:+49.3315677298
+Tech FAX Ext.:
+Tech Email:domainadmin@aei.mpg.de
+Name Server:ELENA.RZ-BERLIN.MPG.DE
+Name Server:DNSSERV.AEI.MPG.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

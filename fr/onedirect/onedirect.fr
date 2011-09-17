@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; onedirect.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      onedirect.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ZD20-FRNIC
+admin-c:     O3669-FRNIC
+tech-c:      NF485-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL7417-FRNIC
+registrar:   NORDNET
+anniversary: 04/11
+created:     04/11/2004
+last-update: 24/09/2010
+source:      FRNIC
+
+ns-list:     NSL7417-FRNIC
+nserver:     ns3.lerelaisinternet.com
+nserver:     ns4.lerelaisinternet.com
+source:      FRNIC
+
+registrar:   NORDNET
+type:        Isp Option 1
+address:     111 Rue de Croix
+address:     BP 60 985
+address:     HEM
+country:     FR
+phone:       0 820 800 810
+fax-no:      +33 3 20 66 56 29
+e-mail:      contact@nordnet.net
+website:     http://www.nordnet.com
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     ZD20-FRNIC
+type:        ORGANIZATION
+contact:     ONEDIRECT
+address:     58, avenue de Rivesaltes
+address:     Bp4 zone industrielle la Mirande
+address:     66240 Saint-Est&iquest;ve Cedex
+country:     FR
+phone:       +33 4 68 92 93 22
+fax-no:      +33 4 68 92 93 33
+e-mail:      dns.onedirect@onedirect.fr
+changed:     08/11/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     O3669-FRNIC
+type:        ORGANIZATION
+contact:     Onedirect
+address:     58, avenue de Rivesaltes
+address:     66240 Saint-Est&egrave;ve
+country:     FR
+phone:       +33 4 68 92 93 22
+e-mail:      dns.onedirect@onedirect.fr
+changed:     24/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     NF485-FRNIC
+type:        ROLE
+contact:     NORDNET France
+address:     Nordnet
+address:     111, rue de Croix
+address:     59510 Hem
+country:     FR
+phone:       +33 3 20 66 55 55
+e-mail:      tech-dom-fr@lerelaisinternet.com
+admin-c:     ML50-FRNIC
+admin-c:     DU11-FRNIC
+tech-c:      ML50-FRNIC
+tech-c:      DU11-FRNIC
+tech-c:      JG3094-FRNIC
+notify:      tech-dom-fr@lerelaisinternet.com
+changed:     17/08/2006 tech-dom-fr@lerelaisinternet.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
