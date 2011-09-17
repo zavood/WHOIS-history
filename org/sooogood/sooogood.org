@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D113741159-LROR
+Domain Name:SOOOGOOD.ORG
+Created On:29-Jan-2006 01:43:50 UTC
+Last Updated On:30-Dec-2010 17:32:05 UTC
+Expiration Date:29-Jan-2014 01:43:50 UTC
+Sponsoring Registrar:Active Registrar, Inc. (R1709-LROR)
+Status:OK
+Registrant ID:DI_9165529
+Registrant Name:Benjamin Zadik
+Registrant Organization:Babble On Translation Services
+Registrant Street1:49 Zoe Street Apt 14
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Francisco
+Registrant State/Province:CA
+Registrant Postal Code:94107
+Registrant Country:US
+Registrant Phone:+1.4159799649
+Registrant Phone Ext.:
+Registrant FAX:+1.123456
+Registrant FAX Ext.:
+Registrant Email:zadik@ibabbleon.com
+Admin ID:DI_9165529
+Admin Name:Benjamin Zadik
+Admin Organization:Babble On Translation Services
+Admin Street1:49 Zoe Street Apt 14
+Admin Street2:
+Admin Street3:
+Admin City:San Francisco
+Admin State/Province:CA
+Admin Postal Code:94107
+Admin Country:US
+Admin Phone:+1.4159799649
+Admin Phone Ext.:
+Admin FAX:+1.123456
+Admin FAX Ext.:
+Admin Email:zadik@ibabbleon.com
+Tech ID:DI_9165529
+Tech Name:Benjamin Zadik
+Tech Organization:Babble On Translation Services
+Tech Street1:49 Zoe Street Apt 14
+Tech Street2:
+Tech Street3:
+Tech City:San Francisco
+Tech State/Province:CA
+Tech Postal Code:94107
+Tech Country:US
+Tech Phone:+1.4159799649
+Tech Phone Ext.:
+Tech FAX:+1.123456
+Tech FAX Ext.:
+Tech Email:zadik@ibabbleon.com
+Name Server:NS.AQHOST.COM
+Name Server:NS2.AQHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

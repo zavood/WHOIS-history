@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      heanet.ie
+descr:       HEAnet
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     MNA3-IEDR
+tech-c:      HE15-IEDR
+renewal:     23-May-2012
+status:      Active
+nserver:     ns.heanet.ie 193.1.193.194 2001:770:18:4::c101:c1c2
+nserver:     ns2.kerna.ie
+nserver:     auth-ns2.heanet.ie 193.1.247.198 2001:770:1c:4::c101:f7c6
+source:      IEDR
+
+person:      Mike Norris at HEANET
+nic-hdl:     MNA3-IEDR
+source:      IEDR
+
+person:      HEAnet
+nic-hdl:     HE15-IEDR
+source:      IEDR
+

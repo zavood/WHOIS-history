@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150801481-LROR
+Domain Name:SMOKERSASSOCIATION.ORG
+Created On:29-Jan-2008 17:09:53 UTC
+Last Updated On:10-Jan-2011 16:34:27 UTC
+Expiration Date:29-Jan-2012 17:09:53 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:6f85e4a667c
+Registrant Name:Catalin Florian  Radut
+Registrant Organization:Dr. Radut Consulting srl
+Registrant Street1:Str. Toamnei nr. 108
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bucharest
+Registrant State/Province:SECTOR 2
+Registrant Postal Code:020715
+Registrant Country:RO
+Registrant Phone:+40.722302258
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cfradut@gmail.com
+Admin ID:6f85e4a667c
+Admin Name:Catalin Florian  Radut
+Admin Organization:Dr. Radut Consulting srl
+Admin Street1:Str. Toamnei nr. 108
+Admin Street2:
+Admin Street3:
+Admin City:Bucharest
+Admin State/Province:SECTOR 2
+Admin Postal Code:020715
+Admin Country:RO
+Admin Phone:+40.722302258
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cfradut@gmail.com
+Tech ID:6f85e4a667c
+Tech Name:Catalin Florian  Radut
+Tech Organization:Dr. Radut Consulting srl
+Tech Street1:Str. Toamnei nr. 108
+Tech Street2:
+Tech Street3:
+Tech City:Bucharest
+Tech State/Province:SECTOR 2
+Tech Postal Code:020715
+Tech Country:RO
+Tech Phone:+40.722302258
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cfradut@gmail.com
+Name Server:NS1.EHOSTING.COM
+Name Server:NS2.EHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
