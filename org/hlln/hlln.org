@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156972569-LROR
+Domain Name:HLLN.ORG
+Created On:27-Aug-2009 20:11:40 UTC
+Last Updated On:26-Aug-2011 19:31:12 UTC
+Expiration Date:27-Aug-2012 20:11:40 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:OK
+Registrant ID:9b098df69df
+Registrant Name:Hostmaster  NetOp
+Registrant Organization:York University
+Registrant Street1:4700%20Keele%20Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Toronto
+Registrant State/Province:ON
+Registrant Postal Code:M3J1P3
+Registrant Country:CA
+Registrant Phone:+1.4167365257
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@yorku.ca
+Admin ID:6A2BED6B2BC53FE9
+Admin Name:Hostmaster NetOp
+Admin Organization:York University
+Admin Street1:4700 Keele Street
+Admin Street2:
+Admin Street3:
+Admin City:Toronto
+Admin State/Province:ON
+Admin Postal Code:M3J1P3
+Admin Country:CA
+Admin Phone:+1.4167365257
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@yorku.ca
+Tech ID:6A2BED6B2BC53FE9
+Tech Name:Hostmaster NetOp
+Tech Organization:York University
+Tech Street1:4700 Keele Street
+Tech Street2:
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:ON
+Tech Postal Code:M3J1P3
+Tech Country:CA
+Tech Phone:+1.4167365257
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@yorku.ca
+Name Server:HANNA.CAC.WASHINGTON.EDU
+Name Server:DNS11.IPNS.YORKU.CA
+Name Server:DNS21.IPNS.YORKU.CA
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

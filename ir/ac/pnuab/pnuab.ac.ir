@@ -1,0 +1,31 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'pnuab.ac.ir'
+
+
+domain:		pnuab.ac.ir
+ascii:		pnuab.ac.ir
+remarks:	(Domain Holder) Aran Bidgol PNU
+remarks:	(Domain Holder Address) Daneshgah blvd., Dr.Hosein Azimi blvd.,p.o.box:87415-141, aran And Bidgol, isfahan, IR
+holder-c:	ar252-irnic
+admin-c:	ar252-irnic
+tech-c:		ar252-irnic
+nserver:	uslin1.drhost.name
+nserver:	uslin2.drhost.name
+last-updated:	2011-02-20
+source:		IRNIC # Filtered
+
+nic-hdl:	ar252-irnic
+org:		Aran Bidgol PNU
+e-mail:		azarang2@gmail.com
+address:	Daneshgah blvd., Dr.Hosein Azimi blvd.,p.o.box:87415-141, aran And Bidgol, isfahan, IR
+phone:		0311-2721652
+fax-no:		0311-2721651
+source:		IRNIC # Filtered
+

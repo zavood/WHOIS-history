@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104551810-LROR
+Domain Name:USDLA-NC.ORG
+Created On:21-Jun-2004 13:04:16 UTC
+Last Updated On:01-Jun-2010 10:40:04 UTC
+Expiration Date:21-Jun-2012 13:04:16 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tu41RMX2p95BsvcP
+Registrant Name:Darryl McGraw
+Registrant Organization:The University of North Carolina
+Registrant Street1:1217 Wedgeland Dr
+Registrant Street2:
+Registrant Street3:
+Registrant City:Raleigh
+Registrant State/Province:NC
+Registrant Postal Code:27615
+Registrant Country:US
+Registrant Phone:+1.9198709250
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:darrylmcgraw@nc.rr.com
+Admin ID:tuzJDt67WgtdUCdJ
+Admin Name:Darryl McGraw
+Admin Organization:The University of North Carolina
+Admin Street1:1217 Wedgeland Dr
+Admin Street2:
+Admin Street3:
+Admin City:Raleigh
+Admin State/Province:NC
+Admin Postal Code:27615
+Admin Country:US
+Admin Phone:+1.9198709250
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:darrylmcgraw@nc.rr.com
+Tech ID:tuqf95dWNPLAy4PS
+Tech Name:UNC Hostmaster
+Tech Organization:The University of North Carolina
+Tech Street1:ITS CB#1150 440 W. Franklin Street
+Tech Street2:
+Tech Street3:
+Tech City:Chapel Hill
+Tech State/Province:NC
+Tech Postal Code:27599-3420
+Tech Country:US
+Tech Phone:+1.9199624357
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@unc.edu
+Name Server:NS2.UNC.EDU
+Name Server:NS.UNC.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

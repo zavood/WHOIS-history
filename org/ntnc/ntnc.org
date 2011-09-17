@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101889288-LROR
+Domain Name:NTNC.ORG
+Created On:24-Oct-2003 15:20:24 UTC
+Last Updated On:18-Feb-2011 18:27:15 UTC
+Expiration Date:24-Oct-2012 15:20:24 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30686316
+Registrant Name:TSG Hostmaster
+Registrant Organization:Internet2
+Registrant Street1:1000 Oakbrook Dr. #300
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ann Arbor
+Registrant State/Province:Michigan
+Registrant Postal Code:48104
+Registrant Country:US
+Registrant Phone:+1.7349134250
+Registrant Phone Ext.:
+Registrant FAX:+1.7349134255
+Registrant FAX Ext.:
+Registrant Email:hostmaster@internet2.edu
+Admin ID:CR30686319
+Admin Name:TSG Hostmaster
+Admin Organization:Internet2
+Admin Street1:1000 Oakbrook Dr. #300
+Admin Street2:
+Admin Street3:
+Admin City:Ann Arbor
+Admin State/Province:Michigan
+Admin Postal Code:48104
+Admin Country:US
+Admin Phone:+1.7349134250
+Admin Phone Ext.:
+Admin FAX:+1.7349134255
+Admin FAX Ext.:
+Admin Email:hostmaster@internet2.edu
+Tech ID:CR30686317
+Tech Name:TSG Hostmaster
+Tech Organization:Internet2
+Tech Street1:1000 Oakbrook Dr. #300
+Tech Street2:
+Tech Street3:
+Tech City:Ann Arbor
+Tech State/Province:Michigan
+Tech Postal Code:48104
+Tech Country:US
+Tech Phone:+1.7349134250
+Tech Phone Ext.:
+Tech FAX:+1.7349134255
+Tech FAX Ext.:
+Tech Email:hostmaster@internet2.edu
+Name Server:DNS.INTERNET2.EDU
+Name Server:DNS2.INTERNET2.EDU
+Name Server:DNS3.INTERNET2.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

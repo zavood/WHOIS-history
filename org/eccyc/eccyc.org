@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D33223199-LROR
+Domain Name:ECCYC.ORG
+Created On:19-Aug-2000 03:38:09 UTC
+Last Updated On:23-Jan-2007 05:21:50 UTC
+Expiration Date:19-Aug-2012 03:38:10 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0392074672478056
+Registrant Name:Emad Fahmy
+Registrant Organization:Fahmy
+Registrant Street1:14 East Gate Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Port Washington
+Registrant State/Province:NY
+Registrant Postal Code:11050
+Registrant Country:US
+Registrant Phone:+1.7185914970
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:emobreemo@yahoo.com
+Admin ID:C42256012-RCOM
+Admin Name:Emad Fahmy
+Admin Organization:Fahmy
+Admin Street1:14 East Gate Rd
+Admin Street2:
+Admin Street3:
+Admin City:Port Washington
+Admin State/Province:NY
+Admin Postal Code:11050
+Admin Country:US
+Admin Phone:+1.7189740832
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:emobreemo@yahoo.com
+Tech ID:C42256014-RCOM
+Tech Name:Emad Fahmy
+Tech Organization:Fahmy
+Tech Street1:14 East Gate Rd
+Tech Street2:
+Tech Street3:
+Tech City:Port Washington
+Tech State/Province:NY
+Tech Postal Code:11050
+Tech Country:US
+Tech Phone:+1.7189740832
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:emobreemo@yahoo.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

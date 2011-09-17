@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      mir.ie
+descr:       National Medjugorje Council of Ireland
+descr:       Unincorporated Association
+descr:       Discretionary Name
+admin-c:     AJY255-IEDR
+tech-c:      ABG704-IEDR
+renewal:     20-October-2011
+status:      Active
+nserver:     ns5.dnsireland.com
+nserver:     ns6.dnsireland.com
+nserver:     ns7.dnsireland.ie
+source:      IEDR
+
+person:      Damien Walsh
+nic-hdl:     AJY255-IEDR
+source:      IEDR
+
+person:      Lets Host Domain Services
+nic-hdl:     ABG704-IEDR
+source:      IEDR
+

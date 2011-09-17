@@ -1,0 +1,98 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; dodge.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      dodge.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CL4668-FRNIC
+admin-c:     DA2370-FRNIC
+tech-c:      DA3210-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL27098-FRNIC
+registrar:   CSC CORPORATE DOMAINS INC.
+anniversary: 12/03
+created:     12/03/2009
+last-update: 04/08/2009
+source:      FRNIC
+
+ns-list:     NSL27098-FRNIC
+nserver:     ns-11.extra.chrysler.com
+nserver:     ns-12.extra.chrysler.com
+source:      FRNIC
+
+registrar:   CSC CORPORATE DOMAINS INC.
+type:        Isp Option 1
+address:     2711 Centerville Road, Suite 400
+address:     DE 19808 WILMINGTON
+country:     US
+phone:       +1 302 636 5400
+fax-no:      +1 302 636 5454
+e-mail:      corporatedomains@cscinfo.com
+website:     http://www.csccorporatedomains.com
+anonymous:   NO
+registered:  17/10/2006
+source:      FRNIC
+
+nic-hdl:     CL4668-FRNIC
+type:        ORGANIZATION
+contact:     Chrysler Group LLC
+address:     1000, Chrysler Drive
+address:     Cims 485-04-76
+address:     Mi
+address:     48326 Auburn Hills
+country:     US
+phone:       +1 8009921997
+fax-no:      +1 2485121835
+e-mail:      admin@internationaladmin.com
+changed:     17/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     DA2370-FRNIC
+type:        PERSON
+contact:     Domain Administrator
+address:     Corporation Service Company
+address:     68, rue du faubourg Saint Honore
+address:     75008 Paris
+country:     FR
+phone:       +33 1 53 43 64 92
+fax-no:      +33 1 53 43 63 00
+e-mail:      admin@internationaladmin.com
+notify:      admin@internationaladmin.com
+changed:     12/11/2008 admin@internationaladmin.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DA3210-FRNIC
+type:        PERSON
+contact:     Domain Administrator
+address:     Chrysler Group, LLC
+address:     1000, Chrysler Drive
+address:     Cims 485-04-76
+address:     48326 Auburn Hills Mi
+country:     US
+phone:       +1.8009921997
+fax-no:      +1.8009921997
+e-mail:      admin@internationaladmin.com
+changed:     04/08/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

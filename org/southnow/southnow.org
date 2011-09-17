@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D54888768-LROR
+Domain Name:SOUTHNOW.ORG
+Created On:27-Jan-2001 01:42:39 UTC
+Last Updated On:25-Aug-2006 18:40:36 UTC
+Expiration Date:27-Jan-2012 01:42:39 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:5608526-NSI
+Registrant Name:ProgramonSouthern Politics, Media and
+Registrant Organization:ProgramonSouthern Politics, Media and
+Registrant Street1:CB 3365
+Registrant Street2:
+Registrant Street3:
+Registrant City:CHAPEL HILL
+Registrant State/Province:NC
+Registrant Postal Code:27599-0001
+Registrant Country:US
+Registrant Phone:+1.9198438174
+Registrant Phone Ext.:
+Registrant FAX:+1.231231234
+Registrant FAX Ext.:
+Registrant Email:thornburg@unc.edu
+Admin ID:5608526-NSI
+Admin Name:ProgramonSouthern Politics, Media and
+Admin Organization:ProgramonSouthern Politics, Media and
+Admin Street1:CB 3365
+Admin Street2:
+Admin Street3:
+Admin City:CHAPEL HILL
+Admin State/Province:NC
+Admin Postal Code:27599-0001
+Admin Country:US
+Admin Phone:+1.9198438174
+Admin Phone Ext.:
+Admin FAX:+1.231231234
+Admin FAX Ext.:
+Admin Email:thornburg@unc.edu
+Tech ID:5608527-NSI
+Tech Name:Dee Jarrell
+Tech Street1:CB #1150
+Tech Street2:440 W. Franklin Street
+Tech Street3:
+Tech City:Chapel Hill
+Tech State/Province:NC
+Tech Postal Code:27707
+Tech Country:US
+Tech Phone:+1.9199626503
+Tech Phone Ext.:
+Tech FAX:+1.9194459487
+Tech FAX Ext.:
+Tech Email:hostmaster@unc.edu
+Name Server:NS2.UNC.EDU
+Name Server:NS.UNC.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

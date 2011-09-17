@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 10-nov-1999
    Expiration Date: 10-nov-2017
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:30:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 15:11:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,5 +71,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: codeproject.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 08:21:10 EDT 2011
+Date and Time of Query: Sat Sep 17 11:07:05 EDT 2011
 Reason Code: IE

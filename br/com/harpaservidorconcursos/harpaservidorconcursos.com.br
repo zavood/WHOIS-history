@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 11:34:23 (BRT -03:00)
+
+domain:      harpaservidorconcursos.com.br
+owner:       HARPA EDUCACIONAL LTDA
+ownerid:     004.238.281/0001-76
+responsible: T&acirc;nia Regina Carra Ortolan Colombelli
+country:     BR
+owner-c:     TRCOC
+admin-c:     TRCOC
+tech-c:      MRS172
+billing-c:   TRCOC
+nserver:     ns1.harpa.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.harpa.com.br
+nsstat:      20110915 NOT SYNC ZONE
+nslastaa:    20110915
+created:     20100921 #7343730
+expires:     20110921
+changed:     20101007
+status:      published
+
+nic-hdl-br:  MRS172
+person:      Marcio Roberto Sigaki
+e-mail:      dominios@chefao.net
+created:     20000902
+changed:     20051018
+
+nic-hdl-br:  TRCOC
+person:      T&acirc;nia Regina Carra Ortolan Colombelli
+e-mail:      dominio@harpa.com.br
+created:     20100915
+changed:     20100915
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

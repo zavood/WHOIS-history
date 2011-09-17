@@ -1,0 +1,39 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: DIR312D-NORID
+Domain Name................: direkte.no
+Domain Holder Handle.......: DND34O-NORID
+Registrar Handle...........: REG361-NORID
+Legal-c Handle.............: AL2687P-NORID
+Tech-c Handle..............: AL2687P-NORID
+Name Server Handle.........: DNSD103H-NORID
+Name Server Handle.........: NSEA57H-NORID
+Name Server Handle.........: NSEA69H-NORID
+Name Server Handle.........: REMO21H-NORID
+Name Server Handle.........: REMO9H-NORID
+
+Additional information:
+Created:         2000-03-31
+Last updated:    2011-04-02
+
+NORID Handle...............: DND34O-NORID
+Type.......................: organization
+Name.......................: DIREKTE.NO DA
+Id Type....................: organization_number
+Id Number..................: 981631188
+Registrar Handle...........: REG361-NORID
+Post Address...............: Myrveien 39
+Postal Code................: NO-7550
+Postal Area................: Hommelvik
+Country....................: NO
+Phone Number...............: +47.40003484
+Fax Number.................: +47.92973484
+Email Address..............: arnt@direkte.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-12-15
+
