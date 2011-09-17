@@ -1,0 +1,140 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; mnhn.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      mnhn.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MNDH11-FRNIC
+admin-c:     RB520-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      JFM2-FRNIC
+tech-c:      PF118-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL24898-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL24898-FRNIC
+nserver:     cimrs1.mnhn.fr [192.134.151.15]
+nserver:     panoramix.rap.prd.fr [193.50.20.1 2001:660:2401:1102::53]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     RB520-FRNIC
+type:        PERSON
+contact:     Raymond Baudoin
+address:     Museum National d'Histoire Naturelle
+address:     57, rue Cuvier
+address:     75005 Paris
+country:     FR
+phone:       +33 1 40 79 38 36
+fax-no:      +33 1 40 79 38 99
+e-mail:      baudoin@mnhn.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MNDH11-FRNIC
+type:        ORGANIZATION
+contact:     Museum National d'Histoire Naturelle
+address:     57, rue Cuvier
+address:     75005 Paris
+country:     FR
+phone:       +33 1 40 79 38 36
+e-mail:      baudoin@mnhn.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JFM2-FRNIC
+type:        PERSON
+contact:     Jean-Francois Murail
+address:     Museum National d'Histoire Naturelle
+address:     57, rue Cuvier
+address:     75005 Paris
+country:     FR
+phone:       +33 1 40 79 31 15
+fax-no:      +33 1 40 79 38 99
+e-mail:      murail@mnhn.fr
+notify:      murail@mnhn.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PF118-FRNIC
+type:        PERSON
+contact:     Paul Fondere
+address:     Museum National d'Histoire Naturelle
+address:     57, rue Cuvier
+address:     75005 Paris
+country:     FR
+phone:       +33 1 40 79 31 16
+fax-no:      +33 1 40 79 38 99
+e-mail:      paul@mnhn.fr
+notify:      paul@mnhn.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

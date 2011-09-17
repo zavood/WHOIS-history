@@ -1,0 +1,127 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ipgp.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ipgp.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    IDPD5-FRNIC
+admin-c:     CJ2353-FRNIC
+tech-c:      GRST1-FRNIC
+tech-c:      MH1039-FRNIC
+tech-c:      RK223-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL48198-FRNIC
+registrar:   RENATER
+anniversary: 20/11
+created:     20/11/2006
+last-update: 18/04/2011
+source:      FRNIC
+
+ns-list:     NSL48198-FRNIC
+nserver:     belenos.ipgp.fr [194.254.225.6]
+nserver:     panoramix.rap.prd.fr [193.50.20.1 2001:660:2401:1102::53]
+nserver:     shiva.jussieu.fr [134.157.0.129]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     IDPD5-FRNIC
+type:        ORGANIZATION
+contact:     INSTITUT DE PHYSIQUE DU GLOBE DE PARIS
+address:     Sces Generaux - Sce Informatique
+address:     3, rue Jussieu
+address:     75238 Paris
+country:     FR
+phone:       +33 1 83 95 75 75
+fax-no:      +33 1 83 95 77 15
+e-mail:      si-admin@ipgp.fr
+changed:     18/04/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CJ2353-FRNIC
+type:        PERSON
+contact:     Claude Jaupart
+address:     IPGP
+address:     Sce Gen&eacute;raux - Sce Informatique
+address:     3, rue Jussieu
+address:     75238 Paris
+country:     FR
+phone:       +33 1 83 95 75 00
+fax-no:      +33 1 83 95 77 14
+e-mail:      direction@ipgp.fr
+changed:     18/04/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GRST1-FRNIC
+type:        PERSON
+contact:     Gip Renater Support Technique Dns
+address:     23-25, rue Daviel
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 40
+e-mail:      support-dns@renater.fr
+changed:     28/01/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MH1039-FRNIC
+type:        PERSON
+contact:     Marc Hufschmitt
+address:     IPGP
+address:     4, place Jussieu
+address:     75252 Paris
+country:     FR
+phone:       +33 1 44 27 24 43
+fax-no:      +33 1 44 27 33 73
+e-mail:      mh@ipgp.jussieu.fr
+changed:     29/09/2006 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     RK223-FRNIC
+type:        PERSON
+contact:     Raoul Kuczyk
+address:     IPGP
+address:     3, rue Jussieu
+address:     75238 Paris
+country:     FR
+phone:       +33 1 83 95 75 91
+fax-no:      +33 1 83 95 77 15
+e-mail:      rk@ipgp.fr
+changed:     18/04/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

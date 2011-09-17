@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4549198-LROR
+Domain Name:WGE.ORG
+Created On:06-Aug-1997 04:00:00 UTC
+Last Updated On:27-Mar-2008 00:23:21 UTC
+Expiration Date:05-Aug-2013 04:00:00 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:A120118389355895
+Registrant Name:WGE FCU
+Registrant Organization:WGE FCU
+Registrant Street1:3700 West Bethel Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Muncie
+Registrant State/Province:IN
+Registrant Postal Code:47304
+Registrant Country:US
+Registrant Phone:+1.7652898600
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:domains@CSKERN.COM
+Admin ID:B120135665924668
+Admin Name:CS Kern, Inc
+Admin Organization:CS Kern, Inc
+Admin Street1:3401 S. Hamilton Ave
+Admin Street2:
+Admin Street3:
+Admin City:Muncie
+Admin State/Province:IN
+Admin Postal Code:47302
+Admin Country:US
+Admin Phone:+1.765289860
+Admin Phone Ext.:
+Admin FAX:+1.765289866
+Admin FAX Ext.:
+Admin Email:domains@CSKERN.COM
+Tech ID:B120135665924669
+Tech Name:Domain Administrator
+Tech Organization:for domain names, or hosting provider
+Tech Street1:PO Box 3895
+Tech Street2:
+Tech Street3:
+Tech City:Englewood
+Tech State/Province:CO
+Tech Postal Code:80155
+Tech Country:US
+Tech Phone:+180.14370220
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:verioiservercp@domainservices.com
+Name Server:NS1.SPINWEB.NET
+Name Server:NS2.SPINWEB.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

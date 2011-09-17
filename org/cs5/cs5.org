@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155312455-LROR
+Domain Name:CS5.ORG
+Created On:09-Feb-2009 13:00:11 UTC
+Last Updated On:14-Feb-2011 09:51:10 UTC
+Expiration Date:09-Feb-2012 13:00:11 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_8908188
+Registrant Name:Stanislav Pokutnyy
+Registrant Organization:none
+Registrant Street1:Kashtanova
+Registrant Street2:5
+Registrant Street3:
+Registrant City:Kiev
+Registrant State/Province:none
+Registrant Postal Code:02225
+Registrant Country:UA
+Registrant Phone:+380.000000000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:111@email.ua
+Admin ID:DI_8908188
+Admin Name:Stanislav Pokutnyy
+Admin Organization:none
+Admin Street1:Kashtanova
+Admin Street2:5
+Admin Street3:
+Admin City:Kiev
+Admin State/Province:none
+Admin Postal Code:02225
+Admin Country:UA
+Admin Phone:+380.000000000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:111@email.ua
+Tech ID:DI_8782836
+Tech Name:Service Online LLC
+Tech Organization:Service Online LLC
+Tech Street1:p/b 147
+Tech Street2:
+Tech Street3:
+Tech City:KYIV
+Tech State/Province:Kiev
+Tech Postal Code:04050
+Tech Country:UA
+Tech Phone:+380.445937569
+Tech Phone Ext.:
+Tech FAX:+380.445937569
+Tech FAX Ext.:
+Tech Email:support@nic.ua
+Name Server:NS1.1GB.UA
+Name Server:NS2.1GB.UA
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

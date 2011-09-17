@@ -1,0 +1,123 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; aup.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      aup.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    AUOP2-FRNIC
+admin-c:     AR3058-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      PYV1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL31058-FRNIC
+registrar:   RENATER
+anniversary: 06/07
+created:     01/01/1995
+last-update: 01/09/2009
+source:      FRNIC
+
+ns-list:     NSL31058-FRNIC
+nserver:     ns.aup.fr [193.49.37.66]
+nserver:     ns2.aup.fr [193.49.37.67]
+nserver:     panoramix.rap.prd.fr [193.50.20.1 2001:660:2401:1102::53]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     AUOP2-FRNIC
+type:        ORGANIZATION
+contact:     THE AMERICAN UNIVERSITY OF PARIS
+address:     147, rue de Grenelle
+address:     75007 Paris
+country:     FR
+phone:       +33 1 40 62 06 48
+e-mail:      pvasener@aup.edu
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AR3058-FRNIC
+type:        PERSON
+contact:     Ali Rahimi
+address:     The American University of Paris
+address:     31, avenue Bosquet
+address:     75007 Paris
+country:     FR
+phone:       +33 1 40 62 06 46
+fax-no:      +33 1 40 62 06 93
+e-mail:      arahimi@aup.fr
+changed:     03/07/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PYV1-FRNIC
+type:        PERSON
+contact:     Pierre-Yves Vasener
+address:     American University of Paris
+address:     Computeur centre
+address:     147, rue de Grenelle
+address:     75007 Paris
+country:     FR
+phone:       +33 1 40 62 06 48
+e-mail:      pvasener@aup.fr
+changed:     06/07/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

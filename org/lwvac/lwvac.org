@@ -1,0 +1,88 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104898389-LROR
+Domain Name:LWVAC.ORG
+Created On:17-Sep-2004 00:35:07 UTC
+Last Updated On:14-Sep-2011 05:26:01 UTC
+Expiration Date:17-Sep-2012 00:35:07 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:RENEWPERIOD
+Registrant ID:CR65811410
+Registrant Name:Niche Specialty
+Registrant Organization:Niche Specialty Plus
+Registrant Street1:600 Church St.
+Registrant Street2:box 1006
+Registrant Street3:
+Registrant City:Norfolk
+Registrant State/Province:VA
+Registrant Postal Code:23501
+Registrant Country:US
+Registrant Phone:+1.7573514034
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:fourtrytwo@gmail.com
+Admin ID:CR65811412
+Admin Name:Niche Specialty
+Admin Organization:Niche Specialty Plus
+Admin Street1:600 Church St.
+Admin Street2:box 1006
+Admin Street3:
+Admin City:Norfolk
+Admin State/Province:VA
+Admin Postal Code:23501
+Admin Country:US
+Admin Phone:+1.7573514034
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:fourtrytwo@gmail.com
+Tech ID:CR65811411
+Tech Name:Niche Specialty
+Tech Organization:Niche Specialty Plus
+Tech Street1:600 Church St.
+Tech Street2:box 1006
+Tech Street3:
+Tech City:Norfolk
+Tech State/Province:VA
+Tech Postal Code:23501
+Tech Country:US
+Tech Phone:+1.7573514034
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:fourtrytwo@gmail.com
+Name Server:NS713.WEBSITEWELCOME.COM
+Name Server:NS714.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

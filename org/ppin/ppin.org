@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D22550872-LROR
+Domain Name:PPIN.ORG
+Created On:16-Mar-2000 15:53:51 UTC
+Last Updated On:25-Sep-2006 15:57:29 UTC
+Expiration Date:16-Mar-2012 15:53:51 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28833803-NSI
+Registrant Name:Planned Parenthood of Indiana
+Registrant Organization:Planned Parenthood of Indiana
+Registrant Street1:200 South Meridian Street
+Registrant Street2:Suite 400
+Registrant Street3:
+Registrant City:Indianapolis
+Registrant State/Province:IN
+Registrant Postal Code:46225
+Registrant Country:US
+Registrant Phone:+1.317637434
+Registrant Phone Ext.:
+Registrant FAX:+1.317637434
+Registrant FAX Ext.:
+Registrant Email:john@PPCSI.ORG
+Admin ID:28833804-NSI
+Admin Name:IT Director
+Admin Organization:Planned Parenthood of Indiana
+Admin Street1:200 South Meridian Street
+Admin Street2:Suite 400
+Admin Street3:
+Admin City:Indianapolis
+Admin State/Province:IN
+Admin Postal Code:46225
+Admin Country:US
+Admin Phone:+1.3176374343
+Admin Phone Ext.:
+Admin FAX:+1.3176374344
+Admin FAX Ext.:
+Admin Email:it.staff@ppin.org
+Tech ID:28833804-NSI
+Tech Name:IT Director
+Tech Organization:Planned Parenthood of Indiana
+Tech Street1:200 South Meridian Street
+Tech Street2:Suite 400
+Tech Street3:
+Tech City:Indianapolis
+Tech State/Province:IN
+Tech Postal Code:46225
+Tech Country:US
+Tech Phone:+1.3176374343
+Tech Phone Ext.:
+Tech FAX:+1.3176374344
+Tech FAX Ext.:
+Tech Email:it.staff@ppin.org
+Name Server:NS1.WEBEXC.COM
+Name Server:NS2.WEBEXC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

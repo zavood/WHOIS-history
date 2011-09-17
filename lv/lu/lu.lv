@@ -1,0 +1,27 @@
+[Domain]
+Domain: lu.lv
+Status: active
+Changed: 1998-02-01T00:00:00+02:00
+
+[Holder]
+Type: Legal person
+Name: Latvijas Universitate
+Email: itserviss@lu.lv
+Fax: +371-67222620
+Phone: +371-67034714
+Address: Raina bulvaris 19, Riga, LV-1586, Latvija
+RegNr: 90000076669
+
+[Tech]
+Type: Natural person
+Email: itserviss@lu.lv
+Fax: +371-67222620
+Phone: +371-67034714
+
+[Nservers]
+Nserver: ozols.lanet.lv
+Nserver: nsz2.nic.lv
+Nserver: ns.rig.tkom.lv
+
+[Whois]
+Updated: 2011-09-17T05:12:25.350513+00:00

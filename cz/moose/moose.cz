@@ -1,0 +1,58 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sat Sep 17 09:58:08 2011
+
+domain:       moose.cz
+registrant:   SUB_21177_407311
+admin-c:      SUB_21177_407311
+nsset:        SAVANA_DNS
+registrar:    REG-GRANSY
+status:       paid and in zone
+registered:   27.03.2011 15:06:13
+changed:      21.04.2011 20:43:01
+expire:       27.03.2012
+
+contact:      SUB_21177_407311
+name:         Josef Kub&Atilde;&shy;k
+address:      Ostrovn&Atilde;&shy; 228
+address:      Brno
+address:      62500
+address:      CZ
+registrar:    REG-GRANSY
+created:      21.04.2011 19:34:59
+changed:      21.04.2011 20:43:15
+
+nsset:        SAVANA_DNS
+nserver:      ns1.savana.cz
+nserver:      ns2.savana.cz
+tech-c:       HOFY
+registrar:    REG-IGNUM
+created:      01.10.2007 13:33:01
+
+contact:      HOFY
+name:         Pavel Hofner
+address:      U Stadionu 300/25
+address:      Povrly
+address:      403 32
+address:      CZ
+registrar:    REG-IGNUM
+created:      01.09.2006 22:45:00
+changed:      19.06.2008 17:06:14
+
+

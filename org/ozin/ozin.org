@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D12801691-LROR
+Domain Name:OZIN.ORG
+Created On:12-Nov-1999 08:00:00 UTC
+Last Updated On:02-Nov-2010 10:43:21 UTC
+Expiration Date:12-Nov-2011 08:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tusiELdjyrGRjhPg
+Registrant Name:Jason Ozin
+Registrant Street1:51 The Drive
+Registrant Street2:_
+Registrant Street3:
+Registrant City:Edgware
+Registrant State/Province:Middlesex
+Registrant Postal Code:HA88PS
+Registrant Country:GB
+Registrant Phone:+99.999999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@swiftinter.net
+Admin ID:tuASkzQbMP12cstt
+Admin Name:Swift Hostmaster
+Admin Street1:Swift Internet
+Admin Street2:Greenlands Business Centre, Studley Road
+Admin Street3:
+Admin City:Redditch
+Admin State/Province:Worcestershire
+Admin Postal Code:B987HD
+Admin Country:GB
+Admin Phone:+44.01527500940
+Admin Phone Ext.:
+Admin FAX:+44.01527500934
+Admin FAX Ext.:
+Admin Email:hostmaster@swiftinter.net
+Tech ID:tuBui4hk3u6VbvDK
+Tech Name:Swift Hostmaster
+Tech Street1:Swift Internet
+Tech Street2:Greenlands Business Centre,Studley Road
+Tech Street3:
+Tech City:Redditch
+Tech State/Province:Worcestershire
+Tech Postal Code:B987HD
+Tech Country:GB
+Tech Phone:+44.1527500940
+Tech Phone Ext.:
+Tech FAX:+44.1527500934
+Tech FAX Ext.:
+Tech Email:hostmaster@swiftinter.net
+Name Server:NS0.SWIFTINTER.NET
+Name Server:NS1.SWIFTINTER.NET
+Name Server:NS2.SWIFTINTER.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

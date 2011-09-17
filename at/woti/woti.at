@@ -1,0 +1,73 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         woti.at
+registrant:     NN8042520-NICAT
+admin-c:        NN8042521-NICAT
+tech-c:         NN8042522-NICAT
+nserver:        ns1.ns-serve.net
+remarks:        193.254.185.254
+nserver:        ns2.ns-serve.net
+remarks:        193.254.187.110
+changed:        20110509 21:24:18
+source:         AT-DOM
+
+personname:     Ceyhan Askin
+organization:   none
+street address: Resadiye cad yelkovan ismerkezi kat4 no198
+postal code:    26040
+city:           Eskisehir
+country:        Turkey
+phone:          +902222335699
+fax-no:         +902222335699
+e-mail:         askin.ceyhan@gmail.com
+nic-hdl:        NN8042520-NICAT
+changed:        20110509 21:24:18
+source:         AT-DOM
+
+personname:     Ceyhan Askin
+organization:   none
+street address: Resadiye cad yelkovan ismerkezi kat4 no198
+postal code:    26040
+city:           Eskisehir
+country:        Turkey
+phone:          +902222335699
+fax-no:         +902222335699
+e-mail:         askin.ceyhan@gmail.com
+nic-hdl:        NN8042521-NICAT
+changed:        20110509 21:24:18
+source:         AT-DOM
+
+personname:     Kanwischer Markus
+organization:   Flatbooster
+street address: Venise-Gosnat-Strasse 28
+postal code:    14770
+city:           Brandenburg
+country:        Germany
+phone:          +493381563301
+fax-no:         +4933812690329
+e-mail:         support@flatbooster.de
+nic-hdl:        NN8042522-NICAT
+changed:        20110509 21:24:18
+source:         AT-DOM
+

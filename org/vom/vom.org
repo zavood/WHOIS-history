@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4185862-LROR
+Domain Name:VOM.ORG
+Created On:20-Dec-1996 05:00:00 UTC
+Last Updated On:13-Oct-2010 03:16:48 UTC
+Expiration Date:19-Dec-2016 05:00:00 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:222555a274a
+Registrant Name:Network  Operations
+Registrant Organization:VOM
+Registrant Street1:PO Box 443
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bartlesville
+Registrant State/Province:OK
+Registrant Postal Code:74005
+Registrant Country:US
+Registrant Phone:+1.9188760286
+Registrant Phone Ext.:
+Registrant FAX:+1.9188760286
+Registrant FAX Ext.:
+Registrant Email:noc@vom-usa.org
+Admin ID:222555a274a
+Admin Name:Network  Operations
+Admin Organization:VOM
+Admin Street1:PO Box 443
+Admin Street2:
+Admin Street3:
+Admin City:Bartlesville
+Admin State/Province:OK
+Admin Postal Code:74005
+Admin Country:US
+Admin Phone:+1.9188760286
+Admin Phone Ext.:
+Admin FAX:+1.9188760286
+Admin FAX Ext.:
+Admin Email:noc@vom-usa.org
+Tech ID:222555a274a
+Tech Name:Network  Operations
+Tech Organization:VOM
+Tech Street1:PO Box 443
+Tech Street2:
+Tech Street3:
+Tech City:Bartlesville
+Tech State/Province:OK
+Tech Postal Code:74005
+Tech Country:US
+Tech Phone:+1.9188760286
+Tech Phone Ext.:
+Tech FAX:+1.9188760286
+Tech FAX Ext.:
+Tech Email:noc@vom-usa.org
+Name Server:NS1.ROLLERNET.US
+Name Server:NS2.ROLLERNET.US
+Name Server:GDNS1.MOVACI.NET
+Name Server:GDNS2.MOVACI.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156203178-LROR
+Domain Name:TRAVELEXPERTGUIDE.ORG
+Created On:21-May-2009 10:32:07 UTC
+Last Updated On:30-May-2011 08:18:04 UTC
+Expiration Date:21-May-2013 10:32:07 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:84058bbd11b8403c
+Registrant Name:Valentin  Nichifor
+Registrant Street1:Str. Sabinelor nr.5 bl.E4 Sc.B ap12
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tulcea
+Registrant State/Province:TL
+Registrant Postal Code:820119
+Registrant Country:RO
+Registrant Phone:+40.722702393
+Registrant Phone Ext.:
+Registrant FAX:+40.722702393
+Registrant FAX Ext.:
+Registrant Email:iulianapostole@gmail.com
+Admin ID:84058bbd11b8403c
+Admin Name:Valentin  Nichifor
+Admin Street1:Str. Sabinelor nr.5 bl.E4 Sc.B ap12
+Admin Street2:
+Admin Street3:
+Admin City:Tulcea
+Admin State/Province:TL
+Admin Postal Code:820119
+Admin Country:RO
+Admin Phone:+40.722702393
+Admin Phone Ext.:
+Admin FAX:+40.722702393
+Admin FAX Ext.:
+Admin Email:iulianapostole@gmail.com
+Tech ID:84058bbd11b8403c
+Tech Name:Valentin  Nichifor
+Tech Street1:Str. Sabinelor nr.5 bl.E4 Sc.B ap12
+Tech Street2:
+Tech Street3:
+Tech City:Tulcea
+Tech State/Province:TL
+Tech Postal Code:820119
+Tech Country:RO
+Tech Phone:+40.722702393
+Tech Phone Ext.:
+Tech FAX:+40.722702393
+Tech FAX Ext.:
+Tech Email:iulianapostole@gmail.com
+Name Server:NS7.HOSTNINE.COM
+Name Server:NS8.HOSTNINE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

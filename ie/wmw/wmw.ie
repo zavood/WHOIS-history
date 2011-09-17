@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      wmw.ie
+descr:       Winter Music Weekend Festival
+descr:       Unincorporated Association
+descr:       Unincorporated Association Name
+admin-c:     ABQ630-IEDR
+tech-c:      AAM546-IEDR
+renewal:     27-October-2011
+status:      Active
+nserver:     NS1.WEBHOSTINGIRELAND.IE
+nserver:     NS2.WEBHOSTINGIRELAND.IE
+nserver:     NS3.WEBHOSTINGIRELAND.IE
+source:      IEDR
+
+person:      Rory Walsh
+nic-hdl:     ABQ630-IEDR
+source:      IEDR
+
+person:      Hostingireland.ie Hostmaster
+nic-hdl:     AAM546-IEDR
+source:      IEDR
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D86913507-LROR
+Domain Name:DGSO.ORG
+Created On:24-May-2002 14:18:11 UTC
+Last Updated On:24-May-2011 20:37:18 UTC
+Expiration Date:24-May-2021 14:18:11 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20892248-NSI
+Registrant Name:DouglasCountySheriff's Office
+Registrant Organization:DouglasCountySheriff's Office
+Registrant Street1:111 E. 11th St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lawrence
+Registrant State/Province:KS
+Registrant Postal Code:66044
+Registrant Country:US
+Registrant Phone:+1.78584100
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:srector@douglas-county.com
+Admin ID:20892248-NSI
+Admin Name:DouglasCountySheriff's Office
+Admin Organization:DouglasCountySheriff's Office
+Admin Street1:111 E. 11th St.
+Admin Street2:
+Admin Street3:
+Admin City:Lawrence
+Admin State/Province:KS
+Admin Postal Code:66044
+Admin Country:US
+Admin Phone:+1.78584100
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:srector@douglas-county.com
+Tech ID:20892248-NSI
+Tech Name:DouglasCountySheriff's Office
+Tech Organization:DouglasCountySheriff's Office
+Tech Street1:111 E. 11th St.
+Tech Street2:
+Tech Street3:
+Tech City:Lawrence
+Tech State/Province:KS
+Tech Postal Code:66044
+Tech Country:US
+Tech Phone:+1.78584100
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:srector@douglas-county.com
+Name Server:KS01.STATE.KS.US
+Name Server:KS03.STATE.KS.US
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

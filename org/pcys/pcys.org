@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D84493586-LROR
+Domain Name:PCYS.ORG
+Created On:14-Mar-2002 15:35:56 UTC
+Last Updated On:11-Dec-2009 18:45:49 UTC
+Expiration Date:14-Mar-2018 15:35:56 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34823929
+Registrant Name:Patty Bales
+Registrant Organization:Payne County Youth Services
+Registrant Street1:2224 West 12th
+Registrant Street2:
+Registrant Street3:
+Registrant City:Stillwater
+Registrant State/Province:Oklahoma
+Registrant Postal Code:74074
+Registrant Country:US
+Registrant Phone:+1.4053773380
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@interworksinc.com
+Admin ID:CR34823931
+Admin Name:Staci Bejcek
+Admin Organization:InterWorks, Inc.
+Admin Street1:1425 S. Sangre Rd.
+Admin Street2:
+Admin Street3:
+Admin City:Stillwater
+Admin State/Province:Oklahoma
+Admin Postal Code:74074
+Admin Country:US
+Admin Phone:+1.4056243214
+Admin Phone Ext.:
+Admin FAX:+1.4055331039
+Admin FAX Ext.:
+Admin Email:domains@interworksinc.com
+Tech ID:CR34823930
+Tech Name:Staci Bejcek
+Tech Organization:InterWorks, Inc.
+Tech Street1:1425 S. Sangre Rd
+Tech Street2:
+Tech Street3:
+Tech City:Stillwater
+Tech State/Province:Oklahoma
+Tech Postal Code:74074
+Tech Country:US
+Tech Phone:+1.4056243214
+Tech Phone Ext.:
+Tech FAX:+1.4055331039
+Tech FAX Ext.:
+Tech Email:domains@interworksinc.com
+Name Server:NS.INBOXINC.COM
+Name Server:NS2.INBOXINC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

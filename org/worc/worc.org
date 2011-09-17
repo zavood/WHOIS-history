@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D722672-LROR
+Domain Name:WORC.ORG
+Created On:10-Jun-1996 04:00:00 UTC
+Last Updated On:03-Oct-2008 15:08:59 UTC
+Expiration Date:09-Jun-2013 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20141919-NSI
+Registrant Name:Western Organization Resource Council
+Registrant Organization:Western Organization Resource Council
+Registrant Street1:220 South 27th Street, Suite B
+Registrant Street2:
+Registrant Street3:
+Registrant City:Billings
+Registrant State/Province:MT
+Registrant Postal Code:59101
+Registrant Country:US
+Registrant Phone:+1.406252967
+Registrant Phone Ext.:
+Registrant FAX:+1.406252109
+Registrant FAX Ext.:
+Registrant Email:janel@WORC.ORG
+Admin ID:39672300-NSI
+Admin Name:Tim Ennis
+Admin Organization:WORC
+Admin Street1:220 South 27th Street
+Admin Street2:
+Admin Street3:
+Admin City:Billings
+Admin State/Province:MT
+Admin Postal Code:59101
+Admin Country:US
+Admin Phone:+1.406252967
+Admin Phone Ext.:
+Admin FAX:+1.406252109
+Admin FAX Ext.:
+Admin Email:tennis@worc.org
+Tech ID:39672300-NSI
+Tech Name:Tim Ennis
+Tech Organization:WORC
+Tech Street1:220 South 27th Street
+Tech Street2:
+Tech Street3:
+Tech City:Billings
+Tech State/Province:MT
+Tech Postal Code:59101
+Tech Country:US
+Tech Phone:+1.406252967
+Tech Phone Ext.:
+Tech FAX:+1.406252109
+Tech FAX Ext.:
+Tech Email:tennis@worc.org
+Name Server:NS1.LUNARBREEZE.COM
+Name Server:NS2.LUNARBREEZE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
