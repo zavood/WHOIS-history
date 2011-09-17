@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 19-jan-2004
    Expiration Date: 19-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:31:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 08:17:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,6 +70,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: principalfunds.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 22:22:28 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sat Sep 17 04:07:13 EDT 2011
 Reason Code: IE

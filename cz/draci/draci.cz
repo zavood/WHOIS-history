@@ -1,0 +1,74 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sat Sep 17 10:00:48 2011
+
+domain:       draci.cz
+registrant:   SB:PRODRACI-CZ
+admin-c:      AN-001
+nsset:        FORPSI
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   09.02.1999 01:00:00
+changed:      17.10.2008 09:56:08
+expire:       07.10.2015
+
+contact:      SB:PRODRACI-CZ
+org:          Pro Draci s.r.o.
+name:         Pro Draci s.r.o.
+address:      Horakova 715/8
+address:      Brno
+address:      602 00
+address:      CZ
+e-mail:       pro@draci.cz
+registrar:    REG-INTERNET-CZ
+created:      26.08.2002 13:16:00
+changed:      21.07.2003 14:36:00
+
+contact:      AN-001
+name:         Arnost Nesnal
+address:      Horakova 715/8
+address:      Brno
+address:      602 00
+address:      CZ
+e-mail:       pro@draci.cz
+registrar:    REG-INTERNET-CZ
+created:      26.08.2002 13:06:00
+
+nsset:        FORPSI
+nserver:      ns.forpsi.net
+nserver:      ns.forpsi.cz (81.2.209.185)
+nserver:      ns.forpsi.it
+tech-c:       FORPSI
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 10:19:47
+changed:      30.09.2010 10:21:36
+
+contact:      FORPSI
+org:          INTERNET CZ, a.s.
+name:         Stefano Cecconi
+address:      Kti&Aring;&iexcl; 2
+address:      Kti&Aring;&iexcl;
+address:      38403
+address:      CZ
+fax-no:       +420.383835354
+registrar:    REG-INTERNET-CZ
+created:      04.08.2008 14:42:08
+changed:      06.06.2011 13:55:12
+
+

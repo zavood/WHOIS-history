@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2045322-LROR
+Domain Name:MDSCI.ORG
+Created On:20-Nov-1996 05:00:00 UTC
+Last Updated On:19-Nov-2007 15:06:57 UTC
+Expiration Date:19-Nov-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31455984-NSI
+Registrant Name:Maryland Science Center
+Registrant Organization:Maryland Science Center
+Registrant Street1:601 Light St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Baltimore
+Registrant State/Province:MD
+Registrant Postal Code:21230
+Registrant Country:US
+Registrant Phone:+1.41054559
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rcampbell@MDSCI.ORG
+Admin ID:31455984-NSI
+Admin Name:Maryland Science Center
+Admin Organization:Maryland Science Center
+Admin Street1:601 Light St.
+Admin Street2:
+Admin Street3:
+Admin City:Baltimore
+Admin State/Province:MD
+Admin Postal Code:21230
+Admin Country:US
+Admin Phone:+1.41054559
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rcampbell@MDSCI.ORG
+Tech ID:5449487-NSI
+Tech Name:Bob Roswell
+Tech Street1:338 Clubhouse Rd.
+Tech Street2:
+Tech Street3:
+Tech City:Hunt Valley
+Tech State/Province:MD
+Tech Postal Code:21031
+Tech Country:US
+Tech Phone:+1.4107715544
+Tech Phone Ext.:
+Tech FAX:+1.4107830687
+Tech FAX Ext.:
+Tech Email:dns@syssrc.com
+Name Server:DNS.SYSSRC.COM
+Name Server:BACKDNS.SYSSRC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

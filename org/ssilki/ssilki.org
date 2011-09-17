@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153152272-LROR
+Domain Name:SSILKI.ORG
+Created On:30-Jun-2008 01:55:15 UTC
+Last Updated On:26-Jun-2011 22:34:34 UTC
+Expiration Date:30-Jun-2012 01:55:15 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:OK
+Registrant ID:ONLC-3324227-4
+Registrant Name:Oleksandr O Yurchenko
+Registrant Organization:Oleksandr O Yurchenko
+Registrant Street1:Smolenskaya Str.,31/33, o.613
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kyiv
+Registrant State/Province:Kyiv
+Registrant Postal Code:03005
+Registrant Country:UA
+Registrant Phone:+380.444912191
+Registrant Phone Ext.:
+Registrant FAX:+380.444912191
+Registrant FAX Ext.:
+Registrant Email:admin@uacatalog.org
+Admin ID:ONLC-3324227-1
+Admin Name:Oleksandr O Yurchenko
+Admin Organization:Oleksandr O Yurchenko
+Admin Street1:Smolenskaya Str.,31/33, o.613
+Admin Street2:
+Admin Street3:
+Admin City:Kyiv
+Admin State/Province:Kyiv
+Admin Postal Code:03005
+Admin Country:UA
+Admin Phone:+380.444912191
+Admin Phone Ext.:
+Admin FAX:+380.444912191
+Admin FAX Ext.:
+Admin Email:admin@uacatalog.org
+Tech ID:ONLC-3324227-2
+Tech Name:Oleksandr O Yurchenko
+Tech Organization:Oleksandr O Yurchenko
+Tech Street1:Smolenskaya Str.,31/33, o.613
+Tech Street2:
+Tech Street3:
+Tech City:Kyiv
+Tech State/Province:Kyiv
+Tech Postal Code:03005
+Tech Country:UA
+Tech Phone:+380.444912191
+Tech Phone Ext.:
+Tech FAX:+380.444912191
+Tech FAX Ext.:
+Tech Email:admin@uacatalog.org
+Name Server:NS1.1GB.UA
+Name Server:NS2.1GB.UA
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

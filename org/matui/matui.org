@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D30329443-LROR
+Domain Name:MATUI.ORG
+Created On:29-Jun-2000 01:13:17 UTC
+Last Updated On:28-Jun-2011 15:05:19 UTC
+Expiration Date:29-Jun-2012 01:13:17 UTC
+Sponsoring Registrar:GMO Internet, Inc. d/b/a Onamae.com (R43-LROR)
+Status:OK
+Registrant ID:GMOPRE235227
+Registrant Name:Noboru Kamata Noboru Kamata
+Registrant Organization:Noboru Kamata
+Registrant Street1:1-56-5 Nogata
+Registrant Street2:
+Registrant Street3:
+Registrant City:Nakano-ku
+Registrant State/Province:Tokyo
+Registrant Postal Code:165-0027
+Registrant Country:JP
+Registrant Phone:+81.999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@onamae.com
+Admin ID:GMO-333165
+Admin Name:Broad Server
+Admin Organization:GMO Internet, Inc.
+Admin Street1:26-1 Sakuragaoka-cho
+Admin Street2:Cerulean Tower
+Admin Street3:
+Admin City:Shibuya-ku
+Admin State/Province:tokyo
+Admin Postal Code:150-8512
+Admin Country:JP
+Admin Phone:+81.0354562555
+Admin Phone Ext.:
+Admin FAX:+81.0354562556
+Admin FAX Ext.:
+Admin Email:domain@broadserver.jp
+Tech ID:GMO-312951
+Tech Name:RentalServer Company
+Tech Organization:Global Media Online Inc.
+Tech Street1:26-1 Sakuragaoka-cho
+Tech Street2:Cerulean Tower
+Tech Street3:
+Tech City:Shibuya-ku
+Tech State/Province:Tokyo
+Tech Postal Code:150-8512
+Tech Country:JP
+Tech Phone:+81.0354562555
+Tech Phone Ext.:
+Tech FAX:+81.0354562556
+Tech FAX Ext.:
+Tech Email:domain@broadserver.jp
+Name Server:DNS1.INTERQ.OR.JP
+Name Server:DNS.INTERQ.OR.JP
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

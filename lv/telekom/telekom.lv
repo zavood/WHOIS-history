@@ -1,0 +1,36 @@
+[Domain]
+Domain: telekom.lv
+Status: active
+Changed: 2010-02-15T11:36:25+02:00
+
+[Holder]
+Type: Legal person
+Name: Lattelecom, SIA
+Email: dns.apollo@lattelecom.lv
+Fax: +371-67055774
+Phone: +371 67324799
+Address: Lattelecom Gramatvedibas Norekinu grupai, G.Astras iela 2, Riga, Latvija
+RegNr: 40003052786
+
+[Tech]
+Type: Natural person
+Email: web@apollo.lv
+Fax: +371-67050114
+Phone: 177
+
+[Registrar]
+Type: Legal person
+Name: Lattelecom, SIA
+Email: dns.apollo@lattelecom.lv
+Fax: +371-67055774
+Phone: +371 67324799
+Address: Lattelecom Gramatvedibas Norekinu grupai, G.Astras iela 2, Riga, Latvija
+RegNr: 40003052786
+
+[Nservers]
+Nserver: ns.online.lv
+Nserver: avalon.telekom.lv
+Nserver: fion.telekom.lv
+
+[Whois]
+Updated: 2011-09-17T05:12:25.350513+00:00

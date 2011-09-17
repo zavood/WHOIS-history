@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      mandate.ie
+descr:       Mandate Trade Union
+descr:       Unincorporated Association
+descr:       Unincorporated Association Name
+admin-c:     ON3-IEDR
+tech-c:      CP27-IEDR
+renewal:     01-November-2012
+status:      Active
+nserver:     ns8.digiweb.ie
+nserver:     ns9.digiweb.ie
+source:      IEDR
+
+person:      Owen Nulty
+nic-hdl:     ON3-IEDR
+source:      IEDR
+
+person:      Colm Piercy
+nic-hdl:     CP27-IEDR
+source:      IEDR
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3290024-LROR
+Domain Name:AMSAT.ORG
+Created On:03-Jan-1992 05:00:00 UTC
+Last Updated On:26-Jan-2009 20:13:31 UTC
+Expiration Date:02-Jan-2017 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:19956484-NSI
+Registrant Name:RadioAmateurSatellite Corp (AMSAT)
+Registrant Organization:RadioAmateurSatellite Corp (AMSAT)
+Registrant Street1:Box 27
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20044
+Registrant Country:US
+Registrant Phone:+1.61953468
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:brian@UCSD.EDU
+Admin ID:5523676-NSI
+Admin Name:Brian Kantor
+Admin Organization:Univ Calif San Diego
+Admin Street1:9500 Gilman Dr m/s 0404
+Admin Street2:
+Admin Street3:
+Admin City:La Jolla
+Admin State/Province:CA
+Admin Postal Code:92093-0404
+Admin Country:US
+Admin Phone:+1.8585340000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bkantor@UCSD.EDU
+Tech ID:5523676-NSI
+Tech Name:Brian Kantor
+Tech Organization:Univ Calif San Diego
+Tech Street1:9500 Gilman Dr m/s 0404
+Tech Street2:
+Tech Street3:
+Tech City:La Jolla
+Tech State/Province:CA
+Tech Postal Code:92093-0404
+Tech Country:US
+Tech Phone:+1.8585340000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bkantor@UCSD.EDU
+Name Server:NS1.UCSD.EDU
+Name Server:HAMRADIO.UCSD.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

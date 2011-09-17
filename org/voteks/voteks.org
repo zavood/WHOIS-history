@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104512792-LROR
+Domain Name:VOTEKS.ORG
+Created On:09-Jun-2004 13:45:48 UTC
+Last Updated On:10-Apr-2011 07:01:57 UTC
+Expiration Date:09-Jun-2012 13:45:48 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20107358-NSI
+Registrant Name:Kansas Secretary of State
+Registrant Organization:Kansas Secretary of State
+Registrant Street1:120 SW 10th Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Topeka
+Registrant State/Province:KS
+Registrant Postal Code:66612
+Registrant Country:US
+Registrant Phone:+1.7853688025
+Registrant Phone Ext.:
+Registrant FAX:+1.7853688031
+Registrant FAX Ext.:
+Registrant Email:mikes@KSSOS.ORG
+Admin ID:20107356-NSI
+Admin Name:Chad Champney
+Admin Street1:120 SW 10th Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Topeka
+Admin State/Province:KS
+Admin Postal Code:66612
+Admin Country:US
+Admin Phone:+1.7852913370
+Admin Phone Ext.:
+Admin FAX:+1.7853688031
+Admin FAX Ext.:
+Admin Email:chadc@kssos.org
+Tech ID:5358805-NSI
+Tech Name:Network Solutions, LLC.
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:KS01.STATE.KS.US
+Name Server:KS03.STATE.KS.US
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2439466-LROR
+Domain Name:ELSNET.ORG
+Created On:18-Aug-1996 04:00:00 UTC
+Last Updated On:21-Jul-2009 14:15:36 UTC
+Expiration Date:17-Aug-2014 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25192194-NSI
+Registrant Name:ELSNET Foundation
+Registrant Organization:ELSNET Foundation
+Registrant Street1:Trans 10
+Registrant Street2:
+Registrant Street3:
+Registrant City:Utrecht
+Registrant State/Province:
+Registrant Postal Code:3512JK
+Registrant Country:NL
+Registrant Phone:+1.31030253
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:elsnet@LET.UU.NL
+Admin ID:25192196-NSI
+Admin Name:ELSNET Foundation
+Admin Organization:ELSNET Foundation
+Admin Street1:Trans 10
+Admin Street2:3512 JK UTRECHT
+Admin Street3:
+Admin City:Utrecht
+Admin State/Province:
+Admin Postal Code:3512 JK
+Admin Country:NL
+Admin Phone:+1.31302536
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:elsnet@LET.UU.NL
+Tech ID:25192194-NSI
+Tech Name:ELSNET Foundation
+Tech Organization:ELSNET Foundation
+Tech Street1:Trans 10
+Tech Street2:
+Tech Street3:
+Tech City:Utrecht
+Tech State/Province:
+Tech Postal Code:3512JK
+Tech Country:NL
+Tech Phone:+1.31030253
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:elsnet@LET.UU.NL
+Name Server:NS1.LET.UU.NL
+Name Server:NS2.LET.UU.NL
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

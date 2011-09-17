@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; aranet.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      aranet.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    A20851-FRNIC
+admin-c:     JCS97-FRNIC
+tech-c:      TN338-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1789-FRNIC
+registrar:   Soci&eacute;t&eacute; Fran&ccedil;aise du Radiot&eacute;l&eacute;phone - SFR
+anniversary: 29/11
+created:     20/06/2002
+last-update: 02/08/2010
+source:      FRNIC
+
+ns-list:     NSL1789-FRNIC
+nserver:     ns1.ara.fr [178.33.41.84]
+nserver:     ns2.ara.fr [91.121.63.116]
+nserver:     ns2.9services.com
+source:      FRNIC
+
+registrar:   Soci&eacute;t&eacute; Fran&ccedil;aise du Radiot&eacute;l&eacute;phone - SFR
+type:        Isp Option 1
+address:     42 Avenue de Friedland
+address:     PARIS
+country:     FR
+phone:       +33 1 70 18 43 56
+fax-no:      +33 8 11 90 03 78
+e-mail:      serge.ribeiro@sfr.com
+website:     http://www.sfrbusinessteam.fr
+anonymous:   NO
+registered:  02/08/2010
+source:      FRNIC
+
+nic-hdl:     TN338-FRNIC
+type:        ROLE
+contact:     TELECOM NOC
+address:     9TELECOM
+address:     38, quai du Point du Jour
+address:     92659 Boulogne-Billancourt Cedex
+country:     FR
+e-mail:      noc@9tel.net
+admin-c:     CG2185-FRNIC
+tech-c:      DT1109-FRNIC
+notify:      ripe-dbm@9tel.net
+changed:     02/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JCS97-FRNIC
+type:        PERSON
+contact:     Jean Christophe Salierno
+address:     ARANET
+address:     zone d'activites Espace Goujon
+address:     855, avenue Leo Delibes
+address:     60750 Choisy-au-Bac
+country:     FR
+phone:       +33 3 44 85 10 55
+e-mail:      postmaster@aranet.fr
+changed:     02/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     A20851-FRNIC
+type:        ORGANIZATION
+contact:     ARANET
+address:     zone d'activites Espace Goujon
+address:     855, avenue Leo Delibes
+address:     60750 Choisy-au-Bac
+country:     FR
+phone:       +33 3 44 85 10 55
+e-mail:      postmaster@aranet.fr
+changed:     02/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
