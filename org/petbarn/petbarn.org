@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D87138154-LROR
+Domain Name:PETBARN.ORG
+Created On:31-May-2002 19:30:26 UTC
+Last Updated On:01-Jun-2011 10:48:14 UTC
+Expiration Date:31-May-2012 19:30:26 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR7316989
+Registrant Name:Mark Alford
+Registrant Organization:Atlantis Marketing LLC
+Registrant Street1:919 Garnet Ave
+Registrant Street2:Suite 212
+Registrant Street3:
+Registrant City:San Diego
+Registrant State/Province:CA
+Registrant Postal Code:92109
+Registrant Country:US
+Registrant Phone:+1.8582722870
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mark.alford@atlantismarketing.net
+Admin ID:CR7316991
+Admin Name:Mark Alford
+Admin Organization:Atlantis Marketing LLC
+Admin Street1:919 Garnet Ave
+Admin Street2:Suite 212
+Admin Street3:
+Admin City:San Diego
+Admin State/Province:CA
+Admin Postal Code:92109
+Admin Country:US
+Admin Phone:+1.8582722870
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mark.alford@atlantismarketing.net
+Tech ID:CR7316990
+Tech Name:Mark Alford
+Tech Organization:Atlantis Marketing LLC
+Tech Street1:919 Garnet Ave
+Tech Street2:Suite 212
+Tech Street3:
+Tech City:San Diego
+Tech State/Province:CA
+Tech Postal Code:92109
+Tech Country:US
+Tech Phone:+1.8582722870
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mark.alford@atlantismarketing.net
+Name Server:NS1.PETBARN.ORG
+Name Server:NS2.PETBARN.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

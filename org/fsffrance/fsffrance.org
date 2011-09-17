@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D69700584-LROR
+Domain Name:FSFFRANCE.ORG
+Created On:19-Apr-2001 23:22:34 UTC
+Last Updated On:27-Mar-2011 19:41:57 UTC
+Expiration Date:19-Apr-2012 23:22:34 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-445185-Gandi
+Registrant Name:Free Software Foudation Europe - Chapter France
+Registrant Organization:Free Software Foudation Europe - Chapter France
+Registrant Street1:8 rue de Valois
+Registrant Street2:
+Registrant Street3:
+Registrant City:Paris
+Registrant State/Province:
+Registrant Postal Code:75001
+Registrant Country:FR
+Registrant Phone:+33.142760549
+Registrant Phone Ext.:
+Registrant FAX:+33.173724561
+Registrant FAX Ext.:
+Registrant Email:2ad69f0d679ef26df87a5dc9130303f8-446974@owner.gandi.net
+Admin ID:RR59-GANDI
+Admin Name:Rousseau RaphaAl
+Admin Street1:Whois Protege / Obfuscated whois
+Admin Street2:Gandi, 15 place de la Nation
+Admin Street3:
+Admin City:Paris
+Admin State/Province:
+Admin Postal Code:75011
+Admin Country:FR
+Admin Phone:+33.170377666
+Admin Phone Ext.:
+Admin FAX:+33.143730576
+Admin FAX Ext.:
+Admin Email:a7962812cd55c390bbb1af719809038b-30297@contact.gandi.net
+Tech ID:LD284-GANDI
+Tech Name:Loic Dachary
+Tech Organization:FSF France
+Tech Street1:12 bd Magenta
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:75010
+Tech Country:FR
+Tech Phone:+33.142760549
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:loic@senga.org
+Name Server:NS1.FSFFRANCE.ORG
+Name Server:NS6.POKERSOURCE.INFO
+Name Server:NS10.FSFFRANCE.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

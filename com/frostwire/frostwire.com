@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 20-sep-2005
    Expiration Date: 20-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 09:30:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 23:16:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Domains by Proxy, Inc.
-   DomainsByProxy.com
-   15111 N. Hayden Rd., Ste 160, PMB 353
-   Scottsdale, Arizona 85260
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: FROSTWIRE.COM
-      Created on: 20-Sep-05
-      Expires on: 20-Sep-12
-      Last Updated on: 02-Jan-07
-
-   Administrative Contact:
-      Private, Registration  FROSTWIRE.COM@domainsbyproxy.com
-      Domains by Proxy, Inc.
-      DomainsByProxy.com
-      15111 N. Hayden Rd., Ste 160, PMB 353
-      Scottsdale, Arizona 85260
-      United States
-      (480) 624-2599      Fax -- (480) 624-2598
-
-   Technical Contact:
-      Private, Registration  FROSTWIRE.COM@domainsbyproxy.com
-      Domains by Proxy, Inc.
-      DomainsByProxy.com
-      15111 N. Hayden Rd., Ste 160, PMB 353
-      Scottsdale, Arizona 85260
-      United States
-      (480) 624-2599      Fax -- (480) 624-2598
 
    Domain servers in listed order:
       DNS.SITE5.COM
       DNS2.SITE5.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=FROSTWIRE.COM

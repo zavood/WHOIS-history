@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 08-nov-2010
    Expiration Date: 08-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 17:20:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 22:36:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -93,8 +93,8 @@ country:      CZ
 phone:        +420.296332211
 
 source:       joker.com live whois service
-query-time:   0.035485
-db-updated:   2011-09-16 17:20:46
+query-time:   0.047587
+db-updated:   2011-09-17 22:37:24
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

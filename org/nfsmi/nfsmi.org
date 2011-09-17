@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6538645-LROR
+Domain Name:NFSMI.ORG
+Created On:14-May-1999 22:20:14 UTC
+Last Updated On:12-Apr-2005 16:07:52 UTC
+Expiration Date:14-May-2014 22:19:47 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:502044-NSI
+Registrant Name:NFSMI
+Registrant Organization:NFSMI
+Registrant Street1:6 Jeanette Phillips Drive
+Registrant Street2:PO Box 188
+Registrant Street3:
+Registrant City:UNIVERSITY
+Registrant State/Province:MS
+Registrant Postal Code:38677
+Registrant Country:US
+Registrant Phone:+1.8003213054
+Registrant Phone Ext.:
+Registrant FAX:+1.8003213061
+Registrant FAX Ext.:
+Registrant Email:jreeves@olemiss.edu
+Admin ID:502044-NSI
+Admin Name:NFSMI
+Admin Organization:NFSMI
+Admin Street1:6 Jeanette Phillips Drive
+Admin Street2:PO Box 188
+Admin Street3:
+Admin City:UNIVERSITY
+Admin State/Province:MS
+Admin Postal Code:38677
+Admin Country:US
+Admin Phone:+1.8003213054
+Admin Phone Ext.:
+Admin FAX:+1.8003213061
+Admin FAX Ext.:
+Admin Email:jreeves@olemiss.edu
+Tech ID:502044-NSI
+Tech Name:NFSMI
+Tech Organization:NFSMI
+Tech Street1:6 Jeanette Phillips Drive
+Tech Street2:PO Box 188
+Tech Street3:
+Tech City:UNIVERSITY
+Tech State/Province:MS
+Tech Postal Code:38677
+Tech Country:US
+Tech Phone:+1.8003213054
+Tech Phone Ext.:
+Tech FAX:+1.8003213061
+Tech FAX Ext.:
+Tech Email:jreeves@olemiss.edu
+Name Server:NS1.OLEMISS.EDU
+Name Server:NS2.OLEMISS.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

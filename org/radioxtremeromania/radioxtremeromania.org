@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153579915-LROR
+Domain Name:RADIOXTREMEROMANIA.ORG
+Created On:12-Aug-2008 14:07:59 UTC
+Last Updated On:13-Aug-2011 01:22:57 UTC
+Expiration Date:12-Aug-2012 14:07:59 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:DI_8558560
+Registrant Name:Hruscovschi Christian Erwin
+Registrant Organization:None
+Registrant Street1:Alexandru Vlahuta 3-9
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hunedoara
+Registrant State/Province:Romania
+Registrant Postal Code:331009
+Registrant Country:RO
+Registrant Phone:+40.0740800486
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:radioxtremeromania@yahoo.com
+Admin ID:DI_8558560
+Admin Name:Hruscovschi Christian Erwin
+Admin Organization:None
+Admin Street1:Alexandru Vlahuta 3-9
+Admin Street2:
+Admin Street3:
+Admin City:Hunedoara
+Admin State/Province:Romania
+Admin Postal Code:331009
+Admin Country:RO
+Admin Phone:+40.0740800486
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:radioxtremeromania@yahoo.com
+Tech ID:DI_8558560
+Tech Name:Hruscovschi Christian Erwin
+Tech Organization:None
+Tech Street1:Alexandru Vlahuta 3-9
+Tech Street2:
+Tech Street3:
+Tech City:Hunedoara
+Tech State/Province:Romania
+Tech Postal Code:331009
+Tech Country:RO
+Tech Phone:+40.0740800486
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:radioxtremeromania@yahoo.com
+Name Server:DNS.PARKPAGE.FOUNDATIONAPI.COM
+Name Server:DNS2.PARKPAGE.FOUNDATIONAPI.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
