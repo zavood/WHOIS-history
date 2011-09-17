@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83254809-LROR
+Domain Name:BCMW-IL.ORG
+Created On:01-Feb-2002 20:09:55 UTC
+Last Updated On:24-Mar-2008 14:02:29 UTC
+Expiration Date:01-Feb-2017 20:09:55 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-7OMIF6O2VKD2
+Registrant Name:Pat Swango
+Registrant Street1:909 E. Rexford St.
+Registrant Street2:Centralia IL 62801
+Registrant Street3:
+Registrant City:Centralia
+Registrant State/Province:IL
+Registrant Postal Code:62801
+Registrant Country:US
+Registrant Phone:+1.6185327388
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:pat.swango@bcmw-il.org
+Admin ID:DOT-BXJMVQBW1PD1
+Admin Name:Pat Swango
+Admin Street1:909 E. Rexford St.
+Admin Street2:Centralia IL 62801
+Admin Street3:
+Admin City:Centralia
+Admin State/Province:IL
+Admin Postal Code:62801
+Admin Country:US
+Admin Phone:+1.6185327388
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:pat.swango@bcmw-il.org
+Tech ID:DOT-PUMJ0603TUK6
+Tech Name:Roger Wolff
+Tech Street1:909 E. Rexford
+Tech Street2:
+Tech Street3:
+Tech City:Centralia
+Tech State/Province:IL
+Tech Postal Code:62801
+Tech Country:US
+Tech Phone:+1.6185323552
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bcmwwebmaster@bcmw-il.org
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

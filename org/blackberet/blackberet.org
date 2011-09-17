@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D92423077-LROR
+Domain Name:BLACKBERET.ORG
+Created On:21-Nov-2002 05:41:27 UTC
+Last Updated On:16-Nov-2010 03:51:43 UTC
+Expiration Date:21-Nov-2013 05:41:27 UTC
+Sponsoring Registrar:Netpia.com Inc. (R109-LROR)
+Status:OK
+Registrant ID:ORG0000203-NP
+Registrant Name:INSOO, LEE
+Registrant Organization:INSOO, LEE
+Registrant Street1:Nam-gu
+Registrant Street2:Baekjak Mansion Daemyeong 5(o)-dong
+Registrant Street3:
+Registrant City:Daegu
+Registrant State/Province:
+Registrant Postal Code:705760
+Registrant Country:KR
+Registrant Phone:+82.0536252657
+Registrant Phone Ext.:
+Registrant FAX:+82.0536517415
+Registrant FAX Ext.:
+Registrant Email:ymclis@hanmail.net
+Admin ID:ORG0002317-NP
+Admin Name:INSOO, LEE
+Admin Organization:INSOO, LEE
+Admin Street1:Nam-gu
+Admin Street2:Baekjak Mansion Daemyeong 5(o)-dong
+Admin Street3:
+Admin City:Daegu
+Admin State/Province:
+Admin Postal Code:705760
+Admin Country:KR
+Admin Phone:+82.0536252657
+Admin Phone Ext.:
+Admin FAX:+82.0536517415
+Admin FAX Ext.:
+Admin Email:ymclis@hanmail.net
+Tech ID:ORG0002317-NP
+Tech Name:INSOO, LEE
+Tech Organization:INSOO, LEE
+Tech Street1:Nam-gu
+Tech Street2:Baekjak Mansion Daemyeong 5(o)-dong
+Tech Street3:
+Tech City:Daegu
+Tech State/Province:
+Tech Postal Code:705760
+Tech Country:KR
+Tech Phone:+82.0536252657
+Tech Phone Ext.:
+Tech FAX:+82.0536517415
+Tech FAX Ext.:
+Tech Email:ymclis@hanmail.net
+Name Server:NS30.DNSEVER.COM
+Name Server:NS46.DNSEVER.COM
+Name Server:NS51.DNSEVER.COM
+Name Server:NS231.DNSEVER.COM
+Name Server:NS259.DNSEVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 22-feb-2001
    Expiration Date: 22-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 02:59:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,52 +52,10 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Your IP address has exceeded the maxiumum number of daily queries.
 
+Please use http://whois.cheapies.com/ for further information.
 
-Authorized Registration Services Provider:
-
-Domain Name Systems
-
-For support regarding this domain please visit
-http://www.domainnamesystems.com
-
-Domain Name: phatservers.com
-Status: clientTransferProhibited
-
-Registrant / Administrative Details:
-
-Domain Administrator
-Phatservers.net
-PMB #241 3089 - C Clairemont Dr.
-N/A
-San Diego
-92117
-US United States
-Tel:   8778056542
-Email: support@phatservers.net
-
-Technical Details:
-
-Domain Administrator
-Phatservers.net
-PMB #241 3089 - C Clairemont Dr.
-N/A
-San Diego
-92117
-US United States
-Tel:   8778056542
-Email: support@phatservers.net
-
-Registration Date:   2001-02-22
-Expiration Date:     2012-02-22
-Domain Last Updated: 2011-02-22 19:43:26.0
-
-Nameserver Information:
-
-ns3.phatservers.com
-ns2.phatservers.com
-ns1.phatservers.com
-
-
+If you are an ICANN accredited registrar, please contact Cheapies.Com, Inc. to have your IP address block whitelisted.
 
 

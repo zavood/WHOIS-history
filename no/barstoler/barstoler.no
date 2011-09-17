@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: BAR3382D-NORID
+Domain Name................: barstoler.no
+Domain Holder Handle.......: DNNN23O-NORID
+Registrar Handle...........: REG802-NORID
+Legal-c Handle.............: ML1713P-NORID
+Tech-c Handle..............: DAAN5P-NORID
+Name Server Handle.........: NSNA109H-NORID
+Name Server Handle.........: NSNA114H-NORID
+
+Additional information:
+Created:         2008-11-17
+Last updated:    2010-11-19
+
+NORID Handle...............: DNNN23O-NORID
+Type.......................: organization
+Name.......................: DOT NO NAMEISP NR 9
+Id Type....................: organization_number
+Id Number..................: 993111481
+Registrar Handle...........: REG802-NORID
+Post Address...............: C/o NORWAY NO ADRESS LIMITED, Postboks 4814
+Postal Code................: NO-0422
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +46.313011220
+Fax Number.................: +46.317090850
+Email Address..............: info@nameisp.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

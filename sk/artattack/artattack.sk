@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         artattack.sk
+Admin-id            ARTA-0016
+Admin-name          ArtAttack / Miroslav Gajdos
+Admin-legal-form    zivnost
+Admin-org.-ID       44618948
+Admin-address       Budatinska 57, Bratislava 851 06
+Admin-telephone     0905 74 73 75, 0905 74 73 75
+Admin-email         artattack@artattack.sk
+Tech-id             YEGO-0001
+Tech-name           Yegon s.r.o.
+Tech-org.-ID        35797924
+Tech-address        Ruzova dolina 6, Bratislava 82108
+Tech-telephone      02/20633171, 0905 612570
+Tech-email          registrator@yegon.sk
+dns_name            ns1.websupport.sk
+dns_name            ns2.websupport.sk
+dns_name            ns3.websupport.sk
+Last-update         2011-05-31
+Valid-date          2012-06-23
+Domain-status       DOM_OK
+

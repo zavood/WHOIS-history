@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94762245-LROR
+Domain Name:PASCALCOLLEGE.ORG
+Created On:12-Mar-2003 13:59:59 UTC
+Last Updated On:11-Feb-2011 09:17:23 UTC
+Expiration Date:12-Mar-2012 13:59:59 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:D42F8EC2CE47896E
+Registrant Name:Michel Balder
+Registrant Organization:Pascal College
+Registrant Street1:Pascal College 4
+Registrant Street2:
+Registrant Street3:
+Registrant City:Zaandam
+Registrant State/Province:N/A
+Registrant Postal Code:1503 DA
+Registrant Country:NL
+Registrant Phone:+31.756167355
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:m.balder@pascalcollege.nl
+Admin ID:D42F8EC2CE47896E
+Admin Name:Michel Balder
+Admin Organization:Pascal College
+Admin Street1:Pascal College 4
+Admin Street2:
+Admin Street3:
+Admin City:Zaandam
+Admin State/Province:N/A
+Admin Postal Code:1503 DA
+Admin Country:NL
+Admin Phone:+31.756167355
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:m.balder@pascalcollege.nl
+Tech ID:6AC48C312EDCC0C1
+Tech Name:Jeroen Bouten
+Tech Organization:Flexwebhosting B.V
+Tech Street1:Doctor Cuyperslaan 76
+Tech Street2:
+Tech Street3:
+Tech City:Eindhoven
+Tech State/Province:
+Tech Postal Code:5623 BB
+Tech Country:NL
+Tech Phone:+31.402359290
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bestellingen@flexwebhosting.nl
+Name Server:NS3.FLEXWEBHOSTING.COM
+Name Server:NS1.FLEXWEBHOSTING.NL
+Name Server:NS2.FLEXWEBHOSTING.NL
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

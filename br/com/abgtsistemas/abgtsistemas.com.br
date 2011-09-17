@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 23:45:52 (BRT -03:00)
+
+domain:      abgtsistemas.com.br
+owner:       ABGT SISTEMAS E SUPRIMENTOS DE INFORMATICA LTDA EP
+ownerid:     010.506.563/0001-00
+responsible: Nelson Aparecido Gomes
+country:     BR
+owner-c:     NEAGO11
+admin-c:     NEAGO11
+tech-c:      NEAGO11
+billing-c:   NEAGO11
+nserver:     ns1.servidorwebfacil.com
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.servidorwebfacil.com
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20090721 #5805173
+expires:     20120721
+changed:     20100706
+status:      published
+
+nic-hdl-br:  NEAGO11
+person:      Nelson Ap Gomes
+e-mail:      nelson@abgtsistemas.com.br
+created:     20091022
+changed:     20091022
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

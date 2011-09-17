@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D43116-LROR
+Domain Name:TOPEKACHAMBER.ORG
+Created On:29-Aug-1996 04:00:00 UTC
+Last Updated On:12-Jul-2011 15:22:22 UTC
+Expiration Date:28-Aug-2014 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25617638-NSI
+Registrant Name:GreaterTopekaChamber of Commerce
+Registrant Organization:GreaterTopekaChamber of Commerce
+Registrant Street1:120 SE 6th, Suite 110
+Registrant Street2:
+Registrant Street3:
+Registrant City:Topeka
+Registrant State/Province:KS
+Registrant Postal Code:66603
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:topekainfo@CJNETOWRKS.COM
+Admin ID:25617639-NSI
+Admin Name:Marsha Sheahan
+Admin Organization:Greater Topeka Chamber of Commerce
+Admin Street1:120 SE 6TH AVE STE 110
+Admin Street2:
+Admin Street3:
+Admin City:TOPEKA
+Admin State/Province:KS
+Admin Postal Code:66603-3515
+Admin Country:US
+Admin Phone:+1.7852342644
+Admin Phone Ext.:
+Admin FAX:+1.7852348656
+Admin FAX Ext.:
+Admin Email:msheahan@topekachamber.org
+Tech ID:25617639-NSI
+Tech Name:Marsha Sheahan
+Tech Organization:Greater Topeka Chamber of Commerce
+Tech Street1:120 SE 6TH AVE STE 110
+Tech Street2:
+Tech Street3:
+Tech City:TOPEKA
+Tech State/Province:KS
+Tech Postal Code:66603-3515
+Tech Country:US
+Tech Phone:+1.7852342644
+Tech Phone Ext.:
+Tech FAX:+1.7852348656
+Tech FAX Ext.:
+Tech Email:msheahan@topekachamber.org
+Name Server:NS89.WORLDNIC.COM
+Name Server:NS90.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

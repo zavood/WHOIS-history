@@ -9,17 +9,17 @@ for detailed information.
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS1-JIN.WEBSERVERSYSTEMS.COM
-   Name Server: NS2-JIN.WEBSERVERSYSTEMS.COM
+   Name Server: NS1.WEBSITEHOSTSERVER.NET
+   Name Server: NS2.WEBSITEHOSTSERVER.NET
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 07-sep-2011
+   Updated Date: 13-sep-2011
    Creation Date: 27-may-2004
    Expiration Date: 27-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 02:58:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -82,8 +82,8 @@ Registrant:
    Domain Name: FASTREHAB.COM
 
    Domain servers in listed order:
-      NS1-JIN.WEBSERVERSYSTEMS.COM
-      NS2-JIN.WEBSERVERSYSTEMS.COM
+      NS1.WEBSITEHOSTSERVER.NET
+      NS2.WEBSITEHOSTSERVER.NET
 
 
    For complete domain details go to:

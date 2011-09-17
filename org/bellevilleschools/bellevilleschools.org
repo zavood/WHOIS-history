@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160122380-LROR
+Domain Name:BELLEVILLESCHOOLS.ORG
+Created On:11-Sep-2010 19:39:21 UTC
+Last Updated On:09-Sep-2011 11:29:25 UTC
+Expiration Date:11-Sep-2012 19:39:21 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-S81WO80INCY2
+Registrant Name:Eurico Antunes
+Registrant Organization:Belleville Public Schools
+Registrant Street1:102 Passaic Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Belleville
+Registrant State/Province:NJ
+Registrant Postal Code:07109
+Registrant Country:US
+Registrant Phone:+1.9734503500
+Registrant Phone Ext.:
+Registrant FAX:+1.9734503504
+Registrant FAX Ext.:
+Registrant Email:eurico@belleville.k12.nj.us
+Admin ID:DOT-0J7GO32JV6VX
+Admin Name:Eurico Antunes
+Admin Organization:Belleville Public Schools
+Admin Street1:102 Passaic Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Belleville
+Admin State/Province:NJ
+Admin Postal Code:07109
+Admin Country:US
+Admin Phone:+1.9734503500
+Admin Phone Ext.:
+Admin FAX:+1.9734503504
+Admin FAX Ext.:
+Admin Email:eurico@belleville.k12.nj.us
+Tech ID:DOT-O2HH53C690OU
+Tech Name:Eurico Antunes
+Tech Organization:Belleville Public Schools
+Tech Street1:102 Passaic Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Belleville
+Tech State/Province:NJ
+Tech Postal Code:07109
+Tech Country:US
+Tech Phone:+1.9734503500
+Tech Phone Ext.:
+Tech FAX:+1.9734503504
+Tech FAX Ext.:
+Tech Email:eurico@belleville.k12.nj.us
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

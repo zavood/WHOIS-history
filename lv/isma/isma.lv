@@ -1,0 +1,26 @@
+[Domain]
+Domain: isma.lv
+Status: active
+Changed: 2003-12-04T10:53:55+02:00
+
+[Holder]
+Type: Legal person
+Name: SIA &quot;Informacijas sistemu menedzmenta augstskola&quot;
+Email: romans.djakons@isma.lv
+Fax: +371-67241591
+Phone: +371-67100515
+Address: Ludzas iela 91a, Riga, LV-1003
+RegNr: 40003607453
+
+[Tech]
+Type: Natural person
+Email: it@isma.lv
+Fax: +371 67241591
+Phone: +371 67089875
+
+[Nservers]
+Nserver: ns.isma.lv
+Nserver: nsz2.nic.lv
+
+[Whois]
+Updated: 2011-09-16T23:12:25.074866+00:00

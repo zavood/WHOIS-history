@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 23:59:30 (BRT -03:00)
+
+domain:      casadarussia.com.br
+owner:       23 Produ&ccedil;&otilde;es Cinematograficas Ltda
+ownerid:     008.057.930/0001-93
+responsible: 23 Produ&ccedil;&otilde;es
+country:     BR
+owner-c:     AGLBE
+admin-c:     FGM84
+tech-c:      FGM84
+billing-c:   FGM84
+nserver:     ns12.hostgator.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns13.hostgator.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20080210 #4230839
+expires:     20120210
+changed:     20110112
+status:      published
+
+nic-hdl-br:  AGLBE
+person:      Ag&ecirc;ncia La Bella
+e-mail:      agencialabella@gmail.com
+created:     20090526
+changed:     20090526
+
+nic-hdl-br:  FGM84
+person:      Fernando G Martini
+e-mail:      fernandomartini@gmail.com
+created:     20021125
+changed:     20090702
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

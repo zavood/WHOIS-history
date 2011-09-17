@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 23:57:47 (BRT -03:00)
+
+domain:      cafefloresta.com.br
+owner:       Industria e Comercio Cafe Floresta Ltda.
+ownerid:     045.046.703/0001-99
+responsible: Paulo Fernandes
+country:     BR
+owner-c:     AUFSA
+admin-c:     AUFSA
+tech-c:      BIL274
+billing-c:   AUFSA
+nserver:     ns1.cafefloresta.com.br 200.140.195.87
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.cafefloresta.com.br 200.140.195.88
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     19990423 #156336
+expires:     20120423
+changed:     20100427
+status:      published
+
+nic-hdl-br:  AUFSA
+person:      AURO FUMIO SATO
+e-mail:      auro@cafefloresta.com.br
+created:     20090121
+changed:     20090317
+
+nic-hdl-br:  BIL274
+person:      BCMG Internet Ltda
+e-mail:      dnsadm@litoral.com.br
+created:     20030924
+changed:     20060207
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

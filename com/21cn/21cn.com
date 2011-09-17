@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 08-feb-1999
    Expiration Date: 08-feb-2017
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:54:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 03:11:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,26 +84,35 @@ Domain servers in listed order:
 	 cdnns4.21cn.com 	 cdnns2.21cn.com
 
 Administrator:
-	 Name-- liuchang
- EMail-: (domainmanage@21cn.com)
- tel --: +86.2085264358
+	 name: liuchang
+ mail: domainmanage@21cn.com tel: +86.2085264358
 	 org: 21CN Corporation Limited
-	 2F,NO.52 Liuyunwu street,Tiyu Rd,East,Tianhe,Guangzhou,China
-	 Guangzhou,Guangdong,CN 510620
+
+address: 2F,NO.52 Liuyunwu street,Tiyu Rd,East,Tianhe,Guangzhou,China
+	 city: Guangzhou
+,province: Guangdong
+,country: CN
+ postcode: 510620
 
 Technical Contactor:
-	 Name-- 21CN Corporation Limited
- EMail-: (domainmanage@21cn.com)
- tel --: +86.2085264358
+	 name: 21CN Corporation Limited
+ mail: domainmanage@21cn.com tel: +86.2085264358
 	 org: 21CN Corporation Limited
-	 2F,NO.52 Liuyunwu street,Tiyu Rd,East,Tianhe,Guangzhou,China
-	 Guangzhou,Guangdong,CN 510620
+
+address: 2F,NO.52 Liuyunwu street,Tiyu Rd,East,Tianhe,Guangzhou,China
+	 city: Guangzhou
+,province: Guangdong
+,country: CN
+ postcode: 510620
 
 Billing Contactor:
-	 Name-- liuchang
- EMail-: (domainmanage@21cn.com)
- tel --: +86.2085264358
+	 name: liuchang
+ mail: domainmanage@21cn.com tel: +86.2085264358
 	 org: 21CN Corporation Limited
-	 2F,NO.52 Liuyunwu street,Tiyu Rd,East,Tianhe,Guangzhou,China
-	 Guangzhou,Guangdong,CN 510620
+
+address: 2F,NO.52 Liuyunwu street,Tiyu Rd,East,Tianhe,Guangzhou,China
+	 city: Guangzhou
+,province: Guangdong
+,country: CN
+ postcode: 510620
 

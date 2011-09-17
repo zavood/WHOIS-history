@@ -1,0 +1,52 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 00:02:05 (BRT -03:00)
+
+domain:      unitauvest.com.br
+owner:       UNIVERSIDADE DE TAUBATE
+ownerid:     045.176.153/0001-22
+responsible: Renata Adriana Gazzi
+country:     BR
+owner-c:     REAGA
+admin-c:     REAGA
+tech-c:      EMM206
+billing-c:   EMM206
+nserver:     ns1.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20001024 #450393
+expires:     20111024
+changed:     20101011
+status:      published
+
+nic-hdl-br:  EMM206
+person:      Eliana Marcia Moraes
+e-mail:      eliana@unitau.br
+created:     20030103
+changed:     20060330
+
+nic-hdl-br:  REAGA
+person:      Renata Adriana Gazzi
+e-mail:      ragazzi@unitau.br
+created:     20080213
+changed:     20080213
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

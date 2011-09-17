@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83322215-LROR
+Domain Name:ATHENSCHURCHOFCHRIST.ORG
+Created On:04-Feb-2002 18:17:27 UTC
+Last Updated On:23-Jan-2011 04:55:46 UTC
+Expiration Date:04-Feb-2012 18:17:27 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:OC0-RDM13-IYD-RE
+Registrant Name:Rex D. Moore
+Registrant Street1:PO Box 3572
+Registrant Street2:
+Registrant Street3:
+Registrant City:Albuquerque
+Registrant State/Province:New Mexico
+Registrant Postal Code:87190
+Registrant Country:US
+Registrant Phone:+1.1111111111
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rex@pride-unlimited.com
+Admin ID:OC0-RM852-IYD
+Admin Name:Rex Moore
+Admin Organization:Rex D. Moore
+Admin Street1:PO Box 3572
+Admin Street2:
+Admin Street3:
+Admin City:Albuquerque
+Admin State/Province:New Mexico
+Admin Postal Code:87190
+Admin Country:US
+Admin Phone:+1.5052960839
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rex@pride-unlimited.com
+Tech ID:OC0-RM852-IYD
+Tech Name:Rex Moore
+Tech Organization:Rex D. Moore
+Tech Street1:PO Box 3572
+Tech Street2:
+Tech Street3:
+Tech City:Albuquerque
+Tech State/Province:New Mexico
+Tech Postal Code:87190
+Tech Country:US
+Tech Phone:+1.5052960839
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rex@pride-unlimited.com
+Name Server:NS1.FAITHHIWAY.COM
+Name Server:NS2.FAITHHIWAY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

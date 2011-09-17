@@ -1,0 +1,58 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 23:43:28 (BRT -03:00)
+
+domain:      abaga.com.br
+owner:       Asso&ccedil;ia&ccedil;&atilde;o Brasileira da Alta Gastronomia
+ownerid:     001.536.147/0001-63
+responsible: Jo&atilde;o Leme
+country:     BR
+owner-c:     CLF2
+admin-c:     JOM270
+tech-c:      MOL15
+billing-c:   JOM270
+nserver:     ns1.locaweb.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.locaweb.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns3.locaweb.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     19990426 #156627
+expires:     20120426
+changed:     20110405
+status:      published
+
+nic-hdl-br:  CLF2
+person:      Carlos Llamas Fernandez
+e-mail:      carlos.llamas@uol.com.br
+created:     19980105
+changed:     20110622
+
+nic-hdl-br:  JOM270
+person:      Assoc. Brasileira da Alta Gastronomis
+e-mail:      abaga@abaga.com.br
+created:     20020206
+changed:     20110706
+
+nic-hdl-br:  MOL15
+person:      WebBusiness Servi&ccedil;os de Inform&aacute;tica Ltda
+e-mail:      morris@webbusiness.com.br
+created:     19980717
+changed:     20101004
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

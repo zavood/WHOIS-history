@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 23:56:15 (BRT -03:00)
+
+domain:      concept.ind.br
+owner:       Drogaria Santos Ltda.
+ownerid:     030.788.269/0001-45
+responsible: C&eacute;lio de Oliveira Santos
+country:     BR
+owner-c:     AMM256
+admin-c:     AMM256
+tech-c:      AMM256
+billing-c:   AMM256
+nserver:     ns1.locaweb.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.locaweb.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns3.locaweb.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     20040211 #1532117
+expires:     20130211
+changed:     20110120
+status:      published
+
+nic-hdl-br:  AMM256
+person:      Antonio Marcio Ferrari Mofati
+e-mail:      mmvix@hotmail.com
+created:     20010913
+changed:     20070222
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155295400-LROR
+Domain Name:LUZES.ORG
+Created On:07-Feb-2009 08:50:04 UTC
+Last Updated On:18-Jan-2011 18:14:44 UTC
+Expiration Date:07-Feb-2012 08:50:04 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20542964-NSI
+Registrant Name:Ibere Moreira Campos ME
+Registrant Organization:Ibere Moreira Campos ME
+Registrant Street1:Rua Barao de Penedo, 137 - Agu
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sao Paulo
+Registrant State/Province:SP
+Registrant Postal Code:03179-070
+Registrant Country:BR
+Registrant Phone:+55.1166053166
+Registrant Phone Ext.:
+Registrant FAX:+55.1166055383
+Registrant FAX Ext.:
+Registrant Email:thecnica@thecnica.com
+Admin ID:20542964-NSI
+Admin Name:Ibere Moreira Campos ME
+Admin Organization:Ibere Moreira Campos ME
+Admin Street1:Rua Barao de Penedo, 137 - Agu
+Admin Street2:
+Admin Street3:
+Admin City:Sao Paulo
+Admin State/Province:SP
+Admin Postal Code:03179-070
+Admin Country:BR
+Admin Phone:+55.1166053166
+Admin Phone Ext.:
+Admin FAX:+55.1166055383
+Admin FAX Ext.:
+Admin Email:thecnica@thecnica.com
+Tech ID:20542964-NSI
+Tech Name:Ibere Moreira Campos ME
+Tech Organization:Ibere Moreira Campos ME
+Tech Street1:Rua Barao de Penedo, 137 - Agu
+Tech Street2:
+Tech Street3:
+Tech City:Sao Paulo
+Tech State/Province:SP
+Tech Postal Code:03179-070
+Tech Country:BR
+Tech Phone:+55.1166053166
+Tech Phone Ext.:
+Tech FAX:+55.1166055383
+Tech FAX Ext.:
+Tech Email:thecnica@thecnica.com
+Name Server:NS1.LOCAWEB.COM.BR
+Name Server:NS2.LOCAWEB.COM.BR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

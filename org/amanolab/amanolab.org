@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104105485-LROR
+Domain Name:AMANOLAB.ORG
+Created On:16-Mar-2004 19:31:20 UTC
+Last Updated On:02-Mar-2009 05:52:00 UTC
+Expiration Date:16-Mar-2014 19:31:20 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:5630479A3BC7BCD1
+Registrant Name:Toru Amano
+Registrant Organization:Personal
+Registrant Street1:Sekimachikita 2-31-20-1203
+Registrant Street2:None
+Registrant Street3:
+Registrant City:Nerima-ku
+Registrant State/Province:Tokyo-to
+Registrant Postal Code:177-0051
+Registrant Country:JP
+Registrant Phone:+3.35942389
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cad13690@aa.isas.ne.jp
+Admin ID:5630479A3BC7BCD1
+Admin Name:Toru Amano
+Admin Organization:Personal
+Admin Street1:Sekimachikita 2-31-20-1203
+Admin Street2:None
+Admin Street3:
+Admin City:Nerima-ku
+Admin State/Province:Tokyo-to
+Admin Postal Code:177-0051
+Admin Country:JP
+Admin Phone:+3.35942389
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cad13690@aa.isas.ne.jp
+Tech ID:5630479A3BC7BCD1
+Tech Name:Toru Amano
+Tech Organization:Personal
+Tech Street1:Sekimachikita 2-31-20-1203
+Tech Street2:None
+Tech Street3:
+Tech City:Nerima-ku
+Tech State/Province:Tokyo-to
+Tech Postal Code:177-0051
+Tech Country:JP
+Tech Phone:+3.35942389
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cad13690@aa.isas.ne.jp
+Name Server:DNS1.NAME-SERVICES.COM
+Name Server:DNS2.NAME-SERVICES.COM
+Name Server:DNS3.NAME-SERVICES.COM
+Name Server:DNS4.NAME-SERVICES.COM
+Name Server:DNS5.NAME-SERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160331229-LROR
+Domain Name:BESTJUICERMACHINE.ORG
+Created On:06-Oct-2010 00:48:51 UTC
+Last Updated On:06-Sep-2011 11:42:11 UTC
+Expiration Date:06-Oct-2012 00:48:51 UTC
+Sponsoring Registrar:Dynadot, LLC (R1266-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:C-48331
+Registrant Name:Cathy Bendzunas
+Registrant Street1:4124 Starwood Arch
+Registrant Street2:
+Registrant Street3:
+Registrant City:Virginia Beach
+Registrant State/Province:VA
+Registrant Postal Code:23456
+Registrant Country:US
+Registrant Phone:+1.7574710364
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:CATH359@aol.com
+Admin ID:C-48331
+Admin Name:Cathy Bendzunas
+Admin Street1:4124 Starwood Arch
+Admin Street2:
+Admin Street3:
+Admin City:Virginia Beach
+Admin State/Province:VA
+Admin Postal Code:23456
+Admin Country:US
+Admin Phone:+1.7574710364
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:CATH359@aol.com
+Tech ID:C-48331
+Tech Name:Cathy Bendzunas
+Tech Street1:4124 Starwood Arch
+Tech Street2:
+Tech Street3:
+Tech City:Virginia Beach
+Tech State/Province:VA
+Tech Postal Code:23456
+Tech Country:US
+Tech Phone:+1.7574710364
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:CATH359@aol.com
+Name Server:NS1.PIPEDNS.COM
+Name Server:NS2.PIPEDNS.COM
+Name Server:NS3.PIPEDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

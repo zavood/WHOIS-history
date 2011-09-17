@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         andrascik.sk
+Admin-id            JURA-0634
+Admin-name          Andrascik s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       45991961
+Admin-address       Jablonova 27, Pecovska Nova Ves 08256
+Admin-telephone     +421944400601, 1944400601, +421944400601
+Admin-email         andrascikjuraj@gmail.com
+Tech-id             WEBS-0001
+Tech-name           Websupport, s.r.o.
+Tech-org.-ID        36421928
+Tech-address        Stare grunty 12, Bratislava 84104
+Tech-telephone      0904/306 081, 0904/306 081, 0904/306 081
+Tech-email          helpdesk@websupport.sk
+dns_name            ns1.websupport.sk
+dns_name            ns2.websupport.sk
+dns_name            ns3.websupport.sk
+Last-update         2011-04-04
+Valid-date          2012-05-01
+Domain-status       DOM_OK
+
