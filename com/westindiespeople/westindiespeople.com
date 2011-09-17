@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 25-oct-2010
    Expiration Date: 25-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 13:16:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 19:19:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Friday, 16-Sep-2011 15:16:55 CEST
-# gmt time      : Friday, 16-Sep-2011 13:16:55 GMT
+# local time    : Saturday, 17-Sep-2011 21:19:36 CEST
+# gmt time      : Saturday, 17-Sep-2011 19:19:36 GMT
 # last modify   : Monday, 12-Sep-2011 14:30:19 CEST
-# request from  : 192.168.248.1:29273
+# request from  : 192.168.248.1:56126
 
 Domain name: westindiespeople.com
 

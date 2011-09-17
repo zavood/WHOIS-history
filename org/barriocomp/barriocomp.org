@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149322175-LROR
+Domain Name:BARRIOCOMP.ORG
+Created On:05-Oct-2007 14:30:12 UTC
+Last Updated On:06-Oct-2010 01:24:26 UTC
+Expiration Date:05-Oct-2011 14:30:12 UTC
+Sponsoring Registrar:Webagentur.at Internet Services GmbH d/b/a domainname.at (R1304-LROR)
+Status:OK
+Registrant ID:WA-SNO57422
+Registrant Name:Splix Networks
+Registrant Organization:Splix Networks
+Registrant Street1:Friedrichstrasse 95
+Registrant Street2:
+Registrant Street3:
+Registrant City:Berlin
+Registrant State/Province:
+Registrant Postal Code:10117
+Registrant Country:DE
+Registrant Phone:+1.2159021581
+Registrant Phone Ext.:
+Registrant FAX:+1.2159021581
+Registrant FAX Ext.:
+Registrant Email:splixnetworks@googlemail.com
+Admin ID:WA-SNO57422
+Admin Name:Splix Networks
+Admin Organization:Splix Networks
+Admin Street1:Friedrichstrasse 95
+Admin Street2:
+Admin Street3:
+Admin City:Berlin
+Admin State/Province:
+Admin Postal Code:10117
+Admin Country:DE
+Admin Phone:+1.2159021581
+Admin Phone Ext.:
+Admin FAX:+1.2159021581
+Admin FAX Ext.:
+Admin Email:splixnetworks@googlemail.com
+Tech ID:WA-SNO57422
+Tech Name:Splix Networks
+Tech Organization:Splix Networks
+Tech Street1:Friedrichstrasse 95
+Tech Street2:
+Tech Street3:
+Tech City:Berlin
+Tech State/Province:
+Tech Postal Code:10117
+Tech Country:DE
+Tech Phone:+1.2159021581
+Tech Phone Ext.:
+Tech FAX:+1.2159021581
+Tech FAX Ext.:
+Tech Email:splixnetworks@googlemail.com
+Name Server:NS10.DOMAINNAME.AT
+Name Server:NS11.DOMAINNAME.AT
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

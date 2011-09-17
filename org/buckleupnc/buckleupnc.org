@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D89791003-LROR
+Domain Name:BUCKLEUPNC.ORG
+Created On:29-Aug-2002 18:23:30 UTC
+Last Updated On:25-Aug-2011 16:56:07 UTC
+Expiration Date:29-Aug-2012 18:23:48 UTC
+Sponsoring Registrar:PlanetDomain Pty Ltd (R134-LROR)
+Status:OK
+Registrant ID:ID00015969-PR
+Registrant Name:Harvey Hou
+Registrant Organization:Harvey Hou
+Registrant Street1:730 MLK Jr. Blvd.
+Registrant Street2:CB #3430
+Registrant Street3:
+Registrant City:Chapel Hill
+Registrant State/Province:NC
+Registrant Postal Code:27599-3430
+Registrant Country:US
+Registrant Phone:+1.9199622203
+Registrant Phone Ext.:
+Registrant FAX:+61.399234412
+Registrant FAX Ext.:
+Registrant Email:harvey_hou@unc.edu
+Admin ID:ID00015969-PR
+Admin Name:Harvey Hou
+Admin Organization:Harvey Hou
+Admin Street1:730 MLK Jr. Blvd.
+Admin Street2:CB #3430
+Admin Street3:
+Admin City:Chapel Hill
+Admin State/Province:NC
+Admin Postal Code:27599-3430
+Admin Country:US
+Admin Phone:+1.9199622203
+Admin Phone Ext.:
+Admin FAX:+61.399234412
+Admin FAX Ext.:
+Admin Email:harvey_hou@unc.edu
+Tech ID:ID00022773-PR
+Tech Name:UNC Hostmaster
+Tech Organization:The University of North Carolina
+Tech Street1:ATN CB #3420
+Tech Street2:Abernethy Hall
+Tech Street3:
+Tech City:Chapel Hill
+Tech State/Province:NC
+Tech Postal Code:27599-3420
+Tech Country:US
+Tech Phone:+1.9199621621
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@unc.edu
+Name Server:NS2.UNC.EDU
+Name Server:NS.UNC.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

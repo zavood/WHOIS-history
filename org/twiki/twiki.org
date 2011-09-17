@@ -17,14 +17,14 @@ time. By submitting this query, you agree to abide by this policy.
 Domain ID:D39623421-LROR
 Domain Name:TWIKI.ORG
 Created On:01-Nov-2000 20:59:59 UTC
-Last Updated On:15-Oct-2010 01:24:42 UTC
+Last Updated On:17-Sep-2011 03:53:34 UTC
 Expiration Date:01-Nov-2011 20:59:59 UTC
 Sponsoring Registrar:Tucows Inc. (R11-LROR)
 Status:OK
-Registrant ID:tumvnp2BbSIAQKsq
+Registrant ID:tuXAzJbbu2YPiVKG
 Registrant Name:Peter Thoeny
 Registrant Organization:TWiki.org
-Registrant Street1:7203 Via Vico
+Registrant Street1:1022 Belvedere Ln
 Registrant Street2:
 Registrant Street3:
 Registrant City:San Jose
@@ -36,10 +36,10 @@ Registrant Phone Ext.:
 Registrant FAX:
 Registrant FAX Ext.:
 Registrant Email:peter@thoeny.org
-Admin ID:tu19a7EF5RGP4EQG
+Admin ID:tu1tNYCEe6CJAR5i
 Admin Name:Peter Thoeny
 Admin Organization:TWiki.org
-Admin Street1:7203 Via Vico
+Admin Street1:1022 Belvedere Ln
 Admin Street2:
 Admin Street3:
 Admin City:San Jose

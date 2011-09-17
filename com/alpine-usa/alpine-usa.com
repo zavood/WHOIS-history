@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 18-mar-1998
    Expiration Date: 17-mar-2016
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:53:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 19:01:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,6 +69,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: alpine-usa.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 21:43:52 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sat Sep 17 14:52:04 EDT 2011
 Reason Code: IE

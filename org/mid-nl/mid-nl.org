@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D119084001-LROR
+Domain Name:MID-NL.ORG
+Created On:24-Mar-2006 14:03:10 UTC
+Last Updated On:19-Apr-2011 00:26:30 UTC
+Expiration Date:24-Mar-2012 14:03:10 UTC
+Sponsoring Registrar:ASCIO Technologies, Inc. - Denmark (R76-LROR)
+Status:OK
+Registrant ID:AT19742833-072
+Registrant Name:P. de Kok
+Registrant Organization:Maintenance in Dredging
+Registrant Street1:Rietgorsweg 11
+Registrant Street2:
+Registrant Street3:
+Registrant City:PAPENDRECHT
+Registrant State/Province:
+Registrant Postal Code:3356LJ
+Registrant Country:NL
+Registrant Phone:+31.786446464
+Registrant Phone Ext.:
+Registrant FAX:+31.786446465
+Registrant FAX Ext.:
+Registrant Email:info@mid-nl.org
+Admin ID:AT19742967-072
+Admin Name:P. de Kok
+Admin Organization:Maintenance in Dredging
+Admin Street1:Rietgorsweg 11
+Admin Street2:
+Admin Street3:
+Admin City:PAPENDRECHT
+Admin State/Province:
+Admin Postal Code:3356LJ
+Admin Country:NL
+Admin Phone:+31.786446464
+Admin Phone Ext.:
+Admin FAX:+31.786446465
+Admin FAX Ext.:
+Admin Email:info@mid-nl.org
+Tech ID:AT111113888-052
+Tech Name:Domain Support
+Tech Organization:QDC Internetservices
+Tech Street1:Taag 25
+Tech Street2:
+Tech Street3:
+Tech City:DEN HAAG
+Tech State/Province:
+Tech Postal Code:2491CR
+Tech Country:NL
+Tech Phone:+31.703271259
+Tech Phone Ext.:
+Tech FAX:+31.848364706
+Tech FAX Ext.:
+Tech Email:info@qdc.nl
+Name Server:NS2.D-SERVER.NL
+Name Server:NS6.D-SERVER.NL
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

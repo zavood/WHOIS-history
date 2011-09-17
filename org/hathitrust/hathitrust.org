@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152944092-LROR
+Domain Name:HATHITRUST.ORG
+Created On:10-Jun-2008 02:39:14 UTC
+Last Updated On:09-Jun-2009 14:45:55 UTC
+Expiration Date:10-Jun-2018 02:39:14 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuXY8dpVJci7en22
+Registrant Name:University of Michigan Library IT
+Registrant Organization:University of Michigan Library IT
+Registrant Street1:818 Hatcher Library
+Registrant Street2:920 N University Ave
+Registrant Street3:
+Registrant City:Ann Arbor
+Registrant State/Province:MI
+Registrant Postal Code:48109-1205
+Registrant Country:US
+Registrant Phone:+1.7347648016
+Registrant Phone Ext.:
+Registrant FAX:+1.7347635080
+Registrant FAX Ext.:
+Registrant Email:lit-cs-sysadmin@umich.edu
+Admin ID:turTIPdZqghSXxs1
+Admin Name:University of Michigan Library IT
+Admin Organization:University of Michigan Library IT
+Admin Street1:818 Hatcher Library
+Admin Street2:920 N University Ave
+Admin Street3:
+Admin City:Ann Arbor
+Admin State/Province:MI
+Admin Postal Code:48109-1205
+Admin Country:US
+Admin Phone:+1.7347648016
+Admin Phone Ext.:
+Admin FAX:+1.7347635080
+Admin FAX Ext.:
+Admin Email:lit-cs-sysadmin@umich.edu
+Tech ID:tuMmRd0QCnl0V8WE
+Tech Name:Hostmaster Hostmaster
+Tech Organization:University of Michigan
+Tech Street1:4251 Plymouth Rd.
+Tech Street2:Bldg.1 Rm 1812
+Tech Street3:
+Tech City:Ann Arbor
+Tech State/Province:MI
+Tech Postal Code:48105-3640
+Tech Country:US
+Tech Phone:+1.7347641817
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@umich.edu
+Name Server:DNS2.ITD.UMICH.EDU
+Name Server:DNS1.ITD.UMICH.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

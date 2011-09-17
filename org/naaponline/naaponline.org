@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D72097026-LROR
+Domain Name:NAAPONLINE.ORG
+Created On:07-Jun-2001 13:49:24 UTC
+Last Updated On:16-Jun-2011 05:59:19 UTC
+Expiration Date:07-Jun-2016 13:49:24 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31283934
+Registrant Name:James Ismail
+Registrant Organization:Network of Arab-American Alumni and Professionals
+Registrant Street1:34232
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington DC
+Registrant State/Province:District of Columbia
+Registrant Postal Code:20043-4232
+Registrant Country:US
+Registrant Phone:+1.20230258
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:amuaddi@gsb.uchicago.edu
+Admin ID:CR31283936
+Admin Name:James Ismail
+Admin Organization:Network of Arab-American Alumni and Professionals
+Admin Street1:34232
+Admin Street2:
+Admin Street3:
+Admin City:Washington DC
+Admin State/Province:District of Columbia
+Admin Postal Code:20043-4232
+Admin Country:US
+Admin Phone:+1.20230258
+Admin Phone Ext.:
+Admin FAX:+1.9999999999
+Admin FAX Ext.:
+Admin Email:amuaddi@gsb.uchicago.edu
+Tech ID:CR31283935
+Tech Name:James Ismail
+Tech Organization:SoftCom Technology Consulting
+Tech Street1:10 Bay Street, Suite 816
+Tech Street2:**
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:ON M5J2R8
+Tech Postal Code:**
+Tech Country:CA
+Tech Phone:+1.4169577400
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain-registrar@softcomca.com
+Name Server:NS43.4ADMIN.COM
+Name Server:NS45.4ADMIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
