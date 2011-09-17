@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150501318-LROR
+Domain Name:CUOJUE.ORG
+Created On:29-Dec-2007 21:16:47 UTC
+Last Updated On:28-Dec-2010 14:02:08 UTC
+Expiration Date:29-Dec-2011 21:16:47 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:OK
+Registrant ID:hc294819940-cn
+Registrant Name:jian yang
+Registrant Organization:yang jian
+Registrant Street1:sichuan university,chengdu
+Registrant Street2:
+Registrant Street3:
+Registrant City:chengdu
+Registrant State/Province:sichuan
+Registrant Postal Code:610207
+Registrant Country:CN
+Registrant Phone:+86.02885081845
+Registrant Phone Ext.:
+Registrant FAX:+86.02885081845
+Registrant FAX Ext.:
+Registrant Email:yjian1@yahoo.com.cn
+Admin ID:hc294819940-cn
+Admin Name:jian yang
+Admin Organization:yang jian
+Admin Street1:sichuan university,chengdu
+Admin Street2:
+Admin Street3:
+Admin City:chengdu
+Admin State/Province:sichuan
+Admin Postal Code:610207
+Admin Country:CN
+Admin Phone:+86.02885081845
+Admin Phone Ext.:
+Admin FAX:+86.02885081845
+Admin FAX Ext.:
+Admin Email:yjian1@yahoo.com.cn
+Tech ID:hc294819940-cn
+Tech Name:jian yang
+Tech Organization:yang jian
+Tech Street1:sichuan university,chengdu
+Tech Street2:
+Tech Street3:
+Tech City:chengdu
+Tech State/Province:sichuan
+Tech Postal Code:610207
+Tech Country:CN
+Tech Phone:+86.02885081845
+Tech Phone Ext.:
+Tech FAX:+86.02885081845
+Tech FAX Ext.:
+Tech Email:yjian1@yahoo.com.cn
+Name Server:DNS21.HICHINA.COM
+Name Server:DNS22.HICHINA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,64 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-17T23:09:48+12:00
+domain_name: subway.co.nz
+query_status: 200 Active
+domain_dateregistered: 1999-05-11T00:00:00+12:00
+domain_datebilleduntil: 2015-05-11T00:00:00+12:00
+domain_datelastmodified: 2010-05-04T04:52:27+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: iSERVE
+registrar_address1: P O Box 47-020
+registrar_city: Wellington
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 939-8502
+registrar_fax: +64 4 939-8501
+registrar_email: soa@iserve.co.nz
+%
+registrant_contact_name: Doctors Associates, Inc
+registrant_contact_address1: 325 Bic Drive
+registrant_contact_city: Milford
+registrant_contact_province: CT
+registrant_contact_postalcode: 06461
+registrant_contact_country: US (UNITED STATES)
+registrant_contact_phone: +203 877 4281
+registrant_contact_email: netadmin@subway.com
+%
+admin_contact_name: Lon Harrigan
+admin_contact_address1: 325 Bic Drive
+admin_contact_city: Milford
+admin_contact_postalcode: 06461
+admin_contact_country: US (UNITED STATES)
+admin_contact_phone: +203 877 4281
+admin_contact_email: netadmin@subway.com
+%
+technical_contact_name: Mike Purdie
+technical_contact_address1: PO Box 24-030
+technical_contact_address2: Manners St
+technical_contact_phone: +21 424 044
+technical_contact_email: dns@cyberscape.co.nz
+%
+ns_name_01: ns1.p03.dynect.net
+ns_name_02: ns2.p03.dynect.net
+ns_name_03: ns3.p03.dynect.net
+ns_name_04: ns4.p03.dynect.net
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

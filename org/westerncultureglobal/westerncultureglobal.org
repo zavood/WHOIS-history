@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D131216233-LROR
+Domain Name:WESTERNCULTUREGLOBAL.ORG
+Created On:22-Oct-2006 06:24:22 UTC
+Last Updated On:25-Jul-2011 14:15:17 UTC
+Expiration Date:22-Oct-2011 06:24:22 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuX8s87RRZWIhDUU
+Registrant Name:Mary Oro
+Registrant Organization:Western Culture Global
+Registrant Street1:PO Box 560731
+Registrant Street2:
+Registrant Street3:
+Registrant City:The Colony
+Registrant State/Province:TX
+Registrant Postal Code:75056
+Registrant Country:US
+Registrant Phone:+1.2149120288
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:contact@westerncultureglobal.org
+Admin ID:tuOVkxv884IJ6LVu
+Admin Name:Nick Robinson
+Admin Organization:Western Culture Global
+Admin Street1:PO Box 560731
+Admin Street2:
+Admin Street3:
+Admin City:The Colony
+Admin State/Province:TX
+Admin Postal Code:75056
+Admin Country:US
+Admin Phone:+1.2149120288
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:contact@westerncultureglobal.org
+Tech ID:tu6n50TGBb3BdFUV
+Tech Name:Domain Administration
+Tech Organization:Hostica.com
+Tech Street1:2309 Torrance Blvd. #200
+Tech Street2:
+Tech Street3:
+Tech City:Torrance
+Tech State/Province:CA
+Tech Postal Code:90501
+Tech Country:US
+Tech Phone:+1.3102120190
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bounce@hostica.com
+Name Server:NS1.PIPEDNS.COM
+Name Server:NS2.PIPEDNS.COM
+Name Server:NS3.PIPEDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

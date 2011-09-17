@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105312894-LROR
+Domain Name:BESCHOOL.ORG
+Created On:09-Dec-2004 17:51:18 UTC
+Last Updated On:02-Nov-2010 18:48:39 UTC
+Expiration Date:09-Dec-2011 17:51:18 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:38796456-NSI
+Registrant Name:Bradford Elementary School
+Registrant Organization:Bradford Elementary School
+Registrant Street1:143 Fairground Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bradford
+Registrant State/Province:VT
+Registrant Postal Code:05033
+Registrant Country:US
+Registrant Phone:+1.8022224077
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:38796456-NSI
+Admin Name:Bradford Elementary School
+Admin Organization:Bradford Elementary School
+Admin Street1:143 Fairground Road
+Admin Street2:
+Admin Street3:
+Admin City:Bradford
+Admin State/Province:VT
+Admin Postal Code:05033
+Admin Country:US
+Admin Phone:+1.8022224077
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:no.valid.email@worldnic.com
+Tech ID:38796456-NSI
+Tech Name:Bradford Elementary School
+Tech Organization:Bradford Elementary School
+Tech Street1:143 Fairground Road
+Tech Street2:
+Tech Street3:
+Tech City:Bradford
+Tech State/Province:VT
+Tech Postal Code:05033
+Tech Country:US
+Tech Phone:+1.8022224077
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:no.valid.email@worldnic.com
+Name Server:NS1.SITEGROUND137.COM
+Name Server:NS2.SITEGROUND137.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

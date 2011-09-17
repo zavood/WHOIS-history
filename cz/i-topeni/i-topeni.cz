@@ -1,0 +1,78 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sat Sep 17 12:44:54 2011
+
+domain:       i-topeni.cz
+registrant:   SB:FORPSI-PL0-S217948
+admin-c:      CONTACT.STATION.CZ
+nsset:        NS01.STATION.CZ
+registrar:    REG-GRANSY
+status:       paid and in zone
+registered:   10.08.2007 00:55:00
+changed:      02.10.2007 11:16:30
+expire:       09.08.2012
+
+contact:      SB:FORPSI-PL0-S217948
+org:          AXO clima s.r.o.
+name:         Jana Oharkov&Atilde;&iexcl;
+address:      Barto&Aring;&iexcl;ova 1660/16
+address:      P&Aring;™erov
+address:      75002
+address:      CZ
+e-mail:       obchod@axo.cz
+registrar:    REG-INTERNET-CZ
+created:      01.06.2007 11:05:00
+
+contact:      CONTACT.STATION.CZ
+org:          Gransy s.r.o
+name:         Jan Horak
+address:      Borivojova 35
+address:      Praha
+address:      13000
+address:      CZ
+phone:        +420.732954549
+e-mail:       info@gransy.com
+registrar:    REG-GRANSY
+created:      01.10.2007 16:00:00
+changed:      30.06.2011 21:58:11
+
+nsset:        NS01.STATION.CZ
+nserver:      ns.internetserver.cz (77.78.126.17)
+nserver:      ns2.internetserver.cz (77.78.104.251)
+nserver:      ns3.dns-station.net
+tech-c:       GRANSY
+registrar:    REG-GRANSY
+created:      01.10.2007 16:10:01
+changed:      29.08.2011 10:53:02
+
+contact:      GRANSY
+org:          Gransy s.r.o.
+name:         Jan Hor&Atilde;&iexcl;k
+address:      Bo&Aring;™ivojova 878/35
+address:      Praha 3
+address:      130 00
+address:      CZ
+phone:        +420.732954549
+fax-no:       +420.226517341
+e-mail:       info@gransy.com
+registrar:    REG-MOJEID
+created:      23.08.2004 17:35:00
+changed:      20.04.2011 14:22:45
+
+
