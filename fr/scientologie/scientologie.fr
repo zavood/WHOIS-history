@@ -1,0 +1,105 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; scientologie.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      scientologie.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ASES2-FRNIC
+admin-c:     NR371-FRNIC
+tech-c:      HN20-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL8551-FRNIC
+registrar:   NAMEBAY
+anniversary: 15/01
+created:     24/11/2004
+last-update: 09/02/2010
+source:      FRNIC
+
+ns-list:     NSL8551-FRNIC
+nserver:     pdns1.ultradns.net
+nserver:     pdns2.ultradns.net
+nserver:     pdns3.ultradns.org
+nserver:     pdns4.ultradns.org
+nserver:     pdns5.ultradns.info
+nserver:     pdns6.ultradns.co.uk
+source:      FRNIC
+
+registrar:   NAMEBAY
+type:        Isp Option 1
+address:     27 Boulevard des Moulins
+address:     98000 MONACO
+country:     MC
+phone:       +377 97 70 61 64
+fax-no:      +377 97 97 21 13
+e-mail:      contact@namebay.com
+website:     http://www.namebay.com
+anonymous:   NO
+registered:  18/09/2001
+source:      FRNIC
+
+nic-hdl:     ASES2-FRNIC
+type:        ORGANIZATION
+contact:     ASS SPIRITUELLE EGLISE SCIENTOLOGIE IDF
+address:     7, rue Jules C&eacute;sar
+address:     75012 Paris
+country:     FR
+phone:       +33 1 44 74 62 59
+e-mail:      asesidf@nyc.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     NR371-FRNIC
+type:        ORGANIZATION
+contact:     Nathalie,Serra Ramelli
+address:     ASESIDF
+address:     7, rue Jules C&eacute;sar
+address:     75012 Paris
+country:     FR
+phone:       +33 1 44 74 62 59
+e-mail:      public-affairs-office@wanadoo.fr
+changed:     14/11/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     HN20-FRNIC
+type:        ROLE
+contact:     Hostmaster Namebay
+address:     Namebay
+address:     Namebay SAM
+address:     30 bld Princesse Charlotte
+address:     98000 Monaco
+country:     MC
+phone:       +377 97706164
+fax-no:      +377 97972113
+e-mail:      techafnic@namebay.com
+trouble:     http://www.namebay.com
+trouble:     Support : hotline@namebay.com
+trouble:     Spam : abuse@namebay.com
+admin-c:     CV97-FRNIC
+tech-c:      FH448-FRNIC
+tech-c:      BF81-FRNIC
+notify:      techafnic@namebay.com
+changed:     28/09/2001 techafnic@namebay.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

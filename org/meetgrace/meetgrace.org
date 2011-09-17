@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156796075-LROR
+Domain Name:MEETGRACE.ORG
+Created On:03-Aug-2009 16:25:47 UTC
+Last Updated On:05-Jul-2011 09:23:16 UTC
+Expiration Date:03-Aug-2012 16:25:47 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:49ca7201fa72b502
+Registrant Name:Megan  Wilkerson
+Registrant Organization:Grace Church
+Registrant Street1:501 W. Lincoln Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lititz
+Registrant State/Province:PA
+Registrant Postal Code:17543
+Registrant Country:US
+Registrant Phone:+1.7176262155
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mjwilkerson@lgbc.org
+Admin ID:49ca7201fa72b502
+Admin Name:Megan  Wilkerson
+Admin Organization:Grace Church
+Admin Street1:501 W. Lincoln Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Lititz
+Admin State/Province:PA
+Admin Postal Code:17543
+Admin Country:US
+Admin Phone:+1.7176262155
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mjwilkerson@lgbc.org
+Tech ID:49ca7201fa72b502
+Tech Name:Megan  Wilkerson
+Tech Organization:Grace Church
+Tech Street1:501 W. Lincoln Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Lititz
+Tech State/Province:PA
+Tech Postal Code:17543
+Tech Country:US
+Tech Phone:+1.7176262155
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mjwilkerson@lgbc.org
+Name Server:DNS01.GPN.REGISTER.COM
+Name Server:DNS02.GPN.REGISTER.COM
+Name Server:DNS03.GPN.REGISTER.COM
+Name Server:DNS04.GPN.REGISTER.COM
+Name Server:DNS05.GPN.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

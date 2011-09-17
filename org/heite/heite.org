@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D12063577-LROR
+Domain Name:HEITE.ORG
+Created On:02-Nov-1999 23:23:20 UTC
+Last Updated On:17-Nov-2006 20:29:46 UTC
+Expiration Date:02-Nov-2011 23:23:20 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29168929-NSI
+Registrant Name:Edward F. Heite
+Registrant Organization:Edward F. Heite
+Registrant Street1:P O Box 53
+Registrant Street2:21 South Main Street
+Registrant Street3:
+Registrant City:Camden
+Registrant State/Province:DE
+Registrant Postal Code:19934
+Registrant Country:US
+Registrant Phone:+1.41074978
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dalfred@DMV.COM
+Admin ID:41226168-NSI
+Admin Name:Heite Consulting, Inc.
+Admin Organization:Heite Consulting, Inc.
+Admin Street1:190 Main Street
+Admin Street2:
+Admin Street3:
+Admin City:Little Creek
+Admin State/Province:DE
+Admin Postal Code:19901
+Admin Country:US
+Admin Phone:+1.804379166
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:lebrowning@att.net
+Tech ID:41226168-NSI
+Tech Name:Heite Consulting, Inc.
+Tech Organization:Heite Consulting, Inc.
+Tech Street1:190 Main Street
+Tech Street2:
+Tech Street3:
+Tech City:Little Creek
+Tech State/Province:DE
+Tech Postal Code:19901
+Tech Country:US
+Tech Phone:+1.804379166
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:lebrowning@att.net
+Name Server:PYTHON.DMV.COM
+Name Server:NS.DMV.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

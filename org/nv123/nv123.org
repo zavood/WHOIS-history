@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160357337-LROR
+Domain Name:NV123.ORG
+Created On:08-Oct-2010 15:43:30 UTC
+Last Updated On:28-Dec-2010 18:37:13 UTC
+Expiration Date:08-Oct-2011 15:43:30 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:OK
+Registrant ID:hc391379504-cn
+Registrant Name:li ke
+Registrant Organization:li ke
+Registrant Street1:Guangxi liuzhou
+Registrant Street2:
+Registrant Street3:
+Registrant City:liuzhou
+Registrant State/Province:GX
+Registrant Postal Code:545007
+Registrant Country:CN
+Registrant Phone:+86.07723635386
+Registrant Phone Ext.:
+Registrant FAX:+86.07723635386
+Registrant FAX Ext.:
+Registrant Email:liuzhoumc@163.com
+Admin ID:hc391379504-cn
+Admin Name:li ke
+Admin Organization:li ke
+Admin Street1:Guangxi liuzhou
+Admin Street2:
+Admin Street3:
+Admin City:liuzhou
+Admin State/Province:GX
+Admin Postal Code:545007
+Admin Country:CN
+Admin Phone:+86.07723635386
+Admin Phone Ext.:
+Admin FAX:+86.07723635386
+Admin FAX Ext.:
+Admin Email:liuzhoumc@163.com
+Tech ID:hc391379504-cn
+Tech Name:li ke
+Tech Organization:li ke
+Tech Street1:Guangxi liuzhou
+Tech Street2:
+Tech Street3:
+Tech City:liuzhou
+Tech State/Province:GX
+Tech Postal Code:545007
+Tech Country:CN
+Tech Phone:+86.07723635386
+Tech Phone Ext.:
+Tech FAX:+86.07723635386
+Tech FAX Ext.:
+Tech Email:liuzhoumc@163.com
+Name Server:DNS23.HICHINA.COM
+Name Server:DNS24.HICHINA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

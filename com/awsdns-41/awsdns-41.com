@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 21-oct-2010
    Expiration Date: 21-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:02:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 16:46:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -115,10 +115,10 @@ Registrant:
 
     Domain servers in listed order:
 
+    g-ns-1769.awsdns-41.com
+    g-ns-42.awsdns-41.com
     g-ns-617.awsdns-41.com
     g-ns-1193.awsdns-41.com
-    g-ns-42.awsdns-41.com
-    g-ns-1769.awsdns-41.com
 
 
 

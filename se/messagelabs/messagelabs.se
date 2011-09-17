@@ -1,0 +1,38 @@
+# Copyright (c) 1997- .SE (The Internet Infrastructure Foundation).
+# All rights reserved.
+
+# The information obtained through searches, or otherwise, is protected
+# by the Swedish Copyright Act (1960:729) and international conventions.
+# It is also subject to database protection according to the Swedish
+# Copyright Act.
+
+# Any use of this material to target advertising or
+# similar activities is forbidden and will be prosecuted.
+# If any of the information below is transferred to a third
+# party, it must be done in its entirety. This server must
+# not be used as a backend for a search engine.
+
+# Result of search for registered domain names under
+# the .SE top level domain.
+
+# The data is in the UTF-8 character set and the result is
+# printed with eight bits.
+
+state:            active
+domain:           messagelabs.se
+holder:           SE0810-113003
+admin-c:          SE1104-113006
+tech-c:           SE0810-113003
+billing-c:        -
+created:          2008-05-05
+modified:         2010-01-22
+expires:          2012-05-05
+transferred:      2009-11-04
+nserver:          dns1.messagelabs.com
+nserver:          dns2.messagelabs.com
+nserver:          dns3.messagelabs.com
+nserver:          dns4.messagelabs.com
+nserver:          dns5.messagelabs.com
+dnssec:           unsigned delegation
+status:           ok
+registrar:        CSC Corp Domains

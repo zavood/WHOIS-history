@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 13:20:25 (BRT -03:00)
+
+domain:      lyrics.com.br
+owner:       Vignoli Comunica&ccedil;&atilde;o Ltda
+ownerid:     007.175.186/0001-69
+responsible: Samuel Vignoli
+country:     BR
+owner-c:     SVF5
+admin-c:     SVF5
+tech-c:      SVF5
+billing-c:   SVF5
+nserver:     master.studiosol.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     slave.studiosol.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     20011109 #676459
+expires:     20131109
+changed:     20101028
+status:      published
+
+nic-hdl-br:  SVF5
+person:      Samuel Vignoli Federman
+e-mail:      atendimento@studiosol.com.br
+created:     20000117
+changed:     20041109
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

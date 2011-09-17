@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 12-oct-1998
    Expiration Date: 24-dec-2015
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 16:48:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 17:13:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: chuys.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 12:39:08 EDT 2011
+Date and Time of Query: Sat Sep 17 13:03:04 EDT 2011
 Reason Code: IE

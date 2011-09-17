@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150407869-LROR
+Domain Name:CIFRACLUB.ORG
+Created On:16-Dec-2007 13:26:36 UTC
+Last Updated On:10-Dec-2009 15:33:32 UTC
+Expiration Date:16-Dec-2011 13:26:36 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34469050
+Registrant Name:Sam Vignoli
+Registrant Organization:Studio Sol Comunicacao
+Registrant Street1:Rua Fernandes Tourinho, 164 - andar 7
+Registrant Street2:
+Registrant Street3:
+Registrant City:Belo Horizonte
+Registrant State/Province:Minas Gerais
+Registrant Postal Code:30112-000
+Registrant Country:BR
+Registrant Phone:+55.3121272540
+Registrant Phone Ext.:
+Registrant FAX:+55.3121272540
+Registrant FAX Ext.:
+Registrant Email:international@studiosol.com.br
+Admin ID:CR34469052
+Admin Name:Sam Vignoli
+Admin Organization:Studio Sol Comunicacao
+Admin Street1:Rua Fernandes Tourinho, 164 - andar 7
+Admin Street2:
+Admin Street3:
+Admin City:Belo Horizonte
+Admin State/Province:Minas Gerais
+Admin Postal Code:30112-000
+Admin Country:BR
+Admin Phone:+55.3121272540
+Admin Phone Ext.:
+Admin FAX:+55.3121272540
+Admin FAX Ext.:
+Admin Email:international@studiosol.com.br
+Tech ID:CR34469051
+Tech Name:Sam Vignoli
+Tech Organization:Studio Sol Comunicacao
+Tech Street1:Rua Fernandes Tourinho, 164 - andar 7
+Tech Street2:
+Tech Street3:
+Tech City:Belo Horizonte
+Tech State/Province:Minas Gerais
+Tech Postal Code:30112-000
+Tech Country:BR
+Tech Phone:+55.3121272540
+Tech Phone Ext.:
+Tech FAX:+55.3121272540
+Tech FAX Ext.:
+Tech Email:international@studiosol.com.br
+Name Server:MASTER.STUDIOSOL.COM.BR
+Name Server:SLAVE.STUDIOSOL.COM.BR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 04-jan-2000
    Expiration Date: 04-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:55:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 17:06:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,7 +76,7 @@ Registrars.
 # Pour obtenir les informations en status 'Protected by policy', contactez
 # directement le registre concerne (Eurid, AFNIC)
 #
-# 2011-09-14 17:56:11 CEST
+# 2011-09-17 19:06:49 CEST
 
 domain: jmarr.com
 reg_created: 2000-01-04 14:22:21

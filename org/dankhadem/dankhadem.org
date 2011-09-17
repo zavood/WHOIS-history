@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161006776-LROR
+Domain Name:DANKHADEM.ORG
+Created On:21-Dec-2010 07:32:42 UTC
+Last Updated On:20-Feb-2011 03:50:33 UTC
+Expiration Date:21-Dec-2011 07:32:42 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:dd2abbc818d0c94a
+Registrant Name:taro  yamada
+Registrant Organization:Personal
+Registrant Street1:nihon no
+Registrant Street2:
+Registrant Street3:
+Registrant City:dokoka
+Registrant State/Province:Tokyo-to
+Registrant Postal Code:111-1111
+Registrant Country:JP
+Registrant Phone:+90.46211284
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nfukaura@gmail.com
+Admin ID:0d2256a26306558e
+Admin Name:DIGIROCK  INC.
+Admin Organization:DigiRock, Inc.
+Admin Street1:Chuo-ku Bakurou-cho 4-7-5
+Admin Street2:
+Admin Street3:
+Admin City:Osaka-shi
+Admin State/Province:OSAKA-FU
+Admin Postal Code:541-0059
+Admin Country:JP
+Admin Phone:+81.662416585
+Admin Phone Ext.:
+Admin FAX:+81.662416586
+Admin FAX Ext.:
+Admin Email:domain-contact@digi-rock.com
+Tech ID:0d2256a26306558e
+Tech Name:DIGIROCK  INC.
+Tech Organization:DigiRock, Inc.
+Tech Street1:Chuo-ku Bakurou-cho 4-7-5
+Tech Street2:
+Tech Street3:
+Tech City:Osaka-shi
+Tech State/Province:OSAKA-FU
+Tech Postal Code:541-0059
+Tech Country:JP
+Tech Phone:+81.662416585
+Tech Phone Ext.:
+Tech FAX:+81.662416586
+Tech FAX Ext.:
+Tech Email:domain-contact@digi-rock.com
+Name Server:DNS1.NAME-SERVICES.COM
+Name Server:DNS2.NAME-SERVICES.COM
+Name Server:DNS3.NAME-SERVICES.COM
+Name Server:DNS4.NAME-SERVICES.COM
+Name Server:DNS5.NAME-SERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

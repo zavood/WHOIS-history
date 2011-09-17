@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101900666-LROR
+Domain Name:BIKINIBCN.ORG
+Created On:28-Oct-2003 10:01:52 UTC
+Last Updated On:25-Oct-2010 08:07:02 UTC
+Expiration Date:28-Oct-2011 10:01:52 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:43443817-NSI
+Registrant Name:Bikini, S.A. Sociedad Anonima
+Registrant Street1:C/ Deu i Mata, 105
+Registrant Street2:
+Registrant Street3:
+Registrant City:Barcelona
+Registrant State/Province:Barcelona
+Registrant Postal Code:08029
+Registrant Country:ES
+Registrant Phone:+34.933220800
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jorge@bikinibcn.com
+Admin ID:43443817-NSI
+Admin Name:Bikini, S.A. Sociedad Anonima
+Admin Street1:C/ Deu i Mata, 105
+Admin Street2:
+Admin Street3:
+Admin City:Barcelona
+Admin State/Province:Barcelona
+Admin Postal Code:08029
+Admin Country:ES
+Admin Phone:+34.933220800
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jorge@bikinibcn.com
+Tech ID:43477249-NSI
+Tech Name:Signia Technologies Sociedad Limitada
+Tech Street1:C/ Balmes, 184 Atico 3
+Tech Street2:
+Tech Street3:
+Tech City:Barcelona
+Tech State/Province:Barcelona
+Tech Postal Code:08006
+Tech Country:ES
+Tech Phone:+34.933427272
+Tech Phone Ext.:
+Tech FAX:+34.933940432
+Tech FAX Ext.:
+Tech Email:info@signia.es
+Name Server:NSONE.ACKSTORM.COM
+Name Server:NSTWO.ACKSTORM.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

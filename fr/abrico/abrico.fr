@@ -1,0 +1,117 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; abrico.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      abrico.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    A3858-FRNIC
+admin-c:     CG331-FRNIC
+tech-c:      MC8651-FRNIC
+tech-c:      DD195-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1835-FRNIC
+registrar:   MAILCLUB
+anniversary: 29/03
+created:     07/05/2002
+last-update: 29/03/2006
+source:      FRNIC
+
+ns-list:     NSL1835-FRNIC
+nserver:     ns1.mailclub.fr [80.245.60.10]
+nserver:     ns2.mailclub.fr [193.151.86.13]
+source:      FRNIC
+
+registrar:   MAILCLUB
+type:        Isp Option 1
+address:     P&ocirc;le M&eacute;dia de la Belle de Mai
+address:     37 Rue Guibal
+address:     MARSEILLE CEDEX 03
+country:     FR
+phone:       +33 4 88 66 22 22
+fax-no:      +33 4 88 66 22 20
+e-mail:      clientele@mailclub.fr
+website:     http://www.mailclub.fr
+anonymous:   NO
+registered:  01/01/1999
+source:      FRNIC
+
+nic-hdl:     CG331-FRNIC
+type:        PERSON
+contact:     Christian Gervais
+address:     ABRICO
+address:     65, rue de la Palud
+address:     13006 Marseille
+country:     FR
+phone:       +33 4 91 54 01 24
+fax-no:      +33 4 91 54 41 86
+e-mail:      ch.gervais@wanadoo.fr
+changed:     07/05/2002 frnic-dbm-updates@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     A3858-FRNIC
+type:        ORGANIZATION
+contact:     abrico
+address:     65, rue de la Palud
+address:     13006 Marseille
+country:     FR
+phone:       +33 4 91 54 01 24
+fax-no:      +33 4 91 55 63 22
+e-mail:      cgervais@abrico.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     MC8651-FRNIC
+type:        ROLE
+contact:     Service Clientele
+address:     MailClub
+address:     Pole Media de la Belle de Mai
+address:     37, rue Guibal
+address:     13356 Marseille Cedex 3
+country:     FR
+phone:       +33 4 88 66 22 22
+e-mail:      ripe@mailclub.fr
+admin-c:     CT1010-FRNIC
+tech-c:      CT1010-FRNIC
+notify:      ripe@mailclub.fr
+changed:     20/07/2006 ripe@mailclub.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DD195-FRNIC
+type:        ROLE
+contact:     Service Technique
+address:     MailClub
+address:     Pole Media de la Belle de Mai
+address:     37, rue Guibal
+address:     13356 Marseille Cedex 3
+country:     FR
+phone:       +33 4 88 66 22 22
+e-mail:      technique@mailclub.fr
+admin-c:     CT1010-FRNIC
+tech-c:      CT1010-FRNIC
+notify:      ripe@daydream.org
+changed:     20/07/2006 technique@mailclub.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

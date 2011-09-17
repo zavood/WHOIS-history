@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94427253-LROR
+Domain Name:AALASALLE.ORG
+Created On:10-Feb-2003 23:34:06 UTC
+Last Updated On:11-Jan-2011 21:00:05 UTC
+Expiration Date:10-Feb-2012 23:34:06 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ONLC-4024243-4
+Registrant Name:Asociacion Antiguos Alumnos La Salle de Benicarlo
+Registrant Organization:NULL
+Registrant Street1:C . Dr. Ferrer, 33 - HOGAR LA SALLE
+Registrant Street2:
+Registrant Street3:
+Registrant City:BENICARLO
+Registrant State/Province:Castellon
+Registrant Postal Code:12580
+Registrant Country:ES
+Registrant Phone:+34.964460584
+Registrant Phone Ext.:
+Registrant FAX:+34.901021799
+Registrant FAX Ext.:
+Registrant Email:jrbatiste@lasalle.es
+Admin ID:ONLC-4024243-1
+Admin Name:Asociacion Antiguos Alumnos La Salle de Benicarlo
+Admin Organization:NULL
+Admin Street1:C . Dr. Ferrer, 33 - HOGAR LA SALLE
+Admin Street2:
+Admin Street3:
+Admin City:BENICARLO
+Admin State/Province:Castellon
+Admin Postal Code:12580
+Admin Country:ES
+Admin Phone:+34.964460584
+Admin Phone Ext.:
+Admin FAX:+34.901021799
+Admin FAX Ext.:
+Admin Email:jrbatiste@lasalle.es
+Tech ID:ONLC-4024243-2
+Tech Name:REDCORUNA SLU
+Tech Organization:Luis Veiga Lopez
+Tech Street1:Ruanova 76-78, 1
+Tech Street2:
+Tech Street3:
+Tech City:Lugo
+Tech State/Province:Lugo
+Tech Postal Code:27001
+Tech Country:ES
+Tech Phone:+34.902998153
+Tech Phone Ext.:
+Tech FAX:+34.901021799
+Tech FAX Ext.:
+Tech Email:dominios@redcoruna.org
+Name Server:NS2.REDCORUNA.COM
+Name Server:NS1.REDCORUNA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

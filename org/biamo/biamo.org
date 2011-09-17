@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98502480-LROR
+Domain Name:BIAMO.ORG
+Created On:17-Jul-2003 16:19:48 UTC
+Last Updated On:15-Jul-2011 15:52:00 UTC
+Expiration Date:17-Jul-2012 16:19:48 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:10686450633500
+Registrant Name:Brain Injury Association of Missouri
+Registrant Street1:10270 Page Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:St Louis
+Registrant State/Province:MO
+Registrant Postal Code:63132
+Registrant Country:US
+Registrant Phone:+1.3144264024
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sgee@biamo.org
+Admin ID:10686450636640
+Admin Name:Scott Gee
+Admin Street1:10270 Page Avenue
+Admin Street2:
+Admin Street3:
+Admin City:St Louis
+Admin State/Province:MO
+Admin Postal Code:63132
+Admin Country:US
+Admin Phone:+1.3144264024
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sgee@biamo.org
+Tech ID:10686450643460
+Tech Name:DNS DoubleDomains.com
+Tech Street1:PO Box 23245
+Tech Street2:
+Tech Street3:
+Tech City:Chagrin Falls
+Tech State/Province:OH
+Tech Postal Code:44023-0245
+Tech Country:US
+Tech Phone:+1.000000000
+Tech Phone Ext.:
+Tech FAX:+1.6034624832
+Tech FAX Ext.:
+Tech Email:dns@doubledomains.com
+Name Server:NS3.WEBCONTROLCENTER.COM
+Name Server:NS4.WEBCONTROLCENTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

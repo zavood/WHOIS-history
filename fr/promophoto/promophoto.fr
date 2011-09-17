@@ -1,0 +1,80 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; promophoto.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      promophoto.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    DO138-FRNIC
+admin-c:     DS7698-FRNIC
+tech-c:      DS7698-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL487-FRNIC
+registrar:   DDO ORGANISATION
+anniversary: 29/07
+created:     29/07/2005
+last-update: 11/09/2007
+source:      FRNIC
+
+ns-list:     NSL487-FRNIC
+nserver:     dns1.ddo-org.com
+nserver:     dns2.ddo-org.com
+source:      FRNIC
+
+registrar:   DDO ORGANISATION
+type:        Isp Option 2
+address:     125 bis Chemin du Sang De Serp
+address:     TOULOUSE
+country:     FR
+phone:       +33 8 25 72 49 00
+fax-no:      +33 5 34 60 49 01
+e-mail:      noc@ddo.net
+website:     http://www.ddo.net/
+anonymous:   NO
+registered:  19/01/1999
+source:      FRNIC
+
+nic-hdl:     DS7698-FRNIC
+type:        ROLE
+contact:     Donnet Sylvain
+address:     DDO Organisation
+address:     125bis, chemin du Sang de Serp
+address:     31200 Toulouse
+country:     FR
+phone:       +33 5 34 60 49 00
+e-mail:      contact@ddo-org.com
+admin-c:     SD337-FRNIC
+tech-c:      SD337-FRNIC
+notify:      contact@ddo-org.com
+changed:     29/03/2007 contact@ddo-org.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DO138-FRNIC
+type:        ORGANIZATION
+contact:     DDO Organisation
+address:     1, rue Louis Renault
+address:     31130 Balma
+country:     FR
+phone:       +33 5 34 60 49 00
+e-mail:      noc@ddo.net
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

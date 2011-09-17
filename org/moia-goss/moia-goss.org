@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158431747-LROR
+Domain Name:MOIA-GOSS.ORG
+Created On:23-Feb-2010 05:31:32 UTC
+Last Updated On:02-Mar-2011 08:54:10 UTC
+Expiration Date:23-Feb-2012 05:31:32 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ncr-3843740-609d
+Registrant Name:Libosso Alex Bengo
+Registrant Organization:Ebits Online
+Registrant Street1:P.O Box 19436
+Registrant Street2:
+Registrant Street3:
+Registrant City:Nairobi
+Registrant State/Province:Nairobi
+Registrant Postal Code:+254
+Registrant Country:KE
+Registrant Phone:+254.202384022
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@ebitsonline.com
+Admin ID:nca-3843741-7274
+Admin Name:Libosso Alex Bengo
+Admin Organization:Ebits Online
+Admin Street1:P.O Box 19436
+Admin Street2:
+Admin Street3:
+Admin City:Nairobi
+Admin State/Province:Nairobi
+Admin Postal Code:+254
+Admin Country:KE
+Admin Phone:+254.202384022
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@ebitsonline.com
+Tech ID:nct-3843742-6c17
+Tech Name:Libosso Alex Bengo
+Tech Organization:Ebits Online
+Tech Street1:P.O Box 19436
+Tech Street2:
+Tech Street3:
+Tech City:Nairobi
+Tech State/Province:Nairobi
+Tech Postal Code:+254
+Tech Country:KE
+Tech Phone:+254.202384022
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@ebitsonline.com
+Name Server:NS1.TOPHOSTKENYA.COM
+Name Server:NS2.TOPHOSTKENYA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
