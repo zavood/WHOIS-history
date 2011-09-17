@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3639330-LROR
+Domain Name:PEACECORPSWRITERS.ORG
+Created On:13-Feb-1999 05:00:00 UTC
+Last Updated On:25-Apr-2011 00:26:41 UTC
+Expiration Date:13-Feb-2012 05:00:00 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:A129842037025711
+Registrant Name:Marion Beil
+Registrant Organization:PeaceCorpsWriters.org
+Registrant Street1:4 Lodge Pole Road
+Registrant Street2:#1003
+Registrant Street3:
+Registrant City:Pittsford
+Registrant State/Province:NY
+Registrant Postal Code:14534
+Registrant Country:US
+Registrant Phone:+1.5102204644
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mhbeil@rochester.rr.com
+Admin ID:B129842037073010
+Admin Name:Marian Beil
+Admin Street1:492 Staten Avenue
+Admin Street2:#1003
+Admin Street3:
+Admin City:Oakland
+Admin State/Province:CA
+Admin Postal Code:94610
+Admin Country:US
+Admin Phone:+1.5102204644
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:marian@haleybeil.com
+Tech ID:B129842037073011
+Tech Name:YahooDomains Techcontact
+Tech Street1:701 First Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Sunnyvale
+Tech State/Province:CA
+Tech Postal Code:94089
+Tech Country:US
+Tech Phone:+1.4089162124
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain.tech@yahoo-inc.com
+Name Server:YNS1.YAHOO.COM
+Name Server:YNS2.YAHOO.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

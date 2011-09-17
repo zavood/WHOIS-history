@@ -1,0 +1,67 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-17T22:14:18+12:00
+domain_name: fruitbowl.co.nz
+query_status: 200 Active
+domain_dateregistered: 2009-06-26T10:47:32+12:00
+domain_datebilleduntil: 2012-06-26T10:47:32+12:00
+domain_datelastmodified: 2011-05-25T16:30:26+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: 1st Domains
+registrar_address1: P O Box 1520
+registrar_address2: Christchurch Mail Centre
+registrar_city: Christchurch
+registrar_province: Canterbury
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 3 962-9520
+registrar_fax: +64 3 962-9513
+registrar_email: hostmaster@1stdomains.net.nz
+%
+registrant_contact_name: Rod Drury
+registrant_contact_address1: 10 Aranui Street
+registrant_contact_address2: Miramar
+registrant_contact_city: Wellington
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 4 9348093
+registrant_contact_fax: +64 4 9728093
+registrant_contact_email: Rod@Drury.net.nz
+%
+admin_contact_name: Mogul Limited
+admin_contact_address1: 2a Treachers Lane
+admin_contact_city: Havelock North
+admin_contact_province: Hawkes Bay
+admin_contact_postalcode: 4130
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 6 8777478
+admin_contact_email: info@mogul.co.nz
+%
+technical_contact_name: Mogul Limited
+technical_contact_address1: 159b Te Mata Road
+technical_contact_city: Havelock North
+technical_contact_postalcode: 4130
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 6 8777478
+technical_contact_email: matthew@mogul.co.nz
+%
+ns_name_01: ns583.websitewelcome.com
+ns_name_02: ns584.websitewelcome.com
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

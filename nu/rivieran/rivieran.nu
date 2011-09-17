@@ -27,5 +27,5 @@ registered in .nu is available upon request from support@nic.nu
 
 Copyright by .NU Domain Ltd - http://www.nunames.nu
 ------------------------------------------------------------------------
-Database last updated: 2011-Sep-15 07:56:14 GMT
+Database last updated: 2011-Sep-17 07:44:36 GMT
 ------------------------------------------------------------------------

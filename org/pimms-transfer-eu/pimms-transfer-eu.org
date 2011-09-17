@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155795105-LROR
+Domain Name:PIMMS-TRANSFER-EU.ORG
+Created On:03-Apr-2009 10:33:24 UTC
+Last Updated On:01-Jul-2011 11:12:13 UTC
+Expiration Date:03-Apr-2013 10:33:24 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuZtKMQpi9K21IZA
+Registrant Name:Robert Harris
+Registrant Organization:Rob Harris Productions
+Registrant Street1:58 Hartswood Road
+Registrant Street2:Stamford Brook
+Registrant Street3:
+Registrant City:London
+Registrant State/Province:
+Registrant Postal Code:W129NF
+Registrant Country:GB
+Registrant Phone:+44.2087482430
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:robharrisproductions@btinternet.com
+Admin ID:tu3b0UgCXwjdmRtw
+Admin Name:Robert Harris
+Admin Organization:Rob Harris Productions
+Admin Street1:58 Hartswood Road
+Admin Street2:Stamford Brook
+Admin Street3:
+Admin City:London
+Admin State/Province:
+Admin Postal Code:W129NF
+Admin Country:GB
+Admin Phone:+44.2087482430
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:robharrisproductions@btinternet.com
+Tech ID:tuVaRoJQcSqYHB1U
+Tech Name:Webfusion Ltd
+Tech Organization:Webfusion Ltd.
+Tech Street1:5 Roundwood Avenue
+Tech Street2:Stockley Park
+Tech Street3:
+Tech City:Uxbridge
+Tech State/Province:Middlesex
+Tech Postal Code:UB111FF
+Tech Country:GB
+Tech Phone:+44.8712309525
+Tech Phone Ext.:
+Tech FAX:+44.8701650437
+Tech FAX Ext.:
+Tech Email:services@123-reg.co.uk
+Name Server:NS1.MYHOSTCP.COM
+Name Server:NS2.MYHOSTCP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

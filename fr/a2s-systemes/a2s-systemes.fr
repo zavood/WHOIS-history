@@ -1,0 +1,78 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; a2s-systemes.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      a2s-systemes.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    FCB6-FRNIC
+admin-c:     P922-FRNIC
+tech-c:      P922-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL4824-FRNIC
+registrar:   ASSOCIATION PHPNET
+anniversary: 20/02
+created:     20/02/2007
+last-update: 02/03/2010
+source:      FRNIC
+
+ns-list:     NSL4824-FRNIC
+nserver:     ns.phpnet.org
+nserver:     ns2.phpnet.org
+source:      FRNIC
+
+registrar:   ASSOCIATION PHPNET
+type:        Isp Option 1
+address:     116 Route de Meylan
+address:     BIVIERS
+country:     FR
+phone:       +33 4 82 53 02 10
+fax-no:      +33 4 76 48 02 62
+e-mail:      support@phpnet.org
+website:     http://www.phpnet.org
+anonymous:   NO
+registered:  17/05/2004
+source:      FRNIC
+
+nic-hdl:     FCB6-FRNIC
+type:        PERSON
+contact:     Franck Calmels-Beaulieux
+address:     5, rue Honor&eacute; de Balzac
+address:     95560 Maffliers
+country:     FR
+phone:       +33 6 77 22 33 75
+fax-no:      +33 6 77 22 33 75
+e-mail:      fcalmels@objectifbulles.com
+changed:     20/02/2007 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     P922-FRNIC
+type:        ORGANIZATION
+contact:     PHPNET
+address:     123ter, cours de la Liberation
+address:     38100 Grenoble
+country:     FR
+phone:       +33 4 82 53 02 10
+fax-no:      +33 4 38 49 27 95
+e-mail:      support@phpnet.org
+changed:     01/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+

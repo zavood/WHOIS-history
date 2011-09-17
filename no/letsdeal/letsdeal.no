@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: LET356D-NORID
+Domain Name................: letsdeal.no
+Domain Holder Handle.......: CRL6O-NORID
+Registrar Handle...........: REG802-NORID
+Legal-c Handle.............: CL1230P-NORID
+Tech-c Handle..............: UH633R-NORID
+Name Server Handle.........: NSNA109H-NORID
+Name Server Handle.........: NSNA114H-NORID
+
+Additional information:
+Created:         2010-05-12
+Last updated:    2011-05-14
+
+NORID Handle...............: CRL6O-NORID
+Type.......................: organization
+Name.......................: CHRISTER R LARSSON
+Id Type....................: organization_number
+Id Number..................: 987668229
+Registrar Handle...........: REG802-NORID
+Post Address...............: Torpveien 130
+Postal Code................: NO-3241
+Postal Area................: SANDEFJORD
+Country....................: NO
+Mobile Phone Number........: +47.48150762
+Email Address..............: christer@lajkan.se
+
+Additional information:
+Created:         2011-04-18
+Last updated:    2011-04-18
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103912980-LROR
+Domain Name:MCKINNEYARC.ORG
+Created On:28-Jan-2004 17:08:24 UTC
+Last Updated On:05-Jan-2009 14:57:42 UTC
+Expiration Date:28-Jan-2014 17:08:24 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:37242845-NSI
+Registrant Name:McKinney Amateur Radio Club
+Registrant Organization:McKinney Amateur Radio Club
+Registrant Street1:PO Box 267
+Registrant Street2:
+Registrant Street3:
+Registrant City:McKinney
+Registrant State/Province:TX
+Registrant Postal Code:75069
+Registrant Country:US
+Registrant Phone:+1.9729434909
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:psl@ametx.com
+Admin ID:5486927-NSI
+Admin Name:Peter Loveall
+Admin Organization:AME Corp.
+Admin Street1:3624 COUNTY ROAD 413
+Admin Street2:
+Admin Street3:
+Admin City:MELISSA
+Admin State/Province:TX
+Admin Postal Code:75454-3014
+Admin Country:US
+Admin Phone:+1.9729434909
+Admin Phone Ext.:
+Admin FAX:+1.9725425102
+Admin FAX Ext.:
+Admin Email:psl@AMETX.COM
+Tech ID:5486927-NSI
+Tech Name:Peter Loveall
+Tech Organization:AME Corp.
+Tech Street1:3624 COUNTY ROAD 413
+Tech Street2:
+Tech Street3:
+Tech City:MELISSA
+Tech State/Province:TX
+Tech Postal Code:75454-3014
+Tech Country:US
+Tech Phone:+1.9729434909
+Tech Phone Ext.:
+Tech FAX:+1.9725425102
+Tech FAX Ext.:
+Tech Email:psl@AMETX.COM
+Name Server:NS15.WORLDNIC.COM
+Name Server:NS16.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D138673387-LROR
+Domain Name:ESPACEPL.ORG
+Created On:01-Feb-2007 07:37:23 UTC
+Last Updated On:27-Mar-2011 00:27:01 UTC
+Expiration Date:01-Feb-2012 07:37:23 UTC
+Sponsoring Registrar:NetArt Registrar Sp. z o.o. (R1808-LROR)
+Status:OK
+Registrant ID:nr-emvhjfmqq9sty
+Registrant Name:Ryszard Janiszewski
+Registrant Organization:dex7.net
+Registrant Street1:ul. Mala 50
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chotomow
+Registrant State/Province:mazowieckie
+Registrant Postal Code:05-123
+Registrant Country:PL
+Registrant Phone:+48.601241214
+Registrant Phone Ext.:
+Registrant FAX:+48.224894243
+Registrant FAX Ext.:
+Registrant Email:dex7@plusnet.pl
+Admin ID:nr-4i08nm3co3vyp
+Admin Name:NetArt Spolka Akcyjna S.K.A.
+Admin Organization:NetArt Spolka Akcyjna S.K.A.
+Admin Street1:Rondo Mogilskie 1
+Admin Street2:
+Admin Street3:
+Admin City:Krakow
+Admin State/Province:malopolskie
+Admin Postal Code:31-516
+Admin Country:PL
+Admin Phone:+48.122978810
+Admin Phone Ext.:
+Admin FAX:+48.122978808
+Admin FAX Ext.:
+Admin Email:info@nazwa.pl
+Tech ID:nr-u7vx3enwdv0da
+Tech Name:NetArt Spolka Akcyjna S.K.A.
+Tech Organization:NetArt Spolka Akcyjna S.K.A.
+Tech Street1:Rondo Mogilskie 1
+Tech Street2:
+Tech Street3:
+Tech City:Krakow
+Tech State/Province:malopolskie
+Tech Postal Code:31-516
+Tech Country:PL
+Tech Phone:+48.122978810
+Tech Phone Ext.:
+Tech FAX:+48.122978808
+Tech FAX Ext.:
+Tech Email:info@nazwa.pl
+Name Server:NS1.NETMARK.PL
+Name Server:NS2.NETMARK.PL
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

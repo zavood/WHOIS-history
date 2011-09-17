@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D147869585-LROR
+Domain Name:KZWIMPEL.ORG
+Created On:28-May-2007 09:37:40 UTC
+Last Updated On:23-May-2011 12:21:35 UTC
+Expiration Date:28-May-2012 09:37:40 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_6592462
+Registrant Name:Krzysztof Baczewski
+Registrant Organization:N/A (csid6592462)
+Registrant Street1:Krasinskiego 29/95
+Registrant Street2:
+Registrant Street3:
+Registrant City:Warszawa
+Registrant State/Province:
+Registrant Postal Code:01-580
+Registrant Country:PL
+Registrant Phone:+48.515272803
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:k.b.baczewski@gmail.com
+Admin ID:DI_2071283
+Admin Name:Robert Siebielski
+Admin Organization:Consulting Service - Robert Siebielski (csid2071283)
+Admin Street1:ul. Domaniewska 35a lok1 B
+Admin Street2:
+Admin Street3:
+Admin City:Warszawa
+Admin State/Province:
+Admin Postal Code:02-672
+Admin Country:PL
+Admin Phone:+48.228538888
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domeny@consultingservice.pl
+Tech ID:DI_6592462
+Tech Name:Krzysztof Baczewski
+Tech Organization:N/A (csid6592462)
+Tech Street1:Krasinskiego 29/95
+Tech Street2:
+Tech Street3:
+Tech City:Warszawa
+Tech State/Province:
+Tech Postal Code:01-580
+Tech Country:PL
+Tech Phone:+48.515272803
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:k.b.baczewski@gmail.com
+Name Server:NS1.NETMARK.PL
+Name Server:NS2.NETMARK.PL
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

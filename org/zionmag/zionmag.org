@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96784605-LROR
+Domain Name:ZIONMAG.ORG
+Created On:03-May-2003 16:24:22 UTC
+Last Updated On:14-Jul-2011 12:21:37 UTC
+Expiration Date:03-May-2012 16:24:22 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:6d5df80e29016d8f
+Registrant Name:Michal  Brenner
+Registrant Organization:Forum kulturni diverzity mladych
+Registrant Street1:Slezska 1306/80
+Registrant Street2:
+Registrant Street3:
+Registrant City:Praha
+Registrant State/Province:PRAHA
+Registrant Postal Code:120 00
+Registrant Country:CZ
+Registrant Phone:+421.911111111
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:fh@kotelna.sk
+Admin ID:f1dfc212b0d17538
+Admin Name:Milan  Rantuch
+Admin Organization:EuroNET Slovakia s.r.o.
+Admin Street1:M.R. Stefanika 157/45
+Admin Street2:
+Admin Street3:
+Admin City:Povazska Bystrica
+Admin State/Province:POVAZSKA BYSTRICA
+Admin Postal Code:017 01
+Admin Country:SK
+Admin Phone:+421.424261666
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domeny@euronet.sk
+Tech ID:de49d241da0a51d6
+Tech Name:Milan  Rantuch
+Tech Organization:EuroNET Slovakia s.r.o.
+Tech Street1:M.R. Stefanika 157/45
+Tech Street2:
+Tech Street3:
+Tech City:Povazska Bystrica
+Tech State/Province:SK
+Tech Postal Code:017 01
+Tech Country:SK
+Tech Phone:+421.424261666
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domeny@euronet.sk
+Name Server:NS1.WILBURY.SK
+Name Server:NS.WILBURY.SK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

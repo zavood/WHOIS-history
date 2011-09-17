@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6243440-LROR
+Domain Name:OKPSYCH.ORG
+Created On:05-May-1999 02:56:41 UTC
+Last Updated On:11-May-2010 16:47:42 UTC
+Expiration Date:05-May-2015 02:55:01 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30776995-NSI
+Registrant Name:Oklahoma Psychological Association
+Registrant Organization:Oklahoma Psychological Association
+Registrant Street1:6412 North Santa Fe Avenue
+Registrant Street2:Suite B2
+Registrant Street3:
+Registrant City:Oklahoma City
+Registrant State/Province:OK
+Registrant Postal Code:73116-9111
+Registrant Country:US
+Registrant Phone:+1.4058790069
+Registrant Phone Ext.:
+Registrant FAX:+1.4058790304
+Registrant FAX Ext.:
+Registrant Email:beckham@coxinet.net
+Admin ID:15150344-NSI
+Admin Name:Wade Hamil
+Admin Organization:Millennium Information Services
+Admin Street1:3816 SHADOWRIDGE DR
+Admin Street2:
+Admin Street3:
+Admin City:NORMAN
+Admin State/Province:OK
+Admin Postal Code:73072-5308
+Admin Country:US
+Admin Phone:+1.4056270276
+Admin Phone Ext.:
+Admin FAX:+1.4055730405
+Admin FAX Ext.:
+Admin Email:wade@okmis.com
+Tech ID:15150344-NSI
+Tech Name:Wade Hamil
+Tech Organization:Millennium Information Services
+Tech Street1:3816 SHADOWRIDGE DR
+Tech Street2:
+Tech Street3:
+Tech City:NORMAN
+Tech State/Province:OK
+Tech Postal Code:73072-5308
+Tech Country:US
+Tech Phone:+1.4056270276
+Tech Phone Ext.:
+Tech FAX:+1.4055730405
+Tech FAX Ext.:
+Tech Email:wade@okmis.com
+Name Server:DNS.INTERSERVER.NET
+Name Server:NS1.OKMIS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

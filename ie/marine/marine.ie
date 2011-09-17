@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      marine.ie
+descr:       The Marine Institute
+descr:       Statutory Body
+descr:       State Agency Name
+admin-c:     JW37-IEDR
+tech-c:      AAE913-IEDR
+renewal:     04-April-2012
+status:      Active
+nserver:     NS1.LGCSB.IE
+nserver:     NS2.LGCSB.IE
+source:      IEDR
+
+person:      Jacinta Mc Creanor
+nic-hdl:     JW37-IEDR
+source:      IEDR
+
+person:      Hostmaster
+nic-hdl:     AAE913-IEDR
+source:      IEDR
+

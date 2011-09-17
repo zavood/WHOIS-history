@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 21-oct-2000
    Expiration Date: 21-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 11:24:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 10:47:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,4 +56,58 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Too many lookups from this IP today. See you tomorrow.
+Registrant:
+ Electramedia
+ 411 Richmond St. E.
+ Toronto, ON M5A3S5
+ CA
+
+ Domain name: YOURWEBDEPARTMENT.COM
+
+
+ Administrative Contact:
+    Chato, Paul  Electramedia@myprivacy.ca
+    411 Richmond St. E.
+    Toronto, ON M5A3S5
+    CA
+    416 361 6161
+ Technical Contact:
+    Chato, Paul  Electramedia@myprivacy.ca
+    411 Richmond St. E.
+    Toronto, ON M5A3S5
+    CA
+    416 361 6161
+
+
+ Registrar of Record: easyDNS Technologies, Inc.
+ Record last updated on 29-Jul-2011.
+ Record expires on 21-Oct-2012.
+ Record created on 21-Oct-2000.
+
+ Domain servers in listed order:
+    NS2.EASYDNS.COM   72.52.2.1
+    NS3.EASYDNS.ORG   64.68.192.10
+    NS6.EASYDNS.NET   72.52.2.1
+    REMOTE2.EASYDNS.COM   72.52.2.1
+    REMOTE1.EASYDNS.COM   64.68.192.10
+    NS1.EASYDNS.COM   64.68.192.10
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns
+  or Identi.ca http://identi.ca/easyDNS )
+
+
+You have 14 lookups left today

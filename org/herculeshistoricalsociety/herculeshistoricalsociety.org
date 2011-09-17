@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104750060-LROR
+Domain Name:HERCULESHISTORICALSOCIETY.ORG
+Created On:12-Aug-2004 05:33:26 UTC
+Last Updated On:13-Aug-2011 01:25:08 UTC
+Expiration Date:12-Aug-2012 05:33:26 UTC
+Sponsoring Registrar:UK2 Group Ltd. (R123-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:SG_135767
+Registrant Name:hercules historical society
+Registrant Organization:Not Applicable
+Registrant Street1:151 finch ct
+Registrant Street2:
+Registrant Street3:
+Registrant City:hercules
+Registrant State/Province:ca
+Registrant Postal Code:94547
+Registrant Country:US
+Registrant Phone:+1.5107990943
+Registrant Phone Ext.:
+Registrant FAX:+00.0000000
+Registrant FAX Ext.:
+Registrant Email:herculeshistoricalsociety@comcast.net
+Admin ID:SG_135767
+Admin Name:hercules historical society
+Admin Organization:Not Applicable
+Admin Street1:151 finch ct
+Admin Street2:
+Admin Street3:
+Admin City:hercules
+Admin State/Province:ca
+Admin Postal Code:94547
+Admin Country:US
+Admin Phone:+1.5107990943
+Admin Phone Ext.:
+Admin FAX:+00.0000000
+Admin FAX Ext.:
+Admin Email:herculeshistoricalsociety@comcast.net
+Tech ID:SG_135767
+Tech Name:hercules historical society
+Tech Organization:Not Applicable
+Tech Street1:151 finch ct
+Tech Street2:
+Tech Street3:
+Tech City:hercules
+Tech State/Province:ca
+Tech Postal Code:94547
+Tech Country:US
+Tech Phone:+1.5107990943
+Tech Phone Ext.:
+Tech FAX:+00.0000000
+Tech FAX Ext.:
+Tech Email:herculeshistoricalsociety@comcast.net
+Name Server:RGP1.STARGATE.COM
+Name Server:RGP2.STARGATE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

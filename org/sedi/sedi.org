@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D50929-LROR
+Domain Name:SEDI.ORG
+Created On:16-Feb-1996 05:00:00 UTC
+Last Updated On:07-Jan-2011 18:43:21 UTC
+Expiration Date:17-Feb-2016 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31511851-NSI
+Registrant Name:SelfEmploymentDevelopment Initiaties
+Registrant Organization:SelfEmploymentDevelopment Initiaties
+Registrant Street1:1110 Finch Ave West #406
+Registrant Street2:
+Registrant Street3:
+Registrant City:Toronto
+Registrant State/Province:ONTARIO
+Registrant Postal Code:M3N 2T2
+Registrant Country:CA
+Registrant Phone:+1.4166652828
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:snguyen@SEDI.ORG
+Admin ID:31511853-NSI
+Admin Name:SocialandEnterprise Developement Innovations
+Admin Organization:SocialandEnterprise Developement Innovations
+Admin Street1:1110 Finch Ave West #406
+Admin Street2:Toronto, Ontario M3N 2T2
+Admin Street3:
+Admin City:Unknown
+Admin State/Province:
+Admin Postal Code:99999
+Admin Country:CA
+Admin Phone:+1.4166652828
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:snguyen@SEDI.ORG
+Tech ID:5819748-NSI
+Tech Name:Internet Light and Power Inc.
+Tech Organization:Internet Light and Power Inc.
+Tech Street1:210 Sheppard Avenue East
+Tech Street2:**
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:ON M2N3A9
+Tech Postal Code:**
+Tech Country:CA
+Tech Phone:+1.4162505600
+Tech Phone Ext.:
+Tech FAX:+1.4162506755
+Tech FAX Ext.:
+Tech Email:staff@ILAP.COM
+Name Server:NS1.ILAP.COM
+Name Server:NS2.ILAP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
