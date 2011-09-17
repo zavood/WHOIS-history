@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157597344-LROR
+Domain Name:STPETESUNSETROTARY.ORG
+Created On:14-Nov-2009 20:29:21 UTC
+Last Updated On:15-Nov-2010 10:31:20 UTC
+Expiration Date:14-Nov-2011 20:29:21 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR29629567
+Registrant Name:Kelly Weatherby
+Registrant Organization:Rotary Club of St. Petersburg Sunset
+Registrant Street1:PO Box 291017
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tampa
+Registrant State/Province:Florida
+Registrant Postal Code:33687
+Registrant Country:US
+Registrant Phone:+1.6129910214
+Registrant Phone Ext.:
+Registrant FAX:+1.6129910214
+Registrant FAX Ext.:
+Registrant Email:stpetesunsetrotary@gmail.com
+Admin ID:CR29629569
+Admin Name:Kelly Weatherby
+Admin Organization:Rotary Club of St. Petersburg Sunset
+Admin Street1:PO Box 291017
+Admin Street2:
+Admin Street3:
+Admin City:Tampa
+Admin State/Province:Florida
+Admin Postal Code:33687
+Admin Country:US
+Admin Phone:+1.6129910214
+Admin Phone Ext.:
+Admin FAX:+1.6129910214
+Admin FAX Ext.:
+Admin Email:stpetesunsetrotary@gmail.com
+Tech ID:CR29629568
+Tech Name:Kelly Weatherby
+Tech Organization:Rotary Club of St. Petersburg Sunset
+Tech Street1:PO Box 291017
+Tech Street2:
+Tech Street3:
+Tech City:Tampa
+Tech State/Province:Florida
+Tech Postal Code:33687
+Tech Country:US
+Tech Phone:+1.6129910214
+Tech Phone Ext.:
+Tech FAX:+1.6129910214
+Tech FAX Ext.:
+Tech Email:stpetesunsetrotary@gmail.com
+Name Server:NS13.DOMAINCONTROL.COM
+Name Server:NS14.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

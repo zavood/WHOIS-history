@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 02-sep-1998
    Expiration Date: 01-sep-2021
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 05:41:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 05:53:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -119,7 +119,7 @@ Roy M. Doppelt and Associates, APC
 
    Record expires on 01-Sep-2021.
    Record created on 02-Sep-1998.
-   Database last updated on 16-Sep-2011 01:31:29 EDT.
+   Database last updated on 17-Sep-2011 01:43:21 EDT.
 
    Domain servers in listed order:
 

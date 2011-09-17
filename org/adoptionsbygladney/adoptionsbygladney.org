@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D20891990-LROR
+Domain Name:ADOPTIONSBYGLADNEY.ORG
+Created On:28-Feb-2000 17:25:37 UTC
+Last Updated On:30-Jan-2011 11:05:20 UTC
+Expiration Date:28-Feb-2012 17:25:37 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:EE62D81F7C75E9EC
+Registrant Name:Nancy  Robbins
+Registrant Organization:Gladney Center for Adoption
+Registrant Street1:6300 John Ryan Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fort Worth
+Registrant State/Province:TX
+Registrant Postal Code:76132-4122
+Registrant Country:US
+Registrant Phone:+1.8179226016
+Registrant Phone Ext.:
+Registrant FAX:+1.8179226016
+Registrant FAX Ext.:
+Registrant Email:nancy.robbins@gladney.org
+Admin ID:EE62D81F7C75E9EC
+Admin Name:Nancy  Robbins
+Admin Organization:Gladney Center for Adoption
+Admin Street1:6300 John Ryan Drive
+Admin Street2:
+Admin Street3:
+Admin City:Fort Worth
+Admin State/Province:TX
+Admin Postal Code:76132-4122
+Admin Country:US
+Admin Phone:+1.8179226016
+Admin Phone Ext.:
+Admin FAX:+1.8179226016
+Admin FAX Ext.:
+Admin Email:nancy.robbins@gladney.org
+Tech ID:83B502658620ECD7
+Tech Name:Domain Administrator
+Tech Organization:Register.com, Inc. - Indirect Channel
+Tech Street1:575 8th Avenue
+Tech Street2:7th Floor
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.2127989100
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dan@register.com
+Name Server:NS1.SITESMARTINTERACTIVE.NET
+Name Server:NS2.SITESMARTINTERACTIVE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

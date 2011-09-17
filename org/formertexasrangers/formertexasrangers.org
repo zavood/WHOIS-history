@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D87278130-LROR
+Domain Name:FORMERTEXASRANGERS.ORG
+Created On:05-Jun-2002 22:54:47 UTC
+Last Updated On:19-May-2011 15:04:07 UTC
+Expiration Date:05-Jun-2016 22:54:47 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31334593
+Registrant Name:Joe Davis
+Registrant Organization:Former Texas Ranger Foundation
+Registrant Street1:PO Box 290229
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kerrville
+Registrant State/Province:Texas
+Registrant Postal Code:78029-0229
+Registrant Country:US
+Registrant Phone:+1.8302577083
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:Charles@hilcadia.com
+Admin ID:CR31334595
+Admin Name:Joe Davis
+Admin Organization:Former Texas Ranger Foundation
+Admin Street1:PO Box 290229
+Admin Street2:
+Admin Street3:
+Admin City:Kerrville
+Admin State/Province:Texas
+Admin Postal Code:78029-0229
+Admin Country:US
+Admin Phone:+1.8302577083
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:Charles@hilcadia.com
+Tech ID:CR31334594
+Tech Name:Joe Davis
+Tech Organization:Former Texas Ranger Foundation
+Tech Street1:PO Box 290229
+Tech Street2:
+Tech Street3:
+Tech City:Kerrville
+Tech State/Province:Texas
+Tech Postal Code:78029-0229
+Tech Country:US
+Tech Phone:+1.8302577083
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:Charles@hilcadia.com
+Name Server:NS1.YOUR-SITE.COM
+Name Server:NS3.YOUR-SITE.COM
+Name Server:NS2.YOUR-SITE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

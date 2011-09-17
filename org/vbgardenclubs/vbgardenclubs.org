@@ -1,0 +1,88 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D89073331-LROR
+Domain Name:VBGARDENCLUBS.ORG
+Created On:06-Aug-2002 04:03:42 UTC
+Last Updated On:07-Aug-2011 12:14:06 UTC
+Expiration Date:06-Aug-2012 04:03:42 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR35266014
+Registrant Name:Virginia Anderson
+Registrant Organization:VSA Publishing
+Registrant Street1:1308 Victorian Crescent
+Registrant Street2:
+Registrant Street3:
+Registrant City:Virginia Beach
+Registrant State/Province:Virginia
+Registrant Postal Code:23454
+Registrant Country:US
+Registrant Phone:+1.7574814688
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:vsapublishing@cox.net
+Admin ID:CR35266016
+Admin Name:Virginia Anderson
+Admin Organization:VSA Publishing
+Admin Street1:1308 Victorian Crescent
+Admin Street2:
+Admin Street3:
+Admin City:Virginia Beach
+Admin State/Province:Virginia
+Admin Postal Code:23454
+Admin Country:US
+Admin Phone:+1.7574814688
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:vsapublishing@cox.net
+Tech ID:CR35266015
+Tech Name:Virginia Anderson
+Tech Organization:VSA Publishing
+Tech Street1:1308 Victorian Crescent
+Tech Street2:
+Tech Street3:
+Tech City:Virginia Beach
+Tech State/Province:Virginia
+Tech Postal Code:23454
+Tech Country:US
+Tech Phone:+1.7574814688
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:vsapublishing@cox.net
+Name Server:NS505.WEBSITEWELCOME.COM
+Name Server:NS506.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

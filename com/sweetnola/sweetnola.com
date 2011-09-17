@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 07-jan-2006
    Expiration Date: 07-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 00:49:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 06:00:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -99,7 +99,7 @@ Domain name servers listed in order:
 	ns1.awardspace.com
 
 
-Accesses today: 1 / 20
+Accesses today: 5 / 20
 
 The data in Domainit.com's WHOIS database is provided to you by
 Domainit.com for information purposes only, namely to assist you in

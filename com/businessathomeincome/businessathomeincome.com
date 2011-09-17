@@ -12,11 +12,11 @@ for detailed information.
    Name Server: NS1.BLUEHOST.COM
    Name Server: NS2.BLUEHOST.COM
    Status: clientTransferProhibited
-   Updated Date: 15-sep-2010
+   Updated Date: 15-sep-2011
    Creation Date: 14-sep-2007
-   Expiration Date: 14-sep-2011
+   Expiration Date: 14-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:27:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 05:57:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,7 +80,7 @@ Domain Name: BUSINESSATHOMEINCOME.COM
 
    Created on..............: 2007-09-15 00:06:37 GMT
    Expires on..............: 2012-09-15 00:06:37 GMT
-   Last modified on........: 2011-08-31 15:12:48 GMT
+   Last modified on........: 2011-09-16 00:06:41 GMT
 
 Registrant Info: (FAST-14451852)
    Attn: businessathomeincome.com

@@ -1,0 +1,27 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         sanet.sk
+Admin-id            SANE-0007
+Admin-name          SANET - Slovak Academic Network
+Admin-legal-form    ina pravna forma
+Admin-org.-ID       17055270
+Admin-address       Vazovova, Bratislava 81243
+Admin-telephone     +421 2 52451301, +421 2 52497675
+Admin-email         horvath@sanet.sk
+Tech-id             SSYS-0002
+Tech-name           SOMI Systems a.s.
+Tech-org.-ID        36041432
+Tech-address        Lazovna 69, Banska Bystrica 974 01
+Tech-telephone      048/4146759
+dns_name            ns.stuba.sk
+dns_name            ba.sanet.sk
+dns_IPv4            192.108.138.12
+dns_name            sun.uakom.sk
+dns_name            ns.tuke.sk
+Last-update         2010-11-30
+Valid-date          2011-12-01
+Domain-status       DOM_OK
+

@@ -12,12 +12,12 @@ for detailed information.
    Name Server: NS1.LIVEDNS.CO.UK
    Name Server: NS2.LIVEDNS.CO.UK
    Name Server: NS3.LIVEDNS.CO.UK
-   Status: redemptionPeriod
-   Updated Date: 14-aug-2011
+   Status: pendingDelete
+   Updated Date: 14-sep-2011
    Creation Date: 04-jul-2010
    Expiration Date: 04-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:33:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 06:05:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
+IP Address: 67.231.254.15
 Maximum Daily connection limit reached. Lookup refused.

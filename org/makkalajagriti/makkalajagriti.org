@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152037077-LROR
+Domain Name:MAKKALAJAGRITI.ORG
+Created On:17-Mar-2008 18:14:20 UTC
+Last Updated On:17-May-2008 05:35:07 UTC
+Expiration Date:17-Mar-2013 18:14:20 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_7899477
+Registrant Name:Joy Srinivasan
+Registrant Organization:Makkala Jagriti
+Registrant Street1:30/1 8th Main Road
+Registrant Street2:Malleswaram
+Registrant Street3:
+Registrant City:Bangalore
+Registrant State/Province:Karnataka
+Registrant Postal Code:560003
+Registrant Country:IN
+Registrant Phone:+00.918023449219
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:joy_s@vsnl.com
+Admin ID:DI_7899477
+Admin Name:Joy Srinivasan
+Admin Organization:Makkala Jagriti
+Admin Street1:30/1 8th Main Road
+Admin Street2:Malleswaram
+Admin Street3:
+Admin City:Bangalore
+Admin State/Province:Karnataka
+Admin Postal Code:560003
+Admin Country:IN
+Admin Phone:+00.918023449219
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:joy_s@vsnl.com
+Tech ID:DI_7899477
+Tech Name:Joy Srinivasan
+Tech Organization:Makkala Jagriti
+Tech Street1:30/1 8th Main Road
+Tech Street2:Malleswaram
+Tech Street3:
+Tech City:Bangalore
+Tech State/Province:Karnataka
+Tech Postal Code:560003
+Tech Country:IN
+Tech Phone:+00.918023449219
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:joy_s@vsnl.com
+Name Server:NS1.HOST-CARE.COM
+Name Server:NS2.HOST-CARE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
