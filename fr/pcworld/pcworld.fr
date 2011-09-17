@@ -1,0 +1,102 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; pcworld.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      pcworld.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    IDGI14-FRNIC
+admin-c:     LP28-FRNIC
+tech-c:      MC239-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5127-FRNIC
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+anniversary: 11/12
+created:     11/12/2008
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL5127-FRNIC
+nserver:     ns1.markmonitor.com
+nserver:     ns2.markmonitor.com
+nserver:     ns3.markmonitor.com
+nserver:     ns4.markmonitor.com
+nserver:     ns5.markmonitor.com
+nserver:     ns6.markmonitor.com
+nserver:     ns7.markmonitor.com
+source:      FRNIC
+
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+type:        Isp Option 1
+address:     Emerald Tech Center
+address:     391 N. Ancestor Place
+address:     ID 83704 BOISE
+country:     US
+phone:       +1 208 389 5740
+fax-no:      +1 208 389 5771
+e-mail:      ccops@markmonitor.com
+website:     http://www.markmonitor.com
+anonymous:   NO
+registered:  10/01/2002
+source:      FRNIC
+
+nic-hdl:     LP28-FRNIC
+type:        PERSON
+contact:     Yasmina Benjelloun
+address:     IDC France
+address:     13, rue Paul Valery
+address:     75016 Paris
+country:     FR
+phone:       +33 1 56 26 26 64
+fax-no:      +33 1 56 26 26 60
+e-mail:      legal@idg.com
+changed:     18/03/2009 ccops@markmonitor.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MC239-FRNIC
+type:        ROLE
+contact:     MARKMONITOR CCOPS
+address:     eMarkmonitor Inc. dba MarkMonitor
+address:     PMB 155
+address:     10400 Overland Road
+address:     83709-1433 Boise, Id
+address:     US
+phone:       +01 2083895740
+e-mail:      ccops@markmonitor.com
+admin-c:     DL534-FRNIC
+tech-c:      DL534-FRNIC
+changed:     10/10/2008 ccops@markmonitor.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IDGI14-FRNIC
+type:        ORGANIZATION
+contact:     International Data Group, Inc.
+address:     5, Speen Street
+address:     01701 Framingham Ma
+country:     US
+phone:       +1 50 89 35 46 86
+fax-no:      +1 50 84 24 48 07
+e-mail:      legal@idg.com
+changed:     11/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

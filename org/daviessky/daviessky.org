@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1374451-LROR
+Domain Name:DAVIESSKY.ORG
+Created On:04-Jun-1998 04:00:00 UTC
+Last Updated On:05-May-2008 19:43:10 UTC
+Expiration Date:03-Jun-2013 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25146368-NSI
+Registrant Name:Daviess County Fiscal Court
+Registrant Organization:Daviess County Fiscal Court
+Registrant Street1:Courthouse 212 St. Ann
+Registrant Street2:
+Registrant Street3:
+Registrant City:Owensboro
+Registrant State/Province:KY
+Registrant Postal Code:42303
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:Rheaney@DAVIESSKY.ORG
+Admin ID:25146371-NSI
+Admin Name:Daviess County Fiscal Court
+Admin Organization:Daviess County Fiscal Court
+Admin Street1:PO BOX 1716
+Admin Street2:
+Admin Street3:
+Admin City:OWENSBORO
+Admin State/Province:KY
+Admin Postal Code:42302-1716
+Admin Country:US
+Admin Phone:+1.27068561
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:Rheaney@DAVIESSKY.ORG
+Tech ID:6055059-NSI
+Tech Name:Wayne Swift
+Tech Street1:8430 Jones Road South
+Tech Street2:
+Tech Street3:
+Tech City:Philpot
+Tech State/Province:KY
+Tech Postal Code:42366
+Tech Country:US
+Tech Phone:+1.2702339236
+Tech Phone Ext.:
+Tech FAX:+1.2706858469
+Tech FAX Ext.:
+Tech Email:wswift@daviessky.org
+Name Server:QNS1.OMUNET.COM
+Name Server:QNS2.OMUNET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

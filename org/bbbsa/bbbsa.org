@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1464903-LROR
+Domain Name:BBBSA.ORG
+Created On:14-Mar-1996 05:00:00 UTC
+Last Updated On:08-Mar-2010 20:09:16 UTC
+Expiration Date:15-Mar-2015 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22090732-NSI
+Registrant Name:BigBrothers/BigSisters of America
+Registrant Organization:BigBrothers/BigSisters of America
+Registrant Street1:230 N. 13th Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Philadelphia
+Registrant State/Province:PA
+Registrant Postal Code:19107
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ssteinig@BBBSA.ORG
+Admin ID:19963054-NSI
+Admin Name:Mark Chandler
+Admin Organization:Big Brothers Big Sisters
+Admin Street1:230 North 13th St
+Admin Street2:230 North 13th St
+Admin Street3:
+Admin City:Phila
+Admin State/Province:PA
+Admin Postal Code:19107
+Admin Country:US
+Admin Phone:+1.2156657737
+Admin Phone Ext.:
+Admin FAX:+1.2155670394
+Admin FAX Ext.:
+Admin Email:mark.chandler@BBBS.ORG
+Tech ID:22090734-NSI
+Tech Name:Len Arbitman
+Tech Organization:Big Brothers Big Sisters of America
+Tech Street1:230 N 13TH ST
+Tech Street2:
+Tech Street3:
+Tech City:PHILADELPHIA
+Tech State/Province:PA
+Tech Postal Code:19107-1538
+Tech Country:US
+Tech Phone:+1.2156657757
+Tech Phone Ext.:
+Tech FAX:+1.2155670394
+Tech FAX Ext.:
+Tech Email:len.arbitman@bbbs.org
+Name Server:MIA01.DIGEX.COM
+Name Server:MIA02.DIGEX.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

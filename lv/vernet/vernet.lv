@@ -1,0 +1,26 @@
+[Domain]
+Domain: vernet.lv
+Status: active
+Changed: 2003-03-26T14:23:03+02:00
+
+[Holder]
+Type: Legal person
+Name: Versija, SIA
+Email: oleg@eunet.lv, oleg@vernet.lv
+Fax: +371-7326513
+Phone: +371-7225303, +371 7210909
+Address: Arhitektu iela 1, Riga, LV-1050
+RegNr: 40103020274
+
+[Tech]
+Type: Natural person
+Email: gene@eunet.lv
+Fax: +3717326513
+Phone: +3717280456
+
+[Nservers]
+Nserver: ns.spb.su
+Nserver: ns.vernet.lv
+
+[Whois]
+Updated: 2011-09-17T11:12:24.761060+00:00

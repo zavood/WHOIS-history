@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; gazenligne.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      gazenligne.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    B57-FRNIC
+admin-c:     CB171-FRNIC
+tech-c:      SN230-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6452-FRNIC
+registrar:   MELBOURNE IT CBS AB
+anniversary: 08/08
+created:     21/07/2008
+last-update: 08/08/2008
+source:      FRNIC
+
+ns-list:     NSL6452-FRNIC
+nserver:     dns1.shell.com
+nserver:     dns2.shell.com
+nserver:     dns3.shell.com
+source:      FRNIC
+
+registrar:   MELBOURNE IT CBS AB
+type:        Isp Option 1
+address:     Box 3396
+address:     10368 STOCKHOLM
+country:     SE
+phone:       +46 8 553 402 00
+fax-no:      +46 8 553 402 01
+e-mail:      registry@melbourneitcbs.fr
+website:     http://www.melbourneitcbs.fr/
+anonymous:   NO
+registered:  29/11/2004
+source:      FRNIC
+
+nic-hdl:     B57-FRNIC
+type:        ORGANIZATION
+contact:     BUTAGAZ
+address:     47-53, rue Raspail
+address:     92594 Levallois-Perret
+country:     FR
+phone:       +33 1 46 39 33 83
+e-mail:      ipladmin@shell.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CB171-FRNIC
+type:        PERSON
+contact:     Catherine Buffet
+address:     Butagaz S.A.S.
+address:     47-53, rue Raspail
+address:     92594 Levallois-Perret Cedex
+country:     FR
+phone:       +33 1 46 39 33 83
+e-mail:      ipladmin@shell.com
+changed:     04/08/2008 registry@melbourneitcbs.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SN230-FRNIC
+type:        ROLE
+contact:     SA&amp;IP Naming
+address:     Shell Information Technology International
+address:     2340 Century Square
+address:     Jalan Usahawan
+address:     63000 Cyberjaya, Selangor
+address:     MY
+phone:       +603.83133888
+e-mail:      dns@shell.com
+admin-c:     SG558-FRNIC
+tech-c:      SEIN1-FRNIC
+tech-c:      DN16-FRNIC
+notify:      registry@cogentipc.fr
+changed:     23/06/2005 dns@shell.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

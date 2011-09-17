@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 11-may-1998
    Expiration Date: 10-may-2016
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:26:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 17:33:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: videosurf.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 08:15:56 EDT 2011
+Date and Time of Query: Sat Sep 17 13:24:04 EDT 2011
 Reason Code: IE

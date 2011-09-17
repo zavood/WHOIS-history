@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D129541497-LROR
+Domain Name:ARMENKARO.ORG
+Created On:26-Sep-2006 02:07:23 UTC
+Last Updated On:22-Sep-2010 15:03:07 UTC
+Expiration Date:26-Sep-2011 02:07:23 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:45188b573c6be
+Registrant Name:Mardig Hagopian
+Registrant Organization:Mardig Hagopian
+Registrant Street1:777 SomewhereOver the Rainbow
+Registrant Street2:
+Registrant Street3:
+Registrant City:Puff the
+Registrant State/Province:Magic Dragon
+Registrant Postal Code:123456
+Registrant Country:CA
+Registrant Phone:+1.5145551234
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mardig@sympatico.ca
+Admin ID:45188b5781c4e
+Admin Name:Mardig Hagopian
+Admin Organization:Mardig Hagopian
+Admin Street1:777 SomewhereOver the Rainbow
+Admin Street2:
+Admin Street3:
+Admin City:Puff the
+Admin State/Province:Magic Dragon
+Admin Postal Code:123456
+Admin Country:CA
+Admin Phone:+1.5145551234
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mardig@sympatico.ca
+Tech ID:45188b5781c4e
+Tech Name:Mardig Hagopian
+Tech Organization:Mardig Hagopian
+Tech Street1:777 SomewhereOver the Rainbow
+Tech Street2:
+Tech Street3:
+Tech City:Puff the
+Tech State/Province:Magic Dragon
+Tech Postal Code:123456
+Tech Country:CA
+Tech Phone:+1.5145551234
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mardig@sympatico.ca
+Name Server:NS1.ZEROSERVERS.COM
+Name Server:NS2.ZEROSERVERS.COM
+Name Server:NS3.ZEROSERVERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D11219420-LROR
+Domain Name:SOLARCITY.ORG
+Created On:12-Oct-1999 07:18:05 UTC
+Last Updated On:08-May-2009 07:14:54 UTC
+Expiration Date:12-Oct-2012 07:18:05 UTC
+Sponsoring Registrar:Domain-It!, Inc. (R157-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DWTM-P1168279279
+Registrant Name:epolis   pty ltd
+Registrant Organization:epolis pty ltd
+Registrant Street1:Suite 118
+Registrant Street2:105 Campbell Street
+Registrant Street3:
+Registrant City:Surry Hills
+Registrant State/Province:NSW
+Registrant Postal Code:2010
+Registrant Country:AU
+Registrant Phone:+1.1161280239333
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:droege@solarcity.org
+Admin ID:DWTM-P1168279279
+Admin Name:epolis   pty ltd
+Admin Organization:epolis pty ltd
+Admin Street1:Suite 118
+Admin Street2:105 Campbell Street
+Admin Street3:
+Admin City:Surry Hills
+Admin State/Province:NSW
+Admin Postal Code:2010
+Admin Country:AU
+Admin Phone:+1.1161280239333
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:droege@solarcity.org
+Tech ID:DWTM-P1168279279
+Tech Name:epolis   pty ltd
+Tech Organization:epolis pty ltd
+Tech Street1:Suite 118
+Tech Street2:105 Campbell Street
+Tech Street3:
+Tech City:Surry Hills
+Tech State/Province:NSW
+Tech Postal Code:2010
+Tech Country:AU
+Tech Phone:+1.1161280239333
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:droege@solarcity.org
+Name Server:NS1.THINKHOST.COM
+Name Server:NS2.THINKHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

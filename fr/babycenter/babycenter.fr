@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; babycenter.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      babycenter.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    JJCF26-FRNIC
+admin-c:     JJ658-FRNIC
+tech-c:      JJN12-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL10840-FRNIC
+registrar:   KEY-SYSTEMS GmbH
+anniversary: 09/05
+created:     06/07/2005
+last-update: 09/05/2011
+source:      FRNIC
+
+ns-list:     NSL10840-FRNIC
+nserver:     ns1.babycenter.com
+nserver:     ns2.babycenter.com
+source:      FRNIC
+
+registrar:   KEY-SYSTEMS GmbH
+type:        Isp Option 1
+address:     Im Oberen Werk 1
+address:     DE-66386 ST. INGBERT
+country:     DE
+phone:       +49 (0) 68 94 93 96 850
+fax-no:      +49 (0) 68 94 93 96 851
+e-mail:      info@key-systems.net
+website:     http://www.key-systems.net
+anonymous:   NO
+registered:  25/07/2006
+source:      FRNIC
+
+nic-hdl:     JJCF26-FRNIC
+type:        ORGANIZATION
+contact:     JOHNSON &amp; JOHNSON CONSUMER FRANCE SAS
+address:     1, rue Camille
+address:     92130 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 55 00 45 00
+e-mail:      domains@corus.jnj.com
+changed:     09/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JJ658-FRNIC
+type:        ORGANIZATION
+contact:     Johnson &amp; Johnson
+address:     Johnson &amp; Johnson
+address:     1, rue Camille
+address:     92130 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 55 00 47 83
+e-mail:      domains@corus.jnj.com
+changed:     09/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     JJN12-FRNIC
+type:        ORGANIZATION
+contact:     Johnson &amp; Johnson NCS
+address:     Johnson &amp; Johnson NCS
+address:     1003 US Hway. 202 N
+address:     08869 Raritan
+country:     US
+phone:       +1 8009002555
+fax-no:      +1 9086554126
+e-mail:      extdnsreqs@its.jnj.com
+changed:     09/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+

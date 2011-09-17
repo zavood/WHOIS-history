@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160418540-LROR
+Domain Name:CAT-GAMES.ORG
+Created On:15-Oct-2010 20:23:36 UTC
+Last Updated On:04-Aug-2011 00:28:50 UTC
+Expiration Date:15-Oct-2013 20:23:36 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR64809928
+Registrant Name:Scott Swan
+Registrant Street1:21 Fernoch Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lochgilphead
+Registrant State/Province:
+Registrant Postal Code:PA31 9PZ
+Registrant Country:GB
+Registrant Phone:+1.546602768
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:scotttswan@hotmail.com
+Admin ID:CR64809930
+Admin Name:Scott Swan
+Admin Street1:21 Fernoch Drive
+Admin Street2:
+Admin Street3:
+Admin City:Lochgilphead
+Admin State/Province:
+Admin Postal Code:PA31 9PZ
+Admin Country:GB
+Admin Phone:+1.546602768
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:scotttswan@hotmail.com
+Tech ID:CR64809929
+Tech Name:Scott Swan
+Tech Street1:21 Fernoch Drive
+Tech Street2:
+Tech Street3:
+Tech City:Lochgilphead
+Tech State/Province:
+Tech Postal Code:PA31 9PZ
+Tech Country:GB
+Tech Phone:+1.546602768
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:scotttswan@hotmail.com
+Name Server:NINA.NS.CLOUDFLARE.COM
+Name Server:JAY.NS.CLOUDFLARE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

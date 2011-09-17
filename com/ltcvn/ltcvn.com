@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 16-aug-2006
    Expiration Date: 16-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 15:40:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 17:37:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-[210.75.241.82]
+The Data in OnlineNIC's WHOIS database is provided by OnlineNIC
+    for information purposes, and to assist persons in obtaining
+    information about or related to a domain name registration record.
+    OnlineNIC does not guarantee its accuracy. By starting a WHOIS
+    query, you agree that you will use this Data only for lawful
+    purposes and that, under no circumstances will you use this Data
+    to:
+    (1)allow, enable, or otherwise support the transmission of mass
+    unsolicited,commercial advertising or solicitations via e-mail(spam).
+    (2)enable high volume,automated, electronic processes that apply
+    to OnlineNIC Inc.(or its systems).
 
+    OnlineNIC reserves the right to modify these terms at any time.
+    By starting this query, you agree to abide by this policy.
+
+
+Registrant:
+	 PhucToan Co. Ltd domain@phuctoan.com +84.8351462
+	 Doan Lam
+	 21 Ly Thai To St
+	 -,-,VN -
+
+
+Domain Name:ltcvn.com
+Record last updated at 2011-08-17 02:17:28
+Record created on 2006/8/16
+Record expired on 2012/8/16
+
+
+Domain servers in listed order:
+	 ns2.phuctoan.com 	 ns1.phuctoan.com
+
+Administrator:
+	 PhucToan Co. Ltd domain@phuctoan.com +84.8351462
+	 Doan Lam
+	 21 Ly Thai To St
+	 -,-,VN -
+
+Technical Contactor:
+	 PhucToan Co. Ltd domain@phuctoan.com +84.8351462
+	 Doan Lam
+	 21 Ly Thai To St
+	 -,-,VN -
+
+Billing Contactor:
+	 PhucToan Co. Ltd domain@phuctoan.com +84.8351462
+	 Doan Lam
+	 21 Ly Thai To St
+	 -,-,VN -
+
+
+Registration Service Provider:
+	name: Phuc Toan Co., Ltd.
+	tel: +84.838779919
+ 	fax: +84.838779903
+ 	web:http://phuctoan.com

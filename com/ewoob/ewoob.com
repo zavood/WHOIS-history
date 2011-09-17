@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 28-aug-2003
    Expiration Date: 28-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:29:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 17:45:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,7 +70,64 @@ Registrars.
 %% All rights reserved. These terms can be modify at any time.
 %% By submitting this query, you agree to abide by this policy.
 %
-% Date: 2011/09/16 06:29:57
+% Date: 2011/09/17 19:45:58
 
 
-unknown host rejected 174.142.225.246
+Domain Name:EWOOB.COM
+Domain registrar_creation:2011-08-07 06:18:50
+Domain registrar_expiration:2012-08-28 19:01:55
+Domain registry_creation:2003-08-28 19:01:55
+Domain registry_expiration:2012-08-28 19:01:55
+Domain lastupdate:2011-08-07 06:18:50
+Name Server:ns.nexylan.net
+Name Server:NX1003.NEXYLAN.NET
+
+Owner ID: FREE-ORG-496889
+Owner Name:  PENICAUD PENICAUD
+Owner Organization: Penicaud Penicaud
+Owner Street1: 28 rue de contieges
+Owner City: villeneuve sur lot
+Owner Postal Code: 47300
+Owner Country: FRANCE
+Owner Phone: +33.620480699
+Owner Email: bluecorp@hotmail.fr
+Owner lastupdate: 2011-08-08 10:53:17
+
+Admin ID: FREE-ORG-236953
+Admin Name: Arnaud PIGNARD
+Admin Organization: Frontier Software
+Admin Street1: 36 rue Charles Fourier
+Admin City: EVRY
+Admin Postal Code: 91000
+Admin Country: FRANCE
+Admin Phone: +33.174856500
+Admin FAX: +33.174856585
+Admin Email: domaines@directnom.com
+Admin lastupdate: 2010-07-30 17:35:25
+
+Tech ID: FREE-ORG-236953
+Tech Name: Arnaud PIGNARD
+Tech Organization: Frontier Software
+Tech Street1: 36 rue Charles Fourier
+Tech City: EVRY
+Tech Postal Code: 91000
+Tech Country: FRANCE
+Tech Phone: +33.174856500
+Tech FAX: +33.174856585
+Tech Email: domaines@directnom.com
+Tech lastupdate: 2010-07-30 17:35:25
+
+Bill ID: FREE-ORG-236953
+Bill Name: Arnaud PIGNARD
+Bill Organization: Frontier Software
+Bill Street1: 36 rue Charles Fourier
+Bill City: EVRY
+Bill Postal Code: 91000
+Bill Country: FRANCE
+Bill Phone: +33.174856500
+Bill FAX: +33.174856585
+Bill Email: domaines@directnom.com
+Bill lastupdate: 2010-07-30 17:35:25
+
+For support or more information about this domain name please contact
+&lt;a href=&quot;http://www.directnom.com&quot;&gt;http://www.directnom.com&lt;/a&gt;

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 05-mar-1995
    Expiration Date: 06-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:51:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 17:26:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Domains by Proxy, Inc.
-   DomainsByProxy.com
-   15111 N. Hayden Rd., Ste 160, PMB 353
-   Scottsdale, Arizona 85260
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: MIXX.COM
-      Created on: 05-Mar-95
-      Expires on: 06-Mar-12
-      Last Updated on: 04-Mar-11
-
-   Administrative Contact:
-      Private, Registration  MIXX.COM@domainsbyproxy.com
-      Domains by Proxy, Inc.
-      DomainsByProxy.com
-      15111 N. Hayden Rd., Ste 160, PMB 353
-      Scottsdale, Arizona 85260
-      United States
-      (480) 624-2599      Fax -- (480) 624-2598
-
-   Technical Contact:
-      Private, Registration  MIXX.COM@domainsbyproxy.com
-      Domains by Proxy, Inc.
-      DomainsByProxy.com
-      15111 N. Hayden Rd., Ste 160, PMB 353
-      Scottsdale, Arizona 85260
-      United States
-      (480) 624-2599      Fax -- (480) 624-2598
 
    Domain servers in listed order:
       NS07.DOMAINCONTROL.COM
       NS08.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=MIXX.COM

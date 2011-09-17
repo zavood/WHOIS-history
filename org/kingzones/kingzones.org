@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D135606866-LROR
+Domain Name:KINGZONES.ORG
+Created On:22-Dec-2006 13:26:29 UTC
+Last Updated On:04-Feb-2011 12:03:02 UTC
+Expiration Date:22-Dec-2012 13:26:29 UTC
+Sponsoring Registrar:Internet.bs Corp. (R1601-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:INTEeiym02rssqkh
+Registrant Name:Raman Sethi
+Registrant Organization:Private Whois Service
+Registrant Street1:*******PLEASE DO NOT SEND LETTERS******
+Registrant Street2:****Contact the owner by email only****
+Registrant Street3:c/o kingzones.org
+Registrant City:Nassau
+Registrant State/Province:
+Registrant Postal Code:N4892
+Registrant Country:BS
+Registrant Phone:+852.81720004
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:c6x90so4d958e6bcb393@oqjij874d9300d54bd95.privatewhois.net
+Admin ID:INTEvetvu5pxsvrj
+Admin Name:Raman Sethi
+Admin Organization:Private Whois Service
+Admin Street1:*******PLEASE DO NOT SEND LETTERS******
+Admin Street2:****Contact the owner by email only****
+Admin Street3:c/o kingzones.org
+Admin City:Nassau
+Admin State/Province:
+Admin Postal Code:N4892
+Admin Country:BS
+Admin Phone:+852.81720004
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:j2f2s7s4d958e6cdbc6d@oqjij874d9300d54bd95.privatewhois.net
+Tech ID:INTEturp6c6oraif
+Tech Name:Raman Sethi
+Tech Organization:Private Whois Service
+Tech Street1:*******PLEASE DO NOT SEND LETTERS******
+Tech Street2:****Contact the owner by email only****
+Tech Street3:c/o kingzones.org
+Tech City:Nassau
+Tech State/Province:
+Tech Postal Code:N4892
+Tech Country:BS
+Tech Phone:+852.81720004
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:r86k5hk4d958e6c3f106@oqjij874d9300d54bd95.privatewhois.net
+Name Server:NS1.LUNARBREEZE.COM
+Name Server:NS2.LUNARBREEZE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 05-jul-2000
    Expiration Date: 05-jul-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:34:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 17:55:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,7 +73,7 @@ status:       lock
 created:      2000-07-05 01:06:35 UTC
 modified:     2010-04-07 09:26:40 UTC
 expires:      2014-07-05 05:06:35 UTC
-query-source: 174.142.225.246
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-17977
 person:       . .
@@ -87,8 +87,8 @@ country:      AU
 phone:        +49.1234578
 
 source:       joker.com live whois service
-query-time:   0.016835
-db-updated:   2011-09-15 20:34:41
+query-time:   0.007109
+db-updated:   2011-09-17 17:56:07
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:
