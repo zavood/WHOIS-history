@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D74559358-LROR
+Domain Name:CFMDIN.ORG
+Created On:02-Jul-2001 17:46:45 UTC
+Last Updated On:29-Jun-2011 15:14:10 UTC
+Expiration Date:02-Jul-2012 17:46:45 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:10686280171400
+Registrant Name:The Community Foundation of Muncie &amp; Delaware County, Inc.
+Registrant Street1:P.O. Box 807
+Registrant Street2:
+Registrant Street3:
+Registrant City:Muncie
+Registrant State/Province:IN
+Registrant Postal Code:47308
+Registrant Country:US
+Registrant Phone:+99.999999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:commfound@cfmdin.org
+Admin ID:10686280175000
+Admin Name:Roni Johnson
+Admin Street1:P.O. Box 807
+Admin Street2:
+Admin Street3:
+Admin City:Muncie
+Admin State/Province:IN
+Admin Postal Code:47308
+Admin Country:US
+Admin Phone:+1.7657477181
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:commfound@cfmdin.org
+Tech ID:10686280181580
+Tech Name:Dannie Stanley
+Tech Street1:1809 West University Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Muncie
+Tech State/Province:IN
+Tech Postal Code:47303
+Tech Country:US
+Tech Phone:+1.17652840910
+Tech Phone Ext.:
+Tech FAX:+1.16038431376
+Tech FAX Ext.:
+Tech Email:admin@spinweb.net
+Name Server:NS1.SPINWEB.NET
+Name Server:NS2.SPINWEB.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

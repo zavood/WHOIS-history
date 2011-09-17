@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106772440-LROR
+Domain Name:SOPCAST.ORG
+Created On:01-Jul-2005 01:56:06 UTC
+Last Updated On:30-May-2011 00:46:05 UTC
+Expiration Date:01-Jul-2012 01:56:06 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOT-ZF62AH376WUN
+Registrant Name:Jakey Song
+Registrant Street1:No. 432, ZhongShan Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Taipei
+Registrant State/Province:
+Registrant Postal Code:234543
+Registrant Country:TW
+Registrant Phone:+886.266064545
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:master.sop@gmail.com
+Admin ID:DOT-21F0SQXQ8UI8
+Admin Name:Jakey Song
+Admin Street1:No. 432, ZhongShan Rd.
+Admin Street2:
+Admin Street3:
+Admin City:Taipei
+Admin State/Province:
+Admin Postal Code:234543
+Admin Country:TW
+Admin Phone:+886.266064545
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:master.sop@gmail.com
+Tech ID:DOT-0PA0FRGL8VXS
+Tech Name:Jakey Song
+Tech Street1:No. 432, ZhongShan Rd.
+Tech Street2:
+Tech Street3:
+Tech City:Taipei
+Tech State/Province:
+Tech Postal Code:234543
+Tech Country:TW
+Tech Phone:+886.266064545
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:master.sop@gmail.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

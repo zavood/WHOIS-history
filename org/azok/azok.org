@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161767039-LROR
+Domain Name:AZOK.ORG
+Created On:14-Mar-2011 20:50:51 UTC
+Last Updated On:15-Sep-2011 16:51:59 UTC
+Expiration Date:14-Mar-2012 20:50:51 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:bd623ce0cc1d62d3
+Registrant Name:Darryl  Bartlett
+Registrant Organization:Darryl Bartlett
+Registrant Street1:29 Scarlin Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bury St Edmunds
+Registrant State/Province:Suffolk
+Registrant Postal Code:IP33 2HX
+Registrant Country:GB
+Registrant Phone:+44.1284761111
+Registrant Phone Ext.:
+Registrant FAX:+1.5555555555
+Registrant FAX Ext.:
+Registrant Email:darrylbartlett@me.com
+Admin ID:bd623ce0cc1d62d3
+Admin Name:Darryl  Bartlett
+Admin Organization:Darryl Bartlett
+Admin Street1:29 Scarlin Road
+Admin Street2:
+Admin Street3:
+Admin City:Bury St Edmunds
+Admin State/Province:Suffolk
+Admin Postal Code:IP33 2HX
+Admin Country:GB
+Admin Phone:+44.1284761111
+Admin Phone Ext.:
+Admin FAX:+1.5555555555
+Admin FAX Ext.:
+Admin Email:darrylbartlett@me.com
+Tech ID:bd623ce0cc1d62d3
+Tech Name:Darryl  Bartlett
+Tech Organization:Darryl Bartlett
+Tech Street1:29 Scarlin Road
+Tech Street2:
+Tech Street3:
+Tech City:Bury St Edmunds
+Tech State/Province:Suffolk
+Tech Postal Code:IP33 2HX
+Tech Country:GB
+Tech Phone:+44.1284761111
+Tech Phone Ext.:
+Tech FAX:+1.5555555555
+Tech FAX Ext.:
+Tech Email:darrylbartlett@me.com
+Name Server:NS1.AZOK.ORG
+Name Server:NS2.AZOK.ORG
+Name Server:NS3.AZOK.ORG
+Name Server:NS4.AZOK.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

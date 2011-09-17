@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105306933-LROR
+Domain Name:CARTKY.ORG
+Created On:08-Dec-2004 13:47:25 UTC
+Last Updated On:12-Nov-2009 13:32:03 UTC
+Expiration Date:08-Dec-2011 13:47:25 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:7e1e5367a49cc931
+Registrant Name:David  Morse
+Registrant Organization:CART
+Registrant Street1:1419 Goddard Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Louisville
+Registrant State/Province:KY
+Registrant Postal Code:40204
+Registrant Country:US
+Registrant Phone:+1.5024543993
+Registrant Phone Ext.:
+Registrant FAX:+1.5024543993
+Registrant FAX Ext.:
+Registrant Email:dcmorse@gmail.com
+Admin ID:7e1e5367a49cc931
+Admin Name:David  Morse
+Admin Organization:CART
+Admin Street1:1419 Goddard Ave
+Admin Street2:
+Admin Street3:
+Admin City:Louisville
+Admin State/Province:KY
+Admin Postal Code:40204
+Admin Country:US
+Admin Phone:+1.5024543993
+Admin Phone Ext.:
+Admin FAX:+1.5024543993
+Admin FAX Ext.:
+Admin Email:dcmorse@gmail.com
+Tech ID:7e1e5367a49cc931
+Tech Name:David  Morse
+Tech Organization:CART
+Tech Street1:1419 Goddard Ave
+Tech Street2:
+Tech Street3:
+Tech City:Louisville
+Tech State/Province:KY
+Tech Postal Code:40204
+Tech Country:US
+Tech Phone:+1.5024543993
+Tech Phone Ext.:
+Tech FAX:+1.5024543993
+Tech FAX Ext.:
+Tech Email:dcmorse@gmail.com
+Name Server:NS.AQHOST.COM
+Name Server:NS2.AQHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

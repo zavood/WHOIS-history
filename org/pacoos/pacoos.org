@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104411657-LROR
+Domain Name:PACOOS.ORG
+Created On:20-May-2004 04:38:09 UTC
+Last Updated On:18-Jan-2008 23:45:08 UTC
+Expiration Date:20-May-2013 04:38:09 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:C12006985418530
+Registrant Name:Dr. Jonathan Phinney
+Registrant Organization:Southwest Fisheries Science Center
+Registrant Street1:8604 La Jolla Shores Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:La Jolla
+Registrant State/Province:California
+Registrant Postal Code:92037
+Registrant Country:US
+Registrant Phone:+1.8585467071
+Registrant Phone Ext.:
+Registrant FAX:+1.8585467003
+Registrant FAX Ext.:
+Registrant Email:jonathan.phinney@noaa.gov
+Admin ID:C12006985418531
+Admin Name:Rob Bisteodeau
+Admin Organization:Southwest Fisheries Science Center
+Admin Street1:8604 La Jolla Shores Drive
+Admin Street2:
+Admin Street3:
+Admin City:La Jolla
+Admin State/Province:California
+Admin Postal Code:92037
+Admin Country:US
+Admin Phone:+1.8585467055
+Admin Phone Ext.:
+Admin FAX:+1.8585467003
+Admin FAX Ext.:
+Admin Email:rob.bistodeau@noaa.gov
+Tech ID:C108501941717826
+Tech Name:Rob Bisteodeau
+Tech Organization:Southwest Fisheries Science Center
+Tech Street1:8604 La Jolla Shores Drive
+Tech Street2:
+Tech Street3:
+Tech City:La Jolla
+Tech State/Province:California
+Tech Postal Code:92037
+Tech Country:US
+Tech Phone:+1.8585467055
+Tech Phone Ext.:
+Tech FAX:+1.8585467003
+Tech FAX Ext.:
+Tech Email:rob.bistodeau@noaa.gov
+Name Server:NS1.UCSD.EDU
+Name Server:NS2.UCSD.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

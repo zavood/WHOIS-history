@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156497771-LROR
+Domain Name:DATASF.ORG
+Created On:23-Jun-2009 20:06:14 UTC
+Last Updated On:24-May-2011 00:08:12 UTC
+Expiration Date:23-Jun-2012 20:06:14 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:JN1134-GANDI
+Registrant Name:Jay Nath
+Registrant Organization:City &amp; County of San Francisco
+Registrant Street1:1 Dr. Carlton B. Goodlett Place
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Francisco
+Registrant State/Province:CA
+Registrant Postal Code:94102
+Registrant Country:US
+Registrant Phone:+1.4158305175
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:c85446cd7d5172fda7172e4df28bba65-983264@contact.gandi.net
+Admin ID:JN1134-GANDI
+Admin Name:Jay Nath
+Admin Organization:City &amp; County of San Francisco
+Admin Street1:1 Dr. Carlton B. Goodlett Place
+Admin Street2:
+Admin Street3:
+Admin City:San Francisco
+Admin State/Province:CA
+Admin Postal Code:94102
+Admin Country:US
+Admin Phone:+1.4158305175
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:c85446cd7d5172fda7172e4df28bba65-983264@contact.gandi.net
+Tech ID:JB4907-GANDI
+Tech Name:Josh Berkus
+Tech Street1:2166 Hayes Street Suite 200
+Tech Street2:
+Tech Street3:
+Tech City:San Francisco
+Tech State/Province:California
+Tech Postal Code:94117
+Tech Country:US
+Tech Phone:+1.4157522500
+Tech Phone Ext.:
+Tech FAX:+33.1
+Tech FAX Ext.:
+Tech Email:josh@agliodbs.com
+Name Server:DNS101.TRIPWIRE.NET
+Name Server:DNS121.NETOPS.SSPDATA.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

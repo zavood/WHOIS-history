@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D7102222-LROR
+Domain Name:SEMANTICWEB.ORG
+Created On:08-Jun-1999 16:28:57 UTC
+Last Updated On:13-Apr-2008 22:21:31 UTC
+Expiration Date:08-Jun-2013 16:29:34 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOT-A8WEHZIM0NZL
+Registrant Name:Stefan Decker
+Registrant Street1:Ballagh Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Galway
+Registrant State/Province:
+Registrant Postal Code:000
+Registrant Country:IE
+Registrant Phone:+353.91524759
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:stefan.decker@deri.org
+Admin ID:DOT-G761EG0VFDZT
+Admin Name:Stefan Decker
+Admin Street1:Ballagh Road
+Admin Street2:
+Admin Street3:
+Admin City:Galway
+Admin State/Province:
+Admin Postal Code:000
+Admin Country:IE
+Admin Phone:+353.91524759
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:stefan.decker@deri.org
+Tech ID:DOT-L1FJRZ3M2B4A
+Tech Name:Stefan Decker
+Tech Street1:Ballagh Road
+Tech Street2:
+Tech Street3:
+Tech City:Galway
+Tech State/Province:
+Tech Postal Code:000
+Tech Country:IE
+Tech Phone:+353.91524759
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:stefan.decker@deri.org
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D7508198-LROR
+Domain Name:SEVENRIVERS.ORG
+Created On:26-Jun-1999 01:27:57 UTC
+Last Updated On:31-Aug-2010 07:15:38 UTC
+Expiration Date:26-Jun-2015 01:27:57 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:15546364-NSI
+Registrant Name:SEVEN RIVERS PRESBYTERIAN CHURCH
+Registrant Organization:SEVEN RIVERS PRESBYTERIAN CHURCH
+Registrant Street1:4221 W. GULF-T0-LAKE HIGHWAY
+Registrant Street2:
+Registrant Street3:
+Registrant City:LECANTO
+Registrant State/Province:FL
+Registrant Postal Code:34461
+Registrant Country:US
+Registrant Phone:+1.3527466200
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sheri@sevenrivers.org
+Admin ID:45855344-NSI
+Admin Name:O'Neal, Sheri
+Admin Street1:4221 W. Gulf to Lake Hwy.
+Admin Street2:
+Admin Street3:
+Admin City:Lecanto
+Admin State/Province:FL
+Admin Postal Code:34461
+Admin Country:US
+Admin Phone:+1.3527466200
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sheri@sevenrivers.org
+Tech ID:45855348-NSI
+Tech Name:O'Neal, Sheri
+Tech Street1:4221 W. Gulf to Lake Hwy.
+Tech Street2:
+Tech Street3:
+Tech City:Lecanto
+Tech State/Province:FL
+Tech Postal Code:34461
+Tech Country:US
+Tech Phone:+1.3527466200
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sheri@sevenrivers.org
+Name Server:NS51.1AND1.COM
+Name Server:NS52.1AND1.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

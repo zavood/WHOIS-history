@@ -1,0 +1,111 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157444046-LROR
+Domain Name:ASOKA.ORG
+Created On:26-Oct-2009 19:06:45 UTC
+Last Updated On:22-Nov-2010 15:44:10 UTC
+Expiration Date:26-Oct-2011 19:06:45 UTC
+Sponsoring Registrar:Korea Information Certification Authority Inc. DomainCA.com (R127-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DCA-OR-R423346
+Registrant Name:Noori net
+Registrant Street1:503, Dongguk Univ.
+Registrant Street2:Seokjang-dong Gyeongju Si Gyeongsangbuk-Do
+Registrant Street3:
+Registrant City:Gyeongsangbuk-Do
+Registrant State/Province:
+Registrant Postal Code:780714
+Registrant Country:KR
+Registrant Phone:+82.7070989900
+Registrant Phone Ext.:
+Registrant FAX:+82.0547727788
+Registrant FAX Ext.:
+Registrant Email:patent@dreamwiz.com
+Admin ID:DCA-OR-A423347
+Admin Name:Noori net
+Admin Street1:Dongguk Univ. Gyeongju Campus Seokjang-dong Gyeongju Si
+Admin Street2:106-603 Woobang Apt. Dongcheon-dong
+Admin Street3:
+Admin City:Gyeongsangbuk-Do
+Admin State/Province:
+Admin Postal Code:780714
+Admin Country:KR
+Admin Phone:+82.7070989900
+Admin Phone Ext.:
+Admin FAX:+82.0547727788
+Admin FAX Ext.:
+Admin Email:patent@dreamwiz.com
+Admin ID:DCA-OR-A423346
+Admin Name:Noori net
+Admin Street1:503, Dongguk Univ.
+Admin Street2:Seokjang-dong Gyeongju Si Gyeongsangbuk-Do
+Admin Street3:
+Admin City:Gyeongsangbuk-Do
+Admin State/Province:
+Admin Postal Code:780714
+Admin Country:KR
+Admin Phone:+82.7070989900
+Admin Phone Ext.:
+Admin FAX:+82.0547727788
+Admin FAX Ext.:
+Admin Email:patent@dreamwiz.com
+Tech ID:DCA-OR-T423347
+Tech Name:Noori net
+Tech Street1:Dongguk Univ. Gyeongju Campus Seokjang-dong Gyeongju Si
+Tech Street2:106-603 Woobang Apt. Dongcheon-dong
+Tech Street3:
+Tech City:Gyeongsangbuk-Do
+Tech State/Province:
+Tech Postal Code:780714
+Tech Country:KR
+Tech Phone:+82.7070989900
+Tech Phone Ext.:
+Tech FAX:+82.0547727788
+Tech FAX Ext.:
+Tech Email:patent@dreamwiz.com
+Tech ID:DCA-OR-T423346
+Tech Name:Noori net
+Tech Street1:503, Dongguk Univ.
+Tech Street2:Seokjang-dong Gyeongju Si Gyeongsangbuk-Do
+Tech Street3:
+Tech City:Gyeongsangbuk-Do
+Tech State/Province:
+Tech Postal Code:780714
+Tech Country:KR
+Tech Phone:+82.7070989900
+Tech Phone Ext.:
+Tech FAX:+82.0547727788
+Tech FAX Ext.:
+Tech Email:patent@dreamwiz.com
+Name Server:NS.INDUCE.COM
+Name Server:NS.COUNTER.CO.KR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

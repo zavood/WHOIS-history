@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D123395757-LROR
+Domain Name:AAFNET.ORG
+Created On:28-May-2006 15:42:38 UTC
+Last Updated On:02-Jul-2011 16:59:40 UTC
+Expiration Date:28-May-2013 15:42:38 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:3de743b2ecbff790
+Registrant Name:Oliver  Udemba
+Registrant Organization:Africa-America Foundation
+Registrant Street1:PO Box 230946,
+Registrant Street2:
+Registrant Street3:
+Registrant City:Boston,
+Registrant State/Province:MA
+Registrant Postal Code:02123
+Registrant Country:US
+Registrant Phone:+1.5087332963
+Registrant Phone Ext.:
+Registrant FAX:+1.5087332963
+Registrant FAX Ext.:
+Registrant Email:afamfoundation@aol.com
+Admin ID:3de743b2ecbff790
+Admin Name:Oliver  Udemba
+Admin Organization:Africa-America Foundation
+Admin Street1:PO Box 230946,
+Admin Street2:
+Admin Street3:
+Admin City:Boston,
+Admin State/Province:MA
+Admin Postal Code:02123
+Admin Country:US
+Admin Phone:+1.5087332963
+Admin Phone Ext.:
+Admin FAX:+1.5087332963
+Admin FAX Ext.:
+Admin Email:afamfoundation@aol.com
+Tech ID:3de743b2ecbff790
+Tech Name:Oliver  Udemba
+Tech Organization:Africa-America Foundation
+Tech Street1:PO Box 230946,
+Tech Street2:
+Tech Street3:
+Tech City:Boston,
+Tech State/Province:MA
+Tech Postal Code:02123
+Tech Country:US
+Tech Phone:+1.5087332963
+Tech Phone Ext.:
+Tech FAX:+1.5087332963
+Tech FAX Ext.:
+Tech Email:afamfoundation@aol.com
+Name Server:NS1.MAXIMUMASP.COM
+Name Server:NS2.MAXIMUMASP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
