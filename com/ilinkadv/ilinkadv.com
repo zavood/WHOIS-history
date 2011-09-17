@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 02-feb-2001
    Expiration Date: 02-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:00:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 03:48:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,88 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- Interlink Advantage
- 418 E Pacific Ave
- Suite 2
- Spokane, WA 99202
- us
-
- Domain name: ILINKADV.COM
-
-
- Administrative Contact:
-    Master, Host  hostmaster@ilinkadv.com
-    418 E Pacific Ave
-    Suite 2
-    Spokane, WA 99202
-    us
-    509-465-1234    Fax: 509-744-9766
-
- Technical Contact:
-    Master, Host  hostmaster@ilinkadv.com
-    418 E Pacific Ave
-    Suite 2
-    Spokane, WA 99202
-    US
-    +1.5094651234    Fax: +1.5097449766
-
-
-
- Registration Service Provider:
-    Interlink Advantage, support@ilinkadv.com
-    (509) 465-1234
-    (509) 789-2450 (fax)
-    http://interlinkadvantage.com
-    Your #1 choice for IT Solutions in the Inland Northwest.
-
-
- Registrar of Record: TUCOWS, INC.
- Record last updated on 10-Dec-2010.
- Record expires on 02-Feb-2012.
- Record created on 02-Feb-2001.
-
- Registrar Domain Name Help Center:
-    http://tucowsdomains.com
-
- Domain servers in listed order:
-    NS1.ILINKADV.COM   207.170.237.11
-    NS0.ILINKADV.COM   207.170.237.10
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-Tucows makes this information available &quot;as is,&quot; and does not guarantee its
-accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Tucows.
-
-Tucows reserves the right to terminate your access to the Tucows WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
-
-Tucows reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
-
+IP Address: 67.231.254.15
+Maximum Daily connection limit reached. Lookup refused.

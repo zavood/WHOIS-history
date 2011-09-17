@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 03-jan-2008
    Expiration Date: 03-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:47:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 04:06:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -57,8 +57,8 @@ Date Registered: 2008-1-3
 Date Modified: 2011-8-12
 Expiry Date: 2013-1-4
 
-DNS1: ns4.zoneedit.com
-DNS2: ns5.zoneedit.com
+DNS1: ns5.zoneedit.com
+DNS2: ns4.zoneedit.com
 
 Registrant
     Private Whois modelmya.com

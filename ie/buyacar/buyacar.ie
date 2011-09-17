@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      buyacar.ie
+descr:       Tony Nash
+descr:       Natural Person
+descr:       Discretionary Name
+admin-c:     AKG887-IEDR
+tech-c:      HH36-IEDR
+renewal:     23-December-2014
+status:      Active
+nserver:     ns0.reg365.net
+nserver:     ns1.reg365.net
+nserver:     ns2.reg365.net
+source:      IEDR
+
+person:      Tony Nash
+nic-hdl:     AKG887-IEDR
+source:      IEDR
+
+person:      NamesCo Hostmaster
+nic-hdl:     HH36-IEDR
+source:      IEDR
+

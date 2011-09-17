@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98153270-LROR
+Domain Name:CARROLLHOSPITALCENTER.ORG
+Created On:12-May-2003 17:15:39 UTC
+Last Updated On:23-Apr-2009 15:07:22 UTC
+Expiration Date:12-May-2018 17:15:39 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-T5ABKG5ZOB4M
+Registrant Name:Teresa Fletcher
+Registrant Organization:Carroll Hospital Center
+Registrant Street1:200 Memorial Avenue
+Registrant Street2:Information Systems
+Registrant Street3:
+Registrant City:Westminster
+Registrant State/Province:MD
+Registrant Postal Code:21157-5799
+Registrant Country:US
+Registrant Phone:+1.4108716979
+Registrant Phone Ext.:
+Registrant FAX:+1.4108717003
+Registrant FAX Ext.:
+Registrant Email:teresaf@carrollhospitalcenter.org
+Admin ID:DOT-0BGPDSX21MIV
+Admin Name:Lee Dinterman
+Admin Organization:Carroll Hospital Center
+Admin Street1:200 Memorial Avenue
+Admin Street2:Information Systems
+Admin Street3:
+Admin City:Westminster
+Admin State/Province:MD
+Admin Postal Code:21157-5799
+Admin Country:US
+Admin Phone:+1.4108717600
+Admin Phone Ext.:
+Admin FAX:+1.4108717003
+Admin FAX Ext.:
+Admin Email:lee@carrollhospitalcenter.org
+Tech ID:DOT-LJ77YE0UYXWF
+Tech Name:Lee Dinterman
+Tech Organization:Carroll Hospital Center
+Tech Street1:200 Memorial Avenue
+Tech Street2:Information Systems
+Tech Street3:
+Tech City:Westminster
+Tech State/Province:MD
+Tech Postal Code:21157-5799
+Tech Country:US
+Tech Phone:+1.4108717600
+Tech Phone Ext.:
+Tech FAX:+1.4108717003
+Tech FAX Ext.:
+Tech Email:lee@carrollhospitalcenter.org
+Name Server:AUTH00.NS.UU.NET
+Name Server:AUTH100.NS.UU.NET
+Name Server:ADSERVER1.CARROLLHOSPITALCENTER.ORG
+Name Server:ADSERVER2.CARROLLHOSPITALCENTER.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

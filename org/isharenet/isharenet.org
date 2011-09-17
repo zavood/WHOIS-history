@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159263880-LROR
+Domain Name:ISHARENET.ORG
+Created On:25-May-2010 13:34:19 UTC
+Last Updated On:21-Sep-2010 02:50:03 UTC
+Expiration Date:25-May-2012 13:34:19 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:D127476456485293
+Registrant Name:jerome baudel
+Registrant Organization:jerome baudel
+Registrant Street1:Unit 98
+Registrant Street2:3 Coronation Avenue
+Registrant Street3:
+Registrant City:Petersham
+Registrant State/Province:NSW
+Registrant Postal Code:2049
+Registrant Country:AU
+Registrant Phone:+1.61414169256
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jerome_baudel@yahoo.ie
+Admin ID:D127476456485290
+Admin Name:jerome baudel
+Admin Organization:jerome baudel
+Admin Street1:Unit 98
+Admin Street2:3 Coronation Avenue
+Admin Street3:
+Admin City:Petersham
+Admin State/Province:NSW
+Admin Postal Code:2049
+Admin Country:AU
+Admin Phone:+1.61414169256
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jerome_baudel@yahoo.ie
+Tech ID:D127476456485292
+Tech Name:YahooDomains TechContact
+Tech Organization:Yahoo! Inc
+Tech Street1:701 First Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Sunnyvale
+Tech State/Province:CA
+Tech Postal Code:94089
+Tech Country:US
+Tech Phone:+1.4089162124
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain.tech@yahoo-inc.com
+Name Server:NS1.PIPEDNS.COM
+Name Server:NS2.PIPEDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

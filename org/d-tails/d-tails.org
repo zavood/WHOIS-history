@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154994291-LROR
+Domain Name:D-TAILS.ORG
+Created On:30-Dec-2008 13:30:33 UTC
+Last Updated On:29-Nov-2010 08:01:08 UTC
+Expiration Date:30-Dec-2011 13:30:33 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ONLC-3572872-4
+Registrant Name:Grigoriy Karpiak
+Registrant Organization:Grigoriy Karpiak
+Registrant Street1:34-52 Grodnenskaya str.
+Registrant Street2:34-52 Grodnenskaya str.
+Registrant Street3:
+Registrant City:Brest
+Registrant State/Province:Brestskaya
+Registrant Postal Code:224013
+Registrant Country:BY
+Registrant Phone:+375.291808068
+Registrant Phone Ext.:1111
+Registrant FAX:+375.291808068
+Registrant FAX Ext.:
+Registrant Email:grinya7@yandex.ru
+Admin ID:ONLC-3572872-1
+Admin Name:Maxim Savtchenko
+Admin Organization:EXTMEDIA, LTD
+Admin Street1:18-114 K. Tsetkin str.
+Admin Street2:18-114 K. Tsetkin str.
+Admin Street3:
+Admin City:Minsk
+Admin State/Province:Minskaya
+Admin Postal Code:220004
+Admin Country:BY
+Admin Phone:+375.172005071
+Admin Phone Ext.:1111
+Admin FAX:+375.172260703
+Admin FAX Ext.:
+Admin Email:domains@extmedia.com
+Tech ID:ONLC-3572872-2
+Tech Name:Maxim Savtchenko
+Tech Organization:EXTMEDIA, LTD
+Tech Street1:18-114 K. Tsetkin str.
+Tech Street2:18-114 K. Tsetkin str.
+Tech Street3:
+Tech City:Minsk
+Tech State/Province:Minskaya
+Tech Postal Code:220004
+Tech Country:BY
+Tech Phone:+375.172005071
+Tech Phone Ext.:1111
+Tech FAX:+375.172260703
+Tech FAX Ext.:
+Tech Email:domains@extmedia.com
+Name Server:NS1.NEOLOCATION.COM
+Name Server:NS2.NEOLOCATION.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

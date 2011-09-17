@@ -1,0 +1,29 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         bonet.sk
+Admin-id            BONE-0009
+Admin-name          Bonet Group
+Admin-legal-form    s.r.o
+Admin-org.-ID       35968893
+Admin-address       Bohrova 11, Bratislava 85101
+Admin-telephone     0903601145, 0903601145
+Admin-email         jano@bonet.sk
+Tech-id             JNHR-0009
+Tech-name           Jan Hrcka - HT Net
+Tech-org.-ID        40578739
+Tech-address        Bohrova 11, Bratislava 85101
+Tech-telephone      0903601145, 0903601145
+Tech-email          admins@bonet.sk
+dns_name            ns1.bonet.sk
+dns_IPv4            92.60.48.2
+dns_name            ns2.bonet.sk
+dns_IPv4            92.60.48.3
+dns_name            ns1.bonetics.com
+dns_name            ns2.bonetics.com
+Last-update         2010-10-25
+Valid-date          2011-11-18
+Domain-status       DOM_OK
+

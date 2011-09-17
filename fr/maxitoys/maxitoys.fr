@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; maxitoys.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      maxitoys.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MTFS3-FRNIC
+admin-c:     PD3978-FRNIC
+tech-c:      HB1331-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5307-FRNIC
+registrar:   TELENET NV
+anniversary: 23/02
+created:     23/02/2005
+last-update: 01/06/2011
+source:      FRNIC
+
+ns-list:     NSL5307-FRNIC
+nserver:     ns.nl.hostbasket.com
+nserver:     ns.be.hostbasket.com
+nserver:     ns.fr.hostbasket.com
+source:      FRNIC
+
+registrar:   TELENET NV
+type:        Isp Option 2
+address:     Liersesteenweg 4
+address:     2800 MECHELEN
+country:     BE
+phone:       +32 (0) 5 33 49 24
+e-mail:      support@hostbasket.com
+website:     http://www.telenet.be
+anonymous:   NO
+registered:  31/05/2011
+source:      FRNIC
+
+nic-hdl:     MTFS3-FRNIC
+type:        ORGANIZATION
+contact:     MAXI TOYS FRANCE SA
+address:     91, route de Guebwiller
+address:     68260 Kingersheim
+country:     FR
+phone:       +33 3 89 52 52 79
+e-mail:      pascal.declercq@maxitoys.com
+changed:     01/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     PD3978-FRNIC
+type:        PERSON
+contact:     Pascal Declercq
+address:     Maxi Toys
+address:     91, route de Guebwiller
+address:     68260 Kingersheim
+country:     FR
+phone:       +33 3 89 52 52 79
+e-mail:      pascal.declercq@maxitoys.com
+changed:     01/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HB1331-FRNIC
+type:        ROLE
+contact:     HOST BASKET
+address:     2-Consult
+address:     Antwerpsesteenweg 19
+address:     9080 Lochristi
+country:     BE
+e-mail:      support@2-consult.com
+admin-c:     NN30-FRNIC
+admin-c:     RL164-FRNIC
+tech-c:      NN30-FRNIC
+tech-c:      RL164-FRNIC
+changed:     01/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 01:02:31 (BRT -03:00)
+
+domain:      mcpbrasil.com.br
+owner:       MCP Brasil.com Informatica Ltda
+ownerid:     007.716.779/0001-95
+responsible: Helio Panissa Junior
+country:     BR
+owner-c:     HEP176
+admin-c:     HEP176
+tech-c:      HEP176
+billing-c:   HEP176
+nserver:     ns1.locaweb.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.locaweb.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns3.locaweb.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20051208 #2509511
+expires:     20141208
+changed:     20091215
+status:      published
+
+nic-hdl-br:  HEP176
+person:      Helio Panissa
+e-mail:      hpanissa@mcpbrasil.com
+created:     20051024
+changed:     20051215
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,72 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sat Sep 17 05:58:11 2011
+
+domain:       lifefood.cz
+registrant:   SB:EXPL-SUBJ_102254
+admin-c:      EXPL-PRSN_102254
+nsset:        MYSHCZ
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   17.02.2006 12:15:00
+changed:      18.02.2008 12:47:05
+expire:       17.02.2012
+
+contact:      SB:EXPL-SUBJ_102254
+name:         Tereza Havrlandov&Atilde;&iexcl;
+address:      &Aring;&nbsp;kr&Atilde;&copy;tova 8
+address:      Praha 2
+address:      120 00
+address:      CZ
+e-mail:       terezia@mybox.cz
+registrar:    REG-ZONER
+created:      17.02.2006 12:05:00
+
+contact:      EXPL-PRSN_102254
+name:         Tereza Havrlandov&Atilde;&iexcl;
+address:      &Aring;&nbsp;kr&Atilde;&copy;tova 8
+address:      Praha 2
+address:      120 00
+address:      CZ
+phone:        +420.606656656
+e-mail:       terezia@mybox.cz
+registrar:    REG-ZONER
+created:      17.02.2006 11:55:00
+
+nsset:        MYSHCZ
+nserver:      ns2.mysh.cz (195.122.199.198)
+nserver:      ns3.mysh.cz (90.182.144.165)
+nserver:      ns1.mysh.cz (95.168.208.231)
+tech-c:       UAM-VM
+registrar:    REG-IGNUM
+created:      31.10.2007 10:11:02
+changed:      21.05.2011 13:59:35
+
+contact:      UAM-VM
+name:         Vladim&Atilde;&shy;r Mach
+address:      Hlavn&Atilde;&shy; 2742/126
+address:      Praha 4 - Spo&Aring;™ilov
+address:      141 00
+address:      CZ
+phone:        +420.777615119
+e-mail:       wladik@gmail.com
+registrar:    REG-IGNUM
+created:      21.11.2007 10:05:06
+
+

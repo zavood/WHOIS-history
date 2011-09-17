@@ -11,12 +11,12 @@ for detailed information.
    Referral URL: http://www.PublicDomainRegistry.com
    Name Server: DNS.PARKPAGE.FOUNDATIONAPI.COM
    Name Server: DNS2.PARKPAGE.FOUNDATIONAPI.COM
-   Status: redemptionPeriod
-   Updated Date: 13-aug-2011
+   Status: pendingDelete
+   Updated Date: 13-sep-2011
    Creation Date: 04-jul-2005
    Expiration Date: 04-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:21:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 03:54:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,73 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: NETMEDIA S.A.C.
-Contact: +511.2429234
-Website: http://www.hostingperu.com.pe
-
-Domain Name: HPDNS.COM
-
-Registrant:
-    Netmedia S.A.C.
-    Netmedia S.A.C.        (rlanda@netmedia.com.pe)
-    Av. Larco 743 Of. 502
-    Miraflores
-    Lima
-    Lima,51
-    PE
-    Tel. +511.2429234
-
-Creation Date: 04-Jul-2005
-Expiration Date: 04-Jul-2011
-
-Domain servers in listed order:
-    ns1.hpdns.com
-    ns2.hpdns.com
-
-
-Administrative Contact:
-    Netmedia S.A.C.
-    Netmedia S.A.C.        (rlanda@netmedia.com.pe)
-    Av. Larco 743 Of. 502
-    Miraflores
-    Lima
-    Lima,51
-    PE
-    Tel. +511.2429234
-
-Technical Contact:
-    Netmedia S.A.C.
-    Netmedia S.A.C.        (rlanda@netmedia.com.pe)
-    Av. Larco 743 Of. 502
-    Miraflores
-    Lima
-    Lima,51
-    PE
-    Tel. +511.2429234
-
-Billing Contact:
-    Netmedia S.A.C.
-    Netmedia S.A.C.        (rlanda@netmedia.com.pe)
-    Av. Larco 743 Of. 502
-    Miraflores
-    Lima
-    Lima,51
-    PE
-    Tel. +511.2429234
-
-Status:REDEMPTIONPERIOD
-
-The data in this whois database is provided to you for information purposes only,
-that is, to assist you in obtaining information about or related
-to a domain name registration record. We make this information available &quot;as is&quot;,
-and do not guarantee its accuracy. By submitting a whois query, you agree that you will
-use this data only for lawful purposes and that, under no circumstances will you use this data to:
-(1) enable high volume, automated, electronic processes that stress
-or load this whois database system providing you this information; or
-(2) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
-The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
-We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-
+Whois Error: No Match for &quot;HPDNS.COM&quot;

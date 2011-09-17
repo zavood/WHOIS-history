@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      instituteofsport.ie
+descr:       Irish Sports Council
+descr:       Statutory Body
+descr:       Publication Name
+admin-c:     AMG697-IEDR
+tech-c:      CP27-IEDR
+renewal:     06-September-2012
+status:      Active
+nserver:     ns8.digiweb.ie
+nserver:     ns9.digiweb.ie
+source:      IEDR
+
+person:      Alex Almasan
+nic-hdl:     AMG697-IEDR
+source:      IEDR
+
+person:      Colm Piercy
+nic-hdl:     CP27-IEDR
+source:      IEDR
+

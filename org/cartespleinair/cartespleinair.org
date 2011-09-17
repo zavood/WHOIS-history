@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D84848237-LROR
+Domain Name:CARTESPLEINAIR.ORG
+Created On:25-Mar-2002 18:45:31 UTC
+Last Updated On:05-Jun-2007 00:27:40 UTC
+Expiration Date:25-Mar-2013 18:45:31 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-LLDP91W5E9WR
+Registrant Name:Charles Leduc
+Registrant Organization:Charles Leduc
+Registrant Street1:11895 Lavigne
+Registrant Street2:
+Registrant Street3:
+Registrant City:Montreal
+Registrant State/Province:Quebec
+Registrant Postal Code:H4J 1X9
+Registrant Country:CA
+Registrant Phone:+1.5143846965
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:leduc_charles@yahoo.com
+Admin ID:DOT-2BLTRMR7931U
+Admin Name:Charles Leduc
+Admin Organization:Charles Leduc
+Admin Street1:11895 Lavigne
+Admin Street2:
+Admin Street3:
+Admin City:Montreal
+Admin State/Province:Quebec
+Admin Postal Code:H4J 1X9
+Admin Country:CA
+Admin Phone:+1.5143846965
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:leduc_charles@yahoo.com
+Tech ID:DOT-G2IOLNUVQZ21
+Tech Name:Charles Leduc
+Tech Organization:Charles Leduc
+Tech Street1:11895 Lavigne
+Tech Street2:
+Tech Street3:
+Tech City:Montreal
+Tech State/Province:Quebec
+Tech Postal Code:H4J 1X9
+Tech Country:CA
+Tech Phone:+1.5143846965
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:leduc_charles@yahoo.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

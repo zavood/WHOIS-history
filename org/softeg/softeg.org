@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156942358-LROR
+Domain Name:SOFTEG.ORG
+Created On:24-Aug-2009 07:23:33 UTC
+Last Updated On:25-Aug-2011 01:28:27 UTC
+Expiration Date:24-Aug-2012 07:23:33 UTC
+Sponsoring Registrar:Regional Network Information Center, JSC dba RU-CENTER (R148-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:ZBPBHAC-RU
+Registrant Name:Maxim S Sagaydachnyy
+Registrant Organization:Maxim S Sagaydachnyy
+Registrant Street1:Metelevo, 7-11
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tyumen
+Registrant State/Province:Tyumenskaya obl.
+Registrant Postal Code:625056
+Registrant Country:RU
+Registrant Phone:+7.3452745171
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:maxxsag@mail.ru
+Admin ID:ZBPBHAC-RU
+Admin Name:Maxim S Sagaydachnyy
+Admin Organization:Maxim S Sagaydachnyy
+Admin Street1:Metelevo, 7-11
+Admin Street2:
+Admin Street3:
+Admin City:Tyumen
+Admin State/Province:Tyumenskaya obl.
+Admin Postal Code:625056
+Admin Country:RU
+Admin Phone:+7.3452745171
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:maxxsag@mail.ru
+Tech ID:ZBPBHAC-RU
+Tech Name:Maxim S Sagaydachnyy
+Tech Organization:Maxim S Sagaydachnyy
+Tech Street1:Metelevo, 7-11
+Tech Street2:
+Tech Street3:
+Tech City:Tyumen
+Tech State/Province:Tyumenskaya obl.
+Tech Postal Code:625056
+Tech Country:RU
+Tech Phone:+7.3452745171
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:maxxsag@mail.ru
+Name Server:EXPIREPAGES-KIAE-1.NIC.RU
+Name Server:EXPIREPAGES-KIAE-2.NIC.RU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

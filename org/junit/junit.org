@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D17577842-LROR
+Domain Name:JUNIT.ORG
+Created On:14-Jan-2000 15:48:20 UTC
+Last Updated On:16-Dec-2010 06:19:16 UTC
+Expiration Date:14-Jan-2012 15:48:20 UTC
+Sponsoring Registrar:TierraNet Inc. dba DomainDiscover (R86-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:TNTN-0000389444
+Registrant Name:Hostmaster
+Registrant Organization:Object Mentor, Inc.
+Registrant Street1:501 N Riverside Drive - Suite 206
+Registrant Street2:
+Registrant Street3:
+Registrant City:Gurnee
+Registrant State/Province:IL
+Registrant Postal Code:60031
+Registrant Country:US
+Registrant Phone:+1.8003386716
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@objectmentor.com
+Admin ID:TNTN-0000389444
+Admin Name:Hostmaster
+Admin Organization:Object Mentor, Inc.
+Admin Street1:501 N Riverside Drive - Suite 206
+Admin Street2:
+Admin Street3:
+Admin City:Gurnee
+Admin State/Province:IL
+Admin Postal Code:60031
+Admin Country:US
+Admin Phone:+1.8003386716
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@objectmentor.com
+Tech ID:TNTN-0000389444
+Tech Name:Hostmaster
+Tech Organization:Object Mentor, Inc.
+Tech Street1:501 N Riverside Drive - Suite 206
+Tech Street2:
+Tech Street3:
+Tech City:Gurnee
+Tech State/Province:IL
+Tech Postal Code:60031
+Tech Country:US
+Tech Phone:+1.8003386716
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@objectmentor.com
+Name Server:NS1.DOMAINDISCOVER.COM
+Name Server:NS2.DOMAINDISCOVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

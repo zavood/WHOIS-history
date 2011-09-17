@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1624469-LROR
+Domain Name:REFUGENET.ORG
+Created On:10-Oct-1997 04:00:00 UTC
+Last Updated On:02-Sep-2010 15:00:53 UTC
+Expiration Date:09-Oct-2015 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29840851-NSI
+Registrant Name:National Wildlife Refuge Association
+Registrant Street1:1250 Connecticut Ave NW, Suite
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20036
+Registrant Country:US
+Registrant Phone:+1.2022922402
+Registrant Phone Ext.:
+Registrant FAX:+1.2023339077
+Registrant FAX Ext.:
+Registrant Email:dharwood@refugenet.org
+Admin ID:29840849-NSI
+Admin Name:National Wildlife Refuge Assoc
+Admin Street1:1250 Connecticut Ave NW, Suite
+Admin Street2:
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20036
+Admin Country:US
+Admin Phone:+1.2022922402
+Admin Phone Ext.:
+Admin FAX:+1.2022922435
+Admin FAX Ext.:
+Admin Email:dharwood@refugeassociation.org
+Tech ID:29840849-NSI
+Tech Name:National Wildlife Refuge Assoc
+Tech Street1:1250 Connecticut Ave NW, Suite
+Tech Street2:
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20036
+Tech Country:US
+Tech Phone:+1.2022922402
+Tech Phone Ext.:
+Tech FAX:+1.2022922435
+Tech FAX Ext.:
+Tech Email:dharwood@refugeassociation.org
+Name Server:NS1.HOSTDEPOT.COM
+Name Server:NS2.HOSTDEPOT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

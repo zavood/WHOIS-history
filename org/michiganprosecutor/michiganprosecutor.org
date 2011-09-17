@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D9946918-LROR
+Domain Name:MICHIGANPROSECUTOR.ORG
+Created On:08-Sep-1999 19:30:33 UTC
+Last Updated On:04-Aug-2008 18:58:37 UTC
+Expiration Date:08-Sep-2012 19:30:33 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20167827-NSI
+Registrant Name:PAAM
+Registrant Organization:PAAM
+Registrant Street1:116 W. Ottawa St Suite 200
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lansing
+Registrant State/Province:MI
+Registrant Postal Code:48933
+Registrant Country:US
+Registrant Phone:+1.5173346060
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:Goergenj@MICHIGAN.GOV
+Admin ID:21101315-NSI
+Admin Name:John Goergen
+Admin Organization:PAAM
+Admin Street1:116 W. Ottawa St Suite 200
+Admin Street2:
+Admin Street3:
+Admin City:Lansing
+Admin State/Province:MI
+Admin Postal Code:48933
+Admin Country:US
+Admin Phone:+1.5173346060
+Admin Phone Ext.:
+Admin FAX:+1.5173346351
+Admin FAX Ext.:
+Admin Email:Goergenj@MICHIGAN.GOV
+Tech ID:21101315-NSI
+Tech Name:John Goergen
+Tech Organization:PAAM
+Tech Street1:116 W. Ottawa St Suite 200
+Tech Street2:
+Tech Street3:
+Tech City:Lansing
+Tech State/Province:MI
+Tech Postal Code:48933
+Tech Country:US
+Tech Phone:+1.5173346060
+Tech Phone Ext.:
+Tech FAX:+1.5173346351
+Tech FAX Ext.:
+Tech Email:Goergenj@MICHIGAN.GOV
+Name Server:NS1.BLUEHOST.COM
+Name Server:NS2.BLUEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

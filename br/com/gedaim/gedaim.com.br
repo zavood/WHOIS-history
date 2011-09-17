@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 00:52:00 (BRT -03:00)
+
+domain:      gedaim.com.br
+owner:       GEDAIM - Gerenciamento de Dados Imobiliarios
+ownerid:     036.873.131/0001-20
+responsible: Fernando Galdino de Oliveira
+country:     BR
+owner-c:     FEG104
+admin-c:     FEG104
+tech-c:      FEG104
+billing-c:   FEG104
+nserver:     dns1.meusimoveis.net
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     dns2.meusimoveis.net
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20040706 #1720311
+expires:     20120706
+changed:     20110715
+status:      published
+
+nic-hdl-br:  FEG104
+person:      Fernando Galdino de Oliveira
+e-mail:      paulo@goyazsistemas.com.br
+created:     20010810
+changed:     20110727
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

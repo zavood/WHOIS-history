@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158782725-LROR
+Domain Name:JCM-ARTCAN.ORG
+Created On:05-Apr-2010 14:00:42 UTC
+Last Updated On:09-Jul-2010 22:04:29 UTC
+Expiration Date:05-Apr-2013 14:00:42 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR45200808
+Registrant Name:Pamela Monastra
+Registrant Organization:Joseph C. Monastra Foundation for Pancreatic Cancer Research
+Registrant Street1:4421 Tree Haven Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Atlanta
+Registrant State/Province:Georgia
+Registrant Postal Code:30342
+Registrant Country:US
+Registrant Phone:+1.4043912169
+Registrant Phone Ext.:
+Registrant FAX:+1.6787320469
+Registrant FAX Ext.:
+Registrant Email:pmonastra@theoriginofideas.com
+Admin ID:CR45200810
+Admin Name:Pamela Monastra
+Admin Organization:Joseph C. Monastra Foundation for Pancreatic Cancer Research
+Admin Street1:4421 Tree Haven Drive
+Admin Street2:
+Admin Street3:
+Admin City:Atlanta
+Admin State/Province:Georgia
+Admin Postal Code:30342
+Admin Country:US
+Admin Phone:+1.4043912169
+Admin Phone Ext.:
+Admin FAX:+1.6787320469
+Admin FAX Ext.:
+Admin Email:pmonastra@theoriginofideas.com
+Tech ID:CR45200809
+Tech Name:Pamela Monastra
+Tech Organization:Joseph C. Monastra Foundation for Pancreatic Cancer Research
+Tech Street1:4421 Tree Haven Drive
+Tech Street2:
+Tech Street3:
+Tech City:Atlanta
+Tech State/Province:Georgia
+Tech Postal Code:30342
+Tech Country:US
+Tech Phone:+1.4043912169
+Tech Phone Ext.:
+Tech FAX:+1.6787320469
+Tech FAX Ext.:
+Tech Email:pmonastra@theoriginofideas.com
+Name Server:NS1.KUSTOMWEB.COM
+Name Server:NS2.KUSTOMWEB.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

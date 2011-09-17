@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D144295976-LROR
+Domain Name:MAYORSYOUTHPROGRAM.ORG
+Created On:23-Apr-2007 14:18:18 UTC
+Last Updated On:11-Oct-2010 15:37:38 UTC
+Expiration Date:23-Apr-2014 14:18:18 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0816462f09500241
+Registrant Name:Jerry Rucker
+Registrant Organization:Atlanta Workforce Dev. Agency
+Registrant Street1:818 Pollard Blvd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Atlanta
+Registrant State/Province:GA
+Registrant Postal Code:30315
+Registrant Country:US
+Registrant Phone:+1.4045893530
+Registrant Phone Ext.:
+Registrant FAX:+1.4046586311
+Registrant FAX Ext.:
+Registrant Email:dbryant@atlantaga.gov
+Admin ID:1011243ce9bf1134
+Admin Name:Jerry Rucker
+Admin Organization:Atlanta Workforce Dev. Agency
+Admin Street1:818 Pollard Blvd.
+Admin Street2:
+Admin Street3:
+Admin City:Atlanta
+Admin State/Province:GA
+Admin Postal Code:30315
+Admin Country:US
+Admin Phone:+1.4045893530
+Admin Phone Ext.:
+Admin FAX:+1.4046586311
+Admin FAX Ext.:
+Admin Email:jrucker@atlantaga.gov
+Tech ID:4549149e95179462
+Tech Name:Derek Saunders
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027492701
+Tech FAX Ext.:
+Tech Email:dsaunders@atlantaga.gov
+Name Server:DNS071.A.REGISTER.COM
+Name Server:DNS096.B.REGISTER.COM
+Name Server:DNS015.C.REGISTER.COM
+Name Server:DNS010.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
