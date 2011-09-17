@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D5417882-LROR
+Domain Name:FBCSMYRNA.ORG
+Created On:30-Nov-1998 05:00:00 UTC
+Last Updated On:22-Nov-2004 21:03:16 UTC
+Expiration Date:29-Nov-2011 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31696021-NSI
+Registrant Name:First Baptist Church Smyrna
+Registrant Organization:First Baptist Church Smyrna
+Registrant Street1:506 Legacy Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Smyrna
+Registrant State/Province:TN
+Registrant Postal Code:37167
+Registrant Country:US
+Registrant Phone:+1.6154593311
+Registrant Phone Ext.:
+Registrant FAX:+1.6154599590
+Registrant FAX Ext.:
+Registrant Email:wasadmin@BELLSOUTH.NET
+Admin ID:31696021-NSI
+Admin Name:First Baptist Church Smyrna
+Admin Organization:First Baptist Church Smyrna
+Admin Street1:506 Legacy Drive
+Admin Street2:
+Admin Street3:
+Admin City:Smyrna
+Admin State/Province:TN
+Admin Postal Code:37167
+Admin Country:US
+Admin Phone:+1.6154593311
+Admin Phone Ext.:
+Admin FAX:+1.6154599590
+Admin FAX Ext.:
+Admin Email:wasadmin@BELLSOUTH.NET
+Tech ID:31696021-NSI
+Tech Name:First Baptist Church Smyrna
+Tech Organization:First Baptist Church Smyrna
+Tech Street1:506 Legacy Drive
+Tech Street2:
+Tech Street3:
+Tech City:Smyrna
+Tech State/Province:TN
+Tech Postal Code:37167
+Tech Country:US
+Tech Phone:+1.6154593311
+Tech Phone Ext.:
+Tech FAX:+1.6154599590
+Tech FAX Ext.:
+Tech Email:wasadmin@BELLSOUTH.NET
+Name Server:NS1.SITEWRENCH.COM
+Name Server:NS2.SITEWRENCH.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

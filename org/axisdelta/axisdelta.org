@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153962554-LROR
+Domain Name:AXISDELTA.ORG
+Created On:29-Aug-2008 20:51:54 UTC
+Last Updated On:26-Aug-2011 20:52:57 UTC
+Expiration Date:29-Aug-2012 20:51:54 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:96d93eed726
+Registrant Name:Zaka  Krow
+Registrant Organization:Scorpio Media Link, Inc.
+Registrant Street1:C-85,Rabindrapally,Premises No
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kolkata
+Registrant State/Province:West Bengal
+Registrant Postal Code:700096
+Registrant Country:IN
+Registrant Phone:+91.3324103536
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ZAKA@DEZIGNSHOP.NET
+Admin ID:96d93eed726
+Admin Name:Zaka  Krow
+Admin Organization:Scorpio Media Link, Inc.
+Admin Street1:C-85,Rabindrapally,Premises No
+Admin Street2:
+Admin Street3:
+Admin City:Kolkata
+Admin State/Province:West Bengal
+Admin Postal Code:700096
+Admin Country:IN
+Admin Phone:+91.3324103536
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ZAKA@DEZIGNSHOP.NET
+Tech ID:96d93eed726
+Tech Name:Zaka  Krow
+Tech Organization:Scorpio Media Link, Inc.
+Tech Street1:C-85,Rabindrapally,Premises No
+Tech Street2:
+Tech Street3:
+Tech City:Kolkata
+Tech State/Province:West Bengal
+Tech Postal Code:700096
+Tech Country:IN
+Tech Phone:+91.3324103536
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ZAKA@DEZIGNSHOP.NET
+Name Server:NS1.AXISDELTA.ORG
+Name Server:NS2.AXISDELTA.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

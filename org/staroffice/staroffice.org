@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D9666065-LROR
+Domain Name:STAROFFICE.ORG
+Created On:31-Aug-1999 21:44:28 UTC
+Last Updated On:15-Apr-2011 01:27:01 UTC
+Expiration Date:31-Aug-2012 21:44:28 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOTR-00883230
+Registrant Name:Mark Stone
+Registrant Organization:Star Research Capital Corp.
+Registrant Street1:Suite 1 - Barclays Building
+Registrant Street2:
+Registrant Street3:
+Registrant City:Charlestown
+Registrant State/Province:KN
+Registrant Postal Code:KN
+Registrant Country:KN
+Registrant Phone:+809.2097452323
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@undernic.com
+Admin ID:DOTC-02883583
+Admin Name:Mark Stone
+Admin Organization:Star Research Capital Corp.
+Admin Street1:Suite 1 - Barclays Building
+Admin Street2:
+Admin Street3:
+Admin City:Charlestown
+Admin State/Province:KN
+Admin Postal Code:KN
+Admin Country:KN
+Admin Phone:+809.2097452323
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@undernic.com
+Tech ID:DOT-B0C8GZUUELZG
+Tech Name:Mark Stone
+Tech Organization:Star Research Capital Corp.
+Tech Street1:Suite 1 - Barclays Building
+Tech Street2:
+Tech Street3:
+Tech City:Charlestown
+Tech State/Province:KN
+Tech Postal Code:KN
+Tech Country:KN
+Tech Phone:+809.2097452323
+Tech Phone Ext.:
+Tech FAX:+809.2097452324
+Tech FAX Ext.:
+Tech Email:hostmaster@undernic.com
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D128599012-LROR
+Domain Name:INFO-STAR.ORG
+Created On:09-Sep-2006 13:57:30 UTC
+Last Updated On:10-Sep-2011 09:13:42 UTC
+Expiration Date:09-Sep-2012 13:57:30 UTC
+Sponsoring Registrar:GKG.NET, INC. (Formerly GK Group L.L.C.) (R164-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:GKG-C000013EFD
+Registrant Name:Rui Figueiredo
+Registrant Organization:www.infosuporte.com.pt
+Registrant Street1:R Humberto Delgado N 35 Bloco A R/C A
+Registrant Street2:
+Registrant Street3:
+Registrant City:Portugal
+Registrant State/Province:Sintra
+Registrant Postal Code:2710
+Registrant Country:PT
+Registrant Phone:+351.934252623
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:8eee6283b2f43997b44dcc808725cf928522ddf5@whois.gkg.net
+Admin ID:GKG-C000013EFD
+Admin Name:Rui Figueiredo
+Admin Organization:www.infosuporte.com.pt
+Admin Street1:R Humberto Delgado N 35 Bloco A R/C A
+Admin Street2:
+Admin Street3:
+Admin City:Portugal
+Admin State/Province:Sintra
+Admin Postal Code:2710
+Admin Country:PT
+Admin Phone:+351.934252623
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:8eee6283b2f43997b44dcc808725cf928522ddf5@whois.gkg.net
+Tech ID:GKG-C000013EFD
+Tech Name:Rui Figueiredo
+Tech Organization:www.infosuporte.com.pt
+Tech Street1:R Humberto Delgado N 35 Bloco A R/C A
+Tech Street2:
+Tech Street3:
+Tech City:Portugal
+Tech State/Province:Sintra
+Tech Postal Code:2710
+Tech Country:PT
+Tech Phone:+351.934252623
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:8eee6283b2f43997b44dcc808725cf928522ddf5@whois.gkg.net
+Name Server:NS269.WEBSITEWELCOME.COM
+Name Server:NS270.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 25-feb-2000
    Expiration Date: 25-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:18:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 18:07:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,77 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Legal Stuff:
-
-The information in DreamHost's whois database is to be used for
-informational purposes only, and to obtain information on a
-domain name registration. DreamHost does not guarantee its
-accuracy.
-
-You are not authorized to query or access DreamHost's whois
-database using high-volume, automated means without written
-permission from DreamHost.
-
-You are not authorized to query or access DreamHost's whois
-database in order to facilitate illegal activities, or to
-facilitate the use of unsolicited bulk email, telephone, or
-facsimile communications.
-
-You are not authorized to collect, repackage, or redistribute the
-information in DreamHost's whois database.
-
-DreamHost may, at its sole discretion, restrict your access to
-the whois database at any time, with or without notice. DreamHost
-may modify these Terms of Service at any time, with or without
-notice.
-
-+++++++++++++++++++++++++++++++++++++++++++
-
-   Domain Name: thinkhost.com
-
-   Registrant Contact:
-      thinkhost.com Private Registrant         thinkhost.com@proxy.dreamhost.com
-      DreamHost Web Hosting
-      417 Associated Rd #324
-      Brea, CA 92821
-      US
-      +1.2139471032
-
-   Administrative Contact:
-      thinkhost.com Private Registrant         thinkhost.com@proxy.dreamhost.com
-      DreamHost Web Hosting
-      417 Associated Rd #324
-      Brea, CA 92821
-      US
-      +1.2139471032
-
-   Technical Contact:
-      thinkhost.com Private Registrant         thinkhost.com@proxy.dreamhost.com
-      DreamHost Web Hosting
-      417 Associated Rd #324
-      Brea, CA 92821
-      US
-      +1.2139471032
-
-   Billing Contact:
-      thinkhost.com Private Registrant         thinkhost.com@proxy.dreamhost.com
-      DreamHost Web Hosting
-      417 Associated Rd #324
-      Brea, CA 92821
-      US
-      +1.2139471032
-
-   Record created on 2000-02-25 16:43:11.
-   Record expires on 2012-02-25 16:43:10.
-
-   Domain servers in listed order:
-
-      ns1.thinkhost.com
-      ns2.thinkhost.com
-DreamHost whois server terms of service: http://whois.dreamhost.com/terms.html
-
-Get a 14-day free trial of unlimited everything from DreamHost Web Hosting.
-Paid web hosting includes A FREE domain registration!
-http://www.dreamhost.com/
-Use promotional code &quot;WHOIS&quot; for an additional $50 off any plan!
-

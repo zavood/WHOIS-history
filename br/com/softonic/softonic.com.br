@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-16 07:37:54 (BRT -03:00)
+%  2011-09-17 15:33:24 (BRT -03:00)
 
 domain:      softonic.com.br
 owner:       Domain Under Protection Servi&ccedil;os de Internet Ltda.
@@ -17,14 +17,14 @@ admin-c:     NAB51
 tech-c:      NAB51
 billing-c:   NAB51
 nserver:     masterdns.softonic.com
-nsstat:      20110915 AA
-nslastaa:    20110915
+nsstat:      20110917 AA
+nslastaa:    20110917
 nserver:     dns2.softonic.com
-nsstat:      20110915 AA
-nslastaa:    20110915
+nsstat:      20110917 AA
+nslastaa:    20110917
 nserver:     nse.softonic.com
-nsstat:      20110915 AA
-nslastaa:    20110915
+nsstat:      20110917 AA
+nslastaa:    20110917
 created:     20061109 #3191635
 expires:     20131109
 changed:     20100115

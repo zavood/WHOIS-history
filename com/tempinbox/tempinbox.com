@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 12-jun-2005
    Expiration Date: 12-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:37:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 18:05:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,5 +84,5 @@ ns1.dynadot.com
 ns2.dynadot.com
 
 
-&gt;&gt;&gt; Last update of whois database: 2011/09/14 07:35:54 PST &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: 2011/09/17 11:02:19 PST &lt;&lt;&lt;
 

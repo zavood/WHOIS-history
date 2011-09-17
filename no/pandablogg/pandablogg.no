@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: PAN744D-NORID
+Domain Name................: pandablogg.no
+Domain Holder Handle.......: VNA200O-NORID
+Registrar Handle...........: REG812-NORID
+Legal-c Handle.............: SLE22P-NORID
+Tech-c Handle..............: HM1278P-NORID
+Name Server Handle.........: NSON12H-NORID
+Name Server Handle.........: NSON8H-NORID
+
+Additional information:
+Created:         2009-02-23
+Last updated:    2011-08-04
+
+NORID Handle...............: VNA200O-NORID
+Type.......................: organization
+Name.......................: VIROSAFE NORGE AS
+Id Type....................: organization_number
+Id Number..................: 982798760
+Registrar Handle...........: REG812-NORID
+Post Address...............: Strandgt 33
+Postal Code................: NO-2317
+Postal Area................: Hamar
+Country....................: NO
+Mobile Phone Number........: +47.93409300
+Email Address..............: steinar@virosafe.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

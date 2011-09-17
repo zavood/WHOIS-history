@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D9407266-LROR
+Domain Name:POSTMARKS.ORG
+Created On:24-Aug-1999 01:02:31 UTC
+Last Updated On:24-Aug-2011 01:09:15 UTC
+Expiration Date:24-Aug-2021 01:02:31 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28093001-NSI
+Registrant Name:Postmark Collectors Club
+Registrant Organization:Postmark Collectors Club
+Registrant Street1:1828 A Street, SE
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20003-1705
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:TeAmo@MINDSPRING.COM
+Admin ID:28093002-NSI
+Admin Name:Meier, Terry
+Admin Organization:Meier, Terry
+Admin Street1:Postmark Collectors Club
+Admin Street2:1828 A Street, SE
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20003-1705
+Admin Country:US
+Admin Phone:+1.9999999999
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:TeAmo@MINDSPRING.COM
+Tech ID:5359169-NSI
+Tech Name:Domain Administrator
+Tech Organization:pair Networks
+Tech Street1:2403 Sidney St, Suite 510
+Tech Street2:
+Tech Street3:
+Tech City:Pittsburgh
+Tech State/Province:PA
+Tech Postal Code:15203
+Tech Country:US
+Tech Phone:+1.4123817247
+Tech Phone Ext.:
+Tech FAX:+1.4123819997
+Tech FAX Ext.:
+Tech Email:domain@pair.com
+Name Server:NS00.NS0.COM
+Name Server:NS130.PAIR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

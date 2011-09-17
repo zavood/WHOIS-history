@@ -12,11 +12,11 @@ for detailed information.
    Name Server: DNS1.TOCDOVIET.COM
    Name Server: DNS2.TOCDOVIET.COM
    Status: clientTransferProhibited
-   Updated Date: 24-mar-2011
+   Updated Date: 15-sep-2011
    Creation Date: 15-sep-2008
-   Expiration Date: 15-sep-2011
+   Expiration Date: 15-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:05:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 18:19:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,7 +68,7 @@ Registrant:
     Tel. +45.36946676
 
 Creation Date: 15-Sep-2008
-Expiration Date: 15-Sep-2011
+Expiration Date: 15-Sep-2012
 
 Domain servers in listed order:
     dns1.tocdoviet.com

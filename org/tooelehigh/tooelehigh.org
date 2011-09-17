@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1068303-LROR
+Domain Name:TOOELEHIGH.ORG
+Created On:03-Apr-1998 05:00:00 UTC
+Last Updated On:28-May-2010 17:43:43 UTC
+Expiration Date:02-Apr-2012 05:00:00 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-IGII9YJLSBW3
+Registrant Name:Bill Gochis
+Registrant Organization:Tooele County School District
+Registrant Street1:c/o Tooele High School
+Registrant Street2:301 W. Vine Street
+Registrant Street3:
+Registrant City:Tooele
+Registrant State/Province:UT
+Registrant Postal Code:84074
+Registrant Country:US
+Registrant Phone:+1.4358331978
+Registrant Phone Ext.:
+Registrant FAX:+1.4358331984
+Registrant FAX Ext.:
+Registrant Email:bgochis@tooeleschools.org
+Admin ID:DOT-VYXRA0SYJYAL
+Admin Name:Bill Gochis
+Admin Organization:Tooele County School District
+Admin Street1:c/o Tooele High School
+Admin Street2:301 W. Vine Street
+Admin Street3:
+Admin City:Tooele
+Admin State/Province:UT
+Admin Postal Code:84074
+Admin Country:US
+Admin Phone:+1.4358331978
+Admin Phone Ext.:
+Admin FAX:+1.4358331984
+Admin FAX Ext.:
+Admin Email:bgochis@tooeleschools.org
+Tech ID:DOT-CN109HMLVV03
+Tech Name:Tom Rathke
+Tech Organization:Tooele County School District
+Tech Street1:c/o Stansbury High School
+Tech Street2:5300 N. Aberdeen Lane
+Tech Street3:
+Tech City:Stansbury Park
+Tech State/Province:UT
+Tech Postal Code:84074
+Tech Country:US
+Tech Phone:+1.4358822479
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:trathke@tooeleschools.org
+Name Server:NS1.MYDOMAIN.COM
+Name Server:NS2.MYDOMAIN.COM
+Name Server:NS3.MYDOMAIN.COM
+Name Server:NS4.MYDOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
