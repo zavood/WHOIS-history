@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150360428-LROR
+Domain Name:DELEEL.ORG
+Created On:13-Dec-2007 14:52:32 UTC
+Last Updated On:14-Dec-2010 13:20:15 UTC
+Expiration Date:13-Dec-2011 14:52:32 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR38064844
+Registrant Name:Elias Cano
+Registrant Street1:Generosidad 8
+Registrant Street2:B, 1 C
+Registrant Street3:
+Registrant City:Madrid
+Registrant State/Province:Madrid
+Registrant Postal Code:28041
+Registrant Country:ES
+Registrant Phone:+34.651390152
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:elias.ferrer@gmail.com
+Admin ID:CR38064846
+Admin Name:Elias Cano
+Admin Street1:Generosidad 8
+Admin Street2:B, 1 C
+Admin Street3:
+Admin City:Madrid
+Admin State/Province:Madrid
+Admin Postal Code:28041
+Admin Country:ES
+Admin Phone:+34.651390152
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:elias.ferrer@gmail.com
+Tech ID:CR38064845
+Tech Name:Elias Cano
+Tech Street1:Generosidad 8
+Tech Street2:B, 1 C
+Tech Street3:
+Tech City:Madrid
+Tech State/Province:Madrid
+Tech Postal Code:28041
+Tech Country:ES
+Tech Phone:+34.651390152
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:elias.ferrer@gmail.com
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

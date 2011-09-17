@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 31-oct-2000
    Expiration Date: 31-oct-2017
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 04:33:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 01:15:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,7 +70,7 @@ commercial advertising or solicitations via e-mail (spam); or
 
 By submitting this query, you agree to abide by the above policy.
 
-Whois History: 1,440 records have been archived since 2004-04-25
+Whois History: 1,455 records have been archived since 2004-04-25
 http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=pornhub.com
 
 Domain: pornhub.com

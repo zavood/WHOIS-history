@@ -15,11 +15,11 @@ for detailed information.
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-sep-2009
+   Updated Date: 15-sep-2011
    Creation Date: 18-oct-1994
-   Expiration Date: 17-oct-2011
+   Expiration Date: 17-oct-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:13:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 01:16:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -109,8 +109,8 @@ Registrant:
         hostmaster@mozilla.com +1.6509030800 Fax:
 
     Created on..............: 1994-10-18.
-    Expires on..............: 2011-10-16.
-    Record last updated on..: 2011-02-07.
+    Expires on..............: 2013-10-16.
+    Record last updated on..: 2011-09-15.
 
     Domain servers in listed order:
 

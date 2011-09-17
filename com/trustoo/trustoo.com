@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 09-nov-2004
    Expiration Date: 09-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 07:30:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 01:16:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,7 +71,7 @@ status:       lock
 created:      2004-11-09 09:16:42 UTC
 modified:     2010-10-28 07:33:06 UTC
 expires:      2011-11-09 09:16:42 UTC
-query-source: 174.142.225.246
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-129145
 person:       Ivan Davidchuk
@@ -84,8 +84,8 @@ country:      UA
 phone:        +386.75024084
 
 source:       joker.com live whois service
-query-time:   0.027449
-db-updated:   2011-09-15 07:31:48
+query-time:   0.045107
+db-updated:   2011-09-17 01:16:29
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

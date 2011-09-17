@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 12-may-2005
    Expiration Date: 12-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:13:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 01:28:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,9 +117,9 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns2.isc-sns.com
-    ns1.isc-sns.net
     ns3.isc-sns.info
+    ns1.isc-sns.net
+    ns2.isc-sns.com
 
 
 

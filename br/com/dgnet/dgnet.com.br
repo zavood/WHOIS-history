@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 22:17:33 (BRT -03:00)
+
+domain:      dgnet.com.br
+owner:       DGNET PROVEDOR DE INTERNET LTDA
+ownerid:     001.884.731/0001-00
+responsible: Mauro Eilert
+country:     BR
+owner-c:     MAE79
+admin-c:     MAB757
+tech-c:      MAB757
+billing-c:   MAE79
+nserver:     ns1.dgnet.com.br 189.113.97.13
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.dgnet.com.br 187.17.254.250
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20001027 #455542
+expires:     20121027
+changed:     20110728
+status:      published
+
+nic-hdl-br:  MAB757
+person:      Matias Breunig
+e-mail:      matias@dgnet.com.br
+created:     20010206
+changed:     20101015
+
+nic-hdl-br:  MAE79
+person:      Mauro Eilert
+e-mail:      mauro@dgnet.com.br
+created:     20001026
+changed:     20030411
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

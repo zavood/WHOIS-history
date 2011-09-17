@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D99650188-LROR
+Domain Name:YBLJACKSON.ORG
+Created On:12-Aug-2003 18:32:53 UTC
+Last Updated On:24-Aug-2011 17:55:47 UTC
+Expiration Date:12-Aug-2012 18:32:53 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:GODA-03760983
+Registrant Name:Doug Owen
+Registrant Organization:Young Business Leaders
+Registrant Street1:618 Briarwood Dr., Suite A
+Registrant Street2:
+Registrant Street3:
+Registrant City:Jackson
+Registrant State/Province:Mississippi
+Registrant Postal Code:39211
+Registrant Country:US
+Registrant Phone:+1.6019781848
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@beprominent.com
+Admin ID:GODA-23760983
+Admin Name:Doug Owen
+Admin Organization:Young Business Leaders
+Admin Street1:618 Briarwood Dr., Suite A
+Admin Street2:
+Admin Street3:
+Admin City:Jackson
+Admin State/Province:Mississippi
+Admin Postal Code:39211
+Admin Country:US
+Admin Phone:+1.6019781848
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@beprominent.com
+Tech ID:GODA-13760983
+Tech Name:Doug Owen
+Tech Organization:Young Business Leaders
+Tech Street1:618 Briarwood Dr., Suite A
+Tech Street2:
+Tech Street3:
+Tech City:Jackson
+Tech State/Province:Mississippi
+Tech Postal Code:39211
+Tech Country:US
+Tech Phone:+1.6019781848
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webmaster@beprominent.com
+Name Server:WINSTON.BEPROMINENT.COM
+Name Server:NS2167.DNS.DYN.COM
+Name Server:NS3135.DNS.DYN.COM
+Name Server:NS1176.DNS.DYN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

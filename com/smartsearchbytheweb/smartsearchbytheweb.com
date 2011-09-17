@@ -6,20 +6,17 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
    Domain Name: SMARTSEARCHBYTHEWEB.COM
-   Registrar: ENOM, INC.
-   Whois Server: whois.enom.com
-   Referral URL: http://www.enom.com
-   Name Server: DNS1.NAME-SERVICES.COM
-   Name Server: DNS2.NAME-SERVICES.COM
-   Name Server: DNS3.NAME-SERVICES.COM
-   Name Server: DNS4.NAME-SERVICES.COM
-   Name Server: DNS5.NAME-SERVICES.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 28-jun-2010
-   Expiration Date: 28-jun-2011
+   Registrar: YENKOS, INC.
+   Whois Server: whois.yenkos.com
+   Referral URL: http://intrustdomains.com
+   Name Server: NS1.ABOVE.COM
+   Name Server: NS2.ABOVE.COM
+   Status: ok
+   Updated Date: 15-sep-2011
+   Creation Date: 15-sep-2011
+   Expiration Date: 15-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 01:27:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 01:26:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,4 +51,69 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain not found.
+All registrar data, including registrant WHOIS data, is provided for public, non-commerical use only.  Any information made available by InTrust Domains and its affiliate registrars shall not be collected, distributed or used for any commercial activity.  Third parties to agree not to use the data to allow, enable, or otherwise support any marketing activities, regardless of the medium used. Such media include but are not limited to e-mail, telephone, facsimile, postal mail, SMS, and wireless alerts.
+Domain Name: SMARTSEARCHBYTHEWEB.COM
+Created On: 15-SEP-2011
+Last Updated On: 15-SEP-2011
+Expiration Date: 15-SEP-2012
+Sponsoring Registrar: YENKOS, INC.
+Status: ok
+Registrant Name: Daniel Berlin
+Registrant Organization: Intersolved, LLC
+Registrant Street1: 10387 Mt Evans Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City: Falcon
+Registrant State/Province: CO
+Registrant Postal Code: 80831
+Registrant Country: USA
+Registrant Phone: (1)415-760-5166
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email: accounts@intersolved.com
+Admin Name: Daniel Berlin
+Admin Organization: Intersolved, LLC
+Admin Street1: 10387 Mt Evans Drive
+Admin Street2:
+Admin Street3:
+Admin City: Falcon
+Admin State/Province: CO
+Admin Postal Code: 80831
+Admin Country: USA
+Admin Phone: (1)415-760-5166
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email: accounts@intersolved.com
+Billing Name: Daniel Berlin
+Billing Organization: Intersolved, LLC
+Billing Street1: 10387 Mt Evans Drive
+Billing Street2:
+Billing Street3:
+Billing City: Falcon
+Billing State/Province: CO
+Billing Postal Code: 80831
+Billing Country: USA
+Billing Phone: (1)415-760-5166
+Billing Phone Ext.:
+Billing FAX:
+Billing FAX Ext.:
+Billing Email: accounts@intersolved.com
+Tech Name: Daniel Berlin
+Tech Organization: Intersolved, LLC
+Tech Street1: 10387 Mt Evans Drive
+Tech Street2:
+Tech Street3:
+Tech City: Falcon
+Tech State/Province: CO
+Tech Postal Code: 80831
+Tech Country: USA
+Tech Phone: (1)415-760-5166
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email: accounts@intersolved.com
+Name Server: NS1.ABOVE.COM
+Name Server: NS2.ABOVE.COM
+

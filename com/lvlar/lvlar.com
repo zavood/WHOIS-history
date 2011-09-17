@@ -11,12 +11,13 @@ for detailed information.
    Referral URL: http://domainhelp.opensrs.net
    Name Server: NS1.LVLAR.COM
    Name Server: NS1.TWISTED4LIFE.COM
+   Name Server: NS2.LVLAR.COM
    Status: ok
-   Updated Date: 26-apr-2011
+   Updated Date: 13-sep-2011
    Creation Date: 09-jun-2010
    Expiration Date: 09-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:06:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 01:25:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
+IP Address: 67.231.254.15
 Maximum Daily connection limit reached. Lookup refused.

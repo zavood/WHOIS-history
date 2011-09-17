@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D27878727-LROR
+Domain Name:MDIMMUNET.ORG
+Created On:26-May-2000 14:57:19 UTC
+Last Updated On:24-Mar-2010 16:10:13 UTC
+Expiration Date:26-May-2019 14:57:19 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:C8030705-RCOM
+Registrant Name:Paula Soper
+Registrant Organization:DHMH
+Registrant Street1:201 West Preston St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Baltimore
+Registrant State/Province:MD
+Registrant Postal Code:21201
+Registrant Country:US
+Registrant Phone:+1.4107676238
+Registrant Phone Ext.:
+Registrant FAX:+1.4103335893
+Registrant FAX Ext.:
+Registrant Email:soperpa@dhmh.state.md.us
+Admin ID:C14767922-RCOM
+Admin Name:Greg Reed
+Admin Organization:DHMH
+Admin Street1:201 West Preston St.
+Admin Street2:
+Admin Street3:
+Admin City:Baltimore
+Admin State/Province:MD
+Admin Postal Code:21201
+Admin Country:US
+Admin Phone:+1.4107676679
+Admin Phone Ext.:
+Admin FAX:+1.4103335893
+Admin FAX Ext.:
+Admin Email:reedgre@dhmh.state.md.us
+Tech ID:C41146576-RCOM
+Tech Name:Ehsan Khan
+Tech Organization:DHMH
+Tech Street1:201 West Preston Street, 3rd Floor
+Tech Street2:
+Tech Street3:
+Tech City:Baltimore
+Tech State/Province:MD
+Tech Postal Code:21201
+Tech Country:US
+Tech Phone:+1.4107676606
+Tech Phone Ext.:
+Tech FAX:+1.4103335893
+Tech FAX Ext.:
+Tech Email:ekhan@dhmh.state.md.us
+Name Server:DNS050.A.REGISTER.COM
+Name Server:DNS072.B.REGISTER.COM
+Name Server:DNS015.C.REGISTER.COM
+Name Server:DNS010.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

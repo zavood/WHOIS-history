@@ -1,0 +1,39 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       byggja.is
+descr:        Bj&ouml;rgmundur &Ouml;rn Gu&eth;mundsson
+descr:        Helgubraut 25
+descr:        IS-200 K&oacute;pavogur
+admin-c:      DE214-IS
+tech-c:       TTH2-IS
+zone-c:       TTH2-IS
+billing-c:    DE214-IS
+nserver:      ns1.thekking.is
+nserver:      ns2.thekking.is
+created:      September 28 2000
+expires:      September 28 2011
+source:       ISNIC
+
+role:         Dalsh&uacute;s ehf
+address:      L&aacute;gm&uacute;la 5
+address:      IS-108 Reykjav&iacute;k
+phone:        +354 860 0282
+fax-no:       +354 456 1480
+e-mail:       bjorgmundur@vitund.is
+nic-hdl:      DE214-IS
+created:      March 29 2007
+source:       ISNIC
+
+role:         &THORN;ekking - Tristan hf
+address:      Hafnarstr&aelig;ti 91-95
+address:      IS-600 Akureyri
+phone:        +354 460 3100
+e-mail:       hostmaster@thekking.is
+nic-hdl:      TTH2-IS
+created:      January 19 2004
+source:       ISNIC
+
+

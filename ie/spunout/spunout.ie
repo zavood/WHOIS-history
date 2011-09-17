@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      spunout.ie
+descr:       Community Creations Ltd.
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Discretionary Name
+admin-c:     ABA914-IEDR
+tech-c:      JG29-IEDR
+renewal:     18-November-2011
+status:      Active
+nserver:     ns5.dnsireland.com
+nserver:     ns6.dnsireland.com
+nserver:     ns7.dnsireland.ie
+source:      IEDR
+
+person:      Ruairi McKiernan
+nic-hdl:     ABA914-IEDR
+source:      IEDR
+
+person:      Always Amber
+nic-hdl:     JG29-IEDR
+source:      IEDR
+
