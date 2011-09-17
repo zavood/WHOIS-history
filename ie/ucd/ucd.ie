@@ -1,0 +1,28 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      ucd.ie
+descr:       University College Dublin
+descr:       School/Educational Institution
+descr:       School/Educational Institution Name
+admin-c:     NOR3-IEDR
+tech-c:      NOR3-IEDR
+renewal:     04-April-2012
+status:      Active
+nserver:     auth-ns2.ucd.ie 137.43.132.54 2001:770:98:200::35:2
+nserver:     scsnms.switch.ch
+nserver:     auth-ns1.ucd.ie 137.43.132.53 2001:770:98:200::35:1
+nserver:     uucp-gw-1.pa.dec.com
+nserver:     uucp-gw-2.pa.dec.com
+nserver:     ns1.tcd.ie
+source:      IEDR
+
+person:      Niall O'Reilly
+nic-hdl:     NOR3-IEDR
+source:      IEDR
+
+person:      Niall O'Reilly
+nic-hdl:     NOR3-IEDR
+source:      IEDR
+

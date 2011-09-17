@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 17-sep-2003
    Expiration Date: 17-sep-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:32:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 12:59:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -85,20 +85,26 @@ Domain servers in listed order:
 	 mns01.domaincontrol.com 	 mns02.domaincontrol.com
 
 Administrator:
-	 Wondershare Software chenjj@wondershare.com +86.75586117717
-	 Wondershare Software
+	 Name-- Wondershare Software
+ EMail-: (chenjj@wondershare.com)
+ tel --: +86.75586117717
+	 org: Wondershare Software
 	 3/F, Fucheng Hi-Tech Building, Gaoxin Ave.1.S.Nanshan District
 	 SHENZHEN,GD,CN 518057
 
 Technical Contactor:
-	 Wondershare Software chenjj@wondershare.com +86.75586117717
-	 Wondershare Software
+	 Name-- Wondershare Software
+ EMail-: (chenjj@wondershare.com)
+ tel --: +86.75586117717
+	 org: Wondershare Software
 	 3/F, Fucheng Hi-Tech Building, Gaoxin Ave.1.S.Nanshan District
 	 SHENZHEN,GD,CN 518057
 
 Billing Contactor:
-	 Wondershare Software chenjj@wondershare.com +86.75586117717
-	 Wondershare Software
+	 Name-- Wondershare Software
+ EMail-: (chenjj@wondershare.com)
+ tel --: +86.75586117717
+	 org: Wondershare Software
 	 3/F, Fucheng Hi-Tech Building, Gaoxin Ave.1.S.Nanshan District
 	 SHENZHEN,GD,CN 518057
 

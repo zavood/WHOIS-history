@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      cao.ie
+descr:       Central Applications Office
+descr:       School/Educational Institution
+descr:       School/Educational Institution Name
+admin-c:     IG1-IEDR
+tech-c:      HE15-IEDR
+renewal:     04-April-2012
+status:      Active
+nserver:     ns.heanet.ie
+nserver:     ns.cao.ie 193.1.214.10
+source:      IEDR
+
+person:      Ivor Gleeson
+nic-hdl:     IG1-IEDR
+source:      IEDR
+
+person:      HEAnet
+nic-hdl:     HE15-IEDR
+source:      IEDR
+

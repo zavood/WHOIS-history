@@ -11,12 +11,12 @@ for detailed information.
    Referral URL: http://registrar.godaddy.com
    Name Server: NS65.DOMAINCONTROL.COM
    Name Server: NS66.DOMAINCONTROL.COM
-   Status: redemptionPeriod
-   Updated Date: 14-aug-2011
+   Status: pendingDelete
+   Updated Date: 14-sep-2011
    Creation Date: 10-jul-2011
    Expiration Date: 10-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:27:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 13:21:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

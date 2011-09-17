@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157194879-LROR
+Domain Name:ALRGROUP.ORG
+Created On:25-Sep-2009 19:37:57 UTC
+Last Updated On:16-Oct-2010 07:17:39 UTC
+Expiration Date:25-Sep-2011 19:37:57 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_5898308
+Registrant Name:Web Master
+Registrant Organization:Ebiz4india - A Web Hosting Company
+Registrant Street1:Suite 315, Third Floor, Model House
+Registrant Street2:Punjagutta
+Registrant Street3:
+Registrant City:Hyderabad
+Registrant State/Province:Andhra Pradesh
+Registrant Postal Code:500082
+Registrant Country:IN
+Registrant Phone:+91.9347077853
+Registrant Phone Ext.:
+Registrant FAX:+91.04066467767
+Registrant FAX Ext.:
+Registrant Email:domains@ebiz4india.com
+Admin ID:DI_5898308
+Admin Name:Web Master
+Admin Organization:Ebiz4india - A Web Hosting Company
+Admin Street1:Suite 315, Third Floor, Model House
+Admin Street2:Punjagutta
+Admin Street3:
+Admin City:Hyderabad
+Admin State/Province:Andhra Pradesh
+Admin Postal Code:500082
+Admin Country:IN
+Admin Phone:+91.9347077853
+Admin Phone Ext.:
+Admin FAX:+91.04066467767
+Admin FAX Ext.:
+Admin Email:domains@ebiz4india.com
+Tech ID:DI_5898308
+Tech Name:Web Master
+Tech Organization:Ebiz4india - A Web Hosting Company
+Tech Street1:Suite 315, Third Floor, Model House
+Tech Street2:Punjagutta
+Tech Street3:
+Tech City:Hyderabad
+Tech State/Province:Andhra Pradesh
+Tech Postal Code:500082
+Tech Country:IN
+Tech Phone:+91.9347077853
+Tech Phone Ext.:
+Tech FAX:+91.04066467767
+Tech FAX Ext.:
+Tech Email:domains@ebiz4india.com
+Name Server:NS1.EBIZ4.NET
+Name Server:NS2.EBIZ4.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

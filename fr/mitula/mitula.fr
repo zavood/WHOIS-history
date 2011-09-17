@@ -1,0 +1,91 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; mitula.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      mitula.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MHC62-FRNIC
+admin-c:     JHC26-FRNIC
+tech-c:      MHC63-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL397-FRNIC
+registrar:   Tucows.com CO
+anniversary: 07/07
+created:     01/05/2009
+last-update: 07/07/2011
+source:      FRNIC
+
+ns-list:     NSL397-FRNIC
+nserver:     ns3.dondominio.com
+nserver:     ns2.dondominio.com
+source:      FRNIC
+
+registrar:   Tucows.com CO
+type:        Isp Option 1
+address:     96 Mowat Avenue
+address:     M6K 3M1 TORONTO
+country:     CA
+phone:       +1 416 535 0123
+fax-no:      +1 416 531 55 84
+e-mail:      servicebureau@tucows.com
+website:     http://www.tucows.com
+anonymous:   NO
+registered:  24/01/2005
+source:      FRNIC
+
+nic-hdl:     MHC62-FRNIC
+type:        PERSON
+contact:     Mario Herranz Corvera
+address:     Mitula Classified SL
+address:     Federico Oriol, 5
+address:     28023 Madrid
+country:     ES
+phone:       +34 917082147
+e-mail:      sistemas@mitula.com
+changed:     07/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JHC26-FRNIC
+type:        PERSON
+contact:     Javier Heras Colas
+address:     Mitula Classified SL
+address:     7, rue de Castiglione
+address:     75001 Paris
+country:     FR
+phone:       +34 917082147
+e-mail:      sistemas@mitula.com
+changed:     07/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MHC63-FRNIC
+type:        PERSON
+contact:     Mario Herranz Corvera
+address:     Mitula Classified SL
+address:     Federico Oriol, 5
+address:     28023 Madrid
+country:     ES
+phone:       +34 917082147
+e-mail:      sistemas@mitula.com
+changed:     07/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
