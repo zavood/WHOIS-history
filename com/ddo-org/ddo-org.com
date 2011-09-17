@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 27-sep-1996
    Expiration Date: 26-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:37:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 04:45:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -104,7 +104,7 @@ DDO ORGANISATION
 
    Record expires on 26-Sep-2012.
    Record created on 27-Sep-1996.
-   Database last updated on 12-Sep-2011 02:27:47 EDT.
+   Database last updated on 17-Sep-2011 00:36:06 EDT.
 
    Domain servers in listed order:
 

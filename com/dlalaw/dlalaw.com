@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 18-aug-1995
    Expiration Date: 17-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:18:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 04:51:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -107,7 +107,7 @@ Dow Lohnes PLLC
 
    Record expires on 17-Aug-2013.
    Record created on 18-Aug-1995.
-   Database last updated on 16-Sep-2011 00:09:00 EDT.
+   Database last updated on 17-Sep-2011 00:41:40 EDT.
 
    Domain servers in listed order:
 

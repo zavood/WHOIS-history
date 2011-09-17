@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 03-dec-1999
    Expiration Date: 03-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 21:10:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 04:59:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -111,7 +111,7 @@ ESPN, Inc.
 
    Record expires on 03-Dec-2011.
    Record created on 03-Dec-1999.
-   Database last updated on 10-Sep-2011 17:05:49 EDT.
+   Database last updated on 17-Sep-2011 00:49:54 EDT.
 
    Domain servers in listed order:
 

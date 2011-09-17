@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 04-oct-2010
    Expiration Date: 04-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 10:41:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 04:44:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -85,5 +85,5 @@ Contact E-mail:          boganchikalex@mail.ru
 
 Registrar:               Regional Network Information Center, JSC dba RU-CENTER
 
-Last updated on 2011.09.10 14:41:48 MSK/MSD
+Last updated on 2011.09.17 08:45:21 MSK/MSD
 
