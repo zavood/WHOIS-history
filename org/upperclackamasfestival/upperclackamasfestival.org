@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D140609198-LROR
+Domain Name:UPPERCLACKAMASFESTIVAL.ORG
+Created On:28-Feb-2007 07:29:34 UTC
+Last Updated On:27-Feb-2011 21:46:56 UTC
+Expiration Date:28-Feb-2012 07:29:34 UTC
+Sponsoring Registrar:Everyones Internet, Ltd. dba resellone.net (R1381-LROR)
+Status:OK
+Registrant ID:turNJdMc45L9pChF
+Registrant Name:Luke Spenser
+Registrant Organization:Upper Clackamas Festival.
+Registrant Street1:10117 SE Sunnyside Rd. F1234
+Registrant Street2:
+Registrant Street3:
+Registrant City:Happy Valley
+Registrant State/Province:OR
+Registrant Postal Code:97015
+Registrant Country:US
+Registrant Phone:+1.5036545154
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kwalsh@tms-usa.com
+Admin ID:tunmhsrMieBMHWLn
+Admin Name:Luke Spenser
+Admin Organization:Upper Clackamas Festival.
+Admin Street1:10117 SE Sunnyside Rd. F1234
+Admin Street2:
+Admin Street3:
+Admin City:Happy Valley
+Admin State/Province:OR
+Admin Postal Code:97015
+Admin Country:US
+Admin Phone:+1.5036545154
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:kwalsh@tms-usa.com
+Tech ID:tud4SjNVj8rpx6ws
+Tech Name:Luke Spenser
+Tech Organization:Upper Clackamas Festival.
+Tech Street1:10117 SE Sunnyside Rd. F1234
+Tech Street2:
+Tech Street3:
+Tech City:Happy Valley
+Tech State/Province:OR
+Tech Postal Code:97015
+Tech Country:US
+Tech Phone:+1.5036545154
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:kwalsh@tms-usa.com
+Name Server:NS1.WHITEWATERHOST.COM
+Name Server:NS2.WHITEWATERHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

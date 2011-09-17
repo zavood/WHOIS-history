@@ -1,0 +1,109 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; univ-ag.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      univ-ag.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UAG3-FRNIC
+admin-c:     PS273-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      PS273-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL24628-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL24628-FRNIC
+nserver:     bakanik.univ-ag.fr [193.51.134.2]
+nserver:     dns.cru.fr [195.220.94.139]
+nserver:     soleil.uvsq.fr [193.51.24.1]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     PS273-FRNIC
+type:        PERSON
+contact:     Paul Sarlat
+address:     Universite Antilles Guyane
+address:     B.P. 771
+address:     97173 Pointe-&agrave;-Pitre Cedex
+country:     FR
+phone:       +33 5 90 93 86 63
+fax-no:      +33 5 90 83 80 80
+e-mail:      paul.sarlat@univ-ag.fr
+changed:     23/06/2005 Jean-baptiste.Bouquet@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     UAG3-FRNIC
+type:        ORGANIZATION
+contact:     Universite Antilles Guyane
+address:     B.P. 771
+address:     97173 Pointe-&agrave;-Pitre
+country:     FR
+phone:       +33 5 90 93 86 63
+fax-no:      +33 5 90 83 80 80
+e-mail:      paul.sarlat@univ-ag.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104659061-LROR
+Domain Name:OURLADYOFCONSOLATION.ORG
+Created On:21-Jul-2004 19:31:44 UTC
+Last Updated On:03-Aug-2009 04:16:28 UTC
+Expiration Date:21-Jul-2012 19:31:44 UTC
+Sponsoring Registrar:Allindomains LLC (R1377-LROR)
+Status:OK
+Registrant ID:DOT-8GI5LXJ6F4DF
+Registrant Name:henry wallace
+Registrant Organization:our lady of consolation
+Registrant Street1:1224 dearborn ave.
+Registrant Street2:
+Registrant Street3:
+Registrant City:charlotte
+Registrant State/Province:nc
+Registrant Postal Code:28216
+Registrant Country:US
+Registrant Phone:+1.7043754339
+Registrant Phone Ext.:
+Registrant FAX:+1.7047929329
+Registrant FAX Ext.:
+Registrant Email:henryscout@aol.com
+Admin ID:DOT-YDSTTEXAWSGX
+Admin Name:henry wallace
+Admin Organization:our lady of consolation
+Admin Street1:1224 dearborn ave.
+Admin Street2:
+Admin Street3:
+Admin City:charlotte
+Admin State/Province:nc
+Admin Postal Code:28216
+Admin Country:US
+Admin Phone:+1.7043754339
+Admin Phone Ext.:
+Admin FAX:+1.7047929329
+Admin FAX Ext.:
+Admin Email:henryscout@aol.com
+Tech ID:DOT-9I60B76SDNTY
+Tech Name:henry wallace
+Tech Organization:our lady of consolation
+Tech Street1:1224 dearborn ave.
+Tech Street2:
+Tech Street3:
+Tech City:charlotte
+Tech State/Province:nc
+Tech Postal Code:28216
+Tech Country:US
+Tech Phone:+1.7043754339
+Tech Phone Ext.:
+Tech FAX:+1.7047929329
+Tech FAX Ext.:
+Tech Email:henryscout@aol.com
+Name Server:NS2.DOMAIN.COM
+Name Server:NS1.DOMAIN.COM
+Name Server:NS3.DOMAIN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
