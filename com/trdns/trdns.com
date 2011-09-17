@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 29-jan-2002
    Expiration Date: 29-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 11:38:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 04:24:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,37 +84,28 @@ Domain servers in listed order:
 	 ns11.trdns.com 	 ns12.trdns.com
 
 Administrator:
-	 name: Hosting Hizmetleri
- mail: dns@trdns.com tel: +90.0000000000
+	 Name-- Hosting Hizmetleri
+ EMail-: (dns@trdns.com)
+ tel --: +90.0000000000
 	 org: Hosting Hizmetleri
-
-address: TR
-	 city: TR
-,province: TR
-,country: TR
- postcode: 00000
+	 TR
+	 TR,TR,TR 00000
 
 Technical Contactor:
-	 name: Hosting Hizmetleri
- mail: dns@trdns.com tel: +90.0000000000
+	 Name-- Hosting Hizmetleri
+ EMail-: (dns@trdns.com)
+ tel --: +90.0000000000
 	 org: Hosting Hizmetleri
-
-address: TR
-	 city: TR
-,province: TR
-,country: TR
- postcode: 00000
+	 TR
+	 TR,TR,TR 00000
 
 Billing Contactor:
-	 name: Hosting Hizmetleri
- mail: dns@trdns.com tel: +90.0000000000
+	 Name-- Hosting Hizmetleri
+ EMail-: (dns@trdns.com)
+ tel --: +90.0000000000
 	 org: Hosting Hizmetleri
-
-address: TR
-	 city: TR
-,province: TR
-,country: TR
- postcode: 00000
+	 TR
+	 TR,TR,TR 00000
 
 
 Registration Service Provider:

@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 01:12:51 (BRT -03:00)
+
+domain:      neointernet.net.br
+owner:       Estruturaweb Inform&aacute;tica Ltda
+ownerid:     009.419.168/0001-00
+responsible: Valdir Marques
+country:     BR
+owner-c:     VFM31
+admin-c:     VFM31
+tech-c:      VFM31
+billing-c:   VFM31
+nserver:     ns1.servidorwebfacil.com
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.servidorwebfacil.com
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     20091217 #6379924
+expires:     20121217
+changed:     20101223
+status:      published
+
+nic-hdl-br:  VFM31
+person:      Valdir Fernando Martins Marques
+e-mail:      valdirmarques@yahoo.com.br
+created:     20021008
+changed:     20060117
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

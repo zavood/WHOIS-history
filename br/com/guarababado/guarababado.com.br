@@ -5,32 +5,13 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-15 23:48:49 (BRT -03:00)
+%  2011-09-17 01:34:18 (BRT -03:00)
+
+% Query rate limit exceeded. Reduced information.
+% Use https://registro.br/cgi-bin/avail/ for domain availability.
 
 domain:      guarababado.com.br
-owner:       ADALBERTO OLIVEIRA SILVA
-ownerid:     745.386.405-49
-country:     BR
-owner-c:     ADOSI16
-admin-c:     ADOSI16
-tech-c:      ADOSI16
-billing-c:   ADOSI16
-nserver:     ns7.hoteldaweb.com.br
-nsstat:      20110913 AA
-nslastaa:    20110913
-nserver:     ns8.hoteldaweb.com.br
-nsstat:      20110913 AA
-nslastaa:    20110913
-created:     20100428 #6771424
-expires:     20120428
-changed:     20110427
-status:      published
-
-nic-hdl-br:  ADOSI16
-person:      ADALBERTO OLIVEIRA SILVA
-e-mail:      betooliveira76@hotmail.com
-created:     20100416
-changed:     20100416
+owner:       ADALBERTO OLIVEIRA SILVA (1806859)
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

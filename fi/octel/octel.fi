@@ -1,0 +1,20 @@
+
+domain:   octel.fi
+descr:    OCTEL OY
+descr:    09882126
+address:  c/o TietoEnator Oyj / Seppo T Kiuru
+address:  PL 38
+address:  00441
+address:  HELSINKI
+phone:    +358 02 07269688
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver: ns.octel.fi [OK] 194.111.39.211
+nserver: ns1-fin.global.sonera.fi [OK]
+nserver: ns1-swe.global.sonera.se [OK]
+nserver: ns2-fin.global.sonera.fi [OK]
+nserver: ns2-usa.global.sonera.net [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

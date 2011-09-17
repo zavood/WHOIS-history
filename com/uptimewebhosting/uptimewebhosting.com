@@ -11,15 +11,13 @@ for detailed information.
    Referral URL: http://domainhelp.opensrs.net
    Name Server: NS1.UPTIMEWEBHOSTING.COM
    Name Server: NS2.UPTIMEWEBHOSTING.COM
-   Status: clientDeleteProhibited
-   Status: clientHold
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-sep-2011
+   Updated Date: 12-sep-2011
    Creation Date: 10-sep-2004
    Expiration Date: 10-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 18:46:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 04:20:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,84 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- isphost.org
- 352 georgetown dr
- casselberry, FL 32707
- US
-
- Domain name: UPTIMEWEBHOSTING.COM
-
-
- Administrative Contact:
-    Beckworth, James  sales@isphost.org
-    352 georgetown dr
-    casselberry, FL 32707
-    US
-    +1.4075927889
- Technical Contact:
-    Beckworth, James  sales@isphost.org
-    352 georgetown dr
-    casselberry, FL 32707
-    US
-    +1.4075927889
-
-
- Registration Service Provider:
-    Hover, help@hover.com
-    416.538.5498
-    http://help.hover.com
-
-
-
- Registrar of Record: TUCOWS, INC.
- Record last updated on 31-Mar-2011.
- Record expires on 10-Sep-2011.
- Record created on 10-Sep-2004.
-
- Registrar Domain Name Help Center:
-    http://tucowsdomains.com
-
- Domain servers in listed order:
-    NS1.UPTIMEWEBHOSTING.COM   216.127.68.65
-    NS2.UPTIMEWEBHOSTING.COM   216.127.68.65
-
-
- Domain status: clientDeleteProhibited
-                clientHold
-                clientTransferProhibited
-                clientUpdateProhibited
-
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-Tucows makes this information available &quot;as is,&quot; and does not guarantee its
-accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Tucows.
-
-Tucows reserves the right to terminate your access to the Tucows WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
-
-Tucows reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
-
+IP Address: 67.231.254.15
+Maximum Daily connection limit reached. Lookup refused.

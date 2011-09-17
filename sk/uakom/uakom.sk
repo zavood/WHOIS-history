@@ -1,0 +1,25 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         uakom.sk
+Admin-id            UNIV-0005
+Admin-name          Univerzita Mateja Bela Banska Bystrica
+Admin-legal-form    ina pravna forma
+Admin-org.-ID       30232295
+Admin-address       Narodna 12, Banska Bystrica 974 01
+Admin-telephone     048 4466511, 048 4466978
+Tech-id             UNIV-0005
+Tech-name           Univerzita Mateja Bela Banska Bystrica
+Tech-org.-ID        30232295
+Tech-address        Narodna 12, Banska Bystrica 974 01
+Tech-telephone      048 4466511, 048 4466978
+dns_name            sun.uakom.sk
+dns_IPv4            192.108.131.11
+dns_name            ns.umb.sk
+dns_name            ns.stuba.sk
+Last-update         2010-11-16
+Valid-date          2011-11-24
+Domain-status       DOM_OK
+

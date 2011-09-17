@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104576137-LROR
+Domain Name:PIRATEBAY.ORG
+Created On:28-Jun-2004 16:08:18 UTC
+Last Updated On:22-Mar-2011 18:24:54 UTC
+Expiration Date:28-Jun-2014 16:08:18 UTC
+Sponsoring Registrar:Key-Systems GmbH (R51-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:FBN209279411
+Registrant Name:Fredrik Neij
+Registrant Organization:Fredrik Neij
+Registrant Street1:Box 1407
+Registrant Street2:
+Registrant Street3:
+Registrant City:Stockholm
+Registrant State/Province:
+Registrant Postal Code:11479
+Registrant Country:SE
+Registrant Phone:+46.840379500
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:auto560120@hushmail.com
+Admin ID:FBN209279411
+Admin Name:Fredrik Neij
+Admin Organization:Fredrik Neij
+Admin Street1:Box 1407
+Admin Street2:
+Admin Street3:
+Admin City:Stockholm
+Admin State/Province:
+Admin Postal Code:11479
+Admin Country:SE
+Admin Phone:+46.840379500
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:auto560120@hushmail.com
+Tech ID:FBN209279411
+Tech Name:Fredrik Neij
+Tech Organization:Fredrik Neij
+Tech Street1:Box 1407
+Tech Street2:
+Tech Street3:
+Tech City:Stockholm
+Tech State/Province:
+Tech Postal Code:11479
+Tech Country:SE
+Tech Phone:+46.840379500
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:auto560120@hushmail.com
+Name Server:NS0.THEPIRATEBAY.ORG
+Name Server:NS1.THEPIRATEBAY.ORG
+Name Server:NS2.THEPIRATEBAY.ORG
+Name Server:NS3.THEPIRATEBAY.ORG
+Name Server:NS4.THEPIRATEBAY.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         navicomp.sk
+Admin-id            MICH-1219
+Admin-name          Michal Hurak
+Admin-legal-form    zivnost
+Admin-org.-ID       44661991
+Admin-address       Cajkovskeho 25, Trnava 91708
+Admin-telephone     +421905707887
+Admin-email         mhurak@gmail.com
+Tech-id             WEBS-0001
+Tech-name           Websupport, s.r.o.
+Tech-org.-ID        36421928
+Tech-address        Stare grunty 12, Bratislava 84104
+Tech-telephone      0904/306 081, 0904/306 081, 0904/306 081
+Tech-email          helpdesk@websupport.sk
+dns_name            ns1.websupport.sk
+dns_name            ns2.websupport.sk
+dns_name            ns3.websupport.sk
+Last-update         2011-06-24
+Valid-date          2012-07-05
+Domain-status       DOM_OK
+

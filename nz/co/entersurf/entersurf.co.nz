@@ -1,0 +1,68 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-17T16:19:50+12:00
+domain_name: entersurf.co.nz
+query_status: 200 Active
+domain_dateregistered: 2001-06-12T15:15:00+12:00
+domain_datebilleduntil: 2011-10-12T15:15:00+13:00
+domain_datelastmodified: 2011-09-12T23:37:36+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: ProDNS
+registrar_address1: A division of Orcon Internet Limited
+registrar_address2: PO Box 302362
+registrar_city: North Harbour
+registrar_province: Auckland
+registrar_postalcode: 1330
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 444-4414
+registrar_fax: +64 9 444-4444
+registrar_email: dns@prodns.net.nz
+%
+registrant_contact_name: Enterprize Marketing Ltd
+registrant_contact_address1: P.O. Box 10011
+registrant_contact_address2: Mt Maunganui
+registrant_contact_city: MT MAUNGANUI
+registrant_contact_postalcode: 3002
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 7 575 8888
+registrant_contact_email: jj@enterprize.com
+%
+admin_contact_name: see email address
+admin_contact_address1: P.O. Box 10011
+admin_contact_address2: Mt Maunganui
+admin_contact_city: MT MAUNGANUI
+admin_contact_postalcode: 3002
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 7 575 8888
+admin_contact_email: jj@enterprize.com
+%
+technical_contact_name: DNS Admin Team / Orcon Internet
+technical_contact_address1: PO Box 302,362
+technical_contact_address2: North Harbour Post Centre
+technical_contact_phone: +9 444 4414
+technical_contact_email: dns@orcon.net.nz
+%
+ns_ip4_01: 210.55.12.1
+ns_name_01: ns1.orcon.net.nz
+ns_ip4_02: 210.55.12.2
+ns_name_02: ns2.orcon.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

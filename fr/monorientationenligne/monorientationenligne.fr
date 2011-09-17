@@ -1,0 +1,85 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; monorientationenligne.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      monorientationenligne.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ONIE14-FRNIC
+admin-c:     OO250-FRNIC
+tech-c:      ST212-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL7293-FRNIC
+registrar:   neoDomaine
+anniversary: 09/03
+created:     09/03/2009
+last-update: 07/09/2010
+source:      FRNIC
+
+ns-list:     NSL7293-FRNIC
+nserver:     ns1.neodomaine.com
+nserver:     ns2.neodomaine.com
+source:      FRNIC
+
+registrar:   neoDomaine
+type:        Isp Option 1
+anonymous:   YES
+registered:  12/07/2004
+source:      FRNIC
+
+nic-hdl:     OO250-FRNIC
+type:        PERSON
+contact:     Onisep Onisep
+address:     CHARVET/Pascal
+address:     12, mail Barthelemy Thimonnier- Lognes
+address:     77437 Marne la Vallee
+country:     FR
+phone:       +33 1 64 80 36 24
+e-mail:      okau@onisep.fr
+changed:     07/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ST212-FRNIC
+type:        ROLE
+contact:     support technique
+address:     neodomaine
+address:     36, rue Saint Cleophas
+address:     34000 Montpellier
+country:     FR
+e-mail:      afnic@neodomaine.com
+admin-c:     ST211-FRNIC
+tech-c:      ST211-FRNIC
+changed:     15/07/2004 afnic@neodomaine.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ONIE14-FRNIC
+type:        ORGANIZATION
+contact:     OFFICE NAT INFORMAT ENSEIG PROFES
+address:     12, Mail Barthelemy Thimonnier
+address:     77185 Lognes
+country:     FR
+phone:       +33 1 64 80 36 24
+e-mail:      odrot@onisep.fr
+changed:     22/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

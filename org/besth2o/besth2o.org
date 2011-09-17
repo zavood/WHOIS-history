@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D87421214-LROR
+Domain Name:BESTH2O.ORG
+Created On:11-Jun-2002 04:20:41 UTC
+Last Updated On:12-Jun-2011 01:24:27 UTC
+Expiration Date:11-Jun-2012 04:20:41 UTC
+Sponsoring Registrar:1 &amp; 1 Internet AG (R73-LROR)
+Status:OK
+Registrant ID:SPAG-6065948
+Registrant Name:Josef Gamon
+Registrant Organization:International Best Water GmbH
+Registrant Street1:Am Zollhaus 5
+Registrant Street2:
+Registrant Street3:
+Registrant City:Beelitz
+Registrant State/Province:
+Registrant Postal Code:14547
+Registrant Country:DE
+Registrant Phone:+49.3320462860
+Registrant Phone Ext.:
+Registrant FAX:+49.33204628611
+Registrant FAX Ext.:
+Registrant Email:admin@bestwater.de
+Admin ID:SPAG-6065948
+Admin Name:Josef Gamon
+Admin Organization:International Best Water GmbH
+Admin Street1:Am Zollhaus 5
+Admin Street2:
+Admin Street3:
+Admin City:Beelitz
+Admin State/Province:
+Admin Postal Code:14547
+Admin Country:DE
+Admin Phone:+49.3320462860
+Admin Phone Ext.:
+Admin FAX:+49.33204628611
+Admin FAX Ext.:
+Admin Email:admin@bestwater.de
+Tech ID:SPAG-6065948
+Tech Name:Josef Gamon
+Tech Organization:International Best Water GmbH
+Tech Street1:Am Zollhaus 5
+Tech Street2:
+Tech Street3:
+Tech City:Beelitz
+Tech State/Province:
+Tech Postal Code:14547
+Tech Country:DE
+Tech Phone:+49.3320462860
+Tech Phone Ext.:
+Tech FAX:+49.33204628611
+Tech FAX Ext.:
+Tech Email:admin@bestwater.de
+Name Server:NS3.KUNDENSERVER.DE
+Name Server:NS4.KUNDENSERVER.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

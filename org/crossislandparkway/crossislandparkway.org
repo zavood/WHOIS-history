@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83182761-LROR
+Domain Name:CROSSISLANDPARKWAY.ORG
+Created On:30-Jan-2002 20:25:37 UTC
+Last Updated On:15-Jul-2009 15:03:00 UTC
+Expiration Date:30-Jan-2016 20:25:37 UTC
+Sponsoring Registrar:ASCIO Technologies, Inc. - Denmark (R76-LROR)
+Status:OK
+Registrant ID:18374024-NSI
+Registrant Name:ACS STATE AND LOCAL SOLUTIONS
+Registrant Organization:ACS STATE AND LOCAL SOLUTIONS
+Registrant Street1:777 OLD SAW MILL RIVER RD
+Registrant Street2:
+Registrant Street3:
+Registrant City:TARRYTOWN
+Registrant State/Province:NY
+Registrant Postal Code:10591
+Registrant Country:US
+Registrant Phone:+1.9147896115
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nayan.kapadia@acs-inc.com
+Admin ID:447658498-NBTa
+Admin Name:Domain Administrator
+Admin Organization:ACS Inc.
+Admin Street1:2828 N. Haskell
+Admin Street2:
+Admin Street3:
+Admin City:Dallas
+Admin State/Province:TX
+Admin Postal Code:75204
+Admin Country:US
+Admin Phone:+1.8008884227
+Admin Phone Ext.:
+Admin FAX:+1.2148275847
+Admin FAX Ext.:
+Admin Email:name.services@acs-inc.com
+Tech ID:447726850-NBTt
+Tech Name:Leon Howorth
+Tech Organization:ACS Inc.
+Tech Street1:777 OLD SAW MILL RIVER RD
+Tech Street2:
+Tech Street3:
+Tech City:TARRYTOWN
+Tech State/Province:NY
+Tech Postal Code:10591
+Tech Country:US
+Tech Phone:+1.9147896213
+Tech Phone Ext.:
+Tech FAX:+1.9147896213
+Tech FAX Ext.:
+Tech Email:leon.howorth@acs-inc.com
+Name Server:AUTH00.NS.UU.NET
+Name Server:AUTH100.NS.UU.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
