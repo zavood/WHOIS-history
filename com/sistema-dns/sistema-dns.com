@@ -11,12 +11,12 @@ for detailed information.
    Referral URL: http://sync.es
    Name Server: DNS1.SISTEMA-DNS.COM
    Name Server: DNS2.SISTEMA-DNS.COM
-   Status: clientTransferProhibited
-   Updated Date: 01-jun-2010
+   Status: ok
+   Updated Date: 14-sep-2011
    Creation Date: 02-feb-2009
    Expiration Date: 02-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 11:22:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 07:05:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

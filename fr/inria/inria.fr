@@ -1,0 +1,132 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; inria.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      inria.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    INDR18-FRNIC
+admin-c:     DT5-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      PB2340-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL3778-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL3778-FRNIC
+nserver:     dns.inria.fr [193.51.208.13]
+nserver:     nez-perce.inria.fr [192.93.2.78]
+nserver:     dns.cs.wisc.edu
+nserver:     dns.princeton.edu
+nserver:     imag.imag.fr [129.88.30.1]
+nserver:     ns2.nic.fr [192.93.0.4 2001:660:3005:1::1:2]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     DT5-FRNIC
+type:        PERSON
+contact:     Daniel Terrer
+address:     INRIA Sophia-Antipolis
+address:     2004, route des Lucioles
+address:     B.P. 93
+address:     06902 Sophia Antipolis Cedex
+country:     FR
+phone:       +33 4 92 38 77 22
+fax-no:      +33 4 92 38 76 02
+e-mail:      daniel.terrer@sophia.inria.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     INDR18-FRNIC
+type:        ORGANIZATION
+contact:     Institut National de Recherche en Informatique
+address:     et Automatique - Inria
+address:     Domaine de Voluceau
+address:     B.P. 105
+address:     78153 Le Chesnay
+country:     FR
+phone:       +33 1 39 63 55 11
+fax-no:      +33 1 39 63 53 30
+e-mail:      webmaster@inria.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     PB2340-FRNIC
+type:        PERSON
+contact:     Philippe Balse
+address:     INRIA Sophia-Antipolis
+address:     2004, route des Lucioles
+address:     B.P. 93
+address:     06902 Sophia Antipolis Cedex
+country:     FR
+phone:       +33 4 92 38 79 34
+fax-no:      +33 4 92 38 76 02
+e-mail:      philippe.balse@sophia.inria.fr
+notify:      philippe.balse@sophia.inria.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

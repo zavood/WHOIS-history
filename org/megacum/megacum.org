@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D131988141-LROR
+Domain Name:MEGACUM.ORG
+Created On:01-Nov-2006 14:16:27 UTC
+Last Updated On:02-Sep-2011 18:06:20 UTC
+Expiration Date:01-Nov-2012 14:16:27 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:necwp73135y2dqq1
+Registrant Name:Protected Domain Services - Customer ID: NEC-2454607
+Registrant Organization:Protected Domain Services - Customer ID: NEC-2454607
+Registrant Street1:P.O. Box 6197
+Registrant Street2:
+Registrant Street3:
+Registrant City:Denver
+Registrant State/Province:CO
+Registrant Postal Code:80206
+Registrant Country:US
+Registrant Phone:+1.7202492374
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:megacum.org@protecteddomainservices.com
+Admin ID:necwp73135y2dqq1
+Admin Name:Protected Domain Services - Customer ID: NEC-2454607
+Admin Organization:Protected Domain Services - Customer ID: NEC-2454607
+Admin Street1:P.O. Box 6197
+Admin Street2:
+Admin Street3:
+Admin City:Denver
+Admin State/Province:CO
+Admin Postal Code:80206
+Admin Country:US
+Admin Phone:+1.7202492374
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:megacum.org@protecteddomainservices.com
+Tech ID:necwp73135y2dqq1
+Tech Name:Protected Domain Services - Customer ID: NEC-2454607
+Tech Organization:Protected Domain Services - Customer ID: NEC-2454607
+Tech Street1:P.O. Box 6197
+Tech Street2:
+Tech Street3:
+Tech City:Denver
+Tech State/Province:CO
+Tech Postal Code:80206
+Tech Country:US
+Tech Phone:+1.7202492374
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:megacum.org@protecteddomainservices.com
+Name Server:NS1.NATIONALNET.COM
+Name Server:NS2.NATIONALNET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

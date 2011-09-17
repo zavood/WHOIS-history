@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D690010-LROR
+Domain Name:SEIA.ORG
+Created On:09-Jan-1996 05:00:00 UTC
+Last Updated On:24-Jul-2008 13:51:02 UTC
+Expiration Date:08-Jan-2013 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30765179-NSI
+Registrant Name:Solar Energy Industries Assoc
+Registrant Organization:Solar Energy Industries Assoc
+Registrant Street1:575 7th ST, NW
+Registrant Street2:Suite 400
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20004
+Registrant Country:US
+Registrant Phone:+1.2026280556
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:shennessey@seia.org
+Admin ID:30765180-NSI
+Admin Name:Susan Miller
+Admin Organization:Solar Energy Industries Association
+Admin Street1:575 7th Street, NW
+Admin Street2:Suite 400
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20004
+Admin Country:US
+Admin Phone:+1.2026820556
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:smiller@seia.org
+Tech ID:30765180-NSI
+Tech Name:Susan Miller
+Tech Organization:Solar Energy Industries Association
+Tech Street1:575 7th Street, NW
+Tech Street2:Suite 400
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20004
+Tech Country:US
+Tech Phone:+1.2026820556
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:smiller@seia.org
+Name Server:DNS1.BROWSERMEDIA.COM
+Name Server:DNS2.BROWSERMEDIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

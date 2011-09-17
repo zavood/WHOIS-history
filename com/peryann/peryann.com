@@ -12,12 +12,13 @@ for detailed information.
    Name Server: DNS1.HOSTEUR.COM
    Name Server: DNS2.HOSTEUR.COM
    Status: clientDeleteProhibited
+   Status: clientHold
    Status: clientTransferProhibited
-   Updated Date: 20-sep-2010
+   Updated Date: 16-sep-2011
    Creation Date: 15-sep-2004
-   Expiration Date: 15-sep-2011
+   Expiration Date: 15-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:29:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 06:53:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +98,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Wednesday, 14-Sep-2011 01:30:20 CEST
-# gmt time      : Tuesday, 13-Sep-2011 23:30:20 GMT
+# local time    : Saturday, 17-Sep-2011 08:53:52 CEST
+# gmt time      : Saturday, 17-Sep-2011 06:53:52 GMT
 # last modify   : Thursday, 04-Aug-2011 14:30:17 CEST
-# request from  : 192.168.248.1:36203
+# request from  : 192.168.248.1:37757
 
 Domain name: peryann.com
 

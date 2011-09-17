@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2897981-LROR
+Domain Name:AMERICANCATHOLICPRESS.ORG
+Created On:30-Dec-1998 05:00:00 UTC
+Last Updated On:30-Dec-2009 15:35:31 UTC
+Expiration Date:30-Dec-2019 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31376450-NSI
+Registrant Name:American Catholic Press
+Registrant Organization:American Catholic Press
+Registrant Street1:16565 South State Street
+Registrant Street2:Email acp@acpress.org
+Registrant Street3:
+Registrant City:South Holland
+Registrant State/Province:IL
+Registrant Postal Code:60473
+Registrant Country:US
+Registrant Phone:+1.7083315485
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:acp@acpress.org
+Admin ID:31376450-NSI
+Admin Name:American Catholic Press
+Admin Organization:American Catholic Press
+Admin Street1:16565 South State Street
+Admin Street2:Email acp@acpress.org
+Admin Street3:
+Admin City:South Holland
+Admin State/Province:IL
+Admin Postal Code:60473
+Admin Country:US
+Admin Phone:+1.7083315485
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:acp@acpress.org
+Tech ID:31376450-NSI
+Tech Name:American Catholic Press
+Tech Organization:American Catholic Press
+Tech Street1:16565 South State Street
+Tech Street2:Email acp@acpress.org
+Tech Street3:
+Tech City:South Holland
+Tech State/Province:IL
+Tech Postal Code:60473
+Tech Country:US
+Tech Phone:+1.7083315485
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:acp@acpress.org
+Name Server:NS.GLOBALIDENTITY.COM
+Name Server:NS2.GLOBALIDENTITY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

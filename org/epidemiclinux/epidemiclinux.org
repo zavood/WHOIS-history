@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D136333178-LROR
+Domain Name:EPIDEMICLINUX.ORG
+Created On:02-Jan-2007 11:28:47 UTC
+Last Updated On:03-Jan-2011 18:03:05 UTC
+Expiration Date:02-Jan-2012 11:28:47 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:de8c031620fdfbcb
+Registrant Name:James  Benedito de Oliveira
+Registrant Organization:James Benedito de Oliveira
+Registrant Street1:Rua Tiete, no 81, Bairro Sao Matesus
+Registrant Street2:
+Registrant Street3:
+Registrant City:Juiz de Fora
+Registrant State/Province:
+Registrant Postal Code:36025-320
+Registrant Country:BR
+Registrant Phone:+1.3232321527
+Registrant Phone Ext.:
+Registrant FAX:+1.3232321527
+Registrant FAX Ext.:
+Registrant Email:jamesbenedito@gmail.com
+Admin ID:de8c031620fdfbcb
+Admin Name:James  Benedito de Oliveira
+Admin Organization:James Benedito de Oliveira
+Admin Street1:Rua Tiete, no 81, Bairro Sao Matesus
+Admin Street2:
+Admin Street3:
+Admin City:Juiz de Fora
+Admin State/Province:
+Admin Postal Code:36025-320
+Admin Country:BR
+Admin Phone:+1.3232321527
+Admin Phone Ext.:
+Admin FAX:+1.3232321527
+Admin FAX Ext.:
+Admin Email:jamesbenedito@gmail.com
+Tech ID:de8c031620fdfbcb
+Tech Name:James  Benedito de Oliveira
+Tech Organization:James Benedito de Oliveira
+Tech Street1:Rua Tiete, no 81, Bairro Sao Matesus
+Tech Street2:
+Tech Street3:
+Tech City:Juiz de Fora
+Tech State/Province:
+Tech Postal Code:36025-320
+Tech Country:BR
+Tech Phone:+1.3232321527
+Tech Phone Ext.:
+Tech FAX:+1.3232321527
+Tech FAX Ext.:
+Tech Email:jamesbenedito@gmail.com
+Name Server:NS1.AWARDSPACE.COM
+Name Server:NS2.AWARDSPACE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
