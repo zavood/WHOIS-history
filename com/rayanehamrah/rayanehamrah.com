@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 11-nov-2004
    Expiration Date: 11-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:58:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 00:49:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,40 +84,37 @@ Domain servers in listed order:
 	 ns40.parsdev.net 	 ns41.parsdev.net
 
 Administrator:
-	 name:(ariapake info tech)
-	Email:(a.m.vagheei@gmail.com) tel-- +98.9115131379
-	 ariapake co
-	 mashhad
-\r
-t mashhad
-khorasan,
-IR
+	 name: ariapake info tech
+ mail: a.m.vagheei@gmail.com tel: +98.9115131379
+	 org: ariapake co
 
- zipcode:91978
+address: mashhad
+	 city: mashhad
+,province: khorasan
+,country: IR
+ postcode: 91978
 
 Technical Contactor:
-	 name:(ariapake info tech)
-	Email:(a.m.vagheei@gmail.com) tel-- +98.9115131379
-	 ariapake co
-	 mashhad
-\r
-t mashhad
-khorasan,
-IR
+	 name: ariapake info tech
+ mail: a.m.vagheei@gmail.com tel: +98.9115131379
+	 org: ariapake co
 
- zipcode:91978
+address: mashhad
+	 city: mashhad
+,province: khorasan
+,country: IR
+ postcode: 91978
 
 Billing Contactor:
-	 name:(ariapake info tech)
-	Email:(a.m.vagheei@gmail.com) tel-- +98.9115131379
-	 ariapake co
-	 mashhad
-\r
-t mashhad
-khorasan,
-IR
+	 name: ariapake info tech
+ mail: a.m.vagheei@gmail.com tel: +98.9115131379
+	 org: ariapake co
 
- zipcode:91978
+address: mashhad
+	 city: mashhad
+,province: khorasan
+,country: IR
+ postcode: 91978
 
 
 Registration Service Provider:

@@ -1,0 +1,51 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       natmus.is
+descr:        &THORN;j&oacute;&eth;minjasafn &Iacute;slands
+descr:        Su&eth;urgata 43
+descr:        IS-101 Reykjav&iacute;k
+admin-c:      TI10-IS
+tech-c:       ITN3-IS
+zone-c:       IZ1-IS
+billing-c:    TI10-IS
+nserver:      ns0.c.is
+nserver:      ns1.c.is
+nserver:      ns2.c.is
+created:      November 18 1996
+expires:      November 18 2011
+source:       ISNIC
+
+role:         &THORN;j&oacute;&eth;minjasafn &Iacute;slands
+address:      b/t fj&aacute;rm&aacute;lastj&oacute;ra
+address:      Su&eth;urg&ouml;tu 43
+address:      IS-101 Reykjav&iacute;k
+phone:        +354 530 2200
+e-mail:       petursa@thjodminjasafn.is
+nic-hdl:      TI10-IS
+created:      September 30 2002
+source:       ISNIC
+
+role:         ITN Hostmaster
+address:      Fjarskiptaf&eacute;lagi&eth; T&iacute;tan
+address:      Borgart&uacute;ni 37
+address:      IS-105 Reykjav&iacute;k
+phone:        +354 512 9000
+e-mail:       nic@vodafone.is
+nic-hdl:      ITN3-IS
+created:      July 20 1999
+source:       ISNIC
+
+role:         ISLNET Zonemaster
+address:      Og Fjarskipti ehf
+address:      Sk&uacute;tuvogur 2
+address:      IS-104 Reykjav&iacute;k
+phone:        +354 599 9000
+e-mail:       nic@vodafone.is
+nic-hdl:      IZ1-IS
+created:      May 15 2003
+source:       ISNIC
+
+

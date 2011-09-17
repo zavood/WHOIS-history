@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 21:39:02 (BRT -03:00)
+
+domain:      mundi.com.br
+owner:       Mosaico Neg&oacute;cios de Internet S.A
+ownerid:     009.083.175/0001-84
+responsible: Guilherme Goulart Pacheco
+country:     BR
+owner-c:     GGP3
+admin-c:     GGP3
+tech-c:      RWM21
+billing-c:   PRIOL3
+nserver:     lola.ns.cloudflare.com
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     rob.ns.cloudflare.com
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     19970307 #32423
+expires:     20120307
+changed:     20110625
+status:      published
+
+nic-hdl-br:  GGP3
+person:      Guilherme Goulart Pacheco
+e-mail:      pacheco@mosaicointernet.com
+created:     19980406
+changed:     20110304
+
+nic-hdl-br:  PRIOL3
+person:      Paulo Roberto Ism&eacute;rio de Oliveira
+e-mail:      paulo.ismerio@mundi.com.br
+created:     20100823
+changed:     20100823
+
+nic-hdl-br:  RWM21
+person:      Roberto Wagner Ferreira Malta
+e-mail:      rmalta@gmail.com
+created:     20010820
+changed:     20090706
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

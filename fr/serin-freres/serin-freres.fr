@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; serin-freres.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      serin-freres.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SSF18-FRNIC
+admin-c:     RS2598-FRNIC
+tech-c:      CML29-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL7894-FRNIC
+registrar:   NAMESHIELD
+anniversary: 04/11
+created:     29/11/2001
+last-update: 15/06/2009
+source:      FRNIC
+
+ns-list:     NSL7894-FRNIC
+nserver:     observatoire.observatoiredesmarques.fr [62.93.195.146]
+nserver:     ns2.observatoiredesmarques.fr [80.74.69.8]
+nserver:     ns3.nameshield.net
+source:      FRNIC
+
+registrar:   NAMESHIELD
+type:        Isp Option 1
+address:     16 Rue de St P&eacute;tersbourg
+address:     PARIS
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      jpbechu@nameshield.net
+website:     http://www.nameshield.net
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     SSF18-FRNIC
+type:        ORGANIZATION
+contact:     SARL SERIN FRERES
+address:     30, route Espalion
+address:     12850 Onet-le-Ch&acirc;teau
+country:     FR
+phone:       +33 5 65 67 02 35
+fax-no:      +33 5 65 42 50 63
+e-mail:      serin.freres@wanadoo.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     RS2598-FRNIC
+type:        PERSON
+contact:     Rolland Serin
+address:     SARL SERIN FRERES
+address:     30, route espalion
+address:     12850 Onet-le-Ch&acirc;teau
+country:     FR
+phone:       +33 5 65 67 02 35
+fax-no:      +33 5 65 42 50 63
+e-mail:      serin.freres@wanadoo.fr
+changed:     15/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CML29-FRNIC
+type:        PERSON
+contact:     Creations Multimedia Laetis
+address:     LAETIS
+address:     place de l'eglise
+address:     12120 Arvieu
+country:     FR
+phone:       +33 5 65 74 70 97
+fax-no:      +33 5 65 74 70 98
+e-mail:      dns@laetis.fr
+changed:     02/06/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

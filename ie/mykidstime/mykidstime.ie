@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      mykidstime.ie
+descr:       Jill Holtz
+descr:       Sole Trader
+descr:       Registered Business Name
+admin-c:     ACP924-IEDR
+tech-c:      AAM456-IEDR
+renewal:     26-October-2011
+status:      Active
+nserver:     ns1.blacknight.com
+nserver:     ns2.blacknight.com
+source:      IEDR
+
+person:      Jill Holtz
+nic-hdl:     ACP924-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+

@@ -1,0 +1,45 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-16 21:40:36 (BRT -03:00)
+
+domain:      monst3r.com.br
+owner:       Marcos Felipe Tonelli de Carvalho
+ownerid:     336.309.448-50
+country:     BR
+owner-c:     MFTCA
+admin-c:     MFTCA
+tech-c:      MFTCA
+billing-c:   MFTCA
+nserver:     ns1.dominios.uol.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.dominios.uol.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.dominios.uol.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20100421 #6785021
+expires:     20120421
+changed:     20110322
+status:      published
+
+nic-hdl-br:  MFTCA
+person:      Marcos Felipe Tonelli de Carvalho
+e-mail:      mfelipe@gmail.com
+created:     20060828
+changed:     20060828
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

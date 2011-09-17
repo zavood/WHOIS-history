@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D84174061-LROR
+Domain Name:STMARYCH.ORG
+Created On:04-Mar-2002 19:00:08 UTC
+Last Updated On:08-Mar-2007 17:07:07 UTC
+Expiration Date:04-Mar-2012 19:00:08 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:B999405BFAABC5B1
+Registrant Name:St. Mary\\\\\\\'s Catholic Church
+Registrant Organization:St. Mary\\\\\\\'s Catholic Church
+Registrant Street1:727 South Travis
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sherm
+Registrant State/Province:Texas
+Registrant Postal Code:75090
+Registrant Country:US
+Registrant Phone:+1.7044503702
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain_admin@onednr.com
+Admin ID:A03D5B03C66268BE
+Admin Name:Lisa Lin
+Admin Organization:St. Mary\\\\\\\'s Catholic Church
+Admin Street1:727 South Travis
+Admin Street2:
+Admin Street3:
+Admin City:Sherm
+Admin State/Province:Texas
+Admin Postal Code:75090
+Admin Country:US
+Admin Phone:+1.9038935148
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domain_admin@onednr.com
+Tech ID:61194BB8E4534C2E
+Tech Name:Tem Balanco
+Tech Organization:OneDNR.com - #1 Domain Name
+Tech Street1:1414 K Street, Suite #701
+Tech Street2:
+Tech Street3:
+Tech City:Sacramento
+Tech State/Province:CA
+Tech Postal Code:95814
+Tech Country:US
+Tech Phone:+1.8883141925
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@onednr.com
+Name Server:NS1.EXTRASECURITY.COM
+Name Server:NS0.EXTRASECURITY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

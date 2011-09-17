@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D87422299-LROR
+Domain Name:SEATTLECHINESESCHOOL.ORG
+Created On:11-Jun-2002 05:11:36 UTC
+Last Updated On:25-May-2010 06:09:46 UTC
+Expiration Date:11-Jun-2012 05:11:36 UTC
+Sponsoring Registrar:Domain Registration Services, Inc. dba dotEarth.com (R32-LROR)
+Status:OK
+Registrant ID:C23943-ORG-0
+Registrant Name:Seattle Chinese School
+Registrant Organization:Seattle Chinese School
+Registrant Street1:2907 173rd CT NE
+Registrant Street2:
+Registrant Street3:
+Registrant City:Redmond
+Registrant State/Province:WA
+Registrant Postal Code:98052
+Registrant Country:US
+Registrant Phone:+1.4258618188
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jaylin77@hotmail.com
+Admin ID:C27326-ORG-Q
+Admin Name:Lin, Jay
+Admin Organization:Seattle Chinese School
+Admin Street1:2907 173rd CT NE
+Admin Street2:
+Admin Street3:
+Admin City:Redmond
+Admin State/Province:WA
+Admin Postal Code:98052
+Admin Country:US
+Admin Phone:+1.4258618188
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jaylin77@hotmail.com
+Tech ID:C30709-ORG-I
+Tech Name:Lin, Jay
+Tech Organization:Seattle Chinese School
+Tech Street1:2907 173rd CT NE
+Tech Street2:
+Tech Street3:
+Tech City:Redmond
+Tech State/Province:WA
+Tech Postal Code:98052
+Tech Country:US
+Tech Phone:+1.4258618188
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jaylin77@hotmail.com
+Name Server:NS1.WEBHOST4LIFE.COM
+Name Server:NS2.WEBHOST4LIFE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

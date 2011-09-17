@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157264482-LROR
+Domain Name:PEACEFORUMTEACHIN.ORG
+Created On:05-Oct-2009 00:35:50 UTC
+Last Updated On:05-Oct-2010 01:22:24 UTC
+Expiration Date:05-Oct-2011 00:35:50 UTC
+Sponsoring Registrar:FastDomain Inc. (R1455-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:FAST-14001147
+Registrant Name:Gary Cristall
+Registrant Street1:PO Box 21547- 1424 Commercial Dr.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Vancouver
+Registrant State/Province:British Columbia
+Registrant Postal Code:V5L 5G2
+Registrant Country:CA
+Registrant Phone:+1.6042159077
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:garycristall@telus.net
+Admin ID:FAST-14001147
+Admin Name:Gary Cristall
+Admin Street1:PO Box 21547- 1424 Commercial Dr.
+Admin Street2:
+Admin Street3:
+Admin City:Vancouver
+Admin State/Province:British Columbia
+Admin Postal Code:V5L 5G2
+Admin Country:CA
+Admin Phone:+1.6042159077
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:garycristall@telus.net
+Tech ID:FAST-12785242
+Tech Name:Bluehost Inc
+Tech Organization:Bluehost.com
+Tech Street1:1958 South 950 East
+Tech Street2:
+Tech Street3:
+Tech City:Provo
+Tech State/Province:Utah
+Tech Postal Code:84606
+Tech Country:US
+Tech Phone:+1.8017659400
+Tech Phone Ext.:
+Tech FAX:+1.8017651992
+Tech FAX Ext.:
+Tech Email:whois@bluehost.com
+Name Server:NS1.BLUEHOST.COM
+Name Server:NS2.BLUEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

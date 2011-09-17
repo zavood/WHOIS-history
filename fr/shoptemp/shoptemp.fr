@@ -1,0 +1,80 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; shoptemp.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      shoptemp.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    T4776-FRNIC
+admin-c:     T4776-FRNIC
+tech-c:      GI18-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL21954-FRNIC
+registrar:   KEY-SYSTEMS GmbH
+anniversary: 18/05
+created:     18/05/2010
+last-update: 08/06/2011
+source:      FRNIC
+
+ns-list:     NSL21954-FRNIC
+nserver:     ns1.panelboxmanager.com
+nserver:     ns2.panelboxmanager.com
+source:      FRNIC
+
+registrar:   KEY-SYSTEMS GmbH
+type:        Isp Option 1
+address:     Im Oberen Werk 1
+address:     DE-66386 ST. INGBERT
+country:     DE
+phone:       +49 (0) 68 94 93 96 850
+fax-no:      +49 (0) 68 94 93 96 851
+e-mail:      info@key-systems.net
+website:     http://www.key-systems.net
+anonymous:   NO
+registered:  25/07/2006
+source:      FRNIC
+
+nic-hdl:     T4776-FRNIC
+type:        ORGANIZATION
+contact:     TheFlyingMedia
+address:     TheFlyingMedia
+address:     81, rue Reaumur
+address:     75002 Paris
+country:     FR
+phone:       +33 1 83 62 30 29
+fax-no:      +33 1 83 62 30 89
+e-mail:      contact@theflyingmedia.com
+changed:     27/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GI18-FRNIC
+type:        ORGANIZATION
+contact:     GoDaddy.com, Inc.
+address:     GoDaddy.com, Inc.
+address:     14455, numero  Hayden route departementale #219,
+address:     85260 Scottsdale
+country:     US
+phone:       +1 4805058800
+e-mail:      cctldinfo@godaddy.com
+changed:     15/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+

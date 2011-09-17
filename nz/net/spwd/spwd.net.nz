@@ -1,0 +1,65 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-17T12:43:20+12:00
+domain_name: spwd.net.nz
+query_status: 200 Active
+domain_dateregistered: 2004-08-06T11:04:03+12:00
+domain_datebilleduntil: 2012-08-06T11:04:03+12:00
+domain_datelastmodified: 2011-07-18T18:15:07+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: DiscountDomains.co.nz
+registrar_address1: P O Box 25-129
+registrar_city: Christchurch
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 3 961 9554
+registrar_fax: +64 3 961 9553
+registrar_email: admin@discountdomains.co.nz
+%
+registrant_contact_name: Spyders Play Web Design
+registrant_contact_address1: PO Box 14-614
+registrant_contact_address2: Panmure
+registrant_contact_city: Auckland
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 9 5709050
+registrant_contact_email: domains@spwd.co.nz
+%
+admin_contact_name: Spyders Play Web Design
+admin_contact_address1: PO Box 14-614
+admin_contact_address2: Panmure
+admin_contact_city: Auckland
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 9 5709050
+admin_contact_email: domains@spwd.co.nz
+%
+technical_contact_name: Spyders Play Web Design
+technical_contact_address1: PO Box 14-614
+technical_contact_address2: Panmure
+technical_contact_city: Auckland
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 9 5709050
+technical_contact_email: domains@spwd.co.nz
+%
+ns_ip4_01: 67.18.207.237
+ns_name_01: ns1.spwd.net.nz
+ns_ip4_02: 67.18.207.253
+ns_name_02: ns2.spwd.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

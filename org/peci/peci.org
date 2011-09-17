@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D901689-LROR
+Domain Name:PECI.ORG
+Created On:07-Jan-1998 05:00:00 UTC
+Last Updated On:11-Dec-2009 16:47:21 UTC
+Expiration Date:06-Jan-2012 05:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tucpqHrEICJnsmxE
+Registrant Name:Domain Administration
+Registrant Organization:Portland Energy Conservation Inc.
+Registrant Street1:1400 SW 5th Ave
+Registrant Street2:Suite 700
+Registrant Street3:
+Registrant City:Portland
+Registrant State/Province:OR
+Registrant Postal Code:97201
+Registrant Country:US
+Registrant Phone:+1.5032484636
+Registrant Phone Ext.:
+Registrant FAX:+1.5032950820
+Registrant FAX Ext.:
+Registrant Email:helpdesk@peci.org
+Admin ID:turxSXDroNSznwHw
+Admin Name:Domain Administration
+Admin Organization:Portland Energy Conservation Inc.
+Admin Street1:1400 SW 5th Ave
+Admin Street2:Suite 700
+Admin Street3:
+Admin City:Portland
+Admin State/Province:OR
+Admin Postal Code:97201
+Admin Country:US
+Admin Phone:+1.5032484636
+Admin Phone Ext.:
+Admin FAX:+1.5032950820
+Admin FAX Ext.:
+Admin Email:helpdesk@peci.org
+Tech ID:tulGEiEUetjwwr6R
+Tech Name:Domain Administration
+Tech Organization:Portland Energy Conservation Inc.
+Tech Street1:1400 SW 5th Ave
+Tech Street2:Suite 700
+Tech Street3:
+Tech City:Portland
+Tech State/Province:OR
+Tech Postal Code:97201
+Tech Country:US
+Tech Phone:+1.5032484636
+Tech Phone Ext.:
+Tech FAX:+1.5032950820
+Tech FAX Ext.:
+Tech Email:helpdesk@peci.org
+Name Server:NS3.NO-IP.COM
+Name Server:NS2.NO-IP.COM
+Name Server:NS1.NO-IP.COM
+Name Server:NS4.NO-IP.COM
+Name Server:NS5.NO-IP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

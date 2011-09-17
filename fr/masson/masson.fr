@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; masson.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      masson.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    M3215-FRNIC
+admin-c:     MCD25-FRNIC
+tech-c:      IC2-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL4266-FRNIC
+registrar:   INDOM
+anniversary: 12/11
+created:     29/08/1996
+last-update: 18/05/2009
+source:      FRNIC
+
+ns-list:     NSL4266-FRNIC
+nserver:     indom10.indomco.com
+nserver:     indom20.indomco.net
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     IC2-FRNIC
+type:        ROLE
+contact:     INDOM Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+e-mail:      indom@indom.com
+admin-c:     SVG1-FRNIC
+tech-c:      PVG2-FRNIC
+changed:     18/12/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MCD25-FRNIC
+type:        PERSON
+contact:     Marie Collart Dutilleul
+address:     MASSON SAS
+address:     21, rue Camille Desmoulins
+address:     92130 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 73 28 16 30
+fax-no:      +33 1 73 28 18 58
+e-mail:      admin.domaines@masson.fr
+changed:     25/11/2005 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     M3215-FRNIC
+type:        ORGANIZATION
+contact:     MASSON
+address:     Direction Juridique
+address:     21, rue Camille Desmoulins
+address:     92130 Issy-les-Moulineaux
+country:     FR
+phone:       +33 1 73 28 18 30
+fax-no:      +33 1 73 28 18 69
+e-mail:      admin.domaines@masson.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

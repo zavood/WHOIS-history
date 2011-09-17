@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 15-may-2001
    Expiration Date: 15-may-2017
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:00:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 00:58:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,6 +69,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: stlukescatholic.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 15:51:38 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Fri Sep 16 20:49:25 EDT 2011
 Reason Code: IE

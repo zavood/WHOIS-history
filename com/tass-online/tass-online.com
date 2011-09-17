@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 13-feb-2004
    Expiration Date: 13-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:15:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 01:01:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -89,5 +89,5 @@ Contact E-mail:          contact@itar-tass.com
 
 Registrar:               Regional Network Information Center, JSC dba RU-CENTER
 
-Last updated on 2011.09.11 11:16:32 MSK/MSD
+Last updated on 2011.09.17 05:02:32 MSK/MSD
 

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149477462-LROR
+Domain Name:OURCHILDRENSACADEMY.ORG
+Created On:23-Oct-2007 04:21:33 UTC
+Last Updated On:19-May-2011 00:47:03 UTC
+Expiration Date:23-Oct-2011 04:21:33 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32129156
+Registrant Name:Wentzel Coetzer
+Registrant Street1:PO Box 671
+Registrant Street2:
+Registrant Street3:
+Registrant City:Surfers Paradise
+Registrant State/Province:Queensland
+Registrant Postal Code:4217
+Registrant Country:AU
+Registrant Phone:+61.413210324
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:wentzel.coetzer@gmail.com
+Admin ID:CR32129160
+Admin Name:Wentzel Coetzer
+Admin Street1:PO Box 671
+Admin Street2:
+Admin Street3:
+Admin City:Surfers Paradise
+Admin State/Province:Queensland
+Admin Postal Code:4217
+Admin Country:AU
+Admin Phone:+61.413210324
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:wentzel.coetzer@gmail.com
+Tech ID:CR32129157
+Tech Name:Wentzel Coetzer
+Tech Street1:PO Box 671
+Tech Street2:
+Tech Street3:
+Tech City:Surfers Paradise
+Tech State/Province:Queensland
+Tech Postal Code:4217
+Tech Country:AU
+Tech Phone:+61.413210324
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:wentzel.coetzer@gmail.com
+Name Server:NS1.CYNTHIACOETZER.COM
+Name Server:NS2.CYNTHIACOETZER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

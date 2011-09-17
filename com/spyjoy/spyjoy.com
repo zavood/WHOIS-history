@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 28-mar-2006
    Expiration Date: 28-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 12:56:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 00:56:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,37 +84,28 @@ Domain servers in listed order:
 	 ns5.public-ns.com 	 ns6.public-ns.com
 
 Administrator:
-	 name: Dino M. Overby
- mail: michaelprinc@gmail.com tel: +1.8172587319
+	 Name-- Dino M. Overby
+ EMail-: (michaelprinc@gmail.com)
+ tel --: +1.8172587319
 	 org: TraCO
-
-address: 3081 Loving Acres Road
-	 city: Fort Worth
-,province: -
-,country: US
- postcode: 76102
+	 3081 Loving Acres Road
+	 Fort Worth,-,US 76102
 
 Technical Contactor:
-	 name: Dino M. Overby
- mail: michaelprinc@gmail.com tel: +1.8172587319
+	 Name-- Dino M. Overby
+ EMail-: (michaelprinc@gmail.com)
+ tel --: +1.8172587319
 	 org: TraCO
-
-address: 3081 Loving Acres Road
-	 city: Fort Worth
-,province: -
-,country: US
- postcode: 76102
+	 3081 Loving Acres Road
+	 Fort Worth,-,US 76102
 
 Billing Contactor:
-	 name: Dino M. Overby
- mail: michaelprinc@gmail.com tel: +1.8172587319
+	 Name-- Dino M. Overby
+ EMail-: (michaelprinc@gmail.com)
+ tel --: +1.8172587319
 	 org: TraCO
-
-address: 3081 Loving Acres Road
-	 city: Fort Worth
-,province: -
-,country: US
- postcode: 76102
+	 3081 Loving Acres Road
+	 Fort Worth,-,US 76102
 
 
 Registration Service Provider:
