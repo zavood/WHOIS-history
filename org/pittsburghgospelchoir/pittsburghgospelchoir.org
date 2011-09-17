@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152461590-LROR
+Domain Name:PITTSBURGHGOSPELCHOIR.ORG
+Created On:18-Apr-2008 18:01:25 UTC
+Last Updated On:03-Mar-2011 19:21:10 UTC
+Expiration Date:18-Apr-2012 18:01:25 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR35566341
+Registrant Name:Joseph Zuback
+Registrant Organization:River City Brass
+Registrant Street1:500 Grant Street Ste 2720
+Registrant Street2:
+Registrant Street3:
+Registrant City:Pittsburgh
+Registrant State/Province:Pennsylvania
+Registrant Postal Code:15219
+Registrant Country:US
+Registrant Phone:+1.4124347222
+Registrant Phone Ext.:
+Registrant FAX:+1.4122359015
+Registrant FAX Ext.:
+Registrant Email:jzuback@rivercitybrass.org
+Admin ID:CR35566343
+Admin Name:Joseph Zuback
+Admin Organization:River City Brass
+Admin Street1:500 Grant Street Ste 2720
+Admin Street2:
+Admin Street3:
+Admin City:Pittsburgh
+Admin State/Province:Pennsylvania
+Admin Postal Code:15219
+Admin Country:US
+Admin Phone:+1.4124347222
+Admin Phone Ext.:
+Admin FAX:+1.4122359015
+Admin FAX Ext.:
+Admin Email:jzuback@rivercitybrass.org
+Tech ID:CR35566342
+Tech Name:Joseph Zuback
+Tech Organization:River City Brass
+Tech Street1:500 Grant Street Ste 2720
+Tech Street2:
+Tech Street3:
+Tech City:Pittsburgh
+Tech State/Province:Pennsylvania
+Tech Postal Code:15219
+Tech Country:US
+Tech Phone:+1.4124347222
+Tech Phone Ext.:
+Tech FAX:+1.4122359015
+Tech FAX Ext.:
+Tech Email:jzuback@rivercitybrass.org
+Name Server:NS1.HOSTMONSTER.COM
+Name Server:NS2.HOSTMONSTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

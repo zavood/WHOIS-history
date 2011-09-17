@@ -12,11 +12,11 @@ for detailed information.
    Name Server: DOMAIN3.EXPIREDNS.COM
    Name Server: DOMAIN4.EXPIREDNS.COM
    Status: clientRenewProhibited
-   Updated Date: 12-sep-2011
+   Updated Date: 17-sep-2011
    Creation Date: 25-aug-2003
    Expiration Date: 25-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 06:11:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 16:22:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

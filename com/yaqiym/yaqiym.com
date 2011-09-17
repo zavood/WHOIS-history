@@ -15,7 +15,7 @@ for detailed information.
    Creation Date: 02-jul-2010
    Expiration Date: 02-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 18:41:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 16:10:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,4 +52,4 @@ The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 NO DOMAIN (1)
 
-Cached on: 2011-09-15T12:41:56-06:00
+Cached on: 2011-09-17T10:10:48-06:00

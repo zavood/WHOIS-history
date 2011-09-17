@@ -1,0 +1,91 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; egide.asso.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      egide.asso.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    E9388-FRNIC
+admin-c:     HR1006-FRNIC
+tech-c:      DTC12-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL4732-FRNIC
+registrar:   MELBOURNE IT CBS AB
+anniversary: 17/05
+created:     31/12/1999
+last-update: 18/08/2011
+source:      FRNIC
+
+ns-list:     NSL4732-FRNIC
+nserver:     ns0.ornis.net
+nserver:     ns1.ornis.net
+source:      FRNIC
+
+registrar:   MELBOURNE IT CBS AB
+type:        Isp Option 1
+address:     Box 3396
+address:     10368 STOCKHOLM
+country:     SE
+phone:       +46 8 553 402 00
+fax-no:      +46 8 553 402 01
+e-mail:      registry@melbourneitcbs.fr
+website:     http://www.melbourneitcbs.fr/
+anonymous:   NO
+registered:  29/11/2004
+source:      FRNIC
+
+nic-hdl:     E9388-FRNIC
+type:        ORGANIZATION
+contact:     EGIDE
+address:     28, rue de la Grange aux Belles
+address:     75010 Paris
+country:     FR
+phone:       +33 1 40 40 59 71
+e-mail:      hafid.ramdani@egide.asso.fr
+changed:     07/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     HR1006-FRNIC
+type:        PERSON
+contact:     Hafid Ramdani
+address:     EGIDE
+address:     28, rue de la Grange aux Belles
+address:     75010 Paris
+country:     FR
+phone:       +33 1 40 40 59 71
+e-mail:      hafid.ramdani@egide.asso.fr
+changed:     16/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DTC12-FRNIC
+type:        PERSON
+contact:     Domains Technical Contact
+address:     RISC GROUP IT Solutions
+address:     24-26, quai Alphonse le Gallo
+address:     92100 Boulogne-Billancourt
+country:     FR
+phone:       +33 1 56 37 73 73
+e-mail:      noc-dns@risc-group.com
+changed:     14/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

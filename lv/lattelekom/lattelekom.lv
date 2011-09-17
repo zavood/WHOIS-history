@@ -1,0 +1,35 @@
+[Domain]
+Domain: lattelekom.lv
+Status: active
+Changed: 2009-03-25T13:35:17+02:00
+
+[Holder]
+Type: Legal person
+Name: Lattelecom, SIA
+Email: laura.boroduska@lattelecom.lv
+Phone: 67051152
+Address: Lattelecom Gramatvedibas Norekinu grupai, G.Astras iela 2, Riga, Latvija
+RegNr: 40003052786
+
+[Tech]
+Type: Natural person
+Email: web@apollo.lv
+Fax: +371-67050114
+Phone: 177
+
+[Registrar]
+Type: Legal person
+Name: Lattelecom, SIA
+Email: dns.apollo@lattelecom.lv
+Fax: +371-67055774
+Phone: +371 67324799
+Address: Lattelecom Gramatvedibas Norekinu grupai, G.Astras iela 2, Riga, Latvija
+RegNr: 40003052786
+
+[Nservers]
+Nserver: ns.rig.tkom.lv
+Nserver: ns2.rig.tkom.lv
+Nserver: ns10.lattelekom.net
+
+[Whois]
+Updated: 2011-09-17T11:12:24.761060+00:00

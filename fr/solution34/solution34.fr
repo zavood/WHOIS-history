@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; solution34.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      solution34.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SESI9-FRNIC
+admin-c:     ACSE515-FRNIC
+tech-c:      DA242-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2363-FRNIC
+registrar:   GANDI
+anniversary: 19/05
+created:     19/05/2008
+last-update: 26/06/2008
+source:      FRNIC
+
+ns-list:     NSL2363-FRNIC
+nserver:     ns1.systemanetwork.net
+nserver:     ns2.systemanetwork.net
+nserver:     ns3.systemanetwork.net
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     SESI9-FRNIC
+type:        ORGANIZATION
+contact:     SOLUTIONS ET SERVICES INFORMATIQUES ET INTERNET
+address:     24, rue de la Foret Noire
+address:     34080 Montpellier
+country:     FR
+phone:       +33 8 25 67 66 76
+e-mail:      contact@2s-2i.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ACSE515-FRNIC
+type:        PERSON
+contact:     admin-c SOLUTIONS ET SERVICES INFORMATIQUES ET INTERNET
+address:     24, rue de la Foret Noire
+address:     34080 Montpellier
+country:     FR
+phone:       +33 8 25 67 66 76
+e-mail:      contact@2s-2i.fr
+changed:     19/05/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DA242-FRNIC
+type:        ROLE
+contact:     DNS Admin
+address:     SYSTEMA NETWORK
+address:     16, rue Grange Dame Rose
+address:     78140 V&eacute;lizy-Villacoublay
+country:     FR
+phone:       +33 8 25 67 66 76
+e-mail:      dnsadmin@systemanetwork.com
+trouble:     Informations : http://www.mondomaine.fr
+trouble:     Questions : mailto:info@mondomaine.fr
+trouble:     Informations : http://www.systemanetwork.com
+trouble:     Questions : mailto:info@systemanetwork.com
+admin-c:     JB377-FRNIC
+admin-c:     MM338-FRNIC
+tech-c:      JB377-FRNIC
+tech-c:      DD2015-FRNIC
+notify:      dnsadmin@systemanetwork.com
+changed:     03/01/2008 dnsadmin@systemanetwork.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

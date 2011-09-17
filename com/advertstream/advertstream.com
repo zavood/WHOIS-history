@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 26-nov-2000
    Expiration Date: 26-nov-2013
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 09:22:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 16:24:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,7 +75,7 @@ Registrars.
 # Pour obtenir les informations en status 'Protected by policy', contactez
 # directement le registre concerne (Eurid, AFNIC)
 #
-# 2011-09-16 11:22:50 CEST
+# 2011-09-17 18:25:23 CEST
 
 domain: advertstream.com
 reg_created: 2000-11-26 12:31:51

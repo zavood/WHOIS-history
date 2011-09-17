@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156092971-LROR
+Domain Name:EMIGRANT1.ORG
+Created On:09-May-2009 15:25:28 UTC
+Last Updated On:24-Apr-2011 12:51:29 UTC
+Expiration Date:09-May-2012 15:25:28 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuNFpV8F62lDug4u
+Registrant Name:Rolf H. Reierskog
+Registrant Organization:Rolf H. Reierskog
+Registrant Street1:P.O.Box 363
+Registrant Street2:
+Registrant Street3:
+Registrant City:Dumaguete
+Registrant State/Province:XX
+Registrant Postal Code:6200
+Registrant Country:PH
+Registrant Phone:+63.352255980
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:newdomains@siteground.com
+Admin ID:tuyxEy16wwRdcXFs
+Admin Name:Rolf H. Reierskog
+Admin Organization:Rolf H. Reierskog
+Admin Street1:P.O.Box 363
+Admin Street2:
+Admin Street3:
+Admin City:Dumaguete
+Admin State/Province:XX
+Admin Postal Code:6200
+Admin Country:PH
+Admin Phone:+63.352255980
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:newdomains@siteground.com
+Tech ID:tuG7vxxbQ2OKRXon
+Tech Name:Rolf H. Reierskog
+Tech Organization:Rolf H. Reierskog
+Tech Street1:P.O.Box 363
+Tech Street2:
+Tech Street3:
+Tech City:Dumaguete
+Tech State/Province:XX
+Tech Postal Code:6200
+Tech Country:PH
+Tech Phone:+63.352255980
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:newdomains@siteground.com
+Name Server:NS455.WEBSITEWELCOME.COM
+Name Server:NS456.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
