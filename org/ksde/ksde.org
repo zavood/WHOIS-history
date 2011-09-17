@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D33663518-LROR
+Domain Name:KSDE.ORG
+Created On:28-Aug-2000 20:08:16 UTC
+Last Updated On:08-Aug-2007 15:49:53 UTC
+Expiration Date:28-Aug-2012 20:08:16 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20107355-NSI
+Registrant Name:KansasStateDepartment of Education
+Registrant Organization:KansasStateDepartment of Education
+Registrant Street1:120 S.E. 10th Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Topeka
+Registrant State/Province:KS
+Registrant Postal Code:66612
+Registrant Country:US
+Registrant Phone:+1.7852967931
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:Stayani@KSBE.STATE.KS.US
+Admin ID:25241183-NSI
+Admin Name:Kathy Gosa
+Admin Organization:KS State Dept. of Ed.
+Admin Street1:120 SE 10th Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Topeka
+Admin State/Province:KS
+Admin Postal Code:66612
+Admin Country:US
+Admin Phone:+1.785296793
+Admin Phone Ext.:
+Admin FAX:+1.785296141
+Admin FAX Ext.:
+Admin Email:czeller@ksde.org
+Tech ID:25241183-NSI
+Tech Name:Kathy Gosa
+Tech Organization:KS State Dept. of Ed.
+Tech Street1:120 SE 10th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Topeka
+Tech State/Province:KS
+Tech Postal Code:66612
+Tech Country:US
+Tech Phone:+1.785296793
+Tech Phone Ext.:
+Tech FAX:+1.785296141
+Tech FAX Ext.:
+Tech Email:czeller@ksde.org
+Name Server:KS01.STATE.KS.US
+Name Server:NS1.KSDE.ORG
+Name Server:NS2.KSDE.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

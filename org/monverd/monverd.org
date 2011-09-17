@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155661804-LROR
+Domain Name:MONVERD.ORG
+Created On:20-Mar-2009 05:40:14 UTC
+Last Updated On:23-Feb-2011 13:23:01 UTC
+Expiration Date:20-Mar-2012 05:40:14 UTC
+Sponsoring Registrar:Arsys Internet, S.L. dba nicline.com (R144-LROR)
+Status:OK
+Registrant ID:ARS1237527593322
+Registrant Name:JordiSerraMolgo
+Registrant Organization:NULL
+Registrant Street1:DiagonalFivaller16,3-B
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cardedeu
+Registrant State/Province:Barcelona
+Registrant Postal Code:08440
+Registrant Country:ES
+Registrant Phone:+34.902364151
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jordi@artifecs.com
+Admin ID:ARS1237527593572
+Admin Name:JordiSerraMolgo
+Admin Organization:JordiSerraMolgo
+Admin Street1:DiagonalFivaller16,3-B
+Admin Street2:
+Admin Street3:
+Admin City:Cardedeu
+Admin State/Province:Barcelona
+Admin Postal Code:08440
+Admin Country:ES
+Admin Phone:+34.902364151
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jordi@artifecs.com
+Tech ID:ARS1172176380640
+Tech Name:DHAP CENTER SL
+Tech Organization:NULL
+Tech Street1:REY DON JAIME, 16
+Tech Street2:
+Tech Street3:
+Tech City:PATERNA
+Tech State/Province:VALENCIA
+Tech Postal Code:46980
+Tech Country:ES
+Tech Phone:+34.902364151
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dominios@dhapcenter.es
+Name Server:NS1.CDMON.NET
+Name Server:NS2.CDMON.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

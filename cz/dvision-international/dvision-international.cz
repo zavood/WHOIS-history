@@ -1,0 +1,74 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sat Sep 17 05:22:59 2011
+
+domain:       dvision-international.cz
+registrant:   CHNATIG32647
+admin-c:      SB:HOSTINGLINE001
+nsset:        NSS:HOSTINGLINE001:1
+registrar:    REG-GENREG
+status:       paid and in zone
+registered:   21.09.2010 11:53:13
+expire:       21.09.2012
+
+contact:      CHNATIG32647
+org:          DVISION Intarnational s.r.o
+name:         Aghayev Natig
+address:      Slavojova 108/8
+address:      Praha 2 - Nusle
+address:      128 00
+address:      CZ
+phone:        +420.773545384
+e-mail:       it@vaclavak.ru
+registrar:    REG-GENREG
+created:      21.09.2010 11:53:10
+
+contact:      SB:HOSTINGLINE001
+org:          THINline interactive s.r.o.
+name:         THINline interactive s.r.o.
+address:      N&Atilde;&iexcl;dra&Aring;&frac34;n&Atilde;&shy; 42/82
+address:      Praha 5
+address:      15000
+address:      CZ
+e-mail:       podpora@cesky-hosting.cz
+registrar:    REG-GENREG
+created:      11.07.2003 20:31:00
+changed:      01.10.2007 11:30:03
+
+nsset:        NSS:HOSTINGLINE001:1
+nserver:      ns2.thinline.cz (82.208.47.2)
+nserver:      ns1.thinline.cz (88.146.119.40)
+tech-c:       MATKLOUB
+tech-c:       SB:HOSTINGLINE001
+registrar:    REG-GENREG
+created:      01.10.2007 02:00:00
+
+contact:      MATKLOUB
+name:         Matej Kloubek
+address:      Nadrazni 42/82
+address:      Praha 5
+address:      15000
+address:      CZ
+phone:        +420.777811029
+e-mail:       podpora@cesky-hosting.cz
+registrar:    REG-GENREG
+created:      11.07.2003 20:11:00
+changed:      26.09.2007 11:35:00
+
+

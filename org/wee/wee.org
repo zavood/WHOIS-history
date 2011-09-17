@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D411821-LROR
+Domain Name:WEE.ORG
+Created On:28-Jan-1996 05:00:00 UTC
+Last Updated On:30-Jan-2011 01:22:37 UTC
+Expiration Date:29-Jan-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:24164531-NSI
+Registrant Name:Wee Orgs
+Registrant Organization:Wee Orgs
+Registrant Street1:40 Hayfields
+Registrant Street2:
+Registrant Street3:
+Registrant City:Portola Valley
+Registrant State/Province:CA
+Registrant Postal Code:94028
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nicinbox@WEE.COM
+Admin ID:6143680-NSI
+Admin Name:Jay Verkler
+Admin Organization:Verkler Group
+Admin Street1:565 16th Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Salt Lake City
+Admin State/Province:UT
+Admin Postal Code:84103
+Admin Country:US
+Admin Phone:+1.8013209595
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nicinbox5@summit8.net
+Tech ID:6143680-NSI
+Tech Name:Jay Verkler
+Tech Organization:Verkler Group
+Tech Street1:565 16th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Salt Lake City
+Tech State/Province:UT
+Tech Postal Code:84103
+Tech Country:US
+Tech Phone:+1.8013209595
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:nicinbox5@summit8.net
+Name Server:NS1.WEE.ORG
+Name Server:NS2.WEE.ORG
+Name Server:NS5.WEE.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

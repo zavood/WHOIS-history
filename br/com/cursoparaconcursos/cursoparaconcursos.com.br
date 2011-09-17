@@ -1,0 +1,52 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 00:07:18 (BRT -03:00)
+
+domain:      cursoparaconcursos.com.br
+owner:       FONTE ADMIN. DE CURSOS TELEPRESENCIAIS LTDA
+ownerid:     007.192.580/0001-05
+responsible: Francisco Fontenele
+country:     BR
+owner-c:     FRF239
+admin-c:     FRF239
+tech-c:      AVN32
+billing-c:   AVN32
+nserver:     ns1.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.locaweb.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20051119 #2475404
+expires:     20111119
+changed:     20100806
+status:      published
+
+nic-hdl-br:  AVN32
+person:      Alessandro do Valle Nunes
+e-mail:      alessandronunes@gmail.com
+created:     20020723
+changed:     20080528
+
+nic-hdl-br:  FRF239
+person:      Francisco Fontenele
+e-mail:      fontenele@cursoparaconcursos.com.br
+created:     20051116
+changed:     20080418
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

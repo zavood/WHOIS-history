@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D134030068-LROR
+Domain Name:EWML.ORG
+Created On:30-Nov-2006 14:01:03 UTC
+Last Updated On:21-Jul-2011 19:22:25 UTC
+Expiration Date:30-Nov-2011 14:01:03 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR88769826
+Registrant Name:Town Monroe
+Registrant Organization:Town of Monroe
+Registrant Street1:7 Fan Hill Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Monroe
+Registrant State/Province:Connecticut
+Registrant Postal Code:06468
+Registrant Country:US
+Registrant Phone:+1.2034522879
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:accounts@monroeps.org
+Admin ID:CR88769844
+Admin Name:Town Monroe
+Admin Organization:Town of Monroe
+Admin Street1:7 Fan Hill Rd
+Admin Street2:
+Admin Street3:
+Admin City:Monroe
+Admin State/Province:Connecticut
+Admin Postal Code:06468
+Admin Country:US
+Admin Phone:+1.2034522879
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:accounts@monroeps.org
+Tech ID:CR88769836
+Tech Name:Town Monroe
+Tech Organization:Town of Monroe
+Tech Street1:7 Fan Hill Rd
+Tech Street2:
+Tech Street3:
+Tech City:Monroe
+Tech State/Province:Connecticut
+Tech Postal Code:06468
+Tech Country:US
+Tech Phone:+1.2034522879
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:accounts@monroeps.org
+Name Server:CENDNS1.CEN.CT.GOV
+Name Server:CENDNS2.CEN.CT.GOV
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

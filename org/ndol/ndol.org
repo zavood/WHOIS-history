@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D19657260-LROR
+Domain Name:NDOL.ORG
+Created On:11-Feb-2000 16:40:22 UTC
+Last Updated On:28-Sep-2009 15:34:25 UTC
+Expiration Date:11-Feb-2012 16:40:22 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:24612893-NSI
+Registrant Name:Democratic Leadership Council
+Registrant Organization:Democratic Leadership Council
+Registrant Street1:600 Pennsylvania Avenue, SE Su
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20003
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:is@DLCPPI.ORG
+Admin ID:17042380-NSI
+Admin Name:Ralph ContactMiddleName Iskaros
+Admin Organization:William J. Clinton Foundation
+Admin Street1:77 Water Street
+Admin Street2:
+Admin Street3:
+Admin City:New York
+Admin State/Province:NY
+Admin Postal Code:10005
+Admin Country:US
+Admin Phone:+1.6469816485
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:riskaros@clintonfoundation.org
+Tech ID:15643607-NSI
+Tech Name:HedgeHog Hosting, LLC
+Tech Organization:HedgeHog Hosting, LLC
+Tech Street1:10387 Main Street  3rd Floor
+Tech Street2:
+Tech Street3:
+Tech City:Fairfax
+Tech State/Province:VA
+Tech Postal Code:22030
+Tech Country:US
+Tech Phone:+1.7032184170
+Tech Phone Ext.:
+Tech FAX:+1.7032184172
+Tech FAX Ext.:
+Tech Email:richard@hedgehoghosting.com
+Name Server:NS85.WORLDNIC.COM
+Name Server:NS86.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

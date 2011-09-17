@@ -1,0 +1,86 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; rebondir.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      rebondir.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    G767-FRNIC
+admin-c:     GT105-FRNIC
+tech-c:      ZS2-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1666-FRNIC
+registrar:   ZARCROM
+anniversary: 17/09
+created:     17/09/2003
+last-update: 01/05/2004
+source:      FRNIC
+
+ns-list:     NSL1666-FRNIC
+nserver:     ns1.zarcrom.net
+nserver:     ns10.zarcrom.net
+source:      FRNIC
+
+registrar:   ZARCROM
+type:        Isp Option 2
+anonymous:   YES
+registered:  04/01/2001
+source:      FRNIC
+
+nic-hdl:     G767-FRNIC
+type:        ORGANIZATION
+contact:     GECOM
+address:     1, rue des Entrepreneurs
+address:     93400 Saint-Ouen
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GT105-FRNIC
+type:        PERSON
+contact:     Gerard Touati
+address:     GECOM
+address:     1, rue des Entrepreneurs
+address:     93400 Saint-Ouen
+country:     FR
+phone:       +33 1 40 11 44 44
+fax-no:      +33 1 40 11 55 50
+e-mail:      gerard@clubtouati.com
+changed:     17/09/2003 frnic-dbm-updates@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ZS2-FRNIC
+type:        ROLE
+contact:     Zarcrom sas
+address:     Zarcrom
+address:     B.P. 8232
+address:     95801 Cergy Pontoise Cedex
+country:     FR
+phone:       +33 1 30 17 21 00
+fax-no:      +33 1 53 01 08 30
+e-mail:      nic@zarcrom.fr
+admin-c:     FB117-FRNIC
+tech-c:      SP29-FRNIC
+changed:     10/05/2005 nic@zarcrom.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

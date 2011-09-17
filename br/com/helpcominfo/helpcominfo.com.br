@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 00:03:41 (BRT -03:00)
+
+domain:      helpcominfo.com.br
+owner:       Denys Ragnoli - ME
+ownerid:     004.204.911/0001-91
+responsible: Denys Ragnoli
+country:     BR
+owner-c:     DER86
+admin-c:     DER86
+tech-c:      DER86
+billing-c:   DER86
+nserver:     ns1.locaweb.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.locaweb.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.locaweb.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20040319 #1566391
+expires:     20120319
+changed:     20110329
+status:      published
+
+nic-hdl-br:  DER86
+person:      Denys Ragnoli
+e-mail:      denysrag@uol.com.br
+created:     20040310
+changed:     20040310
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 00:24:47 (BRT -03:00)
+
+domain:      ejogosonline.com.br
+owner:       Bmbraga Servicos em Informatica e Tecnologia LTDA
+ownerid:     007.637.601/0001-59
+responsible: Breno Martins Braga
+country:     BR
+owner-c:     BMB18
+admin-c:     BMB18
+tech-c:      BMB18
+billing-c:   BMB18
+nserver:     ns1.ejogosonline.com.br 173.192.196.26
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.ejogosonline.com.br 208.43.122.34
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20080424 #4413471
+expires:     20130424
+changed:     20110903
+status:      published
+
+nic-hdl-br:  BMB18
+person:      Breno Martins Braga
+e-mail:      bmbinternet@hotmail.com
+created:     20010622
+changed:     20050104
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,143 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; univ-st-etienne.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      univ-st-etienne.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UJMS10-FRNIC
+admin-c:     AB3535-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      JFV51-FRNIC
+tech-c:      MB2303-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL38067-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 31/05/2010
+source:      FRNIC
+
+ns-list:     NSL38067-FRNIC
+nserver:     stroph.univ-st-etienne.fr [161.3.1.11]
+nserver:     janon.univ-st-etienne.fr [161.3.1.42]
+nserver:     imag.imag.fr [129.88.30.1]
+nserver:     ns2.nic.fr [192.93.0.4 2001:660:3005:1::1:2]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     UJMS10-FRNIC
+type:        ORGANIZATION
+contact:     UNIVERSITE JEAN MONNET ST-ETIENNE
+address:     Sce Dsi
+address:     34, rue Francis Baulier
+address:     42023 Saint-Etienne
+country:     FR
+phone:       +33 4 77 42 17 00
+fax-no:      +33 4 77 42 17 99
+e-mail:      rssi@univ-st-etienne.fr
+changed:     31/05/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AB3535-FRNIC
+type:        PERSON
+contact:     Andre Bruchet
+address:     UNIVERSITE JEAN MONNET
+address:     Dsi
+address:     34, rue Francis Beaulier
+address:     42023 Saint-Etienne
+country:     FR
+phone:       +33 4 77 42 18 42
+e-mail:      andre.bruchet@univ-st-etienne.fr
+changed:     31/05/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JFV51-FRNIC
+type:        PERSON
+contact:     Jean-Francois Valeille
+address:     Univ. de St Etienne - Jean Monnet
+address:     Criter
+address:     23, rue du Saint Paul Michelon
+address:     42023 Saint-Etienne Cedex
+country:     FR
+phone:       +33 4 77 48 50 54
+fax-no:      +33 4 77 48 50 69
+e-mail:      jean-francois.valeille@univ-st-etienne.fr
+changed:     03/08/2006 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MB2303-FRNIC
+type:        PERSON
+contact:     Magali Bernard
+address:     UNIVERSITE JEAN MONNET
+address:     Dsi
+address:     23, rue Paul Michelon
+address:     42023 Saint-Etienne
+country:     FR
+phone:       +33 4 77 48 50 62
+e-mail:      magali.bernard@univ-st-etienne.fr
+changed:     31/05/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; francetelevisions.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      francetelevisions.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    FTS44-FRNIC
+admin-c:     CP1665-FRNIC
+tech-c:      IC2408-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2079-FRNIC
+registrar:   INDOM
+anniversary: 01/06
+created:     11/06/2002
+last-update: 01/06/2010
+source:      FRNIC
+
+ns-list:     NSL2079-FRNIC
+nserver:     anakin.france2.fr [194.51.35.1]
+nserver:     ns2.oleane.net
+nserver:     ns3.oleane.net
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     FTS44-FRNIC
+type:        ORGANIZATION
+contact:     France Televisions S.A.
+address:     France Televisions
+address:     7, esplanade Henri de France
+address:     75015 Paris
+country:     FR
+phone:       +33 1 56 22 51 35
+fax-no:      +33 1 56 22 35 74
+e-mail:      servicesinteractifs-dns@francetv.fr
+changed:     06/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CP1665-FRNIC
+type:        PERSON
+contact:     Carine Piejos
+address:     France T&eacute;l&eacute;visions S.A.
+address:     France T&eacute;l&eacute;visions
+address:     7, esplanade Henri de France
+address:     75015 Paris
+country:     FR
+phone:       +33 1 56 22 51 35
+fax-no:      +33 1 56 22 35 74
+e-mail:      servicesinteractifs-dns@francetv.fr
+changed:     27/05/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IC2408-FRNIC
+type:        PERSON
+contact:     Indom Contact
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 76 70 05 67
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     16/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

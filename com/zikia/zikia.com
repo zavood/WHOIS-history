@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 03-jul-2004
    Expiration Date: 03-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 22:52:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 03:15:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,75 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- Paul Spade
- 1004 Glacier Drive
- Columbia Falls, MT 59912
- US
-
- Domain name: ZIKIA.COM
-
-
- Administrative Contact:
-    Spade, Paul  paulspade@centurytel.net
-    1004 Glacier Drive
-    Columbia Falls, MT 59912
-    US
-    +1.4068923869
- Technical Contact:
-    Spade, Paul  paulspade@centurytel.net
-    1004 Glacier Drive
-    Columbia Falls, MT 59912
-    US
-    +1.4068923869
-
-
- Registration Service Provider:
-    Internet Services, Support@HostingService.net
-    +1.6045411515
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions.
-
-
- Registrar of Record: Everyones Internet, LLC dba Resellone.net
- Record last updated on 05-May-2011.
- Record expires on 03-Jul-2012.
- Record created on 03-Jul-2004.
-
- Domain servers in listed order:
-    NS.SAFESECURE.INFO   74.54.148.128
-    NS2.SAFESECURE.INFO   69.93.12.101
-
-
- Domain status: ok
-
-The Data in the ResellOne Registrar WHOIS database is provided to you by ResellOne
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-ResellOne makes this information available &quot;as is,&quot; and does not guarantee its accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of ResellOne.
-
-ResellOne reserves the right to terminate your access to the ResellOne WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this policy.
-
-ResellOne reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
+IP Address: 67.231.254.15
+Maximum Daily connection limit reached. Lookup refused.

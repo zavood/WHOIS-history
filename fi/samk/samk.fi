@@ -1,0 +1,18 @@
+
+domain:   samk.fi
+descr:    Porin kaupunki
+descr:    01373239
+address:  Satakunnan ammattikorkeakoulu
+address:  Tiedepuisto 3
+address:  28600
+address:  Pori
+phone:    02 620 3000
+status:   Granted
+created:  23.9.2002
+expires:  31.8.2012
+nserver: bart.cc.spt.fi [OK]
+nserver: homer.spt.fi [OK]
+nserver: ns-secondary.funet.fi [OK]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

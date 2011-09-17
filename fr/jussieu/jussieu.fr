@@ -1,0 +1,117 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; jussieu.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      jussieu.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UPSP13-FRNIC
+admin-c:     JG412-FRNIC
+tech-c:      CH239-FRNIC
+tech-c:      JT379-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL3554-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL3554-FRNIC
+nserver:     shiva.jussieu.fr [134.157.0.129]
+nserver:     cendrillon.lptl.jussieu.fr [134.157.8.24]
+nserver:     soleil.uvsq.fr [193.51.24.1]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     JG412-FRNIC
+type:        PERSON
+contact:     Jean-Claude Girard
+address:     Universite Pierre et Marie Curie
+address:     Tour 55-65
+address:     4, place Jussieu
+address:     75252 Paris Cedex 5
+country:     FR
+phone:       +33 1 44 27 38 18
+fax-no:      +33 1 44 27 72 06
+e-mail:      jcgirard@ccr.jussieu.fr
+notify:      jcgirard@ccr.jussieu.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CH239-FRNIC
+type:        PERSON
+contact:     Christian Hascoet
+address:     Universite Pierre et Marie Curie
+address:     Tour 55-65 - 1Er etage - Casier 171
+address:     4, place Jussieu
+address:     75252 Paris Cedex 5
+country:     FR
+phone:       +33 1 44 27 74 21
+fax-no:      +33 1 44 27 72 06
+e-mail:      hascoet@ccr.jussieu.fr
+notify:      hascoet@ccr.jussieu.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     UPSP13-FRNIC
+type:        ORGANIZATION
+contact:     UNIVERSITE PARIS 6 PIERRE ET MARIE CURIE
+address:     centre de Calcul Recherche, Tour 55/65,
+address:     4, place Jussieu
+address:     75252 Paris
+country:     FR
+phone:       +33 1 44 27 38 18
+e-mail:      jcgirard@ccr.jussieu.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JT379-FRNIC
+type:        PERSON
+contact:     Jacky Thibault
+address:     Universite Pierre et Marie Curie
+address:     Tour 55-65 - 1Er etage - Casier 171
+address:     4, place Jussieu
+address:     75252 Paris Cedex 5
+country:     FR
+phone:       +33 1 44 27 74 09
+fax-no:      +33 1 44 27 72 06
+e-mail:      jacky.thibault@ccr.jussieu.fr
+notify:      jacky.thibault@ccr.jussieu.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

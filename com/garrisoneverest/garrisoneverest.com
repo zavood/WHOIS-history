@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 08-aug-2002
    Expiration Date: 08-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:36:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 03:15:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,29 +84,35 @@ Domain servers in listed order:
 	 dns1.stabletransit.com 	 dns2.stabletransit.com
 
 Administrator:
-	 Name-- Joshua Claflin
- EMail-: (info@garrisoneverest.com)
- tel --: 3038474981
-	 org: Garrison Everest IAD
 	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
+	 Broomfield
+CO,
+US
+ 80021
 
+	 name:(Joshua Claflin)
+mail:(info@garrisoneverest.com) 3038474981
+	 Garrison Everest IAD
 Technical Contactor:
-	 Name-- Joshua Claflin
- EMail-: (info@garrisoneverest.com)
- tel --: 303.847.4981
-	 org: Garrison Everest IAD
 	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
+	 Broomfield
+CO,
+US
+ 80021
 
+	 name:(Joshua Claflin)
+mail:(info@garrisoneverest.com) 303.847.4981
+	 Garrison Everest IAD
 Billing Contactor:
-	 Name-- Joshua Claflin
- EMail-: (info@garrisoneverest.com)
- tel --: 303.847.4981
-	 org: Garrison Everest IAD
 	 11001 W 120 Ave Suite 400
-	 Broomfield,CO,US 80021
+	 Broomfield
+CO,
+US
+ 80021
 
+	 name:(Joshua Claflin)
+mail:(info@garrisoneverest.com) 303.847.4981
+	 Garrison Everest IAD
 
 Registration Service Provider:
 	name: IPOWER, Inc.

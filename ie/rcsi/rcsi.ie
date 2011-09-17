@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      rcsi.ie
+descr:       Royal College of Surgeons in Ireland
+descr:       School/Educational Institution
+descr:       School/Educational Institution Name
+admin-c:     CS78-IEDR
+tech-c:      DOC62-IEDR
+renewal:     25-July-2012
+status:      Active
+nserver:     ns.rcsi.ie 193.1.229.162
+nserver:     ns2.kerna.ie
+nserver:     ice.netsource.ie
+source:      IEDR
+
+person:      Christina Shannon
+nic-hdl:     CS78-IEDR
+source:      IEDR
+
+person:      David O Connor (by name)
+nic-hdl:     DOC62-IEDR
+source:      IEDR
+

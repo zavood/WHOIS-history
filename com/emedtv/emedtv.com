@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 21-jun-2005
    Expiration Date: 21-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 20:44:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 03:39:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,7 +78,7 @@ status:       lock
 created:      2005-06-21 22:47:24 UTC
 modified:     2007-06-23 14:30:13 UTC
 expires:      2012-06-21 22:47:22 UTC
-query-source: 188.72.227.95
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-176740
 person:       Art Schoenstadt
@@ -91,8 +91,8 @@ country:      US
 phone:        +425.4521344
 
 source:       joker.com live whois service
-query-time:   0.017327
-db-updated:   2011-09-11 20:44:57
+query-time:   0.019576
+db-updated:   2011-09-17 03:40:04
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

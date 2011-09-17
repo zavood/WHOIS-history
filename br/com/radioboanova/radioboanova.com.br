@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 00:05:26 (BRT -03:00)
+
+domain:      radioboanova.com.br
+owner:       FUNDACAO ESPIRITA ANDRE LUIZ
+ownerid:     065.080.616/0001-65
+responsible: Jose Antonio Lombardo
+country:     BR
+owner-c:     FEALU
+admin-c:     FEALU
+tech-c:      FEALU
+billing-c:   FEALU
+nserver:     ns1.locaweb.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns2.locaweb.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+nserver:     ns3.locaweb.com.br
+nsstat:      20110912 AA
+nslastaa:    20110912
+created:     19980217 #86515
+expires:     20120217
+changed:     20110127
+status:      published
+
+nic-hdl-br:  FEALU
+person:      Funda&ccedil;&atilde;o Esp&iacute;rita Andr&eacute; Luiz
+e-mail:      victor@feal.com.br
+created:     20060912
+changed:     20100601
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,49 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       graphic.is
+descr:        Arbi Khodagholian
+descr:        409 Porter St. #9
+descr:        US-00000 Glendale
+admin-c:      MC27-IS
+tech-c:       MC27-IS
+zone-c:       VP5-IS
+billing-c:    AK96-IS
+nserver:      ns1.pipedns.com
+nserver:      ns2.pipedns.com
+nserver:      ns3.pipedns.com
+created:      February  9 2011
+expires:      February  9 2012
+source:       ISNIC
+
+role:         Arbi Khodagholian
+address:      409 Porter St. #9
+address:      US-00000 Glendale
+e-mail:       domains@marcaria.com
+nic-hdl:      AK96-IS
+created:      February  9 2011
+source:       ISNIC
+
+role:         Marcaria.com Corp
+address:      222 Grace Church St. Suite 302
+address:      New York, NY 10573
+address:      US
+phone:        +305 434 8621
+e-mail:       domains@marcaria.com
+nic-hdl:      MC27-IS
+created:      December 11 2008
+source:       ISNIC
+
+person:       Vince Perry
+address:      Unit A2, Segensworth Business Centre
+address:      Segensworth Road
+address:      GB-PO15 5RQ Fareham
+phone:        +1 888 7557585
+e-mail:       techsupport@justhost.com
+nic-hdl:      VP5-IS
+created:      January  8 2009
+source:       ISNIC
+
+

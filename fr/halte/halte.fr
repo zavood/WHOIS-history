@@ -1,0 +1,113 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; halte.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      halte.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    BI477-FRNIC
+admin-c:     RF793-FRNIC
+tech-c:      WH3803-FRNIC
+tech-c:      SP643-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL4449-FRNIC
+registrar:   FRONTIER SOFTWARE
+anniversary: 02/02
+created:     02/02/2007
+last-update: 08/03/2007
+source:      FRNIC
+
+ns-list:     NSL4449-FRNIC
+nserver:     ns.directnom.com
+nserver:     ns2.directnom.com
+source:      FRNIC
+
+registrar:   FRONTIER SOFTWARE
+type:        Isp Option 1
+address:     36 Rue Charles Fourrier
+address:     EVRY CEDEX
+country:     FR
+phone:       +33 1 74 85 65 00
+fax-no:      +33 1 74 85 65 85
+e-mail:      info@frontier.fr
+website:     http://www.frontier.fr/
+anonymous:   NO
+registered:  24/04/1998
+source:      FRNIC
+
+nic-hdl:     BI477-FRNIC
+type:        ORGANIZATION
+contact:     BLOC IDENTITAIRE
+address:     B.P. 13
+address:     06301 Nice Cedex 4
+country:     FR
+phone:       +33 4 90 87 67 56
+e-mail:      nosracines@yahoo.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     RF793-FRNIC
+type:        PERSON
+contact:     Robert Fabrice
+address:     bloc identitaire
+address:     B.P. 13
+address:     06301 Nice Cedex 4
+country:     FR
+phone:       +33 4 90 87 67 56
+e-mail:      nosracines@yahoo.fr
+changed:     02/02/2007 binty@frontier.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     WH3803-FRNIC
+type:        ROLE
+contact:     WebNext Hostmaster
+address:     36, rue Charles Fourier
+address:     91030 Evry Cedex
+country:     FR
+phone:       +33 1 64 97 22 00
+fax-no:      +33 1 64 97 37 97
+e-mail:      hostmaster@webnext.com
+trouble:     Information : http://support.webnext.com
+trouble:     Questions : mailto:hostmaster@webnext.com
+trouble:     Spam : mailto:abuse@webnext.com
+admin-c:     SP643-FRNIC
+tech-c:      AP952-FRNIC
+notify:      hostmaster@webnext.com
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SP643-FRNIC
+type:        PERSON
+contact:     Serge Pignard
+address:     Frontier Software
+address:     36, rue Charles Fourrier
+address:     91030 Evry Cedex
+country:     FR
+phone:       +33 1 64 97 35 06
+fax-no:      +33 1 64 97 34 97
+e-mail:      spignard@webnext.com
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

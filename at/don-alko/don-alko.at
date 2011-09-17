@@ -1,0 +1,68 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         don-alko.at
+registrant:     TZ7255666-NICAT
+admin-c:        TZ7255667-NICAT
+tech-c:         TB7255668-NICAT
+nserver:        ns10.domainname.at
+nserver:        ns11.domainname.at
+changed:        20100621 12:58:07
+source:         AT-DOM
+
+personname:     Thomas Zant
+organization:
+street address: Wienerstrasse 211-217 Haus L
+postal code:    A-2103
+city:           Langenzersdorf
+country:        Austria
+e-mail:         don_alko@gmx.at
+nic-hdl:        TZ7255666-NICAT
+changed:        20100621 12:58:06
+source:         AT-DOM
+
+personname:     Thomas Zant
+organization:
+street address: Wienerstrasse 211-217 Haus L
+postal code:    A-2103
+city:           Langenzersdorf
+country:        Austria
+e-mail:         don_alko@gmx.at
+nic-hdl:        TZ7255667-NICAT
+changed:        20100621 12:58:07
+source:         AT-DOM
+
+personname:     Thomas Benedik
+organization:
+street address: Langackerg.7a
+street address: AT-1190 Wien
+postal code:
+city:
+country:
+phone:          +4369920053950
+fax-no:         +4369920053950
+e-mail:         wolfgang.fentler@chello.at
+nic-hdl:        TB7255668-NICAT
+changed:        20100621 12:58:07
+source:         AT-DOM
+

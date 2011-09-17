@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D714086-LROR
+Domain Name:BROOKHILLS.ORG
+Created On:28-Feb-1997 05:00:00 UTC
+Last Updated On:28-Aug-2011 00:26:11 UTC
+Expiration Date:01-Mar-2013 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR86849202
+Registrant Name:Brook Hills
+Registrant Organization:Church of Brook Hills
+Registrant Street1:3145 Brook Highland Pkwy
+Registrant Street2:
+Registrant Street3:
+Registrant City:Birmingham
+Registrant State/Province:Alabama
+Registrant Postal Code:35242
+Registrant Country:US
+Registrant Phone:+1.205313777
+Registrant Phone Ext.:
+Registrant FAX:+1.205313778
+Registrant FAX Ext.:
+Registrant Email:it@brookhills.org
+Admin ID:CR86849208
+Admin Name:Brook Hills
+Admin Organization:Church of Brook Hills
+Admin Street1:3145 Brook Highland Pkwy
+Admin Street2:
+Admin Street3:
+Admin City:Birmingham
+Admin State/Province:Alabama
+Admin Postal Code:35242
+Admin Country:US
+Admin Phone:+1.205313777
+Admin Phone Ext.:
+Admin FAX:+1.205313778
+Admin FAX Ext.:
+Admin Email:it@brookhills.org
+Tech ID:CR86849204
+Tech Name:Brook Hills
+Tech Organization:Church of Brook Hills
+Tech Street1:3145 Brook Highland Pkwy
+Tech Street2:
+Tech Street3:
+Tech City:Birmingham
+Tech State/Province:Alabama
+Tech Postal Code:35242
+Tech Country:US
+Tech Phone:+1.205313777
+Tech Phone Ext.:
+Tech FAX:+1.205313778
+Tech FAX Ext.:
+Tech Email:it@brookhills.org
+Name Server:NS77.DOMAINCONTROL.COM
+Name Server:NS78.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

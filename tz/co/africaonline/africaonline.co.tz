@@ -1,0 +1,87 @@
+%
+%  TZNIC WHOIS data and services are subject to the Terms of Use
+%  available at: http://www.tznic.or.tz/docs/whois_tou.pdf
+%
+%  You may also use our WHOIS Web service available at:
+%  http://whois.tznic.or.tz/whois
+%
+%
+% Whoisd Server Version: 3.1.1
+% Timestamp: Sat Sep 17 06:03:56 2011
+
+domain:       africaonline.co.tz
+registrant:   ADMIN-TZNIC
+admin-c:      DT1-AFSAT
+admin-c:      HM1-AFOL
+nsset:        NS-AFRICAONLINE.CO.TZ
+registrar:    REG-AFSAT
+status:       paid and in zone
+registered:   27.07.2009 10:49:55
+changed:      03.08.2011 14:25:32
+expire:       27.07.2012
+
+contact:      ADMIN-TZNIC
+org:          Tanzania Network Information Centre
+name:         Manager
+address:      LAPF Millennium Towers
+address:      New Bagamoyo Road
+address:      Dar es Salaam
+address:      P.O. BOX 34543
+address:      TZ
+phone:        +255.222772659
+fax-no:       +255.222772660
+e-mail:       manager@tznic.or.tz
+registrar:    REG-TZNIC
+created:      22.07.2009 11:42:00
+
+contact:      DT1-AFSAT
+org:          Afsat Communications (T) Ltd.
+name:         Domains Tz
+address:      34B Winding Ave., Oysterbay
+address:      Dar es Salaam
+address:      P.O.Box 6154
+address:      TZ
+phone:        +255.222664413
+fax-no:       +255.222664416
+e-mail:       domainstz@afsat.com
+registrar:    REG-AFSAT
+created:      20.01.2011 17:46:03
+
+contact:      HM1-AFOL
+org:          AFOL
+name:         Hostmaster
+address:      34B Winding Ave., Oysterbay
+address:      Dar es Salaam
+address:      P.O.Box 6154
+address:      TZ
+phone:        +255.222664413
+fax-no:       +255.222664416
+e-mail:       hostmaster@africaonline.co.tz
+registrar:    REG-AFSAT
+created:      12.04.2011 14:15:39
+
+nsset:        NS-AFRICAONLINE.CO.TZ
+nserver:      ns1.africaonline.com
+nserver:      ns1.africaonline.co.tz (41.220.180.1)
+nserver:      ns2.africaonline.co.tz (196.46.128.2)
+tech-c:       MNT-TZNIC
+registrar:    REG-TZNIC
+created:      27.07.2009 09:01:11
+changed:      28.07.2009 07:03:40
+
+contact:      MNT-TZNIC
+org:          Tanzania Network Information Centre
+name:         Technical Officer
+address:      LAPF Millenium Towers
+address:      New Bagamoyo Road
+address:      Dar es Salaam
+address:      P.O.Box 34543
+address:      TZ
+phone:        +255.2772659
+fax-no:       +255.2772660
+e-mail:       technical@tznic.or.tz
+registrar:    REG-TZNIC
+created:      21.07.2009 15:28:07
+changed:      23.02.2010 15:03:36
+
+

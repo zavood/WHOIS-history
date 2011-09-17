@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      playon.ie
+descr:       Coca-Cola Ireland Limited
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Registered Trade Mark Name
+admin-c:     AGQ936-IEDR
+tech-c:      ALE831-IEDR
+renewal:     28-February-2012
+status:      Active
+nserver:     NS3.KO.COM
+nserver:     NS2.KO.COM
+nserver:     NS4.KO.COM
+source:      IEDR
+
+person:      Val Quinn
+nic-hdl:     AGQ936-IEDR
+source:      IEDR
+
+person:      MelbourneIT Billing
+nic-hdl:     ALE831-IEDR
+source:      IEDR
+
