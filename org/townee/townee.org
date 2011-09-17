@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160573629-LROR
+Domain Name:TOWNEE.ORG
+Created On:03-Nov-2010 09:01:01 UTC
+Last Updated On:03-Jan-2011 03:50:31 UTC
+Expiration Date:03-Nov-2011 09:01:01 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:OK
+Registrant ID:hc368540234-cn
+Registrant Name:Shi Nan
+Registrant Organization:Shinan
+Registrant Street1:Tianjin Nankai
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tianjin
+Registrant State/Province:Tianjin
+Registrant Postal Code:300074
+Registrant Country:CN
+Registrant Phone:+86.02284339050
+Registrant Phone Ext.:
+Registrant FAX:+86.02284339050
+Registrant FAX Ext.:
+Registrant Email:arnuogg@163.com
+Admin ID:hc065419934-cn
+Admin Name:Shi Nan
+Admin Organization:Shinan
+Admin Street1:Tianjin Nankai
+Admin Street2:
+Admin Street3:
+Admin City:Tianjin
+Admin State/Province:Tianjin
+Admin Postal Code:300074
+Admin Country:CN
+Admin Phone:+86.02284339050
+Admin Phone Ext.:
+Admin FAX:+86.02284339050
+Admin FAX Ext.:
+Admin Email:arnuogg@163.com
+Tech ID:hc187999231-cn
+Tech Name:Shi Nan
+Tech Organization:Shinan
+Tech Street1:Tianjin Nankai
+Tech Street2:
+Tech Street3:
+Tech City:Tianjin
+Tech State/Province:Tianjin
+Tech Postal Code:300074
+Tech Country:CN
+Tech Phone:+86.02284339050
+Tech Phone Ext.:
+Tech FAX:+86.02284339050
+Tech FAX Ext.:
+Tech Email:arnuogg@163.com
+Name Server:NS3.XRNET.CN
+Name Server:NS4.XRNET.CN
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

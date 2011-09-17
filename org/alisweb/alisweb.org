@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D762191-LROR
+Domain Name:ALISWEB.ORG
+Created On:14-Jan-1998 05:00:00 UTC
+Last Updated On:15-Dec-2008 16:50:56 UTC
+Expiration Date:13-Jan-2015 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:23313130-NSI
+Registrant Name:AUTOMATED LIBRARY INFORMATION SYSTEM OF N
+Registrant Organization:AUTOMATED LIBRARY INFORMATION SYSTEM OF N
+Registrant Street1:900 Jerusalem Ave.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Uniondale
+Registrant State/Province:NY
+Registrant Postal Code:11533
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:BRENDA@NLS.LIB.NY.US
+Admin ID:23313131-NSI
+Admin Name:Brenda Giovanneillo
+Admin Organization:AUTOMATED LIBRARY INFORMATION SYSTEM OF NASSAU COUNTY
+Admin Street1:900 JERUSALEM AVE
+Admin Street2:
+Admin Street3:
+Admin City:UNIONDALE
+Admin State/Province:NY
+Admin Postal Code:11553-3039
+Admin Country:US
+Admin Phone:+1.5164853255
+Admin Phone Ext.:
+Admin FAX:+1.5164834726
+Admin FAX Ext.:
+Admin Email:BRENDA@alisnet.info
+Tech ID:23313131-NSI
+Tech Name:Brenda Giovanneillo
+Tech Organization:AUTOMATED LIBRARY INFORMATION SYSTEM OF NASSAU COUNTY
+Tech Street1:900 JERUSALEM AVE
+Tech Street2:
+Tech Street3:
+Tech City:UNIONDALE
+Tech State/Province:NY
+Tech Postal Code:11553-3039
+Tech Country:US
+Tech Phone:+1.5164853255
+Tech Phone Ext.:
+Tech FAX:+1.5164834726
+Tech FAX Ext.:
+Tech Email:BRENDA@alisnet.info
+Name Server:AUTH00.NS.UU.NET
+Name Server:AUTH100.NS.UU.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

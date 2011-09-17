@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D217624-LROR
+Domain Name:TZI.ORG
+Created On:17-Apr-1997 04:00:00 UTC
+Last Updated On:06-Feb-2009 12:23:43 UTC
+Expiration Date:18-Apr-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20519153-NSI
+Registrant Name:TechnologiezentrumInformatik,TZI
+Registrant Organization:TechnologiezentrumInformatik,TZI
+Registrant Street1:Universitaetsalle 22
+Registrant Street2:D-28359 Bremen,
+Registrant Street3:
+Registrant City:NO CITY
+Registrant State/Province:NO STATE
+Registrant Postal Code:99999
+Registrant Country:DE
+Registrant Phone:+1.49421218
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:net@INFORMATIK.UNI-BREMEN.DE
+Admin ID:15496476-NSI
+Admin Name:Oliver Laumann
+Admin Organization:University of Bremen
+Admin Street1:Fachbereich 3
+Admin Street2:Bibliothekstrasse, MZH 5180
+Admin Street3:
+Admin City:D-28359 Bremen
+Admin State/Province:
+Admin Postal Code:99999
+Admin Country:DE
+Admin Phone:+49.42121863540
+Admin Phone Ext.:
+Admin FAX:+49.4212187000
+Admin FAX Ext.:
+Admin Email:net@INFORMATIK.UNI-BREMEN.DE
+Tech ID:15496476-NSI
+Tech Name:Oliver Laumann
+Tech Organization:University of Bremen
+Tech Street1:Fachbereich 3
+Tech Street2:Bibliothekstrasse, MZH 5180
+Tech Street3:
+Tech City:D-28359 Bremen
+Tech State/Province:
+Tech Postal Code:99999
+Tech Country:DE
+Tech Phone:+49.42121863540
+Tech Phone Ext.:
+Tech FAX:+49.4212187000
+Tech FAX Ext.:
+Tech Email:net@INFORMATIK.UNI-BREMEN.DE
+Name Server:INES.ZFN.UNI-BREMEN.DE
+Name Server:NS.INFORMATIK.UNI-BREMEN.DE
+Name Server:NS.CS.TU-BERLIN.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
