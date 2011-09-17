@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 13-sep-2010
    Expiration Date: 13-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:56:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 09:40:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,13 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The IP Address 174.142.225.246 you are using to query our Whois Server has exceeded the 100 Whois queries per day limit. Any further queries from this IP Address will not result in a response until 24 hours.
+&lt;strong&gt;Registration Service Provided By: &lt;/strong&gt;Registration Service Provided By: WWW.ISIMTESCIL.NET
+Contact: +90.2163299393
+ &lt;br&gt;
+          &lt;strong&gt;Domain Adi: KRALMALI.COM &lt;/strong&gt;
+          &lt;strong&gt;Bitis Tarihi: &lt;/strong&gt;13-Sep-2012
+          &lt;strong&gt;Kaydedilme Tarihi: &lt;/strong&gt; 13-Sep-2010
+          &lt;strong&gt;Domain Durumu: &lt;/strong&gt; LOCKED
+	Note: This Domain Name is currently Locked. In this status the domain
+	name cannot be transferred, hijacked, or modified. The Owner of this
+	domain name can easily change this status from their control panel.
+	This feature is provided as a security measure against fraudulent domain name hijacking.
+	 &lt;br&gt;
+          &lt;strong&gt;DNS Sunucular: &lt;/strong&gt;&lt;br&gt;
+    ns1.carizmali.com
+    ns2.carizmali.com
+ &lt;br&gt;
+&lt;strong&gt;Kaydedicinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
+     IsimTescil.Net
+    IsimTescil.Net        (info@isimtescil.net)
+    Bulgurlu mah. Selvili Sok. No:16 Camlica
+    Uskudar
+    Istanbul,34696
+    TR
+    Tel. +90.2163299393
+    Fax. +90.2163292333 &lt;br&gt;
+&lt;strong&gt;Yoneticinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
+     IsimTescil.Net
+    IsimTescil.Net        (info@isimtescil.net)
+    Bulgurlu mah. Selvili Sok. No:16 Camlica
+    Uskudar
+    Istanbul,34696
+    TR
+    Tel. +90.2163299393
+    Fax. +90.2163292333 &lt;br&gt;
+&lt;strong&gt;Teknik Yetkilinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
+     IsimTescil.Net
+    IsimTescil.Net        (info@isimtescil.net)
+    Bulgurlu mah. Selvili Sok. No:16 Camlica
+    Uskudar
+    Istanbul,34696
+    TR
+    Tel. +90.2163299393
+    Fax. +90.2163292333 &lt;br&gt;
+&lt;strong&gt;Odeme Yetkilisinin Iletisim Bilgileri &lt;/strong&gt;&lt;br&gt;
+     IsimTescil.Net
+    IsimTescil.Net        (info@isimtescil.net)
+    Bulgurlu mah. Selvili Sok. No:16 Camlica
+    Uskudar
+    Istanbul,34696
+    TR
+    Tel. +90.2163299393
+    Fax. +90.2163292333 &lt;br&gt;
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is FBS Inc..
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 
-You could have received this message, if 174.142.225.246 is a Public IP Address and has been used to query our Whois Server today, by multiple individuals before your query.
-
-This limit is set to effectively dissuade Whois Contact Details harvesting, apart from balancing load on our Whois Server.
-
-If you wish to continue your investigation, please perform a Whois Lookup at http://manage.logicboxes.com/whois.
-
-In order to increase this limit, please write to compliance@logicboxes.com with your IP Address and an explanation as to why you require a higher limit.
 

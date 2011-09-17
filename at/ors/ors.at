@@ -1,0 +1,84 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         ors.at
+registrant:     ORGC3361869-NICAT
+admin-c:        OR3361418-NICAT
+tech-c:         OR3361419-NICAT
+tech-c:         ADA567013-NICAT
+nserver:        ns1.apa.at
+remarks:        194.158.133.1
+nserver:        ns2.apa.at
+remarks:        194.232.133.2
+changed:        20080404 09:38:47
+source:         AT-DOM
+
+personname:     Mag. Michael Wagenhofer
+organization:   Oesterreichische Rundfunksender GmbH &amp; Co KG
+street address: Wuerzburggasse 30
+postal code:    1136
+city:           Wien
+country:        Austria
+phone:          +4318704012616
+fax-no:         +4318704012773
+e-mail:         office@ors.at
+nic-hdl:        ORGC3361869-NICAT
+changed:        20080404 09:38:39
+source:         AT-DOM
+
+personname:     Josef Jezek
+organization:   Oesterreichischer Rundfunk
+street address: Wuerzburggasse 30a
+postal code:    1136
+city:           Wien
+country:        Austria
+phone:          +4318787814008
+fax-no:         +43187878514008
+e-mail:         domain.admin@orf.at
+nic-hdl:        OR3361418-NICAT
+changed:        20080404 08:30:30
+source:         AT-DOM
+
+personname:     Netzwerk Support
+organization:   Oesterreichischer Rundfunk
+street address: Wuerzburggasse 30a
+postal code:    1136
+city:           Wien
+country:        Austria
+phone:          +4318787811360
+e-mail:         netzwerk.support@orf.at
+nic-hdl:        OR3361419-NICAT
+changed:        20080404 08:30:39
+source:         AT-DOM
+
+personname:     APA DNS Admin
+organization:   APA Austria Presse Agentur
+street address: Laimgrubengasse 10
+postal code:    A-1060
+city:           Wien
+country:        Austria
+e-mail:         domain-admin@apa.at
+nic-hdl:        ADA567013-NICAT
+changed:        20051110 13:29:58
+source:         AT-DOM
+

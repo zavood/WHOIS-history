@@ -1,0 +1,71 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         oewa.at
+registrant:     OOW3089398-NICAT
+admin-c:        OOW3089399-NICAT
+tech-c:         AAPA3089400-NICAT
+nserver:        ns1.apa.at
+remarks:        194.158.133.1
+nserver:        ns2.apa.at
+remarks:        194.158.133.21
+changed:        20071119 16:58:49
+source:         AT-DOM
+
+personname:     Mag. Hannes Duenser
+organization:   OEWA Oesterreichische Webanalyse
+street address: Koellnerhofgasse 2/3
+postal code:    A-1010
+city:           Wien
+country:        Austria
+phone:          +4315128866
+fax-no:         +431512886622
+e-mail:         office@oewa.at
+nic-hdl:        OOW3089398-NICAT
+changed:        20071119 16:58:36
+source:         AT-DOM
+
+personname:     Dipl.-Kfm.(FH) Marco Heinrichs
+organization:   OEWA Oesterreichische Webanalyse
+street address: Koellnerhofgasse 2/3
+postal code:    1010
+city:           Wien
+country:        Austria
+phone:          +431533617813
+fax-no:         +431533617822
+e-mail:         support@oewa.at
+nic-hdl:        OOW3089399-NICAT
+changed:        20071119 16:58:40
+source:         AT-DOM
+
+personname:     APA DNS Admin
+organization:   APA Austria Presse Agentur
+street address: Laimgrubengasse 10
+postal code:    A-1060
+city:           Wien
+country:        Austria
+e-mail:         domain-admin@apa.at
+nic-hdl:        AAPA3089400-NICAT
+changed:        20071119 16:58:44
+source:         AT-DOM
+

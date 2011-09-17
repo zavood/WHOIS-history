@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104046173-LROR
+Domain Name:VOTEFCKER.ORG
+Created On:02-Mar-2004 05:53:58 UTC
+Last Updated On:13-Jun-2010 00:23:20 UTC
+Expiration Date:02-Mar-2012 05:53:58 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR45683227
+Registrant Name:Garrett Downen
+Registrant Organization:Oregon Bus Project
+Registrant Street1:333 SE 2nd Ave; 2nd Floor
+Registrant Street2:
+Registrant Street3:
+Registrant City:Portland
+Registrant State/Province:Oregon
+Registrant Postal Code:97214
+Registrant Country:US
+Registrant Phone:+1.5032333018
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domainadmin@popart.com
+Admin ID:CR45683232
+Admin Name:Garrett Downen
+Admin Organization:Oregon Bus Project
+Admin Street1:333 SE 2nd Ave; 2nd Floor
+Admin Street2:
+Admin Street3:
+Admin City:Portland
+Admin State/Province:Oregon
+Admin Postal Code:97214
+Admin Country:US
+Admin Phone:+1.5032333018
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domainadmin@popart.com
+Tech ID:CR45683230
+Tech Name:Pop Art Domain Administrator
+Tech Organization:Pop Art , Inc.
+Tech Street1:718 SW Alder St., Ste 300
+Tech Street2:
+Tech Street3:
+Tech City:Portland
+Tech State/Province:Oregon
+Tech Postal Code:97205
+Tech Country:US
+Tech Phone:+1.5032424292
+Tech Phone Ext.:
+Tech FAX:+1.5032424292
+Tech FAX Ext.:
+Tech Email:domainadmin@popart.com
+Name Server:NS.OPUSNET.COM
+Name Server:NS2.OPUSNET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      koolkids.ie
+descr:       CATHERINE SMITH
+descr:       Sole Trader
+descr:       Registered Business Name
+admin-c:     ADA515-IEDR
+tech-c:      AAM546-IEDR
+renewal:     05-March-2012
+status:      Active
+nserver:     ns1.webhostingireland.ie
+nserver:     ns2.webhostingireland.ie
+nserver:     ns3.webhostingireland.ie
+source:      IEDR
+
+person:      Catherine Smyth
+nic-hdl:     ADA515-IEDR
+source:      IEDR
+
+person:      Hostingireland.ie Hostmaster
+nic-hdl:     AAM546-IEDR
+source:      IEDR
+
