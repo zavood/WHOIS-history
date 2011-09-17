@@ -1,0 +1,96 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D25376033-LROR
+Domain Name:NOREPLY.ORG
+Created On:21-Apr-2000 03:41:50 UTC
+Last Updated On:29-Aug-2010 00:23:59 UTC
+Expiration Date:21-Apr-2016 03:41:50 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR51052830
+Registrant Name:Peter Palfrader
+Registrant Street1:Hoettinger Auffahrt 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Innsbruck
+Registrant State/Province:
+Registrant Postal Code:6020
+Registrant Country:AT
+Registrant Phone:+43.6505121024
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@palfrader.org
+Admin ID:CR51052832
+Admin Name:Peter Palfrader
+Admin Street1:Hoettinger Auffahrt 1
+Admin Street2:
+Admin Street3:
+Admin City:Innsbruck
+Admin State/Province:
+Admin Postal Code:6020
+Admin Country:AT
+Admin Phone:+43.6505121024
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@palfrader.org
+Tech ID:CR51052831
+Tech Name:Peter Palfrader
+Tech Street1:Hoettinger Auffahrt 1
+Tech Street2:
+Tech Street3:
+Tech City:Innsbruck
+Tech State/Province:
+Tech Postal Code:6020
+Tech Country:AT
+Tech Phone:+43.6505121024
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@palfrader.org
+Name Server:NS1.CAME.SBG.AC.AT
+Name Server:ANGUILLA.DEBIAN.OR.AT
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Signed
+DS Created 1:29-Jun-2010 06:37:37 UTC
+DS Maximum Signature Life 1:3456000 seconds
+DS Key Tag 1:7716
+Algorithm 1:7
+Digest Type 1:1
+Digest 1:44EE53B6477B6FD298B2402B815FF197EC847682
+DS Created 2:29-Jun-2010 06:37:37 UTC
+DS Maximum Signature Life 2:3456000 seconds
+DS Key Tag 2:7716
+Algorithm 2:7
+Digest Type 2:2
+Digest 2:69CA590BEEC7888F41AE8AFC6823907CDC6CE6E72546934AB9FFDEDC306FF034
+
+

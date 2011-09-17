@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D110911234-LROR
+Domain Name:IOFBONEHEALTH.ORG
+Created On:09-Jan-2006 16:27:31 UTC
+Last Updated On:10-Nov-2010 08:10:16 UTC
+Expiration Date:09-Jan-2016 16:27:31 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:40253570-NSI
+Registrant Name:International Osteoporosis Foundation
+Registrant Organization:International Osteoporosis Foundation
+Registrant Street1:IOF
+Registrant Street2:9, Rue Juste Olivier
+Registrant Street3:
+Registrant City:Nyon
+Registrant State/Province:VD
+Registrant Postal Code:1260
+Registrant Country:CH
+Registrant Phone:+41.22994010
+Registrant Phone Ext.:
+Registrant FAX:+41.22994010
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:40253570-NSI
+Admin Name:International Osteoporosis Foundation
+Admin Organization:International Osteoporosis Foundation
+Admin Street1:IOF
+Admin Street2:9, Rue Juste Olivier
+Admin Street3:
+Admin City:Nyon
+Admin State/Province:VD
+Admin Postal Code:1260
+Admin Country:CH
+Admin Phone:+41.22994010
+Admin Phone Ext.:
+Admin FAX:+41.22994010
+Admin FAX Ext.:
+Admin Email:no.valid.email@worldnic.com
+Tech ID:40253570-NSI
+Tech Name:International Osteoporosis Foundation
+Tech Organization:International Osteoporosis Foundation
+Tech Street1:IOF
+Tech Street2:9, Rue Juste Olivier
+Tech Street3:
+Tech City:Nyon
+Tech State/Province:VD
+Tech Postal Code:1260
+Tech Country:CH
+Tech Phone:+41.22994010
+Tech Phone Ext.:
+Tech FAX:+41.22994010
+Tech FAX Ext.:
+Tech Email:no.valid.email@worldnic.com
+Name Server:NS2.NEXELLENT.NET
+Name Server:RANDOM.NETSPAN.CH
+Name Server:GLURAK.NETSPAN.CH
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

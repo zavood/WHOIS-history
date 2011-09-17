@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 01-jun-2009
    Expiration Date: 01-jun-2019
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:10:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 13:55:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,85 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- Josh Odom
- 112 E. Pecan St.
- Suite #400
- San Antonio, TX 78205
- US
-
- Domain name: CLOUD-IPS.COM
-
-
- Administrative Contact:
-    Odom, Josh  josh.odom@rackspace.com
-    112 E. Pecan St.
-    Suite #400
-    San Antonio, TX 78205
-    US
-    +1.2103125267
- Technical Contact:
-    Odom, Josh  josh.odom@rackspace.com
-    112 E. Pecan St.
-    Suite #400
-    San Antonio, TX 78205
-    US
-    +1.2103125267
-
-
- Registration Service Provider:
-    Click And Name, support@clickandname.com
-    210-798-0105
-
-
-
- Registrar of Record: TUCOWS, INC.
- Record last updated on 18-Nov-2010.
- Record expires on 02-Jun-2019.
- Record created on 02-Jun-2009.
-
- Registrar Domain Name Help Center:
-    http://tucowsdomains.com
-
- Domain servers in listed order:
-    NS2.SLICEHOST.NET
-    NS1.SLICEHOST.NET
-    NS3.SLICEHOST.NET
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-Tucows makes this information available &quot;as is,&quot; and does not guarantee its
-accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Tucows.
-
-Tucows reserves the right to terminate your access to the Tucows WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
-
-Tucows reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
-
+IP Address: 67.231.254.15
+Maximum Daily connection limit reached. Lookup refused.

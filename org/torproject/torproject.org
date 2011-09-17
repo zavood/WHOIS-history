@@ -1,0 +1,96 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D130971538-LROR
+Domain Name:TORPROJECT.ORG
+Created On:17-Oct-2006 22:02:50 UTC
+Last Updated On:17-Mar-2011 15:50:13 UTC
+Expiration Date:17-Oct-2013 22:02:50 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-167587
+Registrant Name:- -
+Registrant Organization:The Tor Project, Inc
+Registrant Street1:969 Main Street
+Registrant Street2:Suite 206
+Registrant Street3:
+Registrant City:Walpole
+Registrant State/Province:MA
+Registrant Postal Code:02081-2972
+Registrant Country:US
+Registrant Phone:+1.7814249877
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:arma@freehaven.net
+Admin ID:CORG-58542
+Admin Name:Roger Dingledine
+Admin Organization:The Free Haven Project
+Admin Street1:2695 Rangewood Dr
+Admin Street2:
+Admin Street3:
+Admin City:Atlanta
+Admin State/Province:GA
+Admin Postal Code:30345
+Admin Country:US
+Admin Phone:+770.0000000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:arma@freehaven.net
+Tech ID:CORG-288059
+Tech Name:- - -
+Tech Organization:The Tor Project
+Tech Street1:969 Main Street
+Tech Street2:Suite 206
+Tech Street3:
+Tech City:Walpole
+Tech State/Province:MA
+Tech Postal Code:02081-2972
+Tech Country:US
+Tech Phone:+1.4063566475
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@torproject.org
+Name Server:ANGUILLA.DEBIAN.OR.AT
+Name Server:NS1.TORPROJECT.ORG
+Name Server:NS3.TORPROJECT.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Signed
+DS Created 1:16-Feb-2011 07:49:14 UTC
+DS Maximum Signature Life 1:3456000 seconds
+DS Key Tag 1:15324
+Algorithm 1:7
+Digest Type 1:1
+Digest 1:3EF6AAFC08E4FD7B4F6BE04AE1605A6A8DC665F7
+DS Created 2:22-Feb-2011 07:07:14 UTC
+DS Maximum Signature Life 2:3456000 seconds
+DS Key Tag 2:15324
+Algorithm 2:7
+Digest Type 2:2
+Digest 2:3B259445847672EE83285C0D66D834CEAB38303CE52B61717D213641C344DF8C
+
+

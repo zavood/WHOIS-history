@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 11-dec-2009
    Expiration Date: 11-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:04:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 13:32:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -66,7 +66,7 @@ commercial advertising or solicitations via e-mail (spam); or
 
 By submitting this query, you agree to abide by the above policy.
 
-Whois History: 123 records have been archived since 2009-12-11
+Whois History: 127 records have been archived since 2009-12-11
 http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=phncdn.com
 
 Domain: phncdn.com

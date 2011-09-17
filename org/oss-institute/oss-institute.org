@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D78547320-LROR
+Domain Name:OSS-INSTITUTE.ORG
+Created On:12-Oct-2001 14:24:39 UTC
+Last Updated On:13-Oct-2010 01:23:08 UTC
+Expiration Date:12-Oct-2011 14:24:39 UTC
+Sponsoring Registrar:000Domains, LLC (R69-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOT-LQ0DR1VH4B7S
+Registrant Name:John Weathersby
+Registrant Organization:Open Source Software Institute
+Registrant Street1:P.O. Box 547
+Registrant Street2:
+Registrant Street3:
+Registrant City:Oxford
+Registrant State/Province:MS
+Registrant Postal Code:38655
+Registrant Country:US
+Registrant Phone:+1.16622361794
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jmw@oss-institute.org
+Admin ID:DOT-71CJCG6X2KB4
+Admin Name:John Weathersby
+Admin Organization:Open Source Software Institute
+Admin Street1:P.O. Box 547
+Admin Street2:
+Admin Street3:
+Admin City:Oxford
+Admin State/Province:MS
+Admin Postal Code:38655
+Admin Country:US
+Admin Phone:+1.16622361794
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jmw@oss-institute.org
+Tech ID:DOT-33WTYHEOCRZH
+Tech Name:John Weathersby
+Tech Organization:Open Source Software Institute
+Tech Street1:P.O. Box 547
+Tech Street2:
+Tech Street3:
+Tech City:Oxford
+Tech State/Province:MS
+Tech Postal Code:38655
+Tech Country:US
+Tech Phone:+1.16622361794
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jmw@oss-institute.org
+Name Server:NS1.EVERYDNS.NET
+Name Server:NS2.EVERYDNS.NET
+Name Server:NS3.EVERYDNS.NET
+Name Server:NS4.EVERYDNS.NET
+Name Server:NS1.OSS-INSTITUTE.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

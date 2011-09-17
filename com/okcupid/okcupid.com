@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 12-mar-2003
    Expiration Date: 01-jun-2019
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 07:07:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 13:41:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -116,11 +116,11 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns2.frontline.net
-    ns1.okcupid.com
     ns2.okcupid.com
-    ns3.frontline.net
+    ns1.okcupid.com
     ns1.frontline.net
+    ns3.frontline.net
+    ns2.frontline.net
 
 
 

@@ -13,11 +13,12 @@ for detailed information.
    Name Server: DNS2.TUCOWS.COM
    Name Server: DNS3.TUCOWS.COM
    Status: clientTransferProhibited
+   Status: clientUpdateProhibited
    Updated Date: 16-sep-2011
    Creation Date: 09-aug-2003
    Expiration Date: 09-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 05:15:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 13:44:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,5 +53,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 174.142.225.246
+IP Address: 67.231.254.15
 Maximum Daily connection limit reached. Lookup refused.

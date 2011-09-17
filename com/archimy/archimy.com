@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 05-nov-2007
    Expiration Date: 05-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 05:28:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 13:41:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,41 +84,35 @@ Domain servers in listed order:
 	 ns1.cifnet.com 	 ns2.cifnet.com
 
 Administrator:
-	 name:(Denis Kozyr)
-	Email:(dkozyr@gmail.com) tel-- +380.0506370208
-	 Denis Kozyr
 	 Postysheva st, 133-7
-\r
-t Donetsk
+	 Donetsk
 Donetskaya,
 UKRAINE
+ 83055
 
- zipcode:83055
-
+	 name:(Denis Kozyr)
+mail:(dkozyr@gmail.com) +380.0506370208
+	 Denis Kozyr
 Technical Contactor:
-	 name:(Denis Kozyr)
-	Email:(dkozyr@gmail.com) tel-- +380.0506370208
-	 Denis Kozyr
 	 Postysheva st, 133-7
-\r
-t Donetsk
+	 Donetsk
 Donetskaya,
 UKRAINE
+ 83055
 
- zipcode:83055
-
+	 name:(Denis Kozyr)
+mail:(dkozyr@gmail.com) +380.0506370208
+	 Denis Kozyr
 Billing Contactor:
-	 name:(Denis Kozyr)
-	Email:(dkozyr@gmail.com) tel-- +380.0506370208
-	 Denis Kozyr
 	 Postysheva st, 133-7
-\r
-t Donetsk
+	 Donetsk
 Donetskaya,
 UKRAINE
+ 83055
 
- zipcode:83055
-
+	 name:(Denis Kozyr)
+mail:(dkozyr@gmail.com) +380.0506370208
+	 Denis Kozyr
 
 Registration Service Provider:
 	name: Rustelekom LLC

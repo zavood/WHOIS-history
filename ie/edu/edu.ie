@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      edu.ie
+descr:       HEAnet Limited
+descr:       Statutory Body
+descr:       Discretionary Name
+admin-c:     JB368-IEDR
+tech-c:      HE15-IEDR
+renewal:     04-April-2012
+status:      Active
+nserver:     AUTH-NS1.EDU.IE 87.32.4.2
+nserver:     AUTH-NS2.EDU.IE 87.32.4.10
+nserver:     NS2.KERNA.IE
+source:      IEDR
+
+person:      John Boland
+nic-hdl:     JB368-IEDR
+source:      IEDR
+
+person:      HEAnet
+nic-hdl:     HE15-IEDR
+source:      IEDR
+

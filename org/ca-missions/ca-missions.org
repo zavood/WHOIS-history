@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D5411230-LROR
+Domain Name:CA-MISSIONS.ORG
+Created On:13-Jun-1998 04:00:00 UTC
+Last Updated On:18-Aug-2010 21:52:07 UTC
+Expiration Date:12-Jun-2014 04:00:00 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-T4MET6A4M9YR
+Registrant Name:N/A
+Registrant Organization:California Mission Studies Association
+Registrant Street1:PO Box 420215
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Diego
+Registrant State/Province:CA
+Registrant Postal Code:92142
+Registrant Country:US
+Registrant Phone:+1.8316201458
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:l_sanna@sbcglobal.net
+Admin ID:DOT-GB8ARU4LG74L
+Admin Name:N/A
+Admin Organization:California Mission Studies Association
+Admin Street1:PO Box 420215
+Admin Street2:
+Admin Street3:
+Admin City:San Diego
+Admin State/Province:CA
+Admin Postal Code:92142
+Admin Country:US
+Admin Phone:+1.8316201458
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:l_sanna@sbcglobal.net
+Tech ID:DOT-40KE01HGRJVB
+Tech Name:N/A
+Tech Organization:California Mission Studies Association
+Tech Street1:PO Box 420215
+Tech Street2:
+Tech Street3:
+Tech City:San Diego
+Tech State/Province:CA
+Tech Postal Code:92142
+Tech Country:US
+Tech Phone:+1.8316201458
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:l_sanna@sbcglobal.net
+Name Server:NS1.MYDOMAINWEBHOST.COM
+Name Server:NS2.MYDOMAINWEBHOST.COM
+Name Server:NS3.MYDOMAINWEBHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

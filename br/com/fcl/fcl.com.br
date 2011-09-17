@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 10:40:29 (BRT -03:00)
+
+domain:      fcl.com.br
+owner:       Funda&ccedil;&atilde;o C&aacute;sper L&iacute;bero
+ownerid:     061.277.273/0001-72
+responsible: David Verzolla
+country:     BR
+owner-c:     DAV50
+admin-c:     DAV50
+tech-c:      DAV50
+billing-c:   MHAPI2
+nserver:     ns1.fcl.com.br 201.33.98.2
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.fcl.com.br 201.33.98.6
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     19980122 #83340
+expires:     20200122
+changed:     20100910
+status:      published
+
+nic-hdl-br:  DAV50
+person:      david verzolla
+e-mail:      dverzolla@fcl.com.br
+created:     20010724
+changed:     20110620
+
+nic-hdl-br:  MHAPI2
+person:      MARIA HELENA AMORIM PINHEIRO
+e-mail:      mhapinheiro@fcl.com.br
+created:     20100830
+changed:     20100830
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

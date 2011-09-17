@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158221540-LROR
+Domain Name:TECHCHAND.ORG
+Created On:28-Jan-2010 11:22:49 UTC
+Last Updated On:21-Aug-2010 16:57:58 UTC
+Expiration Date:28-Jan-2012 11:22:49 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_11015506
+Registrant Name:Chandrashekhar Bhat
+Registrant Organization:Real
+Registrant Street1:Chandrashekhar
+Registrant Street2:Bhat
+Registrant Street3:
+Registrant City:Kumta
+Registrant State/Province:karnataka
+Registrant Postal Code:581343
+Registrant Country:IN
+Registrant Phone:+91.234213
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:chanddra2009@gmail.com
+Admin ID:DI_11015506
+Admin Name:Chandrashekhar Bhat
+Admin Organization:Real
+Admin Street1:Chandrashekhar
+Admin Street2:Bhat
+Admin Street3:
+Admin City:Kumta
+Admin State/Province:karnataka
+Admin Postal Code:581343
+Admin Country:IN
+Admin Phone:+91.234213
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:chanddra2009@gmail.com
+Tech ID:DI_11015506
+Tech Name:Chandrashekhar Bhat
+Tech Organization:Real
+Tech Street1:Chandrashekhar
+Tech Street2:Bhat
+Tech Street3:
+Tech City:Kumta
+Tech State/Province:karnataka
+Tech Postal Code:581343
+Tech Country:IN
+Tech Phone:+91.234213
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:chanddra2009@gmail.com
+Name Server:NS1-SUTLEJ.EWEBGURU.COM
+Name Server:NS2-SUTLEJ.EWEBGURU.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

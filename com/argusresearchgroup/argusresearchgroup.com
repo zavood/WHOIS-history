@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 29-apr-2000
    Expiration Date: 29-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 13:48:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 13:50:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: argusresearchgroup.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 09:38:56 EDT 2011
+Date and Time of Query: Sat Sep 17 09:41:09 EDT 2011
 Reason Code: IE

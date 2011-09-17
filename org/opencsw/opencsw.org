@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153552903-LROR
+Domain Name:OPENCSW.ORG
+Created On:08-Aug-2008 08:29:30 UTC
+Last Updated On:16-May-2011 00:26:53 UTC
+Expiration Date:08-Aug-2019 08:29:30 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR78038828
+Registrant Name:Dagobert Michelsen
+Registrant Street1:Aschauweg 18
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kiel
+Registrant State/Province:
+Registrant Postal Code:24116
+Registrant Country:DE
+Registrant Phone:+49.4311220481
+Registrant Phone Ext.:
+Registrant FAX:+49.4311220482
+Registrant FAX Ext.:
+Registrant Email:dagobert@familie-michelsen.de
+Admin ID:CR78038832
+Admin Name:Dagobert Michelsen
+Admin Street1:Aschauweg 18
+Admin Street2:
+Admin Street3:
+Admin City:Kiel
+Admin State/Province:
+Admin Postal Code:24116
+Admin Country:DE
+Admin Phone:+49.4311220481
+Admin Phone Ext.:
+Admin FAX:+49.4311220482
+Admin FAX Ext.:
+Admin Email:dagobert@familie-michelsen.de
+Tech ID:CR78038830
+Tech Name:regfish.com Hostmaster
+Tech Organization:REGFISH Domains
+Tech Street1:Bleichstr. 8
+Tech Street2:
+Tech Street3:
+Tech City:Giessen
+Tech State/Province:
+Tech Postal Code:35390
+Tech Country:DE
+Tech Phone:+49.64180899510
+Tech Phone Ext.:
+Tech FAX:+49.64180899511
+Tech FAX Ext.:
+Tech Email:care@regfish.de
+Name Server:NS1.OPENCSW.ORG
+Name Server:NS2.OPENCSW.ORG
+Name Server:NS3.OPENCSW.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

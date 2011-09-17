@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2729784-LROR
+Domain Name:AHCA.ORG
+Created On:02-Mar-1995 05:00:00 UTC
+Last Updated On:02-Jan-2009 09:13:00 UTC
+Expiration Date:03-Mar-2012 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28728120-NSI
+Registrant Name:AmericanHealthCare Association
+Registrant Organization:AmericanHealthCare Association
+Registrant Street1:1201 L Street, NW
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20005
+Registrant Country:US
+Registrant Phone:+1.2028424444
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@ahca.org
+Admin ID:32711855-NSI
+Admin Name:Webmaster Webmaster
+Admin Street1:1201 L Street, NW
+Admin Street2:
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20005
+Admin Country:US
+Admin Phone:+1.2028424444
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@ahca.org
+Tech ID:28728121-NSI
+Tech Name:American Health Care Associati
+Tech Organization:American Health Care Associati
+Tech Street1:1201 L Street, NW
+Tech Street2:
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20005
+Tech Country:US
+Tech Phone:+1.202842444
+Tech Phone Ext.:
+Tech FAX:+1.202842386
+Tech FAX Ext.:
+Tech Email:webmaster@ahca.org
+Name Server:NS3.ZONEEDIT.COM
+Name Server:NS3.AHCA.ORG
+Name Server:NS2.AHCA.ORG
+Name Server:NS17.ZONEEDIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

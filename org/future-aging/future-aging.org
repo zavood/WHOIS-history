@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155339616-LROR
+Domain Name:FUTURE-AGING.ORG
+Created On:11-Feb-2009 18:10:21 UTC
+Last Updated On:16-Dec-2010 18:47:48 UTC
+Expiration Date:11-Feb-2012 18:10:21 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:65965481954da050
+Registrant Name:Bree Flammini
+Registrant Organization:Edelman Public Relations
+Registrant Street1:1201 L St., NW
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20005
+Registrant Country:US
+Registrant Phone:+1.2028982836
+Registrant Phone Ext.:
+Registrant FAX:+1.2028423860
+Registrant FAX Ext.:
+Registrant Email:webmaster@ahca.org
+Admin ID:7544433883d0a258
+Admin Name:Bree Flammini
+Admin Organization:Edelman Public Relations
+Admin Street1:1201 L St., NW
+Admin Street2:
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20006
+Admin Country:US
+Admin Phone:+1.2028982836
+Admin Phone Ext.:
+Admin FAX:+1.2028423860
+Admin FAX Ext.:
+Admin Email:webmaster@ahca.org
+Tech ID:39214298841ca815
+Tech Name:Domain Registrar
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027492701
+Tech FAX Ext.:
+Tech Email:domainregistrar@register.com
+Name Server:NS3.ZONEEDIT.COM
+Name Server:NS17.ZONEEDIT.COM
+Name Server:NS1.FUTURE-AGING.ORG
+Name Server:NS2.FUTURE-AGING.ORG
+Name Server:NS3.FUTURE-AGING.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
