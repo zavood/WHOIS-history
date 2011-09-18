@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 08-sep-1998
    Expiration Date: 07-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 23:01:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 09:42:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,7 +76,7 @@ is not the registrant of domain names listed in this database.
 
 
 Registrant:
-   Real Networks
+   RealNetworks, Inc.
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: TRYMEDIA.COM

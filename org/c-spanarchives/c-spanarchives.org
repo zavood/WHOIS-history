@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2149645-LROR
+Domain Name:C-SPANARCHIVES.ORG
+Created On:09-Oct-1998 04:00:00 UTC
+Last Updated On:08-Sep-2010 19:47:07 UTC
+Expiration Date:08-Oct-2015 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:16468007-NSI
+Registrant Name:C-SPAN
+Registrant Organization:C-SPAN
+Registrant Street1:400 North Capitol St., NW
+Registrant Street2:Suite 650
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20001
+Registrant Country:US
+Registrant Phone:+1.2027373220
+Registrant Phone Ext.:
+Registrant FAX:+1.2027373323
+Registrant FAX Ext.:
+Registrant Email:sharkness@c-span.org
+Admin ID:32299548-NSI
+Admin Name:Stephen Harkness
+Admin Organization:C-SPAN
+Admin Street1:400 N. Capitol St., NW
+Admin Street2:Suite 650
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20001
+Admin Country:US
+Admin Phone:+1.2027373220
+Admin Phone Ext.:
+Admin FAX:+1.2026385244
+Admin FAX Ext.:
+Admin Email:sharkness@c-span.org
+Tech ID:32303939-NSI
+Tech Name:Nick Pitocco
+Tech Organization:C-SPAN
+Tech Street1:400 N. Capitol St., NW
+Tech Street2:Suite 650
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20001
+Tech Country:US
+Tech Phone:+1.202626799
+Tech Phone Ext.:
+Tech FAX:+1.202638524
+Tech FAX Ext.:
+Tech Email:npitocco@c-span.org
+Name Server:NS2.WINTEK.COM
+Name Server:NS1.WINTEK.COM
+Name Server:NS3.WINTEK.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

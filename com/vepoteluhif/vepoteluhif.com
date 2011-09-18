@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 28-apr-2011
    Expiration Date: 28-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 15:13:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 09:41:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,35 +84,20 @@ Domain servers in listed order:
 	 ns95404.vepoteluhif.com 	 ns75515.vepoteluhif.com
 
 Administrator:
-	 name: Tom Schwartz
- mail: anger@mailti.com tel: +43.66288222155
-	 org: Tom Schwartz
-
-address: Auerspergstrasse 24
-	 city: Salzburg
-,province: Salzburg
-,country: AT
- postcode: 5020
+	 Tom Schwartz anger@mailti.com +43.66288222155
+	 Tom Schwartz
+	 Auerspergstrasse 24
+	 Salzburg,Salzburg,AT 5020
 
 Technical Contactor:
-	 name: Tom Schwartz
- mail: anger@mailti.com tel: +43.66288222155
-	 org: Tom Schwartz
-
-address: Auerspergstrasse 24
-	 city: Salzburg
-,province: Salzburg
-,country: AT
- postcode: 5020
+	 Tom Schwartz anger@mailti.com +43.66288222155
+	 Tom Schwartz
+	 Auerspergstrasse 24
+	 Salzburg,Salzburg,AT 5020
 
 Billing Contactor:
-	 name: Tom Schwartz
- mail: anger@mailti.com tel: +43.66288222155
-	 org: Tom Schwartz
-
-address: Auerspergstrasse 24
-	 city: Salzburg
-,province: Salzburg
-,country: AT
- postcode: 5020
+	 Tom Schwartz anger@mailti.com +43.66288222155
+	 Tom Schwartz
+	 Auerspergstrasse 24
+	 Salzburg,Salzburg,AT 5020
 

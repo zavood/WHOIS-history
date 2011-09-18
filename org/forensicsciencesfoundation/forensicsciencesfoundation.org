@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D126600400-LROR
+Domain Name:FORENSICSCIENCESFOUNDATION.ORG
+Created On:31-Jul-2006 17:10:31 UTC
+Last Updated On:30-Nov-2010 18:49:23 UTC
+Expiration Date:31-Jul-2014 17:10:31 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuKjPayWMV9wShIG
+Registrant Name:Nancy Jackson
+Registrant Organization:Forensic Sciences Foundation, Inc.
+Registrant Street1:410 N. 21st. Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Colorado Springs
+Registrant State/Province:CO
+Registrant Postal Code:80904-2798
+Registrant Country:US
+Registrant Phone:+1.7196361100
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:NJackson@aafs.org
+Admin ID:tu0Z0GzwOKZu41XN
+Admin Name:Nancy Jackson
+Admin Organization:Forensic Sciences Foundation, Inc.
+Admin Street1:410 North 21st Street
+Admin Street2:
+Admin Street3:
+Admin City:Colorado Springs
+Admin State/Province:CO
+Admin Postal Code:80904-2798
+Admin Country:US
+Admin Phone:+1.7196361100
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:NJackson@aafs.org
+Tech ID:44ce398500072
+Tech Name:Gloria O\'Neill
+Tech Organization:GO Communications
+Tech Street1:10 Boulder Crescent, Suite 101A
+Tech Street2:
+Tech Street3:
+Tech City:Colorado Springs
+Tech State/Province:CO
+Tech Postal Code:80903
+Tech Country:US
+Tech Phone:+1.7193930000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:gloria@gocommunications.com
+Name Server:NS1.CITINTERNET.COM
+Name Server:NS2.CITINTERNET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

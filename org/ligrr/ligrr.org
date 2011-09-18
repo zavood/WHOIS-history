@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D13322030-LROR
+Domain Name:LIGRR.ORG
+Created On:16-Nov-1999 16:17:23 UTC
+Last Updated On:25-Oct-2006 15:22:18 UTC
+Expiration Date:16-Nov-2011 16:17:23 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30040226-NSI
+Registrant Name:LongIslandGolden Retriever Rescue Inc.
+Registrant Organization:LongIslandGolden Retriever Rescue Inc.
+Registrant Street1:28 Richmond St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Islip
+Registrant State/Province:NY
+Registrant Postal Code:11751
+Registrant Country:US
+Registrant Phone:+1.63166904
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bcurtis@DZUS.COM
+Admin ID:6074109-NSI
+Admin Name:Robert Curtis
+Admin Organization:DFCI Solutions, Inc.
+Admin Street1:425 UNION BLVD
+Admin Street2:
+Admin Street3:
+Admin City:WEST ISLIP
+Admin State/Province:NY
+Admin Postal Code:11795-3116
+Admin Country:US
+Admin Phone:+1.6316690494
+Admin Phone Ext.:
+Admin FAX:+1.6316690785
+Admin FAX Ext.:
+Admin Email:curtis@dfcis.com
+Tech ID:5486443-NSI
+Tech Name:A M Salim
+Tech Street1:P.O. Box 12892
+Tech Street2:
+Tech Street3:
+Tech City:Research Triangle Park
+Tech State/Province:NC
+Tech Postal Code:27709
+Tech Country:US
+Tech Phone:+1.9195444101
+Tech Phone Ext.:
+Tech FAX:+1.9195445345
+Tech FAX Ext.:
+Tech Email:msalim@localweb.com
+Name Server:DNS1.AMERICAN-DATA.NET
+Name Server:DNS2.AMERICAN-DATA.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

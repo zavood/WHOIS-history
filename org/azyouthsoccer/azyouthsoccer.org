@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D81521496-LROR
+Domain Name:AZYOUTHSOCCER.ORG
+Created On:21-Dec-2001 23:47:07 UTC
+Last Updated On:04-Feb-2011 00:25:26 UTC
+Expiration Date:21-Dec-2011 23:47:07 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR68852326
+Registrant Name:Leslie Johnson
+Registrant Organization:Arizona Youth Soccer Association
+Registrant Street1:9034 N 23rd Ave Ste 10
+Registrant Street2:
+Registrant Street3:
+Registrant City:Phoenix
+Registrant State/Province:Arizona
+Registrant Postal Code:85021
+Registrant Country:US
+Registrant Phone:+1.6024339202
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:aysaoffmgr@aol.com
+Admin ID:CR68852371
+Admin Name:Leslie Johnson
+Admin Organization:Arizona Youth Soccer Association
+Admin Street1:9034 N 23rd Ave Ste 10
+Admin Street2:
+Admin Street3:
+Admin City:Phoenix
+Admin State/Province:Arizona
+Admin Postal Code:85021
+Admin Country:US
+Admin Phone:+1.6024339202
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:aysaoffmgr@aol.com
+Tech ID:CR68852348
+Tech Name:Leslie Johnson
+Tech Organization:Arizona Youth Soccer Association
+Tech Street1:9034 N 23rd Ave Ste 10
+Tech Street2:
+Tech Street3:
+Tech City:Phoenix
+Tech State/Province:Arizona
+Tech Postal Code:85021
+Tech Country:US
+Tech Phone:+1.6024339202
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:aysaoffmgr@aol.com
+Name Server:NS1.AMERICANEAGLE.COM
+Name Server:NS2.AMERICANEAGLE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 28-aug-2000
    Expiration Date: 28-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 20:26:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 09:40:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -130,10 +130,10 @@ Zone Phone Ext:
 Zone Fax:
 Zone Fax Ext:
 Zone Email: domainmaster@gamigo.com
+Name Server: ns17.knipp.net 195.253.51.61
+Name Server ACE: ns17.knipp.net 195.253.51.61
 Name Server: ns3.knipp.de
 Name Server ACE: ns3.knipp.de
 Name Server: anycast1.irondns.net 195.253.64.5
 Name Server ACE: anycast1.irondns.net 195.253.64.5
-Name Server: ns17.knipp.net 195.253.51.61
-Name Server ACE: ns17.knipp.net 195.253.51.61
 

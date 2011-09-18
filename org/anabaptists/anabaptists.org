@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1206071-LROR
+Domain Name:ANABAPTISTS.ORG
+Created On:29-Apr-1997 04:00:00 UTC
+Last Updated On:01-May-2011 01:25:51 UTC
+Expiration Date:30-Apr-2012 04:00:00 UTC
+Sponsoring Registrar:Advanced Internet Technologies, Inc. (AIT) (R232-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:AITorgORG3691
+Registrant Name:Mark  . Roth
+Registrant Street1:Anabaptist Bookstore
+Registrant Street2:14487 Whiskey Hill Rd NE
+Registrant Street3:
+Registrant City:Hubbard
+Registrant State/Province:OR
+Registrant Postal Code:97032
+Registrant Country:US
+Registrant Phone:+1.5039813893
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mroth@anabaptists.org
+Admin ID:AITorgADM3691
+Admin Name:Mark  . Roth
+Admin Street1:Anabaptist Bookstore
+Admin Street2:14487 Whiskey Hill Rd NE
+Admin Street3:
+Admin City:Hubbard
+Admin State/Province:OR
+Admin Postal Code:97032
+Admin Country:US
+Admin Phone:+1.5039813893
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mroth@anabaptists.org
+Tech ID:AITorgTEC3691
+Tech Name:Mark  . Roth
+Tech Street1:Anabaptist Bookstore
+Tech Street2:14487 Whiskey Hill Rd NE
+Tech Street3:
+Tech City:Hubbard
+Tech State/Province:OR
+Tech Postal Code:97032
+Tech Country:US
+Tech Phone:+1.5039813893
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mroth@anabaptists.org
+Name Server:NS40.ANYSERVERS.COM
+Name Server:NS41.ANYSERVERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 02-jan-2000
    Expiration Date: 02-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 20:13:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 09:35:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -66,7 +66,7 @@ commercial advertising or solicitations via e-mail (spam); or
 
 By submitting this query, you agree to abide by the above policy.
 
-Whois History: 967 records have been archived since 2003-12-29
+Whois History: 970 records have been archived since 2003-12-29
 http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=zylom.com
 
 Domain: zylom.com

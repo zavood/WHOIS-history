@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D151918005-LROR
+Domain Name:SCHOOLSHOUSTON.ORG
+Created On:04-Mar-2008 14:02:14 UTC
+Last Updated On:25-Aug-2011 08:20:59 UTC
+Expiration Date:04-Mar-2012 14:02:14 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR90978274
+Registrant Name:Adrian Hall
+Registrant Organization:Ethings Soluciones S.L.
+Registrant Street1:Rodriguez Marin 88 1-A
+Registrant Street2:
+Registrant Street3:
+Registrant City:Madrid
+Registrant State/Province:Madrid
+Registrant Postal Code:28016
+Registrant Country:ES
+Registrant Phone:+34.902024881
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ahall@aprendelo.com
+Admin ID:CR90978298
+Admin Name:Adrian Hall
+Admin Organization:Ethings Soluciones S.L.
+Admin Street1:Rodriguez Marin 88 1-A
+Admin Street2:
+Admin Street3:
+Admin City:Madrid
+Admin State/Province:Madrid
+Admin Postal Code:28016
+Admin Country:ES
+Admin Phone:+34.902024881
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ahall@aprendelo.com
+Tech ID:CR90978286
+Tech Name:Adrian Hall
+Tech Organization:Ethings Soluciones S.L.
+Tech Street1:Rodriguez Marin 88 1-A
+Tech Street2:
+Tech Street3:
+Tech City:Madrid
+Tech State/Province:Madrid
+Tech Postal Code:28016
+Tech Country:ES
+Tech Phone:+34.902024881
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ahall@aprendelo.com
+Name Server:NS1.SCHOOLSHOUSTON.ORG
+Name Server:NS2.SCHOOLSHOUSTON.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -17,10 +17,11 @@ time. By submitting this query, you agree to abide by this policy.
 Domain ID:D128907161-LROR
 Domain Name:PASIONPORCRISTO.ORG
 Created On:14-Sep-2006 09:46:49 UTC
-Last Updated On:15-Sep-2010 01:22:01 UTC
-Expiration Date:14-Sep-2011 09:46:49 UTC
+Last Updated On:15-Sep-2011 01:23:02 UTC
+Expiration Date:14-Sep-2012 09:46:49 UTC
 Sponsoring Registrar:1 &amp; 1 Internet AG (R73-LROR)
 Status:OK
+Status:AUTORENEWPERIOD
 Registrant ID:SPAG-34313659
 Registrant Name:Jens Neuhaus
 Registrant Street1:Johannes-Meis-Str. 4

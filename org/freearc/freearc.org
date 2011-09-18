@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D151865899-LROR
+Domain Name:FREEARC.ORG
+Created On:27-Feb-2008 17:14:52 UTC
+Last Updated On:01-Mar-2011 07:25:50 UTC
+Expiration Date:27-Feb-2012 17:14:52 UTC
+Sponsoring Registrar:Regional Network Information Center, JSC dba RU-CENTER (R148-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:YJ2H6ZK-RU
+Registrant Name:Mark V Shevchenko
+Registrant Organization:Mark V Shevchenko
+Registrant Street1:b-r 60 let Oktyabrya, d. 5, kv. 342
+Registrant Street2:
+Registrant Street3:
+Registrant City:Naberezhnye Chelny
+Registrant State/Province:Tatarstan
+Registrant Postal Code:423812
+Registrant Country:RU
+Registrant Phone:+7.9852557973
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:markshevchenko@gmail.com
+Admin ID:YJ2H6ZK-RU
+Admin Name:Mark V Shevchenko
+Admin Organization:Mark V Shevchenko
+Admin Street1:b-r 60 let Oktyabrya, d. 5, kv. 342
+Admin Street2:
+Admin Street3:
+Admin City:Naberezhnye Chelny
+Admin State/Province:Tatarstan
+Admin Postal Code:423812
+Admin Country:RU
+Admin Phone:+7.9852557973
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:markshevchenko@gmail.com
+Tech ID:YJ2H6ZK-RU
+Tech Name:Mark V Shevchenko
+Tech Organization:Mark V Shevchenko
+Tech Street1:b-r 60 let Oktyabrya, d. 5, kv. 342
+Tech Street2:
+Tech Street3:
+Tech City:Naberezhnye Chelny
+Tech State/Province:Tatarstan
+Tech Postal Code:423812
+Tech Country:RU
+Tech Phone:+7.9852557973
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:markshevchenko@gmail.com
+Name Server:NS01.PARKING.RU
+Name Server:NS11.PARKING.RU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

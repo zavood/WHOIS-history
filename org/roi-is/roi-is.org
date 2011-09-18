@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D24239063-LROR
+Domain Name:ROI-IS.ORG
+Created On:05-Apr-2000 17:15:06 UTC
+Last Updated On:05-Apr-2011 01:46:03 UTC
+Expiration Date:05-Apr-2012 17:15:06 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:10687301745260
+Registrant Name:Rural Opportunities, Incorporated
+Registrant Organization:Rural Opportunities, Incorporated
+Registrant Street1:400 East Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Rochester
+Registrant State/Province:NY
+Registrant Postal Code:14607
+Registrant Country:US
+Registrant Phone:+1.5853403365
+Registrant Phone Ext.:
+Registrant FAX:+1.8886636648
+Registrant FAX Ext.:
+Registrant Email:jlewis@ruralinc.org
+Admin ID:10687301749090
+Admin Name:Jeffrey Lewis
+Admin Street1:400 East Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Rochester
+Admin State/Province:NY
+Admin Postal Code:14607
+Admin Country:US
+Admin Phone:+1.5853403365
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jlewis@ruralinc.org
+Tech ID:10687301756820
+Tech Name:Time Warner Telecom Time Warner Telecom
+Tech Street1:3235 Intertech Drive
+Tech Street2:
+Tech Street3:
+Tech City:Brookfield
+Tech State/Province:WI
+Tech Postal Code:53045
+Tech Country:US
+Tech Phone:+1.8008986473
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@twtelecom.net
+Name Server:INS1.CHRL.TWTELECOM.NET
+Name Server:INS1.NYCL.TWTELECOM.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

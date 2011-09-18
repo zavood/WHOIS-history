@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 28-feb-2011
    Expiration Date: 28-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 14:06:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 09:00:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Marek Smirnov
-   Drottingholmswagen 190-4
-   Stockholm,  57264
-   Sweden
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: GFVAGINA.COM
-      Created on: 28-Feb-11
-      Expires on: 28-Feb-12
-      Last Updated on: 28-Feb-11
-
-   Administrative Contact:
-      Smirnov, Marek  andreibild@gmail.com
-      Drottingholmswagen 190-4
-      Stockholm,  57264
-      Sweden
-      +46.125500745      Fax --
-
-   Technical Contact:
-      Smirnov, Marek  andreibild@gmail.com
-      Drottingholmswagen 190-4
-      Stockholm,  57264
-      Sweden
-      +46.125500745      Fax --
 
    Domain servers in listed order:
       NS1.LOVINGMOMMIES.COM
       NS2.LOVINGMOMMIES.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=GFVAGINA.COM

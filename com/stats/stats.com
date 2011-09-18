@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 27-jul-1994
    Expiration Date: 26-jul-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:42:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 09:19:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,6 +71,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: stats.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 02:32:32 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sun Sep 18 05:09:47 EDT 2011
 Reason Code: IE

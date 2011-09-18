@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: FCH3D-NORID
+Domain Name................: fchulloy.no
+Domain Holder Handle.......: FH200O-NORID
+Registrar Handle...........: REG657-NORID
+Legal-c Handle.............: TA3237P-NORID
+Tech-c Handle..............: JEM175P-NORID
+Name Server Handle.........: NSPR129H-NORID
+Name Server Handle.........: NSPR89H-NORID
+
+Additional information:
+Created:         2010-01-28
+Last updated:    2011-03-29
+
+NORID Handle...............: FH200O-NORID
+Type.......................: organization
+Name.......................: FC HULL&Oslash;Y
+Id Type....................: organization_number
+Id Number..................: 995044935
+Registrar Handle...........: REG657-NORID
+Post Address...............: Bukta
+Postal Code................: NO-8270
+Postal Area................: DRAG
+Country....................: NO
+Mobile Phone Number........: +47.91313150
+Email Address..............: hulloyfk@hotmail.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

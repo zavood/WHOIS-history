@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157517542-LROR
+Domain Name:HOWSTHEMARKET.ORG
+Created On:04-Nov-2009 23:55:16 UTC
+Last Updated On:17-Jan-2011 18:53:44 UTC
+Expiration Date:04-Nov-2011 23:55:16 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR25699738
+Registrant Name:Stefanie Tullia
+Registrant Street1:900 S. College
+Registrant Street2:Suite 100
+Registrant Street3:
+Registrant City:Lafayette
+Registrant State/Province:Louisiana
+Registrant Postal Code:70503
+Registrant Country:US
+Registrant Phone:+1.3372555483
+Registrant Phone Ext.:
+Registrant FAX:+1.3377359331
+Registrant FAX Ext.:
+Registrant Email:Stullia@kw.com
+Admin ID:CR25699744
+Admin Name:Stefanie Tullia
+Admin Street1:900 S. College
+Admin Street2:Suite 100
+Admin Street3:
+Admin City:Lafayette
+Admin State/Province:Louisiana
+Admin Postal Code:70503
+Admin Country:US
+Admin Phone:+1.3372555483
+Admin Phone Ext.:
+Admin FAX:+1.3377359331
+Admin FAX Ext.:
+Admin Email:Stullia@kw.com
+Tech ID:CR25699742
+Tech Name:Stefanie Tullia
+Tech Street1:900 S. College
+Tech Street2:Suite 100
+Tech Street3:
+Tech City:Lafayette
+Tech State/Province:Louisiana
+Tech Postal Code:70503
+Tech Country:US
+Tech Phone:+1.3372555483
+Tech Phone Ext.:
+Tech FAX:+1.3377359331
+Tech FAX Ext.:
+Tech Email:Stullia@kw.com
+Name Server:NS1.MARKETLEADER.COM
+Name Server:NS2.MARKETLEADER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

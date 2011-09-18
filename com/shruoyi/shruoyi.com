@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 13-jul-2009
    Expiration Date: 13-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 02:05:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 09:44:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,69 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The Data in Paycenter's WHOIS database is provided by Paycenter
-for information purposes, and to assist persons in obtaining
-information about or related to a domain name registration record.
-Paycenter does not guarantee its accuracy.  By submitting
-a WHOIS query, you agree that you will use this Data only
-for lawful purposes and that,
-under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission
-of mass unsolicited, commercial advertising or solicitations
-via e-mail (spam); or
-(2) enable high volume, automated, electronic processes that
-apply to Paycenter or its systems.
-Paycenter reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by this policy.
-
-Domain Name      : shruoyi.com
-PunnyCode        : shruoyi.com
-Creation Date    : 2009-07-14 11:13:27
-Updated Date     : 2010-08-10 10:11:33
-Expiration Date  : 2011-07-14 10:44:29
-
-
-Registrant:
-  Organization   : Shanghai Ruoyi mechanical equipment Com. Ltd.
-  Name           : JIANGHAIJUN
-  Address        :  jiushu Rd. NO.225 songjiang district shanghai
-  City           : shixiaqu
-  Province/State : shanghaishi
-  Country        : china
-  Postal Code    : 201615
-
-Administrative Contact:
-  Name           : JIANGHAIJUN
-  Organization   : Shanghai Ruoyi mechanical equipment Com. Ltd.
-  Address        :  jiushu Rd. NO.225 songjiang district shanghai
-  City           : shixiaqu
-  Province/State : shanghaishi
-  Country        : china
-  Postal Code    : 201615
-  Phone Number   : 86-021-37820247
-  Fax            : 86-021-37820717
-  Email          : jhjruoyi@163.com
-
-Technical Contact:
-  Name           : JIANGHAIJUN
-  Organization   : Shanghai Ruoyi mechanical equipment Com. Ltd.
-  Address        :  jiushu Rd. NO.225 songjiang district shanghai
-  City           : shixiaqu
-  Province/State : shanghaishi
-  Country        : china
-  Postal Code    : 201615
-  Phone Number   : 86-021-37820247
-  Fax            : 86-021-37820717
-  Email          : jhjruoyi@163.com
-
-Billing Contact:
-  Name           : JIANGHAIJUN
-  Organization   : Shanghai Ruoyi mechanical equipment Com. Ltd.
-  Address        :  jiushu Rd. NO.225 songjiang district shanghai
-  City           : shixiaqu
-  Province/State : shanghaishi
-  Country        : china
-  Postal Code    : 201615
-  Phone Number   : 86-021-37820247
-  Fax            : 86-021-37820717
-  Email          : jhjruoyi@163.com
+no data found!

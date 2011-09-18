@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104926276-LROR
+Domain Name:ABEJA.ORG
+Created On:24-Sep-2004 13:27:55 UTC
+Last Updated On:31-Aug-2011 10:34:21 UTC
+Expiration Date:24-Sep-2012 13:27:55 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR47079618
+Registrant Name:Daniel Legin
+Registrant Organization:PLUS hosting
+Registrant Street1:Istarska 36
+Registrant Street2:Istarska 36
+Registrant Street3:
+Registrant City:Pula
+Registrant State/Province:
+Registrant Postal Code:52100
+Registrant Country:HR
+Registrant Phone:+385.52380870
+Registrant Phone Ext.:
+Registrant FAX:+385.52210685
+Registrant FAX Ext.:
+Registrant Email:domene@plus.hr
+Admin ID:CR47079686
+Admin Name:DNS Admin
+Admin Organization:PLUS hosting
+Admin Street1:Istarska 36
+Admin Street2:Istarska 36
+Admin Street3:
+Admin City:Pula
+Admin State/Province:
+Admin Postal Code:52100
+Admin Country:HR
+Admin Phone:+385.52380870
+Admin Phone Ext.:
+Admin FAX:+385.52210685
+Admin FAX Ext.:
+Admin Email:domene@plus.hr
+Tech ID:CR47079634
+Tech Name:DNS Admin
+Tech Organization:PLUS hosting
+Tech Street1:Istarska 36
+Tech Street2:Istarska 36
+Tech Street3:
+Tech City:Pula
+Tech State/Province:
+Tech Postal Code:52100
+Tech Country:HR
+Tech Phone:+385.52380870
+Tech Phone Ext.:
+Tech FAX:+385.52210685
+Tech FAX Ext.:
+Tech Email:domene@plus.hr
+Name Server:NS1.MOJSITE.COM
+Name Server:NS2.MOJSITE.COM
+Name Server:NS3.MOJSITE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

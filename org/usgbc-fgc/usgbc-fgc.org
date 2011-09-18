@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158281084-LROR
+Domain Name:USGBC-FGC.ORG
+Created On:04-Feb-2010 04:20:11 UTC
+Last Updated On:10-Nov-2010 20:12:05 UTC
+Expiration Date:04-Feb-2014 04:20:11 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR41554568
+Registrant Name:Colleen Mackin
+Registrant Organization:Florida Gulf Coast Chapter of the USGBC
+Registrant Street1:6417 Sweetgum Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:New Port RIchey
+Registrant State/Province:Florida
+Registrant Postal Code:34655
+Registrant Country:US
+Registrant Phone:+1.7273723814
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:colleenm@tampabay.rr.com
+Admin ID:CR41554575
+Admin Name:Colleen Mackin
+Admin Organization:Florida Gulf Coast Chapter of the USGBC
+Admin Street1:6417 Sweetgum Drive
+Admin Street2:
+Admin Street3:
+Admin City:New Port RIchey
+Admin State/Province:Florida
+Admin Postal Code:34655
+Admin Country:US
+Admin Phone:+1.7273723814
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:colleenm@tampabay.rr.com
+Tech ID:CR41554571
+Tech Name:Colleen Mackin
+Tech Organization:Florida Gulf Coast Chapter of the USGBC
+Tech Street1:6417 Sweetgum Drive
+Tech Street2:
+Tech Street3:
+Tech City:New Port RIchey
+Tech State/Province:Florida
+Tech Postal Code:34655
+Tech Country:US
+Tech Phone:+1.7273723814
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:colleenm@tampabay.rr.com
+Name Server:NS57.DOMAINCONTROL.COM
+Name Server:NS58.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158240078-LROR
+Domain Name:SOSRAJKOT.ORG
+Created On:30-Jan-2010 16:46:10 UTC
+Last Updated On:28-Feb-2011 08:59:52 UTC
+Expiration Date:30-Jan-2012 16:46:10 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_11367492
+Registrant Name:Darpan Patel
+Registrant Organization:DAP Solutions
+Registrant Street1:A - 38 Aalay Park
+Registrant Street2:Nana Mahuva Main Road,
+Registrant Street3:Opp Mahatma Gandhi School
+Registrant City:Rajkot
+Registrant State/Province:Gujarat
+Registrant Postal Code:360005
+Registrant Country:IN
+Registrant Phone:+91.9824549849
+Registrant Phone Ext.:
+Registrant FAX:+281.2331949
+Registrant FAX Ext.:
+Registrant Email:dapsolutionsrajkot@gmail.com
+Admin ID:DI_11367492
+Admin Name:Darpan Patel
+Admin Organization:DAP Solutions
+Admin Street1:A - 38 Aalay Park
+Admin Street2:Nana Mahuva Main Road,
+Admin Street3:Opp Mahatma Gandhi School
+Admin City:Rajkot
+Admin State/Province:Gujarat
+Admin Postal Code:360005
+Admin Country:IN
+Admin Phone:+91.9824549849
+Admin Phone Ext.:
+Admin FAX:+281.2331949
+Admin FAX Ext.:
+Admin Email:dapsolutionsrajkot@gmail.com
+Tech ID:DI_11367492
+Tech Name:Darpan Patel
+Tech Organization:DAP Solutions
+Tech Street1:A - 38 Aalay Park
+Tech Street2:Nana Mahuva Main Road,
+Tech Street3:Opp Mahatma Gandhi School
+Tech City:Rajkot
+Tech State/Province:Gujarat
+Tech Postal Code:360005
+Tech Country:IN
+Tech Phone:+91.9824549849
+Tech Phone Ext.:
+Tech FAX:+281.2331949
+Tech FAX Ext.:
+Tech Email:dapsolutionsrajkot@gmail.com
+Name Server:NS1.DAPSOLUTIONS.NET
+Name Server:NS2.DAPSOLUTIONS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

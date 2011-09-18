@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1161366-LROR
+Domain Name:SHIELDS-RESEARCH.ORG
+Created On:19-May-1997 04:00:00 UTC
+Last Updated On:01-Apr-2010 23:03:24 UTC
+Expiration Date:20-May-2012 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30555673
+Registrant Name:Stanley Barker
+Registrant Organization:SHIELDS
+Registrant Street1:P.O. Box 569
+Registrant Street2:208 N. Main St.
+Registrant Street3:
+Registrant City:Millville
+Registrant State/Province:Utah
+Registrant Postal Code:84326
+Registrant Country:US
+Registrant Phone:+1.4357525504
+Registrant Phone Ext.:
+Registrant FAX:+1.4357525548
+Registrant FAX Ext.:
+Registrant Email:sdbarker@pdsrv.com
+Admin ID:CR30555675
+Admin Name:Stanley Barker
+Admin Organization:SHIELDS
+Admin Street1:P.O. Box 569
+Admin Street2:208 N. Main St.
+Admin Street3:
+Admin City:Millville
+Admin State/Province:Utah
+Admin Postal Code:84326
+Admin Country:US
+Admin Phone:+1.4357525504
+Admin Phone Ext.:
+Admin FAX:+1.4357525548
+Admin FAX Ext.:
+Admin Email:sdbarker@pdsrv.com
+Tech ID:CR30555674
+Tech Name:Stanley Barker
+Tech Organization:SHIELDS
+Tech Street1:P.O. Box 569
+Tech Street2:208 N. Main St.
+Tech Street3:
+Tech City:Millville
+Tech State/Province:Utah
+Tech Postal Code:84326
+Tech Country:US
+Tech Phone:+1.4357525504
+Tech Phone Ext.:
+Tech FAX:+1.4357525548
+Tech FAX Ext.:
+Tech Email:sdbarker@pdsrv.com
+Name Server:NS83.WEBSITEWELCOME.COM
+Name Server:NS84.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

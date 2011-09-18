@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      westernunion.ie
+descr:       Western Union Holdings Inc
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Discretionary Name
+admin-c:     ACM431-IEDR
+tech-c:      CCA7-IEDR
+renewal:     23-May-2012
+status:      Active
+nserver:     AUTH00.NS.UU.NET
+nserver:     AUTH100.NS.UU.NET
+source:      IEDR
+
+person:      Ritchie Drews
+nic-hdl:     ACM431-IEDR
+source:      IEDR
+
+person:      eMarkmonitor Inc
+nic-hdl:     CCA7-IEDR
+source:      IEDR
+

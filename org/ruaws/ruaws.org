@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104741203-LROR
+Domain Name:RUAWS.ORG
+Created On:10-Aug-2004 15:13:28 UTC
+Last Updated On:26-Jul-2011 08:04:45 UTC
+Expiration Date:10-Aug-2012 15:13:28 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuKSTtIlLzsIMVWV
+Registrant Name:Frederick Hurford
+Registrant Organization:Frederick Hurford
+Registrant Street1:12 Wilmer Ave.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Somerville
+Registrant State/Province:NJ
+Registrant Postal Code:08876
+Registrant Country:US
+Registrant Phone:+1.9082311467
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:frederickhurford@yahoo.com
+Admin ID:tuKSTtIlLzsIMVWV
+Admin Name:Frederick Hurford
+Admin Organization:Frederick Hurford
+Admin Street1:12 Wilmer Ave.
+Admin Street2:
+Admin Street3:
+Admin City:Somerville
+Admin State/Province:NJ
+Admin Postal Code:08876
+Admin Country:US
+Admin Phone:+1.9082311467
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:frederickhurford@yahoo.com
+Tech ID:tuwptNQvqEeAFZ3v
+Tech Name:System Administrator
+Tech Organization:Lunarpages
+Tech Street1:14730 Beach Blvd. Suite 102
+Tech Street2:
+Tech Street3:
+Tech City:La Mirada
+Tech State/Province:California
+Tech Postal Code:90638
+Tech Country:US
+Tech Phone:+1.7145218150
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@lunarpages.com
+Name Server:NS1.LUNARPAGES.COM
+Name Server:NS2.LUNARPAGES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

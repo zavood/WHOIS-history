@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101510534-LROR
+Domain Name:PRADABOUTIQUE.ORG
+Created On:27-Sep-2003 03:04:37 UTC
+Last Updated On:04-Aug-2010 10:02:36 UTC
+Expiration Date:27-Sep-2011 03:04:37 UTC
+Sponsoring Registrar:ASCIO Technologies, Inc. - Denmark (R76-LROR)
+Status:OK
+Registrant ID:71241620-NETBENO
+Registrant Name:PRADA S.A.
+Registrant Organization:Murielle Vincenti
+Registrant Street1:23 rue Aldringen
+Registrant Street2:
+Registrant Street3:
+Registrant City:Luxembourg
+Registrant State/Province:Luxembourg
+Registrant Postal Code:L- 1118
+Registrant Country:GB
+Registrant Phone:+352.2626361
+Registrant Phone Ext.:
+Registrant FAX:+352.26263636
+Registrant FAX Ext.:
+Registrant Email:murielle.vincenti@prada.com
+Admin ID:71241620-NETBENO
+Admin Name:PRADA S.A.
+Admin Organization:Murielle Vincenti
+Admin Street1:23 rue Aldringen
+Admin Street2:
+Admin Street3:
+Admin City:Luxembourg
+Admin State/Province:Luxembourg
+Admin Postal Code:L- 1118
+Admin Country:GB
+Admin Phone:+352.2626361
+Admin Phone Ext.:
+Admin FAX:+352.26263636
+Admin FAX Ext.:
+Admin Email:murielle.vincenti@prada.com
+Tech ID:70780163-NETBENT
+Tech Name:Role Netnames Hostmaster
+Tech Organization:Netnames Ltd
+Tech Street1:Prospero House
+Tech Street2:241 Borough High Street
+Tech Street3:
+Tech City:London
+Tech State/Province:London
+Tech Postal Code:SE1 1GA
+Tech Country:GB
+Tech Phone:+44.8704589400
+Tech Phone Ext.:
+Tech FAX:+44.8704589405
+Tech FAX Ext.:
+Tech Email:hostmaster@netnames.net
+Name Server:NS2.NETNAMES.NET
+Name Server:NS1.NETNAMES.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

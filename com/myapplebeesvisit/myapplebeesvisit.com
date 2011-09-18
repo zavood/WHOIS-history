@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 13-sep-2010
    Expiration Date: 13-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 02:30:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 09:06:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -110,4 +110,4 @@ System Status Updates: http://easyurl.net/easystatus
   or Identi.ca http://identi.ca/easyDNS )
 
 
-You have 2 lookups left today
+You have 11 lookups left today

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D239648-LROR
+Domain Name:COPERNICUS.ORG
+Created On:05-May-1997 04:00:00 UTC
+Last Updated On:15-Apr-2011 07:37:26 UTC
+Expiration Date:06-May-2014 04:00:00 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:OK
+Registrant ID:ABM-10868276
+Registrant Name:Martin Rasmussen
+Registrant Organization:Copernicus Gesellschaft mbH
+Registrant Street1:Bahnhofsallee 1e
+Registrant Street2:
+Registrant Street3:
+Registrant City:Goettingen
+Registrant State/Province:Niedersachsen
+Registrant Postal Code:37081
+Registrant Country:DE
+Registrant Phone:+49.5519003390
+Registrant Phone Ext.:
+Registrant FAX:+49.55190033970
+Registrant FAX Ext.:
+Registrant Email:it@copernicus.org
+Admin ID:ABM-900966
+Admin Name:Michael Oppermann
+Admin Organization:Copernicus Gesellschaft mbH
+Admin Street1:Bahnhofsallee 1e
+Admin Street2:
+Admin Street3:
+Admin City:Goettingen
+Admin State/Province:Niedersachsen
+Admin Postal Code:37081
+Admin Country:DE
+Admin Phone:+49.55190033930
+Admin Phone Ext.:
+Admin FAX:+49.55190033970
+Admin FAX Ext.:
+Admin Email:michael.oppermann@copernicus.org
+Tech ID:ABM-900967
+Tech Name:Sergey Malugin
+Tech Organization:Copernicus Gesellschaft mbH
+Tech Street1:Bahnhofsallee 1e
+Tech Street2:
+Tech Street3:
+Tech City:Goettingen
+Tech State/Province:Niedersachsen
+Tech Postal Code:37081
+Tech Country:DE
+Tech Phone:+49.55190033931
+Tech Phone Ext.:
+Tech FAX:+49.55190033970
+Tech FAX Ext.:
+Tech Email:sergey.malugin@copernicus.org
+Name Server:NSA6.SCHLUNDTECH.DE
+Name Server:NSB6.SCHLUNDTECH.DE
+Name Server:NSC6.SCHLUNDTECH.DE
+Name Server:NSD6.SCHLUNDTECH.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

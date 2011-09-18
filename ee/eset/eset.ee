@@ -1,0 +1,41 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       eset.ee
+registrant:   CID:ZONE:77883
+admin-c:      CID:ZONE:77884
+nsset:        NSSID:ZONE:8324
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 06:05:25
+changed:      22.09.2010 00:01:43
+expire:       21.09.2012
+
+contact:      CID:ZONE:77883
+org:          7x7 O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      22.09.2010 00:00:44
+
+contact:      CID:ZONE:77884
+name:         Allan Kinsigo
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      22.09.2010 00:00:43
+
+nsset:        NSSID:ZONE:8324
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:77885
+registrar:    zone
+created:      22.09.2010 00:00:44
+
+contact:      CID:ZONE:77885
+org:          7x7 O&Atilde;œ
+name:         Allan Kinsigo
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      22.09.2010 00:00:43
+
+

@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 30-mar-2011
    Expiration Date: 30-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:40:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 09:16:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Wednesday, 14-Sep-2011 22:40:51 CEST
-# gmt time      : Wednesday, 14-Sep-2011 20:40:51 GMT
-# last modify   : Thursday, 25-Aug-2011 08:45:59 CEST
-# request from  : 192.168.248.3:11322
+# local time    : Sunday, 18-Sep-2011 11:17:35 CEST
+# gmt time      : Sunday, 18-Sep-2011 09:17:35 GMT
+# last modify   : Sunday, 18-Sep-2011 02:31:30 CEST
+# request from  : 192.168.248.1:12685
 
 Domain name: djmixerstudio.com
 
@@ -135,7 +135,7 @@ Technical Contact:
   ES
   +34.936000650
   (fax: +34.936000651)
-  9rhtyk199fszaftwe39n@f.o-w-o.info
+  a5os8yt2qc7gygl7523d@u.o-w-o.info
 
 Billing Contact:
   Aedge Performance BCN, S.L.U.
@@ -145,7 +145,7 @@ Billing Contact:
   ES
   +34.936000650
   (fax: +34.936000651)
-  9rhtyk199fszaftwe39n@f.o-w-o.info
+  a5os8yt2qc7gygl7523d@u.o-w-o.info
 
 Registrar of Record: OVH.
 Record last updated on 2011-04-19.

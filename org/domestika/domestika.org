@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D78845528-LROR
+Domain Name:DOMESTIKA.ORG
+Created On:22-Oct-2001 07:58:34 UTC
+Last Updated On:19-May-2010 14:59:29 UTC
+Expiration Date:22-Oct-2016 07:58:34 UTC
+Sponsoring Registrar:Arsys Internet, S.L. dba nicline.com (R144-LROR)
+Status:OK
+Registrant ID:ARS1274281175352
+Registrant Name:Domestika Internet, s.l.
+Registrant Organization:Domestika Internet, s.l.
+Registrant Street1:Principe 1, 4
+Registrant Street2:
+Registrant Street3:
+Registrant City:Madrid
+Registrant State/Province:Madrid
+Registrant Postal Code:28012
+Registrant Country:ES
+Registrant Phone:+34.914952578
+Registrant Phone Ext.:
+Registrant FAX:+34.914952578
+Registrant FAX Ext.:
+Registrant Email:dominos@domestika.com
+Admin ID:ARS1171555310640
+Admin Name:Dtor. Departamento Registro de Dominios
+Admin Organization:INFORMACION INTERACTIVA, S.L.
+Admin Street1:Belen 3, 1
+Admin Street2:
+Admin Street3:
+Admin City:Madrid
+Admin State/Province:Madrid
+Admin Postal Code:28004
+Admin Country:ES
+Admin Phone:+34.913080400
+Admin Phone Ext.:
+Admin FAX:+34.913080833
+Admin FAX Ext.:
+Admin Email:hiruluguer@hiruluguer.com
+Tech ID:ARS1171555310640
+Tech Name:Dtor. Departamento Registro de Dominios
+Tech Organization:INFORMACION INTERACTIVA, S.L.
+Tech Street1:Belen 3, 1
+Tech Street2:
+Tech Street3:
+Tech City:Madrid
+Tech State/Province:Madrid
+Tech Postal Code:28004
+Tech Country:ES
+Tech Phone:+34.913080400
+Tech Phone Ext.:
+Tech FAX:+34.913080833
+Tech FAX Ext.:
+Tech Email:hiruluguer@hiruluguer.com
+Name Server:NS1.DOMESTIKA.NET
+Name Server:NS2.DOMESTIKA.NET
+Name Server:NS5.DOMESTIKA.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
