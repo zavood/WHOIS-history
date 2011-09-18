@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 20:51:34 (BRT -03:00)
+
+domain:      suguio.com.br
+owner:       Suguio Consultoria Ltda
+ownerid:     003.373.846/0001-65
+responsible: Walther Massahiro Suguio
+country:     BR
+owner-c:     WAS
+admin-c:     WAS
+tech-c:      TEN12
+billing-c:   WAS
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     19991108 #218062
+expires:     20121108
+changed:     20101112
+status:      published
+
+nic-hdl-br:  TEN12
+person:      Terra Networks
+e-mail:      fapesp@terraempresas.com.br
+created:     20031114
+changed:     20110628
+
+nic-hdl-br:  WAS
+person:      Walther Massahiro Suguio
+e-mail:      suguio@hotmail.com
+created:     19980106
+changed:     20050308
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 21:17:51 (BRT -03:00)
+
+domain:      myblog.com.br
+owner:       Pagetch Sistemas de Informatica Ltda
+ownerid:     007.096.078/0001-09
+responsible: Henrique Morize
+country:     BR
+owner-c:     HEM31
+admin-c:     HEM31
+tech-c:      GSS41
+billing-c:   HEM31
+nserver:     ns1.pagetech.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.pagetech.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20020924 #976862
+expires:     20120924
+changed:     20110909
+status:      published
+
+nic-hdl-br:  GSS41
+person:      Guilherme Saboia Lima de Souza
+e-mail:      gsouza@mypage.com.br
+created:     20000525
+changed:     20041125
+
+nic-hdl-br:  HEM31
+person:      Henrique Morize
+e-mail:      hmorize@mypage.com.br
+created:     19990804
+changed:     20090615
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

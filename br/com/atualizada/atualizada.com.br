@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 21:17:14 (BRT -03:00)
+
+domain:      atualizada.com.br
+owner:       SA-Systema An&aacute;lysis Ltda
+ownerid:     071.482.970/0001-19
+responsible: Gualter Pires do Couto
+country:     BR
+owner-c:     GPC63
+admin-c:     GPC63
+tech-c:      GPC63
+billing-c:   GPC63
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20060331 #2721002
+expires:     20120331
+changed:     20110329
+status:      published
+
+nic-hdl-br:  GPC63
+person:      Gualter Pires do Couto
+e-mail:      gualter.couto@ig.com.br
+created:     20030521
+changed:     20090805
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

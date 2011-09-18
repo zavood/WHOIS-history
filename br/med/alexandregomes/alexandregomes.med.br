@@ -1,0 +1,48 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 21:17:14 (BRT -03:00)
+
+domain:      alexandregomes.med.br
+owner:       Alexandre Gomes
+ownerid:     049.890.918-25
+country:     BR
+owner-c:     ALGOM3
+admin-c:     ALGOM3
+tech-c:      LUANT4
+billing-c:   ALGOM3
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     20071029 #4034562
+expires:     20111029
+changed:     20101109
+status:      published
+
+nic-hdl-br:  ALGOM3
+person:      Alexandre Gomes
+e-mail:      marcohp@terra.com.br
+created:     20061011
+changed:     20061011
+
+nic-hdl-br:  LUANT4
+person:      Luiz Antonio
+e-mail:      ocramsistemas@ocramsistemas.com.br
+created:     20060908
+changed:     20061006
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

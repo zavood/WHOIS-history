@@ -17,11 +17,14 @@ for detailed information.
    Name Server: NSB.UPS.COM
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 05-sep-2011
+   Status: serverDeleteProhibited
+   Status: serverTransferProhibited
+   Status: serverUpdateProhibited
+   Updated Date: 15-sep-2011
    Creation Date: 07-apr-1992
    Expiration Date: 08-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:46:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 00:44:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

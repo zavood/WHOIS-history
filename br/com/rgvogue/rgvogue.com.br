@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 20:52:20 (BRT -03:00)
+
+domain:      rgvogue.com.br
+owner:       Domain Names S/C Ltda
+ownerid:     004.111.814/0001-54
+responsible: Administrador de Dom&iacute;nios DSBIM
+country:     BR
+owner-c:     ADD26
+admin-c:     ADD26
+tech-c:      COSCO3
+billing-c:   COSCO3
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110916 QREFUSED
+nslastaa:    20101129
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110916 QREFUSED
+nslastaa:    20101129
+created:     20060518 #2806906
+expires:     20120518
+changed:     20100514
+status:      published
+
+nic-hdl-br:  ADD26
+person:      Administrador de Dom&iacute;nios DSBIM
+e-mail:      regdom@dannemann.com.br
+created:     20000510
+changed:     20071025
+
+nic-hdl-br:  COSCO3
+person:      Corporation Service Company
+e-mail:      cctld-billing@cscinfo.com
+created:     20081112
+changed:     20081112
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

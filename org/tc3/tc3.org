@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2775219-LROR
+Domain Name:TC3.ORG
+Created On:16-Dec-1998 05:00:00 UTC
+Last Updated On:12-May-2011 17:12:59 UTC
+Expiration Date:16-Dec-2015 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30646426-NSI
+Registrant Name:TreasureCoastCommunity Church
+Registrant Organization:TreasureCoastCommunity Church
+Registrant Street1:PO Box 1511
+Registrant Street2:
+Registrant Street3:
+Registrant City:Jensen Beach
+Registrant State/Province:FL
+Registrant Postal Code:34958
+Registrant Country:US
+Registrant Phone:+1.7723343999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bryan247@hotmail.com
+Admin ID:51331163-NSI
+Admin Name:Treasure Coast Community Church
+Admin Street1:4550 NE Palmetto Drive
+Admin Street2:
+Admin Street3:
+Admin City:Jensen Beach
+Admin State/Province:FL
+Admin Postal Code:34957
+Admin Country:US
+Admin Phone:+1.7723343999
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gordonm@tc3.org
+Tech ID:30646426-NSI
+Tech Name:TreasureCoastCommunity Church
+Tech Organization:TreasureCoastCommunity Church
+Tech Street1:PO Box 1511
+Tech Street2:
+Tech Street3:
+Tech City:Jensen Beach
+Tech State/Province:FL
+Tech Postal Code:34958
+Tech Country:US
+Tech Phone:+1.7723343999
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bryan247@hotmail.com
+Name Server:NS51.WORLDNIC.COM
+Name Server:NS52.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

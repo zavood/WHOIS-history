@@ -11,12 +11,12 @@ for detailed information.
    Referral URL: http://www.aplus.net
    Name Server: NS1.RENEWYOURNAME.APLUS.NET
    Name Server: NS2.RENEWYOURNAME.APLUS.NET
-   Status: redemptionPeriod
-   Updated Date: 14-aug-2011
+   Status: pendingDelete
+   Updated Date: 14-sep-2011
    Creation Date: 01-jul-2006
    Expiration Date: 01-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:55:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 01:11:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

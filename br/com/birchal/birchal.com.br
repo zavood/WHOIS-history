@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 21:17:37 (BRT -03:00)
+
+domain:      birchal.com.br
+owner:       chofer ltda
+ownerid:     042.784.173/0001-98
+responsible: rogerio de oliveira brichal
+country:     BR
+owner-c:     CHL41
+admin-c:     CHL41
+tech-c:      CHL41
+billing-c:   CHL41
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     20020526 #884329
+expires:     20130526
+changed:     20100511
+status:      published
+
+nic-hdl-br:  CHL41
+person:      CHOFER LTDA
+e-mail:      chofer@chofer.com.br
+created:     20000711
+changed:     20020508
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

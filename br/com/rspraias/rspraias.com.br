@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 20:51:50 (BRT -03:00)
+
+domain:      rspraias.com.br
+owner:       RS e Associados Imobiliaria Ltda
+ownerid:     005.545.815/0001-70
+responsible: Edison Santos
+country:     BR
+owner-c:     AIL450
+admin-c:     AIL450
+tech-c:      AIL450
+billing-c:   ROS563
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20051207 #2509307
+expires:     20111207
+changed:     20091215
+status:      published
+
+nic-hdl-br:  AIL450
+person:      An&ocirc;nimosWeb Inc Ltda
+e-mail:      info@anonimosweb.com.br
+created:     20030911
+changed:     20090630
+
+nic-hdl-br:  ROS563
+person:      Roberto Santos
+e-mail:      rsimob@terra.com.br
+created:     20020218
+changed:     20020218
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

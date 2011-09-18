@@ -1,0 +1,38 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: OPE677D-NORID
+Domain Name................: opera.no
+Domain Holder Handle.......: OSA236O-NORID
+Registrar Handle...........: REG536-NORID
+Legal-c Handle.............: JT1478P-NORID
+Tech-c Handle..............: OH15R-NORID
+Name Server Handle.........: NIC70H-NORID
+Name Server Handle.........: NIC71H-NORID
+Name Server Handle.........: NIC72H-NORID
+Name Server Handle.........: NIC88H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2011-07-26
+
+NORID Handle...............: OSA236O-NORID
+Type.......................: organization
+Name.......................: Opera Software AS
+Id Type....................: organization_number
+Id Number..................: 974529459
+Registrar Handle...........: REG536-NORID
+Post Address...............: Waldemar Thranesgt. 98
+Postal Code................: NO-0175
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.24164000
+Fax Number.................: +47.24164001
+Email Address..............: jon@opera.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

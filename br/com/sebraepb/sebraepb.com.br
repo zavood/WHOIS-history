@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 20:48:15 (BRT -03:00)
+
+domain:      sebraepb.com.br
+owner:       SERVICO DE APOIO AS MICRO E PEQUENAS
+ownerid:     009.139.551/0001-05
+responsible: Julio Rafael Jardelino da Costa
+country:     BR
+owner-c:     DSS113
+admin-c:     JAS427
+tech-c:      BISOL3
+billing-c:   JAS427
+nserver:     ns1.sebraepb.com.br 189.52.54.242
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.sebraepb.com.br 189.52.54.243
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     19960717 #11887
+expires:     20180717
+changed:     20110606
+status:      published
+
+nic-hdl-br:  BISOL3
+person:      bit Solu&ccedil;&otilde;es
+e-mail:      fred@bitsolucoes.info
+created:     20091008
+changed:     20091008
+
+nic-hdl-br:  DSS113
+person:      Danyele Santana de Sousa
+e-mail:      danyele@sebraepb.com.br
+created:     20020807
+changed:     20060811
+
+nic-hdl-br:  JAS427
+person:      JAILMA ARA&Uacute;JO DOS SANTOS
+e-mail:      jailma@sebraepb.com.br
+created:     20010420
+changed:     20110415
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

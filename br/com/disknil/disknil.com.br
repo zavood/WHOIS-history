@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 21:17:45 (BRT -03:00)
+
+domain:      disknil.com.br
+owner:       Disk Nil Transporte Rapidos s/c ltda
+ownerid:     002.274.057/0002-95
+responsible: Nilton Dantas de Morais
+country:     BR
+owner-c:     HSA2
+admin-c:     HSA2
+tech-c:      HSA2
+billing-c:   HSA2
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20040429 #1625445
+expires:     20120429
+changed:     20110512
+status:      published
+
+nic-hdl-br:  HSA2
+person:      hermann santos de almirante
+e-mail:      almirante@almirante.com.br
+created:     19980118
+changed:     20091006
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

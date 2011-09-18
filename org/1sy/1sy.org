@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155165279-LROR
+Domain Name:1SY.ORG
+Created On:22-Jan-2009 18:03:56 UTC
+Last Updated On:03-Aug-2011 12:59:12 UTC
+Expiration Date:22-Jan-2012 18:03:56 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ncr-726860-1000c
+Registrant Name:rassem alfesal
+Registrant Organization:universetech
+Registrant Street1:dablan
+Registrant Street2:
+Registrant Street3:
+Registrant City:homs
+Registrant State/Province:none
+Registrant Postal Code:031
+Registrant Country:SY
+Registrant Phone:+963.22173040
+Registrant Phone Ext.:
+Registrant FAX:+1.22173044
+Registrant FAX Ext.:
+Registrant Email:rasemuni@hotmail.com
+Admin ID:nca-726861-e897d
+Admin Name:rassem alfesal
+Admin Organization:universetech
+Admin Street1:dablan
+Admin Street2:
+Admin Street3:
+Admin City:homs
+Admin State/Province:none
+Admin Postal Code:031
+Admin Country:SY
+Admin Phone:+963.22173040
+Admin Phone Ext.:
+Admin FAX:+1.22173044
+Admin FAX Ext.:
+Admin Email:rasemuni@hotmail.com
+Tech ID:nct-726862-80ef1
+Tech Name:rassem alfesal
+Tech Organization:universetech
+Tech Street1:dablan
+Tech Street2:
+Tech Street3:
+Tech City:homs
+Tech State/Province:none
+Tech Postal Code:031
+Tech Country:SY
+Tech Phone:+963.22173040
+Tech Phone Ext.:
+Tech FAX:+1.22173044
+Tech FAX Ext.:
+Tech Email:rasemuni@hotmail.com
+Name Server:NS1.1SY.ORG
+Name Server:NS2.1SY.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

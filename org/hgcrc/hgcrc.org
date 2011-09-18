@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D117259529-LROR
+Domain Name:HGCRC.ORG
+Created On:24-Feb-2006 14:16:25 UTC
+Last Updated On:10-May-2011 00:26:23 UTC
+Expiration Date:24-Feb-2015 14:16:25 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR77486697
+Registrant Name:Douglas Van Nest
+Registrant Organization:Southwestern Ohio District Church of the Nazarene
+Registrant Street1:7943 Tylersville Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:West Chester
+Registrant State/Province:Ohio
+Registrant Postal Code:45069
+Registrant Country:US
+Registrant Phone:+1.5137775600
+Registrant Phone Ext.:
+Registrant FAX:+1.5137775600
+Registrant FAX Ext.:
+Registrant Email:dvannest@swonaz.org
+Admin ID:CR77486701
+Admin Name:Douglas Van Nest
+Admin Organization:Southwestern Ohio District Church of the Nazarene
+Admin Street1:7943 Tylersville Rd.
+Admin Street2:
+Admin Street3:
+Admin City:West Chester
+Admin State/Province:Ohio
+Admin Postal Code:45069
+Admin Country:US
+Admin Phone:+1.5137775600
+Admin Phone Ext.:
+Admin FAX:+1.5137775600
+Admin FAX Ext.:
+Admin Email:dvannest@swonaz.org
+Tech ID:CR77486699
+Tech Name:Douglas Van Nest
+Tech Organization:Southwestern Ohio District Church of the Nazarene
+Tech Street1:7943 Tylersville Rd.
+Tech Street2:
+Tech Street3:
+Tech City:West Chester
+Tech State/Province:Ohio
+Tech Postal Code:45069
+Tech Country:US
+Tech Phone:+1.5137775600
+Tech Phone Ext.:
+Tech FAX:+1.5137775600
+Tech FAX Ext.:
+Tech Email:dvannest@swonaz.org
+Name Server:NS69.DOMAINCONTROL.COM
+Name Server:NS70.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

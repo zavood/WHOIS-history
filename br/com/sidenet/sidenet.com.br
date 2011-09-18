@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 21:19:34 (BRT -03:00)
+
+domain:      sidenet.com.br
+owner:       SIDENET PROVEDOR E INTERNET LTDA.
+ownerid:     001.437.504/0001-36
+responsible: SideNET ISP
+country:     BR
+owner-c:     SBL181
+admin-c:     SBL181
+tech-c:      SBL181
+billing-c:   SBL181
+nserver:     ns.snt.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.snt.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     19960723 #12427
+expires:     20140723
+changed:     20110810
+status:      published
+
+nic-hdl-br:  SBL181
+person:      SNT Banda Larga e Internet Ltda
+e-mail:      abuse@snt.com.br
+created:     20030430
+changed:     20100526
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 20:52:48 (BRT -03:00)
+
+domain:      superfreios.com.br
+owner:       Superfreios Ltda
+ownerid:     021.615.950/0001-09
+responsible: Luiz Fernando de Souza Reis
+country:     BR
+owner-c:     SISOU16
+admin-c:     SISOU16
+tech-c:      EMSIN
+billing-c:   SISOU16
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20000621 #369943
+expires:     20120621
+changed:     20110602
+status:      published
+
+nic-hdl-br:  EMSIN
+person:      eMiolo Solu&ccedil;&otilde;es Internet
+e-mail:      registro@emiolo.com
+created:     20071218
+changed:     20100924
+
+nic-hdl-br:  SISOU16
+person:      Simone de Souza
+e-mail:      simone@superfreios.com.br
+created:     20080806
+changed:     20080806
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

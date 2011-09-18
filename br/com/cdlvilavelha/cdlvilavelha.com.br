@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 20:48:01 (BRT -03:00)
+
+domain:      cdlvilavelha.com.br
+owner:       Camara de Dirigentes Lojistas da Grande Vila Velha
+ownerid:     004.174.998/0001-00
+responsible: Helcio Rezende Dias
+country:     BR
+owner-c:     AGTDE2
+admin-c:     AGTDE2
+tech-c:      AGTDE2
+billing-c:   AGTDE2
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20060808 #2985776
+expires:     20120808
+changed:     20110729
+status:      published
+
+nic-hdl-br:  AGTDE2
+person:      AGDO TEIXEIRA DELATORRE
+e-mail:      gerencia@cdlvilavelha.com.br
+created:     20100827
+changed:     20100827
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

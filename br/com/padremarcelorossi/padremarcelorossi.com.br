@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 20:51:14 (BRT -03:00)
+
+domain:      padremarcelorossi.com.br
+owner:       ASSOCIACAO TERCO BIZANTINO
+ownerid:     007.758.573/0001-28
+responsible: Antonio Roberto Rossi
+country:     BR
+owner-c:     ANRRO14
+admin-c:     ANRRO14
+tech-c:      JGDSA36
+billing-c:   ANRRO14
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20020222 #734656
+expires:     20130222
+changed:     20090508
+status:      published
+
+nic-hdl-br:  ANRRO14
+person:      Antonio Roberto Rossi
+e-mail:      jose.galvao.santos@smainfo.com.br
+created:     20080129
+changed:     20090508
+
+nic-hdl-br:  JGDSA36
+person:      Jos&eacute; Galv&atilde;o dos Santos
+e-mail:      jgalvao_santos@ig.com.br
+created:     20090508
+changed:     20090508
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

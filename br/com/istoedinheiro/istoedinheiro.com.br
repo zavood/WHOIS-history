@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 21:18:15 (BRT -03:00)
+
+domain:      istoedinheiro.com.br
+owner:       Editora Tr&ecirc;s Ltda.
+ownerid:     059.225.284/0001-67
+responsible: Depto. de Inform&aacute;tica
+country:     BR
+owner-c:     ECL20
+admin-c:     ECL20
+tech-c:      TEN12
+billing-c:   MAMAD
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     19980227 #87566
+expires:     20120227
+changed:     20110314
+status:      published
+
+nic-hdl-br:  ECL20
+person:      Editora Tr&ecirc;s Ltda.
+e-mail:      alexandrefavero@editora3.com.br
+created:     19980226
+changed:     20021118
+
+nic-hdl-br:  MAMAD
+person:      MARCIO MADUREIRA
+e-mail:      marciomadureira@editora3.com.br
+created:     20061101
+changed:     20061101
+
+nic-hdl-br:  TEN12
+person:      Terra Networks
+e-mail:      fapesp@terraempresas.com.br
+created:     20031114
+changed:     20110628
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

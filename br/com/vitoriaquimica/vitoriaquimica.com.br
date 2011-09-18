@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 20:52:27 (BRT -03:00)
+
+domain:      vitoriaquimica.com.br
+owner:       Vit&oacute;ria Qu&iacute;mica Tintas e Anticorrosivos Ltda.
+ownerid:     061.775.474/0001-08
+responsible: Ricardo Artur
+country:     BR
+owner-c:     AVL13
+admin-c:     AVL13
+tech-c:      AVL13
+billing-c:   AVL13
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     19980925 #118679
+expires:     20110925
+changed:     20100920
+status:      published
+
+nic-hdl-br:  AVL13
+person:      Vit&oacute;ria Qu&iacute;mica Tintas e Anticorrosivos
+e-mail:      informatica@vitoriaquimica.com.br
+created:     19980925
+changed:     20110912
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

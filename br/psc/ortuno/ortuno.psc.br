@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 20:51:13 (BRT -03:00)
+
+domain:      ortuno.psc.br
+owner:       F&aacute;bio Ortu&ntilde;o de Melo
+ownerid:     174.326.298-11
+country:     BR
+owner-c:     FAOME2
+admin-c:     FAOME2
+tech-c:      FAOME2
+billing-c:   FAOME2
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20061128 #3203765
+expires:     20111128
+changed:     20101221
+status:      published
+
+nic-hdl-br:  FAOME2
+person:      F&aacute;bio Ortu&ntilde;o de Melo
+e-mail:      ortuno@terra.com.br
+created:     20061114
+changed:     20110714
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

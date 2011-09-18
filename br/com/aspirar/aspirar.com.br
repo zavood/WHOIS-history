@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 21:18:30 (BRT -03:00)
+
+domain:      aspirar.com.br
+owner:       cstec centro de solu&ccedil;oes ltda
+ownerid:     007.500.604/0001-46
+responsible: Fabio Vamin
+country:     BR
+owner-c:     FAVAN3
+admin-c:     FAVAN3
+tech-c:      FAVAN3
+billing-c:   FAVAN3
+nserver:     ns1.ignegocios.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.ignegocios.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20060629 #2901359
+expires:     20120629
+changed:     20110613
+status:      published
+
+nic-hdl-br:  FAVAN3
+person:      F&aacute;bio vanin
+e-mail:      fabiovanin@ibest.com.br
+created:     20060913
+changed:     20110519
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

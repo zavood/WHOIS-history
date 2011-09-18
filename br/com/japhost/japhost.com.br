@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 21:19:27 (BRT -03:00)
+
+domain:      japhost.com.br
+owner:       Thiago Bandeira Japyassu
+ownerid:     060.775.774-48
+country:     BR
+owner-c:     JAREG4
+admin-c:     JAREG4
+tech-c:      JAREG4
+billing-c:   JAREG4
+nserver:     ns1.japhost.com.br 67.228.116.104
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.japhost.com.br 67.228.116.105
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20090511 #5548125
+expires:     20120511
+changed:     20110523
+status:      published
+
+nic-hdl-br:  JAREG4
+person:      JAPhost REGISTRO
+e-mail:      contato@japhost.com.br
+created:     20100602
+changed:     20110318
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

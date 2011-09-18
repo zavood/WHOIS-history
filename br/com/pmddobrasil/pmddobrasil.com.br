@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 20:46:39 (BRT -03:00)
+
+domain:      pmddobrasil.com.br
+owner:       PHYSIOLOGICAL MEDICAL DEVICES LTDA
+ownerid:     001.943.673/0001-48
+responsible: VERA PAES
+country:     BR
+owner-c:     VEP5
+admin-c:     VEP5
+tech-c:      TEN12
+billing-c:   VEP5
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20030821 #1328744
+expires:     20120821
+changed:     20110829
+status:      published
+
+nic-hdl-br:  TEN12
+person:      Terra Networks
+e-mail:      fapesp@terraempresas.com.br
+created:     20031114
+changed:     20110628
+
+nic-hdl-br:  VEP5
+person:      VERA PAES
+e-mail:      secdiretoria@pmddobrasil.com.br
+created:     19980811
+changed:     20070815
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

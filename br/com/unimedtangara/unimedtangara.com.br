@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 20:52:40 (BRT -03:00)
+
+domain:      unimedtangara.com.br
+owner:       unimed vale do sepotuba
+ownerid:     002.597.394/0001-32
+responsible: Dr. Marcos Eiti Nishimura
+country:     BR
+owner-c:     JLQ10
+admin-c:     JLQ10
+tech-c:      JLQ10
+billing-c:   JLQ10
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20020930 #979593
+expires:     20140930
+changed:     20110909
+status:      published
+
+nic-hdl-br:  JLQ10
+person:      Joaquim L. Quintella
+e-mail:      unimed@unimedtangara.com.br
+created:     20020812
+changed:     20091014
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

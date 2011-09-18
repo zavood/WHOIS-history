@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 20:52:38 (BRT -03:00)
+
+domain:      trendmicro.com.br
+owner:       TREND MICRO DO BRASIL LTDA
+ownerid:     001.564.600/0001-45
+responsible: Marcelo Lerra
+country:     BR
+owner-c:     RAC489
+admin-c:     RAC489
+tech-c:      NELTD4
+billing-c:   JOVZA4
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     19961118 #22618
+expires:     20111118
+changed:     20110825
+status:      published
+
+nic-hdl-br:  JOVZA4
+person:      Jos&eacute; Viera Z&aacute;rate
+e-mail:      brazil@latintld.com
+created:     20080429
+changed:     20090525
+
+nic-hdl-br:  NELTD4
+person:      NetNames Ltd
+e-mail:      corporate-services@netnames.com
+created:     20081003
+changed:     20081003
+
+nic-hdl-br:  RAC489
+person:      Ramiro Augusto Costa
+e-mail:      ramiro_augusto@yahoo.com.br
+created:     20031015
+changed:     20110908
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

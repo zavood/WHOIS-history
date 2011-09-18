@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 21:17:40 (BRT -03:00)
+
+domain:      hotelavalon.com.br
+owner:       Dayan Carvalho Fraz&atilde;o
+ownerid:     527.216.981-68
+country:     BR
+owner-c:     JOSSI91
+admin-c:     JOSSI91
+tech-c:      JOSSI91
+billing-c:   JOSSI91
+nserver:     ns1.coolstudio.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.coolstudio.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+saci:        yes
+created:     20110216 #7931251
+expires:     20120216
+changed:     20110612
+status:      published
+
+nic-hdl-br:  JOSSI91
+person:      Johnathan Sthefano da Silva
+e-mail:      jolatan12@hotmail.com
+created:     20100502
+changed:     20101122
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

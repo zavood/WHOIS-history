@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 21:19:43 (BRT -03:00)
+
+domain:      nortnet.com.br
+owner:       LINKNET INFORMATICA LTDA ME
+ownerid:     001.199.976/0001-06
+responsible: Henrique Pulqueira
+country:     BR
+owner-c:     LIL349
+admin-c:     WMM4
+tech-c:      LIL349
+billing-c:   WMM4
+nserver:     ns.nortnet.com.br 200.174.183.195
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns2.nortnet.com.br 200.174.183.196
+nsstat:      20110917 TIMEOUT
+nslastaa:    20110901
+created:     19980123 #83621
+expires:     20120123
+changed:     20110414
+status:      published
+
+nic-hdl-br:  LIL349
+person:      LINKNET INFORMATICA LTDA
+e-mail:      henrique@linknet.com.br
+created:     20050616
+changed:     20060213
+
+nic-hdl-br:  WMM4
+person:      Welber Mauricio Costa Mendes
+e-mail:      mauricio@nortnet.com.br
+created:     19980505
+changed:     20030423
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 21:19:46 (BRT -03:00)
+
+domain:      gigahost.com.br
+owner:       Giga Internet Ltda
+ownerid:     006.194.356/0001-90
+responsible: Geraldo Monteiro Ramos Neto
+country:     BR
+owner-c:     GIL294
+admin-c:     GIL294
+tech-c:      GIL294
+billing-c:   GIL294
+nserver:     ns1.6ps.com
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns2.6ps.com
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     20030131 #1091926
+expires:     20120131
+changed:     20110128
+status:      published
+
+nic-hdl-br:  GIL294
+person:      Giga Internet LTDA
+e-mail:      registrobr@gigahost.com.br
+created:     20040928
+changed:     20080210
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
