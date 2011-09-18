@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158164177-LROR
+Domain Name:OCCFOUNDATION.ORG
+Created On:22-Jan-2010 19:36:40 UTC
+Last Updated On:23-Jan-2011 12:50:51 UTC
+Expiration Date:22-Jan-2012 19:36:40 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR40823275
+Registrant Name:Eric England
+Registrant Organization:orange county choppers
+Registrant Street1:14 Crossroads Court
+Registrant Street2:
+Registrant Street3:
+Registrant City:Newburgh
+Registrant State/Province:New York
+Registrant Postal Code:12550
+Registrant Country:US
+Registrant Phone:+1.8455225222
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:eric@orangecountychoppers.com
+Admin ID:CR40823277
+Admin Name:Eric England
+Admin Organization:orange county choppers
+Admin Street1:14 Crossroads Court
+Admin Street2:
+Admin Street3:
+Admin City:Newburgh
+Admin State/Province:New York
+Admin Postal Code:12550
+Admin Country:US
+Admin Phone:+1.8455225222
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:eric@orangecountychoppers.com
+Tech ID:CR40823276
+Tech Name:Eric England
+Tech Organization:orange county choppers
+Tech Street1:14 Crossroads Court
+Tech Street2:
+Tech Street3:
+Tech City:Newburgh
+Tech State/Province:New York
+Tech Postal Code:12550
+Tech Country:US
+Tech Phone:+1.8455225222
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:eric@orangecountychoppers.com
+Name Server:NS05.DOMAINCONTROL.COM
+Name Server:NS06.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

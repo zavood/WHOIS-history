@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105784606-LROR
+Domain Name:SHOWMEINSTITUTE.ORG
+Created On:24-Feb-2005 16:27:49 UTC
+Last Updated On:03-Jan-2011 16:30:30 UTC
+Expiration Date:24-Feb-2016 16:27:49 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR66672031
+Registrant Name:Brenda Talent
+Registrant Organization:Show-Me Institute
+Registrant Street1:4512 West Pine Blvd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Saint Louis
+Registrant State/Province:Missouri
+Registrant Postal Code:63108
+Registrant Country:US
+Registrant Phone:+1.3144540647
+Registrant Phone Ext.:
+Registrant FAX:+1.3144540667
+Registrant FAX Ext.:
+Registrant Email:info@showmeinstitute.org
+Admin ID:CR66672033
+Admin Name:Brenda Talent
+Admin Organization:Show-Me Institute
+Admin Street1:4512 West Pine Blvd.
+Admin Street2:
+Admin Street3:
+Admin City:Saint Louis
+Admin State/Province:Missouri
+Admin Postal Code:63108
+Admin Country:US
+Admin Phone:+1.3144540647
+Admin Phone Ext.:
+Admin FAX:+1.3144540667
+Admin FAX Ext.:
+Admin Email:info@showmeinstitute.org
+Tech ID:CR66672032
+Tech Name:Brenda Talent
+Tech Organization:Show-Me Institute
+Tech Street1:4512 West Pine Blvd.
+Tech Street2:
+Tech Street3:
+Tech City:Saint Louis
+Tech State/Province:Missouri
+Tech Postal Code:63108
+Tech Country:US
+Tech Phone:+1.3144540647
+Tech Phone Ext.:
+Tech FAX:+1.3144540667
+Tech FAX Ext.:
+Tech Email:info@showmeinstitute.org
+Name Server:NS1.EZWIND.NET
+Name Server:NS2.EZWIND.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

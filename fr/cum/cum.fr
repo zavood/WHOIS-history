@@ -1,0 +1,105 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; cum.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cum.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CAF4-FRNIC
+admin-c:     AGL25-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL16672-FRNIC
+registrar:   GANDI
+anniversary: 02/02
+created:     09/07/1998
+last-update: 27/07/2011
+source:      FRNIC
+
+ns-list:     NSL16672-FRNIC
+nserver:     ns0.agl.fr [62.23.10.62]
+nserver:     ns1.agl.fr [62.23.10.61]
+nserver:     ns6.gandi.net
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     CAF4-FRNIC
+type:        ORGANIZATION
+contact:     COMPUTERDIAL ADVERTISING FRANCE
+address:     21, avenue Georges V
+address:     75008 Paris
+country:     FR
+phone:       +33 1 49 52 42 00
+e-mail:      dnstit@agl.fr
+changed:     24/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AGL25-FRNIC
+type:        ORGANIZATION
+contact:     Assistance G&eacute;nie Logiciel
+address:     Assistance G&eacute;nie Logiciel
+address:     63bis, rue de S&eacute;vre
+address:     92100 Boulogne-Billancourt
+country:     FR
+phone:       +33 1 49 52 42 00
+fax-no:      +33 1 58 56 23 49
+e-mail:      dnstit@agl.fr
+changed:     23/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155460841-LROR
+Domain Name:AERIEBSD.ORG
+Created On:25-Feb-2009 11:18:56 UTC
+Last Updated On:12-Apr-2010 13:58:24 UTC
+Expiration Date:25-Feb-2014 11:18:56 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-239052
+Registrant Name:michael shalayeff
+Registrant Street1:orleansstr 5a
+Registrant Street2:
+Registrant Street3:
+Registrant City:munich
+Registrant State/Province:--
+Registrant Postal Code:81669
+Registrant Country:DE
+Registrant Phone:+491.743681121
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@lucifier.net
+Admin ID:CORG-238896
+Admin Name:michael shalayeff
+Admin Street1:orleansstr 5a
+Admin Street2:
+Admin Street3:
+Admin City:munich
+Admin State/Province:--
+Admin Postal Code:81669
+Admin Country:DE
+Admin Phone:+491.743681121
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@lucifier.net
+Tech ID:CORG-238896
+Tech Name:michael shalayeff
+Tech Street1:orleansstr 5a
+Tech Street2:
+Tech Street3:
+Tech City:munich
+Tech State/Province:--
+Tech Postal Code:81669
+Tech Country:DE
+Tech Phone:+491.743681121
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@lucifier.net
+Name Server:NS.LUCIFIER.NET
+Name Server:BE.KD85.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

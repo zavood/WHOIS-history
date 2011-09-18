@@ -1,0 +1,79 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sun Sep 18 18:54:16 2011
+
+domain:       psybnc.cz
+registrant:   KKS4757612-VDXH
+admin-c:      GKV4814976-RHKC
+nsset:        PSYBNC.CZ-IGSF
+registrar:    REG-GANDI
+status:       paid and in zone
+registered:   02.12.2009 09:04:13
+changed:      01.08.2010 13:15:06
+expire:       02.12.2011
+
+contact:      KKS4757612-VDXH
+name:         Konie Brenneman Kasik
+address:      7205 N. Lombardy Road
+address:      Fox Point
+address:      53217
+address:      Wisconsin
+address:      US
+phone:        +1.4144094585
+e-mail:       arcade4all@ymail.com
+registrar:    REG-GANDI
+created:      02.12.2009 09:04:12
+changed:      03.01.2010 16:07:10
+
+contact:      GKV4814976-RHKC
+name:         Gary Kovar
+address:      12243 Hawkstowe Lane
+address:      Jacksonville
+address:      32225
+address:      FL
+address:      US
+phone:        +1.3108930567
+e-mail:       23a213359fb44b3f1677f6e77fc761f9-1033263@contact.gandi.net
+registrar:    REG-GANDI
+created:      12.12.2009 10:48:06
+changed:      08.02.2011 16:46:48
+
+nsset:        PSYBNC.CZ-IGSF
+nserver:      a.dns.gandi.net
+nserver:      c.dns.gandi.net
+nserver:      b.dns.gandi.net
+tech-c:       P-SUR577-DASN
+registrar:    REG-GANDI
+created:      02.12.2009 09:04:13
+changed:      01.08.2010 13:15:02
+
+contact:      P-SUR577-DASN
+name:         Sarai Ramos
+address:      Hc 5 Box 26188
+address:      Utuado
+address:      00641
+address:      Puerto Rico
+address:      US
+phone:        +1.7862206144
+e-mail:       70719f383cd4fbcbaab0f5319a5be035-892529@contact.gandi.net
+registrar:    REG-GANDI
+created:      01.12.2008 18:12:20
+changed:      04.02.2011 22:06:58
+
+

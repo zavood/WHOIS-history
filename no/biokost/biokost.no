@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: BIO1369D-NORID
+Domain Name................: biokost.no
+Domain Holder Handle.......: SA5609O-NORID
+Registrar Handle...........: REG812-NORID
+Legal-c Handle.............: TM2670P-NORID
+Tech-c Handle..............: HM1278P-NORID
+Name Server Handle.........: NSON12H-NORID
+Name Server Handle.........: NSON8H-NORID
+
+Additional information:
+Created:         2009-02-13
+Last updated:    2011-08-04
+
+NORID Handle...............: SA5609O-NORID
+Type.......................: organization
+Name.......................: SUNVITA AS
+Id Type....................: organization_number
+Id Number..................: 959613753
+Registrar Handle...........: REG812-NORID
+Post Address...............: Kollbudalen 2
+Post Address...............: Postboks 133
+Postal Code................: NO-5871
+Postal Area................: BERGEN
+Country....................: NO
+Phone Number...............: +47.55538800
+Email Address..............: post@sunvita.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

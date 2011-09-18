@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D125906908-LROR
+Domain Name:FTDBSA.ORG
+Created On:15-Jul-2006 18:54:05 UTC
+Last Updated On:16-Jul-2011 10:10:19 UTC
+Expiration Date:15-Jul-2012 18:54:05 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34354290
+Registrant Name:Cliff Hemming
+Registrant Organization:Frontier Trails District - Boy Scouts America
+Registrant Street1:I don't know address
+Registrant Street2:
+Registrant Street3:
+Registrant City:Denton
+Registrant State/Province:Texas
+Registrant Postal Code:76201
+Registrant Country:US
+Registrant Phone:+1.9404539990
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:chemming@ftdbsa.org
+Admin ID:CR34354292
+Admin Name:Cliff Hemming
+Admin Organization:Frontier Trails District - Boy Scouts America
+Admin Street1:I don't know address
+Admin Street2:
+Admin Street3:
+Admin City:Denton
+Admin State/Province:Texas
+Admin Postal Code:76201
+Admin Country:US
+Admin Phone:+1.9404539990
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:chemming@ftdbsa.org
+Tech ID:CR34354291
+Tech Name:Cliff Hemming
+Tech Organization:Frontier Trails District - Boy Scouts America
+Tech Street1:I don't know address
+Tech Street2:
+Tech Street3:
+Tech City:Denton
+Tech State/Province:Texas
+Tech Postal Code:76201
+Tech Country:US
+Tech Phone:+1.9404539990
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:chemming@ftdbsa.org
+Name Server:NS43.DOMAINCONTROL.COM
+Name Server:NS44.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

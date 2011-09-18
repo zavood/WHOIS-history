@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159398976-LROR
+Domain Name:CENTRAL1AUTO.ORG
+Created On:11-Jun-2010 15:02:15 UTC
+Last Updated On:04-May-2011 17:46:59 UTC
+Expiration Date:11-Jun-2012 15:02:15 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR50052128
+Registrant Name:Sean Coffman
+Registrant Organization:CarsForSale.com
+Registrant Street1:113 East Spruce
+Registrant Street2:P.O. Box 388
+Registrant Street3:
+Registrant City:Beresford
+Registrant State/Province:South Dakota
+Registrant Postal Code:57004
+Registrant Country:US
+Registrant Phone:+1.6052122577
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:scoffman@carsforsale.com
+Admin ID:CR50052130
+Admin Name:Sean Coffman
+Admin Organization:CarsForSale.com
+Admin Street1:113 East Spruce
+Admin Street2:P.O. Box 388
+Admin Street3:
+Admin City:Beresford
+Admin State/Province:South Dakota
+Admin Postal Code:57004
+Admin Country:US
+Admin Phone:+1.6052122577
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:scoffman@carsforsale.com
+Tech ID:CR50052129
+Tech Name:Sean Coffman
+Tech Organization:CarsForSale.com
+Tech Street1:113 East Spruce
+Tech Street2:P.O. Box 388
+Tech Street3:
+Tech City:Beresford
+Tech State/Province:South Dakota
+Tech Postal Code:57004
+Tech Country:US
+Tech Phone:+1.6052122577
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:scoffman@carsforsale.com
+Name Server:NS49.DOMAINCONTROL.COM
+Name Server:NS50.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

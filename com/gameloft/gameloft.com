@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 08-apr-1999
    Expiration Date: 08-apr-2019
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:58:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 16:58:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,7 +77,7 @@ Registrars.
 # Pour obtenir les informations en status 'Protected by policy', contactez
 # directement le registre concerne (Eurid, AFNIC)
 #
-# 2011-09-12 15:59:21 CEST
+# 2011-09-18 18:58:46 CEST
 
 domain: gameloft.com
 reg_created: 1999-04-08 00:00:00

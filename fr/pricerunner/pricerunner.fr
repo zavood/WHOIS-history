@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; pricerunner.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      pricerunner.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    P8696-FRNIC
+admin-c:     VF1362-FRNIC
+tech-c:      NH714-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL10989-FRNIC
+registrar:   ASCIO TECHNOLOGIES Inc.
+anniversary: 19/05
+created:     24/11/2000
+last-update: 19/05/2011
+source:      FRNIC
+
+ns-list:     NSL10989-FRNIC
+nserver:     ns1.mediaplex.com
+nserver:     ns2.mediaplex.com
+source:      FRNIC
+
+registrar:   ASCIO TECHNOLOGIES Inc.
+type:        Isp Option 1
+address:     Islands Brygge 55
+address:     DK-2300 COPENHAGUE S
+country:     DK
+phone:       +45 33 88 61 00
+fax-no:      +45 33 88 61 01
+e-mail:      nicrelations@ascio.com
+website:     http://www.ascio.com
+anonymous:   NO
+registered:  18/01/2001
+source:      FRNIC
+
+nic-hdl:     P8696-FRNIC
+type:        ORGANIZATION
+contact:     PRICERUNNER
+address:     4, rue du faubourg Montmartre
+address:     75009 Paris
+country:     FR
+phone:       +33 1 48 24 39 50
+fax-no:      +33 1 46 51 47 71
+e-mail:      domains@pricerunner.com
+changed:     19/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     VF1362-FRNIC
+type:        PERSON
+contact:     Valueclick France
+address:     Valueclick France
+address:     4, rue du faubourg
+address:     Montmartre
+address:     75016 Paris
+country:     FR
+phone:       +33 1 46 51 40 71
+fax-no:      +33 1 46 51 40 71
+e-mail:      adelloye@valueclick.com
+changed:     11/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NH714-FRNIC
+type:        PERSON
+contact:     Netnames Hostmaster
+address:     Netnames Limited
+address:     3rd Floor Prospero House
+address:     241 Borough High Street
+address:     SE1 1GA London
+country:     GB
+phone:       +44 2070159370
+fax-no:      +44 2070159370
+e-mail:      hostmaster@netnames.com
+changed:     08/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

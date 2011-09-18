@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D124883870-LROR
+Domain Name:NEW-CHURCHES.ORG
+Created On:21-Jun-2006 18:31:27 UTC
+Last Updated On:05-Dec-2009 02:26:42 UTC
+Expiration Date:21-Jun-2013 18:31:27 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32180642
+Registrant Name:Russ Moore
+Registrant Organization:New Churches for the Kingdom Ministries
+Registrant Street1:221 Debbie Dr.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Gallipolis
+Registrant State/Province:Ohio
+Registrant Postal Code:45631
+Registrant Country:US
+Registrant Phone:+1.7404410108
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rvmoore@aceinter.net
+Admin ID:CR32180644
+Admin Name:Russ Moore
+Admin Organization:New Churches for the Kingdom Ministries
+Admin Street1:221 Debbie Dr.
+Admin Street2:
+Admin Street3:
+Admin City:Gallipolis
+Admin State/Province:Ohio
+Admin Postal Code:45631
+Admin Country:US
+Admin Phone:+1.7404410108
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rvmoore@aceinter.net
+Tech ID:CR32180643
+Tech Name:Russ Moore
+Tech Organization:New Churches for the Kingdom Ministries
+Tech Street1:221 Debbie Dr.
+Tech Street2:
+Tech Street3:
+Tech City:Gallipolis
+Tech State/Province:Ohio
+Tech Postal Code:45631
+Tech Country:US
+Tech Phone:+1.7404410108
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rvmoore@aceinter.net
+Name Server:NS30.DOMAINCONTROL.COM
+Name Server:NS29.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

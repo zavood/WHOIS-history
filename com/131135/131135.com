@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 15-feb-2011
    Expiration Date: 15-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 15:05:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 16:47:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -60,9 +60,9 @@ Date Registered: 2011-2-15
 Date Modified: 2011-3-20
 Expiry Date: 2012-2-15
 
-DNS1: ns-uk.topdns.com
-DNS2: ns-usa.topdns.com
-DNS3: ns-canada.topdns.com
+DNS1: ns-canada.topdns.com
+DNS2: ns-uk.topdns.com
+DNS3: ns-usa.topdns.com
 
 Registrant
     Private Whois 131135.com

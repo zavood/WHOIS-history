@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161218535-LROR
+Domain Name:MEMORIALDAY2011.ORG
+Created On:16-Jan-2011 19:42:35 UTC
+Last Updated On:18-Mar-2011 03:49:34 UTC
+Expiration Date:16-Jan-2012 19:42:35 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:oln83127238
+Registrant Name:Genry
+Registrant Organization:Korin
+Registrant Street1:84 King Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:NY
+Registrant Postal Code:10033
+Registrant Country:US
+Registrant Phone:+1.2018473822
+Registrant Phone Ext.:
+Registrant FAX:+1.2018473822
+Registrant FAX Ext.:
+Registrant Email:domains54@gmail.com
+Admin ID:oln83127239
+Admin Name:Genry
+Admin Organization:Korin
+Admin Street1:84 King Rd
+Admin Street2:
+Admin Street3:
+Admin City:New York
+Admin State/Province:NY
+Admin Postal Code:10033
+Admin Country:US
+Admin Phone:+1.2018473822
+Admin Phone Ext.:
+Admin FAX:+1.2018473822
+Admin FAX Ext.:
+Admin Email:domains54@gmail.com
+Tech ID:oln83127242
+Tech Name:Genry
+Tech Organization:Korin
+Tech Street1:84 King Rd
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10033
+Tech Country:US
+Tech Phone:+1.2018473822
+Tech Phone Ext.:
+Tech FAX:+1.2018473822
+Tech FAX Ext.:
+Tech Email:domains54@gmail.com
+Name Server:NS1.DNS-DIY.NET
+Name Server:NS2.DNS-DIY.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

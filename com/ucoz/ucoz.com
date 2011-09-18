@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 12-aug-2005
    Expiration Date: 12-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 07:30:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 17:29:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -85,5 +85,5 @@ Contact E-mail:          admin@compubyte.vg
 
 Registrar:               Regional Network Information Center, JSC dba RU-CENTER
 
-Last updated on 2011.09.16 11:30:45 MSK/MSD
+Last updated on 2011.09.18 21:30:31 MSK/MSD
 

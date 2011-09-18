@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98167492-LROR
+Domain Name:PRAIRIEPRESERVATIONALLIANCE.ORG
+Created On:16-May-2003 15:00:13 UTC
+Last Updated On:26-Apr-2010 13:43:28 UTC
+Expiration Date:16-May-2013 15:00:13 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuPnQfA4zbwY6XME
+Registrant Name:Prairie Preservation Alliance
+Registrant Organization:Prairie Preservation Alliance
+Registrant Street1:PO Box 12485
+Registrant Street2:
+Registrant Street3:
+Registrant City:Denver
+Registrant State/Province:CO
+Registrant Postal Code:80212-0485
+Registrant Country:US
+Registrant Phone:+01.3036384672
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jjperipher@aol.com
+Admin ID:tud78lM63OUIRMK8
+Admin Name:James Werder
+Admin Organization:Prairie Preservation Alliance
+Admin Street1:PO Box 12485
+Admin Street2:
+Admin Street3:
+Admin City:Denver
+Admin State/Province:CO
+Admin Postal Code:80212-0485
+Admin Country:US
+Admin Phone:+01.3036384672
+Admin Phone Ext.:
+Admin FAX:+01.3034665750
+Admin FAX Ext.:
+Admin Email:jjperipher@aol.com
+Tech ID:tuDQXkG80YSg6PTx
+Tech Name:Tem Balanco
+Tech Organization:OneDNR.com - #1 Domain Name
+Tech Street1:1414 K Street, Suite #701
+Tech Street2:
+Tech Street3:
+Tech City:Sacramento
+Tech State/Province:CA
+Tech Postal Code:95814
+Tech Country:US
+Tech Phone:+1.8883141925
+Tech Phone Ext.:
+Tech FAX:+1.4157043005
+Tech FAX Ext.:
+Tech Email:info@onednr.com
+Name Server:NS1.IPOWERWEB.NET
+Name Server:NS1.IPOWERDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

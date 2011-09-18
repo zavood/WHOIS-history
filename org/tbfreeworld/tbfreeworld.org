@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155361726-LROR
+Domain Name:TBFREEWORLD.ORG
+Created On:14-Feb-2009 09:26:28 UTC
+Last Updated On:15-Feb-2011 01:22:12 UTC
+Expiration Date:14-Feb-2012 09:26:28 UTC
+Sponsoring Registrar:Net 4 India Limited (R1434-LROR)
+Status:OK
+Registrant ID:N5R-1132657
+Registrant Name:Raman Kakar
+Registrant Organization:Dr. Raman Kakar
+Registrant Street1:H No 593, Sector 16
+Registrant Street2:
+Registrant Street3:
+Registrant City:Faridabad
+Registrant State/Province:HR
+Registrant Postal Code:121002
+Registrant Country:IN
+Registrant Phone:+91.1292283198
+Registrant Phone Ext.:
+Registrant FAX:+91.1292283198
+Registrant FAX Ext.:
+Registrant Email:snarwal@gmail.com
+Admin ID:N4R-958748958748
+Admin Name:Raman
+Admin Organization:NA
+Admin Street1:H.No620, Sector-21A, NIT,
+Admin Street2:
+Admin Street3:
+Admin City:Faridabad
+Admin State/Province:Haryana
+Admin Postal Code:121001
+Admin Country:IN
+Admin Phone:+91.12345678
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:snarwal@gmail.com
+Tech ID:N4R-958748958748
+Tech Name:Raman
+Tech Organization:NA
+Tech Street1:H.No620, Sector-21A, NIT,
+Tech Street2:
+Tech Street3:
+Tech City:Faridabad
+Tech State/Province:Haryana
+Tech Postal Code:121001
+Tech Country:IN
+Tech Phone:+91.12345678
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:snarwal@gmail.com
+Name Server:NS1193.WEBSITEWELCOME.COM
+Name Server:NS1194.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

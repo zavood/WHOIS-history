@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D71202032-LROR
+Domain Name:ASPACNGO.ORG
+Created On:22-May-2001 02:03:50 UTC
+Last Updated On:03-May-2011 06:17:55 UTC
+Expiration Date:22-May-2012 02:03:50 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuJzpSTnOWTEJ30b
+Registrant Name:Sorasit Sangprasert
+Registrant Organization:ASPAC-NGO
+Registrant Street1:Din Daeng Rd.,
+Registrant Street2:C/O Office of The Narcotics Control Board
+Registrant Street3:No.5
+Registrant City:Phayathai District
+Registrant State/Province:Bangkok
+Registrant Postal Code:10400
+Registrant Country:TH
+Registrant Phone:+66.26409340
+Registrant Phone Ext.:
+Registrant FAX:+66.26409340
+Registrant FAX Ext.:
+Registrant Email:aspacngo@aspacngo.org
+Admin ID:tuJzpSTnOWTEJ30b
+Admin Name:Sorasit Sangprasert
+Admin Organization:ASPAC-NGO
+Admin Street1:Din Daeng Rd.,
+Admin Street2:C/O Office of The Narcotics Control Board
+Admin Street3:No.5
+Admin City:Phayathai District
+Admin State/Province:Bangkok
+Admin Postal Code:10400
+Admin Country:TH
+Admin Phone:+66.26409340
+Admin Phone Ext.:
+Admin FAX:+66.26409340
+Admin FAX Ext.:
+Admin Email:aspacngo@aspacngo.org
+Tech ID:tuaRyEQYlMA9Lo01
+Tech Name:Veerasit Rangsichainiran
+Tech Organization:Netway Communication Co., Ltd.
+Tech Street1:72 4th Floor, Telecom Tower,
+Tech Street2:Charoen Krung Road, Bangrak,
+Tech Street3:
+Tech City:Bangkok
+Tech State/Province:Bangkok
+Tech Postal Code:10500
+Tech Country:TH
+Tech Phone:+66.26397700
+Tech Phone Ext.:
+Tech FAX:+66.26397706
+Tech FAX Ext.:
+Tech Email:veerasit@siamdomain.com
+Name Server:WWW.ASPACNGO.ORG
+Name Server:NS1.ASPACNGO.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

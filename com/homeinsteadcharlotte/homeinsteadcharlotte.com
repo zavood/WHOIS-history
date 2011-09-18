@@ -23,7 +23,7 @@ for detailed information.
    Creation Date: 28-may-2004
    Expiration Date: 28-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 15:50:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 17:05:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -118,12 +118,12 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns7.markmonitor.com
-    ns3.markmonitor.com
-    ns4.markmonitor.com
-    ns5.markmonitor.com
     ns6.markmonitor.com
     ns2.markmonitor.com
+    ns3.markmonitor.com
+    ns5.markmonitor.com
+    ns4.markmonitor.com
+    ns7.markmonitor.com
     ns1.markmonitor.com
 
 

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D45841895-LROR
+Domain Name:INSECTES.ORG
+Created On:02-Dec-2000 15:06:29 UTC
+Last Updated On:03-Nov-2010 08:47:05 UTC
+Expiration Date:02-Dec-2012 15:06:29 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-194549-Gandi
+Registrant Name:OPIE
+Registrant Organization:OPIE
+Registrant Street1:La MiniAre BP 30
+Registrant Street2:
+Registrant Street3:
+Registrant City:Guyancourt cedex
+Registrant State/Province:
+Registrant Postal Code:78041
+Registrant Country:FR
+Registrant Phone:+33.130441343
+Registrant Phone Ext.:
+Registrant FAX:+33.493335013
+Registrant FAX Ext.:
+Registrant Email:278747b10cfaea35709ac2224059ee69-549398@contact.gandi.net
+Admin ID:SJ1393-GANDI
+Admin Name:Samuel Jolivet
+Admin Organization:OPIE (Office pour les insectes et leur environnement)
+Admin Street1:BP 30
+Admin Street2:
+Admin Street3:
+Admin City:GUYANCOURT CEDEX
+Admin State/Province:
+Admin Postal Code:78041
+Admin Country:FR
+Admin Phone:+33.130445129
+Admin Phone Ext.:
+Admin FAX:+33.130436459
+Admin FAX Ext.:
+Admin Email:0cadec3ee4233840dca2ca4bfe92e3a9-778193@contact.gandi.net
+Tech ID:SJ1393-GANDI
+Tech Name:Samuel Jolivet
+Tech Organization:OPIE (Office pour les insectes et leur environnement)
+Tech Street1:BP 30
+Tech Street2:
+Tech Street3:
+Tech City:GUYANCOURT CEDEX
+Tech State/Province:
+Tech Postal Code:78041
+Tech Country:FR
+Tech Phone:+33.130445129
+Tech Phone Ext.:
+Tech FAX:+33.130436459
+Tech FAX Ext.:
+Tech Email:0cadec3ee4233840dca2ca4bfe92e3a9-778193@contact.gandi.net
+Name Server:NS2.INFOMANIAK.CH
+Name Server:NS1.INFOMANIAK.CH
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

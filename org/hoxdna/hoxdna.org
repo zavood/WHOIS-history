@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D99624665-LROR
+Domain Name:HOXDNA.ORG
+Created On:06-Aug-2003 05:27:20 UTC
+Last Updated On:01-Aug-2011 18:48:03 UTC
+Expiration Date:06-Aug-2013 05:27:20 UTC
+Sponsoring Registrar:NameSecure, L.L.C. (R58-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:hlw4NS958843
+Registrant Name:Toumal Rakesh
+Registrant Organization:Yiffstar
+Registrant Street1:Arndtstrasse 12-4
+Registrant Street2:
+Registrant Street3:
+Registrant City:Vienna
+Registrant State/Province:Vienna
+Registrant Postal Code:1120
+Registrant Country:AT
+Registrant Phone:+1.4367657457
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:toumal@hox.dhs.org
+Admin ID:qid2NS931650
+Admin Name:Toumal Rakesh
+Admin Organization:Yiffstar
+Admin Street1:Arndtstrasse 12-4
+Admin Street2:
+Admin Street3:
+Admin City:Vienna
+Admin State/Province:Vienna
+Admin Postal Code:1120
+Admin Country:AT
+Admin Phone:+1.4367657457
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:toumal@hox.dhs.org
+Tech ID:abh1NS931651
+Tech Name:Namesecure Inc.
+Tech Organization:Namesecure Inc.
+Tech Street1:P.O. Box 785
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20172
+Tech Country:US
+Tech Phone:+1.5707088418
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@namesecure.com
+Name Server:DNS2.NAMESECURE.COM
+Name Server:DNS1.NAMESECURE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

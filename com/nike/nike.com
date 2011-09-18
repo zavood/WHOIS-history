@@ -23,7 +23,7 @@ for detailed information.
    Creation Date: 04-mar-1995
    Expiration Date: 05-mar-2014
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 02:48:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 17:29:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -118,10 +118,10 @@ Registrant:
 
     Domain servers in listed order:
 
-    barrierb241.nike.com
-    auth01.ns.uu.net
-    auth61.ns.uu.net
     barrierm241.nike.com
+    barrierb241.nike.com
+    auth61.ns.uu.net
+    auth01.ns.uu.net
 
 
 

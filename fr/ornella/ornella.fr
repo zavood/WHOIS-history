@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ornella.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ornella.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     FG724-FRNIC
+tech-c:      HM1896-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1835-FRNIC
+registrar:   MAILCLUB
+anniversary: 23/05
+created:     20/03/2009
+last-update: 23/05/2011
+source:      FRNIC
+
+ns-list:     NSL1835-FRNIC
+nserver:     ns1.mailclub.fr [80.245.60.10]
+nserver:     ns2.mailclub.fr [193.151.86.13]
+source:      FRNIC
+
+registrar:   MAILCLUB
+type:        Isp Option 1
+address:     P&ocirc;le M&eacute;dia de la Belle de Mai
+address:     37 Rue Guibal
+address:     MARSEILLE CEDEX 03
+country:     FR
+phone:       +33 4 88 66 22 22
+fax-no:      +33 4 88 66 22 20
+e-mail:      clientele@mailclub.fr
+website:     http://www.mailclub.fr
+anonymous:   NO
+registered:  01/01/1999
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     23/05/2011 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     FG724-FRNIC
+type:        PERSON
+contact:     Frederic Guillemaut
+address:     MAILCLUB S.A.S.
+address:     Pole Media de la Belle de Mai
+address:     37, rue Guibal
+address:     13356 Marseille
+country:     FR
+phone:       +33 4 88 66 22 22
+fax-no:      +33 4 88 66 22 20
+e-mail:      clientele@mailclub.fr
+changed:     31/05/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HM1896-FRNIC
+type:        PERSON
+contact:     Host Master
+address:     MAILCLUB
+address:     Pole Media de la Belle de Mai, 37 rue Guibal
+address:     13356 Marseille
+country:     FR
+phone:       +33 4 88 66 22 22
+fax-no:      +33 4 88 66 22 20
+e-mail:      clientele@mailclub.fr
+changed:     05/11/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

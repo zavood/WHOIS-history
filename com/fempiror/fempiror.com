@@ -1,0 +1,91 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: FEMPIROR.COM
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
+   Name Server: NS1.FEMPIROR.COM
+   Name Server: NS2.FEMPIROR.COM
+   Status: clientTransferProhibited
+   Updated Date: 13-nov-2010
+   Creation Date: 15-nov-2006
+   Expiration Date: 15-nov-2011
+
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 17:13:20 UTC &lt;&lt;&lt;
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' (&quot;VeriSign&quot;) Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+Domain Name.......... fempiror.com
+  Creation Date........ 2006-11-16
+  Registration Date.... 2006-11-16
+  Expiry Date.......... 2011-11-16
+  Organisation Name.... Lycos, Inc.
+  Organisation Address. 2407 S Gardenia Ave
+  Organisation Address.
+  Organisation Address. Broken Arrow
+  Organisation Address. 74012
+  Organisation Address. OK
+  Organisation Address. UNITED STATES
+
+Admin Name........... George Willson
+  Admin Address........ 2407 S Gardenia Ave
+  Admin Address........
+  Admin Address........ Broken Arrow
+  Admin Address........ 74012
+  Admin Address........ OK
+  Admin Address........ UNITED STATES
+  Admin Email.......... willson3@valornet.com
+  Admin Phone.......... 918-252-3058
+  Admin Fax............ +1.7814667060
+
+Tech Name............ Lycos Domains NIC
+  Tech Address......... 100 Fifth Ave
+  Tech Address.........
+  Tech Address......... Waltham
+  Tech Address......... 02451
+  Tech Address......... MA
+  Tech Address......... UNITED STATES
+  Tech Email........... nic@domains.lycos.com
+  Tech Phone........... +1.7813702700
+  Tech Fax.............
+  Name Server.......... ns1.fempiror.com
+  Name Server.......... ns2.fempiror.com
+
+

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 31-jan-2006
    Expiration Date: 31-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 11:58:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 16:53:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Disc Soft Ltd
-   16 Albert Hoy Avenue, Belama Phase 1
-   Disc Soft Ltd, P.O. Box 2284
-   Belize city BZ
-   Belize
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: DISC-SOFT.COM
-      Created on: 31-Jan-06
-      Expires on: 31-Jan-12
-      Last Updated on: 13-Jan-11
-
-   Administrative Contact:
-      Larsen, Erik  forman@disc-soft.com
-      Disc Soft Ltd
-      16 Albert Hoy Avenue, Belama Phase 1
-      Disc Soft Ltd, P.O. Box 2284
-      Belize city BZ
-      Belize
-      +501.2234670      Fax --
-
-   Technical Contact:
-      Larsen, Erik  forman@disc-soft.com
-      Disc Soft Ltd
-      16 Albert Hoy Avenue, Belama Phase 1
-      Disc Soft Ltd, P.O. Box 2284
-      Belize city BZ
-      Belize
-      +501.2234670      Fax --
 
    Domain servers in listed order:
       NSE1.DISC-SOFT.COM
       NSE2.DISC-SOFT.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=DISC-SOFT.COM

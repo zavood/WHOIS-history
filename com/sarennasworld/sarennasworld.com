@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 10-nov-2000
    Expiration Date: 10-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 08:07:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 16:43:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

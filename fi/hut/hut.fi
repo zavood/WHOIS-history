@@ -10,9 +10,11 @@ phone:    +358947001
 status:   Granted
 created:  21.3.2010
 expires:  22.3.2016
-nserver: ns1.hut.fi [OK] 130.233.224.1
-nserver: ns2.hut.fi [OK] 130.233.224.13
-nserver: ns-secondary.funet.fi [OK]
+nserver:  ns1.hut.fi [Ok]
+nserver:  ns2.hut.fi [Ok]
+nserver:  ns-secondary.funet.fi [Ok]
+dnssec:   no
+modified: 22.3.2011
 
 More information is available at https://domain.ficora.fi/
 Copyright (c) Finnish Communications Regulatory Authority

@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 15-mar-2006
    Expiration Date: 15-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 06:08:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 16:49:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,31 +79,9 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Neofill LLC
-   650 S. Prospect Ave
-   Hartville, Ohio 44632
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: HALFOFFDEALS.COM
-      Created on: 15-Mar-06
-      Expires on: 15-Apr-12
-      Last Updated on: 11-Apr-11
-
-   Administrative Contact:
-      Admin, Domain  jim@neofill.com
-      Neofill LLC
-      650 S. Prospect Ave
-      Hartville, Ohio 44632
-      United States
-      +1.8663119806      Fax --
-
-   Technical Contact:
-      Admin, Domain  jim@neofill.com
-      Neofill LLC
-      650 S. Prospect Ave
-      Hartville, Ohio 44632
-      United States
-      +1.8663119806      Fax --
 
    Domain servers in listed order:
       NS1.NEOFILL.COM
@@ -111,3 +89,6 @@ Registrant:
       NS5.NEOFILL.COM
       NS6.NEOFILL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=HALFOFFDEALS.COM

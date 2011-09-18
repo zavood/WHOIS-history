@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 24-oct-2007
    Expiration Date: 24-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 11:10:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 17:24:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -72,7 +72,7 @@ status:       lock
 created:      2007-10-24 15:00:06 UTC
 modified:     2010-11-01 10:31:02 UTC
 expires:      2011-10-24 15:00:06 UTC
-query-source: 95.154.230.221
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-1153710
 person:       Emma Baskerville
@@ -96,8 +96,8 @@ country:      GB
 phone:        +087.07449227
 
 source:       joker.com live whois service
-query-time:   0.0217
-db-updated:   2011-09-10 11:11:51
+query-time:   0.014304
+db-updated:   2011-09-18 17:25:02
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

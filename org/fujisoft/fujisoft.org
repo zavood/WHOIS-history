@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D88509451-LROR
+Domain Name:FUJISOFT.ORG
+Created On:18-Jul-2002 08:29:12 UTC
+Last Updated On:06-Jul-2011 12:32:37 UTC
+Expiration Date:18-Jul-2016 08:29:12 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30863169
+Registrant Name:Albert Raj
+Registrant Organization:Fujisoft Technology
+Registrant Street1:108 Al Khaleej Centre
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bur Dubai
+Registrant State/Province:Dubai
+Registrant Postal Code:44623
+Registrant Country:AE
+Registrant Phone:+43.526686
+Registrant Phone Ext.:
+Registrant FAX:+43.526676
+Registrant FAX Ext.:
+Registrant Email:albert@fujisoft.net
+Admin ID:CR30863171
+Admin Name:Albert Raj
+Admin Organization:Fujisoft Technology
+Admin Street1:108 Al Khaleej Centre
+Admin Street2:
+Admin Street3:
+Admin City:Bur Dubai
+Admin State/Province:Dubai
+Admin Postal Code:44623
+Admin Country:AE
+Admin Phone:+43.526686
+Admin Phone Ext.:
+Admin FAX:+43.526676
+Admin FAX Ext.:
+Admin Email:albert@fujisoft.net
+Tech ID:CR30863170
+Tech Name:Albert Raj
+Tech Organization:Fujisoft Technology
+Tech Street1:108 Al Khaleej Centre
+Tech Street2:
+Tech Street3:
+Tech City:Bur Dubai
+Tech State/Province:Dubai
+Tech Postal Code:44623
+Tech Country:AE
+Tech Phone:+43.526686
+Tech Phone Ext.:
+Tech FAX:+43.526676
+Tech FAX Ext.:
+Tech Email:albert@fujisoft.net
+Name Server:NS21.DOMAINCONTROL.COM
+Name Server:NS22.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

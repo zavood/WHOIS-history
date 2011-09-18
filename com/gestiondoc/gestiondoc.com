@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 08-sep-2009
    Expiration Date: 08-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 16:32:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 17:16:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,7 +76,7 @@ Registrars.
 # Pour obtenir les informations en status 'Protected by policy', contactez
 # directement le registre concerne (Eurid, AFNIC)
 #
-# 2011-09-14 18:33:18 CEST
+# 2011-09-18 19:17:14 CEST
 
 domain: gestiondoc.com
 reg_created: 2009-09-08 13:10:18

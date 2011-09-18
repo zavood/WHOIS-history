@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105307723-LROR
+Domain Name:UCSBCYCLING.ORG
+Created On:08-Dec-2004 17:28:22 UTC
+Last Updated On:09-Dec-2010 10:28:35 UTC
+Expiration Date:08-Dec-2011 17:28:22 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR36356611
+Registrant Name:Kamyab Sadaghiani
+Registrant Organization:UCSB Cycling
+Registrant Street1:6850 El Colegio Rd. Room 9230
+Registrant Street2:
+Registrant Street3:
+Registrant City:Goleta
+Registrant State/Province:California
+Registrant Postal Code:93117
+Registrant Country:US
+Registrant Phone:+1.9493384684
+Registrant Phone Ext.:
+Registrant FAX:+1.0000000000
+Registrant FAX Ext.:
+Registrant Email:ksadaghiani@umail.ucsb.edu
+Admin ID:CR36356613
+Admin Name:Kamyab Sadaghiani
+Admin Organization:UCSB Cycling
+Admin Street1:6850 El Colegio Rd. Room 9230
+Admin Street2:
+Admin Street3:
+Admin City:Goleta
+Admin State/Province:California
+Admin Postal Code:93117
+Admin Country:US
+Admin Phone:+1.9493384684
+Admin Phone Ext.:
+Admin FAX:+1.0000000000
+Admin FAX Ext.:
+Admin Email:ksadaghiani@umail.ucsb.edu
+Tech ID:CR36356612
+Tech Name:Domain Manager
+Tech Organization:iPowerWeb
+Tech Street1:2800 28th Street Suite 205
+Tech Street2:
+Tech Street3:
+Tech City:Santa Monica
+Tech State/Province:California
+Tech Postal Code:90405
+Tech Country:US
+Tech Phone:+1.8885114678
+Tech Phone Ext.:
+Tech FAX:+1.3103141610
+Tech FAX Ext.:
+Tech Email:hostmaster@ipowerweb.com
+Name Server:NS01.DOMAINCONTROL.COM
+Name Server:NS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

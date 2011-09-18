@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 22-jul-2010
    Expiration Date: 22-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 10:52:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 16:38:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +51,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about siterefuge.com
+&lt;a href=&quot;http://www.aboutus.org/siterefuge.com&quot;&gt;AboutUs: siterefuge.com&lt;/a&gt;
+
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
+
+Domain name: siterefuge.com
+
+Registrant Contact:
+   Site Refuge
+   Sylvain Bousquet ()
+
+   Fax:
+   2892 ST-LOUIS
+   STE-MARTHE-SUR-LE-LAC, P J0N 1P0
+   CA
+
+Administrative Contact:
+   Site Refuge
+    Bousquet (sylvainbousquet@videotron.ca)
+   +1.5144769135
+   Fax: +1.5555555555
+   2892 ST-LOUIS
+   STE-MARTHE-SUR-LE-LAC, P J0N 1P0
+   CA
+
+Technical Contact:
+   Site Refuge
+   Sylvain Bousquet (sylvainbousquet@videotron.ca)
+   +1.5144769135
+   Fax: +1.5555555555
+   2892 ST-LOUIS
+   STE-MARTHE-SUR-LE-LAC, P J0N 1P0
+   CA
+
+Status: Locked
+
+Name Servers:
+   ns1.siterefuge.com
+   ns2.siterefuge.com
+
+Creation date: 22 Jul 2010 19:51:00
+Expiration date: 22 Jul 2012 14:51:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

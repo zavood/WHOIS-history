@@ -1,0 +1,27 @@
+[Domain]
+Domain: tachomaster.lv
+Status: active
+Changed: 2010-09-08T16:44:41+03:00
+
+[Holder]
+Type: Legal person
+Name: Road Tech Computer Systems Ltd
+Email: info@bb-online.co.uk
+Fax: +44 1582 585057
+Phone: +44 1582 572148
+Address: Shenley Hall,Rectory Lane,Shenley , Radlett, Herts , WD7 9AN, United Kingdom
+RegNr: None
+
+[Tech]
+Type: Natural person
+Email: info@bb-online.co.uk
+Fax: +44 1582 585057
+Phone: +44 1582 572148
+
+[Nservers]
+Nserver: name0.road-runner.net
+Nserver: ns0-t.dns.pipex.net
+Nserver: name1.road-runner.net
+
+[Whois]
+Updated: 2011-09-18T11:12:25.683652+00:00

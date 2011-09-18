@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D8252804-LROR
+Domain Name:CAVESOFICE.ORG
+Created On:21-Jul-1999 17:06:43 UTC
+Last Updated On:28-Jun-2011 17:13:16 UTC
+Expiration Date:21-Jul-2012 17:06:43 UTC
+Sponsoring Registrar:easyDNS Technologies Inc. (R1247-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuonhd6V8jWABixK
+Registrant Name:Alaina Hardie
+Registrant Organization:Alaina Hardie
+Registrant Street1:111-1598A Bathurst St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Toronto
+Registrant State/Province:ON
+Registrant Postal Code:M5P3H9
+Registrant Country:CA
+Registrant Phone:+1.4167809725
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:crapola@cavesofice.org
+Admin ID:tuZYUNsHJcTBNASl
+Admin Name:Alaina Hardie
+Admin Organization:Alaina Hardie
+Admin Street1:111-1598A Bathurst St.
+Admin Street2:
+Admin Street3:
+Admin City:Toronto
+Admin State/Province:ON
+Admin Postal Code:M5P3H9
+Admin Country:CA
+Admin Phone:+1.4167809725
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:crapola@cavesofice.org
+Tech ID:tub4FRwYM8h2A6B8
+Tech Name:Alaina Hardie
+Tech Organization:Alaina Hardie
+Tech Street1:111-1598A Bathurst St.
+Tech Street2:
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:ON
+Tech Postal Code:M5P3H9
+Tech Country:CA
+Tech Phone:+1.4167809725
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:crapola@cavesofice.org
+Name Server:NS1.EASYDNS.COM
+Name Server:NS2.EASYDNS.COM
+Name Server:REMOTE1.EASYDNS.COM
+Name Server:REMOTE2.EASYDNS.COM
+Name Server:NS6.EASYDNS.NET
+Name Server:NS3.EASYDNS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

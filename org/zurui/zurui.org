@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160743160-LROR
+Domain Name:ZURUI.ORG
+Created On:23-Nov-2010 03:32:01 UTC
+Last Updated On:22-Jan-2011 03:49:20 UTC
+Expiration Date:23-Nov-2011 03:32:01 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ncr-7353258-24c6
+Registrant Name:Zu Zhihui
+Registrant Organization:Huizhi
+Registrant Street1:Huilongguan
+Registrant Street2:
+Registrant Street3:
+Registrant City:Beijing
+Registrant State/Province:BJ
+Registrant Postal Code:100001
+Registrant Country:CN
+Registrant Phone:+86.8610827105
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:zuzhihui@gmail.com
+Admin ID:nca-7353259-848a
+Admin Name:Zu Zhihui
+Admin Organization:Huizhi
+Admin Street1:Huilongguan
+Admin Street2:
+Admin Street3:
+Admin City:Beijing
+Admin State/Province:BJ
+Admin Postal Code:100001
+Admin Country:CN
+Admin Phone:+86.8610827105
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:zuzhihui@gmail.com
+Tech ID:nct-7353260-b108
+Tech Name:Zu Zhihui
+Tech Organization:Huizhi
+Tech Street1:Huilongguan
+Tech Street2:
+Tech Street3:
+Tech City:Beijing
+Tech State/Province:BJ
+Tech Postal Code:100001
+Tech Country:CN
+Tech Phone:+86.8610827105
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:zuzhihui@gmail.com
+Name Server:F1G1NS1.DNSPOD.NET
+Name Server:F1G1NS2.DNSPOD.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

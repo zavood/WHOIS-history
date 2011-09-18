@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148794165-LROR
+Domain Name:MOSAICMONTEREYBAY.ORG
+Created On:04-Aug-2007 17:42:39 UTC
+Last Updated On:12-Jul-2010 21:10:08 UTC
+Expiration Date:04-Aug-2014 17:42:39 UTC
+Sponsoring Registrar:pair Networks, Inc.d/b/a pairNIC (R103-LROR)
+Status:OK
+Registrant ID:RA54008
+Registrant Name:Rob Appel
+Registrant Organization:EarthSkySea.com
+Registrant Street1:284 Young Circle
+Registrant Street2:
+Registrant Street3:
+Registrant City:Marina
+Registrant State/Province:CA
+Registrant Postal Code:93933
+Registrant Country:US
+Registrant Phone:+1.8312410730
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rob@earthskysea.com
+Admin ID:RA21570
+Admin Name:Rob Appel
+Admin Organization:EarthSkySea.com
+Admin Street1:3078 Vaughan
+Admin Street2:
+Admin Street3:
+Admin City:Marina
+Admin State/Province:CA
+Admin Postal Code:93933
+Admin Country:US
+Admin Phone:+1.8312410730
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rob@earthskysea.com
+Tech ID:RA21570
+Tech Name:Rob Appel
+Tech Organization:EarthSkySea.com
+Tech Street1:3078 Vaughan
+Tech Street2:
+Tech Street3:
+Tech City:Marina
+Tech State/Province:CA
+Tech Postal Code:93933
+Tech Country:US
+Tech Phone:+1.8312410730
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rob@earthskysea.com
+Name Server:NS5.NS0.COM
+Name Server:NS471.PAIR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

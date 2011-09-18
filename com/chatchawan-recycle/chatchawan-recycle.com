@@ -11,12 +11,12 @@ for detailed information.
    Referral URL: http://www.PublicDomainRegistry.com
    Name Server: DNS.PARKPAGE.FOUNDATIONAPI.COM
    Name Server: DNS2.PARKPAGE.FOUNDATIONAPI.COM
-   Status: clientTransferProhibited
-   Updated Date: 04-aug-2011
+   Status: redemptionPeriod
+   Updated Date: 12-sep-2011
    Creation Date: 03-aug-2010
-   Expiration Date: 03-aug-2012
+   Expiration Date: 03-aug-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 05:48:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 17:10:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -104,11 +104,8 @@ Billing Contact:
     TH
     Tel. +66.0852990780
 
-Status:RENEWAL HOLD
-	Note: This Domain Name has expired. In this status the domain name
-	is inactive. This domain name will be activated once it is renewed.
-	 The Owner of this domain name can renew this domain name from their control panel.
-	If this domain name is not renewed by 12-Sep-2011, it will be permanently deleted.
+Status:REDEMPTIONPERIOD
+
 The data in this whois database is provided to you for information purposes only,
 that is, to assist you in obtaining information about or related
 to a domain name registration record. We make this information available &quot;as is&quot;,

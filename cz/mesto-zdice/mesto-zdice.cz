@@ -1,0 +1,102 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sun Sep 18 18:12:28 2011
+
+domain:       mesto-zdice.cz
+registrant:   SB:SUB000012741-ZONER
+admin-c:      PER000012741-ZONER
+temp-c:       PER000000001-ZONER
+nsset:        NSS:IGNUM:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   28.06.2001 23:11:00
+changed:      01.06.2007 14:25:00
+expire:       28.06.2015
+
+contact:      SB:SUB000012741-ZONER
+org:          Mestsky urad Zdice
+name:         Mestsky urad Zdice
+address:      Husova 2
+address:      Zdice
+address:      26751
+address:      CZ
+e-mail:       holotina.zd@atlas.cz
+registrar:    REG-IGNUM
+created:      10.06.2003 11:36:00
+changed:      15.07.2003 09:36:00
+
+contact:      PER000012741-ZONER
+name:         Miroslav Holotina
+address:      Husova 2
+address:      Zdice
+address:      26751
+address:      CZ
+phone:        +420311685258
+e-mail:       holotina.zd@atlas.cz
+registrar:    REG-IGNUM
+created:      10.06.2003 11:21:00
+changed:      10.06.2003 09:36:00
+
+contact:      PER000000001-ZONER
+name:         Petr Horinek
+address:      Nov&Atilde;&copy; sady 18
+address:      Brno
+address:      60200
+address:      CZ
+phone:        +420.543257244
+fax-no:       +420.543257245
+e-mail:       auto-reg@admin.czechia.com
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      26.08.2005 15:05:00
+
+nsset:        NSS:IGNUM:1
+nserver:      ns1.ignum.com
+nserver:      ns2.ignum.cz (213.235.133.138)
+tech-c:       ROB1
+tech-c:       SB:IGNUM
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+
+contact:      ROB1
+name:         Robert Prokes
+address:      Vinohradsk&Atilde;&iexcl; 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.296332211
+fax-no:       +420.296332222
+e-mail:       helpdesk@ignum.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      01.01.2009 10:18:17
+
+contact:      SB:IGNUM
+org:          IGNUM s.r.o.
+name:         Robert Proke&Aring;&iexcl;
+address:      Thamova 18
+address:      Praha 8
+address:      18600
+address:      CZ
+e-mail:       info@ignum.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      05.10.2007 11:11:02
+
+

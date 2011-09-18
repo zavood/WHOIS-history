@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156511412-LROR
+Domain Name:FWSBPOWERSCHOOL.ORG
+Created On:25-Jun-2009 18:00:09 UTC
+Last Updated On:25-Aug-2009 03:57:15 UTC
+Expiration Date:25-Jun-2019 18:00:09 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR5423177
+Registrant Name:Mary Sturm
+Registrant Organization:Diocese of Fort Wayne South Bend
+Registrant Street1:915 S Clinton St
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fort Wayne
+Registrant State/Province:Indiana
+Registrant Postal Code:46801
+Registrant Country:US
+Registrant Phone:+1.2604964751
+Registrant Phone Ext.:
+Registrant FAX:+1.2604964702
+Registrant FAX Ext.:
+Registrant Email:mfsturm@yahoo.com
+Admin ID:CR5423181
+Admin Name:Mary Sturm
+Admin Organization:Diocese of Fort Wayne South Bend
+Admin Street1:915 S Clinton St
+Admin Street2:
+Admin Street3:
+Admin City:Fort Wayne
+Admin State/Province:Indiana
+Admin Postal Code:46801
+Admin Country:US
+Admin Phone:+1.2604964751
+Admin Phone Ext.:
+Admin FAX:+1.2604964702
+Admin FAX Ext.:
+Admin Email:mfsturm@yahoo.com
+Tech ID:CR5423179
+Tech Name:Mary Sturm
+Tech Organization:Diocese of Fort Wayne South Bend
+Tech Street1:915 S Clinton St
+Tech Street2:
+Tech Street3:
+Tech City:Fort Wayne
+Tech State/Province:Indiana
+Tech Postal Code:46801
+Tech Country:US
+Tech Phone:+1.2604964751
+Tech Phone Ext.:
+Tech FAX:+1.2604964702
+Tech FAX Ext.:
+Tech Email:mfsturm@yahoo.com
+Name Server:NS1.GRADEAHOSTING.COM
+Name Server:NS2.GRADEAHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

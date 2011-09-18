@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 03-sep-2004
    Expiration Date: 03-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 02:21:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 17:25:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,7 +71,7 @@ commercial advertising or solicitations via e-mail (spam); or
 
 By submitting this query, you agree to abide by the above policy.
 
-Whois History: 1,686 records have been archived since 2004-11-08
+Whois History: 1,700 records have been archived since 2004-11-08
 http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=xtube.com
 
 Domain: xtube.com

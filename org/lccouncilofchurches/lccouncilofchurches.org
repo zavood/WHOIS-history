@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D89593270-LROR
+Domain Name:LCCOUNCILOFCHURCHES.ORG
+Created On:23-Aug-2002 00:25:41 UTC
+Last Updated On:24-Aug-2009 14:48:13 UTC
+Expiration Date:23-Aug-2014 00:25:43 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:4141820e0eed2101
+Registrant Name:Pat Reynolds
+Registrant Organization:Lancaster County Counil of Churches
+Registrant Street1:344 North Marshall Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lancaster
+Registrant State/Province:PA
+Registrant Postal Code:17602
+Registrant Country:US
+Registrant Phone:+1.7172912261
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:pat@pdbusinesssystems.com
+Admin ID:C42732824-RCOM
+Admin Name:Pat Reynolds
+Admin Organization:Lancaster County Counil of Churches
+Admin Street1:134 East King Street
+Admin Street2:
+Admin Street3:
+Admin City:Lancaster
+Admin State/Province:PA
+Admin Postal Code:17602
+Admin Country:US
+Admin Phone:+1.7172912261
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:pat@pdbusinesssystems.com
+Tech ID:C1-RCOM
+Tech Name:Domain Registrar
+Tech Organization:Register.Com
+Tech Street1:575 8th Avenue
+Tech Street2:11th Floor
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027495429
+Tech FAX Ext.:
+Tech Email:domain-registrar@register.com
+Name Server:DNS039.A.REGISTER.COM
+Name Server:DNS034.B.REGISTER.COM
+Name Server:DNS043.C.REGISTER.COM
+Name Server:DNS010.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
