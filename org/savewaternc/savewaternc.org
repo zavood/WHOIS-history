@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150449489-LROR
+Domain Name:SAVEWATERNC.ORG
+Created On:21-Dec-2007 13:55:03 UTC
+Last Updated On:06-Dec-2010 09:03:56 UTC
+Expiration Date:21-Dec-2011 13:55:03 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:42436939-NSI
+Registrant Name:NC Crime Control &amp; Public Safety
+Registrant Organization:NC Crime Control &amp; Public Safety
+Registrant Street1:4701 Mail Service Center
+Registrant Street2:
+Registrant Street3:
+Registrant City:Raleigh
+Registrant State/Province:NC
+Registrant Postal Code:27699
+Registrant Country:US
+Registrant Phone:+1.919733448
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:CFuquay@nccrimecontrol.org
+Admin ID:42436939-NSI
+Admin Name:NC Crime Control &amp; Public Safety
+Admin Organization:NC Crime Control &amp; Public Safety
+Admin Street1:4701 Mail Service Center
+Admin Street2:
+Admin Street3:
+Admin City:Raleigh
+Admin State/Province:NC
+Admin Postal Code:27699
+Admin Country:US
+Admin Phone:+1.919733448
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:CFuquay@nccrimecontrol.org
+Tech ID:19565050-NSI
+Tech Name:Information Technology Services
+Tech Organization:Information Technology Services
+Tech Street1:PO Box 17209
+Tech Street2:Office of Information Technology Services
+Tech Street3:
+Tech City:Raleigh
+Tech State/Province:NC
+Tech Postal Code:27609
+Tech Country:US
+Tech Phone:+1.9197546000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@its.nc.gov
+Name Server:NS1.NC.GOV
+Name Server:NS2.NC.GOV
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

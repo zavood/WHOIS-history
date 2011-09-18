@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 04-jan-2000
    Expiration Date: 04-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:45:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 08:44:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: hollandfoto.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:36:13 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sun Sep 18 04:34:09 EDT 2011
 Reason Code: IE

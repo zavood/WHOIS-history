@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158184461-LROR
+Domain Name:MCLOVIN.ORG
+Created On:23-Jan-2010 22:27:44 UTC
+Last Updated On:25-Mar-2010 03:48:31 UTC
+Expiration Date:23-Jan-2013 22:27:44 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR40880154
+Registrant Name:Godaddy Software domains for sale
+Registrant Organization:Godaddy Software
+Registrant Street1:14455 N Hayden Rd
+Registrant Street2:Suite 219
+Registrant Street3:
+Registrant City:Scottsdale
+Registrant State/Province:AZ
+Registrant Postal Code:85260
+Registrant Country:US
+Registrant Phone:+1.4805058800
+Registrant Phone Ext.:
+Registrant FAX:+1.4805058844
+Registrant FAX Ext.:
+Registrant Email:domains4sale@godaddy.com
+Admin ID:CR40880156
+Admin Name:Godaddy Software domains for sale
+Admin Organization:Godaddy Software
+Admin Street1:14455 N Hayden Rd
+Admin Street2:Suite 219
+Admin Street3:
+Admin City:Scottsdale
+Admin State/Province:AZ
+Admin Postal Code:85260
+Admin Country:US
+Admin Phone:+1.4805058800
+Admin Phone Ext.:
+Admin FAX:+1.4805058844
+Admin FAX Ext.:
+Admin Email:domains4sale@godaddy.com
+Tech ID:CR40880155
+Tech Name:Godaddy Software domains for sale
+Tech Organization:Godaddy Software
+Tech Street1:14455 N Hayden Rd
+Tech Street2:Suite 219
+Tech Street3:
+Tech City:Scottsdale
+Tech State/Province:AZ
+Tech Postal Code:85260
+Tech Country:US
+Tech Phone:+1.4805058800
+Tech Phone Ext.:
+Tech FAX:+1.4805058844
+Tech FAX Ext.:
+Tech Email:domains4sale@godaddy.com
+Name Server:NS09.DOMAINCONTROL.COM
+Name Server:NS10.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

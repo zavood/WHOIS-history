@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104750918-LROR
+Domain Name:BLUEGRASSROOTS.ORG
+Created On:12-Aug-2004 12:58:22 UTC
+Last Updated On:13-Sep-2009 22:47:51 UTC
+Expiration Date:12-Aug-2014 12:58:22 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuJNYQppOlaw1wdA
+Registrant Name:Ben Carter
+Registrant Organization:BlueGrassRoots
+Registrant Street1:126 Suburban Ct.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lexington
+Registrant State/Province:KY
+Registrant Postal Code:40503
+Registrant Country:US
+Registrant Phone:+1.8596190684
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bluegrassroots@hotmail.com
+Admin ID:tuJNYQppOlaw1wdA
+Admin Name:Ben Carter
+Admin Organization:BlueGrassRoots
+Admin Street1:126 Suburban Ct.
+Admin Street2:
+Admin Street3:
+Admin City:Lexington
+Admin State/Province:KY
+Admin Postal Code:40503
+Admin Country:US
+Admin Phone:+1.8596190684
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bluegrassroots@hotmail.com
+Tech ID:tuJNYQppOlaw1wdA
+Tech Name:Ben Carter
+Tech Organization:BlueGrassRoots
+Tech Street1:126 Suburban Ct.
+Tech Street2:
+Tech Street3:
+Tech City:Lexington
+Tech State/Province:KY
+Tech Postal Code:40503
+Tech Country:US
+Tech Phone:+1.8596190684
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bluegrassroots@hotmail.com
+Name Server:SJC.NAMESERVER.NET
+Name Server:SOU.NAMESERVER.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

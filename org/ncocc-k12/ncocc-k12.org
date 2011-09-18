@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D7432698-LROR
+Domain Name:NCOCC-K12.ORG
+Created On:23-Jun-1999 02:18:25 UTC
+Last Updated On:20-Aug-2009 00:31:58 UTC
+Expiration Date:23-Jun-2012 02:19:04 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR4669790
+Registrant Name:Heartland Council of Governments
+Registrant Organization:Heartland Council of Governments
+Registrant Street1:1495 W. Longview Ave.
+Registrant Street2:Suite 100
+Registrant Street3:
+Registrant City:Mansfield
+Registrant State/Province:Ohio
+Registrant Postal Code:44906
+Registrant Country:US
+Registrant Phone:+1.4197478660
+Registrant Phone Ext.:
+Registrant FAX:+1.4197478680
+Registrant FAX Ext.:
+Registrant Email:terry@ncocc.k12.oh.us
+Admin ID:CR4669792
+Admin Name:Terry Baker
+Admin Organization:North Central Ohio Computer Cooperative
+Admin Street1:1495 W Longview Ave
+Admin Street2:Suite 100
+Admin Street3:
+Admin City:Mansfield
+Admin State/Province:Ohio
+Admin Postal Code:44906-1872
+Admin Country:US
+Admin Phone:+1.4197478660
+Admin Phone Ext.:
+Admin FAX:+1.4197478680
+Admin FAX Ext.:
+Admin Email:baker.terry@ncocc.k12.oh.us
+Tech ID:CR4669791
+Tech Name:Terry Baker
+Tech Organization:North Central Ohio Computer Cooperative
+Tech Street1:1495 W Longview Ave
+Tech Street2:Suite 100
+Tech Street3:
+Tech City:Mansfield
+Tech State/Province:Ohio
+Tech Postal Code:44906-1872
+Tech Country:US
+Tech Phone:+1.4197478660
+Tech Phone Ext.:
+Tech FAX:+1.4197478680
+Tech FAX Ext.:
+Tech Email:baker.terry@ncocc.k12.oh.us
+Name Server:NS1.ESU.K12.OH.US
+Name Server:NS4.ESU.K12.OH.US
+Name Server:NS1.NCOCC-K12.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

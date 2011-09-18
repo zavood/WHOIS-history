@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D75262794-LROR
+Domain Name:BIBLEDATABASE.ORG
+Created On:23-Jul-2001 03:10:09 UTC
+Last Updated On:26-Aug-2011 00:25:54 UTC
+Expiration Date:23-Jul-2013 03:10:09 UTC
+Sponsoring Registrar:Internet.bs Corp. (R1601-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:INTE0lbirht9zqps
+Registrant Name:Private Whois Service
+Registrant Organization:Private Whois Service
+Registrant Street1:*******PLEASE DO NOT SEND LETTERS******
+Registrant Street2:****Contact the owner by email only****
+Registrant Street3:c/o bibledatabase.org
+Registrant City:Nassau
+Registrant State/Province:
+Registrant Postal Code:N4892
+Registrant Country:BS
+Registrant Phone:+852.81720004
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rgy5qzc4e0739292dca4@oqjij874d9300d54bd95.privatewhois.net
+Admin ID:INTErj04ydioehtf
+Admin Name:Private Whois Service
+Admin Organization:Private Whois Service
+Admin Street1:*******PLEASE DO NOT SEND LETTERS******
+Admin Street2:****Contact the owner by email only****
+Admin Street3:c/o bibledatabase.org
+Admin City:Nassau
+Admin State/Province:
+Admin Postal Code:N4892
+Admin Country:BS
+Admin Phone:+852.81720004
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sack1k14e07392a39c26@oqjij874d9300d54bd95.privatewhois.net
+Tech ID:INTE4j8vq1sazp38
+Tech Name:Private Whois Service
+Tech Organization:Private Whois Service
+Tech Street1:*******PLEASE DO NOT SEND LETTERS******
+Tech Street2:****Contact the owner by email only****
+Tech Street3:c/o bibledatabase.org
+Tech City:Nassau
+Tech State/Province:
+Tech Postal Code:N4892
+Tech Country:BS
+Tech Phone:+852.81720004
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:awyyh694e07392a211c5@oqjij874d9300d54bd95.privatewhois.net
+Name Server:NS1.TLD0.NET
+Name Server:NS2.TLD0.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

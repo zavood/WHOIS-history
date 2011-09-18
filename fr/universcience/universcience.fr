@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; universcience.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      universcience.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    EPDP15-FRNIC
+admin-c:     EPDP6-FRNIC
+tech-c:      IDN111-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL34371-FRNIC
+registrar:   INDOM
+anniversary: 26/01
+created:     19/11/2009
+last-update: 26/01/2011
+source:      FRNIC
+
+ns-list:     NSL34371-FRNIC
+nserver:     indom20.indomco.net
+nserver:     csidns.cite-sciences.fr [194.199.143.131]
+nserver:     csidns2.cite-sciences.fr [195.167.200.123]
+nserver:     indom30.indomco.fr [213.205.102.3]
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     EPDP15-FRNIC
+type:        ORGANIZATION
+contact:     ETABLISSEMENT PUBLIC PALAIS DE LA DeCOUVERTE ET CITe DES SCIENCE S ET DE L INDUSTRIE
+address:     avenue Frankin D.Roosevelt
+address:     75008 Paris
+country:     FR
+phone:       +33 1 40 07 00 00
+fax-no:      +33 1 40 05 71 06
+e-mail:      whois@universcience.fr
+changed:     31/01/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     EPDP6-FRNIC
+type:        ORGANIZATION
+contact:     Ets public du palais de la decouverte, de la cite des sciences et de l'industrie
+address:     30, avenue Corentin Cariou
+address:     75930 Paris
+country:     FR
+phone:       +33 1 40 05 35 71
+fax-no:      +33 1 40 05 71 06
+e-mail:      whois@universcience.fr
+changed:     23/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     IDN111-FRNIC
+type:        ORGANIZATION
+contact:     INDOM
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 76 70 05 67
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     10/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

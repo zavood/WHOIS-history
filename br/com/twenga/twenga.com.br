@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 05:11:53 (BRT -03:00)
+
+domain:      twenga.com.br
+owner:       Rosana Im&oacute;veis Ltda
+ownerid:     095.065.603/0001-88
+responsible: Rosana Strassburger
+country:     BR
+owner-c:     ROS835
+admin-c:     ROS835
+tech-c:      ROS835
+billing-c:   ROS835
+nserver:     ns1.p02.dynect.net
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.p02.dynect.net
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.p02.dynect.net
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns4.p02.dynect.net
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20071009 #3973540
+expires:     20111009
+changed:     20101228
+status:      published
+
+nic-hdl-br:  ROS835
+person:      Rosana Strassburger
+e-mail:      domains@marcaria.com
+created:     20030731
+changed:     20091110
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

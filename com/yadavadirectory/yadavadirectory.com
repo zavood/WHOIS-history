@@ -9,15 +9,14 @@ for detailed information.
    Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
    Whois Server: whois.PublicDomainRegistry.com
    Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: NS1.PIPEDNS.COM
-   Name Server: NS2.PIPEDNS.COM
-   Name Server: NS3.PIPEDNS.COM
+   Name Server: NS67.INDSERVERS.COM
+   Name Server: NS68.INDSERVERS.COM
    Status: clientTransferProhibited
-   Updated Date: 28-sep-2010
+   Updated Date: 17-sep-2011
    Creation Date: 25-sep-2009
    Expiration Date: 25-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 06:32:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 08:36:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,9 +70,8 @@ Creation Date: 25-Sep-2009
 Expiration Date: 25-Sep-2011
 
 Domain servers in listed order:
-    ns1.pipedns.com
-    ns2.pipedns.com
-    ns3.pipedns.com
+    ns67.indservers.com
+    ns68.indservers.com
 
 
 Administrative Contact:

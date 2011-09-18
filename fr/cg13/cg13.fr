@@ -1,0 +1,112 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; cg13.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cg13.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CGDB12-FRNIC
+admin-c:     JP2173-FRNIC
+tech-c:      OH251-FRNIC
+tech-c:      BR305-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL37933-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 01/04
+created:     03/09/1997
+last-update: 22/04/2010
+source:      FRNIC
+
+ns-list:     NSL37933-FRNIC
+nserver:     ns.cg13.fr [83.97.61.209]
+nserver:     ns6.oleane.net
+nserver:     ns7.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     CGDB12-FRNIC
+type:        ORGANIZATION
+contact:     Conseil General des Bouches du Rhone
+address:     52, avenue de Saint Just
+address:     13256 Marseille
+country:     FR
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JP2173-FRNIC
+type:        PERSON
+contact:     Jacques Poggi
+address:     Conseil general des Bouches du Rhone
+address:     52, avenue Saint Just
+address:     13256 Marseille Cedex 20
+country:     FR
+phone:       +33 4 91 21 38 71
+fax-no:      +33 4 91 21 38 98
+e-mail:      jpoggi@aix.pacwan.net
+changed:     03/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     BR305-FRNIC
+type:        PERSON
+contact:     Baba Rakoto
+address:     CG13
+address:     52, avenue Saint Just
+address:     hotel du Departement
+address:     13256 Marseille Cedex 20
+country:     FR
+phone:       +33 4 91 21 38 71
+fax-no:      +33 4 91 21 38 98
+e-mail:      baba.rakoto@cg13.fr
+changed:     23/03/2004 lab@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

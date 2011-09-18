@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      amazinggrace.ie
+descr:       OM Ireland Limited
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Discretionary Name
+admin-c:     ACU853-IEDR
+tech-c:      ABG704-IEDR
+renewal:     08-January-2012
+status:      Active
+nserver:     DNS1.FLEXIHOSTINGS.NET
+nserver:     DNS2.FLEXIHOSTINGS.NET
+source:      IEDR
+
+person:      Michael Mullins
+nic-hdl:     ACU853-IEDR
+source:      IEDR
+
+person:      Lets Host Domain Services
+nic-hdl:     ABG704-IEDR
+source:      IEDR
+

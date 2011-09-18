@@ -1,0 +1,112 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ilog.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ilog.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    IBMC15-FRNIC
+admin-c:     SM1727-FRNIC
+tech-c:      DT790-FRNIC
+tech-c:      IDT25-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL3807-FRNIC
+registrar:   MELBOURNE IT LIMITED
+anniversary: 01/10
+created:     01/01/1995
+last-update: 25/11/2009
+source:      FRNIC
+
+ns-list:     NSL3807-FRNIC
+nserver:     ns.watson.ibm.com
+nserver:     ns.almaden.ibm.com
+source:      FRNIC
+
+registrar:   MELBOURNE IT LIMITED
+type:        Isp Option 1
+address:     Level 2
+address:     120 King St
+address:     3000 MELBOURNE, VICTORIA
+country:     AU
+phone:       +61 3 8624 2400
+fax-no:      +61 3 8624 2499
+e-mail:      admin@melbourneitdbs.com
+website:     http://www.melbourneit.com.au
+anonymous:   NO
+registered:  16/03/2007
+source:      FRNIC
+
+nic-hdl:     IBMC15-FRNIC
+type:        ORGANIZATION
+contact:     International Business Machines Corporation
+address:     International Business Machines Corporation
+address:     New Orchard Road
+address:     10504 Armonk
+country:     US
+phone:       +1 9147654227
+fax-no:      +1 9147654370
+e-mail:      dnsadm@us.ibm.com
+changed:     01/10/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SM1727-FRNIC
+type:        PERSON
+contact:     Sylvie Martin
+address:     IBM France
+address:     le Plan du Bois
+address:     06610 Lagaude
+country:     FR
+phone:       +33 4 92 11 59 03
+fax-no:      +33 4 93 24 75 11
+e-mail:      dnsadm@us.ibm.com
+changed:     05/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DT790-FRNIC
+type:        PERSON
+contact:     Domain Tech
+address:     Melbourne IT DBS Inc
+address:     636, Ellis Street
+address:     94043 Mountain View
+country:     US
+phone:       +1 8669073267
+fax-no:      +1 8669073267
+e-mail:      tech@melbourneitdbs.com
+changed:     15/09/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IDT25-FRNIC
+type:        PERSON
+contact:     Ibm Dns Technical
+address:     IBM Corporation
+address:     New Orchard Road
+address:     10504 Armonk
+country:     FR
+phone:       +1 9192544441
+fax-no:      +1 9147654370
+e-mail:      ipreg@us.ibm.com
+changed:     01/10/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

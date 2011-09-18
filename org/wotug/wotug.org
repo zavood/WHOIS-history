@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D81393257-LROR
+Domain Name:WOTUG.ORG
+Created On:19-Dec-2001 14:30:03 UTC
+Last Updated On:20-May-2011 17:15:39 UTC
+Expiration Date:19-Dec-2013 14:30:03 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:C129698466027057
+Registrant Name:Fred Barnes
+Registrant Organization:School of Computing
+Registrant Street1:University of Kent
+Registrant Street2:
+Registrant Street3:
+Registrant City:Canterbury
+Registrant State/Province:Kent
+Registrant Postal Code:CT2 7NF
+Registrant Country:GB
+Registrant Phone:+44.1227824278
+Registrant Phone Ext.:
+Registrant FAX:+44.1227762811
+Registrant FAX Ext.:
+Registrant Email:f.r.m.barnes@kent.ac.uk
+Admin ID:C129698466027058
+Admin Name:Fred Barnes
+Admin Organization:School of Computing
+Admin Street1:University of Kent
+Admin Street2:
+Admin Street3:
+Admin City:Canterbury
+Admin State/Province:Kent
+Admin Postal Code:CT2 7NF
+Admin Country:GB
+Admin Phone:+44.1227824278
+Admin Phone Ext.:
+Admin FAX:+44.1227762811
+Admin FAX Ext.:
+Admin Email:f.r.m.barnes@kent.ac.uk
+Tech ID:A129182863359680
+Tech Name:UKServers Hostmaster
+Tech Organization:Unknown
+Tech Street1:PO Box 34
+Tech Street2:
+Tech Street3:
+Tech City:Merriott
+Tech State/Province:Somerset
+Tech Postal Code:TA16 5YZ
+Tech Country:GB
+Tech Phone:+44.8701651416
+Tech Phone Ext.:
+Tech FAX:+44.8700940342
+Tech FAX Ext.:
+Tech Email:hostmaster@ukservers.net
+Name Server:DNS0.KENT.AC.UK
+Name Server:DNS1.KENT.AC.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

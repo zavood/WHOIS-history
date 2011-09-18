@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 29-jul-2002
    Expiration Date: 29-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:06:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 08:45:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,7 +71,7 @@ status:       lock
 created:      2002-07-29 11:35:09 UTC
 modified:     2011-06-27 08:04:38 UTC
 expires:      2012-07-29 15:35:09 UTC
-query-source: 174.142.225.246
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-139549
 person:       n/a
@@ -94,8 +94,8 @@ country:      DK
 phone:        +45.70205557
 
 source:       joker.com live whois service
-query-time:   0.018589
-db-updated:   2011-09-14 05:06:42
+query-time:   0.010715
+db-updated:   2011-09-18 08:46:12
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

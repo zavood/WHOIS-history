@@ -1,0 +1,102 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; console-extensible.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      console-extensible.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    AD5476-FRNIC
+admin-c:     CT870-FRNIC
+tech-c:      HN20-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1710-FRNIC
+registrar:   NAMEBAY
+anniversary: 02/10
+created:     02/10/2009
+last-update: 02/10/2009
+source:      FRNIC
+
+ns-list:     NSL1710-FRNIC
+nserver:     ns9.httpserveur.net
+nserver:     ns10.httpserveur.net
+source:      FRNIC
+
+registrar:   NAMEBAY
+type:        Isp Option 1
+address:     27 Boulevard des Moulins
+address:     98000 MONACO
+country:     MC
+phone:       +377 97 70 61 64
+fax-no:      +377 97 97 21 13
+e-mail:      contact@namebay.com
+website:     http://www.namebay.com
+anonymous:   NO
+registered:  18/09/2001
+source:      FRNIC
+
+nic-hdl:     AD5476-FRNIC
+type:        ORGANIZATION
+contact:     ATOUT DESIGN
+address:     chemin de l'Oasis
+address:     13190 Allauch
+country:     FR
+phone:       +33 4 75 52 82 10
+fax-no:      +33 4 75 52 82 10
+e-mail:      domaine@websiteout.net
+changed:     02/10/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CT870-FRNIC
+type:        PERSON
+contact:     C&eacute;dric Tijsseling
+address:     ATOUT DESIGN
+address:     chemin de l'Oasis
+address:     13190 Allauch
+country:     FR
+phone:       +33 4 75 52 82 10
+fax-no:      +33 4 75 52 82 10
+e-mail:      domaine@websiteout.net
+changed:     02/10/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HN20-FRNIC
+type:        ROLE
+contact:     Hostmaster Namebay
+address:     Namebay
+address:     Namebay SAM
+address:     30 bld Princesse Charlotte
+address:     98000 Monaco
+country:     MC
+phone:       +377 97706164
+fax-no:      +377 97972113
+e-mail:      techafnic@namebay.com
+trouble:     http://www.namebay.com
+trouble:     Support : hotline@namebay.com
+trouble:     Spam : abuse@namebay.com
+admin-c:     CV97-FRNIC
+tech-c:      FH448-FRNIC
+tech-c:      BF81-FRNIC
+notify:      techafnic@namebay.com
+changed:     28/09/2001 techafnic@namebay.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

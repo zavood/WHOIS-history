@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 11-dec-1996
    Expiration Date: 10-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:08:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 08:38:54 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -60,10 +60,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 174.142.225.246
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain subdomain.com
-% Timestamp: 2011-09-15 01:09:23
+% Timestamp: 2011-09-18 10:39:32
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
@@ -114,7 +114,7 @@ changed:                     2011-08-24 14:13:05
 [admin-c] fax:               +49-541-40666-22
 [admin-c] email:             info@websuche.de
 [admin-c] protection:        B
-[admin-c] updated:           2011-08-24 14:09:46
+[admin-c] updated:           2011-09-16 15:11:11
 
 [tech-c] handle:             10541456
 [tech-c] type:               ORG
