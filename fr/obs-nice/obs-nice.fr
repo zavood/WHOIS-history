@@ -1,0 +1,143 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; obs-nice.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      obs-nice.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ODLC12-FRNIC
+admin-c:     FV970-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      MLM78-FRNIC
+tech-c:      JMM341-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL16895-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 27/04/2009
+source:      FRNIC
+
+ns-list:     NSL16895-FRNIC
+nserver:     nice.obs-nice.fr [192.54.174.135]
+nserver:     nice2.obs-nice.fr [192.54.174.136]
+nserver:     dns.inria.fr [193.51.208.13]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     ODLC12-FRNIC
+type:        ORGANIZATION
+contact:     OBSERVATOIRE DE LA COTE D AZUR
+address:     boulevard de l'Observatoire
+address:     B.P. 139
+address:     06304 Nice
+country:     FR
+phone:       +33 4 92 00 19 42
+fax-no:      +33 4 92 00 31 18
+e-mail:      marie-laure.miniussi@obs-nice.fr
+changed:     06/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     FV970-FRNIC
+type:        PERSON
+contact:     Farrokh Vakili
+address:     Observatoire de la Cote D'Azur
+address:     boulevard de l'Observatoire
+address:     06304 Nice
+country:     FR
+phone:       +33 4 92 00 30 01
+fax-no:      +33 4 92 00 30 89
+e-mail:      farrokh.vakili@oca.eu
+changed:     27/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MLM78-FRNIC
+type:        PERSON
+contact:     Marie-Laure Miniussi
+address:     Observatoire de la cote d'Azur
+address:     boulevard de l'Observatoire
+address:     Sce Sit Nice
+address:     06304 Nice Cedex
+country:     FR
+phone:       +33 4 92 00 19 42
+fax-no:      +33 4 92 00 31 18
+e-mail:      marie-laure.miniussi@obs-nice.fr
+changed:     22/03/2007 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JMM341-FRNIC
+type:        PERSON
+contact:     Jean-Michel Mercier
+address:     Observatoire de la cote d'Azur
+address:     boulevard de l'Observatoire
+address:     Sce Sit Nice
+address:     06304 Nice Cedex
+country:     FR
+phone:       +33 4 92 00 30 10
+fax-no:      +33 4 92 00 31 18
+e-mail:      jean-michel.mercier@obs-nice.fr
+changed:     22/03/2007 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

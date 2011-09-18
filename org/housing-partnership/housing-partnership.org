@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D26118427-LROR
+Domain Name:HOUSING-PARTNERSHIP.ORG
+Created On:01-May-2000 17:05:48 UTC
+Last Updated On:01-May-2011 02:55:36 UTC
+Expiration Date:01-May-2012 17:05:48 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:B124075929456587
+Registrant Name:Lisa Schneider
+Registrant Organization:Lisa Schneider
+Registrant Street1:605 E. Hancock Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Appleton
+Registrant State/Province:WI
+Registrant Postal Code:54911
+Registrant Country:US
+Registrant Phone:+1.9207316644
+Registrant Phone Ext.:
+Registrant FAX:+1.9207317087
+Registrant FAX Ext.:
+Registrant Email:lisa@housing-partnership.org
+Admin ID:A124075922083191
+Admin Name:Lisa Schneider
+Admin Organization:Lisa Schneider
+Admin Street1:605 E. Hancock Street
+Admin Street2:
+Admin Street3:
+Admin City:Appleton
+Admin State/Province:WI
+Admin Postal Code:54911
+Admin Country:US
+Admin Phone:+1.9207316644
+Admin Phone Ext.:
+Admin FAX:+1.9207317087
+Admin FAX Ext.:
+Admin Email:lisa@housing-partnership.org
+Tech ID:A124075922083192
+Tech Name:lisa schneider
+Tech Organization:housing partnership of the fox cities inc
+Tech Street1:605 E Hancock
+Tech Street2:
+Tech Street3:
+Tech City:appleton
+Tech State/Province:WI
+Tech Postal Code:54911
+Tech Country:US
+Tech Phone:+1.9207316644
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hosting@att-webhosting.com
+Name Server:NS35B.ATT-WEBHOSTING.COM
+Name Server:NS35A.ATT-WEBHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

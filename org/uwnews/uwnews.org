@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D99680768-LROR
+Domain Name:UWNEWS.ORG
+Created On:21-Aug-2003 19:42:55 UTC
+Last Updated On:15-Jun-2011 20:47:04 UTC
+Expiration Date:21-Aug-2012 19:42:55 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuwPnD2DzXdFxvEc
+Registrant Name:Ken Fine
+Registrant Organization:University of Washington
+Registrant Street1:Box 351207
+Registrant Street2:
+Registrant Street3:
+Registrant City:Seattle
+Registrant State/Province:WA
+Registrant Postal Code:98105
+Registrant Country:US
+Registrant Phone:+1.2065285963
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kennethfine@hotmail.com
+Admin ID:tuMQS2NGmH9t4ue8
+Admin Name:Linda Dodson
+Admin Organization:University of Washington
+Admin Street1:B54 Gerberding Hall, 351207
+Admin Street2:
+Admin Street3:
+Admin City:Seattle
+Admin State/Province:WA
+Admin Postal Code:98195
+Admin Country:US
+Admin Phone:+1.2065285963
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ldodson@uw.edu
+Tech ID:tuuCidupmqHm4VaQ
+Tech Name:Domain Registrations -- www.123cheapdomains.com    - -
+Tech Organization:123CheapDomains.com - $13.95/yr Domain Registrations
+Tech Street1:1032 Irving Street, # 603
+Tech Street2:Renew / Manage domain at  123CHEAPDOMAINS.COM  - Keep for memo
+Tech Street3:For support, please send email to: help@123cheapdomains.com
+Tech City:San Francisco
+Tech State/Province:Ca
+Tech Postal Code:94122
+Tech Country:US
+Tech Phone:+1.4156823859
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jonathan@123cheapdomains.com
+Name Server:NS2.000CHEAPDOMAINS.COM
+Name Server:FORWARD.000CHEAPDOMAINS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

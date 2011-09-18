@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D20623257-LROR
+Domain Name:COOLSHUL.ORG
+Created On:24-Feb-2000 17:44:36 UTC
+Last Updated On:25-Jan-2010 15:49:24 UTC
+Expiration Date:24-Feb-2012 17:44:36 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:10686844337690
+Registrant Name:Saatchi Synagogue
+Registrant Street1:2 Ashworth Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Westminster
+Registrant State/Province:London
+Registrant Postal Code:W9 1JY
+Registrant Country:GB
+Registrant Phone:+44.8452239000
+Registrant Phone Ext.:
+Registrant FAX:+44.8452493310
+Registrant FAX Ext.:
+Registrant Email:domain@cobweb.com
+Admin ID:10686844341980
+Admin Name:Domain Admin
+Admin Organization:Cobweb Solutions Limited
+Admin Street1:South Wing
+Admin Street2:Delme Place, Cams Hall Estate
+Admin Street3:
+Admin City:Fareham
+Admin State/Province:Hampshire
+Admin Postal Code:PO16 8UX
+Admin Country:GB
+Admin Phone:+44.8452239000
+Admin Phone Ext.:
+Admin FAX:+44.8452493310
+Admin FAX Ext.:
+Admin Email:domain@cobweb.com
+Tech ID:10686844350060
+Tech Name:Domain Admin
+Tech Organization:Cobweb Solutions Limited
+Tech Street1:South Wing
+Tech Street2:Delme Place, Cams Hall Estate
+Tech Street3:
+Tech City:Fareham
+Tech State/Province:Hampshire
+Tech Postal Code:PO16 8UX
+Tech Country:GB
+Tech Phone:+44.8452239000
+Tech Phone Ext.:
+Tech FAX:+44.8452493310
+Tech FAX Ext.:
+Tech Email:domain@cobweb.com
+Name Server:NS0.HOSTEDSERVICE.COM
+Name Server:NS1.HOSTEDSERVICE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

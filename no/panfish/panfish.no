@@ -1,0 +1,38 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: PAN844D-NORID
+Domain Name................: panfish.no
+Domain Holder Handle.......: MHA391O-NORID
+Registrar Handle...........: REG48-NORID
+Legal-c Handle.............: HG1357P-NORID
+Tech-c Handle..............: MIT7P-NORID
+Name Server Handle.........: A77H-NORID
+Name Server Handle.........: F12H-NORID
+Name Server Handle.........: G13H-NORID
+Name Server Handle.........: L9H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-18
+
+NORID Handle...............: MHA391O-NORID
+Type.......................: organization
+Name.......................: Marine Harvest ASA
+Id Type....................: organization_number
+Id Number..................: 964118191
+Registrar Handle...........: REG48-NORID
+Post Address...............: St Olavs plass 1
+Postal Code................: NO-6002
+Postal Area................: &Aring;lesund
+Country....................: NO
+Phone Number...............: +47.70116100
+Fax Number.................: +47.70116101
+Email Address..............: domain@marineharvest.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

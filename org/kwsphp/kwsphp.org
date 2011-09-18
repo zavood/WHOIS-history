@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D128146264-LROR
+Domain Name:KWSPHP.ORG
+Created On:01-Sep-2006 15:17:08 UTC
+Last Updated On:12-Jun-2011 22:42:35 UTC
+Expiration Date:01-Sep-2012 15:17:08 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:938bec4f5d1644a1
+Registrant Name:Didier  DOTRANGE
+Registrant Street1:rue du plope 116
+Registrant Street2:
+Registrant Street3:
+Registrant City:Vottem
+Registrant State/Province:
+Registrant Postal Code:4041
+Registrant Country:BE
+Registrant Phone:+32.43528174
+Registrant Phone Ext.:
+Registrant FAX:+32.43528174
+Registrant FAX Ext.:
+Registrant Email:ditch3122@hotmail.com
+Admin ID:76be0f9019094ce9
+Admin Name:Didier  DOTRANGE
+Admin Street1:rue du plope 116
+Admin Street2:
+Admin Street3:
+Admin City:Vottem
+Admin State/Province:
+Admin Postal Code:4041
+Admin Country:BE
+Admin Phone:+32.43528174
+Admin Phone Ext.:
+Admin FAX:+32.43528174
+Admin FAX Ext.:
+Admin Email:didier.dotrange@gmail.com
+Tech ID:02bc9bf480989abf
+Tech Name:Yann  SZKOLNIK
+Tech Organization:CELEONET
+Tech Street1:55 rue Boissonade
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:75014
+Tech Country:FR
+Tech Phone:+33.140477381
+Tech Phone Ext.:
+Tech FAX:+33.140477381
+Tech FAX Ext.:
+Tech Email:nic@celeonet.fr
+Name Server:NS137.PLANETHOSTER.NET
+Name Server:NS138.PLANETHOSTER.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

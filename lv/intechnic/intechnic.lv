@@ -1,0 +1,23 @@
+[Domain]
+Domain: intechnic.lv
+Status: active
+Changed: 2010-12-29T10:52:01+02:00
+
+[Holder]
+Type: Natural person
+Email: info@intechsystems.lv
+Fax: +371 67471377
+Phone: +371-29571892
+
+[Tech]
+Type: Natural person
+Email: hosting@intechsystems.lv
+Phone: +371-26186619
+
+[Nservers]
+Nserver: ns.eunet.lv
+Nserver: ns1.intechnic.lv
+Nserver: ns3.intechnic.lv
+
+[Whois]
+Updated: 2011-09-18T05:12:25.367274+00:00

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D164020-LROR
+Domain Name:ISLAM1.ORG
+Created On:04-Mar-1997 05:00:00 UTC
+Last Updated On:04-Feb-2011 05:26:19 UTC
+Expiration Date:05-Mar-2012 05:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuxVBDiSfsjUV0in
+Registrant Name:Shakeel Mahate
+Registrant Organization:Islamic Association of Raleigh
+Registrant Street1:808 Atwater St
+Registrant Street2:
+Registrant Street3:
+Registrant City:Raleigh
+Registrant State/Province:NC
+Registrant Postal Code:27607
+Registrant Country:US
+Registrant Phone:+1.9198162842
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@ISLAM1.ORG
+Admin ID:tuxPJqovCzM4FaI8
+Admin Name:Shakeel Mahate
+Admin Organization:Islamic Association of Raleigh
+Admin Street1:808 Atwater St
+Admin Street2:
+Admin Street3:
+Admin City:Raleigh
+Admin State/Province:NC
+Admin Postal Code:27607
+Admin Country:US
+Admin Phone:+1.9198162842
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin@ISLAM1.ORG
+Tech ID:tuxjFNTDOk1WZqww
+Tech Name:Shakeel Mahate
+Tech Organization:Islamic Association of Raleigh
+Tech Street1:808 Atwater St
+Tech Street2:
+Tech Street3:
+Tech City:Raleigh
+Tech State/Province:NC
+Tech Postal Code:27607
+Tech Country:US
+Tech Phone:+1.9198162842
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:admin@ISLAM1.ORG
+Name Server:DNS1.AMERICAN-DATA.NET
+Name Server:DNS2.AMERICAN-DATA.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

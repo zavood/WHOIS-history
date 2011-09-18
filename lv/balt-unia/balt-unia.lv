@@ -1,0 +1,24 @@
+[Domain]
+Domain: balt-unia.lv
+Status: active
+Changed: 2005-11-14T17:15:27+02:00
+
+[Holder]
+Type: Legal person
+Name: Starptautiska praktiskas psihologijas augstskola
+Email: admin@sppa.lv
+Phone: +371-29457713, +371 67506621
+Address: Akademijas laukums 1 - 711, Riga, LV-1050, Latvia
+RegNr: 40003011275
+
+[Tech]
+Type: Natural person
+Email: admin@sppa.lv
+Phone: +371-29457713, +371 67506621
+
+[Nservers]
+Nserver: ns3.bkc.lv
+Nserver: ns.balt-unia.lv
+
+[Whois]
+Updated: 2011-09-18T05:12:25.367274+00:00

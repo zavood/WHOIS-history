@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 03:35:11 (BRT -03:00)
+
+domain:      afilio.com.br
+owner:       HI MIDIA SA
+ownerid:     007.456.778/0001-59
+responsible: JULIEN PIERRE TURRI
+country:     BR
+owner-c:     JPT30
+admin-c:     JPT30
+tech-c:      GBS133
+billing-c:   JPT30
+nserver:     ns1.theplanet.com
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.theplanet.com
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20060213 #2598745
+expires:     20130213
+changed:     20110103
+status:      published
+
+nic-hdl-br:  GBS133
+person:      GILBERTO B DE SOUSA
+e-mail:      gilberto.bsousa@gmail.com
+created:     20041125
+changed:     20110331
+
+nic-hdl-br:  JPT30
+person:      Julien Pierre Turri
+e-mail:      julien@hi-midia.com
+created:     20030619
+changed:     20060901
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

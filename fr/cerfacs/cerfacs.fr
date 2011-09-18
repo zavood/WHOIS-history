@@ -1,0 +1,138 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; cerfacs.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cerfacs.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CEDR4-FRNIC
+admin-c:     JA2022-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      PL868-FRNIC
+tech-c:      NM72-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5624-FRNIC
+registrar:   RENATER
+anniversary: 10/06
+created:     10/06/1996
+last-update: 10/06/1996
+source:      FRNIC
+
+ns-list:     NSL5624-FRNIC
+nserver:     hal.cerfacs.fr [138.63.200.15]
+nserver:     talisker.cerfacs.fr [138.63.200.55]
+nserver:     zephyr.cerfacs.fr [138.63.200.29]
+nserver:     dns.inria.fr [193.51.208.13]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     CEDR4-FRNIC
+type:        ORGANIZATION
+contact:     Centre Europeen de Recherche et de Formation au Calcul Scientifique, CERFACS
+address:     42, avenue G. Coriolis
+address:     31057 Toulouse Cedex
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     JA2022-FRNIC
+type:        PERSON
+contact:     Jean-Claude Andre
+address:     CERFACS
+address:     42, avenue Gaspard Coriolis
+address:     31057 Toulouse Cedex
+country:     FR
+phone:       +33 5 61 19 30 01
+fax-no:      +33 5 61 19 30 30
+e-mail:      jean-claude.andre@cerfacs.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PL868-FRNIC
+type:        PERSON
+contact:     Patrick Laporte
+address:     CERFACS
+address:     42, avenue G. Coriolis
+address:     31057 Toulouse Cedex
+country:     FR
+phone:       +33 5 61 19 30 88
+fax-no:      +33 5 61 19 30 00
+e-mail:      patrick.laporte@cerfacs.fr
+changed:     21/08/2003 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NM72-FRNIC
+type:        PERSON
+contact:     Nicolas Monnier
+address:     CERFACS
+address:     42, avenue G. Coriolis
+address:     31057 Toulouse Cedex
+country:     FR
+phone:       +33 5 61 19 30 79
+fax-no:      +33 5 61 19 30 00
+e-mail:      nicolas.monnier@cerfacs.fr
+changed:     21/08/2003 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

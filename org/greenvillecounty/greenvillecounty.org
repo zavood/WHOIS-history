@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2697223-LROR
+Domain Name:GREENVILLECOUNTY.ORG
+Created On:09-Dec-1998 05:00:00 UTC
+Last Updated On:12-Aug-2008 08:14:02 UTC
+Expiration Date:08-Dec-2015 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:27075939-NSI
+Registrant Name:County of Greenville
+Registrant Organization:County of Greenville
+Registrant Street1:301 University Ridge, Suite 1800
+Registrant Street2:
+Registrant Street3:
+Registrant City:Greenville
+Registrant State/Province:SC
+Registrant Postal Code:29601
+Registrant Country:US
+Registrant Phone:+1.8644677534
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:spaddock@greenvillecounty.org
+Admin ID:27075939-NSI
+Admin Name:County of Greenville
+Admin Organization:County of Greenville
+Admin Street1:301 University Ridge, Suite 1800
+Admin Street2:
+Admin Street3:
+Admin City:Greenville
+Admin State/Province:SC
+Admin Postal Code:29601
+Admin Country:US
+Admin Phone:+1.8644677534
+Admin Phone Ext.:
+Admin FAX:+1.9999999999
+Admin FAX Ext.:
+Admin Email:spaddock@greenvillecounty.org
+Tech ID:5872736-NSI
+Tech Name:InfoAve
+Tech Organization:InfoAve
+Tech Street1:3555 Center Circle Drive Suite
+Tech Street2:**
+Tech Street3:
+Tech City:Fort Mill
+Tech State/Province:SC
+Tech Postal Code:29715
+Tech Country:US
+Tech Phone:+1.8038024600
+Tech Phone Ext.:
+Tech FAX:+1.8038024700
+Tech FAX Ext.:
+Tech Email:hostmaster@INFOAVE.NET
+Name Server:DNS4.INFOAVE.NET
+Name Server:DNS2.INFOAVE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

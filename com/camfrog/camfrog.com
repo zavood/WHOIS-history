@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 13-aug-2002
    Expiration Date: 13-aug-2021
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 10:18:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 06:02:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -98,7 +98,7 @@ AVM Software, Inc.
    ------------------------------------------------------------------------
 
    Administrative Contact, Technical Contact:
-      AVM Software, Inc.		a976c3sb4ty@networksolutionsprivateregistration.com
+      AVM Software, Inc.		pq5rt5xp2m9@networksolutionsprivateregistration.com
       ATTN CAMFROG.COM
       care of Network Solutions
       PO Box 459
@@ -109,7 +109,7 @@ AVM Software, Inc.
 
    Record expires on 13-Aug-2021.
    Record created on 05-Apr-2006.
-   Database last updated on 10-Sep-2011 06:08:55 EDT.
+   Database last updated on 18-Sep-2011 01:52:26 EDT.
 
    Domain servers in listed order:
 

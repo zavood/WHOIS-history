@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 05-dec-1999
    Expiration Date: 05-dec-2015
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 07:56:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 06:45:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -115,7 +115,7 @@ Palermo Villa Inc.
 
    Record expires on 05-Dec-2015.
    Record created on 05-Dec-1999.
-   Database last updated on 10-Sep-2011 03:47:08 EDT.
+   Database last updated on 18-Sep-2011 02:35:37 EDT.
 
    Domain servers in listed order:
 

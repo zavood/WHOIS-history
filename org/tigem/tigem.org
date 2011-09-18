@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155266783-LROR
+Domain Name:TIGEM.ORG
+Created On:04-Feb-2009 10:25:39 UTC
+Last Updated On:05-Feb-2011 01:22:42 UTC
+Expiration Date:04-Feb-2012 10:25:39 UTC
+Sponsoring Registrar:Register.IT SPA (R124-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:a419a980428e
+Registrant Name:FONDAZIONE TELETHON - TIGEM, TELETHON INSTITUTE FOR GENETICS AND MEDICINE
+Registrant Organization:FONDAZIONE TELETHON - TIGEM, TELETHON INSTITUTE FOR GENETICS AND MEDICINE
+Registrant Street1:VIA G.SALICETO 5
+Registrant Street2:
+Registrant Street3:
+Registrant City:ROMA
+Registrant State/Province:RM
+Registrant Postal Code:00161
+Registrant Country:IT
+Registrant Phone:+39.0816132202
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domini@fastweb.it
+Admin ID:a44c13728d3a
+Admin Name:MARAMAI ANGELO
+Admin Organization:ANGELO MARAMAI
+Admin Street1:VIA G.SALICETO 5
+Admin Street2:
+Admin Street3:
+Admin City:ROMA
+Admin State/Province:RM
+Admin Postal Code:00161
+Admin Country:IT
+Admin Phone:+39.0816132202
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domini@fastweb.it
+Tech ID:REGISTER-TECH
+Tech Name:REGISTER.IT S.p.a.
+Tech Organization:REGISTER.IT S.p.a.
+Tech Street1:piazza Annigoni 9/b
+Tech Street2:
+Tech Street3:
+Tech City:Firenze
+Tech State/Province:FI
+Tech Postal Code:50122
+Tech Country:IT
+Tech Phone:+39.0353230300
+Tech Phone Ext.:
+Tech FAX:+39.0353230312
+Tech FAX Ext.:
+Tech Email:support@register.it
+Name Server:DNS2.FASTWEB.IT
+Name Server:PYXIS.TIGEM.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

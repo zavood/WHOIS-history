@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D82719137-LROR
+Domain Name:CURRYWATERSHEDS.ORG
+Created On:18-Jan-2002 14:46:59 UTC
+Last Updated On:04-Jan-2011 00:25:15 UTC
+Expiration Date:18-Jan-2012 14:46:59 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:be45b4a0c7ba42c2
+Registrant Name:Stephen  DiCicco
+Registrant Organization:Curry County Watersheds
+Registrant Street1:360 N Ellensburg
+Registrant Street2:
+Registrant Street3:
+Registrant City:Gold Beach
+Registrant State/Province:OR
+Registrant Postal Code:97444
+Registrant Country:US
+Registrant Phone:+1.5416988464
+Registrant Phone Ext.:
+Registrant FAX:+1.5416988464
+Registrant FAX Ext.:
+Registrant Email:steve.dicicco@oacd.org
+Admin ID:be45b4a0c7ba42c2
+Admin Name:Stephen  DiCicco
+Admin Organization:Curry County Watersheds
+Admin Street1:360 N Ellensburg
+Admin Street2:
+Admin Street3:
+Admin City:Gold Beach
+Admin State/Province:OR
+Admin Postal Code:97444
+Admin Country:US
+Admin Phone:+1.5416988464
+Admin Phone Ext.:
+Admin FAX:+1.5416988464
+Admin FAX Ext.:
+Admin Email:steve.dicicco@oacd.org
+Tech ID:af1669c449fe4745
+Tech Name:Network  Services
+Tech Organization:Project A Inc
+Tech Street1:5350 Highway 66
+Tech Street2:
+Tech Street3:
+Tech City:Ashland
+Tech State/Province:OR
+Tech Postal Code:97520
+Tech Country:US
+Tech Phone:+1.5414881702
+Tech Phone Ext.:
+Tech FAX:+1.5414881702
+Tech FAX Ext.:
+Tech Email:nic-admin@projecta.com
+Name Server:NS2.PROJECTA.COM
+Name Server:NS1.PROJECTA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

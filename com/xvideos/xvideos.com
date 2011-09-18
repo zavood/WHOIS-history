@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 30-dec-1997
    Expiration Date: 29-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 05:30:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 06:06:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -108,7 +108,7 @@ Limited, Copypaste
 
    Record expires on 29-Dec-2011.
    Record created on 29-Aug-2009.
-   Database last updated on 17-Sep-2011 01:25:56 EDT.
+   Database last updated on 18-Sep-2011 01:56:28 EDT.
 
    Domain servers in listed order:
 

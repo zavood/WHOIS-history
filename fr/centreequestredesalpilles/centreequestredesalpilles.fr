@@ -1,0 +1,79 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; centreequestredesalpilles.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      centreequestredesalpilles.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CEPC1-FRNIC
+admin-c:     S11846-FRNIC
+tech-c:      S11846-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1322-FRNIC
+registrar:   ONLINE SAS
+anniversary: 02/05
+created:     02/05/2007
+last-update: 13/04/2011
+source:      FRNIC
+
+ns-list:     NSL1322-FRNIC
+nserver:     ns1.signo.net
+nserver:     ns2.signo.net
+source:      FRNIC
+
+registrar:   ONLINE SAS
+type:        Isp Option 1
+address:     8 Rue de la Ville l'Ev&ecirc;que
+address:     PARIS
+country:     FR
+phone:       +33 1 73 50 20 00
+fax-no:      +33 1 73 50 26 05
+e-mail:      hebergement@online.net
+website:     http://www.online.net
+anonymous:   NO
+registered:  01/04/1999
+source:      FRNIC
+
+nic-hdl:     CEPC1-FRNIC
+type:        ORGANIZATION
+contact:     CENTRE EQUESTRE PONEY CLUB DES ALPILLES
+address:     chemin du Mas d'Artaud
+address:     13103 Saint-Etienne-du-Gr&egrave;s
+country:     FR
+phone:       +33 6 82 46 07 84
+e-mail:      inww@signo.fr
+changed:     04/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     S11846-FRNIC
+type:        ORGANIZATION
+contact:     SIGNO
+address:     Verger d'entreprises
+address:     7, rue des Pommiers - B.P. 31
+address:     13520 Maussane les Alpilles
+country:     FR
+phone:       +33 4 90 54 22 22
+fax-no:      +33 4 90 54 22 21
+e-mail:      signo.282995@spamfree.bookmyname.com
+changed:     07/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

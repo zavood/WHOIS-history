@@ -1,0 +1,38 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: MYC172D-NORID
+Domain Name................: mycitydeal.no
+Domain Holder Handle.......: MTGM2O-NORID
+Registrar Handle...........: REG48-NORID
+Legal-c Handle.............: DS862P-NORID
+Tech-c Handle..............: SA2609P-NORID
+Name Server Handle.........: A131H-NORID
+Name Server Handle.........: B91H-NORID
+Name Server Handle.........: C83H-NORID
+Name Server Handle.........: D17H-NORID
+
+Additional information:
+Created:         2010-03-22
+Last updated:    2011-03-24
+
+NORID Handle...............: MTGM2O-NORID
+Type.......................: organization
+Name.......................: MODERN TIMES GROUP MTG AS
+Id Type....................: organization_number
+Id Number..................: 912213714
+Registrar Handle...........: REG48-NORID
+Post Address...............: Postboks 8843 Youngstorget
+Postal Code................: NO-0028
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.22990000
+Fax Number.................: +47.22990109
+Email Address..............: dag.strom@tv3.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2011-09-13
+

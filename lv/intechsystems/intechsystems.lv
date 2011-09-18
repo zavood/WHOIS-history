@@ -1,0 +1,25 @@
+[Domain]
+Domain: intechsystems.lv
+Status: active
+Changed: 2009-05-13T15:18:21+03:00
+
+[Holder]
+Type: Legal person
+Name: Intechsystems SIA
+Email: intechsystems@inbox.lv
+Phone: 29571892
+Address: Dz. Dudajeva gatve 2-58, Riga, LV-1084, Latvia
+RegNr: 40103226777
+
+[Tech]
+Type: Natural person
+Email: intechsystems@inbox.lv
+Phone: +371-26186619
+
+[Nservers]
+Nserver: ns1.intechsystems.lv
+Nserver: ns2.intechsystems.lv
+Nserver: ns2.vernet.lv
+
+[Whois]
+Updated: 2011-09-18T05:12:25.367274+00:00

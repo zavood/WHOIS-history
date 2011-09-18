@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153388858-LROR
+Domain Name:MASSGUNCLUBS.ORG
+Created On:18-Jul-2008 15:13:31 UTC
+Last Updated On:19-Jul-2010 09:18:59 UTC
+Expiration Date:18-Jul-2012 15:13:31 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR36352924
+Registrant Name:Gary Davis
+Registrant Street1:11 Jane St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Randolph
+Registrant State/Province:Massachusetts
+Registrant Postal Code:02368
+Registrant Country:US
+Registrant Phone:+1.7816037225
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:captain1ma@yahoo.com
+Admin ID:CR36352926
+Admin Name:Gary Davis
+Admin Street1:11 Jane St.
+Admin Street2:
+Admin Street3:
+Admin City:Randolph
+Admin State/Province:Massachusetts
+Admin Postal Code:02368
+Admin Country:US
+Admin Phone:+1.7816037225
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:captain1ma@yahoo.com
+Tech ID:CR36352925
+Tech Name:Gary Davis
+Tech Street1:11 Jane St.
+Tech Street2:
+Tech Street3:
+Tech City:Randolph
+Tech State/Province:Massachusetts
+Tech Postal Code:02368
+Tech Country:US
+Tech Phone:+1.7816037225
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:captain1ma@yahoo.com
+Name Server:NS49.DOMAINCONTROL.COM
+Name Server:NS50.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
