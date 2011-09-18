@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96674566-LROR
+Domain Name:NEWORIENTAL-K12.ORG
+Created On:27-Mar-2003 13:16:49 UTC
+Last Updated On:28-Dec-2010 18:33:05 UTC
+Expiration Date:27-Mar-2015 13:16:49 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:OK
+Registrant ID:hc061541915-cn
+Registrant Name:eric E.
+Registrant Organization:Beijing New Oriental Foreign Language School at Ya
+Registrant Street1:New Oriental, 958# Qinyou Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Yangzhou
+Registrant State/Province:Jiangsu
+Registrant Postal Code:225006
+Registrant Country:CN
+Registrant Phone:+86.05147907966
+Registrant Phone Ext.:
+Registrant FAX:+86.051487216247
+Registrant FAX Ext.:
+Registrant Email:yiwensheng@staff.neworietnal.org
+Admin ID:hc362353796-cn
+Admin Name:andy deng
+Admin Organization:BeijingNewOrientalForeignLanguageSchoolatYangZhou
+Admin Street1:New Oriental, 958# Qinyou Road
+Admin Street2:
+Admin Street3:
+Admin City:Yangzhou
+Admin State/Province:Jiangsu
+Admin Postal Code:225006
+Admin Country:CN
+Admin Phone:+86.051487907220
+Admin Phone Ext.:
+Admin FAX:+86.051487216247
+Admin FAX Ext.:
+Admin Email:dzhy2002@126.com
+Tech ID:19729056-NSI
+Tech Name:HiChina Web Solution Limited
+Tech Organization:HiChina Web Solution Limited
+Tech Street1:11/F., Building C Fuhua Mansio
+Tech Street2:No.8 Chaoyangmen North Avenue
+Tech Street3:
+Tech City:Beijing
+Tech State/Province:Beijing
+Tech Postal Code:100027
+Tech Country:CN
+Tech Phone:+1.86106554787
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domainadm@hichina.com
+Name Server:DNS1.HICHINA.COM
+Name Server:DNS.NEWORIENTAL-K12.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

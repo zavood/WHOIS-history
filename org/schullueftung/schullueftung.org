@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157114334-LROR
+Domain Name:SCHULLUEFTUNG.ORG
+Created On:15-Sep-2009 19:41:50 UTC
+Last Updated On:16-Sep-2011 01:24:08 UTC
+Expiration Date:15-Sep-2012 19:41:50 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:ABM-9311108
+Registrant Name:Oliver Rau
+Registrant Street1:Konrad-Adenauer-Str. 9
+Registrant Street2:
+Registrant Street3:
+Registrant City:Weilburg
+Registrant State/Province:DE
+Registrant Postal Code:35781
+Registrant Country:DE
+Registrant Phone:+49.6471922305
+Registrant Phone Ext.:
+Registrant FAX:+49.6471922307
+Registrant FAX Ext.:
+Registrant Email:orau@orau.de
+Admin ID:ABM-9311108
+Admin Name:Oliver Rau
+Admin Street1:Konrad-Adenauer-Str. 9
+Admin Street2:
+Admin Street3:
+Admin City:Weilburg
+Admin State/Province:DE
+Admin Postal Code:35781
+Admin Country:DE
+Admin Phone:+49.6471922305
+Admin Phone Ext.:
+Admin FAX:+49.6471922307
+Admin FAX Ext.:
+Admin Email:orau@orau.de
+Tech ID:ABM-9311108
+Tech Name:Oliver Rau
+Tech Street1:Konrad-Adenauer-Str. 9
+Tech Street2:
+Tech Street3:
+Tech City:Weilburg
+Tech State/Province:DE
+Tech Postal Code:35781
+Tech Country:DE
+Tech Phone:+49.6471922305
+Tech Phone Ext.:
+Tech FAX:+49.6471922307
+Tech FAX Ext.:
+Tech Email:orau@orau.de
+Name Server:NSA1.SCHLUNDTECH.DE
+Name Server:NSB1.SCHLUNDTECH.DE
+Name Server:NSC1.SCHLUNDTECH.DE
+Name Server:NSD1.SCHLUNDTECH.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

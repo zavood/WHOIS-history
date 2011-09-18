@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 22:23:39 (BRT -03:00)
+
+domain:      bravoestudios.com.br
+owner:       B21 Est&uacute;dios e Produ&ccedil;&otilde;es Ltda - ME
+ownerid:     002.993.488/0001-20
+responsible: Andr&eacute; Jacques da Costa Braga
+country:     BR
+owner-c:     EWARO
+admin-c:     BEM123
+tech-c:      BEM123
+billing-c:   BEM123
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20020923 #976416
+expires:     20120923
+changed:     20110902
+status:      published
+
+nic-hdl-br:  BEM123
+person:      B21 Estudios e Produ&ccedil;&otilde;es Ltda Me
+e-mail:      informatica@bravoestudios.com.br
+created:     20060124
+changed:     20060124
+
+nic-hdl-br:  EWARO
+person:      ERIKA WALKER ABRITTA RODRIGUES
+e-mail:      financeiro@bravoestudios.com.br
+created:     20060911
+changed:     20060911
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

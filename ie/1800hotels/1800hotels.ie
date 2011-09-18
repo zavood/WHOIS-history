@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      1800hotels.ie
+descr:       Club Travel Limited
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Registered Business Name
+admin-c:     AMY680-IEDR
+tech-c:      AAM456-IEDR
+renewal:     12-May-2012
+status:      Active
+nserver:     ns.blacknightsolutions.com
+nserver:     ns2.blacknightsolutions.com
+source:      IEDR
+
+person:      Colman Burke
+nic-hdl:     AMY680-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+

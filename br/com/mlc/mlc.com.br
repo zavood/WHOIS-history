@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 22:25:13 (BRT -03:00)
+
+domain:      mlc.com.br
+owner:       MLC Industria Mecanica Ltda
+ownerid:     074.571.621/0001-61
+responsible: Sueli Braulio Correa
+country:     BR
+owner-c:     SBC7
+admin-c:     SBC7
+tech-c:      SBC7
+billing-c:   SBC7
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     19980406 #92411
+expires:     20210406
+changed:     20110408
+status:      published
+
+nic-hdl-br:  SBC7
+person:      Sueli Braulio Correa
+e-mail:      sueli@mlc.com.br
+created:     19980330
+changed:     20050518
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

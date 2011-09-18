@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 21-mar-2010
    Expiration Date: 21-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 07:16:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 01:15:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -79,34 +79,9 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Domains by Proxy, Inc.
-   DomainsByProxy.com
-   15111 N. Hayden Rd., Ste 160, PMB 353
-   Scottsdale, Arizona 85260
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: ADS2SRV.COM
-      Created on: 21-Mar-10
-      Expires on: 21-Mar-12
-      Last Updated on: 18-Mar-11
-
-   Administrative Contact:
-      Private, Registration  ADS2SRV.COM@domainsbyproxy.com
-      Domains by Proxy, Inc.
-      DomainsByProxy.com
-      15111 N. Hayden Rd., Ste 160, PMB 353
-      Scottsdale, Arizona 85260
-      United States
-      (480) 624-2599      Fax -- (480) 624-2598
-
-   Technical Contact:
-      Private, Registration  ADS2SRV.COM@domainsbyproxy.com
-      Domains by Proxy, Inc.
-      DomainsByProxy.com
-      15111 N. Hayden Rd., Ste 160, PMB 353
-      Scottsdale, Arizona 85260
-      United States
-      (480) 624-2599      Fax -- (480) 624-2598
 
    Domain servers in listed order:
       NS1.P02.DYNECT.NET
@@ -114,3 +89,6 @@ Registrant:
       NS3.P02.DYNECT.NET
       NS4.P02.DYNECT.NET
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=ADS2SRV.COM

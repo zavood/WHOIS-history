@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D14914185-LROR
+Domain Name:WGLFCU.ORG
+Created On:09-Dec-1999 16:12:54 UTC
+Last Updated On:09-Dec-2010 17:08:19 UTC
+Expiration Date:09-Dec-2020 16:12:53 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:27025924-NSI
+Registrant Name:Washington Gas Light FCU
+Registrant Street1:6801 Industrial Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Springfield
+Registrant State/Province:VA
+Registrant Postal Code:22151
+Registrant Country:US
+Registrant Phone:+1.7037504394
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:vill1@EROLS.COM
+Admin ID:27025924-NSI
+Admin Name:Washington Gas Light FCU
+Admin Street1:6801 Industrial Road
+Admin Street2:
+Admin Street3:
+Admin City:Springfield
+Admin State/Province:VA
+Admin Postal Code:22151
+Admin Country:US
+Admin Phone:+1.7037504394
+Admin Phone Ext.:
+Admin FAX:+1.9999999999
+Admin FAX Ext.:
+Admin Email:vill1@EROLS.COM
+Tech ID:27025924-NSI
+Tech Name:Washington Gas Light FCU
+Tech Street1:6801 Industrial Road
+Tech Street2:
+Tech Street3:
+Tech City:Springfield
+Tech State/Province:VA
+Tech Postal Code:22151
+Tech Country:US
+Tech Phone:+1.7037504394
+Tech Phone Ext.:
+Tech FAX:+1.9999999999
+Tech FAX Ext.:
+Tech Email:vill1@EROLS.COM
+Name Server:NS1.COXMAIL.COM
+Name Server:NS2.COXMAIL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

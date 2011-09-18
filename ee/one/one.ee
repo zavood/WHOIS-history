@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       one.ee
+registrant:   CID:LINXTELECOM:10810036
+admin-c:      CID:LINXTELECOM:37309220249
+nsset:        NSSID:LINXTELECOM:ONE.EE
+registrar:    linxtelecom
+status:       paid and in zone
+registered:   04.07.2010 03:36:38
+changed:      06.01.2011 15:58:19
+expire:       06.01.2012
+
+contact:      CID:LINXTELECOM:10810036
+org:          AS Forticom
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    linxtelecom
+created:      06.01.2011 15:58:10
+
+contact:      CID:LINXTELECOM:37309220249
+name:         Enn Peil
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    linxtelecom
+created:      06.01.2011 15:58:11
+
+nsset:        NSSID:LINXTELECOM:ONE.EE
+nserver:      ns1.one.ee (84.237.243.90)
+nserver:      ns.one.ee (195.2.117.109)
+tech-c:       CID:LINXTELECOM:04111976
+registrar:    linxtelecom
+created:      06.01.2011 15:58:15
+
+contact:      CID:LINXTELECOM:04111976
+org:          Aija Perta
+name:         Aija Perta
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    linxtelecom
+created:      06.01.2011 15:58:13
+
+

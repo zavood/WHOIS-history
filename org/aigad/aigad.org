@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161582490-LROR
+Domain Name:AIGAD.ORG
+Created On:22-Feb-2011 18:16:42 UTC
+Last Updated On:24-Apr-2011 03:51:30 UTC
+Expiration Date:22-Feb-2012 18:16:42 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ABM-10394590
+Registrant Name:Hans Werner
+Registrant Street1:Stadtseeallee 20
+Registrant Street2:
+Registrant Street3:
+Registrant City:Stendal
+Registrant State/Province:DE
+Registrant Postal Code:39551
+Registrant Country:DE
+Registrant Phone:+49.16259732548
+Registrant Phone Ext.:
+Registrant FAX:+49.16259732548
+Registrant FAX Ext.:
+Registrant Email:hanswerner@gmail.com
+Admin ID:ABM-10394590
+Admin Name:Hans Werner
+Admin Street1:Stadtseeallee 20
+Admin Street2:
+Admin Street3:
+Admin City:Stendal
+Admin State/Province:DE
+Admin Postal Code:39551
+Admin Country:DE
+Admin Phone:+49.16259732548
+Admin Phone Ext.:
+Admin FAX:+49.16259732548
+Admin FAX Ext.:
+Admin Email:hanswerner@gmail.com
+Tech ID:ABM-10394590
+Tech Name:Hans Werner
+Tech Street1:Stadtseeallee 20
+Tech Street2:
+Tech Street3:
+Tech City:Stendal
+Tech State/Province:DE
+Tech Postal Code:39551
+Tech Country:DE
+Tech Phone:+49.16259732548
+Tech Phone Ext.:
+Tech FAX:+49.16259732548
+Tech FAX Ext.:
+Tech Email:hanswerner@gmail.com
+Name Server:NSA6.SCHLUNDTECH.DE
+Name Server:NSB6.SCHLUNDTECH.DE
+Name Server:NSC6.SCHLUNDTECH.DE
+Name Server:NSD6.SCHLUNDTECH.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

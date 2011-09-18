@@ -1,0 +1,21 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       3.in-addr.arpa
+
+organisation: General Electric Company
+
+nserver:      NS1.NETBCP.COM.
+nserver:      NS2.NETBCP.NET.
+nserver:      PDNS1.ULTRADNS.NET.
+nserver:      PDNS2.ULTRADNS.NET.
+nserver:      PDNS3.ULTRADNS.ORG.
+nserver:      PDNS4.ULTRADNS.ORG.
+nserver:      PDNS5.ULTRADNS.INFO.
+nserver:      PDNS6.ULTRADNS.CO.UK.
+
+changed:      1994-05
+changed:      2011-01-08
+source:       IANA
+

@@ -15,11 +15,11 @@ for detailed information.
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 15-sep-2010
+   Updated Date: 15-sep-2011
    Creation Date: 14-sep-2006
-   Expiration Date: 14-sep-2011
+   Expiration Date: 14-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:54:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 02:01:17 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

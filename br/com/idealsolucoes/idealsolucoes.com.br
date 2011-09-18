@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 22:25:33 (BRT -03:00)
+
+domain:      idealsolucoes.com.br
+owner:       Ideal Solu&ccedil;&otilde;es Inform&aacute;tica LTDA
+ownerid:     005.972.521/0001-24
+responsible: Diogo Lima de Azevedo
+country:     BR
+owner-c:     DLA63
+admin-c:     DLA63
+tech-c:      DLA63
+billing-c:   DLA63
+nserver:     ns1.idealsolucoes.com.br 98.158.184.186
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.idealsolucoes.com.br 109.123.84.183
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20031219 #1466033
+expires:     20111219
+changed:     20110104
+status:      published
+
+nic-hdl-br:  DLA63
+person:      Diogo Lima de Azevedo
+e-mail:      diogo@guiadebotafogo.com.br
+created:     20031219
+changed:     20071206
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

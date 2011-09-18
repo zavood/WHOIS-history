@@ -1,0 +1,48 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 21:50:56 (BRT -03:00)
+
+domain:      wylkes01.com.br
+owner:       moto bikes
+ownerid:     039.793.701-60
+country:     BR
+owner-c:     EBDSA99
+admin-c:     EBDSA99
+tech-c:      EBDSA99
+billing-c:   EBDSA99
+nserver:     ns1.dominios.uol.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns2.dominios.uol.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     ns3.dominios.uol.com.br
+nsstat:      20110913 AA
+nslastaa:    20110913
+saci:        yes
+created:     20110729 #8641186
+expires:     20120729
+changed:     20110729
+provider:    UOLHOST (22)
+status:      published
+
+nic-hdl-br:  EBDSA99
+person:      EDSOMIR BORGES DOS SANTOS
+e-mail:      edmatic@uol.com.br
+created:     20110729
+changed:     20110729
+provider:    UOLHOST (22)
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

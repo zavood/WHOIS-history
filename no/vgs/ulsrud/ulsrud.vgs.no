@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: ULS193D-NORID
+Domain Name................: ulsrud.vgs.no
+Domain Holder Handle.......: UVS8O-NORID
+Registrar Handle...........: REG2-NORID
+Legal-c Handle.............: UA156P-NORID
+Tech-c Handle..............: IO2R-NORID
+Name Server Handle.........: DNSU7H-NORID
+Name Server Handle.........: DNSU8H-NORID
+Name Server Handle.........: NN14H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: UVS8O-NORID
+Type.......................: organization
+Name.......................: Ulsrud Videregaende Skole
+Id Type....................: local_id_number
+Id Number..................: N.LEG.000005377
+Registrar Handle...........: REG2-NORID
+Post Address...............: Tor Jonssonsv. 5
+Postal Code................: NO-0688
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22265848
+Fax Number.................: +47.22276810
+Email Address..............: unni.andersen@ulsrud.vgs.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

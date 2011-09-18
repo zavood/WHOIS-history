@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 22:23:51 (BRT -03:00)
+
+domain:      cendotec.org.br
+owner:       Centro Franco Brasileiro de Doc. Tec. e Cient.
+ownerid:     050.260.322/0001-48
+responsible: Valter Albino de Sousa
+country:     BR
+owner-c:     VAS146
+admin-c:     VAS146
+tech-c:      TEE9
+billing-c:   VAS146
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     20010601 #578419
+expires:     20120601
+changed:     20110510
+status:      published
+
+nic-hdl-br:  TEE9
+person:      Terra Empresas
+e-mail:      fapesp@terraempresas.com.br
+created:     20001213
+changed:     20100920
+
+nic-hdl-br:  VAS146
+person:      Valter Albino de Souza
+e-mail:      valter@cendotec.org.br
+created:     20010424
+changed:     20110512
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

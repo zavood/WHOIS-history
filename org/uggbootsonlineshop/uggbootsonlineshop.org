@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160131631-LROR
+Domain Name:UGGBOOTSONLINESHOP.ORG
+Created On:13-Sep-2010 06:39:09 UTC
+Last Updated On:14-Sep-2011 16:01:25 UTC
+Expiration Date:13-Sep-2012 06:39:09 UTC
+Sponsoring Registrar:Hichina Zhicheng Technology Limited (R1373-LROR)
+Status:CLIENT HOLD
+Status:AUTORENEWPERIOD
+Registrant ID:hc557392943-cn
+Registrant Name:eric morlan
+Registrant Organization:eric morlan
+Registrant Street1:55 south road apartment 7B,55 south road apartment 7B
+Registrant Street2:
+Registrant Street3:
+Registrant City:groton
+Registrant State/Province:WG
+Registrant Postal Code:063401
+Registrant Country:US
+Registrant Phone:+86.07684312537
+Registrant Phone Ext.:
+Registrant FAX:+86.07684312537
+Registrant FAX Ext.:
+Registrant Email:hjsluona@hotmail.com
+Admin ID:hc293021994-cn
+Admin Name:eric morlan
+Admin Organization:eric morlan
+Admin Street1:55 south road apartment 7B,55 south road apartment 7B
+Admin Street2:
+Admin Street3:
+Admin City:groton
+Admin State/Province:WG
+Admin Postal Code:063401
+Admin Country:US
+Admin Phone:+86.07684312537
+Admin Phone Ext.:
+Admin FAX:+86.07684312537
+Admin FAX Ext.:
+Admin Email:hjsluona@hotmail.com
+Tech ID:hc770771130-cn
+Tech Name:eric morlan
+Tech Organization:eric morlan
+Tech Street1:55 south road apartment 7B,55 south road apartment 7B
+Tech Street2:
+Tech Street3:
+Tech City:groton
+Tech State/Province:WG
+Tech Postal Code:063401
+Tech Country:US
+Tech Phone:+86.07684312537
+Tech Phone Ext.:
+Tech FAX:+86.07684312537
+Tech FAX Ext.:
+Tech Email:hjsluona@hotmail.com
+Name Server:NS6.MYHOSTADMIN.NET
+Name Server:NS5.MYHOSTADMIN.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

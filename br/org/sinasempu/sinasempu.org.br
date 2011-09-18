@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 22:39:12 (BRT -03:00)
+
+domain:      sinasempu.org.br
+owner:       Sind. Nac. dos Servidores do Min. P&uacute;blico da Uniao
+ownerid:     001.206.941/0001-49
+responsible: Luiz Fernando Sim&otilde;es de Ara&uacute;jo
+country:     BR
+owner-c:     LFA146
+admin-c:     LFA146
+tech-c:      LFA146
+billing-c:   LFA146
+nserver:     ns1.locaweb.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns2.locaweb.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns3.locaweb.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     20010416 #549525
+expires:     20120416
+changed:     20110325
+status:      published
+
+nic-hdl-br:  LFA146
+person:      LUIZ FERNANDO SIM&Otilde;ES DE ARA&Uacute;JO
+e-mail:      geral@sinasempu.org.br
+created:     20021015
+changed:     20021015
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

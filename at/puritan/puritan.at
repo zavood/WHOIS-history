@@ -1,0 +1,58 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         puritan.at
+registrant:     NI3194589-NICAT
+admin-c:        NI3194589-NICAT
+tech-c:         NI3194576-NICAT
+nserver:        ns1.nbty.net
+nserver:        ns2.nbty.net
+changed:        20090831 21:20:24
+source:         AT-DOM
+
+personname:     Web Operations
+organization:   NBTY, INC.
+street address: 90 Orville Drive
+postal code:    11716
+city:           Bohemia NY
+country:        United States
+phone:          +16312005309
+fax-no:         +16314715682
+e-mail:         weboperations@nbty.com
+nic-hdl:        NI3194589-NICAT
+changed:        20080204 22:15:31
+source:         AT-DOM
+
+personname:     Web Operations
+organization:   NBTY, Inc.
+street address: 4320 Veterans Memorial Highway
+postal code:    11741
+city:           Holbrook NY
+country:        United States
+phone:          +16312005309
+fax-no:         +16314715682
+e-mail:         weboperations@nbty.com
+nic-hdl:        NI3194576-NICAT
+changed:        20080204 21:44:38
+source:         AT-DOM
+

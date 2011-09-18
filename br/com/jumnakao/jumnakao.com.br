@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 22:24:17 (BRT -03:00)
+
+domain:      jumnakao.com.br
+owner:       Jum Nakao Confec&ccedil;&otilde;es Ltda ME
+ownerid:     001.951.399/0001-59
+responsible: Jum Nakao
+country:     BR
+owner-c:     JNM61
+admin-c:     JNM61
+tech-c:      JNM61
+billing-c:   JNM61
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20021127 #1028091
+expires:     20111127
+changed:     20101110
+status:      published
+
+nic-hdl-br:  JNM61
+person:      Jum Nakao Confec&ccedil;&otilde;es Ltda ME
+e-mail:      jum@jumnakao.com.br
+created:     20050201
+changed:     20050201
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

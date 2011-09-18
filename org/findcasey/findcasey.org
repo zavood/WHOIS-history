@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D162190802-LROR
+Domain Name:FINDCASEY.ORG
+Created On:04-May-2011 17:47:59 UTC
+Last Updated On:04-Jul-2011 03:51:05 UTC
+Expiration Date:04-May-2012 17:47:59 UTC
+Sponsoring Registrar:Bizcn.com, Inc. (R1248-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:orgls04531277303
+Registrant Name:Lark Smith
+Registrant Organization:LarkSmith
+Registrant Street1:2034 NW 42rd Terrace 6
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lauderhill
+Registrant State/Province:FL
+Registrant Postal Code:33313
+Registrant Country:US
+Registrant Phone:+1.9434393478
+Registrant Phone Ext.:
+Registrant FAX:+1.9434393478
+Registrant FAX Ext.:
+Registrant Email:LarkSmith@hotmailbox.com
+Admin ID:orgls04531277604
+Admin Name:Lark Smith
+Admin Organization:LarkSmith
+Admin Street1:2034 NW 42rd Terrace 6
+Admin Street2:
+Admin Street3:
+Admin City:Lauderhill
+Admin State/Province:FL
+Admin Postal Code:33313
+Admin Country:US
+Admin Phone:+1.9434393478
+Admin Phone Ext.:
+Admin FAX:+1.9434393478
+Admin FAX Ext.:
+Admin Email:LarkSmith@hotmailbox.com
+Tech ID:orgls04531278010
+Tech Name:Lark Smith
+Tech Organization:LarkSmith
+Tech Street1:2034 NW 42rd Terrace 6
+Tech Street2:
+Tech Street3:
+Tech City:Lauderhill
+Tech State/Province:FL
+Tech Postal Code:33313
+Tech Country:US
+Tech Phone:+1.9434393478
+Tech Phone Ext.:
+Tech FAX:+1.9434393478
+Tech FAX Ext.:
+Tech Email:LarkSmith@hotmailbox.com
+Name Server:NS1.FINDCASEY.ORG
+Name Server:NS2.FINDCASEY.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

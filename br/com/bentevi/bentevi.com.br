@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 22:23:49 (BRT -03:00)
+
+domain:      bentevi.com.br
+owner:       DISTRIBUIDORA BENTEVI DE PRODUTOS COSMETICOS LTDA.
+ownerid:     001.504.468/0001-86
+responsible: Joseph T. Moussa
+country:     BR
+owner-c:     JTM2
+admin-c:     JTM2
+tech-c:      JTM2
+billing-c:   JTM2
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     19971119 #70283
+expires:     20121119
+changed:     20101103
+status:      published
+
+nic-hdl-br:  JTM2
+person:      Joseph T. Moussa
+e-mail:      josephmo@bentevi.com.br
+created:     19980112
+changed:     20071029
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

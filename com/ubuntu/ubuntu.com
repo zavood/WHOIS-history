@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 29-may-2004
    Expiration Date: 29-may-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:30:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 02:08:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -114,9 +114,9 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns1.canonical.com
-    ns3.canonical.com
     ns2.canonical.com
+    ns3.canonical.com
+    ns1.canonical.com
 
 
 

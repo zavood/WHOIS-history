@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 22:18:57 (BRT -03:00)
+
+domain:      brasiltelecom.net.br
+owner:       Brasil Telecom S/A - Filial Distrito Federal
+ownerid:     076.535.764/0326-90
+responsible: Brasil Telecom S. A. - CNBRT
+country:     BR
+owner-c:     BTC14
+admin-c:     HAOGO
+tech-c:      DOOIB
+billing-c:   DOOIB
+nserver:     ns01-cta.brasiltelecom.net.br 201.10.124.18
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns02-bsa.brasiltelecom.net.br 201.10.132.18
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     19991220 #231135
+expires:     20111220
+changed:     20110819
+status:      published
+
+nic-hdl-br:  BTC14
+person:      Brasil Telecom S. A. - CNRS
+e-mail:      suporte@noc.brasiltelecom.net.br
+created:     20031003
+changed:     20080229
+
+nic-hdl-br:  DOOIB
+person:      Dom&iacute;nios OiBrT
+e-mail:      law_jur@daniel.adv.br
+created:     20100108
+changed:     20100108
+
+nic-hdl-br:  HAOGO
+person:      Halliny Oliveira Gomes
+e-mail:      mariana.bion@oi.net.br
+created:     20060628
+changed:     20110706
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

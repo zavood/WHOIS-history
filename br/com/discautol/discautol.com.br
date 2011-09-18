@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 22:24:19 (BRT -03:00)
+
+domain:      discautol.com.br
+owner:       DISCAUTOL DIST C.G DE AUTOMOVEIS
+ownerid:     003.244.290/0001-07
+responsible: ANDRE OSHIRO
+country:     BR
+owner-c:     DDL79
+admin-c:     DDL79
+tech-c:      DDL79
+billing-c:   DDL79
+nserver:     dns-web.terra.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20000125 #247941
+expires:     20210125
+changed:     20110119
+status:      published
+
+nic-hdl-br:  DDL79
+person:      Discautol Dist. C. de Automoveis Ltda
+e-mail:      andre@discautol.com.br
+created:     20000807
+changed:     20060203
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

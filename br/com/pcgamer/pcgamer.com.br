@@ -1,0 +1,47 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 21:49:56 (BRT -03:00)
+
+domain:      pcgamer.com.br
+owner:       TANCA INFORMATICA LTDA
+ownerid:     008.723.218/0001-86
+responsible: CRISTIANO ABBUD
+country:     BR
+owner-c:     CRABB
+admin-c:     CRABB
+tech-c:      CRABB
+billing-c:   CRABB
+nserver:     ns1.dominios.uol.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns2.dominios.uol.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns3.dominios.uol.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+saci:        yes
+created:     20101017 #7442772
+expires:     20111017
+changed:     20101019
+status:      published
+
+nic-hdl-br:  CRABB
+person:      Cristiano Abbud
+e-mail:      cristiano_abbud@hotmail.com
+created:     20060810
+changed:     20060810
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

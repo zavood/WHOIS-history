@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: HOS406D-NORID
+Domain Name................: host-it.no
+Domain Holder Handle.......: KIMK4O-NORID
+Registrar Handle...........: REG42-NORID
+Legal-c Handle.............: MK1773P-NORID
+Tech-c Handle..............: MK1773P-NORID
+Name Server Handle.........: NSSE104H-NORID
+Name Server Handle.........: NSSE110H-NORID
+Name Server Handle.........: NSSE98H-NORID
+
+Additional information:
+Created:         2002-01-25
+Last updated:    2010-12-27
+
+NORID Handle...............: KIMK4O-NORID
+Type.......................: organization
+Name.......................: KAMA INTERNETT Marius Kaase Weilandt
+Id Type....................: organization_number
+Id Number..................: 981891546
+Registrar Handle...........: REG42-NORID
+Post Address...............: Rosenbersgt. 2
+Postal Code................: NO-5015
+Postal Area................: BERGEN
+Country....................: NO
+Mobile Phone Number........: +47.90012391
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

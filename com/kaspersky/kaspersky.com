@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 09-oct-1997
    Expiration Date: 08-oct-2015
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 18:37:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 02:03:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -116,11 +116,11 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns3.kasperskylabs.net
-    ns1.kasperskylabs.net
-    ns2.macomnet.ru
     ns.macomnet.ru
     ns2.kasperskylabs.net
+    ns1.kasperskylabs.net
+    ns3.kasperskylabs.net
+    ns2.macomnet.ru
 
 
 
