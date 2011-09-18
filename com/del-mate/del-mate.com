@@ -5,20 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: DEL-MATE.COM
-   Registrar: DATTATEC.COM DE IRAZOQUI VERONICA PALMIRA
-   Whois Server: whois.dattatec.com
-   Referral URL: http://www.dattatec.com
-   Name Server: NS1-DOMINIO-SUSPENDIDO.TRAXHOST.COM
-   Name Server: NS2-DOMINIO-SUSPENDIDO.TRAXHOST.COM
-   Name Server: NS3.TRAXHOST.COM
-   Name Server: NS4.TRAXHOST.COM
-   Status: pendingDelete
-   Updated Date: 08-sep-2011
-   Creation Date: 24-jul-2010
-   Expiration Date: 24-jul-2011
-
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 22:27:30 UTC &lt;&lt;&lt;
+No match for &quot;DEL-MATE.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 03:03:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,9 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Datttatec.com - Registration Service Provided By: Dattatec.com
-Contact: +54 341 599000
-Email: dominios@dattatec.com
-Website: http://www.dattatec.com
-DOMAIN del-mate.com NO  FOUND!

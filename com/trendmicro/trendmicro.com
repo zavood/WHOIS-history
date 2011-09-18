@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 20-apr-1995
    Expiration Date: 21-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 02:35:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 02:36:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,5 +75,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: trendmicro.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 22:25:57 EDT 2011
+Date and Time of Query: Sat Sep 17 22:26:11 EDT 2011
 Reason Code: IE

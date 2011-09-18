@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 28-feb-2002
    Expiration Date: 28-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:53:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 02:56:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 188.72.227.95
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain drive-f1.com
-% Timestamp: 2011-09-12 16:54:13
+% Timestamp: 2011-09-18 04:57:48
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
@@ -100,7 +100,7 @@ changed:                     2011-03-02 06:06:29
 [owner-c] fax:               +43-732-666222
 [owner-c] email:             domainadmin@reichlundpartner.com
 [owner-c] protection:        B
-[owner-c] updated:           2011-09-07 11:26:49
+[owner-c] updated:           2011-09-15 16:58:10
 
 [admin-c] handle:            9728758
 [admin-c] type:              ORG
@@ -117,7 +117,7 @@ changed:                     2011-03-02 06:06:29
 [admin-c] fax:               +43-732-666222
 [admin-c] email:             domainadmin@reichlundpartner.com
 [admin-c] protection:        B
-[admin-c] updated:           2011-09-07 11:26:49
+[admin-c] updated:           2011-09-15 16:58:10
 
 [tech-c] handle:             10252208
 [tech-c] type:               PERSON

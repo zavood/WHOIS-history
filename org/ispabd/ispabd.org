@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D73840296-LROR
+Domain Name:ISPABD.ORG
+Created On:28-Jun-2001 19:37:07 UTC
+Last Updated On:24-Apr-2011 09:32:52 UTC
+Expiration Date:28-Jun-2012 19:37:06 UTC
+Sponsoring Registrar:GKG.NET, INC. (Formerly GK Group L.L.C.) (R164-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:GKG-C000000BA5
+Registrant Name:Host Master
+Registrant Organization:Bangladesh Online Limited
+Registrant Street1:Plot 19, Road 35
+Registrant Street2:Gulshan
+Registrant Street3:
+Registrant City:Dhaka
+Registrant State/Province:Dhaka
+Registrant Postal Code:1213
+Registrant Country:BD
+Registrant Phone:+880.28815559
+Registrant Phone Ext.:
+Registrant FAX:+880.28815747
+Registrant FAX Ext.:
+Registrant Email:93a31aa72c2183a4fd63fd49aca6d087fad40b73@whois.gkg.net
+Admin ID:GKG-C000000BA5
+Admin Name:Host Master
+Admin Organization:Bangladesh Online Limited
+Admin Street1:Plot 19, Road 35
+Admin Street2:Gulshan
+Admin Street3:
+Admin City:Dhaka
+Admin State/Province:Dhaka
+Admin Postal Code:1213
+Admin Country:BD
+Admin Phone:+880.28815559
+Admin Phone Ext.:
+Admin FAX:+880.28815747
+Admin FAX Ext.:
+Admin Email:93a31aa72c2183a4fd63fd49aca6d087fad40b73@whois.gkg.net
+Tech ID:GKG-C000006A55
+Tech Name:Host Master
+Tech Organization:ISP Association Bangladesh
+Tech Street1:House 21, Road 3
+Tech Street2:Dhanmondi
+Tech Street3:
+Tech City:Dhaka
+Tech State/Province:Dhaka
+Tech Postal Code:1205
+Tech Country:BD
+Tech Phone:+880.29668320
+Tech Phone Ext.:
+Tech FAX:+880.29668321
+Tech FAX Ext.:
+Tech Email:c5b98385a0c65e885bb1b944aee0030d2440bef3@whois.gkg.net
+Name Server:NS1.BOL-ONLINE.COM
+Name Server:NS1.DHAKA.NET
+Name Server:NS1.BOL-ONLINE.NET
+Name Server:NS2.BOL-ONLINE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

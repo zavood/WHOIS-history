@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D130552878-LROR
+Domain Name:8558.ORG
+Created On:11-Oct-2006 22:58:16 UTC
+Last Updated On:08-Aug-2011 05:24:05 UTC
+Expiration Date:11-Oct-2012 22:58:16 UTC
+Sponsoring Registrar:Web Commerce Communications Limited dba WebNic.cc (R140-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:wn-r4083003177
+Registrant Name:huangtuping huangtuping
+Registrant Organization:huangtuping
+Registrant Street1:guangzhong
+Registrant Street2:
+Registrant Street3:
+Registrant City:guangzhong
+Registrant State/Province:Guangdong
+Registrant Postal Code:525000
+Registrant Country:CN
+Registrant Phone:+86.020200000
+Registrant Phone Ext.:
+Registrant FAX:+86.020200000
+Registrant FAX Ext.:
+Registrant Email:prproxy@yahoo.com.cn
+Admin ID:wn-a4083003177
+Admin Name:huangtuping huangtuping
+Admin Organization:huangtuping
+Admin Street1:guangzhong
+Admin Street2:
+Admin Street3:
+Admin City:guangzhong
+Admin State/Province:Guangdong
+Admin Postal Code:525000
+Admin Country:CN
+Admin Phone:+86.020200000
+Admin Phone Ext.:
+Admin FAX:+86.020200000
+Admin FAX Ext.:
+Admin Email:prproxy@yahoo.com.cn
+Tech ID:wn-t4083003177
+Tech Name:huangtuping huangtuping
+Tech Organization:huangtuping
+Tech Street1:guangzhong
+Tech Street2:
+Tech Street3:
+Tech City:guangzhong
+Tech State/Province:Guangdong
+Tech Postal Code:525000
+Tech Country:CN
+Tech Phone:+86.020200000
+Tech Phone Ext.:
+Tech FAX:+86.020200000
+Tech FAX Ext.:
+Tech Email:prproxy@yahoo.com.cn
+Name Server:F1G1NS1.DNSPOD.NET
+Name Server:F1G1NS2.DNSPOD.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

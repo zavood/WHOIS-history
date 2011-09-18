@@ -9,15 +9,14 @@ for detailed information.
    Registrar: NETWORK SOLUTIONS, LLC.
    Whois Server: whois.networksolutions.com
    Referral URL: http://www.networksolutions.com
-   Name Server: NS1.PENDINGRENEWALDELETION.COM
-   Name Server: NS2.PENDINGRENEWALDELETION.COM
-   Status: clientHold
+   Name Server: NS65.WORLDNIC.COM
+   Name Server: NS66.WORLDNIC.COM
    Status: clientTransferProhibited
-   Updated Date: 14-sep-2011
+   Updated Date: 17-sep-2011
    Creation Date: 10-aug-1995
    Expiration Date: 09-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 02:43:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 02:46:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: bankersbank.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 22:33:23 EDT 2011
+Date and Time of Query: Sat Sep 17 22:36:48 EDT 2011
 Reason Code: IE

@@ -1,0 +1,48 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 22:43:01 (BRT -03:00)
+
+domain:      victoremarcell.com.br
+owner:       Geraldo Rodrigues dos Santos
+ownerid:     191.082.058-09
+country:     BR
+owner-c:     AFA198
+admin-c:     AFA198
+tech-c:      AFA198
+billing-c:   GRDSA69
+nserver:     ns1.generalhost.com.br
+nsstat:      20110915 UDN
+nslastaa:    20110513
+nserver:     ns2.generalhost.com.br
+nsstat:      20110915 UDN
+nslastaa:    20110513
+created:     20100620 #6970248
+expires:     20130620
+changed:     20110606
+status:      published
+
+nic-hdl-br:  AFA198
+person:      Andrei Fernandes Amorin
+e-mail:      andreiwd@gmail.com
+created:     20040312
+changed:     20110511
+
+nic-hdl-br:  GRDSA69
+person:      Geraldo Rodrigues Dos Santos
+e-mail:      victoremarcell@hotmail.com
+created:     20100525
+changed:     20100525
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

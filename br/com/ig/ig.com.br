@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-15 20:29:35 (BRT -03:00)
+%  2011-09-17 23:48:28 (BRT -03:00)
 
 domain:      ig.com.br
 owner:       Internet Group do Brasil SA
@@ -17,14 +17,14 @@ admin-c:     IGGDA
 tech-c:      IGGDA
 billing-c:   IGDCO
 nserver:     dnssec1.ig.com.br 187.31.254.134
-nsstat:      20110911 AA
-nslastaa:    20110911
+nsstat:      20110916 AA
+nslastaa:    20110916
 nserver:     dnssec2.ig.com.br 187.31.254.135
-nsstat:      20110911 AA
-nslastaa:    20110911
+nsstat:      20110916 AA
+nslastaa:    20110916
 dsrecord:    56476 RSA/SHA-1 FFC9F99278B14E76733A85532CAB459CD0781A8E
-dsstatus:    20110911 DSOK
-dslastok:    20110911
+dsstatus:    20110916 DSOK
+dslastok:    20110916
 created:     19980505 #96300
 expires:     20120505
 changed:     20110515

@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 23:26:31 (BRT -03:00)
+
+domain:      vcarros.com.br
+owner:       A UP_GRADE INFORMATICA LTDA
+ownerid:     001.870.037/0001-33
+responsible: ALBERTO F. BAJUR ALVES
+country:     BR
+owner-c:     AFA110
+admin-c:     AFA110
+tech-c:      JAM664
+billing-c:   AFA110
+nserver:     ns1.sangiovanne.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.sangiovanne.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20040515 #1643696
+expires:     20120515
+changed:     20110504
+status:      published
+
+nic-hdl-br:  AFA110
+person:      Alberto Felipe bajur Alves
+e-mail:      alberto.bajur@plenaalimentos.com.br
+created:     20020801
+changed:     20110113
+
+nic-hdl-br:  JAM664
+person:      Jerry Adriano Mesquita
+e-mail:      suporte@vcarros.com.br
+created:     20040514
+changed:     20060519
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

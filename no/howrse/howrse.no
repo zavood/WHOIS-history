@@ -1,0 +1,38 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: HOW63D-NORID
+Domain Name................: howrse.no
+Domain Holder Handle.......: ACPL4O-NORID
+Registrar Handle...........: REG164-NORID
+Legal-c Handle.............: PMK2592P-NORID
+Tech-c Handle..............: PMK2426P-NORID
+Name Server Handle.........: NSEU210H-NORID
+Name Server Handle.........: NSEU211H-NORID
+Name Server Handle.........: NSEU215H-NORID
+Name Server Handle.........: NSEU216H-NORID
+
+Additional information:
+Created:         2011-01-17
+Last updated:    2011-05-10
+
+NORID Handle...............: ACPL4O-NORID
+Type.......................: organization
+Name.......................: ACE COMPU-INFOTECH PRIVATE LIMITED
+Id Type....................: organization_number
+Id Number..................: 992750014
+Registrar Handle...........: REG164-NORID
+Post Address...............: Postboks 163
+Postal Code................: NO-4358
+Postal Area................: Kleppe
+Country....................: NO
+Phone Number...............: +47.85392165
+Fax Number.................: +47.51207892
+Email Address..............: hostmaster@nethut.no
+
+Additional information:
+Created:         2011-05-09
+Last updated:    2011-05-09
+

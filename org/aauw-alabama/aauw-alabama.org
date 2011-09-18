@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D126675468-LROR
+Domain Name:AAUW-ALABAMA.ORG
+Created On:02-Aug-2006 08:37:52 UTC
+Last Updated On:01-Aug-2011 19:32:02 UTC
+Expiration Date:02-Aug-2012 08:37:52 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:5BBBA004AE95DE1B
+Registrant Name:Michael Henton
+Registrant Street1:3104 Logan Valley Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Traverse City
+Registrant State/Province:MI
+Registrant Postal Code:49684
+Registrant Country:US
+Registrant Phone:+1.2319297978
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:aauwadmin@aauwonline.com
+Admin ID:5BBBA004AE95DE1B
+Admin Name:Michael Henton
+Admin Street1:3104 Logan Valley Road
+Admin Street2:
+Admin Street3:
+Admin City:Traverse City
+Admin State/Province:MI
+Admin Postal Code:49684
+Admin Country:US
+Admin Phone:+1.2319297978
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:aauwadmin@aauwonline.com
+Tech ID:5BBBA004AE95DE1B
+Tech Name:Michael Henton
+Tech Street1:3104 Logan Valley Road
+Tech Street2:
+Tech Street3:
+Tech City:Traverse City
+Tech State/Province:MI
+Tech Postal Code:49684
+Tech Country:US
+Tech Phone:+1.2319297978
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:aauwadmin@aauwonline.com
+Name Server:NS2.MSROOTSERVE.COM
+Name Server:NS.MSROOTSERVE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

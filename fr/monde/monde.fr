@@ -1,0 +1,106 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; monde.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      monde.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LM517-FRNIC
+admin-c:     AG8664-FRNIC
+tech-c:      CS5-FRNIC
+tech-c:      FXS1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1772-FRNIC
+registrar:   INDOM
+anniversary: 01/08
+created:     19/05/2000
+last-update: 18/05/2009
+source:      FRNIC
+
+ns-list:     NSL1772-FRNIC
+nserver:     roger.sosdomaines.net
+nserver:     ns2.sosdomaines.net
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     LM517-FRNIC
+type:        ORGANIZATION
+contact:     Le Monde
+address:     21bis, rue Claude Bernard
+address:     75005 Paris
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AG8664-FRNIC
+type:        PERSON
+contact:     Alain Giraudo
+address:     Le Monde
+address:     21bis, rue Claude Bernard
+address:     75005 Paris
+country:     FR
+phone:       +33 1 53 38 42 65
+fax-no:      +33 1 53 38 42 97
+e-mail:      domain_names@lemonde.fr
+notify:      domain_names@lemonde.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CS5-FRNIC
+type:        ROLE
+contact:     CVFM SOSDOMAINES
+address:     Cvfm
+address:     32, rue de Paradis
+address:     75010 Paris
+country:     FR
+e-mail:      nicfr@sosdomaines.net
+admin-c:     SF1-FRNIC
+tech-c:      FXS1-FRNIC
+changed:     23/10/2000 nicfr@sosdomaines.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     FXS1-FRNIC
+type:        PERSON
+contact:     Francois-Xavier Schmitz
+address:     Cvfm
+address:     32, rue de Paradis
+address:     75010 Paris
+country:     FR
+phone:       +33 1 48 24 03 37
+changed:     20/10/2000 tech-contactfr@sosdomaines.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

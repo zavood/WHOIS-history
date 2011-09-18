@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155366733-LROR
+Domain Name:ACTBD.ORG
+Created On:15-Feb-2009 05:13:50 UTC
+Last Updated On:21-Dec-2010 07:49:03 UTC
+Expiration Date:15-Feb-2012 05:13:50 UTC
+Sponsoring Registrar:GKG.NET, INC. (Formerly GK Group L.L.C.) (R164-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:GKG-C000000BA5
+Registrant Name:Host Master
+Registrant Organization:Bangladesh Online Limited
+Registrant Street1:Plot 19, Road 35
+Registrant Street2:Gulshan
+Registrant Street3:
+Registrant City:Dhaka
+Registrant State/Province:Dhaka
+Registrant Postal Code:1213
+Registrant Country:BD
+Registrant Phone:+880.28815559
+Registrant Phone Ext.:
+Registrant FAX:+880.28815747
+Registrant FAX Ext.:
+Registrant Email:93a31aa72c2183a4fd63fd49aca6d087fad40b73@whois.gkg.net
+Admin ID:GKG-C000000BA5
+Admin Name:Host Master
+Admin Organization:Bangladesh Online Limited
+Admin Street1:Plot 19, Road 35
+Admin Street2:Gulshan
+Admin Street3:
+Admin City:Dhaka
+Admin State/Province:Dhaka
+Admin Postal Code:1213
+Admin Country:BD
+Admin Phone:+880.28815559
+Admin Phone Ext.:
+Admin FAX:+880.28815747
+Admin FAX Ext.:
+Admin Email:93a31aa72c2183a4fd63fd49aca6d087fad40b73@whois.gkg.net
+Tech ID:GKG-C000000BA5
+Tech Name:Host Master
+Tech Organization:Bangladesh Online Limited
+Tech Street1:Plot 19, Road 35
+Tech Street2:Gulshan
+Tech Street3:
+Tech City:Dhaka
+Tech State/Province:Dhaka
+Tech Postal Code:1213
+Tech Country:BD
+Tech Phone:+880.28815559
+Tech Phone Ext.:
+Tech FAX:+880.28815747
+Tech FAX Ext.:
+Tech Email:93a31aa72c2183a4fd63fd49aca6d087fad40b73@whois.gkg.net
+Name Server:NS1.BOL-ONLINE.COM
+Name Server:NS2.BOL-ONLINE.COM
+Name Server:NS1.DHAKA.NET
+Name Server:NS1.BOL-ONLINE.NET
+Name Server:NS2.BOL-ONLINE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

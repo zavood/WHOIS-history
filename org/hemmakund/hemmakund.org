@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D60281485-LROR
+Domain Name:HEMMAKUND.ORG
+Created On:12-Feb-2001 15:27:48 UTC
+Last Updated On:31-Mar-2009 09:24:37 UTC
+Expiration Date:12-Feb-2012 15:27:48 UTC
+Sponsoring Registrar:ASCIO Technologies, Inc. - Denmark (R76-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:AT4480447-051
+Registrant Name:Erik Nyman
+Registrant Organization:Alcro-Beckers AB
+Registrant Street1:Textilgatan 31
+Registrant Street2:
+Registrant Street3:
+Registrant City:Stockholm
+Registrant State/Province:
+Registrant Postal Code:12086
+Registrant Country:SE
+Registrant Phone:+46.87756000
+Registrant Phone Ext.:
+Registrant FAX:+46.86451959
+Registrant FAX Ext.:
+Registrant Email:erik.nyman@alcro-beckers.com
+Admin ID:AT4480455-051
+Admin Name:Erik Nyman
+Admin Organization:Alcro-Beckers AB
+Admin Street1:Textilgatan 31
+Admin Street2:
+Admin Street3:
+Admin City:Stockholm
+Admin State/Province:
+Admin Postal Code:12086
+Admin Country:SE
+Admin Phone:+46.87756000
+Admin Phone Ext.:
+Admin FAX:+46.86451959
+Admin FAX Ext.:
+Admin Email:erik.nyman@alcro-beckers.com
+Tech ID:AT7676787-011
+Tech Name:Speednames Technical
+Tech Organization:Speednames
+Tech Street1:Islands Brygge 55
+Tech Street2:
+Tech Street3:
+Tech City:Copenhagen S
+Tech State/Province:
+Tech Postal Code:2300
+Tech Country:DK
+Tech Phone:+45.33886300
+Tech Phone Ext.:
+Tech FAX:+45.33886301
+Tech FAX Ext.:
+Tech Email:hostmaster@speednames.com
+Name Server:NS2.ASCIO.NET
+Name Server:NS1.ASCIO.NET
+Name Server:NS3.ASCIO.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

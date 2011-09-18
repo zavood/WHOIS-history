@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 27-jul-1995
    Expiration Date: 26-jul-2021
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 02:11:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 02:23:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,5 +70,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: dfg.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 22:02:09 EDT 2011
+Date and Time of Query: Sat Sep 17 22:12:47 EDT 2011
 Reason Code: IE

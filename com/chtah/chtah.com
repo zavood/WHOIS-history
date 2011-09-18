@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 31-may-2000
    Expiration Date: 31-may-2021
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 19:50:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 02:43:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,5 +73,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: chtah.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 15:40:43 EDT 2011
+Date and Time of Query: Sat Sep 17 22:33:55 EDT 2011
 Reason Code: IE

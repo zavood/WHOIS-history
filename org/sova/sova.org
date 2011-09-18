@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1971136-LROR
+Domain Name:SOVA.ORG
+Created On:07-Feb-1996 05:00:00 UTC
+Last Updated On:13-Dec-2010 20:56:03 UTC
+Expiration Date:08-Feb-2013 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31092729
+Registrant Name:Carolyn Hill
+Registrant Organization:Southern Oregon Visitors Association
+Registrant Street1:PO Box 1645
+Registrant Street2:
+Registrant Street3:
+Registrant City:Medford
+Registrant State/Province:Oregon
+Registrant Postal Code:97501
+Registrant Country:US
+Registrant Phone:+1.5415520520
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:manager@sova.org
+Admin ID:CR31092731
+Admin Name:Carolyn Hill
+Admin Organization:Southern Oregon Visitors Association
+Admin Street1:PO Box 1645
+Admin Street2:
+Admin Street3:
+Admin City:Medford
+Admin State/Province:Oregon
+Admin Postal Code:97501
+Admin Country:US
+Admin Phone:+1.5415520520
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:manager@sova.org
+Tech ID:CR31092730
+Tech Name:Carolyn Hill
+Tech Organization:Southern Oregon Visitors Association
+Tech Street1:PO Box 1645
+Tech Street2:
+Tech Street3:
+Tech City:Medford
+Tech State/Province:Oregon
+Tech Postal Code:97501
+Tech Country:US
+Tech Phone:+1.5415520520
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:manager@sova.org
+Name Server:DNS1.ONLINEMAC.COM
+Name Server:DNS2.ONLINEMAC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

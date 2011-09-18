@@ -1,0 +1,36 @@
+[Domain]
+Domain: ubuntu.lv
+Status: active
+Changed: 2009-12-21T19:11:46+02:00
+
+[Holder]
+Type: Legal person
+Name: Canonical Ltd
+Email: hostmaster@canonical.com
+Fax: +44.1624 643802
+Phone: +44.2079879001
+Address: One Circular Road, Douglas, Isle Of Man, IM1 1AF, United Kingdom
+RegNr: None
+
+[Tech]
+Type: Natural person
+Email: ccops@markmonitor.com
+Fax: +12083895799
+Phone: +12083895740
+
+[Registrar]
+Type: Legal person
+Name: MarkMonitor Inc.
+Email: ccops@markmonitor.com
+Fax: +12083895771
+Phone: +12083895740
+Address: 391 N.Ancestor place, Boise, ID 83704 Idaho, USA
+RegNr: 82-0513468
+
+[Nservers]
+Nserver: ns1.canonical.com
+Nserver: ns2.canonical.com
+Nserver: ns3.canonical.com
+
+[Whois]
+Updated: 2011-09-17T23:12:26.071748+00:00

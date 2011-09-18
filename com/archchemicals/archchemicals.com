@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 16-oct-1998
    Expiration Date: 15-oct-2016
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 02:23:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 02:38:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: archchemicals.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 22:13:30 EDT 2011
+Date and Time of Query: Sat Sep 17 22:28:22 EDT 2011
 Reason Code: IE

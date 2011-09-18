@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         avion.sk
+Admin-id            INTE-0123
+Admin-name          Inter IKEA Centre Slovensko s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       35849363
+Admin-address       Ivanska cesta 16, Bratislava 82104
+Admin-telephone     +420.724050783
+Admin-email         marketing.iicg@ikea.com
+Tech-id             YEGO-0001
+Tech-name           Yegon s.r.o.
+Tech-org.-ID        35797924
+Tech-address        Ruzova dolina 6, Bratislava 82108
+Tech-telephone      02/20633171, 0905 612570
+Tech-email          registrator@yegon.sk
+dns_name            ns1.ascio.net
+dns_name            ns2.ascio.net
+dns_name            ns3.ascio.net
+Last-update         2011-09-12
+Valid-date          2012-10-10
+Domain-status       DOM_OK
+

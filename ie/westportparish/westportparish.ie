@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      westportparish.ie
+descr:       Diocese of Tuam
+descr:       Charity
+descr:       Discretionary Name
+admin-c:     AJX661-IEDR
+tech-c:      IL14-IEDR
+renewal:     29-September-2011
+status:      Active
+nserver:     ns.itxpertise.com
+nserver:     ns2.itxpertise.com
+source:      IEDR
+
+person:      Francis Mitchell
+nic-hdl:     AJX661-IEDR
+source:      IEDR
+
+person:      Deep Blue Internet Services
+nic-hdl:     IL14-IEDR
+source:      IEDR
+

@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D26748688-LROR
+Domain Name:HOULT.ORG
+Created On:10-May-2000 10:11:35 UTC
+Last Updated On:11-May-2011 01:22:31 UTC
+Expiration Date:10-May-2012 10:11:35 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-32QH36RNPJK5
+Registrant Name:Bruce Hoult
+Registrant Street1:c/- G R Hoult
+Registrant Street2:PO Box 33 Kirwee
+Registrant Street3:
+Registrant City:Christchurch
+Registrant State/Province:Canterbury
+Registrant Postal Code:-
+Registrant Country:NZ
+Registrant Phone:+64.211104457
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bruce@hoult.org
+Admin ID:DOTC-02121092
+Admin Name:Bruce Hoult
+Admin Street1:c/- G R Hoult
+Admin Street2:PO Box 33 Kirwee
+Admin Street3:
+Admin City:Christchurch
+Admin State/Province:-
+Admin Postal Code:-
+Admin Country:NZ
+Admin Phone:+64.42323723
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bruce@hoult.org
+Tech ID:DOTC-02121093
+Tech Name:Bruce Hoult
+Tech Street1:c/- G R Hoult
+Tech Street2:PO Box 33 Kirwee
+Tech Street3:
+Tech City:Christchurch
+Tech State/Province:-
+Tech Postal Code:-
+Tech Country:NZ
+Tech Phone:+64.42323723
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bruce@hoult.org
+Name Server:NS1.DOMAINVANHORN.COM
+Name Server:NS2.DOMAINVANHORN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

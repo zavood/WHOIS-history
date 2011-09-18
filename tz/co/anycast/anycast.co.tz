@@ -1,0 +1,59 @@
+%
+%  TZNIC WHOIS data and services are subject to the Terms of Use
+%  available at: http://www.tznic.or.tz/docs/whois_tou.pdf
+%
+%  You may also use our WHOIS Web service available at:
+%  http://whois.tznic.or.tz/whois
+%
+%
+% Whoisd Server Version: 3.1.1
+% Timestamp: Sun Sep 18 05:37:40 2011
+
+domain:       anycast.co.tz
+registrant:   ADMIN-TZNIC
+admin-c:      ADMIN-TZNIC
+nsset:        NS-ANYCAST.CO.TZ
+registrar:    REG-TZNIC
+status:       paid and in zone
+registered:   03.08.2009 14:27:41
+expire:       03.08.2015
+
+contact:      ADMIN-TZNIC
+org:          Tanzania Network Information Centre
+name:         Manager
+address:      LAPF Millennium Towers
+address:      New Bagamoyo Road
+address:      Dar es Salaam
+address:      P.O. BOX 34543
+address:      TZ
+phone:        +255.222772659
+fax-no:       +255.222772660
+e-mail:       manager@tznic.or.tz
+registrar:    REG-TZNIC
+created:      22.07.2009 11:42:00
+
+nsset:        NS-ANYCAST.CO.TZ
+nserver:      ns1.satwise.com
+nserver:      anycast.co.tz (41.222.56.189)
+nserver:      b.ns.tznic.or.tz (196.216.162.70, 2001:43f8:e0:1::70)
+tech-c:       MNT-TZNIC
+registrar:    REG-TZNIC
+created:      03.08.2009 14:27:07
+changed:      27.04.2011 17:45:27
+
+contact:      MNT-TZNIC
+org:          Tanzania Network Information Centre
+name:         Technical Officer
+address:      LAPF Millenium Towers
+address:      New Bagamoyo Road
+address:      Dar es Salaam
+address:      P.O.Box 34543
+address:      TZ
+phone:        +255.2772659
+fax-no:       +255.2772660
+e-mail:       technical@tznic.or.tz
+registrar:    REG-TZNIC
+created:      21.07.2009 15:28:07
+changed:      23.02.2010 15:03:36
+
+

@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 23:38:46 (BRT -03:00)
+
+domain:      plasticase.com.br
+owner:       Plasticase Ind&uacute;stria de Embalagens Ltda.
+ownerid:     000.465.907/0002-07
+responsible: Renato Caruso
+country:     BR
+owner-c:     PEL183
+admin-c:     PEL183
+tech-c:      GPD32
+billing-c:   PEL183
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     19981217 #133543
+expires:     20111217
+changed:     20110105
+status:      published
+
+nic-hdl-br:  GPD32
+person:      Gilliard Pires Domingues
+e-mail:      gilliardpd@yahoo.com.br
+created:     20051025
+changed:     20101210
+
+nic-hdl-br:  PEL183
+person:      Plasticase-Ind&uacute;stria de Embalagens Ltda
+e-mail:      plasticase@plasticase.com.br
+created:     20010628
+changed:     20010628
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

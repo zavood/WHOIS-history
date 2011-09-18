@@ -1,0 +1,88 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sun Sep 18 04:35:17 2011
+
+domain:       aboplast.cz
+registrant:   SB:BONISCH007
+admin-c:      LUMIRTOMANEKOASA
+nsset:        NSS:PREMEKMAREK:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   29.09.1999 01:41:00
+changed:      04.11.2004 09:05:00
+expire:       27.09.2012
+
+contact:      SB:BONISCH007
+org:          ABO plast, s.r.o.
+name:         Jiri Bonisch
+address:      Metylovice 166
+address:      METYLOVICE
+address:      73949
+address:      CZ
+e-mail:       info@aboplast.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      11.09.2002 12:45:00
+
+contact:      LUMIRTOMANEKOASA
+name:         Lumir Tomanek
+address:      Razinova 1574/3
+address:      Ostrava - Zabreh
+address:      70030
+address:      CZ
+phone:        +420 603491728
+fax-no:       +420 595783760
+e-mail:       lumir.tomanek@oasa.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      27.08.2002 16:01:00
+
+nsset:        NSS:PREMEKMAREK:1
+nserver:      hermes.hosting.cz
+nserver:      daidalos.hosting.cz
+tech-c:       PREMEK
+tech-c:       SB:PREMEKMAREK
+registrar:    REG-CZNIC
+created:      01.10.2007 02:00:00
+
+contact:      PREMEK
+name:         Premek Marek
+address:      Jablonova 565
+address:      Hostivice
+address:      25301
+address:      CZ
+phone:        +420 603590051
+fax-no:       +420 602350130
+e-mail:       premek@hosting.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+
+contact:      SB:PREMEKMAREK
+org:          Premysl Marek
+name:         Premek Marek
+address:      Jablonova 565
+address:      Hostivice
+address:      25301
+address:      CZ
+e-mail:       premek@hosting.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+changed:      10.09.2003 11:46:00
+
+

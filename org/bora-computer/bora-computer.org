@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104231517-LROR
+Domain Name:BORA-COMPUTER.ORG
+Created On:15-Apr-2004 13:40:52 UTC
+Last Updated On:16-Apr-2011 01:24:27 UTC
+Expiration Date:15-Apr-2012 13:40:52 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ABM-10589032
+Registrant Name:Bora Boelck
+Registrant Organization:Bora Computer GbR
+Registrant Street1:Josef-Schregel Str. 15a
+Registrant Street2:
+Registrant Street3:
+Registrant City:Dueren
+Registrant State/Province:NRW
+Registrant Postal Code:52349
+Registrant Country:DE
+Registrant Phone:+49.2421201919
+Registrant Phone Ext.:
+Registrant FAX:+49.2421201918
+Registrant FAX Ext.:
+Registrant Email:service@bora-computer.de
+Admin ID:ABM-10589032
+Admin Name:Bora Boelck
+Admin Organization:Bora Computer GbR
+Admin Street1:Josef-Schregel Str. 15a
+Admin Street2:
+Admin Street3:
+Admin City:Dueren
+Admin State/Province:NRW
+Admin Postal Code:52349
+Admin Country:DE
+Admin Phone:+49.2421201919
+Admin Phone Ext.:
+Admin FAX:+49.2421201918
+Admin FAX Ext.:
+Admin Email:service@bora-computer.de
+Tech ID:ABM-10589032
+Tech Name:Bora Boelck
+Tech Organization:Bora Computer GbR
+Tech Street1:Josef-Schregel Str. 15a
+Tech Street2:
+Tech Street3:
+Tech City:Dueren
+Tech State/Province:NRW
+Tech Postal Code:52349
+Tech Country:DE
+Tech Phone:+49.2421201919
+Tech Phone Ext.:
+Tech FAX:+49.2421201918
+Tech FAX Ext.:
+Tech Email:service@bora-computer.de
+Name Server:NSA6.SCHLUNDTECH.DE
+Name Server:NSB6.SCHLUNDTECH.DE
+Name Server:NSC6.SCHLUNDTECH.DE
+Name Server:NSD6.SCHLUNDTECH.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

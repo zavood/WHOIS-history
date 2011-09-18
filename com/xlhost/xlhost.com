@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 05-jan-2000
    Expiration Date: 05-jan-2021
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 02:27:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 02:55:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: xlhost.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 22:23:16 EDT 2011
+Date and Time of Query: Sat Sep 17 22:45:18 EDT 2011
 Reason Code: IE

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D71406424-LROR
+Domain Name:HELLENION.ORG
+Created On:26-May-2001 16:32:23 UTC
+Last Updated On:29-May-2010 15:30:39 UTC
+Expiration Date:26-May-2012 16:32:23 UTC
+Sponsoring Registrar:GKG.NET, INC. (Formerly GK Group L.L.C.) (R164-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:GKG-C00001FF61
+Registrant Name:Gitana Gerondas
+Registrant Organization:Hellenion
+Registrant Street1:6795 Coe Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Stockton
+Registrant State/Province:NY
+Registrant Postal Code:14784
+Registrant Country:US
+Registrant Phone:+1.8147307151
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:0f045c1457b27ddebb836368d9d4ccfdc6aed531@whois.gkg.net
+Admin ID:GKG-C0000284EB
+Admin Name:Hellenion Owner
+Admin Organization:Hellenion
+Admin Street1:P.O. Box 6033
+Admin Street2:
+Admin Street3:
+Admin City:San Jose
+Admin State/Province:CA
+Admin Postal Code:95150
+Admin Country:US
+Admin Phone:+1.8002675915
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:9d20e8600b07aed1ad2adaef1d2e3a71c7b37f24@whois.gkg.net
+Tech ID:GKG-C00001F43D
+Tech Name:Stukey Randall
+Tech Organization:GridSpace
+Tech Street1:2019 Trinity Dr
+Tech Street2:
+Tech Street3:
+Tech City:Waco
+Tech State/Province:TX
+Tech Postal Code:76710-2737
+Tech Country:US
+Tech Phone:+1.2542357929
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:4629bfaafe7f93a8137b44b3e0f4d2803afd9d95@whois.gkg.net
+Name Server:NS1.LINODE.COM
+Name Server:NS2.LINODE.COM
+Name Server:NS3.LINODE.COM
+Name Server:NS4.LINODE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

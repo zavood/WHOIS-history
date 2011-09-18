@@ -1,0 +1,44 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 22:43:23 (BRT -03:00)
+
+domain:      victorjoseh.com.br
+owner:       JOAQUIM FRANCISCO DE SOUZA FILHO
+ownerid:     023.333.174-34
+country:     BR
+owner-c:     JFSFI18
+admin-c:     JFSFI18
+tech-c:      JFSFI18
+billing-c:   JFSFI18
+nserver:     ns1.victorjoseh.com.br 174.142.215.121
+nsstat:      20110915 UDN
+nslastaa:    20110413
+nserver:     ns2.victorjoseh.com.br 174.142.215.122
+nsstat:      20110915 UDN
+nslastaa:    20110413
+created:     20090707 #5756980
+expires:     20110707
+changed:     20110722
+provider:    UOLHOST (22)
+status:      on-hold
+
+nic-hdl-br:  JFSFI18
+person:      JOAQUIM FRANCISCO DE SOUZA FILHO
+e-mail:      victor.joseh@uol.com.br
+created:     20090707
+changed:     20090707
+provider:    UOLHOST (22)
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

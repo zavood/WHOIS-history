@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D163170410-LROR
+Domain Name:SEARCHWOKE.ORG
+Created On:29-Aug-2011 15:34:19 UTC
+Last Updated On:29-Aug-2011 17:07:14 UTC
+Expiration Date:29-Aug-2012 15:34:19 UTC
+Sponsoring Registrar:Bizcn.com, Inc. (R1248-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:TRANSFER PROHIBITED
+Registrant ID:orgli14632057674
+Registrant Name:Luis Irea
+Registrant Organization:LuisIrea
+Registrant Street1:674 North Kalaheo Ave.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kailua
+Registrant State/Province:HI
+Registrant Postal Code:96734
+Registrant Country:US
+Registrant Phone:+1.8082638255
+Registrant Phone Ext.:
+Registrant FAX:+1.8082638255
+Registrant FAX Ext.:
+Registrant Email:luisirea@hotmailbox.com
+Admin ID:orgli14632057808
+Admin Name:Luis Irea
+Admin Organization:LuisIrea
+Admin Street1:674 North Kalaheo Ave.
+Admin Street2:
+Admin Street3:
+Admin City:Kailua
+Admin State/Province:HI
+Admin Postal Code:96734
+Admin Country:US
+Admin Phone:+1.8082638255
+Admin Phone Ext.:
+Admin FAX:+1.8082638255
+Admin FAX Ext.:
+Admin Email:luisirea@hotmailbox.com
+Tech ID:orgli14632058375
+Tech Name:Luis Irea
+Tech Organization:LuisIrea
+Tech Street1:674 North Kalaheo Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Kailua
+Tech State/Province:HI
+Tech Postal Code:96734
+Tech Country:US
+Tech Phone:+1.8082638255
+Tech Phone Ext.:
+Tech FAX:+1.8082638255
+Tech FAX Ext.:
+Tech Email:luisirea@hotmailbox.com
+Name Server:NS1.SEARCHWOKE.ORG
+Name Server:NS2.SEARCHWOKE.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
