@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161147434-LROR
+Domain Name:CRAFTCON.ORG
+Created On:08-Jan-2011 14:31:20 UTC
+Last Updated On:10-Mar-2011 03:50:34 UTC
+Expiration Date:08-Jan-2012 14:31:20 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ncr-7577445-53e6
+Registrant Name:Jauharuddin Iltifani
+Registrant Organization:Jauharuddin Iltifani
+Registrant Street1:Gubeng Jaya 2 80
+Registrant Street2:
+Registrant Street3:
+Registrant City:Surabaya
+Registrant State/Province:East Java
+Registrant Postal Code:60281
+Registrant Country:ID
+Registrant Phone:+62.3170217471
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jaohbulet@gmail.com
+Admin ID:nca-7577446-2473
+Admin Name:Jauharuddin Iltifani
+Admin Organization:Jauharuddin Iltifani
+Admin Street1:Gubeng Jaya 2 80
+Admin Street2:
+Admin Street3:
+Admin City:Surabaya
+Admin State/Province:East Java
+Admin Postal Code:60281
+Admin Country:ID
+Admin Phone:+62.3170217471
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jaohbulet@gmail.com
+Tech ID:nct-7577447-df6f
+Tech Name:Jauharuddin Iltifani
+Tech Organization:Jauharuddin Iltifani
+Tech Street1:Gubeng Jaya 2 80
+Tech Street2:
+Tech Street3:
+Tech City:Surabaya
+Tech State/Province:East Java
+Tech Postal Code:60281
+Tech Country:ID
+Tech Phone:+62.3170217471
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jaohbulet@gmail.com
+Name Server:NS2615.HOSTGATOR.COM
+Name Server:NS2616.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

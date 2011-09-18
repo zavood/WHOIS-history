@@ -1,0 +1,98 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; epistrophe.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      epistrophe.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    E4218-FRNIC
+admin-c:     PB1106-FRNIC
+tech-c:      ES5848-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL10156-FRNIC
+registrar:   ADMINET EPISTROPHE
+anniversary: 21/07
+created:     29/09/1999
+last-update: 19/10/2009
+source:      FRNIC
+
+ns-list:     NSL10156-FRNIC
+nserver:     a.dnsvr.com
+nserver:     e.dnsvr.com
+source:      FRNIC
+
+registrar:   ADMINET EPISTROPHE
+type:        Isp Option 1
+address:     33 Avenue Auguste Renoir
+address:     MARLY LE ROI
+country:     FR
+phone:       +33 6 64 26 67 95
+fax-no:      +33 1 39 16 56 38
+e-mail:      pbatreau@epistrophe.fr
+website:     http://www.epistrophe.fr/
+anonymous:   NO
+registered:  04/05/2000
+source:      FRNIC
+
+nic-hdl:     E4218-FRNIC
+type:        ORGANIZATION
+contact:     Epistrophe
+address:     http://www.epistrophe.fr
+address:     33, avenue Auguste Renoir
+address:     78160 Marly-le-Roi
+country:     FR
+phone:       +33 6 64 26 67 95
+e-mail:      pbatreau@epistrophe.fr
+changed:     15/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     PB1106-FRNIC
+type:        PERSON
+contact:     Philippe Batreau
+address:     Epistrophe
+address:     Epistrophe
+address:     33, avenue Auguste Renoir
+address:     78160 Marly-le-Roi
+country:     FR
+phone:       +33 6 64 26 67 95
+e-mail:      pbatreau@epistrophe.fr
+changed:     23/06/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ES5848-FRNIC
+type:        ROLE
+contact:     EPISTROPHE SARL
+address:     Epistrophe
+address:     33, avenue Auguste Renoir
+address:     78160 Marly-le-Roi
+country:     FR
+phone:       +33 6 64 26 67 95
+e-mail:      pbatreau@epistrophe.fr
+trouble:     nom de domaine - h&eacute;bergement - r&eacute;f&eacute;rencement
+trouble:     http://www.epistrophe.fr
+admin-c:     PB5249-FRNIC
+tech-c:      PB5249-FRNIC
+notify:      pbatreau@epistrophe.fr
+changed:     02/05/2007 pbatreau@epistrophe.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

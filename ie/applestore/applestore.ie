@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      applestore.ie
+descr:       Apple Computer International
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Discretionary Name
+admin-c:     AAW161-IEDR
+tech-c:      CCA7-IEDR
+renewal:     25-April-2012
+status:      Active
+nserver:     nserver.apple.com
+nserver:     nserver.euro.apple.com
+nserver:     nserver2.apple.com
+source:      IEDR
+
+person:      Kenneth Eddings
+nic-hdl:     AAW161-IEDR
+source:      IEDR
+
+person:      eMarkmonitor Inc
+nic-hdl:     CCA7-IEDR
+source:      IEDR
+

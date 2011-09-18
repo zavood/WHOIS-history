@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 14-jun-2007
    Expiration Date: 14-jun-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:10:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 12:47:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,4 +53,55 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Too many lookups from this IP today. See you tomorrow.
+Registrant:
+ Heroku, Inc
+ 1770 Post Street #201
+ San Francisco, CA 94115
+ US
+
+ Domain name: HEROKU.COM
+
+
+ Administrative Contact:
+    Wiggins, Adam  dns-nospam@heroku.com
+    1770 Post Street #201
+    San Francisco, CA 94115
+    US
+    1112223333
+ Technical Contact:
+    Wiggins, Adam  dns-nospam@heroku.com
+    1770 Post Street #201
+    San Francisco, CA 94115
+    US
+    1112223333
+
+
+ Registrar of Record: easyDNS Technologies, Inc.
+ Record last updated on 09-Sep-2010.
+ Record expires on 15-Jun-2014.
+ Record created on 15-Jun-2007.
+
+ Domain servers in listed order:
+    NS3.P19.DYNECT.NET
+    NS1.P19.DYNECT.NET
+    NS4.P19.DYNECT.NET
+    NS2.P19.DYNECT.NET
+
+
+ Domain status: ok
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns
+  or Identi.ca http://identi.ca/easyDNS )
+
+
+You have 6 lookups left today

@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D116827856-LROR
+Domain Name:BCMUD.ORG
+Created On:17-Feb-2006 20:34:53 UTC
+Last Updated On:15-Dec-2009 16:58:30 UTC
+Expiration Date:17-Feb-2013 20:34:53 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:40443598-NSI
+Registrant Name:Brushy Creek MUD
+Registrant Organization:Brushy Creek MUD
+Registrant Street1:16318 Great Oaks Dr.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Round Rock
+Registrant State/Province:TX
+Registrant Postal Code:78681
+Registrant Country:US
+Registrant Phone:+1.5122557871
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:42384138-NSI
+Admin Name:Greg Cole
+Admin Street1:16318 Great Oaks Drive
+Admin Street2:
+Admin Street3:
+Admin City:Round Rock
+Admin State/Province:TX
+Admin Postal Code:78681
+Admin Country:US
+Admin Phone:+512.2557871207
+Admin Phone Ext.:
+Admin FAX:+1.8882897571
+Admin FAX Ext.:
+Admin Email:g.cole@bcmud.org
+Tech ID:42384138-NSI
+Tech Name:Greg Cole
+Tech Street1:16318 Great Oaks Drive
+Tech Street2:
+Tech Street3:
+Tech City:Round Rock
+Tech State/Province:TX
+Tech Postal Code:78681
+Tech Country:US
+Tech Phone:+512.2557871207
+Tech Phone Ext.:
+Tech FAX:+1.8882897571
+Tech FAX Ext.:
+Tech Email:g.cole@bcmud.org
+Name Server:NS93.WORLDNIC.COM
+Name Server:NS94.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

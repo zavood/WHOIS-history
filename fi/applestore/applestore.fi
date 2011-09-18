@@ -1,0 +1,20 @@
+
+domain:   applestore.fi
+descr:    APPLE COMPUTER AB FILIAL I FINLAND
+descr:    09247878
+address:  Joe Forest
+address:  H&auml;meentie 153 C
+address:  00560
+address:  HELSINKI
+phone:    +358-9-47615241
+status:   Granted
+created:  12.8.2008
+expires:  12.8.2012
+nserver: nserver.apple.com [ERROR]
+nserver: nserver.euro.apple.com [ERROR]
+nserver: nserver2.apple.com [ERROR]
+nserver: nserver3.apple.com [ERROR]
+nserver: nserver4.apple.com [ERROR]
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

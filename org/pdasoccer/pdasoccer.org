@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98243000-LROR
+Domain Name:PDASOCCER.ORG
+Created On:10-Jun-2003 16:06:10 UTC
+Last Updated On:12-Jun-2011 13:37:34 UTC
+Expiration Date:10-Jun-2012 16:06:10 UTC
+Sponsoring Registrar:DomainPeople, Inc. (R30-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:15938203fdaafe5a
+Registrant Name:Domain  Administrator
+Registrant Organization:Players Development Academy
+Registrant Street1:35 Prentice Lane
+Registrant Street2:
+Registrant Street3:
+Registrant City:MENDHAM
+Registrant State/Province:NJ
+Registrant Postal Code:07945
+Registrant Country:US
+Registrant Phone:+1.9735435101
+Registrant Phone Ext.:
+Registrant FAX:+1.9735435101
+Registrant FAX Ext.:
+Registrant Email:mmurphy@nac.net
+Admin ID:15938203fdaafe5a
+Admin Name:Domain  Administrator
+Admin Organization:Players Development Academy
+Admin Street1:35 Prentice Lane
+Admin Street2:
+Admin Street3:
+Admin City:MENDHAM
+Admin State/Province:NJ
+Admin Postal Code:07945
+Admin Country:US
+Admin Phone:+1.9735435101
+Admin Phone Ext.:
+Admin FAX:+1.9735435101
+Admin FAX Ext.:
+Admin Email:mmurphy@nac.net
+Tech ID:561280e143a27a01
+Tech Name:Domain  Tech
+Tech Organization:WinSave
+Tech Street1:3250 W. Commercial Blvd.
+Tech Street2:
+Tech Street3:
+Tech City:Ft. Lauderdale
+Tech State/Province:FL
+Tech Postal Code:33309
+Tech Country:US
+Tech Phone:+1.9543348000
+Tech Phone Ext.:
+Tech FAX:+1.9543348000
+Tech FAX Ext.:
+Tech Email:domaintech@winsave.com
+Name Server:NS10.DEMOSPHERE.COM
+Name Server:NS11.DEMOSPHERE.COM
+Name Server:NS12.DEMOSPHERE.COM
+Name Server:NS13.DEMOSPHERE.COM
+Name Server:NS14.DEMOSPHERE.COM
+Name Server:NS15.DEMOSPHERE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

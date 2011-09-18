@@ -1,0 +1,52 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 09:43:32 (BRT -03:00)
+
+domain:      megapc.com.br
+owner:       Mega PC Consultoria em Sistemas Ltda
+ownerid:     073.183.121/0001-90
+responsible: Jos&eacute; Carlos Magliano
+country:     BR
+owner-c:     MEP84
+admin-c:     MEP84
+tech-c:      LFMMA10
+billing-c:   MEP84
+nserver:     ns1.locaweb.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns2.locaweb.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns3.locaweb.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     19980109 #81996
+expires:     20120109
+changed:     20101220
+status:      published
+
+nic-hdl-br:  LFMMA10
+person:      Lucius Flavius de Medeiros Magliano
+e-mail:      lucius.magliano@gmail.com
+created:     20090901
+changed:     20090901
+
+nic-hdl-br:  MEP84
+person:      Mega PC
+e-mail:      jcarlos@megapc.com.br
+created:     20031017
+changed:     20070613
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

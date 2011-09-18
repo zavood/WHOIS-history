@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       motoline.ee
+registrant:   CID:ZONE:183037
+admin-c:      CID:ZONE:183038
+nsset:        NSSID:ZONE:39431
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 04:54:17
+changed:      07.01.2011 13:00:08
+expire:       07.01.2012
+
+contact:      CID:ZONE:183037
+name:         Tanel Elken
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      07.01.2011 13:00:03
+
+contact:      CID:ZONE:183038
+name:         Tanel Elken
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      07.01.2011 13:00:03
+
+nsset:        NSSID:ZONE:39431
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:183039
+registrar:    zone
+created:      07.01.2011 13:00:04
+
+contact:      CID:ZONE:183039
+name:         Tanel Elken
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      07.01.2011 13:00:03
+
+

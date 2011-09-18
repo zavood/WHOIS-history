@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; listan.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      listan.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LFS91-FRNIC
+admin-c:     SD3431-FRNIC
+tech-c:      IF195-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5364-FRNIC
+registrar:   InterNetX GmbH
+anniversary: 21/05
+created:     21/05/2008
+last-update: 10/06/2008
+source:      FRNIC
+
+ns-list:     NSL5364-FRNIC
+nserver:     ns1.pc-hilfe.com
+nserver:     ns2.pc-hilfe.com
+source:      FRNIC
+
+registrar:   InterNetX GmbH
+type:        Isp Option 1
+address:     Maximilianstrasse 6
+address:     93047 REGENSBURG
+country:     DE
+phone:       +49 941 595 59 0
+fax-no:      +49 941 595 59 54
+e-mail:      nic-fr@domains.internetx.de
+website:     http://www.internetx.de
+anonymous:   NO
+registered:  02/07/2001
+source:      FRNIC
+
+nic-hdl:     LFS91-FRNIC
+type:        ORGANIZATION
+contact:     Listan France sarl
+address:     65, avenue Georges Politzer
+address:     78190 Trappes
+country:     FR
+phone:       +33 1 30 66 10 20
+fax-no:      +33 1 30 62 58 29
+e-mail:      sabine.delbauve@listan.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SD3431-FRNIC
+type:        PERSON
+contact:     Sabine Delbauve
+address:     Listan France Sarl
+address:     65, avenue Georges Politzer
+address:     78190 Trappes
+country:     FR
+phone:       +33 1 30 66 10 20
+fax-no:      +33 1 30 62 58 29
+e-mail:      sabine.delbauve@listan.fr
+changed:     30/04/2008 nic-fr@domains.internetx.de
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     IF195-FRNIC
+type:        ROLE
+contact:     Ingo Fritz
+address:     ECS-Webhosting
+address:     Volbehrstra&Atilde;Ÿe 11d
+address:     90491 N&Atilde;&frac14;rnberg
+address:     DE
+e-mail:      info@ecs-webhosting.de
+admin-c:     IF193-FRNIC
+tech-c:      IF193-FRNIC
+changed:     30/04/2008 nic-fr@domains.internetx.de
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

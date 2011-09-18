@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4285599-LROR
+Domain Name:GLMART.ORG
+Created On:22-Jul-1998 04:00:00 UTC
+Last Updated On:04-Nov-2010 00:24:36 UTC
+Expiration Date:21-Jul-2017 04:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tu0Y8F7IHUTtDMEk
+Registrant Name:Kendall Smith
+Registrant Organization:Greater Lafayette Museum of Art
+Registrant Street1:101 South 9th Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lafayette
+Registrant State/Province:IN
+Registrant Postal Code:47901
+Registrant Country:US
+Registrant Phone:+1.7657421128
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:amgl.ksmith@gmail.com
+Admin ID:tuDUBQFEgmAIIU6n
+Admin Name:Kendall Smith
+Admin Organization:Greater Lafayette Museum of Art
+Admin Street1:101 South 9th Street
+Admin Street2:
+Admin Street3:
+Admin City:Lafayette
+Admin State/Province:IN
+Admin Postal Code:47901
+Admin Country:US
+Admin Phone:+1.7657421128
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:amgl.ksmith@gmail.com
+Tech ID:tuXQXmDhg8lKR0ph
+Tech Name:Wintek DNS
+Tech Organization:Wintek Corporation
+Tech Street1:427 N 6th St
+Tech Street2:
+Tech Street3:
+Tech City:Lafayette
+Tech State/Province:IN
+Tech Postal Code:47901
+Tech Country:US
+Tech Phone:+1.7657428428
+Tech Phone Ext.:
+Tech FAX:+1.7657420646
+Tech FAX Ext.:
+Tech Email:dns@wintek.com
+Name Server:NS2.WINTEK.COM
+Name Server:NS1.WINTEK.COM
+Name Server:NS3.WINTEK.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

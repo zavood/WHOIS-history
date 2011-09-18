@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106167898-LROR
+Domain Name:MEDIEVAL-CASTLES.ORG
+Created On:26-Apr-2005 19:25:20 UTC
+Last Updated On:09-May-2011 00:27:31 UTC
+Expiration Date:26-Apr-2014 19:25:20 UTC
+Sponsoring Registrar:easyDNS Technologies Inc. (R1247-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tus9uTsrC5LPkIBQ
+Registrant Name:Mark Jeftovic
+Registrant Organization:Thirteen Ventures Ltd.
+Registrant Street1:304A-219 Dufferin St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Toronto
+Registrant State/Province:ON
+Registrant Postal Code:M6K3J1
+Registrant Country:CA
+Registrant Phone:+1.4165358672
+Registrant Phone Ext.:
+Registrant FAX:+1.8662732892
+Registrant FAX Ext.:
+Registrant Email:mark@thirteen.ca
+Admin ID:tuBQcw4LPV4anCXn
+Admin Name:Mark Jeftovic
+Admin Organization:Thirteen Ventures Ltd.
+Admin Street1:304A-219 Dufferin St.
+Admin Street2:
+Admin Street3:
+Admin City:Toronto
+Admin State/Province:ON
+Admin Postal Code:M6K3J1
+Admin Country:CA
+Admin Phone:+1.4165358672
+Admin Phone Ext.:
+Admin FAX:+1.8662732892
+Admin FAX Ext.:
+Admin Email:mark@thirteen.ca
+Tech ID:tuG5bJs5wrhaUl5d
+Tech Name:Mark Jeftovic
+Tech Organization:Thirteen Ventures Ltd.
+Tech Street1:304A-219 Dufferin St.
+Tech Street2:
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:ON
+Tech Postal Code:M6K3J1
+Tech Country:CA
+Tech Phone:+1.4165358672
+Tech Phone Ext.:
+Tech FAX:+1.8662732892
+Tech FAX Ext.:
+Tech Email:mark@thirteen.ca
+Name Server:NS1.EASYDNS.COM
+Name Server:NS2.EASYDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,110 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; suza.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      suza.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SIF10-FRNIC
+admin-c:     HBZ1-FRNIC
+tech-c:      OH251-FRNIC
+tech-c:      SS283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5419-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 26/03
+created:     26/03/2004
+last-update: 02/05/2006
+source:      FRNIC
+
+ns-list:     NSL5419-FRNIC
+nserver:     ns4.oleane.net
+nserver:     ns5.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     SIF10-FRNIC
+type:        ORGANIZATION
+contact:     Suza International France
+address:     1, rue Jean Perrin
+address:     93150 Le Blanc-Mesnil
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     HBZ1-FRNIC
+type:        PERSON
+contact:     Hong Bin Zhang
+address:     SUZA INTERNATIONAL FRANCE
+address:     1, rue Jean Perrin
+address:     93150 Le Blanc-Mesnil
+country:     FR
+phone:       +33 1 55 81 08 08
+fax-no:      +33 1 55 81 08 09
+e-mail:      INFO@suza-fr.com
+changed:     25/03/2004 nse@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SS283-FRNIC
+type:        PERSON
+contact:     Sylvain Shao
+address:     SUZA INTERNATIONAL FRANCE
+address:     1, rue Jean Perrin
+address:     93150 Le Blanc-Mesnil
+country:     FR
+phone:       +33 1 55 81 08 08
+fax-no:      +33 1 55 81 08 09
+e-mail:      SHAO@suza-fr.com
+changed:     25/03/2004 nse@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

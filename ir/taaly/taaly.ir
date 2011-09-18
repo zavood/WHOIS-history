@@ -1,0 +1,36 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'taaly.ir'
+
+
+domain:		taaly.ir
+ascii:		taaly.ir
+remarks:	(Domain Holder) Mohammad Mahdi Tilab
+remarks:	(Domain Holder Address) rey st no 18, Tehran, Tehran, IR
+holder-c:	mt197-irnic
+admin-c:	mt197-irnic
+tech-c:		mt197-irnic
+bill-c:		bm50-irnic
+nserver:	ns51.parsihost.com
+nserver:	ns2.parsihost.com
+last-updated:	2011-06-04
+source:		IRNIC # Filtered
+
+nic-hdl:	mt197-irnic
+person:		Mohammad Mahdi Tilab
+e-mail:		cpuman01@yahoo.com
+address:	rey st no 18, Tehran, Tehran, IR
+phone:		09124112285
+source:		IRNIC # Filtered
+
+nic-hdl:	bm50-irnic
+org:		Mohandesine Farakooshan Rayane (Farahost)
+e-mail:		webmaster@farahost.com
+source:		IRNIC # Filtered
+

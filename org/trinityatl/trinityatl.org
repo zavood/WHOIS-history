@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2255381-LROR
+Domain Name:TRINITYATL.ORG
+Created On:10-Sep-1996 04:00:00 UTC
+Last Updated On:04-Sep-2008 19:05:11 UTC
+Expiration Date:09-Sep-2017 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25332817-NSI
+Registrant Name:Trinity School
+Registrant Organization:Trinity School
+Registrant Street1:4301 Northside parkway
+Registrant Street2:
+Registrant Street3:
+Registrant City:Atlanta
+Registrant State/Province:GA
+Registrant Postal Code:30327
+Registrant Country:US
+Registrant Phone:+1.404240944
+Registrant Phone Ext.:
+Registrant FAX:+1.404231811
+Registrant FAX Ext.:
+Registrant Email:tciccarelli@TRINITYATL.ORG
+Admin ID:25332819-NSI
+Admin Name:Trinity School
+Admin Street1:4301 Northside Parkway
+Admin Street2:
+Admin Street3:
+Admin City:Atlanta
+Admin State/Province:GA
+Admin Postal Code:30327
+Admin Country:US
+Admin Phone:+1.4042318100
+Admin Phone Ext.:
+Admin FAX:+1.4042318111
+Admin FAX Ext.:
+Admin Email:trinitytech@trinityatl.org
+Tech ID:25332819-NSI
+Tech Name:Trinity School
+Tech Street1:4301 Northside Parkway
+Tech Street2:
+Tech Street3:
+Tech City:Atlanta
+Tech State/Province:GA
+Tech Postal Code:30327
+Tech Country:US
+Tech Phone:+1.4042318100
+Tech Phone Ext.:
+Tech FAX:+1.4042318111
+Tech FAX Ext.:
+Tech Email:trinitytech@trinityatl.org
+Name Server:NS1.EASYDNS.COM
+Name Server:NS2.EASYDNS.COM
+Name Server:REMOTE1.EASYDNS.COM
+Name Server:REMOTE2.EASYDNS.COM
+Name Server:REMOTE3.EASYDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

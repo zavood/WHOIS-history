@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D79362068-LROR
+Domain Name:AAACC.ORG
+Created On:05-Nov-2001 23:20:15 UTC
+Last Updated On:27-Apr-2010 20:17:59 UTC
+Expiration Date:05-Nov-2012 23:20:15 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:41238394-NSI
+Registrant Name:African American Art and Culture Complex
+Registrant Organization:African American Art and Culture Complex
+Registrant Street1:762 Fulton Street
+Registrant Street2:Suite 300
+Registrant Street3:
+Registrant City:San Francisco
+Registrant State/Province:CA
+Registrant Postal Code:94102
+Registrant Country:US
+Registrant Phone:+1.415922204
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:41238395-NSI
+Admin Name:London Breed
+Admin Street1:762 Fulton Street
+Admin Street2:Suite 300
+Admin Street3:
+Admin City:San Francisco
+Admin State/Province:CA
+Admin Postal Code:94102
+Admin Country:US
+Admin Phone:+1.415922204
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:london@aaacc.org
+Tech ID:41238394-NSI
+Tech Name:African American Art and Culture Complex
+Tech Organization:African American Art and Culture Complex
+Tech Street1:762 Fulton Street
+Tech Street2:Suite 300
+Tech Street3:
+Tech City:San Francisco
+Tech State/Province:CA
+Tech Postal Code:94102
+Tech Country:US
+Tech Phone:+1.415922204
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:no.valid.email@worldnic.com
+Name Server:NS69.WORLDNIC.COM
+Name Server:NS70.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

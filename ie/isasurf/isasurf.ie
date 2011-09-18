@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      isasurf.ie
+descr:       Irish Surfing Association Ltd
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Discretionary Name
+admin-c:     ZL3-IEDR
+tech-c:      AAM546-IEDR
+renewal:     31-March-2012
+status:      Active
+nserver:     ns1.webhostingireland.ie
+nserver:     ns2.webhostingireland.ie
+source:      IEDR
+
+person:      Zoe Lally
+nic-hdl:     ZL3-IEDR
+source:      IEDR
+
+person:      Hostingireland.ie Hostmaster
+nic-hdl:     AAM546-IEDR
+source:      IEDR
+

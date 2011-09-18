@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D136925999-LROR
+Domain Name:KPAO.ORG
+Created On:09-Jan-2007 23:05:48 UTC
+Last Updated On:23-Dec-2009 03:21:08 UTC
+Expiration Date:09-Jan-2015 23:05:48 UTC
+Sponsoring Registrar:easyDNS Technologies Inc. (R1247-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuCu1132u3O7E1Fx
+Registrant Name:Hostmaster KPAO
+Registrant Organization:kpao.org
+Registrant Street1:PO Box 61154
+Registrant Street2:
+Registrant Street3:
+Registrant City:Palo Alto
+Registrant State/Province:CA
+Registrant Postal Code:94306
+Registrant Country:US
+Registrant Phone:+1.6503523773
+Registrant Phone Ext.:
+Registrant FAX:+1.6503523773
+Registrant FAX Ext.:
+Registrant Email:dcreemer@myprivacy.ca
+Admin ID:tuIylCqgpFPSY44w
+Admin Name:Hostmaster KPAO
+Admin Organization:kpao.org
+Admin Street1:PO Box 61154
+Admin Street2:
+Admin Street3:
+Admin City:Palo Alto
+Admin State/Province:CA
+Admin Postal Code:94306
+Admin Country:US
+Admin Phone:+1.6503523773
+Admin Phone Ext.:
+Admin FAX:+1.6503523773
+Admin FAX Ext.:
+Admin Email:dcreemer@myprivacy.ca
+Tech ID:tuSNfIiB8ewtbU3S
+Tech Name:easyDNS Hostmaster
+Tech Organization:easyDNS
+Tech Street1:304A-219 Dufferin Street
+Tech Street2:
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:Ontario
+Tech Postal Code:M6K3E3
+Tech Country:CA
+Tech Phone:+1.4165358672
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@easydns.com
+Name Server:NS1.EASYDNS.COM
+Name Server:NS2.EASYDNS.COM
+Name Server:REMOTE1.EASYDNS.COM
+Name Server:REMOTE2.EASYDNS.COM
+Name Server:NS6.EASYDNS.NET
+Name Server:NS3.EASYDNS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

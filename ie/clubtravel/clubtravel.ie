@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      clubtravel.ie
+descr:       Club Travel
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     AKY915-IEDR
+tech-c:      HH36-IEDR
+renewal:     15-January-2012
+status:      Active
+nserver:     ns0.reg365.net
+nserver:     ns1.reg365.net
+nserver:     ns2.reg365.net
+source:      IEDR
+
+person:      Tom Burke
+nic-hdl:     AKY915-IEDR
+source:      IEDR
+
+person:      NamesCo Hostmaster
+nic-hdl:     HH36-IEDR
+source:      IEDR
+

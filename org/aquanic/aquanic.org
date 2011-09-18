@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2358728-LROR
+Domain Name:AQUANIC.ORG
+Created On:06-Nov-1998 05:00:00 UTC
+Last Updated On:14-Sep-2011 13:49:45 UTC
+Expiration Date:05-Nov-2012 05:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:RENEWPERIOD
+Registrant ID:tuinLEzW0R3Iin4B
+Registrant Name:Mark E Einstein
+Registrant Organization:Illinois-Indiana Sea Grant Program
+Registrant Street1:Forestry Bldg Room 212A
+Registrant Street2:195 Marsteller Street
+Registrant Street3:Purdue University
+Registrant City:West Lafayette
+Registrant State/Province:IN
+Registrant Postal Code:47907-2033
+Registrant Country:US
+Registrant Phone:+1.7654963486
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:meinstei@PURDUE.EDU
+Admin ID:tuEtQaH2zpvZKKhk
+Admin Name:Mark E Einstein
+Admin Organization:Illinois-Indiana Sea Grant Program
+Admin Street1:Forestry Bldg Room 212A
+Admin Street2:195 Marsteller Street
+Admin Street3:Purdue University
+Admin City:West Lafayette
+Admin State/Province:IN
+Admin Postal Code:47907-2033
+Admin Country:US
+Admin Phone:+1.7654963486
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:meinstei@PURDUE.EDU
+Tech ID:tuEhiPs5oXBlmrO7
+Tech Name:Wintek DNS
+Tech Organization:Wintek Corporation
+Tech Street1:427 N 6th St
+Tech Street2:
+Tech Street3:
+Tech City:Lafayette
+Tech State/Province:IN
+Tech Postal Code:47901
+Tech Country:US
+Tech Phone:+1.7657428428
+Tech Phone Ext.:
+Tech FAX:+1.7657420646
+Tech FAX Ext.:
+Tech Email:dns@wintek.com
+Name Server:NS2.WINTEK.COM
+Name Server:NS1.WINTEK.COM
+Name Server:NS3.WINTEK.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
