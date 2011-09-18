@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155146941-LROR
+Domain Name:GRANDCOUNTYSHERIFF.ORG
+Created On:20-Jan-2009 17:33:17 UTC
+Last Updated On:12-Jan-2011 21:36:10 UTC
+Expiration Date:20-Jan-2012 17:33:17 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR38014456
+Registrant Name:Grand County Sheriff Department
+Registrant Organization:Grand County Sheriff Department
+Registrant Street1:125 East Center Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Moab
+Registrant State/Province:Utah
+Registrant Postal Code:84532
+Registrant Country:US
+Registrant Phone:+1.4352598115
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@grandcountysheriff.com
+Admin ID:CR38014458
+Admin Name:Joseph Lema
+Admin Organization:TunnelVision Hosting.com
+Admin Street1:480 Cottonwood Lane
+Admin Street2:
+Admin Street3:
+Admin City:Moab
+Admin State/Province:Utah
+Admin Postal Code:84532
+Admin Country:US
+Admin Phone:+1.4352593883
+Admin Phone Ext.:
+Admin FAX:+1.4352592545
+Admin FAX Ext.:
+Admin Email:support@tunnelvisionhosting.com
+Tech ID:CR38014457
+Tech Name:Joseph Lema
+Tech Organization:TunnelVision Hosting.com
+Tech Street1:480 Cottonwood Lane
+Tech Street2:
+Tech Street3:
+Tech City:Moab
+Tech State/Province:Utah
+Tech Postal Code:84532
+Tech Country:US
+Tech Phone:+1.4352593883
+Tech Phone Ext.:
+Tech FAX:+1.4352592545
+Tech FAX Ext.:
+Tech Email:support@tunnelvisionhosting.com
+Name Server:NS1.BLUEHOST.COM
+Name Server:NS2.BLUEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D8896750-LROR
+Domain Name:FSCKED.ORG
+Created On:07-Aug-1999 00:47:31 UTC
+Last Updated On:08-Oct-2007 19:57:09 UTC
+Expiration Date:07-Aug-2012 00:47:23 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:C2359198-RCOM
+Registrant Name:Mike Perry
+Registrant Organization:A Bunch of UNIX Geeks (ABUG)
+Registrant Street1:409 E. Chalmers #907
+Registrant Street2:
+Registrant Street3:
+Registrant City:Champaign
+Registrant State/Province:IL
+Registrant Postal Code:61820
+Registrant Country:US
+Registrant Phone:+1.2173655056
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mikepery@mikepery.linuxos.org
+Admin ID:C36961674-RCOM
+Admin Name:Mike Perry
+Admin Organization:fscked.org evil labs
+Admin Street1:117 W. Water St 1/2
+Admin Street2:
+Admin Street3:
+Admin City:Farmer City
+Admin State/Province:Il
+Admin Postal Code:61842
+Admin Country:US
+Admin Phone:+1.2173906265
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mikepery@fscked.org
+Tech ID:C36961678-RCOM
+Tech Name:Mike Perry
+Tech Organization:fscked.org evil labs
+Tech Street1:117 W. Water St 1/2
+Tech Street2:
+Tech Street3:
+Tech City:Farmer City
+Tech State/Province:Il
+Tech Postal Code:61842
+Tech Country:US
+Tech Phone:+1.2173906265
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mikepery@fscked.org
+Name Server:DNS081.A.REGISTER.COM
+Name Server:DNS193.B.REGISTER.COM
+Name Server:DNS244.C.REGISTER.COM
+Name Server:DNS249.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

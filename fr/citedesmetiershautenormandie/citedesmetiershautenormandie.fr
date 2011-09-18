@@ -1,0 +1,98 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; citedesmetiershautenormandie.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      citedesmetiershautenormandie.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    RDHN9-FRNIC
+admin-c:     SR1838-FRNIC
+tech-c:      NC205-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL23063-FRNIC
+registrar:   ALTITUDE TELECOM SAS
+anniversary: 07/03
+created:     07/03/2007
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL23063-FRNIC
+nserver:     ns1.altitudetelecom.fr [195.7.102.2]
+nserver:     ns2.altitudetelecom.fr [195.7.112.2]
+source:      FRNIC
+
+registrar:   ALTITUDE TELECOM SAS
+type:        Isp Option 2
+address:     Les Collines de l'Arche
+address:     Quartier de la Grande Arche - Op&eacute;ra E
+address:     PARIS LA DEFENSE CEDEX
+country:     FR
+phone:       +33 2 35 12 28 00
+fax-no:      +33 2 35 60 68 88
+e-mail:      ns.administrative@altitudetelecom.fr
+website:     http://www.altitudetelecom.fr
+anonymous:   NO
+registered:  02/11/2005
+source:      FRNIC
+
+nic-hdl:     RDHN9-FRNIC
+type:        ORGANIZATION
+contact:     REGION DE HAUTE NORMANDIE
+address:     5, rue Robert Schuman
+address:     B.P. 1129
+address:     76174 Rouen
+country:     FR
+phone:       +33 2 35 52 56 00
+fax-no:      +33 2 35 59 88 90
+e-mail:      tech@cpinet.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SR1838-FRNIC
+type:        PERSON
+contact:     Sophie Renollaud
+address:     Conseil R&eacute;gional de Haute-Normandie
+address:     5, rue Robert Schuman
+address:     B.P. 1129
+address:     76174 Rouen Cedex
+country:     FR
+phone:       +33 2 35 52 56 00
+fax-no:      +33 2 35 59 88 90
+e-mail:      tech@cpinet.fr
+changed:     07/03/2007 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NC205-FRNIC
+type:        ROLE
+contact:     NOC Altitude
+address:     Altitude Developpement
+address:     1, rue Francois Perroux
+address:     Pat la Vatine
+address:     76130 Mont-Saint-Aignan
+country:     FR
+e-mail:      technique@altitude.fr
+admin-c:     FC616-FRNIC
+tech-c:      FC616-FRNIC
+changed:     21/07/2008 technique@altitude.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

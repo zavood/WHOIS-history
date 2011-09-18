@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83309753-LROR
+Domain Name:XVLD.ORG
+Created On:04-Feb-2002 10:44:06 UTC
+Last Updated On:20-Mar-2010 00:22:15 UTC
+Expiration Date:04-Feb-2015 10:44:06 UTC
+Sponsoring Registrar:Freeparking Domain Registrars, Inc. (R1352-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_8209870
+Registrant Name:Domain Contact (56021)
+Registrant Organization:Andrew Robertson
+Registrant Street1:4 Badshot Park, Badshot Lea
+Registrant Street2:
+Registrant Street3:
+Registrant City:Farnham
+Registrant State/Province:Surrey
+Registrant Postal Code:GU9 9JZ
+Registrant Country:GB
+Registrant Phone:+44.8453631164
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:andrew.robertson@nsn.com
+Admin ID:DI_9384599
+Admin Name:Chris Evans (366548)
+Admin Organization:15th Kings Light Dragoons (Hussars)
+Admin Street1:23 Towns End Road
+Admin Street2:
+Admin Street3:
+Admin City:Sharnbrook
+Admin State/Province:Bedfordshire
+Admin Postal Code:MK44 1HY
+Admin Country:GB
+Admin Phone:+44.7766502487
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:chrisos.evans@googlemail.com
+Tech ID:DI_1849806
+Tech Name:Admin Domain
+Tech Organization:Freeparking Domain Registrars Inc.
+Tech Street1:2a Lord Street
+Tech Street2:
+Tech Street3:
+Tech City:Douglas
+Tech State/Province:Isle of Man
+Tech Postal Code:IM99 1HP
+Tech Country:GB
+Tech Phone:+44.42071935007
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:registrars@freeparking.com
+Name Server:NS1.KRYSTAL.CO.UK
+Name Server:NS2.KRYSTAL.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

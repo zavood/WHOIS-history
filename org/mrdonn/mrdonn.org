@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106019539-LROR
+Domain Name:MRDONN.ORG
+Created On:05-Apr-2005 03:01:31 UTC
+Last Updated On:07-Sep-2011 14:31:02 UTC
+Expiration Date:05-Apr-2015 03:01:31 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_1318672
+Registrant Name:Linda Donn (2803441438)
+Registrant Organization:Mr. Donn &amp; Maxie
+Registrant Street1:4805 52nd Street Ct NW
+Registrant Street2:NA
+Registrant Street3:
+Registrant City:Gig Harbor
+Registrant State/Province:WA
+Registrant Postal Code:98335
+Registrant Country:US
+Registrant Phone:+0.2538534971
+Registrant Phone Ext.:
+Registrant FAX:+0.4085471650
+Registrant FAX Ext.:
+Registrant Email:ocdottie@yahoo.com
+Admin ID:DI_1318672
+Admin Name:Linda Donn (2803441438)
+Admin Organization:Mr. Donn &amp; Maxie
+Admin Street1:4805 52nd Street Ct NW
+Admin Street2:NA
+Admin Street3:
+Admin City:Gig Harbor
+Admin State/Province:WA
+Admin Postal Code:98335
+Admin Country:US
+Admin Phone:+0.2538534971
+Admin Phone Ext.:
+Admin FAX:+0.4085471650
+Admin FAX Ext.:
+Admin Email:ocdottie@yahoo.com
+Tech ID:DI_1318672
+Tech Name:Linda Donn (2803441438)
+Tech Organization:Mr. Donn &amp; Maxie
+Tech Street1:4805 52nd Street Ct NW
+Tech Street2:NA
+Tech Street3:
+Tech City:Gig Harbor
+Tech State/Province:WA
+Tech Postal Code:98335
+Tech Country:US
+Tech Phone:+0.2538534971
+Tech Phone Ext.:
+Tech FAX:+0.4085471650
+Tech FAX Ext.:
+Tech Email:ocdottie@yahoo.com
+Name Server:NS1.BRAVEHOST.COM
+Name Server:NS2.BRAVEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

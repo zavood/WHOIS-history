@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 11-feb-2003
    Expiration Date: 11-feb-2014
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 07:07:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 07:46:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: criticalsystemsinc.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sat Sep 17 02:57:47 EDT 2011
+Date and Time of Query: Sun Sep 18 03:36:11 EDT 2011
 Reason Code: IE

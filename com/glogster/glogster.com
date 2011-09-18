@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 05-dec-2006
    Expiration Date: 05-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:06:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 07:24:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,7 +74,7 @@ status:       lock
 created:      2006-12-05 08:44:06 UTC
 modified:     2011-02-22 10:16:07 UTC
 expires:      2011-12-05 08:44:06 UTC
-query-source: 174.142.225.246
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-1682693
 person:       Glogster a.s. Glogster a.s.
@@ -98,8 +98,8 @@ country:      CZ
 phone:        +420.296332211
 
 source:       joker.com live whois service
-query-time:   0.007704
-db-updated:   2011-09-12 22:07:21
+query-time:   0.011198
+db-updated:   2011-09-18 07:24:43
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

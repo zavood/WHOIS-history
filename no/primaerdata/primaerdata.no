@@ -1,0 +1,38 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: PRI1857D-NORID
+Domain Name................: primaerdata.no
+Domain Holder Handle.......: MIDA2O-NORID
+Registrar Handle...........: REG48-NORID
+Legal-c Handle.............: MS3917P-NORID
+Tech-c Handle..............: MIT7P-NORID
+Name Server Handle.........: A77H-NORID
+Name Server Handle.........: F12H-NORID
+Name Server Handle.........: G13H-NORID
+Name Server Handle.........: L9H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-18
+
+NORID Handle...............: MIDA2O-NORID
+Type.......................: organization
+Name.......................: MELBOURNE IT DBS AS
+Id Type....................: organization_number
+Id Number..................: 992238127
+Registrar Handle...........: REG48-NORID
+Post Address...............: c/o Visma Services Norge AS Gjerdrums vei
+Postal Code................: NO-0484
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.24159554
+Fax Number.................: +47.24159710
+Email Address..............: admin@melbourneitdbs.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2011-07-08
+

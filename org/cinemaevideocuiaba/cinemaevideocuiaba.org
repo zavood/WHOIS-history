@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D108328407-LROR
+Domain Name:CINEMAEVIDEOCUIABA.ORG
+Created On:10-Nov-2005 13:22:55 UTC
+Last Updated On:08-Nov-2010 19:18:06 UTC
+Expiration Date:10-Nov-2011 13:22:55 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuJ7b2lriEwqloR4
+Registrant Name:Primeiro Plano Cinema e Video
+Registrant Organization:Primeiro Plano Cinema e Video
+Registrant Street1:Rua Porcino do Amarante, 157
+Registrant Street2:
+Registrant Street3:
+Registrant City:CUIABA
+Registrant State/Province:MT
+Registrant Postal Code:78005-000
+Registrant Country:BR
+Registrant Phone:+55.65624
+Registrant Phone Ext.:5331
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:luizborges@cinemaevideocuiaba.com.br
+Admin ID:tu7s2fUFHHG84O7j
+Admin Name:Terra Empresas
+Admin Organization:Terra Networks Brasil SA
+Admin Street1:Av. das Nacoes Unidas, 12.901
+Admin Street2:Torre Norte
+Admin Street3:
+Admin City:Sao_Paulo
+Admin State/Province:SP
+Admin Postal Code:04578-000
+Admin Country:BR
+Admin Phone:+55.1155090500
+Admin Phone Ext.:0500
+Admin FAX:+55.1155090500
+Admin FAX Ext.:0500
+Admin Email:operte@terra.com.br
+Tech ID:tuKJJsjc6FK996fG
+Tech Name:Terra Empresas
+Tech Organization:Terra Networks Brasil SA
+Tech Street1:Av. das Nacoes Unidas, 12.901
+Tech Street2:Torre Norte
+Tech Street3:
+Tech City:Sao_Paulo
+Tech State/Province:SP
+Tech Postal Code:04578-000
+Tech Country:BR
+Tech Phone:+55.1155090500
+Tech Phone Ext.:0500
+Tech FAX:+55.1155090500
+Tech FAX Ext.:0500
+Tech Email:operte@terra.com.br
+Name Server:NS2.TERRAEMPRESAS.COM.BR
+Name Server:NS3.TERRAEMPRESAS.COM.BR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

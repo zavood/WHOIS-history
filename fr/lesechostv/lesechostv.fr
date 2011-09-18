@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; lesechostv.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lesechostv.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LES62-FRNIC
+admin-c:     IS1600-FRNIC
+tech-c:      DT1958-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL7894-FRNIC
+registrar:   NAMESHIELD
+anniversary: 14/11
+created:     19/08/2008
+last-update: 15/06/2009
+source:      FRNIC
+
+ns-list:     NSL7894-FRNIC
+nserver:     observatoire.observatoiredesmarques.fr [62.93.195.146]
+nserver:     ns2.observatoiredesmarques.fr [80.74.69.8]
+nserver:     ns3.nameshield.net
+source:      FRNIC
+
+registrar:   NAMESHIELD
+type:        Isp Option 1
+address:     16 Rue de St P&eacute;tersbourg
+address:     PARIS
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      jpbechu@nameshield.net
+website:     http://www.nameshield.net
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     LES62-FRNIC
+type:        ORGANIZATION
+contact:     LES ECHOS SA
+address:     16, rue du Quatre Septembre
+address:     75112 Paris Cedex 2
+country:     FR
+phone:       +33 1 49 53 65 65
+fax-no:      +33 1 45 61 48 92
+e-mail:      jcfalloux@lesechos.fr
+changed:     11/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     IS1600-FRNIC
+type:        PERSON
+contact:     Internet Service
+address:     LES ECHOS SAS
+address:     16, rue du quatre septembre
+address:     75112 Paris
+country:     FR
+phone:       +33 1 49 53 65 65
+fax-no:      +33 1 45 61 48 92
+e-mail:      pquemener@lesechos.fr
+changed:     17/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DT1958-FRNIC
+type:        PERSON
+contact:     Department Technical
+address:     NAMESHIELD
+address:     27, rue des arenes
+address:     49100 Angers
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      technical@nameshield.net
+changed:     12/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

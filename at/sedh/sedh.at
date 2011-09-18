@@ -1,0 +1,68 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         sedh.at
+registrant:     CK7796165-NICAT
+admin-c:        CK7796166-NICAT
+tech-c:         DHI7796167-NICAT
+nserver:        ns1.dot5hosting.com
+remarks:        66.96.142.106
+nserver:        ns2.dot5hosting.com
+remarks:        65.254.254.142
+changed:        20110104 20:36:47
+source:         AT-DOM
+
+personname:     Christian Kranabetter
+organization:
+street address: Kirschnerwaldstrasse 78
+postal code:    3040
+city:           Neulengbach
+country:        Austria
+phone:          +436509634848
+e-mail:         ck@swsk.at
+nic-hdl:        CK7796165-NICAT
+changed:        20110104 20:36:46
+source:         AT-DOM
+
+personname:     Christian Kranabetter
+organization:
+street address: Kirschnerwaldstrasse 78
+postal code:    3040
+city:           Neulengbach
+country:        Austria
+phone:          +436509634848
+e-mail:         ck@swsk.at
+nic-hdl:        CK7796166-NICAT
+changed:        20110104 20:36:47
+source:         AT-DOM
+
+personname:     Domain Manager
+organization:   Dot5Hosting, Inc.
+street address: 919 East Jefferson Blvd.
+postal code:    85034
+city:           Phoenix
+country:        United States
+nic-hdl:        DHI7796167-NICAT
+changed:        20110104 20:36:47
+source:         AT-DOM
+

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 27-nov-2004
    Expiration Date: 27-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 13:08:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 06:58:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,3 +54,70 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+=-=-=-=
+Visit AboutUs.org for more information about hrmssolutions.com
+&lt;a href=&quot;http://www.aboutus.org/hrmssolutions.com&quot;&gt;AboutUs: hrmssolutions.com&lt;/a&gt;
+
+
+Domain name: hrmssolutions.com
+
+Registrant Contact:
+   HRMS Solutions, Inc.
+   Mike Maiorino ()
+
+   Fax:
+   3033 O Street NW
+   Washington, DC 20007
+   USA
+
+Administrative Contact:
+   HRMS Solutions, Inc.
+   Mike Maiorino (mike@hrmssolutions.com)
+   +1.2029653935
+   Fax:
+   3033 O Street NW
+   Washington, DC 20007
+   USA
+
+Technical Contact:
+   HRMS Solutions, Inc.
+   Mike Maiorino (mike@hrmssolutions.com)
+   +1.2029653935
+   Fax:
+   3033 O Street NW
+   Washington, DC 20007
+   USA
+
+Status: Locked
+
+Name Servers:
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
+
+Creation date: 27 Nov 2004 15:24:00
+Expiration date: 27 Nov 2011 15:24:00
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

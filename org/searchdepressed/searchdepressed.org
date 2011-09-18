@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161250405-LROR
+Domain Name:SEARCHDEPRESSED.ORG
+Created On:19-Jan-2011 20:26:39 UTC
+Last Updated On:21-Mar-2011 03:49:50 UTC
+Expiration Date:19-Jan-2012 20:26:39 UTC
+Sponsoring Registrar:Bizcn.com, Inc. (R1248-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:orgos95468796340
+Registrant Name:Owen Stockdale
+Registrant Organization:OwenStockdale
+Registrant Street1:143 Shirley Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Staten Island
+Registrant State/Province:NY
+Registrant Postal Code:10312
+Registrant Country:US
+Registrant Phone:+1.7189841147
+Registrant Phone Ext.:
+Registrant FAX:+1.7189841147
+Registrant FAX Ext.:
+Registrant Email:OwenStockdale@hotmailbox.com
+Admin ID:orgos95468796862
+Admin Name:Owen Stockdale
+Admin Organization:OwenStockdale
+Admin Street1:143 Shirley Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Staten Island
+Admin State/Province:NY
+Admin Postal Code:10312
+Admin Country:US
+Admin Phone:+1.7189841147
+Admin Phone Ext.:
+Admin FAX:+1.7189841147
+Admin FAX Ext.:
+Admin Email:OwenStockdale@hotmailbox.com
+Tech ID:orgos95468797347
+Tech Name:Owen Stockdale
+Tech Organization:OwenStockdale
+Tech Street1:143 Shirley Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Staten Island
+Tech State/Province:NY
+Tech Postal Code:10312
+Tech Country:US
+Tech Phone:+1.7189841147
+Tech Phone Ext.:
+Tech FAX:+1.7189841147
+Tech FAX Ext.:
+Tech Email:OwenStockdale@hotmailbox.com
+Name Server:NS1.SEARCHDEPRESSED.ORG
+Name Server:NS2.SEARCHDEPRESSED.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

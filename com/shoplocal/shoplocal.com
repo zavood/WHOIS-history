@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 24-sep-1998
    Expiration Date: 27-dec-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:08:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 07:13:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: shoplocal.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 14:58:49 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sun Sep 18 03:03:04 EDT 2011
 Reason Code: IE

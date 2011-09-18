@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154702323-LROR
+Domain Name:PAZELUZ.ORG
+Created On:16-Nov-2008 15:09:07 UTC
+Last Updated On:14-Nov-2010 11:02:58 UTC
+Expiration Date:16-Nov-2011 15:09:07 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuhrT3xl7uuB2elx
+Registrant Name:ELOCI GLORIA DE MELO
+Registrant Organization:ELOCI GLORIA DE MELO
+Registrant Street1:RUA PE JOAO BATISTA REUS, 2483
+Registrant Street2:
+Registrant Street3:
+Registrant City:PORTO ALEGRE
+Registrant State/Province:RIO GRANDE DO SUL
+Registrant Postal Code:91920-001
+Registrant Country:BR
+Registrant Phone:+55.5132684605
+Registrant Phone Ext.:4605
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:elomel@terra.com.br
+Admin ID:tu0lkTafQGPfTc3X
+Admin Name:Terra Empresas
+Admin Organization:Terra Networks Brasil SA
+Admin Street1:Av. das Nacoes Unidas, 12.901
+Admin Street2:Torre Norte
+Admin Street3:
+Admin City:Sao_Paulo
+Admin State/Province:SP
+Admin Postal Code:04578-000
+Admin Country:BR
+Admin Phone:+55.1155090500
+Admin Phone Ext.:0500
+Admin FAX:+55.1155090500
+Admin FAX Ext.:0500
+Admin Email:operte@terra.com.br
+Tech ID:tuDmUSF95RoSMzMZ
+Tech Name:Terra Empresas
+Tech Organization:Terra Networks Brasil SA
+Tech Street1:Av. das Nacoes Unidas, 12.901
+Tech Street2:Torre Norte
+Tech Street3:
+Tech City:Sao_Paulo
+Tech State/Province:SP
+Tech Postal Code:04578-000
+Tech Country:BR
+Tech Phone:+55.1155090500
+Tech Phone Ext.:0500
+Tech FAX:+55.1155090500
+Tech FAX Ext.:0500
+Tech Email:operte@terra.com.br
+Name Server:NS2.TERRAEMPRESAS.COM.BR
+Name Server:NS3.TERRAEMPRESAS.COM.BR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

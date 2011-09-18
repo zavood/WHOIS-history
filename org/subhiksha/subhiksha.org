@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157309315-LROR
+Domain Name:SUBHIKSHA.ORG
+Created On:10-Oct-2009 07:12:25 UTC
+Last Updated On:03-Aug-2011 20:16:52 UTC
+Expiration Date:10-Oct-2011 07:12:25 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:44014253-NSI
+Registrant Name:kishorekumar pondi
+Registrant Street1:Plot 260, Opp Community Hall
+Registrant Street2:MIG - II, 9th Phase, KPHB Colo
+Registrant Street3:
+Registrant City:HY
+Registrant State/Province:AP
+Registrant Postal Code:500072
+Registrant Country:IN
+Registrant Phone:+1.9550970369
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kishorekumar.pondi@gmail.com
+Admin ID:44014253-NSI
+Admin Name:kishorekumar pondi
+Admin Street1:Plot 260, Opp Community Hall
+Admin Street2:MIG - II, 9th Phase, KPHB Colo
+Admin Street3:
+Admin City:HY
+Admin State/Province:AP
+Admin Postal Code:500072
+Admin Country:IN
+Admin Phone:+1.9550970369
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:kishorekumar.pondi@gmail.com
+Tech ID:16894540-NSI
+Tech Name:Rediff.com India Limited
+Tech Organization:Rediff.com India Limited
+Tech Street1:L J First Cross Rd, Mahim-W
+Tech Street2:
+Tech Street3:
+Tech City:Mumbai
+Tech State/Province:MH
+Tech Postal Code:400016
+Tech Country:IN
+Tech Phone:+1.912244491
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domaintech@rediff.co.in
+Name Server:DNS1.VALIDNS.COM
+Name Server:DNS2.VALIDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

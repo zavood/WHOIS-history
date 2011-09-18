@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152234723-LROR
+Domain Name:WINESOFTURKEY.ORG
+Created On:02-Apr-2008 15:41:28 UTC
+Last Updated On:03-Apr-2011 12:28:03 UTC
+Expiration Date:02-Apr-2012 15:41:28 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_320941
+Registrant Name:Sirius Interactive
+Registrant Organization:Sirius Interaktif Internet Reklam Bilisim Teknolojileri San. Tic
+Registrant Street1:Serasker Cad. No:106 K:4 Bahariye
+Registrant Street2:Kadikoy
+Registrant Street3:771 031 9592
+Registrant City:Istanbul
+Registrant State/Province:Istanbul
+Registrant Postal Code:34435
+Registrant Country:TR
+Registrant Phone:+90.2167001722
+Registrant Phone Ext.:
+Registrant FAX:+90.2167001724
+Registrant FAX Ext.:
+Registrant Email:dns@sirius.com.tr
+Admin ID:DI_320941
+Admin Name:Sirius Interactive
+Admin Organization:Sirius Interaktif Internet Reklam Bilisim Teknolojileri San. Tic
+Admin Street1:Serasker Cad. No:106 K:4 Bahariye
+Admin Street2:Kadikoy
+Admin Street3:771 031 9592
+Admin City:Istanbul
+Admin State/Province:Istanbul
+Admin Postal Code:34435
+Admin Country:TR
+Admin Phone:+90.2167001722
+Admin Phone Ext.:
+Admin FAX:+90.2167001724
+Admin FAX Ext.:
+Admin Email:dns@sirius.com.tr
+Tech ID:DI_320941
+Tech Name:Sirius Interactive
+Tech Organization:Sirius Interaktif Internet Reklam Bilisim Teknolojileri San. Tic
+Tech Street1:Serasker Cad. No:106 K:4 Bahariye
+Tech Street2:Kadikoy
+Tech Street3:771 031 9592
+Tech City:Istanbul
+Tech State/Province:Istanbul
+Tech Postal Code:34435
+Tech Country:TR
+Tech Phone:+90.2167001722
+Tech Phone Ext.:
+Tech FAX:+90.2167001724
+Tech FAX Ext.:
+Tech Email:dns@sirius.com.tr
+Name Server:TITAN.RADORE.COM
+Name Server:JANUS.RADORE.COM
+Name Server:MIMAS.RH.COM.TR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

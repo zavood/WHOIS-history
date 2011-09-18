@@ -9,18 +9,16 @@ for detailed information.
    Registrar: MONIKER ONLINE SERVICES, INC.
    Whois Server: whois.moniker.com
    Referral URL: http://www.moniker.com
-   Name Server: NS1.MONIKERDNS.NET
-   Name Server: NS2.MONIKERDNS.NET
-   Name Server: NS3.MONIKERDNS.NET
-   Name Server: NS4.MONIKERDNS.NET
+   Name Server: NS3.ROOKDNS.COM
+   Name Server: NS4.ROOKDNS.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 10-aug-2011
+   Updated Date: 16-sep-2011
    Creation Date: 17-oct-2007
    Expiration Date: 17-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 22:47:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 07:15:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -136,13 +134,11 @@ Technical Contact [1557384]:
 
 Domain servers in listed order:
 
-        NS1.MONIKERDNS.NET         208.73.210.41
-        NS2.MONIKERDNS.NET         208.73.211.42
-        NS3.MONIKERDNS.NET         208.73.210.43
-        NS4.MONIKERDNS.NET         208.73.211.44
+        NS3.ROOKDNS.COM
+        NS4.ROOKDNS.COM
 
         Record created on:        2007-10-17 16:33:42.0
-        Database last updated on: 2011-08-10 08:11:07.203
+        Database last updated on: 2011-09-16 07:53:08.82
         Domain Expires on:        2011-10-17 16:33:42.0
 
 

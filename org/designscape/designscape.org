@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D85600278-LROR
+Domain Name:DESIGNSCAPE.ORG
+Created On:15-Apr-2002 09:52:48 UTC
+Last Updated On:11-Mar-2011 10:50:58 UTC
+Expiration Date:15-Apr-2012 09:52:48 UTC
+Sponsoring Registrar:Web Werks India pvt (R1587-LROR)
+Status:OK
+Registrant ID:dford_1589363995
+Registrant Name:Mukesh Vasa
+Registrant Organization:designscape
+Registrant Street1:Lohar Chwal
+Registrant Street2:
+Registrant Street3:
+Registrant City:Mumbai
+Registrant State/Province:Maharashtra
+Registrant Postal Code:400002
+Registrant Country:IN
+Registrant Phone:+91.284802582
+Registrant Phone Ext.:000
+Registrant FAX:+91.284802582
+Registrant FAX Ext.:000
+Registrant Email:mukesh@designscape.co.in
+Admin ID:dford_196089214
+Admin Name:Mukesh Vasa
+Admin Organization:designscape
+Admin Street1:Lohar Chwal
+Admin Street2:
+Admin Street3:
+Admin City:Mumbai
+Admin State/Province:Maharashtra
+Admin Postal Code:400002
+Admin Country:IN
+Admin Phone:+91.284802582
+Admin Phone Ext.:000
+Admin FAX:+91.284802582
+Admin FAX Ext.:000
+Admin Email:mukesh@designscape.co.in
+Tech ID:dford_844504978
+Tech Name:Mukesh Vasa
+Tech Organization:designscape
+Tech Street1:Lohar Chwal
+Tech Street2:
+Tech Street3:
+Tech City:Mumbai
+Tech State/Province:Maharashtra
+Tech Postal Code:400002
+Tech Country:IN
+Tech Phone:+91.284802582
+Tech Phone Ext.:000
+Tech FAX:+91.284802582
+Tech FAX Ext.:000
+Tech Email:mukesh@designscape.co.in
+Name Server:NS5.INDIAWEBHOSTING.COM
+Name Server:NS6.INDIAWEBHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

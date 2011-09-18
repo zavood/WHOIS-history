@@ -14,11 +14,10 @@ Contacto T&eacute;cnico (Technical Contact):
 
 Servidores de nombre (Domain servers):
     ns.fusionadns.cl (190.82.74.66)
-    secundario.nic.cl (200.7.5.7)
-    ns2.fusionadns.cl (190.96.68.62)
+    ns2.fusionadns.cl (200.27.39.130)
 
 &Uacute;ltima modificaci&oacute;n al formulario
-    (Database last updated on): 31 de mayo de 2010 (14:12:09 GMT)
+    (Database last updated on): 13 de septiembre de 2011 (00:09:09 GMT)
 
 M&aacute;s informaci&oacute;n (More information):
     http://www.nic.cl/cgi-bin/dom-CL?q=fusionadns

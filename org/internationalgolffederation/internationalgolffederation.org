@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D75997468-LROR
+Domain Name:INTERNATIONALGOLFFEDERATION.ORG
+Created On:13-Aug-2001 20:48:02 UTC
+Last Updated On:15-Jul-2011 09:50:05 UTC
+Expiration Date:13-Aug-2012 20:47:57 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:569e43460b4
+Registrant Name:Anthony  Utitus
+Registrant Organization:UnitedStatesGolfAssociation
+Registrant Street1:P.O.Box708
+Registrant Street2:
+Registrant Street3:
+Registrant City:FarHills
+Registrant State/Province:NJ
+Registrant Postal Code:07931
+Registrant Country:US
+Registrant Phone:+1.9082342300
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:weblegal@usga.org
+Admin ID:569e43460b4
+Admin Name:Anthony  Utitus
+Admin Organization:UnitedStatesGolfAssociation
+Admin Street1:P.O.Box708
+Admin Street2:
+Admin Street3:
+Admin City:FarHills
+Admin State/Province:NJ
+Admin Postal Code:07931
+Admin Country:US
+Admin Phone:+1.9082342300
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:weblegal@usga.org
+Tech ID:0FC768581E2DBD25
+Tech Name:Webmaster USGA
+Tech Organization:United States Golf Association
+Tech Street1:P.O. Box 708
+Tech Street2:
+Tech Street3:
+Tech City:Far Hills
+Tech State/Province:New Jersey
+Tech Postal Code:07931
+Tech Country:US
+Tech Phone:+1.9082342300
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webmaster@usga.org
+Name Server:NS-EAST.CERF.NET
+Name Server:NS-WEST.CERF.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

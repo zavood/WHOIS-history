@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155756816-LROR
+Domain Name:CRYSTALCATHEDRALMUSIC.ORG
+Created On:29-Mar-2009 22:31:03 UTC
+Last Updated On:28-Feb-2011 11:14:17 UTC
+Expiration Date:29-Mar-2012 22:31:03 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:4c4b08d27e6ecd68
+Registrant Name:Derek  Usinger
+Registrant Organization:Christian Ringtunes
+Registrant Street1:1400 Colorado St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Boulder City
+Registrant State/Province:NV
+Registrant Postal Code:89005
+Registrant Country:US
+Registrant Phone:+1.8056490000
+Registrant Phone Ext.:
+Registrant FAX:+1.8056490000
+Registrant FAX Ext.:
+Registrant Email:Derekus@msn.com
+Admin ID:4c4b08d27e6ecd68
+Admin Name:Derek  Usinger
+Admin Organization:Christian Ringtunes
+Admin Street1:1400 Colorado St.
+Admin Street2:
+Admin Street3:
+Admin City:Boulder City
+Admin State/Province:NV
+Admin Postal Code:89005
+Admin Country:US
+Admin Phone:+1.8056490000
+Admin Phone Ext.:
+Admin FAX:+1.8056490000
+Admin FAX Ext.:
+Admin Email:Derekus@msn.com
+Tech ID:4c4b08d27e6ecd68
+Tech Name:Derek  Usinger
+Tech Organization:Christian Ringtunes
+Tech Street1:1400 Colorado St.
+Tech Street2:
+Tech Street3:
+Tech City:Boulder City
+Tech State/Province:NV
+Tech Postal Code:89005
+Tech Country:US
+Tech Phone:+1.8056490000
+Tech Phone Ext.:
+Tech FAX:+1.8056490000
+Tech FAX Ext.:
+Tech Email:Derekus@msn.com
+Name Server:NS1.DATAXBASE.NET
+Name Server:NS2.DATAXBASE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

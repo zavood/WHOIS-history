@@ -1,0 +1,98 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         surfer.at
+registrant:     TWG2577439-NICAT
+admin-c:        LG2577441-NICAT
+tech-c:         HTW2577442-NICAT
+tech-c:         HTW2577440-NICAT
+nserver:        ns1.telekabel.at
+remarks:        195.34.133.10
+nserver:        ns2.telekabel.at
+remarks:        195.34.133.11
+changed:        20061205 14:01:21
+source:         AT-DOM
+
+personname:
+organization:   Telekabel Wien GmbH
+street address: Erlachgasse 116
+postal code:    A-1100
+city:           Vienna
+country:        Austria
+phone:          +43196060
+fax-no:         +43196060364
+e-mail:         hostmaster@teleweb.at
+nic-hdl:        TWG2577439-NICAT
+changed:        20061205 14:01:20
+source:         AT-DOM
+
+personname:     Lorenz Glatz
+organization:
+street address: Chello Broadband GmbH
+street address: Erlachgasse 116
+street address: A-1100 Vienna
+street address: Austria
+postal code:
+city:
+country:
+phone:          +43196060
+fax-no:         +43196060364
+e-mail:         lglatz@chello.at
+nic-hdl:        LG2577441-NICAT
+changed:        20061205 14:01:21
+source:         AT-DOM
+
+personname:     Hostmaster Telekabel Wien
+organization:
+street address: Internet Services
+street address: chello Broadband GmbH
+street address: A-1100 Vienna
+street address: Reumannplatz 7
+street address: Austria
+postal code:
+city:
+country:
+phone:          +43196062
+fax-no:         +431960625666
+e-mail:         hostmaster@chello.at
+nic-hdl:        HTW2577442-NICAT
+changed:        20061205 14:01:21
+source:         AT-DOM
+
+personname:     Hostmaster Telekabel Wien
+organization:
+street address: Internet Services
+street address: chello Broadband GmbH
+street address: A-1100 Vienna
+street address: Reumannplatz 7
+street address: Austria
+postal code:
+city:
+country:
+phone:          +43196062
+fax-no:         +431960625666
+e-mail:         hostmaster@chello.at
+nic-hdl:        HTW2577440-NICAT
+changed:        20061205 14:01:20
+source:         AT-DOM
+

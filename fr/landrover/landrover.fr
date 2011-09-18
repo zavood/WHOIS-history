@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; landrover.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      landrover.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    FA2013-FRNIC
+admin-c:     CR2195-FRNIC
+tech-c:      CR1286-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2268-FRNIC
+registrar:   MELBOURNE IT CBS AB
+anniversary: 06/02
+created:     24/04/2008
+last-update: 06/02/2009
+source:      FRNIC
+
+ns-list:     NSL2268-FRNIC
+nserver:     ns1.internet-fr.net
+nserver:     ns2.internet-fr.net
+source:      FRNIC
+
+registrar:   MELBOURNE IT CBS AB
+type:        Isp Option 1
+address:     Box 3396
+address:     10368 STOCKHOLM
+country:     SE
+phone:       +46 8 553 402 00
+fax-no:      +46 8 553 402 01
+e-mail:      registry@melbourneitcbs.fr
+website:     http://www.melbourneitcbs.fr/
+anonymous:   NO
+registered:  29/11/2004
+source:      FRNIC
+
+nic-hdl:     FA2013-FRNIC
+type:        ORGANIZATION
+contact:     FMC Automobiles
+address:     34, rue de la Croix de Fer
+address:     78127 Saint-Germain-en-Laye Cedex
+country:     FR
+phone:       +33 1 61 01 61 70
+fax-no:      +33 1 61 01 61 90
+e-mail:      domains@landrover.com
+changed:     06/02/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CR2195-FRNIC
+type:        PERSON
+contact:     Cbs Registry
+address:     Melbourne IT CBS
+address:     52, boulevard Sebastopol
+address:     75003 Paris
+country:     FR
+phone:       +33 1 72 74 55 16
+fax-no:      +33 1 72 74 55 97
+e-mail:      registry@melbourneitcbs.com
+changed:     14/03/2007 registry@melbourneitcbs.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CR1286-FRNIC
+type:        ROLE
+contact:     CBS Registry
+address:     Melbourne IT CBS AB
+address:     Box 3396
+address:     10368 Stockholm
+address:     SE
+phone:       +46 8 553 402 00
+e-mail:      registry@melbourneitcbs.com
+admin-c:     CR2195-FRNIC
+tech-c:      CR1285-FRNIC
+notify:      registry@melbourneitcbs.com
+changed:     10/04/2008 registry@melbourneitcbs.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
