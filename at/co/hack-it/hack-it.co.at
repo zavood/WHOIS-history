@@ -1,0 +1,60 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         hack-it.co.at
+registrant:     EBFH7996544-NICAT
+admin-c:        EBFH7996545-NICAT
+tech-c:         EBFH7996545-NICAT
+nserver:        dns3.hack-it.co.at
+remarks:        78.46.94.142
+nserver:        robot.your-server.de
+remarks:        78.46.1.93
+changed:        20110505 04:32:53
+source:         AT-DOM
+
+personname:     Florian Hack
+organization:   EDV Beratung Florian Hack
+street address: Seidenhofstrasse 35
+postal code:    8020
+city:           Graz
+country:        Austria
+phone:          +436605260280
+fax-no:         +433162311234552
+e-mail:         office@hack-it.co.at
+nic-hdl:        EBFH7996544-NICAT
+changed:        20110505 04:32:53
+source:         AT-DOM
+
+personname:     Florian Hack
+organization:   EDV Beratung Florian Hack
+street address: Seidenhofstrasse 35
+postal code:    8020
+city:           Graz
+country:        Austria
+phone:          +436605260280
+fax-no:         +433162311234552
+e-mail:         office@hack-it.co.at
+nic-hdl:        EBFH7996545-NICAT
+changed:        20110505 04:32:53
+source:         AT-DOM
+

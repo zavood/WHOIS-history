@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1522802-LROR
+Domain Name:INTEGRALE.ORG
+Created On:02-Jul-1998 04:00:00 UTC
+Last Updated On:16-Jun-2011 11:26:03 UTC
+Expiration Date:01-Jul-2012 04:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:NF-OWNER-184106
+Registrant Name:Nicolas Gagnon Christian Patenaude
+Registrant Organization:Readaptation L'integrale
+Registrant Street1:75 port royal est
+Registrant Street2:
+Registrant Street3:
+Registrant City:Montreal
+Registrant State/Province:QC
+Registrant Postal Code:H3L 3T1
+Registrant Country:CA
+Registrant Phone:+1.5555555555
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admins@parcometre.ca
+Admin ID:NF-ADMIN-184106
+Admin Name:Nicolas Gagnon Christian Patenaude
+Admin Organization:Readaptation L'integrale
+Admin Street1:75 port royal est
+Admin Street2:
+Admin Street3:
+Admin City:Montreal
+Admin State/Province:QC
+Admin Postal Code:H3L 3T1
+Admin Country:CA
+Admin Phone:+1.5555555555
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admins@parcometre.ca
+Tech ID:NF-TECH-184106
+Tech Name:Administrator DNS
+Tech Organization:SiteProduct Web Services
+Tech Street1:1 N State Street
+Tech Street2:
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:IL
+Tech Postal Code:60602
+Tech Country:US
+Tech Phone:+1.3122362132
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:administrator@siteprotect.com
+Name Server:NS1.PARCOMETRE.CA
+Name Server:NS2.PARCOMETRE.CA
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

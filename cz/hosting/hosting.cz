@@ -1,0 +1,84 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sun Sep 18 06:20:01 2011
+
+domain:       hosting.cz
+registrant:   SB:GLOBE-SGLO000001
+admin-c:      ACTIVE24-HOSTMASTER
+nsset:        NSS:GLOBE-SGLO000001:1
+keyset:       A24-KEYSET
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   03.09.1998 02:00:00
+changed:      04.12.2008 13:48:23
+expire:       28.10.2011
+
+contact:      SB:GLOBE-SGLO000001
+org:          ACTIVE 24
+name:         ACTIVE 24
+address:      Sokolovsk&Atilde;&iexcl; 394/17
+address:      Praha 8
+address:      186 00
+address:      CZ
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      15.01.2009 12:05:57
+
+contact:      ACTIVE24-HOSTMASTER
+org:          ACTIVE 24
+name:         Hostmaster Active24
+address:      Sokolovsk&Atilde;&iexcl; 394/17
+address:      Praha 8
+address:      186 00
+address:      CZ
+phone:        +420.234262000
+fax-no:       +420.234262009
+registrar:    REG-ACTIVE24
+created:      13.12.2004 11:15:00
+changed:      15.01.2009 12:06:36
+
+nsset:        NSS:GLOBE-SGLO000001:1
+nserver:      beta.ns.active24.cz (81.0.238.27, 2001:1528:151::12)
+nserver:      gama.ns.active24.sk
+nserver:      alfa.ns.active24.cz (81.95.96.2, 2a02:4a8:ac24:100::96:2)
+tech-c:       ACTIVE24
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+changed:      19.07.2011 15:27:33
+
+contact:      ACTIVE24
+org:          ACTIVE 24, s.r.o.
+name:         ACTIVE 24, s.r.o.
+address:      Sokolovsk&Atilde;&iexcl; 394/17
+address:      Praha 8
+address:      186 00
+address:      CZ
+phone:        +420.234262000
+fax-no:       +420.234262009
+registrar:    REG-ACTIVE24
+created:      29.04.2008 12:35:02
+changed:      15.01.2009 12:07:49
+
+keyset:       A24-KEYSET
+dnskey:       257 3 5 AQO1gtiQNJnn/9e5cR76I3Tn1ziRs/p4Ba3wq5jvY1ZOAEfulGBxZy59qj3iLWVyWd5dzYF1KqBES6oToCGxMXmVAP+QIAUCjWR71kwlTyCpg7ZMd2PrcGjAzqPOoFlR7vdYGpIslzbwI71OOZQ7CVLDR8slR16qOMC8Yai8IM9dtmptPRPCEdhM/3T576uPtZGVgGFdCixI9XeN3p8q38FsE7T0wbEUYZBwF1AUrlo2T2d9/6v8wdktxGemxPAX6mXWOYfE3xY0zkoAwcHt5HiB1d/cOr6JB0gJto6gHkfBccIlU/2cJ/Bg3K6A3ER8uPFcCGCuMOA2Qb62IDg0XCA76bJlh1BocPzAjlG8beI9dJz3CZTIW0apneNb4lGyGVmAc2GxvrL/y7GHe9UfwqTnKzXDJcCzKahRNB9xD9TCuUIyChinnxys4BXcGRjMEwPttihgdWjFKDXEWgY7QAMAL1s+hQzWM5TZ2FhSw+tlH4GuH+saeVJ40bdppsqXLD8gwrG9bH6lX6Hu/SIG89WLTC08+mbhg1GDXvti9p/Y4u+EfV69eAG85y9F/tOYvR9Us0llWzg2gtnJr1y/qCgT9bVsyp6xGAd30H0Z0pYr/xXzb4TnKVWZoZGEPdh47dAteFW0R+37Nl62l7dOuunQgzY/RQVli3+fG1Gxizn0tQ==
+tech-c:       ACTIVE24
+registrar:    REG-ACTIVE24
+created:      26.11.2008 14:12:02
+
+

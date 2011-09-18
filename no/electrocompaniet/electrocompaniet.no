@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: ELE1585D-NORID
+Domain Name................: electrocompaniet.no
+Domain Holder Handle.......: EA2327O-NORID
+Registrar Handle...........: REG406-NORID
+Legal-c Handle.............: DB616P-NORID
+Tech-c Handle..............: IH27R-NORID
+Name Server Handle.........: DNSI145H-NORID
+Name Server Handle.........: DNSI152H-NORID
+Name Server Handle.........: DNSI74H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-10-20
+
+NORID Handle...............: EA2327O-NORID
+Type.......................: organization
+Name.......................: ELECTROCOMPANIET AS
+Id Type....................: organization_number
+Id Number..................: 987470445
+Registrar Handle...........: REG406-NORID
+Post Address...............: Breivikvegen 7
+Postal Code................: NO-4120
+Postal Area................: TAU
+Country....................: NO
+Phone Number...............: +47.51741033
+Fax Number.................: +47.51741010
+Email Address..............: david@westcontrol.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

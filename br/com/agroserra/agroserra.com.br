@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 01:23:46 (BRT -03:00)
+
+domain:      agroserra.com.br
+owner:       AGROPECUARIA E INDUSTRIAL SERRA GRANDE LTDA
+ownerid:     011.035.672/0001-59
+responsible: PEDRO AUGUSTO TICIANEL
+country:     BR
+owner-c:     EMS515
+admin-c:     EMS515
+tech-c:      EMS515
+billing-c:   EMS515
+nserver:     fw1.agroserra.com.br 189.17.21.101
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     fw2.agroserra.com.br 189.17.21.102
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns.embratel.net.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20001101 #457922
+expires:     20111101
+changed:     20101103
+status:      published
+
+nic-hdl-br:  EMS515
+person:      ELIS M&Ocirc;NICA CASTRO SOUSA
+e-mail:      MONICA@agroserra.com.br
+created:     20040716
+changed:     20110420
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

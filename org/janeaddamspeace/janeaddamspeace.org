@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D86212690-LROR
+Domain Name:JANEADDAMSPEACE.ORG
+Created On:03-May-2002 02:10:50 UTC
+Last Updated On:15-Nov-2009 23:31:20 UTC
+Expiration Date:03-May-2012 02:10:50 UTC
+Sponsoring Registrar:UK2 Group Ltd. (R123-LROR)
+Status:OK
+Registrant ID:SG_188746
+Registrant Name:Jane Addams Peace Association
+Registrant Organization:Not Applicable
+Registrant Street1:777 United Nations Plaza, 6th Floor
+Registrant Street2:
+Registrant Street3:
+Registrant City:New York City
+Registrant State/Province:NY
+Registrant Postal Code:10017
+Registrant Country:US
+Registrant Phone:+1.2126828830
+Registrant Phone Ext.:
+Registrant FAX:+00.0000000
+Registrant FAX Ext.:
+Registrant Email:japa@igc.org
+Admin ID:SG_188746
+Admin Name:Jane Addams Peace Association
+Admin Organization:Not Applicable
+Admin Street1:777 United Nations Plaza, 6th Floor
+Admin Street2:
+Admin Street3:
+Admin City:New York City
+Admin State/Province:NY
+Admin Postal Code:10017
+Admin Country:US
+Admin Phone:+1.2126828830
+Admin Phone Ext.:
+Admin FAX:+00.0000000
+Admin FAX Ext.:
+Admin Email:japa@igc.org
+Tech ID:SG_188746
+Tech Name:Jane Addams Peace Association
+Tech Organization:Not Applicable
+Tech Street1:777 United Nations Plaza, 6th Floor
+Tech Street2:
+Tech Street3:
+Tech City:New York City
+Tech State/Province:NY
+Tech Postal Code:10017
+Tech Country:US
+Tech Phone:+1.2126828830
+Tech Phone Ext.:
+Tech FAX:+00.0000000
+Tech FAX Ext.:
+Tech Email:japa@igc.org
+Name Server:NS.PHX4.NEARLYFREESPEECH.NET
+Name Server:NS.PHX6.NEARLYFREESPEECH.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

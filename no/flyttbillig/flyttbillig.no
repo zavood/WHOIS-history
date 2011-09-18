@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: FLY1189D-NORID
+Domain Name................: flyttbillig.no
+Domain Holder Handle.......: ANTD5O-NORID
+Registrar Handle...........: REG0-NORID
+Legal-c Handle.............: TED65P-NORID
+Tech-c Handle..............: HD104R-NORID
+Tech-c Handle..............: RAB95P-NORID
+Name Server Handle.........: DNSD102H-NORID
+Name Server Handle.........: SEC49H-NORID
+
+Additional information:
+Created:         2007-01-24
+Last updated:    2011-07-12
+
+NORID Handle...............: ANTD5O-NORID
+Type.......................: organization
+Name.......................: AUTOTEST NORGE THOMAS DELERUD
+Id Type....................: organization_number
+Id Number..................: 989853015
+Registrar Handle...........: REG0-NORID
+Post Address...............: Agathe Gr&oslash;ndahls gate 20
+Postal Code................: NO-0478
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.22795454
+Email Address..............: thodel@online.no
+
+Additional information:
+Created:         2010-12-20
+Last updated:    2010-12-20
+

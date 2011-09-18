@@ -1,0 +1,114 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; orange.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      orange.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    OF971-FRNIC
+admin-c:     BLF45-FRNIC
+tech-c:      OH251-FRNIC
+tech-c:      SD3382-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL7005-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 26/04
+created:     02/02/2001
+last-update: 26/04/2011
+source:      FRNIC
+
+ns-list:     NSL7005-FRNIC
+nserver:     ns.wanadoo.fr [80.12.255.24]
+nserver:     ns2.wanadoo.fr [80.12.255.159]
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     OF971-FRNIC
+type:        ORGANIZATION
+contact:     ORANGE FRANCE
+address:     ORANGE FRANCE
+address:     6, place d'Alleray
+address:     75015 Paris
+country:     FR
+phone:       +33 1 45 29 81 93
+fax-no:      +33 1 45 29 42 09
+e-mail:      BEATRICE.LEOPOLDFENU@orange-ftgroup.com
+changed:     22/04/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     BLF45-FRNIC
+type:        PERSON
+contact:     Beatrice Leopold-Fenu
+address:     ORANGE FRANCE
+address:     6, place d'Alleray
+address:     75015 Paris
+country:     FR
+phone:       +33 1 45 29 81 93
+fax-no:      +33 1 45 29 42 09
+e-mail:      BEATRICE.LEOPOLDFENU@orange-ftgroup.com
+changed:     22/04/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SD3382-FRNIC
+type:        PERSON
+contact:     Sylvain Dufier
+address:     ORANGE FRANCE
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      SYLVAIN.DUFIER@orange-ftgroup.com
+changed:     26/04/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

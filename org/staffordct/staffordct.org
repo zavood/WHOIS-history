@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D71281769-LROR
+Domain Name:STAFFORDCT.ORG
+Created On:23-May-2001 17:39:30 UTC
+Last Updated On:21-Jul-2009 00:31:41 UTC
+Expiration Date:23-May-2014 17:39:30 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR3193897
+Registrant Name:Town of Stafford
+Registrant Organization:Town of Stafford
+Registrant Street1:Warren Memorial Town Hall
+Registrant Street2:
+Registrant Street3:
+Registrant City:Stafford Springs
+Registrant State/Province:Connecticut
+Registrant Postal Code:06076
+Registrant Country:US
+Registrant Phone:+1.8606841777
+Registrant Phone Ext.:
+Registrant FAX:+1.8606841777
+Registrant FAX Ext.:
+Registrant Email:pucci@wise-wire.com
+Admin ID:CR3193924
+Admin Name:Town of Stafford
+Admin Organization:Town of Stafford
+Admin Street1:Warren Memorial Town Hall
+Admin Street2:
+Admin Street3:
+Admin City:Stafford Springs
+Admin State/Province:Connecticut
+Admin Postal Code:06076
+Admin Country:US
+Admin Phone:+1.8606841777
+Admin Phone Ext.:
+Admin FAX:+1.8606841777
+Admin FAX Ext.:
+Admin Email:pucci@wise-wire.com
+Tech ID:CR3193911
+Tech Name:Town of Stafford
+Tech Organization:Town of Stafford
+Tech Street1:Warren Memorial Town Hall
+Tech Street2:
+Tech Street3:
+Tech City:Stafford Springs
+Tech State/Province:Connecticut
+Tech Postal Code:06076
+Tech Country:US
+Tech Phone:+1.8606841777
+Tech Phone Ext.:
+Tech FAX:+1.8606841777
+Tech FAX Ext.:
+Tech Email:pucci@wise-wire.com
+Name Server:NS1.SECSRV.NET
+Name Server:NS2.SECSRV.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

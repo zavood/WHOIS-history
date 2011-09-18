@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 19-sep-2006
    Expiration Date: 19-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 16:01:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 04:20:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Friday, 16-Sep-2011 18:02:17 CEST
-# gmt time      : Friday, 16-Sep-2011 16:02:17 GMT
+# local time    : Sunday, 18-Sep-2011 06:21:05 CEST
+# gmt time      : Sunday, 18-Sep-2011 04:21:05 GMT
 # last modify   : Sunday, 19-Sep-2010 08:30:02 CEST
-# request from  : 192.168.248.2:53393
+# request from  : 192.168.248.1:24713
 
 Domain name: kimsufi.com
 

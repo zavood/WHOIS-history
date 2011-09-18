@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 01:29:25 (BRT -03:00)
+
+domain:      construtel.com.br
+owner:       CONSTRUTEL TECNOLOGIA E SERVI&Ccedil;OS S/A
+ownerid:     018.743.724/0036-10
+responsible: GABRIEL NASCIMENTO LACERDA
+country:     BR
+owner-c:     FAR9
+admin-c:     MVF2
+tech-c:      FAR9
+billing-c:   FAR9
+nserver:     ns1.construtel.com.br 200.243.147.5
+nsstat:      20110917 TIMEOUT
+nslastaa:    20080904
+nserver:     ns.embratel.net.br
+nsstat:      20110917 TIMEOUT
+nslastaa:    20081009
+created:     19960704 #10979
+expires:     20120704
+changed:     20100712
+status:      published
+
+nic-hdl-br:  FAR9
+person:      Weligton Oliveira de Souza
+e-mail:      GLACERDA@construtel.com.br
+created:     19980313
+changed:     20050111
+
+nic-hdl-br:  MVF2
+person:      Maria de Lourdes Vasconcelos
+e-mail:      ffbotelho@hotmail.com
+created:     19980105
+changed:     20080912
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

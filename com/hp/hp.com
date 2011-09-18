@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 03-mar-1986
    Expiration Date: 04-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 09:50:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 04:48:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -113,15 +113,15 @@ Registrant:
 
     Created on..............: 1986-03-03.
     Expires on..............: 2012-03-03.
-    Record last updated on..: 2011-04-18.
+    Record last updated on..: 2011-09-16.
 
     Domain servers in listed order:
 
     ns4.hp.com
-    ns5.hp.com
-    ns2.hp.com
     ns3.hp.com
+    ns2.hp.com
     ns6.hp.com
+    ns5.hp.com
     ns1.hp.com
 
 

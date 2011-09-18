@@ -23,7 +23,7 @@ for detailed information.
    Creation Date: 21-jun-1995
    Expiration Date: 20-jun-2020
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 13:00:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 04:59:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -118,13 +118,13 @@ Registrant:
 
     Domain servers in listed order:
 
+    usc2.akam.net
     usw3.akam.net
-    usw1.akam.net
-    ns1-253.akam.net
+    ns1-157.akam.net
     usc4.akam.net
     asia3.akam.net
-    usc2.akam.net
-    ns1-157.akam.net
+    usw1.akam.net
+    ns1-253.akam.net
 
 
 

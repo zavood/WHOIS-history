@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150551785-LROR
+Domain Name:JAAGWM.ORG
+Created On:05-Jan-2008 06:00:06 UTC
+Last Updated On:08-Jan-2011 06:50:06 UTC
+Expiration Date:05-Jan-2012 06:00:06 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:9BD5730841F52EEC
+Registrant Name:Muhammad N  Tariq
+Registrant Organization:AZAD BROTHERS
+Registrant Street1:K-67, Defence View
+Registrant Street2:
+Registrant Street3:
+Registrant City:Karachi
+Registrant State/Province:
+Registrant Postal Code:54770
+Registrant Country:PK
+Registrant Phone:+92.3009215152
+Registrant Phone Ext.:
+Registrant FAX:+92.3009215152
+Registrant FAX Ext.:
+Registrant Email:sales@azadbrothers.com
+Admin ID:9BD5730841F52EEC
+Admin Name:Muhammad N  Tariq
+Admin Organization:AZAD BROTHERS
+Admin Street1:K-67, Defence View
+Admin Street2:
+Admin Street3:
+Admin City:Karachi
+Admin State/Province:
+Admin Postal Code:54770
+Admin Country:PK
+Admin Phone:+92.3009215152
+Admin Phone Ext.:
+Admin FAX:+92.3009215152
+Admin FAX Ext.:
+Admin Email:sales@azadbrothers.com
+Tech ID:9BD5730841F52EEC
+Tech Name:Muhammad N  Tariq
+Tech Organization:AZAD BROTHERS
+Tech Street1:K-67, Defence View
+Tech Street2:
+Tech Street3:
+Tech City:Karachi
+Tech State/Province:
+Tech Postal Code:54770
+Tech Country:PK
+Tech Phone:+92.3009215152
+Tech Phone Ext.:
+Tech FAX:+92.3009215152
+Tech FAX Ext.:
+Tech Email:sales@azadbrothers.com
+Name Server:NS1.THEHOSTINGSOLUTIONS.COM
+Name Server:NS2.THEHOSTINGSOLUTIONS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
