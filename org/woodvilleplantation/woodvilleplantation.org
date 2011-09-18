@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D73076055-LROR
+Domain Name:WOODVILLEPLANTATION.ORG
+Created On:23-Jun-2001 18:50:04 UTC
+Last Updated On:17-Jan-2011 01:40:35 UTC
+Expiration Date:23-Jun-2013 18:50:04 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32032161
+Registrant Name:Douglas Haag
+Registrant Organization:Woodville Plantation
+Registrant Street1:854 MacArthur Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Pittsburgh
+Registrant State/Province:Pennsylvania
+Registrant Postal Code:15228
+Registrant Country:US
+Registrant Phone:+1.4125310559
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jmdhaag@hotmail.com
+Admin ID:CR32032163
+Admin Name:Douglas Haag
+Admin Organization:Woodville Plantation
+Admin Street1:854 MacArthur Drive
+Admin Street2:
+Admin Street3:
+Admin City:Pittsburgh
+Admin State/Province:Pennsylvania
+Admin Postal Code:15228
+Admin Country:US
+Admin Phone:+1.4125310559
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jmdhaag@hotmail.com
+Tech ID:CR32032162
+Tech Name:Douglas Haag
+Tech Organization:Woodville Plantation
+Tech Street1:854 MacArthur Drive
+Tech Street2:
+Tech Street3:
+Tech City:Pittsburgh
+Tech State/Province:Pennsylvania
+Tech Postal Code:15228
+Tech Country:US
+Tech Phone:+1.4125310559
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jmdhaag@hotmail.comcom
+Name Server:A.NS.CELESTIAL.COM
+Name Server:B.NS.CELESTIAL.COM
+Name Server:C.NS.CELESTIAL.COM
+Name Server:D.NS.CELESTIAL.COM
+Name Server:DNS1.MICROLITE.COM
+Name Server:DNS2.MICROLITE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

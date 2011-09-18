@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156652802-LROR
+Domain Name:THAIFLU.ORG
+Created On:15-Jul-2009 06:23:56 UTC
+Last Updated On:16-Jul-2011 01:25:43 UTC
+Expiration Date:15-Jul-2012 06:23:56 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Registrant ID:DOT-IUDL0XD4IFGW
+Registrant Name:kijakarn junda
+Registrant Street1:8/35 moo6 north rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:pattaya
+Registrant State/Province:cholburi
+Registrant Postal Code:20260
+Registrant Country:TH
+Registrant Phone:+66.0816521851
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:doctornuke@doctornuke.com
+Admin ID:DOT-Y1AHB5YQAG5A
+Admin Name:kijakarn junda
+Admin Street1:8/35 moo6 north rd.
+Admin Street2:
+Admin Street3:
+Admin City:pattaya
+Admin State/Province:cholburi
+Admin Postal Code:20260
+Admin Country:TH
+Admin Phone:+66.0816521851
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:doctornuke@doctornuke.com
+Tech ID:DOT-HKIQPDEZ61X5
+Tech Name:kijakarn junda
+Tech Street1:8/35 moo6 north rd.
+Tech Street2:
+Tech Street3:
+Tech City:pattaya
+Tech State/Province:cholburi
+Tech Postal Code:20260
+Tech Country:TH
+Tech Phone:+66.0816521851
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:doctornuke@doctornuke.com
+Name Server:NS1.THAIFLU.ORG
+Name Server:NS3.THAIFLU.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

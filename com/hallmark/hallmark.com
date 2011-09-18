@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 13-sep-1994
    Expiration Date: 12-sep-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 16:26:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 12:15:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 174.142.225.246
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain hallmark.com
-% Timestamp: 2011-09-15 18:27:08
+% Timestamp: 2011-09-18 14:16:26
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

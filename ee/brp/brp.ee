@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       brp.ee
+registrant:   CID:ZONE:176149
+admin-c:      CID:ZONE:176150
+nsset:        NSSID:ZONE:34913
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 04:47:28
+changed:      03.01.2011 14:35:04
+expire:       03.01.2012
+
+contact:      CID:ZONE:176149
+org:          Baltram Print Ltd.
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      03.01.2011 14:35:02
+
+contact:      CID:ZONE:176150
+name:         Marko Arakas
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      03.01.2011 14:35:02
+
+nsset:        NSSID:ZONE:34913
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:176151
+registrar:    zone
+created:      03.01.2011 14:35:03
+
+contact:      CID:ZONE:176151
+name:         Marko Arakas
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      03.01.2011 14:35:02
+
+

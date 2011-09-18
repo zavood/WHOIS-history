@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       pinal.ee
+registrant:   CID:ZONE:104189
+admin-c:      CID:ZONE:104190
+nsset:        NSSID:ZONE:14903
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 05:37:21
+changed:      03.11.2010 09:35:30
+expire:       03.11.2011
+
+contact:      CID:ZONE:104189
+org:          Pinal O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      03.11.2010 09:35:14
+
+contact:      CID:ZONE:104190
+name:         Roland Pihlakas
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      03.11.2010 09:35:14
+
+nsset:        NSSID:ZONE:14903
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:104191
+registrar:    zone
+created:      03.11.2010 09:35:14
+
+contact:      CID:ZONE:104191
+name:         Roland Pihlakas
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      03.11.2010 09:35:13
+
+

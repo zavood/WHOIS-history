@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158749320-LROR
+Domain Name:SHIVASAI.ORG
+Created On:01-Apr-2010 01:36:52 UTC
+Last Updated On:31-May-2010 03:47:41 UTC
+Expiration Date:01-Apr-2020 01:36:52 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR44955781
+Registrant Name:ratna prasad
+Registrant Street1:8-2-135, Balajinagar
+Registrant Street2:Khammam-2
+Registrant Street3:
+Registrant City:Hyderabad
+Registrant State/Province:Andhra Pradesh
+Registrant Postal Code:507002
+Registrant Country:IN
+Registrant Phone:+91.9640435757
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ratnaprasad_t@hotmail.com
+Admin ID:CR44955783
+Admin Name:ratna prasad
+Admin Street1:8-2-135, Balajinagar
+Admin Street2:Khammam-2
+Admin Street3:
+Admin City:Hyderabad
+Admin State/Province:Andhra Pradesh
+Admin Postal Code:507002
+Admin Country:IN
+Admin Phone:+91.9640435757
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ratnaprasad_t@hotmail.com
+Tech ID:CR44955782
+Tech Name:ratna prasad
+Tech Street1:8-2-135, Balajinagar
+Tech Street2:Khammam-2
+Tech Street3:
+Tech City:Hyderabad
+Tech State/Province:Andhra Pradesh
+Tech Postal Code:507002
+Tech Country:IN
+Tech Phone:+91.9640435757
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ratnaprasad_t@hotmail.com
+Name Server:NS07.DOMAINCONTROL.COM
+Name Server:NS08.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

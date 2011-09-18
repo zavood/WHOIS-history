@@ -1,0 +1,105 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; tomsguide.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      tomsguide.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    BOM20-FRNIC
+admin-c:     BOM7-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL19277-FRNIC
+registrar:   GANDI
+anniversary: 26/01
+created:     26/01/2007
+last-update: 24/06/2009
+source:      FRNIC
+
+ns-list:     NSL19277-FRNIC
+nserver:     ns2.ayzo.net
+nserver:     ns3.ayzo.net
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     BOM20-FRNIC
+type:        ORGANIZATION
+contact:     BEST OF MEDIA
+address:     Infos-du-Net
+address:     21, rue Eichenberger
+address:     92800 Puteaux
+country:     FR
+phone:       +33 1 02 03 04 05
+fax-no:      +33 1 41 38 09 01
+e-mail:      49d3ae598172060b145a6099ddad002f-lm791@contact.gandi.net
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     BOM7-FRNIC
+type:        ORGANIZATION
+contact:     BEST OF MEDIA
+address:     19-21, rue Emile Duclaux
+address:     92150 Puteaux
+country:     FR
+phone:       +33 1 41 38 09 03
+fax-no:      +33 1 41 38 09 01
+e-mail:      nomsdedomaine@bestofmedia.com
+changed:     11/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

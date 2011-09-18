@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107790737-LROR
+Domain Name:IVAPM.ORG
+Created On:12-Oct-2005 18:26:09 UTC
+Last Updated On:19-Mar-2010 14:53:01 UTC
+Expiration Date:12-Oct-2015 18:26:09 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:2e02574e84e4191d
+Registrant Name:Terry  Applegate
+Registrant Organization:IVAPM
+Registrant Street1:618 Church Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Nashville
+Registrant State/Province:TN
+Registrant Postal Code:37219
+Registrant Country:US
+Registrant Phone:+1.6153459584
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tapplegate@xmi-amc.com
+Admin ID:eabaf562b933e38b
+Admin Name:Terry  Applegate
+Admin Organization:IVAPM
+Admin Street1:618 Church Street
+Admin Street2:
+Admin Street3:
+Admin City:Nashville
+Admin State/Province:TN
+Admin Postal Code:37219
+Admin Country:US
+Admin Phone:+1.615345954
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tapplegate@xmi-amc.com
+Tech ID:2e02574e84e4191d
+Tech Name:Terry  Applegate
+Tech Organization:IVAPM
+Tech Street1:618 Church Street
+Tech Street2:
+Tech Street3:
+Tech City:Nashville
+Tech State/Province:TN
+Tech Postal Code:37219
+Tech Country:US
+Tech Phone:+1.6153459584
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tapplegate@xmi-amc.com
+Name Server:NS881.WEBSITEWELCOME.COM
+Name Server:NS882.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

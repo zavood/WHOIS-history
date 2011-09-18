@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D132215563-LROR
+Domain Name:PLAPTSAC.ORG
+Created On:04-Nov-2006 12:53:54 UTC
+Last Updated On:18-Nov-2010 19:05:22 UTC
+Expiration Date:04-Nov-2011 12:53:54 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37331954
+Registrant Name:Enrique Grada
+Registrant Organization:Enrique Grada
+Registrant Street1:72 BARRETT CIR SE
+Registrant Street2:
+Registrant Street3:
+Registrant City:Marietta
+Registrant State/Province:Georgia
+Registrant Postal Code:30060
+Registrant Country:US
+Registrant Phone:+1.7703779586
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:plaptsac1@yahoo.com
+Admin ID:CR37331956
+Admin Name:Enrique Grada
+Admin Organization:Enrique Grada
+Admin Street1:72 BARRETT CIR SE
+Admin Street2:
+Admin Street3:
+Admin City:Marietta
+Admin State/Province:Georgia
+Admin Postal Code:30060
+Admin Country:US
+Admin Phone:+1.7703779586
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:plaptsac1@yahoo.com
+Tech ID:CR37331955
+Tech Name:YahooDomains TechContact
+Tech Organization:Yahoo! Inc
+Tech Street1:701 First Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Sunnyvale
+Tech State/Province:California
+Tech Postal Code:94089
+Tech Country:US
+Tech Phone:+1.6198813096
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain.tech@yahoo-inc.com
+Name Server:NS5.BOXSECURED.COM
+Name Server:NS6.BOXSECURED.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 20-mar-1996
    Expiration Date: 21-mar-2015
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 21:14:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 12:04:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,5 +74,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: liveworld.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 17:03:52 EDT 2011
+Date and Time of Query: Sun Sep 18 07:54:08 EDT 2011
 Reason Code: IE

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153475928-LROR
+Domain Name:VFYMCA.ORG
+Created On:29-Jul-2008 15:06:55 UTC
+Last Updated On:28-Sep-2008 03:54:11 UTC
+Expiration Date:29-Jul-2013 15:06:55 UTC
+Sponsoring Registrar:TLDs L.L.C. d/b/a SRSPlus (R78-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:3518286-SRSPLUS
+Registrant Name:David Dewkett
+Registrant Organization:The Greater Daytona Beac
+Registrant Street1:825 Derbyshire Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Daytona Beach
+Registrant State/Province:FL
+Registrant Postal Code:32117
+Registrant Country:US
+Registrant Phone:+1.3862535675
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ddewkett@daytonaymca.org
+Admin ID:3643458-SRSPLUS
+Admin Name:Bill Zachary
+Admin Organization:Zgraph, Inc.
+Admin Street1:140 S. Beach Street - Suite 10
+Admin Street2:
+Admin Street3:
+Admin City:Daytona Beach
+Admin State/Province:FL
+Admin Postal Code:32114
+Admin Country:US
+Admin Phone:+1.3862555556
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:billz@zgraph.com
+Tech ID:3643458-SRSPLUS
+Tech Name:Bill Zachary
+Tech Organization:Zgraph, Inc.
+Tech Street1:140 S. Beach Street - Suite 10
+Tech Street2:
+Tech Street3:
+Tech City:Daytona Beach
+Tech State/Province:FL
+Tech Postal Code:32114
+Tech Country:US
+Tech Phone:+1.3862555556
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:billz@zgraph.com
+Name Server:NS.ZGRAPH.NET
+Name Server:NS2.ZGRAPH.NET
+Name Server:NS3.ZGRAPH.NET
+Name Server:NS4.ZGRAPH.NET
+Name Server:NS5.ZGRAPH.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

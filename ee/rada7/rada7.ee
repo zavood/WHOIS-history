@@ -1,0 +1,41 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       rada7.ee
+registrant:   CID:ZONE:77010
+admin-c:      CID:ZONE:77011
+nsset:        NSSID:ZONE:8153
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 05:47:22
+changed:      21.09.2010 10:25:17
+expire:       21.09.2012
+
+contact:      CID:ZONE:77010
+org:          Rada7.ee MT&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      21.09.2010 10:25:10
+
+contact:      CID:ZONE:77011
+name:         Ivo Kiviorg
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      21.09.2010 10:25:10
+
+nsset:        NSSID:ZONE:8153
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:77012
+registrar:    zone
+created:      21.09.2010 10:25:10
+
+contact:      CID:ZONE:77012
+org:          Rada7.ee MT&Atilde;œ
+name:         Ivo Kiviorg
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      21.09.2010 10:25:10
+
+

@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 07-nov-2000
    Expiration Date: 07-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 11:37:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 11:26:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -115,10 +115,10 @@ Registrant:
 
     Domain servers in listed order:
 
-    dns4.intuit.com
     dns3.intuit.com
-    dns2.quicken.com
     dns1.quicken.com
+    dns4.intuit.com
+    dns2.quicken.com
 
 
 

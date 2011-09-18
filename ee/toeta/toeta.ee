@@ -1,0 +1,41 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       toeta.ee
+registrant:   CID:ZONE:76960
+admin-c:      CID:ZONE:76961
+nsset:        NSSID:ZONE:8108
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 04:42:26
+changed:      21.09.2010 00:35:04
+expire:       20.09.2012
+
+contact:      CID:ZONE:76960
+org:          Association of Charity NGO
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      21.09.2010 00:35:02
+
+contact:      CID:ZONE:76961
+name:         Viljar Puusepp
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      21.09.2010 00:35:02
+
+nsset:        NSSID:ZONE:8108
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:76962
+registrar:    zone
+created:      21.09.2010 00:35:03
+
+contact:      CID:ZONE:76962
+org:          Association of Charity NGO
+name:         Viljar Puusepp
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      21.09.2010 00:35:02
+
+

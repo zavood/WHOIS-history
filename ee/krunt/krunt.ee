@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       krunt.ee
+registrant:   CID:ZONE:179806
+admin-c:      CID:ZONE:179807
+nsset:        NSSID:ZONE:36067
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 03:57:21
+changed:      04.01.2011 13:10:03
+expire:       20.12.2011
+
+contact:      CID:ZONE:179806
+org:          Nekland O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      04.01.2011 13:10:02
+
+contact:      CID:ZONE:179807
+name:         Aulis G&Atilde;&frac14;nninen
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      04.01.2011 13:10:02
+
+nsset:        NSSID:ZONE:36067
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:179808
+registrar:    zone
+created:      04.01.2011 13:10:02
+
+contact:      CID:ZONE:179808
+name:         Aulis G&Atilde;&frac14;nninen
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      04.01.2011 13:10:02
+
+

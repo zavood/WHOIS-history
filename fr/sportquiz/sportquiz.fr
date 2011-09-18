@@ -1,0 +1,79 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; sportquiz.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      sportquiz.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    I3697-FRNIC
+admin-c:     I3697-FRNIC
+tech-c:      I6736-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL42499-FRNIC
+registrar:   INDOM
+anniversary: 05/10
+created:     05/10/2010
+last-update: 07/10/2010
+source:      FRNIC
+
+ns-list:     NSL42499-FRNIC
+nserver:     dns02.ed-amaury.net
+nserver:     dns01.ed-amaury.net
+nserver:     dns03.vp-dns.net
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     I3697-FRNIC
+type:        ORGANIZATION
+contact:     INTRA-PRESSE
+address:     25, avenue Michelet
+address:     93400 Saint-Ouen
+country:     FR
+phone:       +33 1 40 10 30 30
+e-mail:      resocipa@ed-amaury.fr
+changed:     06/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     I6736-FRNIC
+type:        ORGANIZATION
+contact:     INTRAPRESSE
+address:     25, avenue Michelet
+address:     93400 Saint-Ouen
+country:     FR
+phone:       +33 1 48 01 83 60
+fax-no:      +33 1 48 01 67 73
+e-mail:      resocipa@ed-amaury.fr
+changed:     05/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+

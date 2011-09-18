@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2618502-LROR
+Domain Name:EATSMART.ORG
+Created On:06-Nov-1996 05:00:00 UTC
+Last Updated On:03-Sep-2009 15:59:56 UTC
+Expiration Date:05-Nov-2014 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29786572-NSI
+Registrant Name:Washington State Dairy Council
+Registrant Organization:Washington State Dairy Council
+Registrant Street1:4201 198th St SW #102
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lynnwood
+Registrant State/Province:WA
+Registrant Postal Code:98036
+Registrant Country:US
+Registrant Phone:+1.4257441616
+Registrant Phone Ext.:
+Registrant FAX:+1.4256701222
+Registrant FAX Ext.:
+Registrant Email:loomis@EATSMART.ORG
+Admin ID:29786574-NSI
+Admin Name:Loomis, Loria'
+Admin Organization:Loomis, Loria'
+Admin Street1:Washington State Dairy Council
+Admin Street2:4201 198th St SW #102
+Admin Street3:
+Admin City:Lynnwood
+Admin State/Province:WA
+Admin Postal Code:98036
+Admin Country:US
+Admin Phone:+1.9999999999
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:loomis@EATSMART.ORG
+Tech ID:5415862-NSI
+Tech Name:Corporate Computer, Inc
+Tech Organization:Corporate Computer, Inc
+Tech Street1:11300 25TH AVE NE
+Tech Street2:
+Tech Street3:
+Tech City:SEATTLE
+Tech State/Province:WA
+Tech Postal Code:98125-6639
+Tech Country:US
+Tech Phone:+1.2063653113
+Tech Phone Ext.:
+Tech FAX:+1.2063652526
+Tech FAX Ext.:
+Tech Email:hostmaster@CCI.NET
+Name Server:CCI-DNS.CCI.NET
+Name Server:NS-A.PNAP.NET
+Name Server:NS-B.PNAP.NET
+Name Server:NS-C.PNAP.NET
+Name Server:NS-D.PNAP.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

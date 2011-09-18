@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D12667769-LROR
+Domain Name:VAHEALTH.ORG
+Created On:10-Nov-1999 19:41:53 UTC
+Last Updated On:30-Nov-2007 16:18:08 UTC
+Expiration Date:10-Nov-2013 19:41:53 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:23040968-NSI
+Registrant Name:Virginia Department of Health
+Registrant Organization:Virginia Department of Health
+Registrant Street1:1500 East Main Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Richmond
+Registrant State/Province:VA
+Registrant Postal Code:23219
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:CFORD@VDH.STATE.VA.US
+Admin ID:23503612-NSI
+Admin Name:Michelle White
+Admin Street1:109 Governor St.
+Admin Street2:
+Admin Street3:
+Admin City:Richmond
+Admin State/Province:VA
+Admin Postal Code:23219
+Admin Country:US
+Admin Phone:+1.8048647675
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:michelle.white@vdh.virginia.gov
+Tech ID:21915598-NSI
+Tech Name:Department of Information Tech
+Tech Organization:Department of Information Tech
+Tech Street1:110 S. 7th Street
+Tech Street2:
+Tech Street3:
+Tech City:Richmond
+Tech State/Province:VA
+Tech Postal Code:23219
+Tech Country:US
+Tech Phone:+1.80478639
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rtraycie@DIT.STATE.VA.US
+Name Server:DIT1.STATE.VA.US
+Name Server:DIT3.STATE.VA.US
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
