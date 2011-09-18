@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 11:16:55 (BRT -03:00)
+
+domain:      criargames.com.br
+owner:       Ald Informatica Ltda-ME
+ownerid:     005.166.505/0001-44
+responsible: Luiz Henrique Souza Carvalho
+country:     BR
+owner-c:     LHC159
+admin-c:     LHC159
+tech-c:      LHC159
+billing-c:   LHC159
+nserver:     dns1.alphaservers.com.br
+nsstat:      20110918 AA
+nslastaa:    20110918
+nserver:     dns2.alphaservers.com.br
+nsstat:      20110918 AA
+nslastaa:    20110918
+created:     20090722 #5811061
+expires:     20120722
+changed:     20110714
+status:      published
+
+nic-hdl-br:  LHC159
+person:      Luiz Henrique Souza Carvalho
+e-mail:      luizhenriquesc@hotmail.com
+created:     20050609
+changed:     20110111
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 05-nov-2007
    Expiration Date: 05-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 13:41:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 15:18:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,35 +84,38 @@ Domain servers in listed order:
 	 ns1.cifnet.com 	 ns2.cifnet.com
 
 Administrator:
-	 Postysheva st, 133-7
-	 Donetsk
-Donetskaya,
-UKRAINE
- 83055
+	 name: Denis Kozyr
+ mail: dkozyr@gmail.com tel: +380.0506370208
+	 org: Denis Kozyr
 
-	 name:(Denis Kozyr)
-mail:(dkozyr@gmail.com) +380.0506370208
-	 Denis Kozyr
+address: Postysheva st, 133-7
+	 city: Donetsk
+,province: Donetskaya
+,country: UKRAINE
+ postcode: 83055
+
 Technical Contactor:
-	 Postysheva st, 133-7
-	 Donetsk
-Donetskaya,
-UKRAINE
- 83055
+	 name: Denis Kozyr
+ mail: dkozyr@gmail.com tel: +380.0506370208
+	 org: Denis Kozyr
 
-	 name:(Denis Kozyr)
-mail:(dkozyr@gmail.com) +380.0506370208
-	 Denis Kozyr
+address: Postysheva st, 133-7
+	 city: Donetsk
+,province: Donetskaya
+,country: UKRAINE
+ postcode: 83055
+
 Billing Contactor:
-	 Postysheva st, 133-7
-	 Donetsk
-Donetskaya,
-UKRAINE
- 83055
+	 name: Denis Kozyr
+ mail: dkozyr@gmail.com tel: +380.0506370208
+	 org: Denis Kozyr
 
-	 name:(Denis Kozyr)
-mail:(dkozyr@gmail.com) +380.0506370208
-	 Denis Kozyr
+address: Postysheva st, 133-7
+	 city: Donetsk
+,province: Donetskaya
+,country: UKRAINE
+ postcode: 83055
+
 
 Registration Service Provider:
 	name: Rustelekom LLC

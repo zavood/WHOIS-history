@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149205791-LROR
+Domain Name:DEIR-JARIR.ORG
+Created On:22-Sep-2007 13:34:38 UTC
+Last Updated On:22-Sep-2010 10:39:37 UTC
+Expiration Date:22-Sep-2011 13:34:38 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR36840094
+Registrant Name:Tareq Abu-Seir
+Registrant Organization:Start Technology
+Registrant Street1:Sufian Street
+Registrant Street2:Ghazal Bldg. 5th floor
+Registrant Street3:
+Registrant City:Nablus
+Registrant State/Province:NA
+Registrant Postal Code:970
+Registrant Country:PS
+Registrant Phone:+972.92331440
+Registrant Phone Ext.:
+Registrant FAX:+972.92331441
+Registrant FAX Ext.:
+Registrant Email:domains@start.ps
+Admin ID:CR36840102
+Admin Name:Tareq Abu-Seir
+Admin Organization:Start Technology
+Admin Street1:Sufian Street
+Admin Street2:Ghazal Bldg. 5th floor
+Admin Street3:
+Admin City:Nablus
+Admin State/Province:NA
+Admin Postal Code:970
+Admin Country:PS
+Admin Phone:+972.92331440
+Admin Phone Ext.:
+Admin FAX:+972.92331441
+Admin FAX Ext.:
+Admin Email:domains@start.ps
+Tech ID:CR36840097
+Tech Name:Tareq Abu-Seir
+Tech Organization:Start Technology
+Tech Street1:Sufian Street
+Tech Street2:Ghazal Bldg. 5th floor
+Tech Street3:
+Tech City:Nablus
+Tech State/Province:NA
+Tech Postal Code:970
+Tech Country:PS
+Tech Phone:+972.92331440
+Tech Phone Ext.:
+Tech FAX:+972.92331441
+Tech FAX Ext.:
+Tech Email:domains@start.ps
+Name Server:NS.START-PAL.COM
+Name Server:NS2.START-PAL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

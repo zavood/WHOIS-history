@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2801727-LROR
+Domain Name:OSHEAN.ORG
+Created On:18-Dec-1998 05:00:00 UTC
+Last Updated On:21-Oct-2008 18:18:26 UTC
+Expiration Date:18-Dec-2014 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:24727108-NSI
+Registrant Name:Ocean State Higher Education Economic Development Administrative Network
+Registrant Organization:Ocean State Higher Education Economic Development Administrative Network
+Registrant Street1:6946 Post Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:North Kingstown
+Registrant State/Province:RI
+Registrant Postal Code:02852
+Registrant Country:US
+Registrant Phone:+1.401886088
+Registrant Phone Ext.:
+Registrant FAX:+1.401886085
+Registrant FAX Ext.:
+Registrant Email:george.loftus@OSHEAN.ORG
+Admin ID:24727111-NSI
+Admin Name:OSHEAN
+Admin Organization:OSHEAN
+Admin Street1:646 Camp Ave.
+Admin Street2:
+Admin Street3:
+Admin City:N. Kingstown
+Admin State/Province:RI
+Admin Postal Code:02852
+Admin Country:US
+Admin Phone:+1.40129505
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:george.loftus@OSHEAN.ORG
+Tech ID:24727110-NSI
+Tech Name:Tim Rue
+Tech Organization:OSHEAN
+Tech Street1:6946
+Tech Street2:
+Tech Street3:
+Tech City:N. Kingstown
+Tech State/Province:RI
+Tech Postal Code:02852
+Tech Country:US
+Tech Phone:+1.401886088
+Tech Phone Ext.:
+Tech FAX:+1.401886085
+Tech FAX Ext.:
+Tech Email:true@OSHEAN.ORG
+Name Server:NS1.OSHEAN.ORG
+Name Server:NS2.OSHEAN.ORG
+Name Server:NS3.OSHEAN.ORG
+Name Server:NS4.OSHEAN.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

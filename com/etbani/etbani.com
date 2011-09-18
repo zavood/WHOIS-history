@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 15-may-2007
    Expiration Date: 15-may-2016
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:10:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 15:06:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,22 +84,37 @@ Domain servers in listed order:
 	 ns1.etbani.com 	 ns2.etbani.com
 
 Administrator:
-	 PARSDATA Corporation register@parsdata.com +44.7973290947
-	 PARSDATA Corporation
-	 62 Lington Avenue
-	 London,UK,IR SW1V 8MS
+	 name: PARSDATA Corporation
+ mail: register@parsdata.com tel: +44.7973290947
+	 org: PARSDATA Corporation
+
+address: 62 Lington Avenue
+	 city: London
+,province: UK
+,country: IR
+ postcode: SW1V 8MS
 
 Technical Contactor:
-	 PARSDATA Corporation register@parsdata.com +44.7973290947
-	 PARSDATA Corporation
-	 62 Lington Avenue
-	 London,UK,IR SW1V 8MS
+	 name: PARSDATA Corporation
+ mail: register@parsdata.com tel: +44.7973290947
+	 org: PARSDATA Corporation
+
+address: 62 Lington Avenue
+	 city: London
+,province: UK
+,country: IR
+ postcode: SW1V 8MS
 
 Billing Contactor:
-	 PARSDATA Corporation register@parsdata.com +44.7973290947
-	 PARSDATA Corporation
-	 62 Lington Avenue
-	 London,UK,IR SW1V 8MS
+	 name: PARSDATA Corporation
+ mail: register@parsdata.com tel: +44.7973290947
+	 org: PARSDATA Corporation
+
+address: 62 Lington Avenue
+	 city: London
+,province: UK
+,country: IR
+ postcode: SW1V 8MS
 
 
 Registration Service Provider:

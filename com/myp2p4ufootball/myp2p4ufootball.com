@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 30-jan-2011
    Expiration Date: 30-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 14:36:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 15:26:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    rob myp2p4ufootball
-   po box 54942
-   beverly hills, California 90210
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: MYP2P4UFOOTBALL.COM
-      Created on: 30-Jan-11
-      Expires on: 30-Jan-12
-      Last Updated on: 30-Jan-11
-
-   Administrative Contact:
-      myp2p4ufootball, rob  rob@myp2p4ufootball.com
-      po box 54942
-      beverly hills, California 90210
-      United States
-      +1.8816452316      Fax --
-
-   Technical Contact:
-      myp2p4ufootball, rob  rob@myp2p4ufootball.com
-      po box 54942
-      beverly hills, California 90210
-      United States
-      +1.8816452316      Fax --
 
    Domain servers in listed order:
       NS67.DOMAINCONTROL.COM
       NS68.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=MYP2P4UFOOTBALL.COM

@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 11:04:20 (BRT -03:00)
+
+domain:      ekaizen.com.br
+owner:       Comelc Com&eacute;rcio de Livros &amp; CDs
+ownerid:     005.704.126/0001-60
+responsible: Andr&eacute; Faleiro
+country:     BR
+owner-c:     ALF109
+admin-c:     ALF109
+tech-c:      ALF109
+billing-c:   ALF109
+nserver:     ns1.locaweb.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns2.locaweb.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns3.locaweb.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     20100929 #7376648
+expires:     20110929
+changed:     20101019
+status:      published
+
+nic-hdl-br:  ALF109
+person:      Andr&eacute; Luiz Ferreira Faleiro
+e-mail:      atendimento@myecom.com.br
+created:     19990901
+changed:     20100503
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

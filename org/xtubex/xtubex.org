@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155819711-LROR
+Domain Name:XTUBEX.ORG
+Created On:07-Apr-2009 09:45:51 UTC
+Last Updated On:14-Apr-2011 21:05:32 UTC
+Expiration Date:07-Apr-2012 09:45:51 UTC
+Sponsoring Registrar:Bizcn.com, Inc. (R1248-LROR)
+Status:OK
+Registrant ID:orgko39097548538
+Registrant Name:konstantin ololo
+Registrant Organization:zer0home
+Registrant Street1:ololo 75
+Registrant Street2:
+Registrant Street3:
+Registrant City:novgorod
+Registrant State/Province:kosmos
+Registrant Postal Code:175400
+Registrant Country:CN
+Registrant Phone:+86.18009987087
+Registrant Phone Ext.:
+Registrant FAX:+86.18009987087
+Registrant FAX Ext.:
+Registrant Email:scaryscream@gmail.com
+Admin ID:orgkk39097548897
+Admin Name:konstantin konstantin
+Admin Organization:zer0home
+Admin Street1:ololo 75
+Admin Street2:
+Admin Street3:
+Admin City:novgorod
+Admin State/Province:kosmos
+Admin Postal Code:175400
+Admin Country:CN
+Admin Phone:+86.18009987087
+Admin Phone Ext.:
+Admin FAX:+86.18009987087
+Admin FAX Ext.:
+Admin Email:scaryscream@gmail.com
+Tech ID:orgkk39097549428
+Tech Name:konstantin konstantin
+Tech Organization:zer0home
+Tech Street1:ololo 75
+Tech Street2:
+Tech Street3:
+Tech City:novgorod
+Tech State/Province:kosmos
+Tech Postal Code:175400
+Tech Country:CN
+Tech Phone:+86.18009987087
+Tech Phone Ext.:
+Tech FAX:+86.18009987087
+Tech FAX Ext.:
+Tech Email:scaryscream@gmail.com
+Name Server:NS1.XTUBEX.ORG
+Name Server:NS2.XTUBEX.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

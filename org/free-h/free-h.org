@@ -1,1 +1,84 @@
-WHOIS LIMIT EXCEEDED - SEE WWW.PIR.ORG/WHOIS FOR DETAILS
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D137056253-LROR
+Domain Name:FREE-H.ORG
+Created On:11-Jan-2007 21:52:23 UTC
+Last Updated On:06-May-2011 07:50:16 UTC
+Expiration Date:11-Jan-2012 21:52:23 UTC
+Sponsoring Registrar:OVH (R135-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ovh4dc3a838etiv
+Registrant Name:Gurvan Rottier-Ripoche
+Registrant Street1:6 rue du Pre Hibou
+Registrant Street2:
+Registrant Street3:
+Registrant City:La Ravoire
+Registrant State/Province:
+Registrant Postal Code:73490
+Registrant Country:FR
+Registrant Phone:+33.603515764
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:serveur.vicky@gmail.com
+Admin ID:ovh4dc3a8398ldz
+Admin Name:Gurvan Rottier-Ripoche
+Admin Organization:Inulogic SARL
+Admin Street1:6 Rue du Pre Hibou
+Admin Street2:
+Admin Street3:
+Admin City:La Ravoire
+Admin State/Province:
+Admin Postal Code:73490
+Admin Country:FR
+Admin Phone:+33.603515764
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:inulogic@gmail.com
+Tech ID:ovh4dc3a8398ldz
+Tech Name:Gurvan Rottier-Ripoche
+Tech Organization:Inulogic SARL
+Tech Street1:6 Rue du Pre Hibou
+Tech Street2:
+Tech Street3:
+Tech City:La Ravoire
+Tech State/Province:
+Tech Postal Code:73490
+Tech Country:FR
+Tech Phone:+33.603515764
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:inulogic@gmail.com
+Name Server:VICKY.FREE-H.ORG
+Name Server:SPIT.FREE-H.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

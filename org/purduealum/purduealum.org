@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D31143842-LROR
+Domain Name:PURDUEALUM.ORG
+Created On:10-Jul-2000 19:13:21 UTC
+Last Updated On:28-Aug-2009 13:46:24 UTC
+Expiration Date:10-Jul-2016 19:13:21 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30136091-NSI
+Registrant Name:Purdue Alumni Association, Inc.
+Registrant Organization:Purdue Alumni Association, Inc.
+Registrant Street1:403 West Wood Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:W. Lafayette
+Registrant State/Province:IN
+Registrant Postal Code:47907
+Registrant Country:US
+Registrant Phone:+1.7654945175
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:slmartin@PURDUE.EDU
+Admin ID:42027550-NSI
+Admin Name:Ramzy Yazback
+Admin Organization:Purdue Alumni Association, Inc
+Admin Street1:403 West Wood Street
+Admin Street2:
+Admin Street3:
+Admin City:West Lafayette
+Admin State/Province:IN
+Admin Postal Code:47907
+Admin Country:US
+Admin Phone:+1.7654949179
+Admin Phone Ext.:
+Admin FAX:+1.7654949179
+Admin FAX Ext.:
+Admin Email:yazback@purdue.edu
+Tech ID:42027550-NSI
+Tech Name:Ramzy Yazback
+Tech Organization:Purdue Alumni Association, Inc
+Tech Street1:403 West Wood Street
+Tech Street2:
+Tech Street3:
+Tech City:West Lafayette
+Tech State/Province:IN
+Tech Postal Code:47907
+Tech Country:US
+Tech Phone:+1.7654949179
+Tech Phone Ext.:
+Tech FAX:+1.7654949179
+Tech FAX Ext.:
+Tech Email:yazback@purdue.edu
+Name Server:NS2.WINTEK.COM
+Name Server:NS1.WINTEK.COM
+Name Server:NS3.WINTEK.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

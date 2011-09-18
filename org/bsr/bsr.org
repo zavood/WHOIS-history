@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2201212-LROR
+Domain Name:BSR.ORG
+Created On:03-Sep-1995 04:00:00 UTC
+Last Updated On:11-Jun-2010 19:41:01 UTC
+Expiration Date:02-Sep-2015 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30638875
+Registrant Name:Kirk Long
+Registrant Organization:Business for Social Responsibility
+Registrant Street1:111 Sutter Street
+Registrant Street2:12th Floor
+Registrant Street3:
+Registrant City:San Francisco
+Registrant State/Province:California
+Registrant Postal Code:94104
+Registrant Country:US
+Registrant Phone:+1.4159843200
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dns@bsr.org
+Admin ID:CR30638877
+Admin Name:Kirk Long
+Admin Organization:Business for Social Responsibility
+Admin Street1:111 Sutter Street
+Admin Street2:12th Floor
+Admin Street3:
+Admin City:San Francisco
+Admin State/Province:California
+Admin Postal Code:94104
+Admin Country:US
+Admin Phone:+1.4159843200
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dns@bsr.org
+Tech ID:CR30638876
+Tech Name:Dean Matsueda
+Tech Organization:Business for Social Responsibility
+Tech Street1:111 Sutter Street
+Tech Street2:12th Floor
+Tech Street3:
+Tech City:San Francisco
+Tech State/Province:California
+Tech Postal Code:94104
+Tech Country:US
+Tech Phone:+1.4159843200
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dmatsueda@bsr.org
+Name Server:UDNS1.ULTRADNS.NET
+Name Server:UDNS2.ULTRADNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-14 12:01:20 (BRT -03:00)
+%  2011-09-18 12:16:20 (BRT -03:00)
 
 domain:      dop.com.br
 owner:       Aisle Webmakers Inform&aacute;tica LTDA.
@@ -17,11 +17,11 @@ admin-c:     AWL10
 tech-c:      AWL10
 billing-c:   AWL10
 nserver:     dns1.stabletransit.com
-nsstat:      20110913 AA
-nslastaa:    20110913
+nsstat:      20110918 AA
+nslastaa:    20110918
 nserver:     dns2.stabletransit.com
-nsstat:      20110913 AA
-nslastaa:    20110913
+nsstat:      20110918 AA
+nslastaa:    20110918
 created:     20050210 #2004949
 expires:     20150210
 changed:     20100819

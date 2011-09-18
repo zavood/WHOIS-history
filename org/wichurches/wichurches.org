@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D9643921-LROR
+Domain Name:WICHURCHES.ORG
+Created On:31-Aug-1999 14:32:42 UTC
+Last Updated On:17-Oct-2010 03:09:22 UTC
+Expiration Date:31-Aug-2013 14:32:42 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:40804377-NSI
+Registrant Name:WI Council of Churches
+Registrant Organization:WI Council of Churches
+Registrant Street1:750 Windsor St ,Suite 301
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sun Prairie
+Registrant State/Province:WI
+Registrant Postal Code:53590
+Registrant Country:US
+Registrant Phone:+1.6088373108
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sanderson@wichurches.org
+Admin ID:40804377-NSI
+Admin Name:WI Council of Churches
+Admin Organization:WI Council of Churches
+Admin Street1:750 Windsor St ,Suite 301
+Admin Street2:
+Admin Street3:
+Admin City:Sun Prairie
+Admin State/Province:WI
+Admin Postal Code:53590
+Admin Country:US
+Admin Phone:+1.6088373108
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sanderson@wichurches.org
+Tech ID:40804377-NSI
+Tech Name:WI Council of Churches
+Tech Organization:WI Council of Churches
+Tech Street1:750 Windsor St ,Suite 301
+Tech Street2:
+Tech Street3:
+Tech City:Sun Prairie
+Tech State/Province:WI
+Tech Postal Code:53590
+Tech Country:US
+Tech Phone:+1.6088373108
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sanderson@wichurches.org
+Name Server:NS19.HOSTEXCELLENCE.COM
+Name Server:NS20.HOSTEXCELLENCE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

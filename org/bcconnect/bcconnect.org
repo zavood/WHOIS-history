@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101495050-LROR
+Domain Name:BCCONNECT.ORG
+Created On:23-Sep-2003 23:06:46 UTC
+Last Updated On:06-Jul-2010 19:45:19 UTC
+Expiration Date:23-Sep-2012 23:06:46 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:17133121f05cd078
+Registrant Name:Andrea Sloan
+Registrant Organization:Benedictine College
+Registrant Street1:1020 N 2nd Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Atchison
+Registrant State/Province:KS
+Registrant Postal Code:66002
+Registrant Country:US
+Registrant Phone:+1.9133607355
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:asloan@benedictine.edu
+Admin ID:79295451f0754721
+Admin Name:Andrea Sloan
+Admin Organization:Benedictine College
+Admin Street1:1020 N 2nd Street
+Admin Street2:
+Admin Street3:
+Admin City:Atchison
+Admin State/Province:KS
+Admin Postal Code:66002
+Admin Country:US
+Admin Phone:+1.9133607355
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:asloan@benedictine.edu
+Tech ID:90881181f0b88981
+Tech Name:Domain Registrar
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027492701
+Tech FAX Ext.:
+Tech Email:domainregistrar@register.com
+Name Server:UDNS1.ULTRADNS.NET
+Name Server:UDNS2.ULTRADNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

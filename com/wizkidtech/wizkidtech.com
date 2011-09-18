@@ -5,18 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: WIZKIDTECH.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS49.DOMAINCONTROL.COM
-   Name Server: NS50.DOMAINCONTROL.COM
-   Status: pendingDelete
-   Updated Date: 08-sep-2011
-   Creation Date: 27-jun-2010
-   Expiration Date: 27-jun-2011
-
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:07:48 UTC &lt;&lt;&lt;
+No match for &quot;WIZKIDTECH.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 14:47:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-No match for &quot;wizkidtech.com&quot; in the registrar database.
-

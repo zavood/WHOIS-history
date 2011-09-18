@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 11:42:04 (BRT -03:00)
+
+domain:      builtny.com.br
+owner:       A Sys Computadores Ltda
+ownerid:     094.946.910/0001-05
+responsible: Rodrigo Assis
+country:     BR
+owner-c:     ASCLT23
+admin-c:     ASCLT23
+tech-c:      ASCLT23
+billing-c:   ASCLT23
+nserver:     ns1.grupomono.com
+nsstat:      20110918 AA
+nslastaa:    20110918
+nserver:     ns.grupomono.com
+nsstat:      20110918 AA
+nslastaa:    20110918
+created:     20071004 #3941653
+expires:     20131004
+changed:     20100922
+status:      published
+
+nic-hdl-br:  ASCLT23
+person:      A Sys Computadores Ltda
+e-mail:      contato@asys.com.br
+created:     20090721
+changed:     20090721
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

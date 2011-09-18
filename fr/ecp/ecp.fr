@@ -1,0 +1,140 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ecp.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ecp.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ECP8-FRNIC
+admin-c:     HB1017-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      RL1557-FRNIC
+tech-c:      AP4732-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5875-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 30/04/2009
+source:      FRNIC
+
+ns-list:     NSL5875-FRNIC
+nserver:     piston.ecp.fr [138.195.33.3]
+nserver:     manoul.cti.ecp.fr [138.195.33.28]
+nserver:     nadia.ircam.fr [129.102.1.8 2001:660:3004:4000::8:53]
+nserver:     ns2.nic.fr [192.93.0.4 2001:660:3005:1::1:2]
+nserver:     soleil.uvsq.fr [193.51.24.1]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     ECP8-FRNIC
+type:        ORGANIZATION
+contact:     ECOLE CENTRALE ARTS ET MANUFACTURES
+address:     Grande Voie des Vignes
+address:     92295 Ch&acirc;Tenay Malabry
+country:     FR
+phone:       +33 1 41 13 10 00
+changed:     13/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     HB1017-FRNIC
+type:        PERSON
+contact:     Herve Biausser
+address:     Ecole Centrale Paris
+address:     Grande Voie des Vignes
+address:     92295 Ch&acirc;tenay-Malabry
+country:     FR
+phone:       +33 1 41 13 12 54
+fax-no:      +33 1 41 13 10 10
+e-mail:      herve.biausser@ecp.fr
+changed:     30/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     RL1557-FRNIC
+type:        PERSON
+contact:     Rene Lemarchand
+address:     Ecole Centrale Paris
+address:     Grande Voie des Vignes
+address:     92295 Ch&acirc;tenay-Malabry
+country:     FR
+phone:       +33 1 41 13 14 34
+fax-no:      +33 1 41 13 16 66
+e-mail:      cti.ingesys@list.ecp.fr
+changed:     30/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AP4732-FRNIC
+type:        PERSON
+contact:     Alain Ploska
+address:     Ecole Centrale Paris
+address:     Grande Voie des Vignes
+address:     92295 Ch&acirc;tenay-Malabry
+country:     FR
+phone:       +33 1 41 13 14 41
+fax-no:      +33 1 41 13 16 66
+e-mail:      cti.ingesys@list.ecp.fr
+changed:     30/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

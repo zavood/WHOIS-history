@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107077116-LROR
+Domain Name:ASAECENTER.ORG
+Created On:03-Aug-2005 19:09:46 UTC
+Last Updated On:02-Jul-2008 16:11:31 UTC
+Expiration Date:03-Aug-2013 19:09:46 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:6021926-NSI
+Registrant Name:ASAE
+Registrant Organization:ASAE
+Registrant Street1:1575 I Street, NW
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20005
+Registrant Country:US
+Registrant Phone:+1.2026262834
+Registrant Phone Ext.:
+Registrant FAX:+1.2028421109
+Registrant FAX Ext.:
+Registrant Email:postmaster@asaenet.org
+Admin ID:6021926-NSI
+Admin Name:ASAE
+Admin Organization:ASAE
+Admin Street1:1575 I Street, NW
+Admin Street2:
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20005
+Admin Country:US
+Admin Phone:+1.2026262834
+Admin Phone Ext.:
+Admin FAX:+1.2028421109
+Admin FAX Ext.:
+Admin Email:postmaster@asaenet.org
+Tech ID:5625008-NSI
+Tech Name:John Stone
+Tech Organization:Results Direct
+Tech Street1:5210 E Williams Circle Suite 640
+Tech Street2:
+Tech Street3:
+Tech City:Tucson
+Tech State/Province:AZ
+Tech Postal Code:85711
+Tech Country:US
+Tech Phone:+1.5203275440
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@RESULTSDIRECT.COM
+Name Server:NS1.METATECH.COM
+Name Server:NS2.RD.NET
+Name Server:NS3.RESULTSDIRECT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
