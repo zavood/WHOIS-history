@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 26-may-2003
    Expiration Date: 26-may-2015
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:15:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 23:36:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,8 +117,8 @@ Registrant:
     Domain servers in listed order:
 
     gss1.monopost.com
-    gss5.monopost.com
     gss8.monopost.com
+    gss5.monopost.com
     gss6.monopost.com
     gss3.monopost.com
 
@@ -135,4 +135,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
---
+

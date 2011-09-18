@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3647163-LROR
+Domain Name:XINHUA.ORG
+Created On:10-Sep-1997 04:00:00 UTC
+Last Updated On:25-Jan-2011 06:37:29 UTC
+Expiration Date:09-Sep-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:46000825-NSI
+Registrant Name:China Economic Information Service
+Registrant Street1:57 Xuanwumen Xidajie
+Registrant Street2:
+Registrant Street3:
+Registrant City:Beijing
+Registrant State/Province:Beijing
+Registrant Postal Code:100803
+Registrant Country:CN
+Registrant Phone:+1.861063070927
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:yuanjunjuan@163.com
+Admin ID:46000825-NSI
+Admin Name:China Economic Information Service
+Admin Street1:57 Xuanwumen Xidajie
+Admin Street2:
+Admin Street3:
+Admin City:Beijing
+Admin State/Province:Beijing
+Admin Postal Code:100803
+Admin Country:CN
+Admin Phone:+1.861063070927
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:yuanjunjuan@163.com
+Tech ID:46000825-NSI
+Tech Name:China Economic Information Service
+Tech Street1:57 Xuanwumen Xidajie
+Tech Street2:
+Tech Street3:
+Tech City:Beijing
+Tech State/Province:Beijing
+Tech Postal Code:100803
+Tech Country:CN
+Tech Phone:+1.861063070927
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:yuanjunjuan@163.com
+Name Server:NS3.XINHUANET.COM
+Name Server:NS1.XINHUANET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

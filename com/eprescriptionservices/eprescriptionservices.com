@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 18-mar-2009
    Expiration Date: 18-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 01:40:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 23:44:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Integrated Systems Management Inc.
-   303 South Broadway
-   Suite 101
-   Tarrytown, New York 10591
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: EPRESCRIPTIONSERVICES.COM
-      Created on: 18-Mar-09
-      Expires on: 18-Mar-12
-      Last Updated on: 27-Jan-10
-
-   Administrative Contact:
-      Dave, Divyang  ddave@ismnet.com
-      Integrated Systems Management Inc.
-      303 South Broadway
-      Suite 101
-      Tarrytown, New York 10591
-      United States
-      (914) 332-5590      Fax -- (914) 332-5766
-
-   Technical Contact:
-      Dave, Divyang  ddave@ismnet.com
-      Integrated Systems Management Inc.
-      303 South Broadway
-      Suite 101
-      Tarrytown, New York 10591
-      United States
-      (914) 332-5590      Fax -- (914) 332-5766
 
    Domain servers in listed order:
       NS21.DOMAINCONTROL.COM
       NS22.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=EPRESCRIPTIONSERVICES.COM

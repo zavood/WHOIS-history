@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 18-may-2009
    Expiration Date: 18-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:23:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 23:25:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,7 +71,7 @@ status:       lock
 created:      2009-05-18 08:39:27 UTC
 modified:     2011-05-11 17:54:19 UTC
 expires:      2012-05-18 08:39:27 UTC
-query-source: 174.142.225.246
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-56990
 person:       Renata Portinari
@@ -85,8 +85,8 @@ country:      BR
 phone:        +79.9783928
 
 source:       joker.com live whois service
-query-time:   0.007639
-db-updated:   2011-09-13 20:23:51
+query-time:   0.025971
+db-updated:   2011-09-17 23:26:27
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

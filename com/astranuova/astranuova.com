@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 12-nov-2004
    Expiration Date: 12-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:04:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 23:49:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,86 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- Virtual Gate S.r.l.
- Via Repubblica, 6
- Lurate Caccivio, Como 22075
- IT
-
- Domain name: ASTRANUOVA.COM
-
-
- Administrative Contact:
-    Virtual Gate S.r.l., Virtual Gate S.r.l.  info@virtualgate.it
-    Via Repubblica, 6
-    Lurate Caccivio, Como 22075
-    IT
-    +39 031 391032    Fax: +39 031 391795
-
- Technical Contact:
-    Virtual Gate S.r.l., Virtual Gate S.r.l.  info@virtualgate.it
-    Via Repubblica, 6
-    Lurate Caccivio, Como 22075
-    IT
-    +39 031 391032    Fax: +39 031 391795
-
-
-
- Registration Service Provider:
-    Virtual Gate S.r.l., hostmaster@astranuova.com
-    +39.031391032
-    +39.031391795 (fax)
-    http://www.virtualgate.it
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions.
-
-
- Registrar of Record: TUCOWS, INC.
- Record last updated on 13-Nov-2010.
- Record expires on 12-Nov-2011.
- Record created on 12-Nov-2004.
-
- Registrar Domain Name Help Center:
-    http://tucowsdomains.com
-
- Domain servers in listed order:
-    DNS2.ASTRANUOVA.COM   81.28.242.28
-    DNS1.ASTRANUOVA.COM   109.168.127.212
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-Tucows makes this information available &quot;as is,&quot; and does not guarantee its
-accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Tucows.
-
-Tucows reserves the right to terminate your access to the Tucows WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
-
-Tucows reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
-
+IP Address: 67.231.254.15
+Maximum Daily connection limit reached. Lookup refused.

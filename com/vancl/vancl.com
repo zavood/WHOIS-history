@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 10-may-2006
    Expiration Date: 10-may-2015
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:06:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 23:33:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -85,32 +85,26 @@ Domain servers in listed order:
 	 ns1.vancl.net 	 ns3.vancl.net
 
 Administrator:
+	 Name-- Fankechengpin(beijing)keji youxiangongsi
+ EMail-: (yilan@vancl.cn)
+ tel --: +86.01083607667
+	 org: Fankechengpin(beijing)keji youxiangongsi
 	 Fufeng street No.2,fengtai District
-	 beijing
-beijing,
-CN
- 10000
+	 beijing,beijing,CN 10000
 
-	 name:(Fankechengpin(beijing)keji youxiangongsi)
-mail:(yilan@vancl.cn) +86.01083607667
-	 Fankechengpin(beijing)keji youxiangongsi
 Technical Contactor:
+	 Name-- Fankechengpin(beijing)keji youxiangongsi
+ EMail-: (yilan@vancl.cn)
+ tel --: +86.01083607667
+	 org: Fankechengpin(beijing)keji youxiangongsi
 	 Xinghuo street No.1,fengtai District
-	 beijing
-beijing,
-CN
- 10000
+	 beijing,beijing,CN 10000
 
-	 name:(Fankechengpin(beijing)keji youxiangongsi)
-mail:(yilan@vancl.cn) +86.01083607667
-	 Fankechengpin(beijing)keji youxiangongsi
 Billing Contactor:
+	 Name-- Fankechengpin(beijing)keji youxiangongsi
+ EMail-: (yilan@vancl.cn)
+ tel --: +86.01083607667
+	 org: Fankechengpin(beijing)keji youxiangongsi
 	 Xinghuo street No.1,fengtai District
-	 beijing
-beijing,
-CN
- 10000
+	 beijing,beijing,CN 10000
 
-	 name:(Fankechengpin(beijing)keji youxiangongsi)
-mail:(yilan@vancl.cn) +86.01083607667
-	 Fankechengpin(beijing)keji youxiangongsi

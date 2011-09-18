@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 21-jun-2003
    Expiration Date: 21-jun-2015
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:49:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 23:39:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -85,20 +85,38 @@ Domain servers in listed order:
 	 ns1.dnsv5.com 	 ns2.dnsv5.com
 
 Administrator:
-	 ugmbbc ugmbbc@163.com +86.13735395501
+	 name:(ugmbbc)
+	Email:(ugmbbc@163.com) tel-- +86.13735395501
 	 cnBeta.COM
 	 Huangyan Taizhou Zhejiang Province
-	 Taizhou,Zhejiang,CN 318020
+\r
+t Taizhou
+Zhejiang,
+CN
+
+ zipcode:318020
 
 Technical Contactor:
-	 ugmbbc ugm@netease.com +86.13735395501
+	 name:(ugmbbc)
+	Email:(ugm@netease.com) tel-- +86.13735395501
 	 cnBeta.COM
 	 Huangyan Taizhou Zhejiang Province
-	 Taizhou,Zhejiang,CN 318020
+\r
+t Taizhou
+Zhejiang,
+CN
+
+ zipcode:318020
 
 Billing Contactor:
-	 ugmbbc ugm@netease.com +86.13735395501
+	 name:(ugmbbc)
+	Email:(ugm@netease.com) tel-- +86.13735395501
 	 cnBeta.COM
 	 Huangyan Taizhou Zhejiang Province
-	 Taizhou,Zhejiang,CN 318020
+\r
+t Taizhou
+Zhejiang,
+CN
+
+ zipcode:318020
 

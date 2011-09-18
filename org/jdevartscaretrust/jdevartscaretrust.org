@@ -17,7 +17,7 @@ time. By submitting this query, you agree to abide by this policy.
 Domain ID:D160299828-LROR
 Domain Name:JDEVARTSCARETRUST.ORG
 Created On:02-Oct-2010 13:10:17 UTC
-Last Updated On:13-Sep-2011 16:49:55 UTC
+Last Updated On:14-Sep-2011 16:27:01 UTC
 Expiration Date:02-Oct-2013 13:10:17 UTC
 Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
 Status:CLIENT DELETE PROHIBITED
@@ -70,8 +70,8 @@ Tech Phone Ext.:
 Tech FAX:
 Tech FAX Ext.:
 Tech Email:santa.careservice@tiscali.co.uk
-Name Server:NS51.DOMAINCONTROL.COM
-Name Server:NS52.DOMAINCONTROL.COM
+Name Server:NS49.DOMAINCONTROL.COM
+Name Server:NS50.DOMAINCONTROL.COM
 Name Server:
 Name Server:
 Name Server:

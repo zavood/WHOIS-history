@@ -1,0 +1,109 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; lsa.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lsa.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    GISI8-FRNIC
+admin-c:     OG248-FRNIC
+tech-c:      IC2-FRNIC
+tech-c:      SVG1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1772-FRNIC
+registrar:   INDOM
+anniversary: 12/04
+created:     12/04/2005
+last-update: 15/11/2010
+source:      FRNIC
+
+ns-list:     NSL1772-FRNIC
+nserver:     roger.sosdomaines.net
+nserver:     ns2.sosdomaines.net
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     OG248-FRNIC
+type:        PERSON
+contact:     Odile Giraud
+address:     Groupe Industrie Services Info
+address:     12-14, rue Mederic
+address:     75017 Paris
+country:     FR
+phone:       +33 1 56 79 39 05
+e-mail:      domainnames@gisi.fr
+changed:     07/04/2005 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GISI8-FRNIC
+type:        ORGANIZATION
+contact:     Groupe Industrie Services Info
+address:     12-14, rue Mederic
+address:     75017 Paris
+country:     FR
+phone:       +33 1 56 79 41 00
+e-mail:      domainnames@gisi.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     IC2-FRNIC
+type:        ROLE
+contact:     INDOM Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+e-mail:      indom@indom.com
+admin-c:     SVG1-FRNIC
+tech-c:      PVG2-FRNIC
+changed:     18/12/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SVG1-FRNIC
+type:        PERSON
+contact:     Indom Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     20/11/2007 indom@indom.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

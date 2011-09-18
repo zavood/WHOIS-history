@@ -1,0 +1,36 @@
+# Copyright (c) 1997- .SE (The Internet Infrastructure Foundation).
+# All rights reserved.
+
+# The information obtained through searches, or otherwise, is protected
+# by the Swedish Copyright Act (1960:729) and international conventions.
+# It is also subject to database protection according to the Swedish
+# Copyright Act.
+
+# Any use of this material to target advertising or
+# similar activities is forbidden and will be prosecuted.
+# If any of the information below is transferred to a third
+# party, it must be done in its entirety. This server must
+# not be used as a backend for a search engine.
+
+# Result of search for registered domain names under
+# the .SE top level domain.
+
+# The data is in the UTF-8 character set and the result is
+# printed with eight bits.
+
+state:            active
+domain:           ericsson.se
+holder:           CJ1292-942921525
+admin-c:          CK1292-942922059
+tech-c:           CS1243-533371330
+billing-c:        AT1243-533370884
+created:          2003-05-16
+modified:         2011-05-08
+expires:          2012-05-16
+transferred:      2009-05-28
+nserver:          ns1.ericsson.se 193.180.251.38
+nserver:          e3dns.ericy.com
+nserver:          ns2.ericsson.se 193.180.251.39 2001:1b70:8180:c001:0:0:0:1011
+dnssec:           unsigned delegation
+status:           ok
+registrar:        Melbourne IT CBS

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D368120-LROR
+Domain Name:INTERVERSITY.ORG
+Created On:10-Apr-1997 04:00:00 UTC
+Last Updated On:11-Jun-2011 00:25:32 UTC
+Expiration Date:11-Apr-2012 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR80351983
+Registrant Name:Interversity Consulting
+Registrant Organization:Interversity Consulting
+Registrant Street1:701 N. State St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Champaign
+Registrant State/Province:Illinois
+Registrant Postal Code:61820-2912
+Registrant Country:US
+Registrant Phone:+1.2173731344
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:crump1959@juno.com
+Admin ID:CR80351987
+Admin Name:Eric Crump
+Admin Organization:Interversity Inc
+Admin Street1:504 E. Arrow St.
+Admin Street2:
+Admin Street3:
+Admin City:Marshall
+Admin State/Province:Missouri
+Admin Postal Code:54340
+Admin Country:US
+Admin Phone:+1.6608310083
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ewcrump@sbcglobal.net
+Tech ID:CR80351985
+Tech Name:Hostway.com Hostway.com
+Tech Organization:Hostway.com
+Tech Street1:216 W. Jackson Blvd. Suite 325
+Tech Street2:
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:Illinois
+Tech Postal Code:60606
+Tech Country:US
+Tech Phone:+1.180039724
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@hostway.com
+Name Server:ADNS.AUS.SITEPROTECT.COM
+Name Server:BDNS.AUS.SITEPROTECT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

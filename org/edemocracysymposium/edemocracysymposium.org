@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D119002861-LROR
+Domain Name:EDEMOCRACYSYMPOSIUM.ORG
+Created On:22-Mar-2006 19:44:27 UTC
+Last Updated On:30-Aug-2011 17:13:10 UTC
+Expiration Date:22-Mar-2012 19:44:27 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR41241146
+Registrant Name:Mochamad Masrur
+Registrant Organization:personal
+Registrant Street1:Griya Kebraon Utama X/DH-25
+Registrant Street2:Kebraon Karangpilang
+Registrant Street3:
+Registrant City:Surabaya
+Registrant State/Province:Jawa Timur
+Registrant Postal Code:60222
+Registrant Country:ID
+Registrant Phone:+62.818321349
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:moch.masrur@gmail.com
+Admin ID:CR41241149
+Admin Name:Mochamad Masrur
+Admin Organization:personal
+Admin Street1:Griya Kebraon Utama X/DH-25
+Admin Street2:Kebraon Karangpilang
+Admin Street3:
+Admin City:Surabaya
+Admin State/Province:Jawa Timur
+Admin Postal Code:60222
+Admin Country:ID
+Admin Phone:+62.818321349
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:moch.masrur@gmail.com
+Tech ID:CR41241147
+Tech Name:Mochamad Masrur
+Tech Organization:personal
+Tech Street1:Griya Kebraon Utama X/DH-25
+Tech Street2:Kebraon Karangpilang
+Tech Street3:
+Tech City:Surabaya
+Tech State/Province:Jawa Timur
+Tech Postal Code:60222
+Tech Country:ID
+Tech Phone:+62.818321349
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:moch.masrur@gmail.com
+Name Server:NS1.USESTACK.COM
+Name Server:NS2.USESTACK.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
