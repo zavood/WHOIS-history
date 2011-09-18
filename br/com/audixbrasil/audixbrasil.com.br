@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 15:33:37 (BRT -03:00)
+
+domain:      audixbrasil.com.br
+owner:       Audix Aparelhos Auditivos
+ownerid:     005.654.877/0001-10
+responsible: Adair Vieira Chaves
+country:     BR
+owner-c:     VOBEC
+admin-c:     VOBEC
+tech-c:      VOBEC
+billing-c:   VOBEC
+nserver:     ns1.dominios.uol.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns2.dominios.uol.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns3.dominios.uol.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     20030606 #1239193
+expires:     20120606
+changed:     20110517
+status:      published
+
+nic-hdl-br:  VOBEC
+person:      Volnei Becchi
+e-mail:      volnei@audixbrasil.com.br
+created:     20100308
+changed:     20100802
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

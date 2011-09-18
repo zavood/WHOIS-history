@@ -1,0 +1,39 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: NBI20D-NORID
+Domain Name................: nbim.no
+Domain Holder Handle.......: NB490O-NORID
+Registrar Handle...........: REG271-NORID
+Legal-c Handle.............: BR898P-NORID
+Tech-c Handle..............: RLH3R-NORID
+Name Server Handle.........: CARB2H-NORID
+Name Server Handle.........: NSBA39H-NORID
+Name Server Handle.........: NSFO4H-NORID
+Name Server Handle.........: NSSD4H-NORID
+Name Server Handle.........: NSSD6H-NORID
+Name Server Handle.........: NSZO39H-NORID
+Name Server Handle.........: PALL5H-NORID
+
+Additional information:
+Created:         2001-08-28
+Last updated:    2011-08-30
+
+NORID Handle...............: NB490O-NORID
+Type.......................: organization
+Name.......................: NORGES BANK
+Id Type....................: organization_number
+Id Number..................: 937884117
+Registrar Handle...........: REG271-NORID
+Post Address...............: Postboks 1179 SENTRUM
+Postal Code................: NO-0107
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.22316747
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

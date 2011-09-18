@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154590088-LROR
+Domain Name:VERIDIC.ORG
+Created On:31-Oct-2008 21:26:26 UTC
+Last Updated On:07-Nov-2010 20:20:42 UTC
+Expiration Date:31-Oct-2011 21:26:26 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:25251d13d0d2e812
+Registrant Name:NameCheap.com  NameCheap.com
+Registrant Organization:NameCheap.com
+Registrant Street1:8939 S. Sepulveda Blvd. #110 - 732
+Registrant Street2:
+Registrant Street3:
+Registrant City:Westchester
+Registrant State/Province:P
+Registrant Postal Code:90045
+Registrant Country:US
+Registrant Phone:+1.6613102107
+Registrant Phone Ext.:
+Registrant FAX:+1.6613102107
+Registrant FAX Ext.:
+Registrant Email:support@NameCheap.com
+Admin ID:e12983241a13cd7d
+Admin Name:NameCheap.com
+Admin Organization:NameCheap.com
+Admin Street1:8939 S. Sepulveda Blvd. #110 - 732
+Admin Street2:
+Admin Street3:
+Admin City:Westchester
+Admin State/Province:P
+Admin Postal Code:90045
+Admin Country:US
+Admin Phone:+1.6613102107
+Admin Phone Ext.:
+Admin FAX:+1.6613102107
+Admin FAX Ext.:
+Admin Email:support@NameCheap.com
+Tech ID:25251d13d0d2e812
+Tech Name:NameCheap.com  NameCheap.com
+Tech Organization:NameCheap.com
+Tech Street1:8939 S. Sepulveda Blvd. #110 - 732
+Tech Street2:
+Tech Street3:
+Tech City:Westchester
+Tech State/Province:P
+Tech Postal Code:90045
+Tech Country:US
+Tech Phone:+1.6613102107
+Tech Phone Ext.:
+Tech FAX:+1.6613102107
+Tech FAX Ext.:
+Tech Email:support@NameCheap.com
+Name Server:DNS3.VERIDIC.ORG
+Name Server:DNS4.VERIDIC.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

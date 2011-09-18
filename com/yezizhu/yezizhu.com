@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 16-mar-2003
    Expiration Date: 16-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 19:19:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 19:23:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: yezizhu.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 15:09:37 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sun Sep 18 15:19:37 EDT 2011
 Reason Code: IE

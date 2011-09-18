@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D5054216-LROR
+Domain Name:WOZ.ORG
+Created On:27-May-1994 04:00:00 UTC
+Last Updated On:27-Apr-2011 08:17:15 UTC
+Expiration Date:26-May-2012 04:00:00 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:SW7598-BR
+Registrant Name:Steve Wozniak
+Registrant Organization:self
+Registrant Street1:16400 Blackberry Hill Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Los Gatos
+Registrant State/Province:CA
+Registrant Postal Code:95030
+Registrant Country:US
+Registrant Phone:+01.4088888889
+Registrant Phone Ext.:
+Registrant FAX:+01.4083566666
+Registrant FAX Ext.:
+Registrant Email:steve@woz.org
+Admin ID:SW1263-BR
+Admin Name:Steve Wozniak
+Admin Organization:Self
+Admin Street1:16400 Blackberry Hill Road
+Admin Street2:
+Admin Street3:
+Admin City:Los Gatos
+Admin State/Province:Los Gatos
+Admin Postal Code:95030
+Admin Country:US
+Admin Phone:+1.4088888889
+Admin Phone Ext.:
+Admin FAX:+1.4083566666
+Admin FAX Ext.:
+Admin Email:steve@woz.org
+Tech ID:SW1263-BR
+Tech Name:Steve Wozniak
+Tech Organization:Self
+Tech Street1:16400 Blackberry Hill Road
+Tech Street2:
+Tech Street3:
+Tech City:Los Gatos
+Tech State/Province:Los Gatos
+Tech Postal Code:95030
+Tech Country:US
+Tech Phone:+1.4088888889
+Tech Phone Ext.:
+Tech FAX:+1.4083566666
+Tech FAX Ext.:
+Tech Email:steve@woz.org
+Name Server:NS1.WOZ.ORG
+Name Server:NS1.NOBIGDEAL.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

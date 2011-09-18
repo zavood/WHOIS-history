@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158984279-LROR
+Domain Name:DORMFURNITURES.ORG
+Created On:26-Apr-2010 13:58:47 UTC
+Last Updated On:23-Jun-2011 02:48:25 UTC
+Expiration Date:26-Apr-2012 13:58:47 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ONLC-4068659-4
+Registrant Name:Web Master
+Registrant Organization:MySite Corporation
+Registrant Street1:378 South Hope Street
+Registrant Street2:378 South Hope Street
+Registrant Street3:
+Registrant City:Los Angeles
+Registrant State/Province:CA
+Registrant Postal Code:90071
+Registrant Country:US
+Registrant Phone:+1.4156656387
+Registrant Phone Ext.:1111
+Registrant FAX:+1.4156656387
+Registrant FAX Ext.:
+Registrant Email:nameregi@yahoo.com
+Admin ID:ONLC-4068659-1
+Admin Name:Web Master
+Admin Organization:MySite Corporation
+Admin Street1:378 South Hope Street
+Admin Street2:378 South Hope Street
+Admin Street3:
+Admin City:Los Angeles
+Admin State/Province:CA
+Admin Postal Code:90071
+Admin Country:US
+Admin Phone:+1.4156656387
+Admin Phone Ext.:1111
+Admin FAX:+1.4156656387
+Admin FAX Ext.:
+Admin Email:nameregi@yahoo.com
+Tech ID:ONLC-4068659-2
+Tech Name:Web Master
+Tech Organization:MySite Corporation
+Tech Street1:378 South Hope Street
+Tech Street2:378 South Hope Street
+Tech Street3:
+Tech City:Los Angeles
+Tech State/Province:CA
+Tech Postal Code:90071
+Tech Country:US
+Tech Phone:+1.4156656387
+Tech Phone Ext.:1111
+Tech FAX:+1.4156656387
+Tech FAX Ext.:
+Tech Email:nameregi@yahoo.com
+Name Server:SELL.INTERNETTRAFFIC.COM
+Name Server:BUY.INTERNETTRAFFIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

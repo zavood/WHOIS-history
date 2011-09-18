@@ -1,0 +1,71 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-19T06:24:53+12:00
+domain_name: posters.net.nz
+query_status: 200 Active
+domain_dateregistered: 2009-02-20T15:14:42+13:00
+domain_datebilleduntil: 2011-09-20T15:14:42+12:00
+domain_datelastmodified: 2011-08-20T23:36:36+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Woosh Wireless Ltd
+registrar_address1: 11-15 Railway St
+registrar_address2: Newmarket
+registrar_city: Auckland
+registrar_province: Auckland
+registrar_postalcode: 1001
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 522 3699
+registrar_fax: +64 9 520 3447
+registrar_email: soa@woosh.co.nz
+%
+registrant_contact_name: David Heatherington
+registrant_contact_address1: 1 - 222 TWEED STREET
+registrant_contact_address2: APPLEBY
+registrant_contact_city: INVERCARGILL
+registrant_contact_postalcode: 9812
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 3 2189840
+registrant_contact_email: davross@woosh.co.nz
+%
+admin_contact_name: David Heatherington
+admin_contact_address1: 1 - 222 TWEED STREET
+admin_contact_address2: APPLEBY
+admin_contact_city: INVERCARGILL
+admin_contact_postalcode: 9812
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 3 2189840
+admin_contact_email: davross@woosh.co.nz
+%
+technical_contact_name: Woosh Wireless Ltd
+technical_contact_address1: 11-15 Railway St
+technical_contact_address2: Newmarket
+technical_contact_city: Auckland
+technical_contact_province: Auckland
+technical_contact_postalcode: 1001
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 9 522 3699
+technical_contact_fax: +64 9 520 3447
+technical_contact_email: soa@woosh.co.nz
+%
+ns_name_01: ns1.webbase.net.nz
+ns_name_02: ns2.webbase.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

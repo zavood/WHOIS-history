@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159074326-LROR
+Domain Name:COOKINGRECIPESGUIDE.ORG
+Created On:04-May-2010 04:26:30 UTC
+Last Updated On:22-Jul-2011 07:21:41 UTC
+Expiration Date:04-May-2012 04:26:30 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ncr-11050817-fe2
+Registrant Name:Denesh Kara
+Registrant Organization:den
+Registrant Street1:3 Bush Grove
+Registrant Street2:
+Registrant Street3:
+Registrant City:stanmore
+Registrant State/Province:Middlesex
+Registrant Postal Code:HA7 2DX
+Registrant Country:GB
+Registrant Phone:+44.7748703638
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:den.kara@gmail.com
+Admin ID:nca-11050818-448
+Admin Name:Denesh Kara
+Admin Organization:den
+Admin Street1:3 Bush Grove
+Admin Street2:
+Admin Street3:
+Admin City:stanmore
+Admin State/Province:Middlesex
+Admin Postal Code:HA7 2DX
+Admin Country:GB
+Admin Phone:+44.7748703638
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:den.kara@gmail.com
+Tech ID:nct-11050819-8ac
+Tech Name:Denes Kara
+Tech Organization:den
+Tech Street1:3 Bush Grove
+Tech Street2:
+Tech Street3:
+Tech City:stanmore
+Tech State/Province:Middlesex
+Tech Postal Code:HA7 2DX
+Tech Country:GB
+Tech Phone:+44.7748703638
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:den.kara@gmail.com
+Name Server:NS19.HOSTUPON.COM
+Name Server:NS20.HOSTUPON.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D124142389-LROR
+Domain Name:PALMETTOCOUNCIL.ORG
+Created On:08-Jun-2006 13:48:10 UTC
+Last Updated On:09-Jun-2011 01:23:56 UTC
+Expiration Date:08-Jun-2012 13:48:10 UTC
+Sponsoring Registrar:1 &amp; 1 Internet AG (R73-LROR)
+Status:OK
+Registrant ID:SPAG-38217540
+Registrant Name:Jim Stone
+Registrant Street1:1150 Edisto Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Spartanburg
+Registrant State/Province:SC
+Registrant Postal Code:29302
+Registrant Country:US
+Registrant Phone:+1.8645031620
+Registrant Phone Ext.:
+Registrant FAX:+1.8645032070
+Registrant FAX Ext.:
+Registrant Email:jim.stone@milliken.com
+Admin ID:SPAG-38217540
+Admin Name:Jim Stone
+Admin Street1:1150 Edisto Drive
+Admin Street2:
+Admin Street3:
+Admin City:Spartanburg
+Admin State/Province:SC
+Admin Postal Code:29302
+Admin Country:US
+Admin Phone:+1.8645031620
+Admin Phone Ext.:
+Admin FAX:+1.8645032070
+Admin FAX Ext.:
+Admin Email:jim.stone@milliken.com
+Tech ID:SPAG-38217540
+Tech Name:Jim Stone
+Tech Street1:1150 Edisto Drive
+Tech Street2:
+Tech Street3:
+Tech City:Spartanburg
+Tech State/Province:SC
+Tech Postal Code:29302
+Tech Country:US
+Tech Phone:+1.8645031620
+Tech Phone Ext.:
+Tech FAX:+1.8645032070
+Tech FAX Ext.:
+Tech Email:jim.stone@milliken.com
+Name Server:NS1.IHOSTASP.NET
+Name Server:NS2.IHOSTASP.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

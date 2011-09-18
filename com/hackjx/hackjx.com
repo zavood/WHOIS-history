@@ -9,14 +9,14 @@ for detailed information.
    Registrar: HICHINA ZHICHENG TECHNOLOGY LTD.
    Whois Server: grs-whois.hichina.com
    Referral URL: http://www.net.cn
-   Name Server: DNS15.HICHINA.COM
-   Name Server: DNS16.HICHINA.COM
+   Name Server: DOMAIN3.EXPIREDNS.COM
+   Name Server: DOMAIN4.EXPIREDNS.COM
    Status: ok
-   Updated Date: 15-apr-2011
+   Updated Date: 17-sep-2011
    Creation Date: 16-sep-2010
-   Expiration Date: 16-sep-2011
+   Expiration Date: 16-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:18:16 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 19:11:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,8 +52,8 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Domain Name ..................... hackjx.com
-Name Server ..................... dns16.hichina.com
-                                  dns15.hichina.com
+Name Server ..................... domain3.expiredns.com
+                                  domain4.expiredns.com
 Registrant ID ................... hc110124553-cn
 Registrant Name ................. qian zhang
 Registrant Organization ......... zhang qian

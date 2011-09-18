@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D72725649-LROR
+Domain Name:BIKURCHOLIM-CA.ORG
+Created On:15-Jun-2001 20:46:29 UTC
+Last Updated On:16-Jun-2011 01:22:32 UTC
+Expiration Date:15-Jun-2012 20:46:29 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:82513342bfed6930
+Registrant Name:Hershy Ten
+Registrant Organization:Jewish  Healthcare  Foundation - Avraham  Moshe  Bikur  Cholim
+Registrant Street1:8489 West Third Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Los Angeles
+Registrant State/Province:CA
+Registrant Postal Code:90048
+Registrant Country:US
+Registrant Phone:+1.3238521900
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:harold.ten@att.net
+Admin ID:82513342bfed6930
+Admin Name:Hershy Ten
+Admin Organization:Jewish  Healthcare  Foundation - Avraham  Moshe  Bikur  Cholim
+Admin Street1:8489 West Third Street
+Admin Street2:
+Admin Street3:
+Admin City:Los Angeles
+Admin State/Province:CA
+Admin Postal Code:90048
+Admin Country:US
+Admin Phone:+1.3238521900
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:harold.ten@att.net
+Tech ID:3656591373e9d075
+Tech Name:Domain Registrar
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027492701
+Tech FAX Ext.:
+Tech Email:domainregistrar@register.com
+Name Server:DNS031.A.REGISTER.COM
+Name Server:DNS173.B.REGISTER.COM
+Name Server:DNS245.C.REGISTER.COM
+Name Server:DNS249.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

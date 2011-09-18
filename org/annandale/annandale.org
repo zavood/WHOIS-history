@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D644106-LROR
+Domain Name:ANNANDALE.ORG
+Created On:24-Nov-1997 05:00:00 UTC
+Last Updated On:26-Jan-2011 19:06:22 UTC
+Expiration Date:23-Nov-2013 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31374458-NSI
+Registrant Name:Annandale Village
+Registrant Organization:Annandale Village
+Registrant Street1:3500 Annandale Lane
+Registrant Street2:
+Registrant Street3:
+Registrant City:Suwanee
+Registrant State/Province:GA
+Registrant Postal Code:30174
+Registrant Country:US
+Registrant Phone:+1.77045144
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mbarker@MINDSPRING.COM
+Admin ID:5667539-NSI
+Admin Name:System Administrator
+Admin Organization:Advanced Computing Techlologies, Inc.
+Admin Street1:2760 Peachtree Industrial Blvd.
+Admin Street2:Suite B
+Admin Street3:
+Admin City:Duluth
+Admin State/Province:GA
+Admin Postal Code:30097
+Admin Country:US
+Admin Phone:+1.7709350300
+Admin Phone Ext.:
+Admin FAX:+1.7709350303
+Admin FAX Ext.:
+Admin Email:sysadmin@atlantaofficesolutions.com
+Tech ID:5667539-NSI
+Tech Name:System Administrator
+Tech Organization:Advanced Computing Techlologies, Inc.
+Tech Street1:2760 Peachtree Industrial Blvd.
+Tech Street2:Suite B
+Tech Street3:
+Tech City:Duluth
+Tech State/Province:GA
+Tech Postal Code:30097
+Tech Country:US
+Tech Phone:+1.7709350300
+Tech Phone Ext.:
+Tech FAX:+1.7709350303
+Tech FAX Ext.:
+Tech Email:sysadmin@atlantaofficesolutions.com
+Name Server:NS6.ZANACORE.COM
+Name Server:NS5.ZANACORE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

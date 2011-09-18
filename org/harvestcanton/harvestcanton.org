@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D129363193-LROR
+Domain Name:HARVESTCANTON.ORG
+Created On:22-Sep-2006 20:42:30 UTC
+Last Updated On:12-Sep-2011 14:15:41 UTC
+Expiration Date:22-Sep-2012 20:42:30 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR35460542
+Registrant Name:Jamie Langan
+Registrant Organization:Ideas Plus
+Registrant Street1:45570 Maben Rd
+Registrant Street2:Suite 100
+Registrant Street3:
+Registrant City:Canton
+Registrant State/Province:Michigan
+Registrant Postal Code:48187
+Registrant Country:US
+Registrant Phone:+1.7344531950
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jlangan@ideasplus.org
+Admin ID:CR35460544
+Admin Name:Jamie Langan
+Admin Organization:Ideas Plus
+Admin Street1:45570 Maben Rd
+Admin Street2:Suite 100
+Admin Street3:
+Admin City:Canton
+Admin State/Province:Michigan
+Admin Postal Code:48187
+Admin Country:US
+Admin Phone:+1.7344531950
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jlangan@ideasplus.org
+Tech ID:CR35460543
+Tech Name:Jamie Langan
+Tech Organization:Ideas Plus
+Tech Street1:45570 Maben Rd
+Tech Street2:Suite 100
+Tech Street3:
+Tech City:Canton
+Tech State/Province:Michigan
+Tech Postal Code:48187
+Tech Country:US
+Tech Phone:+1.7344531950
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jlangan@ideasplus.org
+Name Server:NS1.STRATUMDEVELOPMENT.COM
+Name Server:NS2.STRATUMDEVELOPMENT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,20 @@
+
+domain:   utu.fi
+descr:    Turun yliopisto
+descr:    02458963
+address:  Tietohallinto / Mikko Niemi
+address:  Assistentinkatu 5
+address:  20014
+address:  Turun yliopisto
+phone:    (02) 333 9105
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver:  ns1.utu.fi [Ok]
+nserver:  ns2.utu.fi [Ok]
+nserver:  ns-secondary.funet.fi [Ok]
+dnssec:   no
+modified: 25.7.2011
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D102694337-LROR
+Domain Name:VENUSGROUP.ORG
+Created On:15-Nov-2003 08:14:48 UTC
+Last Updated On:18-Nov-2010 05:41:28 UTC
+Expiration Date:15-Nov-2011 08:14:48 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_1784835
+Registrant Name:Anil Jain
+Registrant Organization:Venus AD Films
+Registrant Street1:106/1, Blue Diamond Bunglow
+Registrant Street2:Opp. SNDT College
+Registrant Street3:Santacruz (W)
+Registrant City:Mumbai
+Registrant State/Province:MH
+Registrant Postal Code:400049
+Registrant Country:IN
+Registrant Phone:+91.2226600473
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mufazal@itplaza.us
+Admin ID:DI_620308
+Admin Name:Wala FM
+Admin Organization:IT PLAZA
+Admin Street1:7000 NW 186th Street
+Admin Street2:# 417
+Admin Street3:
+Admin City:Miami
+Admin State/Province:FL
+Admin Postal Code:33015
+Admin Country:US
+Admin Phone:+305.6985184
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:walafm@itplaza.us
+Tech ID:DI_620308
+Tech Name:Wala FM
+Tech Organization:IT PLAZA
+Tech Street1:7000 NW 186th Street
+Tech Street2:# 417
+Tech Street3:
+Tech City:Miami
+Tech State/Province:FL
+Tech Postal Code:33015
+Tech Country:US
+Tech Phone:+305.6985184
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:walafm@itplaza.us
+Name Server:NS1.ITPLAZA.US
+Name Server:NS2.ITPLAZA.US
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

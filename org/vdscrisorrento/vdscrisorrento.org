@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D140090115-LROR
+Domain Name:VDSCRISORRENTO.ORG
+Created On:20-Feb-2007 11:01:42 UTC
+Last Updated On:26-Jan-2011 20:05:38 UTC
+Expiration Date:20-Feb-2012 11:01:42 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuYUU8tLU6KEO36W
+Registrant Name:Luigi Fiorentino
+Registrant Organization:Luigi Fiorentino
+Registrant Street1:via S.Cesareo, 33
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sorrento
+Registrant State/Province:NA
+Registrant Postal Code:80067
+Registrant Country:IT
+Registrant Phone:+39.818782920
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:luigifiorentino@virgilio.it
+Admin ID:tuYUU8tLU6KEO36W
+Admin Name:Luigi Fiorentino
+Admin Organization:Luigi Fiorentino
+Admin Street1:via S.Cesareo, 33
+Admin Street2:
+Admin Street3:
+Admin City:Sorrento
+Admin State/Province:NA
+Admin Postal Code:80067
+Admin Country:IT
+Admin Phone:+39.818782920
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:luigifiorentino@virgilio.it
+Tech ID:tuahcI6YBe2UZ6bw
+Tech Name:Luigi Fiorentino
+Tech Organization:Luigi Fiorentino
+Tech Street1:via S.Cesareo, 33
+Tech Street2:
+Tech Street3:
+Tech City:Sorrento
+Tech State/Province:NA
+Tech Postal Code:80067
+Tech Country:IT
+Tech Phone:+39.818782920
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:luigifiorentino@virgilio.it
+Name Server:DNS2.TECHNORAIL.COM
+Name Server:DNS.TECHNORAIL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

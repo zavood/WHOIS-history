@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160704248-LROR
+Domain Name:APCOGLOBALCONGRESS.ORG
+Created On:18-Nov-2010 17:22:12 UTC
+Last Updated On:18-Jan-2011 03:49:45 UTC
+Expiration Date:18-Nov-2012 17:22:12 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR67606301
+Registrant Name:Keith Hall
+Registrant Organization:Some No-Name Company Inc.
+Registrant Street1:1411 K Street, NW
+Registrant Street2:Suite 1400
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:District of Columbia
+Registrant Postal Code:20005
+Registrant Country:US
+Registrant Phone:+1.2026846855
+Registrant Phone Ext.:
+Registrant FAX:+1.2026282737
+Registrant FAX Ext.:
+Registrant Email:keith@sononaco.com
+Admin ID:CR67606307
+Admin Name:Keith Hall
+Admin Organization:Some No-Name Company Inc.
+Admin Street1:1411 K Street, NW
+Admin Street2:Suite 1400
+Admin Street3:
+Admin City:Washington
+Admin State/Province:District of Columbia
+Admin Postal Code:20005
+Admin Country:US
+Admin Phone:+1.2026846855
+Admin Phone Ext.:
+Admin FAX:+1.2026282737
+Admin FAX Ext.:
+Admin Email:keith@sononaco.com
+Tech ID:CR67606305
+Tech Name:Keith Hall
+Tech Organization:Some No-Name Company Inc.
+Tech Street1:1411 K Street, NW
+Tech Street2:Suite 1400
+Tech Street3:
+Tech City:Washington
+Tech State/Province:District of Columbia
+Tech Postal Code:20005
+Tech Country:US
+Tech Phone:+1.2026846855
+Tech Phone Ext.:
+Tech FAX:+1.2026282737
+Tech FAX Ext.:
+Tech Email:keith@sononaco.com
+Name Server:DNS10.SONONACO.NET
+Name Server:DNS11.SONONACO.NET
+Name Server:DNS12.SONONACO.NET
+Name Server:DNS13.SONONACO.NET
+Name Server:DNS14.SONONACO.NET
+Name Server:DNS15.SONONACO.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

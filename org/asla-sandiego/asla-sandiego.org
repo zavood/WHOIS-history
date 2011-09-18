@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D37972415-LROR
+Domain Name:ASLA-SANDIEGO.ORG
+Created On:18-Oct-2000 00:45:42 UTC
+Last Updated On:20-Oct-2008 21:28:15 UTC
+Expiration Date:18-Oct-2018 00:45:42 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:17732BF8D9A5D4C0
+Registrant Name:Jerrie Beard
+Registrant Organization:ASLA San Diego
+Registrant Street1:PO Box 2536
+Registrant Street2:
+Registrant Street3:
+Registrant City:Placerville
+Registrant State/Province:CA
+Registrant Postal Code:95667
+Registrant Country:US
+Registrant Phone:+1.5306211701
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jsb@beardassociates.com
+Admin ID:17732BF8D9A5D4C0
+Admin Name:Jerrie Beard
+Admin Organization:ASLA San Diego
+Admin Street1:PO Box 2536
+Admin Street2:
+Admin Street3:
+Admin City:Placerville
+Admin State/Province:CA
+Admin Postal Code:95667
+Admin Country:US
+Admin Phone:+1.5306211701
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jsb@beardassociates.com
+Tech ID:9A63CD55545EA035
+Tech Name:WestHost Hostmaster
+Tech Organization:WestHost Inc.
+Tech Street1:164 N Spring Creek Pkwy
+Tech Street2:
+Tech Street3:
+Tech City:Providence
+Tech State/Province:UT
+Tech Postal Code:84332
+Tech Country:US
+Tech Phone:+1.14357553433
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@westhost.com
+Name Server:NS1.FATCOW.COM
+Name Server:NS2.FATCOW.COM
+Name Server:NS3.FATCOW.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,92 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; waynediscus.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      waynediscus.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LG420-FRNIC
+admin-c:     GL402-FRNIC
+tech-c:      AG409-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5368-FRNIC
+registrar:   ACTION GIRATOIRE
+anniversary: 22/12
+created:     22/12/2003
+last-update: 01/05/2004
+source:      FRNIC
+
+ns-list:     NSL5368-FRNIC
+nserver:     ns.ddn.fr [194.116.202.25]
+nserver:     ns2.ddn.fr [212.37.219.30]
+source:      FRNIC
+
+registrar:   ACTION GIRATOIRE
+type:        Isp Option 2
+address:     Quartier Les Gatiers
+address:     TOURVES
+country:     FR
+phone:       +33 4 42 01 65 22
+fax-no:      +33 4 42 01 65 20
+e-mail:      admin@action-giratoire.com
+website:     http://www.ddn.fr
+anonymous:   NO
+registered:  15/01/2003
+source:      FRNIC
+
+nic-hdl:     LG420-FRNIC
+type:        ORGANIZATION
+contact:     LAUE Guillaume
+address:     62, boulevard Malesherbes
+address:     75008 Paris
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GL402-FRNIC
+type:        PERSON
+contact:     Guillaume Laue
+address:     LAUE Guillaume
+address:     62, boulevard Malesherbes
+address:     75008 Paris
+country:     FR
+phone:       +33 1 49 11 15 65
+fax-no:      +33 1 49 11 15 65
+e-mail:      epise.wayne@wanadoo.fr
+changed:     22/12/2003 frnic-dbm-updates@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AG409-FRNIC
+type:        ROLE
+contact:     Action Giratoire
+address:     Domaine Des Noms (DDN.fr)
+address:     quartier les Gatiers
+address:     83170 Tourves
+country:     FR
+phone:       +33 4 98 05 03 83
+e-mail:      support@domainedesnoms.com
+admin-c:     RP847-FRNIC
+tech-c:      RP847-FRNIC
+changed:     19/05/2006 support@domainedesnoms.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

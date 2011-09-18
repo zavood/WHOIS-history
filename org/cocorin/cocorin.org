@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152558639-LROR
+Domain Name:COCORIN.ORG
+Created On:27-Apr-2008 17:17:31 UTC
+Last Updated On:25-Feb-2011 00:04:22 UTC
+Expiration Date:27-Apr-2012 17:17:31 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:D12093150813798
+Registrant Name:matsuura kennichi
+Registrant Organization:SAKURA Internet Inc.
+Registrant Street1:9F, 1-8-14, Minami-hommachi, Chuo-ku
+Registrant Street2:
+Registrant Street3:
+Registrant City:Osaka
+Registrant State/Province:Osaka
+Registrant Postal Code:541-0054
+Registrant Country:JP
+Registrant Phone:+81.81662654830
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nic-staff@sakura.ad.jp
+Admin ID:D12093150813795
+Admin Name:Internet SAKURA
+Admin Organization:SAKURA Internet Inc.
+Admin Street1:9F, 1-8-14, Minami-hommachi, Chuo-ku
+Admin Street2:
+Admin Street3:
+Admin City:Osaka
+Admin State/Province:Osaka
+Admin Postal Code:541-0054
+Admin Country:JP
+Admin Phone:+81.81662654830
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nic-staff@sakura.ad.jp
+Tech ID:D12093150813797
+Tech Name:Internet SAKURA
+Tech Organization:SAKURA Internet Inc.
+Tech Street1:9F, 1-8-14, Minami-hommachi, Chuo-ku
+Tech Street2:
+Tech Street3:
+Tech City:Osaka
+Tech State/Province:Osaka
+Tech Postal Code:541-0054
+Tech Country:JP
+Tech Phone:+81.81662654830
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:nic-staff@sakura.ad.jp
+Name Server:NS1.DNS.NE.JP
+Name Server:NS2.DNS.NE.JP
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

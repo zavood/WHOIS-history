@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D93109248-LROR
+Domain Name:FUNDAZUCAR.ORG
+Created On:13-Dec-2002 21:43:49 UTC
+Last Updated On:26-Nov-2010 15:52:51 UTC
+Expiration Date:13-Dec-2012 21:43:49 UTC
+Sponsoring Registrar:DirectNIC, LTD (R48-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:IMG-836906
+Registrant Name:Ana Elisa Davila
+Registrant Organization:CCG
+Registrant Street1:10 calle 3-80 zona 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Guatemala
+Registrant State/Province:Guatemala
+Registrant Postal Code:01001
+Registrant Country:GT
+Registrant Phone:+502.22291800
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:adavila@camaradecomercio.org.gt
+Admin ID:ODN-391233
+Admin Name:Vladimir Orellana
+Admin Organization:Camara de Comercio
+Admin Street1:10ma Calle 3-80 Zona 1
+Admin Street2:
+Admin Street3:
+Admin City:Guatemala
+Admin State/Province:Not Applicable
+Admin Postal Code:01001
+Admin Country:GT
+Admin Phone:+502.50223268888
+Admin Phone Ext.:305
+Admin FAX:+502.50223268888
+Admin FAX Ext.:
+Admin Email:webmaster@camaradecomercio.org.gt
+Tech ID:ODN-391233
+Tech Name:Vladimir Orellana
+Tech Organization:Camara de Comercio
+Tech Street1:10ma Calle 3-80 Zona 1
+Tech Street2:
+Tech Street3:
+Tech City:Guatemala
+Tech State/Province:Not Applicable
+Tech Postal Code:01001
+Tech Country:GT
+Tech Phone:+502.50223268888
+Tech Phone Ext.:305
+Tech FAX:+502.50223268888
+Tech FAX Ext.:
+Tech Email:webmaster@camaradecomercio.org.gt
+Name Server:DNS2.GT.AMNETDATOS.NET
+Name Server:DNS1.US.AMNETDATOS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,51 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 15:40:37 (BRT -03:00)
+
+domain:      fashionismo.com.br
+owner:       Marina Pontes macacchero
+ownerid:     091.369.777-05
+country:     BR
+owner-c:     MPM200
+admin-c:     MPM200
+tech-c:      MASAS2
+billing-c:   MASAS2
+nserver:     ns1.dominios.uol.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns2.dominios.uol.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns3.dominios.uol.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     20090310 #5356351
+expires:     20120310
+changed:     20110220
+status:      published
+
+nic-hdl-br:  MASAS2
+person:      Mariana da Silva Assmann
+e-mail:      mari.assmann@gmail.com
+created:     20070721
+changed:     20080408
+
+nic-hdl-br:  MPM200
+person:      Marina Pontes Macacchero
+e-mail:      marinamac@gmail.com
+created:     20030722
+changed:     20101127
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

@@ -1,0 +1,63 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-19T06:45:35+12:00
+domain_name: m2magazine.co.nz
+query_status: 200 Active
+domain_dateregistered: 2005-03-05T17:19:24+13:00
+domain_datebilleduntil: 2012-03-05T17:19:24+13:00
+domain_datelastmodified: 2011-03-01T11:32:54+13:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: iSERVE
+registrar_address1: P O Box 47-020
+registrar_city: Wellington
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 939-8502
+registrar_fax: +64 4 939-8501
+registrar_email: soa@iserve.co.nz
+%
+registrant_contact_name: Espy Connect
+registrant_contact_address1: PO Box 353
+registrant_contact_address2: Shortland Street
+registrant_contact_city: Auckland
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 9 3615540
+registrant_contact_email: connect@espyconnect.com
+%
+admin_contact_name: Espy Connect
+admin_contact_address1: PO Box 353
+admin_contact_address2: Shortland Street
+admin_contact_city: Auckland
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 9 3615540
+admin_contact_email: connect@espyconnect.com
+%
+technical_contact_name: Espy Connect
+technical_contact_address1: P O Box 353
+technical_contact_address2: Shortland Street
+technical_contact_city: Auckland
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 9 3615540
+technical_contact_email: connect@espyconnect.com
+%
+ns_name_01: ns1.iserve.net.nz
+ns_name_02: ns2.iserve.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

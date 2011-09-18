@@ -1,0 +1,76 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sun Sep 18 20:30:00 2011
+
+domain:       prodejce.cz
+registrant:   SB:AYACZ
+admin-c:      JLNENICKA
+temp-c:       MKRIZEK
+nsset:        NSS:WZCZ
+registrar:    REG-GENREG
+status:       paid and in zone
+registered:   07.04.2000 15:01:00
+changed:      03.06.2008 17:52:40
+expire:       07.04.2012
+
+contact:      SB:AYACZ
+org:          AYA CZ, spol. s r.o
+name:         Jarom&Atilde;&shy;r Ln&Auml;õni&Auml;çka
+address:      Na Jarov&Auml;õ 1959/11
+address:      Praha 3
+address:      130 00
+address:      CZ
+e-mail:       podpora@anoweb.cz
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      17.12.2010 10:18:06
+
+contact:      JLNENICKA
+name:         Jaromir Lnenicka
+address:      Na Jarove 11
+address:      Praha
+address:      130 00
+address:      CZ
+e-mail:       obchod@anoweb.cz
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      16.12.2010 19:24:05
+
+contact:      MKRIZEK
+name:         Martin Krizek
+address:      Nab&Aring;ôe&Aring;&frac34;n&Atilde;&shy; 1353/31a
+address:      Polanka nad Odrou
+address:      72525
+address:      CZ
+e-mail:       aya@aya.cz
+registrar:    REG-MEDIA4WEB
+created:      10.08.2001 22:13:00
+changed:      20.01.2010 18:35:18
+
+nsset:        NSS:WZCZ
+nserver:      b.ns.webzdarma.cz (89.185.237.3)
+nserver:      a.ns.webzdarma.cz (88.86.113.151)
+tech-c:       JLNENICKA
+tech-c:       MKRIZEK
+tech-c:       SB:AYACZ
+registrar:    REG-GENREG
+created:      18.01.2008 17:14:48
+changed:      19.07.2011 14:21:08
+
+

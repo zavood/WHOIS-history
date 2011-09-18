@@ -1,0 +1,86 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; blog-etoile.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      blog-etoile.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CEGI8-FRNIC
+admin-c:     ACCE197-FRNIC
+tech-c:      CF345-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL47531-FRNIC
+registrar:   COGITEL FORUM
+anniversary: 30/07
+created:     30/07/2007
+last-update: 22/03/2011
+source:      FRNIC
+
+ns-list:     NSL47531-FRNIC
+nserver:     cigale.cogitel-forum.fr [88.191.48.129]
+nserver:     fourmillon.cogitel-forum.fr [87.106.108.95]
+nserver:     mosquito.cogitel-forum.fr [46.105.6.180]
+source:      FRNIC
+
+registrar:   COGITEL FORUM
+type:        Isp Option 2
+anonymous:   YES
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     CEGI8-FRNIC
+type:        ORGANIZATION
+contact:     CONSEIL EN GESTION INFORMATIQUE ET TELEMATIQUE DU FORUM
+address:     41, rue du temple
+address:     75004 Paris
+country:     FR
+phone:       +33 1 42 77 19 72
+e-mail:      j-a.esculier@cogitel-forum.fr
+changed:     17/02/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ACCE197-FRNIC
+type:        PERSON
+contact:     admin-c CONSEIL EN GESTION INFORMATIQUE ET TELEMATIQUE DU FORUM
+address:     41, rue du Temple
+address:     75004 Paris
+country:     FR
+phone:       +33 1 42 77 19 72
+e-mail:      j-a.esculier@cogitel-forum.fr
+changed:     30/07/2007 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CF345-FRNIC
+type:        ROLE
+contact:     Cogitel Forum
+address:     Cogitel
+address:     41, rue du Temple
+address:     75004 Paris
+country:     FR
+phone:       +33 1 42 77 19 72
+e-mail:      j-a.esculier@cogitel-forum.fr
+admin-c:     FC92-FRNIC
+tech-c:      LC375-FRNIC
+changed:     01/06/2004 j-a.esculier@cogitel-forum.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

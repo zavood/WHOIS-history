@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 25-jan-2011
    Expiration Date: 25-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 23:46:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 18:35:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,7 +76,7 @@ Registrars.
 # Pour obtenir les informations en status 'Protected by policy', contactez
 # directement le registre concerne (Eurid, AFNIC)
 #
-# 2011-09-17 01:47:28 CEST
+# 2011-09-18 20:36:18 CEST
 
 domain: ambassadorfc.com
 reg_created: 2011-01-25 14:52:06

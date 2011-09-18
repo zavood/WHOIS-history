@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D151030026-LROR
+Domain Name:CATHEDRALCONCERTS.ORG
+Created On:10-Feb-2008 21:54:20 UTC
+Last Updated On:10-Jan-2011 22:27:09 UTC
+Expiration Date:10-Feb-2012 21:54:20 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34986255
+Registrant Name:Scott Kennebeck
+Registrant Organization:St. Louis Cathedral Concerts
+Registrant Street1:4431 Lindell Blvd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Saint Louis
+Registrant State/Province:Missouri
+Registrant Postal Code:63108
+Registrant Country:US
+Registrant Phone:+1.3145337662
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:concerts@cathedralstl.org
+Admin ID:CR34986257
+Admin Name:Scott Kennebeck
+Admin Organization:St. Louis Cathedral Concerts
+Admin Street1:4431 Lindell Blvd
+Admin Street2:
+Admin Street3:
+Admin City:Saint Louis
+Admin State/Province:Missouri
+Admin Postal Code:63108
+Admin Country:US
+Admin Phone:+1.3145337662
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:concerts@cathedralstl.org
+Tech ID:CR34986256
+Tech Name:Scott Kennebeck
+Tech Organization:St. Louis Cathedral Concerts
+Tech Street1:4431 Lindell Blvd
+Tech Street2:
+Tech Street3:
+Tech City:Saint Louis
+Tech State/Province:Missouri
+Tech Postal Code:63108
+Tech Country:US
+Tech Phone:+1.3145337662
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:concerts@cathedralstl.org
+Name Server:NS51.DOMAINCONTROL.COM
+Name Server:NS52.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

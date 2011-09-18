@@ -1,0 +1,125 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; u-psud.fr
+%%
+%% RL Net [##########] - RL IP [########..]
+%%
+
+domain:      u-psud.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UDPX9-FRNIC
+admin-c:     GC5339-FRNIC
+tech-c:      GRST1-FRNIC
+tech-c:      AM7791-FRNIC
+tech-c:      NB3355-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5898-FRNIC
+registrar:   RENATER
+anniversary: 07/10
+created:     18/04/1995
+last-update: 25/05/2011
+source:      FRNIC
+
+ns-list:     NSL5898-FRNIC
+nserver:     upsn2.u-psud.fr [193.55.10.66]
+nserver:     upsn1.u-psud.fr [193.55.10.65]
+nserver:     ciripa.idris.fr [130.84.32.8]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     UDPX9-FRNIC
+type:        ORGANIZATION
+contact:     UNIVERSITE DE PARIS XI PARIS SUD
+address:     15, rue Georges Clemenceau
+address:     91405 Orsay
+country:     FR
+phone:       +33 1 69 15 77 59
+fax-no:      +33 1 69 15 69 86
+e-mail:      didier.will@u-psud.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GC5339-FRNIC
+type:        PERSON
+contact:     Guy Couarraze
+address:     Univ. Paris Sud 11
+address:     15, rue Georges Clemenceau
+address:     91405 Orsay
+country:     FR
+phone:       +33 1 69 15 74 06
+fax-no:      +33 1 69 15 61 03
+e-mail:      president@u-psud.fr
+changed:     25/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GRST1-FRNIC
+type:        PERSON
+contact:     Gip Renater Support Technique Dns
+address:     23-25, rue Daviel
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 40
+e-mail:      support-dns@renater.fr
+changed:     28/01/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AM7791-FRNIC
+type:        PERSON
+contact:     Aurelien Mere
+address:     Univ. Paris Sud 11
+address:     15, rue Georges Clemenceau
+address:     91405 Orsay Cedex
+country:     FR
+phone:       +33 1 69 15 37 92
+fax-no:      +33 1 69 15 56 34
+e-mail:      aurelien.mere@u-psud.fr
+changed:     25/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NB3355-FRNIC
+type:        PERSON
+contact:     Nicolas Babut
+address:     Univ. Paris Sud 11
+address:     15, rue Georges Clemenceau
+address:     91405 Orsay Cedex
+country:     FR
+phone:       +33 1 69 15 66 83
+fax-no:      +33 1 69 15 56 34
+e-mail:      nicolas.babut@u-psud.fr
+changed:     25/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

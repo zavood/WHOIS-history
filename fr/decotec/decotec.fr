@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; decotec.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      decotec.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    D355-FRNIC
+admin-c:     NC195-FRNIC
+tech-c:      DD195-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1835-FRNIC
+registrar:   MAILCLUB
+anniversary: 28/06
+created:     28/04/1998
+last-update: 01/05/2004
+source:      FRNIC
+
+ns-list:     NSL1835-FRNIC
+nserver:     ns1.mailclub.fr [80.245.60.10]
+nserver:     ns2.mailclub.fr [193.151.86.13]
+source:      FRNIC
+
+registrar:   MAILCLUB
+type:        Isp Option 1
+address:     P&ocirc;le M&eacute;dia de la Belle de Mai
+address:     37 Rue Guibal
+address:     MARSEILLE CEDEX 03
+country:     FR
+phone:       +33 4 88 66 22 22
+fax-no:      +33 4 88 66 22 20
+e-mail:      clientele@mailclub.fr
+website:     http://www.mailclub.fr
+anonymous:   NO
+registered:  01/01/1999
+source:      FRNIC
+
+nic-hdl:     D355-FRNIC
+type:        ORGANIZATION
+contact:     DECOTEC
+address:     3, boulevard Voltaire
+address:     75011 Paris
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     NC195-FRNIC
+type:        PERSON
+contact:     Noelle Chalot
+address:     DECOTEC
+address:     3, boulevard Voltaire
+address:     75011 Paris
+country:     FR
+phone:       +33 1 53 36 15 00
+fax-no:      +33 1 43 38 20 69
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DD195-FRNIC
+type:        ROLE
+contact:     Service Technique
+address:     MailClub
+address:     Pole Media de la Belle de Mai
+address:     37, rue Guibal
+address:     13356 Marseille Cedex 3
+country:     FR
+phone:       +33 4 88 66 22 22
+e-mail:      technique@mailclub.fr
+admin-c:     CT1010-FRNIC
+tech-c:      CT1010-FRNIC
+notify:      ripe@daydream.org
+changed:     20/07/2006 technique@mailclub.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
