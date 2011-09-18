@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 04-sep-1996
    Expiration Date: 03-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 08:16:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 20:31:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,56 +52,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- Toronto Life Publishing Company Ltd.
- 320 - 111 Queen Street East
- Toronto, ON M5C 1S2
- CA
-
- Domain name: TORONTOLIFE.COM
-
-
- Administrative Contact:
-    St. Pierre, Jean-Marc  dnsadmin@stjosephmedia.com
-    320 - 111 Queen Street East
-    Toronto, ON M5C 1S2
-    CA
-    +1.4163643333    Fax: 416-955-4996
-
- Technical Contact:
-    St. Pierre, Jean-Marc  dnsadmin@stjosephmedia.com
-    320 - 111 Queen Street East
-    Toronto, ON M5C 1S2
-    CA
-    +1.4163643333    Fax: 416-955-4996
-
-
-
- Registrar of Record: easyDNS Technologies, Inc.
- Record last updated on 09-Aug-2011.
- Record expires on 03-Sep-2012.
- Record created on 04-Sep-1996.
-
- Domain servers in listed order:
-    DNS1.EASYDNS.COM   64.68.192.10
-    DNS2.EASYDNS.NET   72.52.2.1
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-This domain is being managed via EASYDNS
-
-The DNS Hosting specialists since 1998
-
-DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
-
-Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
-
-System Status Updates: http://easyurl.net/easystatus
-
-( Follow us on Twitter http://twitter.com/easydns
-  or Identi.ca http://identi.ca/easyDNS )
-
-
-You have 2 lookups left today
+Too many lookups from this IP today. See you tomorrow.

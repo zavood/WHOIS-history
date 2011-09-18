@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 02-may-2002
    Expiration Date: 02-may-2016
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:35:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 20:45:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: dnsprotect.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:31:15 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sun Sep 18 16:35:39 EDT 2011
 Reason Code: IE

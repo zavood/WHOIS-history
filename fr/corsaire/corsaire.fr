@@ -1,0 +1,101 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; corsaire.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      corsaire.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    C2151-FRNIC
+admin-c:     GF125-FRNIC
+tech-c:      SS11050-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL40846-FRNIC
+registrar:   CORSAIRE
+anniversary: 28/05
+created:     28/05/2002
+last-update: 12/04/2011
+source:      FRNIC
+
+ns-list:     NSL40846-FRNIC
+nserver:     ns0.corsaire.fr [85.14.165.115]
+nserver:     ns1.corsaire.fr [85.14.165.116]
+nserver:     ns2.corsaire.fr [92.243.26.241]
+source:      FRNIC
+
+registrar:   CORSAIRE
+type:        Isp Option 2
+address:     20 rue de Sardaigne
+address:     ZA du Danemark
+address:     LE MANS
+country:     FR
+phone:       +33 2 43 82 97 97
+fax-no:      +33 2 43 82 75 75
+e-mail:      info@corsaire.fr
+website:     http://www.nozicaa.com
+anonymous:   NO
+registered:  01/01/2004
+source:      FRNIC
+
+nic-hdl:     C2151-FRNIC
+type:        ORGANIZATION
+contact:     CORSAIRE
+address:     5, place Lionel Lecouteux
+address:     72000 Le Mans
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GF125-FRNIC
+type:        PERSON
+contact:     Gabriel Forestier
+address:     CORSAIRE
+address:     5, place Lionel Lecouteux
+address:     72000 Le Mans
+country:     FR
+phone:       +33 2 43 82 75 00
+changed:     24/05/2002 webadmin@sigire.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SS11050-FRNIC
+type:        ROLE
+contact:     SIGIRE SARL
+address:     NOZICAA - SARL CORSAIRE
+address:     20, rue de Sardaigne
+address:     zone d'activites du Danemark
+address:     72100 Le Mans
+country:     FR
+phone:       +33 2 43 82 97 97
+fax-no:      +33 2 43 82 97 99
+e-mail:      webadmin@sigire.fr
+trouble:     Informations: http://www.nozicaa.com
+trouble:     Questions: mailto:contact@nozicaa.com
+admin-c:     GF387-FRNIC
+admin-c:     PR764-FRNIC
+admin-c:     NR46-FRNIC
+tech-c:      GF387-FRNIC
+tech-c:      PR764-FRNIC
+tech-c:      NR46-FRNIC
+notify:      webadmin@sigire.fr
+changed:     09/12/2004 webadmin@sigire.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

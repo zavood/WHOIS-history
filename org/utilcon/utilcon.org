@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153586776-LROR
+Domain Name:UTILCON.ORG
+Created On:13-Aug-2008 10:11:33 UTC
+Last Updated On:14-Aug-2011 01:25:18 UTC
+Expiration Date:13-Aug-2012 10:11:33 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:DI_8565710
+Registrant Name:FIROS S
+Registrant Organization:AES Solutions
+Registrant Street1:AES Solutions
+Registrant Street2:Gayatri- Technopark
+Registrant Street3:
+Registrant City:Trivandrum
+Registrant State/Province:Kerala
+Registrant Postal Code:695581
+Registrant Country:IN
+Registrant Phone:+91.9447520811
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:firosit@yahoo.com
+Admin ID:DI_8565710
+Admin Name:FIROS S
+Admin Organization:AES Solutions
+Admin Street1:AES Solutions
+Admin Street2:Gayatri- Technopark
+Admin Street3:
+Admin City:Trivandrum
+Admin State/Province:Kerala
+Admin Postal Code:695581
+Admin Country:IN
+Admin Phone:+91.9447520811
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:firosit@yahoo.com
+Tech ID:DI_8565710
+Tech Name:FIROS S
+Tech Organization:AES Solutions
+Tech Street1:AES Solutions
+Tech Street2:Gayatri- Technopark
+Tech Street3:
+Tech City:Trivandrum
+Tech State/Province:Kerala
+Tech Postal Code:695581
+Tech Country:IN
+Tech Phone:+91.9447520811
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:firosit@yahoo.com
+Name Server:DNS.PARKPAGE.FOUNDATIONAPI.COM
+Name Server:DNS2.PARKPAGE.FOUNDATIONAPI.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

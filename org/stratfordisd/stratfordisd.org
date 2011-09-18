@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D33217108-LROR
+Domain Name:STRATFORDISD.ORG
+Created On:18-Aug-2000 23:28:35 UTC
+Last Updated On:13-Dec-2004 18:58:52 UTC
+Expiration Date:18-Aug-2012 23:28:35 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28665699-NSI
+Registrant Name:Stratford Public Schools
+Registrant Organization:Stratford Public Schools
+Registrant Street1:PO Box 589
+Registrant Street2:
+Registrant Street3:
+Registrant City:Stratford
+Registrant State/Province:OK
+Registrant Postal Code:74872
+Registrant Country:US
+Registrant Phone:+1.58092459
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tsisk@ISCCOMPUTERS.COM
+Admin ID:28665701-NSI
+Admin Name:Steve Wilcox
+Admin Organization:ISC Technologies
+Admin Street1:402 North First
+Admin Street2:P.O. Box 1059
+Admin Street3:
+Admin City:Durant
+Admin State/Province:OK
+Admin Postal Code:74702
+Admin Country:US
+Admin Phone:+1.580931306
+Admin Phone Ext.:
+Admin FAX:+1.580759266
+Admin FAX Ext.:
+Admin Email:swilcox@isctechnologies.com
+Tech ID:28665701-NSI
+Tech Name:Steve Wilcox
+Tech Organization:ISC Technologies
+Tech Street1:402 North First
+Tech Street2:P.O. Box 1059
+Tech Street3:
+Tech City:Durant
+Tech State/Province:OK
+Tech Postal Code:74702
+Tech Country:US
+Tech Phone:+1.580931306
+Tech Phone Ext.:
+Tech FAX:+1.580759266
+Tech FAX Ext.:
+Tech Email:swilcox@isctechnologies.com
+Name Server:NS2.REDRIVEROK.COM
+Name Server:NS1.STRATFORDISD.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

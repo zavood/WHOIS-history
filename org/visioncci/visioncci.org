@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104647476-LROR
+Domain Name:VISIONCCI.ORG
+Created On:19-Jul-2004 01:46:25 UTC
+Last Updated On:20-Jul-2010 09:21:38 UTC
+Expiration Date:19-Jul-2012 01:46:25 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30917286
+Registrant Name:Javier Gomez
+Registrant Organization:Centro Cristiano Internacional
+Registrant Street1:24720 Ridge Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Damascus
+Registrant State/Province:Maryland
+Registrant Postal Code:20872
+Registrant Country:US
+Registrant Phone:+1.3016038200
+Registrant Phone Ext.:
+Registrant FAX:+1.3019319040
+Registrant FAX Ext.:
+Registrant Email:ccius@visioncci.org
+Admin ID:CR30917288
+Admin Name:Javier Gomez
+Admin Organization:Centro Cristiano Internacional
+Admin Street1:24720 Ridge Rd
+Admin Street2:
+Admin Street3:
+Admin City:Damascus
+Admin State/Province:Maryland
+Admin Postal Code:20872
+Admin Country:US
+Admin Phone:+1.3016038200
+Admin Phone Ext.:
+Admin FAX:+1.3019319040
+Admin FAX Ext.:
+Admin Email:ccius@visioncci.org
+Tech ID:CR30917287
+Tech Name:Javier Gomez
+Tech Organization:Centro Cristiano Internacional
+Tech Street1:24720 Ridge Rd
+Tech Street2:
+Tech Street3:
+Tech City:Damascus
+Tech State/Province:Maryland
+Tech Postal Code:20872
+Tech Country:US
+Tech Phone:+1.3016038200
+Tech Phone Ext.:
+Tech FAX:+1.3019319040
+Tech FAX Ext.:
+Tech Email:ccius@visioncci.org
+Name Server:NS01.DOMAINCONTROL.COM
+Name Server:NS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

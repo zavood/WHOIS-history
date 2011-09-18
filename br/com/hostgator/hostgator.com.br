@@ -5,40 +5,13 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-17 03:37:37 (BRT -03:00)
+%  2011-09-18 17:29:07 (BRT -03:00)
+
+% Query rate limit exceeded. Reduced information.
+% Use https://registro.br/cgi-bin/avail/ for domain availability.
 
 domain:      hostgator.com.br
-owner:       Hostgator Brasil Hospedagem e suporte tecnico LTDA
-ownerid:     008.852.780/0001-00
-responsible: Robledo Ribeiro Aloisio
-country:     BR
-owner-c:     HOBRA
-admin-c:     HOBRA
-tech-c:      HOBRA
-billing-c:   HOBRA
-nserver:     ns1.hostgator.com.br 74.53.28.178
-nsstat:      20110913 AA
-nslastaa:    20110913
-nserver:     ns2.hostgator.com.br 74.53.28.179
-nsstat:      20110913 AA
-nslastaa:    20110913
-nserver:     ns3.hostgator.com.br 174.133.202.50
-nsstat:      20110913 AA
-nslastaa:    20110913
-nserver:     ns4.hostgator.com.br 174.133.202.51
-nsstat:      20110913 AA
-nslastaa:    20110913
-created:     20050912 #2351856
-expires:     20180912
-changed:     20110509
-provider:    HOSTGATOR-BRASIL (43)
-status:      published
-
-nic-hdl-br:  HOBRA
-person:      Hostgator Brasil
-e-mail:      rob@hostgator.com.br
-created:     20071207
-changed:     20110509
+owner:       Hostgator Brasil Hospedagem e suporte tecnico LTDA (966416)
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

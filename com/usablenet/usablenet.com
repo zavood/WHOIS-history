@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 21-oct-1999
    Expiration Date: 21-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:12:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 21:22:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -88,5 +88,5 @@ The Registry database contains ONLY .COM, .NET and .ORG domains.
      Secondary Name Server Hostname: UDNS2.ULTRADNS.NET
 
 
-&gt;&gt;&gt; Last update of whois database: Fri Sep 16 13:04:27 2011 &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun Sep 18 22:04:05 2011 &lt;&lt;&lt;
 

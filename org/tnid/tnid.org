@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155949853-LROR
+Domain Name:TNID.ORG
+Created On:24-Apr-2009 12:52:38 UTC
+Last Updated On:25-Jan-2011 22:57:12 UTC
+Expiration Date:24-Apr-2014 12:52:38 UTC
+Sponsoring Registrar:DirectNIC, LTD (R48-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DN-1015720
+Registrant Name:Michael Wally
+Registrant Organization:Telephony Research Services, LLC
+Registrant Street1:961 5th Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:New Kensington
+Registrant State/Province:PA
+Registrant Postal Code:15068
+Registrant Country:US
+Registrant Phone:+1.4122568086
+Registrant Phone Ext.:
+Registrant FAX:+1.2062020202
+Registrant FAX Ext.:
+Registrant Email:contact@telephonyresearch.com
+Admin ID:DN-1015720
+Admin Name:Michael Wally
+Admin Organization:Telephony Research Services, LLC
+Admin Street1:961 5th Avenue
+Admin Street2:
+Admin Street3:
+Admin City:New Kensington
+Admin State/Province:PA
+Admin Postal Code:15068
+Admin Country:US
+Admin Phone:+1.4122568086
+Admin Phone Ext.:
+Admin FAX:+1.2062020202
+Admin FAX Ext.:
+Admin Email:contact@telephonyresearch.com
+Tech ID:DN-1015720
+Tech Name:Michael Wally
+Tech Organization:Telephony Research Services, LLC
+Tech Street1:961 5th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New Kensington
+Tech State/Province:PA
+Tech Postal Code:15068
+Tech Country:US
+Tech Phone:+1.4122568086
+Tech Phone Ext.:
+Tech FAX:+1.2062020202
+Tech FAX Ext.:
+Tech Email:contact@telephonyresearch.com
+Name Server:UDNS1.ULTRADNS.NET
+Name Server:UDNS2.ULTRADNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

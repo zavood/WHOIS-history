@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D108098177-LROR
+Domain Name:MARESMEONCOLOGIC.ORG
+Created On:03-Nov-2005 09:07:46 UTC
+Last Updated On:24-Oct-2010 13:33:37 UTC
+Expiration Date:03-Nov-2011 09:07:46 UTC
+Sponsoring Registrar:Arsys Internet, S.L. dba nicline.com (R144-LROR)
+Status:OK
+Registrant ID:ARS1175078713478
+Registrant Name:Montserrat Chiva Chiva
+Registrant Organization:Clonica Networks, s.l
+Registrant Street1:Batista i Roca 6
+Registrant Street2:
+Registrant Street3:
+Registrant City:Mataro
+Registrant State/Province:Barcelona
+Registrant Postal Code:08302
+Registrant Country:ES
+Registrant Phone:+34.937410355
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:onc@maresmeoncologic.com
+Admin ID:ARS1175078713650
+Admin Name:Departamento de Registros
+Admin Organization:Clonica Networks, S.L
+Admin Street1:Batista i Roca 6 2a planta
+Admin Street2:
+Admin Street3:
+Admin City:Mataro
+Admin State/Province:Barcelona
+Admin Postal Code:08302
+Admin Country:ES
+Admin Phone:+34.937410355
+Admin Phone Ext.:
+Admin FAX:+34.937414225
+Admin FAX Ext.:
+Admin Email:hostmaster@clonica.net
+Tech ID:ARS1175078713650
+Tech Name:Departamento de Registros
+Tech Organization:Clonica Networks, S.L
+Tech Street1:Batista i Roca 6 2a planta
+Tech Street2:
+Tech Street3:
+Tech City:Mataro
+Tech State/Province:Barcelona
+Tech Postal Code:08302
+Tech Country:ES
+Tech Phone:+34.937410355
+Tech Phone Ext.:
+Tech FAX:+34.937414225
+Tech FAX Ext.:
+Tech Email:hostmaster@clonica.net
+Name Server:DNS1.CLONICA.NET
+Name Server:DNS2.CLONICA.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

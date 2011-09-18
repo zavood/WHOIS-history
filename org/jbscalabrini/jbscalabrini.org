@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D127466341-LROR
+Domain Name:JBSCALABRINI.ORG
+Created On:18-Aug-2006 21:19:40 UTC
+Last Updated On:27-Aug-2011 19:07:00 UTC
+Expiration Date:18-Aug-2012 21:19:40 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR32322369
+Registrant Name:Fundacion Scalabrini
+Registrant Street1:Bustamante 180
+Registrant Street2:Providencia
+Registrant Street3:
+Registrant City:Santiago
+Registrant State/Province:
+Registrant Postal Code:0000
+Registrant Country:CL
+Registrant Phone:+56.22229328
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:almkcs@yahoo.com
+Admin ID:CR32322371
+Admin Name:Rodrigo Garcia Segovia
+Admin Street1:Arauco 1196
+Admin Street2:
+Admin Street3:
+Admin City:Santiago
+Admin State/Province:
+Admin Postal Code:0000
+Admin Country:CL
+Admin Phone:+56.25540469
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rod@d2c.cl
+Tech ID:CR32322370
+Tech Name:Rodrigo Garcia Segovia
+Tech Street1:Arauco 1196
+Tech Street2:
+Tech Street3:
+Tech City:Santiago
+Tech State/Province:
+Tech Postal Code:0000
+Tech Country:CL
+Tech Phone:+56.25540469
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rod@d2c.cl
+Name Server:NS35.DOMAINCONTROL.COM
+Name Server:NS36.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

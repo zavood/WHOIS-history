@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 17:15:15 (BRT -03:00)
+
+domain:      microcampcorp.com.br
+owner:       MICRO OURO VERDE ED CULTURAIS LTDA
+ownerid:     001.489.476/0001-09
+responsible: Eloy Tuffi
+country:     BR
+owner-c:     ELT62
+admin-c:     ELT62
+tech-c:      ELT62
+billing-c:   ELT62
+nserver:     ns1.datacenter1.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.datacenter1.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20080717 #4684045
+expires:     20120717
+changed:     20110727
+status:      published
+
+nic-hdl-br:  ELT62
+person:      Eloy Tuffi
+e-mail:      cesar@microcamp.com.br
+created:     20011003
+changed:     20100726
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
