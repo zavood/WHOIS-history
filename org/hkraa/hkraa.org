@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105794179-LROR
+Domain Name:HKRAA.ORG
+Created On:26-Feb-2005 05:05:28 UTC
+Last Updated On:27-Feb-2011 01:24:13 UTC
+Expiration Date:26-Feb-2012 05:05:28 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:5201100ba8f1c300
+Registrant Name:Alfred Alfred
+Registrant Organization:Alfred
+Registrant Street1:rm 401, Tin Yee House, Tin Ping Estate, Sheung Shui. NT
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hong Kong
+Registrant State/Province:hk
+Registrant Postal Code:hk
+Registrant Country:HK
+Registrant Phone:+852.85292749899
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:alfredau@longjing.com.hk
+Admin ID:C40495320-RCOM
+Admin Name:Alfred Alfred
+Admin Organization:Alfred
+Admin Street1:rm 401, Tin Yee House, Tin Ping Estate, Sheung Shui. NT
+Admin Street2:
+Admin Street3:
+Admin City:Hong Kong
+Admin State/Province:hk
+Admin Postal Code:hk
+Admin Country:HK
+Admin Phone:+2.92749899
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:alfredau2004@yahoo.com
+Tech ID:C1-RCOM
+Tech Name:Domain Registrar
+Tech Organization:Register.Com
+Tech Street1:575 8th Avenue
+Tech Street2:11th Floor
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027495429
+Tech FAX Ext.:
+Tech Email:domain-registrar@register.com
+Name Server:NS1.HOST-CARE.COM
+Name Server:NS2.HOST-CARE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

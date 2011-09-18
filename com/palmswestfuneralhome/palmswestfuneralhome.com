@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 15-aug-2000
    Expiration Date: 15-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 02:06:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 05:42:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Palms West Funeral Home
-   110 Business Parkway
-   ROYAL PALM BEACH, Florida 33411
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: PALMSWESTFUNERALHOME.COM
-      Created on: 15-Aug-00
-      Expires on: 15-Aug-12
-      Last Updated on: 16-Aug-11
-
-   Administrative Contact:
-      Almeida, Julian  john@palmswestfuneralhome.com
-      Palms West Funeral Home
-      110 Business Parkway
-      ROYAL PALM BEACH, Florida 33411
-      United States
-      5617536004      Fax -- 5617530255
-
-   Technical Contact:
-      Almeida, Julian  john@palmswestfuneralhome.com
-      Palms West Funeral Home
-      110 Business Parkway
-      ROYAL PALM BEACH, Florida 33411
-      United States
-      5617536004      Fax -- 5617530255
 
    Domain servers in listed order:
       NS55.DOMAINCONTROL.COM
       NS56.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=PALMSWESTFUNERALHOME.COM

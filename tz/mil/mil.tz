@@ -1,0 +1,61 @@
+%
+%  TZNIC WHOIS data and services are subject to the Terms of Use
+%  available at: http://www.tznic.or.tz/docs/whois_tou.pdf
+%
+%  You may also use our WHOIS Web service available at:
+%  http://whois.tznic.or.tz/whois
+%
+%
+% Whoisd Server Version: 3.1.1
+% Timestamp: Sun Sep 18 08:30:52 2011
+
+domain:       mil.tz
+registrant:   ADMIN-TZNIC
+admin-c:      ADMIN-TZNIC
+nsset:        NS-MIL.TZ
+registrar:    REG-TZNIC
+status:       paid and in zone
+registered:   22.07.2009 11:49:35
+expire:       22.07.2019
+
+contact:      ADMIN-TZNIC
+org:          Tanzania Network Information Centre
+name:         Manager
+address:      LAPF Millennium Towers
+address:      New Bagamoyo Road
+address:      Dar es Salaam
+address:      P.O. BOX 34543
+address:      TZ
+phone:        +255.222772659
+fax-no:       +255.222772660
+e-mail:       manager@tznic.or.tz
+registrar:    REG-TZNIC
+created:      22.07.2009 11:42:00
+
+nsset:        NS-MIL.TZ
+nserver:      ns2.tznic.or.tz
+nserver:      dns.ucc.co.tz
+nserver:      dns.udsm.ac.tz
+nserver:      nic.co.tz
+nserver:      mbuyu.tznic.or.tz
+tech-c:       MNT-TZNIC
+registrar:    REG-TZNIC
+created:      22.07.2009 11:49:32
+changed:      10.02.2011 17:43:15
+
+contact:      MNT-TZNIC
+org:          Tanzania Network Information Centre
+name:         Technical Officer
+address:      LAPF Millenium Towers
+address:      New Bagamoyo Road
+address:      Dar es Salaam
+address:      P.O.Box 34543
+address:      TZ
+phone:        +255.2772659
+fax-no:       +255.2772660
+e-mail:       technical@tznic.or.tz
+registrar:    REG-TZNIC
+created:      21.07.2009 15:28:07
+changed:      23.02.2010 15:03:36
+
+

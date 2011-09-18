@@ -1,0 +1,99 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D83965148-LROR
+Domain Name:UNIXHEADS.ORG
+Created On:25-Feb-2002 21:20:58 UTC
+Last Updated On:15-May-2011 18:41:01 UTC
+Expiration Date:25-Feb-2012 21:20:58 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33315912
+Registrant Name:Scott Palmer
+Registrant Organization:Unixheads
+Registrant Street1:PO Box 75751
+Registrant Street2:
+Registrant Street3:
+Registrant City:Colorado Springs
+Registrant State/Province:Colorado
+Registrant Postal Code:80970
+Registrant Country:US
+Registrant Phone:+1.7192662584
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domainmaster@unixheads.com
+Admin ID:CR33315914
+Admin Name:Scott Palmer
+Admin Organization:Unixheads
+Admin Street1:PO Box 75751
+Admin Street2:
+Admin Street3:
+Admin City:Colorado Springs
+Admin State/Province:Colorado
+Admin Postal Code:80970
+Admin Country:US
+Admin Phone:+1.7192662584
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domainmaster@unixheads.com
+Tech ID:CR33315913
+Tech Name:Scott Palmer
+Tech Organization:Unixheads
+Tech Street1:PO Box 75751
+Tech Street2:
+Tech Street3:
+Tech City:Colorado Springs
+Tech State/Province:Colorado
+Tech Postal Code:80970
+Tech Country:US
+Tech Phone:+1.7192662584
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domainmaster@unixheads.com
+Name Server:NS2.UNIXHEADS.ORG
+Name Server:NS1.UNIXHEADS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Signed
+DS Created 1:15-May-2011 18:40:58 UTC
+DS Maximum Signature Life 1:3456000 seconds
+DS Key Tag 1:394
+Algorithm 1:5
+Digest Type 1:1
+Digest 1:BF10829CC26DABDFED8B6AEF82E44ABF671B6E9E
+DS Created 2:15-May-2011 18:40:58 UTC
+DS Maximum Signature Life 2:3456000 seconds
+DS Key Tag 2:28774
+Algorithm 2:5
+Digest Type 2:1
+Digest 2:C94DEAC2D8BD5983B210A2698B1A529B5B940737
+
+

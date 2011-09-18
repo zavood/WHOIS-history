@@ -1,0 +1,98 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; groupon.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      groupon.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    GI806-FRNIC
+admin-c:     DR1218-FRNIC
+tech-c:      SA5280-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL35268-FRNIC
+registrar:   CSC CORPORATE DOMAINS INC.
+anniversary: 29/11
+created:     14/10/2009
+last-update: 29/11/2010
+source:      FRNIC
+
+ns-list:     NSL35268-FRNIC
+nserver:     a.ns14.net
+nserver:     b.ns14.net
+nserver:     c.ns14.net
+nserver:     d.ns14.net
+source:      FRNIC
+
+registrar:   CSC CORPORATE DOMAINS INC.
+type:        Isp Option 1
+address:     2711 Centerville Road, Suite 400
+address:     DE 19808 WILMINGTON
+country:     US
+phone:       +1 302 636 5400
+fax-no:      +1 302 636 5454
+e-mail:      corporatedomains@cscinfo.com
+website:     http://www.csccorporatedomains.com
+anonymous:   NO
+registered:  17/10/2006
+source:      FRNIC
+
+nic-hdl:     GI806-FRNIC
+type:        ORGANIZATION
+contact:     Groupon, Inc.
+address:     Groupon, Inc.
+address:     600 W. Chicago Ave
+address:     Suite 620
+address:     60654 Chicago IL
+country:     US
+phone:       +1 3128705288
+fax-no:      +1 3122757757
+e-mail:      sysadmin@groupon.com
+changed:     29/11/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     DR1218-FRNIC
+type:        PERSON
+contact:     Domain Registrar
+address:     Corporation Service Company France
+address:     68, rue du faubourg Saint Honore
+address:     75008 Paris
+country:     FR
+phone:       +33 1 53 43 64 92
+fax-no:      +33 1 53 43 63 00
+e-mail:      admin@internationaladmin.com
+changed:     11/11/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SA5280-FRNIC
+type:        PERSON
+contact:     Systems Administrator
+address:     Groupon, Inc.
+address:     600 W. Chicago Ave Suite 620
+address:     60654 Chicago IL
+country:     US
+phone:       +1 3128705288
+fax-no:      +1 3122757757
+e-mail:      sysadmin@groupon.com
+changed:     11/11/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

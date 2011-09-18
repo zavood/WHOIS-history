@@ -1,0 +1,31 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'i-phone.ir'
+
+
+domain:		i-phone.ir
+ascii:		i-phone.ir
+remarks:	(Domain Holder) Bashir Khoshnevis
+remarks:	(Domain Holder Address) No. 4, Nesa St., Zafar St., Shairiati St.,Tehran, IR19117, IR
+holder-c:	---
+admin-c:	bk80-irnic
+tech-c:		bk80-irnic
+nserver:	ns1.hostiran.net
+nserver:	ns2.hostiran.net
+last-updated:	2011-03-27
+source:		IRNIC # Filtered
+
+nic-hdl:	bk80-irnic
+person:		Bashir Khoshnevis
+e-mail:		onfuve@gmail.com
+address:	No . 10 Ghorbani alley , Attari moghadam St , Khaghani St , Shariati St, Tehran, Tehran, IR
+phone:		22001256
+fax-no:		22601433
+source:		IRNIC # Filtered
+

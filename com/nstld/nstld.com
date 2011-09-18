@@ -23,7 +23,7 @@ for detailed information.
    Creation Date: 05-dec-2000
    Expiration Date: 05-dec-2014
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 07:03:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 05:40:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -111,7 +111,7 @@ VERISIGN INC.
 
    Record expires on 05-Dec-2014.
    Record created on 05-Dec-2000.
-   Database last updated on 16-Sep-2011 02:54:08 EDT.
+   Database last updated on 18-Sep-2011 01:30:30 EDT.
 
    Domain servers in listed order:
 

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157013700-LROR
+Domain Name:TWITTERSHARE.ORG
+Created On:02-Sep-2009 13:55:08 UTC
+Last Updated On:01-Sep-2011 14:44:20 UTC
+Expiration Date:02-Sep-2012 13:55:08 UTC
+Sponsoring Registrar:DomainContext, Inc. (R1744-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_10329817
+Registrant Name:Ricky Moore
+Registrant Organization:N/A
+Registrant Street1:4055 Wood Duck Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Iron Mountain
+Registrant State/Province:
+Registrant Postal Code:49801
+Registrant Country:US
+Registrant Phone:+1.9063906317
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain@twittershare.org
+Admin ID:DI_10329817
+Admin Name:Ricky Moore
+Admin Organization:N/A
+Admin Street1:4055 Wood Duck Drive
+Admin Street2:
+Admin Street3:
+Admin City:Iron Mountain
+Admin State/Province:
+Admin Postal Code:49801
+Admin Country:US
+Admin Phone:+1.9063906317
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domain@twittershare.org
+Tech ID:DI_10329817
+Tech Name:Ricky Moore
+Tech Organization:N/A
+Tech Street1:4055 Wood Duck Drive
+Tech Street2:
+Tech Street3:
+Tech City:Iron Mountain
+Tech State/Province:
+Tech Postal Code:49801
+Tech Country:US
+Tech Phone:+1.9063906317
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain@twittershare.org
+Name Server:NS1.TWITTERSHARE.ORG
+Name Server:NS2.TWITTERSHARE.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

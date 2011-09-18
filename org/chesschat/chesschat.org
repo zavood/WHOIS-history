@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104494217-LROR
+Domain Name:CHESSCHAT.ORG
+Created On:04-Jun-2004 08:26:34 UTC
+Last Updated On:07-Jul-2010 00:23:45 UTC
+Expiration Date:04-Jun-2013 08:26:34 UTC
+Sponsoring Registrar:Distribute.IT Pty Ltd (R1378-LROR)
+Status:OK
+Registrant ID:DIT-1584596
+Registrant Name:Karthick Rajendran
+Registrant Street1:Suite 85 / 330 Wattle St
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ultimo
+Registrant State/Province:NSW
+Registrant Postal Code:2007
+Registrant Country:AU
+Registrant Phone:+61.288470901
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:karthick@netlogistics.com.au
+Admin ID:DIT-1584597
+Admin Name:Karthick Rajendran
+Admin Street1:Suite 85 / 330 Wattle St
+Admin Street2:
+Admin Street3:
+Admin City:Ultimo
+Admin State/Province:NSW
+Admin Postal Code:2007
+Admin Country:AU
+Admin Phone:+61.288470901
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:karthick@netlogistics.com.au
+Tech ID:DIT-1584598
+Tech Name:Karthick Rajendran
+Tech Street1:Suite 85 / 330 Wattle St
+Tech Street2:
+Tech Street3:
+Tech City:Ultimo
+Tech State/Province:NSW
+Tech Postal Code:2007
+Tech Country:AU
+Tech Phone:+61.288470901
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:karthick@netlogistics.com.au
+Name Server:DNS13.NETLOGISTICS.COM.AU
+Name Server:DNS2.NETLOGISTICS.NET.AU
+Name Server:DNS3.NETLOGISTICS.NET.AU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D77986803-LROR
+Domain Name:SPELLINGSOCIETY.ORG
+Created On:29-Sep-2001 18:10:52 UTC
+Last Updated On:16-Aug-2010 14:10:28 UTC
+Expiration Date:29-Sep-2012 18:10:52 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:OK
+Registrant ID:0-449414-Gandi
+Registrant Name:Fred Swartz
+Registrant Organization:Fred Swartz
+Registrant Street1:12582 Hendryx Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Suttons Bay
+Registrant State/Province:Michigan
+Registrant Postal Code:49682
+Registrant Country:US
+Registrant Phone:+1.2312714396
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:fred@leepoint.net
+Admin ID:FS107-GANDI
+Admin Name:Fred Swartz
+Admin Street1:Whois Protege / Obfuscated whois
+Admin Street2:Gandi, 15 place de la Nation
+Admin Street3:
+Admin City:Paris
+Admin State/Province:
+Admin Postal Code:75011
+Admin Country:FR
+Admin Phone:+33.170377666
+Admin Phone Ext.:
+Admin FAX:+33.143730576
+Admin FAX Ext.:
+Admin Email:af43438a81ab7f7000b8f97b18498d85-48090@contact.gandi.net
+Tech ID:RG1690-GANDI
+Tech Name:Robert Gamm
+Tech Street1:14 Thorpe Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Tonbridge
+Tech State/Province:
+Tech Postal Code:TN10 4PP
+Tech Country:GB
+Tech Phone:+44.7896741397
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:7ce57f3af0c8400341742a44a33ab25b-795004@contact.gandi.net
+Name Server:NS1.KRYSTAL.CO.UK
+Name Server:NS2.KRYSTAL.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

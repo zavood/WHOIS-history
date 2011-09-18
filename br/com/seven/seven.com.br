@@ -1,0 +1,56 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 02:09:54 (BRT -03:00)
+
+domain:      seven.com.br
+owner:       Soft Seven Inform&aacute;tica Ltda.
+ownerid:     071.307.508/0001-85
+responsible: DNS Admin
+country:     BR
+owner-c:     ADN
+admin-c:     ADN
+tech-c:      ADN
+billing-c:   ADN
+nserver:     dns1.seven.com.br 200.229.2.170
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     dns2.seven.com.br 200.229.1.1
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     dns3.seven.com.br 200.229.3.253
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     dns4.seven.com.br 200.229.4.253
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     dns5.seven.com.br 77.74.199.225
+nsstat:      20110913 AA
+nslastaa:    20110913
+nserver:     dns6.seven.com.br 72.249.81.43
+nsstat:      20110913 AA
+nslastaa:    20110913
+created:     19951211 #4778
+expires:     20191211
+changed:     20110408
+provider:    SEVEN_INTERNET (6)
+status:      published
+
+nic-hdl-br:  ADN
+person:      Alexandre dos Santos Neves
+e-mail:      admin@seven.com.br
+created:     19971220
+changed:     20090723
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

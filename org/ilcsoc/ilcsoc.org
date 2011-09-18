@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6879892-LROR
+Domain Name:ILCSOC.ORG
+Created On:28-May-1999 19:47:06 UTC
+Last Updated On:03-Jun-2009 14:09:31 UTC
+Expiration Date:28-May-2014 19:47:42 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:23447259-NSI
+Registrant Name:InternationalLiquidCrystal Society
+Registrant Organization:InternationalLiquidCrystal Society
+Registrant Street1:null
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kent
+Registrant State/Province:OH
+Registrant Postal Code:44242
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mpalffy@CPIP.KENT.EDU
+Admin ID:16583177-NSI
+Admin Name:AlphaMicron, Inc.
+Admin Organization:AlphaMicron, Inc.
+Admin Street1:277 MARTINEL DR
+Admin Street2:
+Admin Street3:
+Admin City:KENT
+Admin State/Province:OH
+Admin Postal Code:44240-4376
+Admin Country:US
+Admin Phone:+1.3306722604
+Admin Phone Ext.:
+Admin FAX:+1.3306722796
+Admin FAX Ext.:
+Admin Email:mpalffy@CPIP.KENT.EDU
+Tech ID:16583176-NSI
+Tech Name:AlphaMicron, Inc.
+Tech Organization:AlphaMicron, Inc.
+Tech Street1:277 MARTINEL DR
+Tech Street2:
+Tech Street3:
+Tech City:KENT
+Tech State/Province:OH
+Tech Postal Code:44240-4376
+Tech Country:US
+Tech Phone:+1.3306723999334
+Tech Phone Ext.:
+Tech FAX:+1.3306722796
+Tech FAX Ext.:
+Tech Email:holmberg@SCORPIO.KENT.EDU
+Name Server:DHCP.NET.KENT.EDU
+Name Server:NS.NET.KENT.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

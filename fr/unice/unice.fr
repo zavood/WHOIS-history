@@ -1,0 +1,101 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; unice.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      unice.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UDN29-FRNIC
+admin-c:     RC254-FRNIC
+tech-c:      RC254-FRNIC
+tech-c:      LO246-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5870-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL5870-FRNIC
+nserver:     taloa.unice.fr [134.59.1.7]
+nserver:     diamant.unice.fr [134.59.132.2]
+nserver:     samoa.unice.fr [134.59.1.1]
+nserver:     dns.inria.fr [193.51.208.13]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     UDN29-FRNIC
+type:        ORGANIZATION
+contact:     Universite de Nice
+address:     centre de Ressources Informatiques
+address:     28, avenue de Valrose
+address:     06108 Nice
+country:     FR
+phone:       +33 4 92 07 67 07
+fax-no:      +33 4 92 07 67 00
+e-mail:      cachat@unice.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     RC254-FRNIC
+type:        PERSON
+contact:     Roger Cachat
+address:     Universite de Nice, Centre de Ressources Informatiques
+address:     28, avenue de Valrose
+address:     06108 Nice Cedex 2
+country:     FR
+phone:       +33 4 92 07 67 07
+fax-no:      +33 4 92 07 67 00
+e-mail:      cachat@unice.fr
+notify:      cachat@unice.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LO246-FRNIC
+type:        PERSON
+contact:     Luc Ottavj
+address:     Institut National de Recherche en Informatique et Automatique
+address:     centre de Sophia
+address:     2044, route des Lucioles
+address:     B.P. 109
+address:     06561 Valbonne Cedex
+country:     FR
+phone:       +33 93 65 77 21
+e-mail:      luc.ottavj@inria.fr
+notify:      luc.ottavj@inria.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

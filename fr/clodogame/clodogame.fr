@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; clodogame.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      clodogame.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LF1396-FRNIC
+admin-c:     FH1369-FRNIC
+tech-c:      HM4-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL15903-FRNIC
+registrar:   1API GmbH
+anniversary: 05/05
+created:     05/05/2009
+last-update: 06/05/2009
+source:      FRNIC
+
+ns-list:     NSL15903-FRNIC
+nserver:     pri.mordac.de
+nserver:     sec.mordac.de
+source:      FRNIC
+
+registrar:   1API GmbH
+type:        Isp Option 2
+address:     Talstrasse 27
+address:     66424 HOMBURG
+country:     DE
+phone:       +49 6841 6984200
+fax-no:      +49 6841 6984299
+e-mail:      general_registries@1api.net
+website:     http://www.1api.net
+anonymous:   NO
+registered:  03/09/2008
+source:      FRNIC
+
+nic-hdl:     LF1396-FRNIC
+type:        ORGANIZATION
+contact:     Lycos France
+address:     Lycos France
+address:     79, rue de Monceau
+address:     75008 Paris
+country:     FR
+phone:       +33 1 56 59 45 08
+e-mail:      hostmaster@dopoly.de
+changed:     01/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     FH1369-FRNIC
+type:        ORGANIZATION
+contact:     Florian Huber
+address:     Lycos France
+address:     79, rue de Monceau
+address:     75008 Paris
+country:     FR
+phone:       +33 1 56 59 45 08
+e-mail:      hostmaster@dopoly.de
+changed:     02/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HM4-FRNIC
+type:        ORGANIZATION
+contact:     Host Master
+address:     selfHOST.de
+address:     Weststrasse 20
+address:     04720 Doebeln
+country:     DE
+phone:       +49.3431606683
+fax-no:      +49.3431606696
+e-mail:      support@selfhost.de
+changed:     05/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

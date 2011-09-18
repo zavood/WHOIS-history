@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D132031455-LROR
+Domain Name:WESTMARCOLLEGE.ORG
+Created On:02-Nov-2006 23:22:53 UTC
+Last Updated On:30-Oct-2009 04:48:38 UTC
+Expiration Date:02-Nov-2011 23:22:53 UTC
+Sponsoring Registrar:DomainPeople, Inc. (R30-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DP-5828609
+Registrant Name:Ken Krippner
+Registrant Organization:WAFA
+Registrant Street1:701 S Skinker Blvd, Suite 303
+Registrant Street2:
+Registrant Street3:
+Registrant City:St. Louis
+Registrant State/Province:MO
+Registrant Postal Code:63105
+Registrant Country:US
+Registrant Phone:+1.3147259796
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@sahosting.com
+Admin ID:DP-5828610
+Admin Name:Ken Krippner
+Admin Organization:WAFA
+Admin Street1:701 S Skinker Blvd, Suite 303
+Admin Street2:
+Admin Street3:
+Admin City:St. Louis
+Admin State/Province:MO
+Admin Postal Code:63105
+Admin Country:US
+Admin Phone:+1.3147259796
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin@sahosting.com
+Tech ID:DP-5828612
+Tech Name:Ken Krippner
+Tech Organization:WAFA
+Tech Street1:701 S Skinker Blvd, Suite 303
+Tech Street2:
+Tech Street3:
+Tech City:St. Louis
+Tech State/Province:MO
+Tech Postal Code:63105
+Tech Country:US
+Tech Phone:+1.3147259796
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:admin@sahosting.com
+Name Server:NS755.WEBSITEWELCOME.COM
+Name Server:NS756.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

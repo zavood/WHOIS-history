@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D30875800-LROR
+Domain Name:IRCUK.ORG
+Created On:05-Jul-2000 09:14:38 UTC
+Last Updated On:29-Jul-2011 12:40:44 UTC
+Expiration Date:05-Jul-2012 09:14:38 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:10686843733630
+Registrant Name:International Rescue Committee
+Registrant Street1:11 Gower Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Camden
+Registrant State/Province:London
+Registrant Postal Code:WC1E 6HB
+Registrant Country:GB
+Registrant Phone:+44.8452239000
+Registrant Phone Ext.:
+Registrant FAX:+44.8452493310
+Registrant FAX Ext.:
+Registrant Email:senait.fassil@ircuk.org
+Admin ID:10686843737410
+Admin Name:Domain Admin
+Admin Organization:Cobweb Solutions Limited
+Admin Street1:South Wing
+Admin Street2:Delme Place, Cams Hall Estate
+Admin Street3:
+Admin City:Fareham
+Admin State/Province:Hampshire
+Admin Postal Code:PO16 8UX
+Admin Country:GB
+Admin Phone:+44.8452239000
+Admin Phone Ext.:
+Admin FAX:+44.8452493310
+Admin FAX Ext.:
+Admin Email:domain@cobweb.com
+Tech ID:10686843744460
+Tech Name:Domain Admin
+Tech Organization:Cobweb Solutions Limited
+Tech Street1:South Wing
+Tech Street2:Delme Place, Cams Hall Estate
+Tech Street3:
+Tech City:Fareham
+Tech State/Province:Hampshire
+Tech Postal Code:PO16 8UX
+Tech Country:GB
+Tech Phone:+44.8452239000
+Tech Phone Ext.:
+Tech FAX:+44.8452493310
+Tech FAX Ext.:
+Tech Email:domain@cobweb.com
+Name Server:NS0.HOSTEDSERVICE.COM
+Name Server:NS1.HOSTEDSERVICE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

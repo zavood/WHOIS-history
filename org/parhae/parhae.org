@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D32592170-LROR
+Domain Name:PARHAE.ORG
+Created On:09-Aug-2000 04:51:20 UTC
+Last Updated On:08-Jul-2011 21:01:10 UTC
+Expiration Date:09-Aug-2012 04:51:20 UTC
+Sponsoring Registrar:Asadal, Inc. (R1454-LROR)
+Status:OK
+Registrant ID:b-parhae.org
+Registrant Name:Bae Park Hyun
+Registrant Organization:Bae Park Hyun
+Registrant Street1:Yeonsan 9-dong Yeonje-gu Busan
+Registrant Street2:406-2 yonsan9-dong yonje-gu
+Registrant Street3:
+Registrant City:Busan
+Registrant State/Province:Yeonje-gu
+Registrant Postal Code:611817
+Registrant Country:KR
+Registrant Phone:+82.185047895
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:parhae@naver.com
+Admin ID:a-parhae.org
+Admin Name:Bae Park Hyun
+Admin Organization:Bae Park Hyun
+Admin Street1:Yeonsan 9-dong Yeonje-gu Busan
+Admin Street2:406-2 yonsan9-dong yonje-gu
+Admin Street3:
+Admin City:Busan
+Admin State/Province:Yeonje-gu
+Admin Postal Code:611817
+Admin Country:KR
+Admin Phone:+82.185047895
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:parhae@orgio.net
+Tech ID:t-parhae.org
+Tech Name:asadal
+Tech Organization:asadal
+Tech Street1:8F, A-Dong Woolim-lionsvalley. 371-28
+Tech Street2:Gasan-dong Geumcheon-gu
+Tech Street3:
+Tech City:Seoul
+Tech State/Province:Geumcheon-gu
+Tech Postal Code:150803
+Tech Country:KR
+Tech Phone:+82.220262000
+Tech Phone Ext.:
+Tech FAX:+82.220262009
+Tech FAX Ext.:
+Tech Email:domain@asadal.com
+Name Server:NS.WEBZERO.CO.KR
+Name Server:NS2.WEBZERO.CO.KR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,1 +1,84 @@
-WHOIS LIMIT EXCEEDED - SEE WWW.PIR.ORG/WHOIS FOR DETAILS
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149197275-LROR
+Domain Name:FIRSTCYBERCHURCH.ORG
+Created On:21-Sep-2007 14:56:48 UTC
+Last Updated On:12-Sep-2011 16:48:57 UTC
+Expiration Date:21-Sep-2012 14:56:48 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33891801
+Registrant Name:David Graham
+Registrant Street1:12345 Milano Pt
+Registrant Street2:
+Registrant Street3:
+Registrant City:colorado Springs
+Registrant State/Province:Colorado
+Registrant Postal Code:80921
+Registrant Country:US
+Registrant Phone:+1.7194879249
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:wer2chosen@yahoo.com
+Admin ID:CR33891803
+Admin Name:David Graham
+Admin Street1:1070 Milano Pt
+Admin Street2:
+Admin Street3:
+Admin City:colorado springs
+Admin State/Province:Colorado
+Admin Postal Code:80921
+Admin Country:US
+Admin Phone:+1.7194879249
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:wer2chosen@yahoo.com
+Tech ID:CR33891802
+Tech Name:David Graham
+Tech Street1:1070 Milano Pt
+Tech Street2:
+Tech Street3:
+Tech City:colorado springs
+Tech State/Province:Colorado
+Tech Postal Code:80921
+Tech Country:US
+Tech Phone:+1.7194879249
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:wer2chosen@yahoo.com
+Name Server:NS39.DOMAINCONTROL.COM
+Name Server:NS40.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
