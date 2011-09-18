@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2789581-LROR
+Domain Name:PRAYPUB.ORG
+Created On:20-Dec-1996 05:00:00 UTC
+Last Updated On:26-Aug-2010 16:34:46 UTC
+Expiration Date:19-Dec-2013 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:OK
+Registrant ID:26452742-NSI
+Registrant Name:Pray Publishing
+Registrant Organization:Pray Publishing
+Registrant Street1:8520 MacKenzie
+Registrant Street2:
+Registrant Street3:
+Registrant City:St. Louis
+Registrant State/Province:MO
+Registrant Postal Code:63123
+Registrant Country:US
+Registrant Phone:+1.3146381017
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:webmaster@themillergroup.com
+Admin ID:15336776-NSI
+Admin Name:web master
+Admin Organization:The Miller Group
+Admin Street1:1112 Westmark Drive
+Admin Street2:
+Admin Street3:
+Admin City:Des Peres
+Admin State/Province:MO
+Admin Postal Code:63131
+Admin Country:US
+Admin Phone:+1.3148228090
+Admin Phone Ext.:
+Admin FAX:+1.3148226504
+Admin FAX Ext.:
+Admin Email:webmaster@themillergroup.com
+Tech ID:15336773-NSI
+Tech Name:Web Technical
+Tech Organization:The Miller Group
+Tech Street1:12213 Big Bend Road
+Tech Street2:
+Tech Street3:
+Tech City:Saint Louis
+Tech State/Province:MO
+Tech Postal Code:63122
+Tech Country:US
+Tech Phone:+1.3148228090
+Tech Phone Ext.:
+Tech FAX:+1.3148226504
+Tech FAX Ext.:
+Tech Email:webtechnical@THEMILLERGROUP.COM
+Name Server:NS3.THEMILLERGROUP.COM
+Name Server:NS4.THEMILLERGROUP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

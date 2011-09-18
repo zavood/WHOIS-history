@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 11-jun-2008
    Expiration Date: 11-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:36:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 10:32:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,41 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Too much requests for this ip address.
-Please retry later
+
+Domain Name : ROYALEXTENSION.COM
+Created On : 2008-06-11
+Expiration Date : 2012-06-11
+Status : ACTIVE
+Registrant Name : Majys
+Registrant Street1 : 13 Boulevard Montfleury
+Registrant City : Cannes
+Registrant State/Province  :
+Registrant Postal Code : 06400
+Registrant Country : FR
+Admin Name : Do you soft
+Admin Street1 : 17 place pierre semard
+Admin City : Beziers
+Admin State/Province : FR
+Admin Postal Code : 34500
+Admin Country : FR
+Admin Phone : +33.467365978
+Admin Email : ndd@powerboutique.com
+Tech Name : Do you soft
+Tech Street1 : 17 place pierre semard
+Tech City : Beziers
+Tech State/Province : FR
+Tech Postal Code : 34500
+Tech Country : FR
+Tech Phone : +33.467365978
+Tech Email : ndd@powerboutique.com
+Billing Name : Majys
+Billing Street1 : 13 Boulevard Montfleury
+Billing City : Cannes
+Billing State/Province : FR
+Billing Postal Code : 06400
+Billing Country : FR
+Billing Phone : +33.963524057
+Billing Email : yoan.sayag@gmail.com
+Name Server : DNS2.NAMEBAY.COM
+Name Server : DNS1.NAMEBAY.COM
+Registrar Name : Namebay
