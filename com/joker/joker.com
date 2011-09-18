@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 27-nov-1994
    Expiration Date: 03-aug-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 12:22:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 15:29:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,7 +74,7 @@ status:       lock
 created:      1994-11-27 00:00:00 UTC
 modified:     2011-02-20 17:06:11 UTC
 expires:      2014-08-03 15:02:10 UTC
-query-source: 174.142.225.246
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-58
 person:       n/a
@@ -98,8 +98,8 @@ country:      DE
 phone:        +49.211867670
 
 source:       joker.com live whois service
-query-time:   0.006895
-db-updated:   2011-09-14 12:23:14
+query-time:   0.062925
+db-updated:   2011-09-18 15:30:12
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

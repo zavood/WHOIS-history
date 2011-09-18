@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: PEP158D-NORID
+Domain Name................: pepper-shop.no
+Domain Holder Handle.......: PA2521O-NORID
+Registrar Handle...........: REG462-NORID
+Legal-c Handle.............: VMN3P-NORID
+Tech-c Handle..............: UH20R-NORID
+Name Server Handle.........: NSUN28H-NORID
+Name Server Handle.........: NSUN39H-NORID
+
+Additional information:
+Created:         2008-01-30
+Last updated:    2011-02-01
+
+NORID Handle...............: PA2521O-NORID
+Type.......................: organization
+Name.......................: PEPPER AS
+Id Type....................: organization_number
+Id Number..................: 975354407
+Registrar Handle...........: REG462-NORID
+Post Address...............: POSTBOKS 745 SENTRUM
+Postal Code................: NO-5807
+Postal Area................: BERGEN
+Country....................: NO
+Mobile Phone Number........: +47.95116156
+Email Address..............: vegard.moberg@online.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

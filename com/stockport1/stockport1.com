@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 03-mar-2010
    Expiration Date: 03-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 12:42:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 16:00:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -89,5 +89,5 @@ The Registry database contains ONLY .COM, .NET and .ORG domains.
      Secondary Name Server Hostname: NS2.QVOXDNS.NET
 
 
-&gt;&gt;&gt; Last update of whois database: Thu Sep 15 13:03:15 2011 &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun Sep 18 16:03:37 2011 &lt;&lt;&lt;
 

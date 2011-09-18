@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 22-apr-2004
    Expiration Date: 22-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 03:32:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 15:26:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 174.142.225.246
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain blod-surf.com
-% Timestamp: 2011-09-14 05:33:33
+% Timestamp: 2011-09-18 17:26:39
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

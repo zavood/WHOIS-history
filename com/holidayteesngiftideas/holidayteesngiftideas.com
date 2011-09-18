@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 16-nov-2010
    Expiration Date: 16-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:04:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 16:24:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -88,35 +88,41 @@ Domain servers in listed order:
 	 ns10.kellbana.com 	 ns11.kellbana.com
 
 Administrator:
+	 name:(Leithya  Massey)
+	Email:(leithya@kellbana.com) tel-- +1.8662390554
+	 Kellbana, LLC
 	 22444 Cedar Lane
-	 Georgetown
+\r
+t Georgetown
 DE,
 US
- 19947
 
-	 name:(Leithya  Massey)
-mail:(leithya@kellbana.com) +1.8662390554
-	 Kellbana, LLC
+ zipcode:19947
+
 Technical Contactor:
+	 name:(Leithya  Massey)
+	Email:(leithya@kellbana.com) tel-- +1.8662390554
+	 Kellbana, LLC
 	 22444 Cedar Lane
-	 Georgetown
+\r
+t Georgetown
 DE,
 US
- 19947
 
-	 name:(Leithya  Massey)
-mail:(leithya@kellbana.com) +1.8662390554
-	 Kellbana, LLC
+ zipcode:19947
+
 Billing Contactor:
+	 name:(Leithya  Massey)
+	Email:(leithya@kellbana.com) tel-- +1.8662390554
+	 Kellbana, LLC
 	 22444 Cedar Lane
-	 Georgetown
+\r
+t Georgetown
 DE,
 US
- 19947
 
-	 name:(Leithya  Massey)
-mail:(leithya@kellbana.com) +1.8662390554
-	 Kellbana, LLC
+ zipcode:19947
+
 
 Registration Service Provider:
 	name: Kellbana, LLC

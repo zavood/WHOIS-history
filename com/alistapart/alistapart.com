@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 07-may-1998
    Expiration Date: 06-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 22:00:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 16:10:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,6 +69,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: alistapart.com
-YOUR IP address is 188.72.227.95
-Date and Time of Query: Sun Sep 11 17:51:40 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sun Sep 18 12:00:41 EDT 2011
 Reason Code: IE

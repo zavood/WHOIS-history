@@ -1,0 +1,39 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: BIR429D-NORID
+Domain Name................: birkebeiner.no
+Domain Holder Handle.......: BI391O-NORID
+Registrar Handle...........: REG361-NORID
+Legal-c Handle.............: JK2450P-NORID
+Tech-c Handle..............: HDN3R-NORID
+Name Server Handle.........: NSEA57H-NORID
+Name Server Handle.........: NSEA69H-NORID
+Name Server Handle.........: REMO21H-NORID
+Name Server Handle.........: REMO9H-NORID
+Name Server Handle.........: SEC50H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: BI391O-NORID
+Type.......................: organization
+Name.......................: Birkebeinerrennet AS
+Id Type....................: local_id_number
+Id Number..................: N.LEG.000003624
+Registrar Handle...........: REG361-NORID
+Post Address...............: Fabrikkveien 2
+Postal Code................: NO-2450
+Postal Area................: RENA
+Country....................: NO
+Phone Number...............: +47.62442900
+Fax Number.................: +47.62442901
+Email Address..............: renn@birkebeiner.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-15
+

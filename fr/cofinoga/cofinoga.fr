@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; cofinoga.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cofinoga.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LCS180-FRNIC
+admin-c:     PC5863-FRNIC
+tech-c:      MIDT4-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL17525-FRNIC
+registrar:   MELBOURNE IT LIMITED
+anniversary: 15/09
+created:     01/04/1996
+last-update: 15/09/2010
+source:      FRNIC
+
+ns-list:     NSL17525-FRNIC
+nserver:     a4.nstld.com
+nserver:     f4.nstld.com
+nserver:     g4.nstld.com
+nserver:     h4.nstld.com
+nserver:     j4.nstld.com
+nserver:     k4.nstld.com
+nserver:     l4.nstld.com
+source:      FRNIC
+
+registrar:   MELBOURNE IT LIMITED
+type:        Isp Option 1
+address:     Level 2
+address:     120 King St
+address:     3000 MELBOURNE, VICTORIA
+country:     AU
+phone:       +61 3 8624 2400
+fax-no:      +61 3 8624 2499
+e-mail:      admin@melbourneitdbs.com
+website:     http://www.melbourneit.com.au
+anonymous:   NO
+registered:  16/03/2007
+source:      FRNIC
+
+nic-hdl:     LCS180-FRNIC
+type:        ORGANIZATION
+contact:     LASER COFINOGA
+address:     LASER COFINOGA SA
+address:     18, rue de Londres
+address:     75009 Paris
+country:     FR
+phone:       +33 1 44 54 47 00
+e-mail:      contactadmin@cofinoga.fr
+changed:     22/11/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     PC5863-FRNIC
+type:        PERSON
+contact:     Patrick Chabrerie
+address:     LASER COFINOGA SA
+address:     106-108, avenue Jf Kennedy
+address:     33696 M&eacute;rignac
+country:     FR
+phone:       +33 5 56 55 25 46
+fax-no:      +33 5 56 55 56 08
+e-mail:      contactadmin@cofinoga.fr
+changed:     26/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MIDT4-FRNIC
+type:        PERSON
+contact:     Melbourne It Dbs Tech
+address:     Melbourne IT DBS Inc
+address:     636, Ellis Street
+address:     94043 Mountain View
+country:     US
+phone:       +1 8669073267
+fax-no:      +1 6506182574
+e-mail:      tech@melbourneitdbs.com
+changed:     21/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

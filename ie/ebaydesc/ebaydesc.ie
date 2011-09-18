@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      ebaydesc.ie
+descr:       eBay Inc.
+descr:       BODY CORPORATE (LTD,PLC,COMPANY)
+descr:       Registered Trade Mark Name
+admin-c:     AHF032-IEDR
+tech-c:      CCA7-IEDR
+renewal:     09-June-2012
+status:      Active
+nserver:     SJC-DNS1.EBAYDNS.COM
+nserver:     SMF-DNS1.EBAYDNS.COM
+nserver:     SJC-DNS2.EBAYDNS.COM
+source:      IEDR
+
+person:      Susan Kawaguchi
+nic-hdl:     AHF032-IEDR
+source:      IEDR
+
+person:      eMarkmonitor Inc
+nic-hdl:     CCA7-IEDR
+source:      IEDR
+

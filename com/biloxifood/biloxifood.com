@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 07-jan-2006
    Expiration Date: 07-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:06:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 16:09:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,7 +70,7 @@ status:       lock
 created:      2006-01-07 19:05:41 UTC
 modified:     2011-06-07 01:14:29 UTC
 expires:      2013-01-07 19:05:41 UTC
-query-source: 174.142.225.246
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-319
 person:       Domain Registrations
@@ -84,8 +84,8 @@ country:      GB
 phone:        +44.08432898604
 
 source:       joker.com live whois service
-query-time:   0.016999
-db-updated:   2011-09-14 20:07:06
+query-time:   0.010976
+db-updated:   2011-09-18 16:10:10
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

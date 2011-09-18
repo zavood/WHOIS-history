@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; clubjumbo.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      clubjumbo.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    TCS67-FRNIC
+admin-c:     JT1346-FRNIC
+tech-c:      MIT10-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL7342-FRNIC
+registrar:   MELBOURNE IT LIMITED
+anniversary: 17/04
+created:     17/04/2009
+last-update: 27/05/2009
+source:      FRNIC
+
+ns-list:     NSL7342-FRNIC
+nserver:     a4.nstld.com
+nserver:     f4.nstld.com
+nserver:     g4.nstld.com
+nserver:     l4.nstld.com
+source:      FRNIC
+
+registrar:   MELBOURNE IT LIMITED
+type:        Isp Option 1
+address:     Level 2
+address:     120 King St
+address:     3000 MELBOURNE, VICTORIA
+country:     AU
+phone:       +61 3 8624 2400
+fax-no:      +61 3 8624 2499
+e-mail:      admin@melbourneitdbs.com
+website:     http://www.melbourneit.com.au
+anonymous:   NO
+registered:  16/03/2007
+source:      FRNIC
+
+nic-hdl:     MIT10-FRNIC
+type:        ORGANIZATION
+contact:     Melbourne IT Tech
+address:     Melbourne IT DBS Inc
+address:     636 Ellis Street
+address:     CA 94043 Mountain View
+country:     US
+phone:       +1 8669073267
+fax-no:      +1 6502378883
+e-mail:      tech@melbourneitdbs.com
+changed:     27/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     TCS67-FRNIC
+type:        ORGANIZATION
+contact:     Thomas Cook SAS
+address:     Thomas Cook SAS
+address:     92-98, boulevard Victor Hugo
+address:     92115 Clichy
+country:     FR
+phone:       +33 1 45 15 70 07
+fax-no:      +33 1 45 15 75 68
+e-mail:      fbaux@jettours.com
+changed:     28/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JT1346-FRNIC
+type:        ORGANIZATION
+contact:     Jet Tours
+address:     Jet Tours
+address:     23, rue Raspail
+address:     94858 Ivry-sur-Seine Cedex
+country:     FR
+phone:       +33 1 45 15 70 07
+fax-no:      +33 1 45 15 75 68
+e-mail:      fbaux@jettours.com
+changed:     27/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+

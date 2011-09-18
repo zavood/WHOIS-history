@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154685169-LROR
+Domain Name:FATHERBILL.ORG
+Created On:13-Nov-2008 22:01:03 UTC
+Last Updated On:30-Oct-2010 08:01:23 UTC
+Expiration Date:13-Nov-2012 22:01:03 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tu1f04Jy6JxVbiEU
+Registrant Name:Pamela Scalora
+Registrant Organization:Pamela Scalora
+Registrant Street1:PO Box 177
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Cristobal
+Registrant State/Province:NM
+Registrant Postal Code:87564
+Registrant Country:US
+Registrant Phone:+1.5757514514
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:gizmoproductions@gmail.com
+Admin ID:tuOZ18URkmdo4hxQ
+Admin Name:Pamela Scalora
+Admin Organization:Pamela Scalora
+Admin Street1:PO Box 177
+Admin Street2:
+Admin Street3:
+Admin City:San Cristobal
+Admin State/Province:NM
+Admin Postal Code:87564
+Admin Country:US
+Admin Phone:+1.5757514514
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gizmoproductions@gmail.com
+Tech ID:tuucT13vnlNIqXIb
+Tech Name:System Administrator
+Tech Organization:Lunarpages
+Tech Street1:100 E. La Habra
+Tech Street2:
+Tech Street3:
+Tech City:La Habra
+Tech State/Province:California
+Tech Postal Code:90631
+Tech Country:US
+Tech Phone:+1.7145218150
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@lunarpages.com
+Name Server:NS1.LUNARMANIA.COM
+Name Server:NS2.LUNARMANIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

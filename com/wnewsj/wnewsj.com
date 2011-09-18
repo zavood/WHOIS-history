@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 24-jun-1997
    Expiration Date: 23-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 17:04:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 15:36:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: wnewsj.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 13:00:25 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sun Sep 18 11:26:47 EDT 2011
 Reason Code: IE

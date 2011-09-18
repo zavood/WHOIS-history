@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148254956-LROR
+Domain Name:ETUTORIALS.ORG
+Created On:27-Jun-2007 08:32:38 UTC
+Last Updated On:21-Jun-2011 16:44:14 UTC
+Expiration Date:27-Jun-2012 08:32:38 UTC
+Sponsoring Registrar:Internet Invest, Ltd. dba Imena.ua (R1723-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_14171185
+Registrant Name:Whois privacy protection service
+Registrant Organization:Internet Invest, Ltd. dba Imena.ua
+Registrant Street1:Gaidara, 50 st.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kyiv
+Registrant State/Province:
+Registrant Postal Code:01033
+Registrant Country:UA
+Registrant Phone:+380.442010102
+Registrant Phone Ext.:
+Registrant FAX:+380.442010100
+Registrant FAX Ext.:
+Registrant Email:hostmaster@imena.ua
+Admin ID:DI_14171185
+Admin Name:Whois privacy protection service
+Admin Organization:Internet Invest, Ltd. dba Imena.ua
+Admin Street1:Gaidara, 50 st.
+Admin Street2:
+Admin Street3:
+Admin City:Kyiv
+Admin State/Province:
+Admin Postal Code:01033
+Admin Country:UA
+Admin Phone:+380.442010102
+Admin Phone Ext.:
+Admin FAX:+380.442010100
+Admin FAX Ext.:
+Admin Email:hostmaster@imena.ua
+Tech ID:DI_14171185
+Tech Name:Whois privacy protection service
+Tech Organization:Internet Invest, Ltd. dba Imena.ua
+Tech Street1:Gaidara, 50 st.
+Tech Street2:
+Tech Street3:
+Tech City:Kyiv
+Tech State/Province:
+Tech Postal Code:01033
+Tech Country:UA
+Tech Phone:+380.442010102
+Tech Phone Ext.:
+Tech FAX:+380.442010100
+Tech FAX Ext.:
+Tech Email:hostmaster@imena.ua
+Name Server:NS1.1GB.UA
+Name Server:NS2.1GB.UA
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

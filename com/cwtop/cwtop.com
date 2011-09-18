@@ -6,7 +6,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for &quot;CWTOP.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 19:34:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 16:12:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

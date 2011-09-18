@@ -1,0 +1,32 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'eadeh-glass.ir'
+
+
+domain:		eadeh-glass.ir
+ascii:		eadeh-glass.ir
+remarks:	(Domain Holder) Vahid Khoshghamat Azad
+remarks:	(Domain Holder Address) No. 4, North Tarbiat St., Abkouh Ave.,, Mashhad, Khorasan Razavi, IR
+holder-c:	vk52-irnic
+admin-c:	vk52-irnic
+tech-c:		vk52-irnic
+nserver:	ns5.pant-itc.com
+nserver:	ns6.pant-itc.com
+nserver:	ns3.pant-itc.com
+nserver:	ns4.pant-itc.com
+last-updated:	2011-09-14
+source:		IRNIC # Filtered
+
+nic-hdl:	vk52-irnic
+person:		Vahid Khoshghamat Azad
+e-mail:		vahid.azad@gmail.com
+address:	No. 4, North Tarbiat St., Abkouh Ave.,, Mashhad, Khorasan Razavi, IR
+phone:		+985112244240
+source:		IRNIC # Filtered
+

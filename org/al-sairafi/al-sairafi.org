@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153410181-LROR
+Domain Name:AL-SAIRAFI.ORG
+Created On:21-Jul-2008 16:19:08 UTC
+Last Updated On:12-Jul-2011 04:00:45 UTC
+Expiration Date:21-Jul-2012 16:19:08 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:8fb51a7dc2c
+Registrant Name:Brent  Oxley
+Registrant Organization:HostGator
+Registrant Street1:11251 nw freeway suite 400
+Registrant Street2:
+Registrant Street3:
+Registrant City:Houston
+Registrant State/Province:
+Registrant Postal Code:77065
+Registrant Country:US
+Registrant Phone:+1.8669642867
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:support@hostgator.com
+Admin ID:6B60E74CD224E397
+Admin Name:Brent Oxley
+Admin Organization:hostgator.com
+Admin Street1:11251 nw freeway suite 400
+Admin Street2:
+Admin Street3:
+Admin City:houston
+Admin State/Province:
+Admin Postal Code:77092
+Admin Country:US
+Admin Phone:+1.8669642867
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:support@hostgator.com
+Tech ID:6B60E74CD224E397
+Tech Name:Brent Oxley
+Tech Organization:hostgator.com
+Tech Street1:11251 nw freeway suite 400
+Tech Street2:
+Tech Street3:
+Tech City:houston
+Tech State/Province:
+Tech Postal Code:77092
+Tech Country:US
+Tech Phone:+1.8669642867
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@hostgator.com
+Name Server:NS1013.HOSTGATOR.COM
+Name Server:NS1014.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 07-jun-2011
    Expiration Date: 07-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 10:53:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 16:04:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,38 +84,32 @@ Domain servers in listed order:
 	 ns1.quxynyneby.com 	 ns2.quxynyneby.com
 
 Administrator:
-	 name:(Milosav Tomse)
-	Email:(joshua@cutemail.org) tel-- +386.45743729
-	 Milosav Tomse
 	 Ljubljanska 7
-\r
-t Bled
+	 Bled
 Gorenjska,
 SI
+ 4260
 
- zipcode:4260
-
+	 name:(Milosav Tomse)
+mail:(joshua@cutemail.org) +386.45743729
+	 Milosav Tomse
 Technical Contactor:
-	 name:(Milosav Tomse)
-	Email:(joshua@cutemail.org) tel-- +386.45743729
-	 Milosav Tomse
 	 Ljubljanska 7
-\r
-t Bled
+	 Bled
 Gorenjska,
 SI
+ 4260
 
- zipcode:4260
-
+	 name:(Milosav Tomse)
+mail:(joshua@cutemail.org) +386.45743729
+	 Milosav Tomse
 Billing Contactor:
-	 name:(Milosav Tomse)
-	Email:(joshua@cutemail.org) tel-- +386.45743729
-	 Milosav Tomse
 	 Ljubljanska 7
-\r
-t Bled
+	 Bled
 Gorenjska,
 SI
+ 4260
 
- zipcode:4260
-
+	 name:(Milosav Tomse)
+mail:(joshua@cutemail.org) +386.45743729
+	 Milosav Tomse
