@@ -1,0 +1,102 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; monsite-orange.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      monsite-orange.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    OBSL1-FRNIC
+admin-c:     OF806-FRNIC
+tech-c:      NF485-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL16830-FRNIC
+registrar:   NORDNET
+anniversary: 19/11
+created:     19/11/2009
+last-update: 05/05/2010
+source:      FRNIC
+
+ns-list:     NSL16830-FRNIC
+nserver:     ns1.fti.net
+nserver:     ns2.fti.net
+nserver:     ns3.fti.net
+nserver:     ns4.fti.net
+nserver:     ns5.fti.net
+nserver:     ns6.fti.net
+source:      FRNIC
+
+registrar:   NORDNET
+type:        Isp Option 1
+address:     111 Rue de Croix
+address:     BP 60 985
+address:     HEM
+country:     FR
+phone:       0 820 800 810
+fax-no:      +33 3 20 66 56 29
+e-mail:      contact@nordnet.net
+website:     http://www.nordnet.com
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     OBSL1-FRNIC
+type:        ORGANIZATION
+contact:     Orange Brand Services Limited
+address:     St James Court, Great Park Road, Almondsbury Park,
+address:     BS324QJ Bristol
+country:     GB
+phone:       +44 3145298193
+e-mail:      registry@melbourneitcbs.com
+changed:     14/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     OF806-FRNIC
+type:        ORGANIZATION
+contact:     Orange France
+address:     6, place d'Alleray
+address:     75015 Paris
+country:     FR
+phone:       +33 1 45 29 81 93
+e-mail:      beatrice.leopoldfenu@orange-ftgroup.com
+changed:     18/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     NF485-FRNIC
+type:        ROLE
+contact:     NORDNET France
+address:     Nordnet
+address:     111, rue de Croix
+address:     59510 Hem
+country:     FR
+phone:       +33 3 20 66 55 55
+e-mail:      tech-dom-fr@lerelaisinternet.com
+admin-c:     ML50-FRNIC
+admin-c:     DU11-FRNIC
+tech-c:      ML50-FRNIC
+tech-c:      DU11-FRNIC
+tech-c:      JG3094-FRNIC
+notify:      tech-dom-fr@lerelaisinternet.com
+changed:     17/08/2006 tech-dom-fr@lerelaisinternet.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

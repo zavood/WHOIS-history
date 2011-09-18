@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156790141-LROR
+Domain Name:UK-AID.ORG
+Created On:03-Aug-2009 10:23:52 UTC
+Last Updated On:27-Jul-2011 03:40:04 UTC
+Expiration Date:03-Aug-2012 10:23:52 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuLZpzxCjVlLOokO
+Registrant Name:Pauline Craven
+Registrant Organization:Felsted Aid for Deprived Children
+Registrant Street1:47 Jersey Way
+Registrant Street2:Braintree
+Registrant Street3:
+Registrant City:Essex
+Registrant State/Province:Essex
+Registrant Postal Code:CM72FA
+Registrant Country:GB
+Registrant Phone:+044.1371819002
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:lisa.smith@activwebdesign.com
+Admin ID:tummUhvwaa0Kz1qo
+Admin Name:UK2.NET http://www.uk2.net/
+Admin Organization:UK2.NET http://www.uk2.net/
+Admin Street1:One Canada Square
+Admin Street2:Canary Wharf
+Admin Street3:
+Admin City:London
+Admin State/Province:
+Admin Postal Code:E145DY
+Admin Country:GB
+Admin Phone:+044.2079871200
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@uk2.net
+Tech ID:tuW8XyEICe8T1KJW
+Tech Name:UK2.NET http://www.uk2.net/
+Tech Organization:UK2.NET http://www.uk2.net/
+Tech Street1:One Canada Square
+Tech Street2:Canary Wharf
+Tech Street3:
+Tech City:London
+Tech State/Province:
+Tech Postal Code:E145DY
+Tech Country:GB
+Tech Phone:+044.2079871200
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@uk2.net
+Name Server:NS0.PHASE8.NET
+Name Server:NS1.PHASE8.NET
+Name Server:NS2.PHASE8.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

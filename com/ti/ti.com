@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 25-mar-1986
    Expiration Date: 26-mar-2018
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:52:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 18:03:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,7 +77,7 @@ Registrant:
     Plano, TX 75023
     US
     +1.9729958097 (FAX) +1.2145675522
-    38da4730219d5b3d292062b370974b4679a973f2@whois.gkg.net
+    9d49d3adbab67a353ba89042bf9bbd295fb9178f@whois.gkg.net
 
 Administrative Contact:
     Texas Instruments, Inc.
@@ -87,7 +87,7 @@ Administrative Contact:
     Plano, TX 75023
     US
     +1.9729958097 (FAX) +1.2145675522
-    38da4730219d5b3d292062b370974b4679a973f2@whois.gkg.net
+    9d49d3adbab67a353ba89042bf9bbd295fb9178f@whois.gkg.net
 
 Technical Contact:
     Texas Instruments, Inc.
@@ -97,7 +97,7 @@ Technical Contact:
     Plano, TX 75023
     US
     +1.9729958097 (FAX) +1.2145675522
-    38da4730219d5b3d292062b370974b4679a973f2@whois.gkg.net
+    9d49d3adbab67a353ba89042bf9bbd295fb9178f@whois.gkg.net
 
 Billing Contact
     Texas Instruments, Inc.
@@ -107,7 +107,7 @@ Billing Contact
     Plano, TX 75023
     US
     +1.9729958097 (FAX) +1.2145675522
-    38da4730219d5b3d292062b370974b4679a973f2@whois.gkg.net
+    9d49d3adbab67a353ba89042bf9bbd295fb9178f@whois.gkg.net
 
     Registrar..: gkg.net (http://register.gkg.net/)
     Domain Name: TI.COM

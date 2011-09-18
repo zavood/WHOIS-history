@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 26-may-2011
    Expiration Date: 26-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 10:54:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 18:00:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,26 +84,38 @@ Domain servers in listed order:
 	 ns1.qupasebyve.com 	 ns2.qupasebyve.com
 
 Administrator:
-	 Name-- Leena Mandemaker
- EMail-: (camel@mailti.com)
- tel --: +31.713620370
-	 org: Leena Mandemaker
+	 name:(Leena Mandemaker)
+	Email:(camel@mailti.com) tel-- +31.713620370
+	 Leena Mandemaker
 	 Julianastraat 32
-	 Noordwijk,Zuid-Holland,NL 2202 KD
+\r
+t Noordwijk
+Zuid-Holland,
+NL
+
+ zipcode:2202 KD
 
 Technical Contactor:
-	 Name-- Leena Mandemaker
- EMail-: (camel@mailti.com)
- tel --: +31.713620370
-	 org: Leena Mandemaker
+	 name:(Leena Mandemaker)
+	Email:(camel@mailti.com) tel-- +31.713620370
+	 Leena Mandemaker
 	 Julianastraat 32
-	 Noordwijk,Zuid-Holland,NL 2202 KD
+\r
+t Noordwijk
+Zuid-Holland,
+NL
+
+ zipcode:2202 KD
 
 Billing Contactor:
-	 Name-- Leena Mandemaker
- EMail-: (camel@mailti.com)
- tel --: +31.713620370
-	 org: Leena Mandemaker
+	 name:(Leena Mandemaker)
+	Email:(camel@mailti.com) tel-- +31.713620370
+	 Leena Mandemaker
 	 Julianastraat 32
-	 Noordwijk,Zuid-Holland,NL 2202 KD
+\r
+t Noordwijk
+Zuid-Holland,
+NL
+
+ zipcode:2202 KD
 

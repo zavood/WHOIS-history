@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1550102-LROR
+Domain Name:ECUSD7.ORG
+Created On:08-Jul-1998 04:00:00 UTC
+Last Updated On:11-Jul-2006 17:25:52 UTC
+Expiration Date:07-Jul-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26102050-NSI
+Registrant Name:Edwardsville CUD #7
+Registrant Organization:Edwardsville CUD #7
+Registrant Street1:708 St. Louis Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Edwardsville
+Registrant State/Province:IL
+Registrant Postal Code:62025
+Registrant Country:US
+Registrant Phone:+1.61869274
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:gbirdsell@ECUSD7.ORG
+Admin ID:26102053-NSI
+Admin Name:Gene Birdsell
+Admin Street1:708 St. Louis Street
+Admin Street2:
+Admin Street3:
+Admin City:Edwardsville
+Admin State/Province:IL
+Admin Postal Code:62025
+Admin Country:US
+Admin Phone:+1.61869274
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gbirdsell@ECUSD7.ORG
+Tech ID:5949456-NSI
+Tech Name:Bill ** Stevens
+Tech Street1:425 GOSHEN RD
+Tech Street2:
+Tech Street3:
+Tech City:EDWARDSVILLE
+Tech State/Province:IL
+Tech Postal Code:62025-3045
+Tech Country:US
+Tech Phone:+1.6186563216
+Tech Phone Ext.:
+Tech FAX:+1.6186569401
+Tech FAX Ext.:
+Tech Email:Bill@LCLS.LIB.IL.US
+Name Server:NS1.LCLS.ORG
+Name Server:NS1.ECUSD7.ORG
+Name Server:NS3.LCLS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

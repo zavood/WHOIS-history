@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156709782-LROR
+Domain Name:IGO4EDUCATION.ORG
+Created On:22-Jul-2009 21:07:06 UTC
+Last Updated On:02-Sep-2011 08:34:46 UTC
+Expiration Date:22-Jul-2012 21:07:06 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:HOLD
+Status:PENDING DELETE RESTORABLE
+Registrant ID:CR61909375
+Registrant Name:agus setiawan
+Registrant Street1:kp bendungan rt 10 rw 9
+Registrant Street2:ragunan pasar minggu
+Registrant Street3:
+Registrant City:jakarta selatan
+Registrant State/Province:dki jakarta
+Registrant Postal Code:12533
+Registrant Country:ID
+Registrant Phone:+62.628128426329
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bummer.product@gmail.com
+Admin ID:CR61909377
+Admin Name:agus setiawan
+Admin Street1:kp bendungan rt 10 rw 9
+Admin Street2:ragunan pasar minggu
+Admin Street3:
+Admin City:jakarta selatan
+Admin State/Province:dki jakarta
+Admin Postal Code:12533
+Admin Country:ID
+Admin Phone:+62.628128426329
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bummer.product@gmail.com
+Tech ID:CR61909376
+Tech Name:agus setiawan
+Tech Street1:kp bendungan rt 10 rw 9
+Tech Street2:ragunan pasar minggu
+Tech Street3:
+Tech City:jakarta selatan
+Tech State/Province:dki jakarta
+Tech Postal Code:12533
+Tech Country:ID
+Tech Phone:+62.628128426329
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bummer.product@gmail.com
+Name Server:NS66.DOMAINCONTROL.COM
+Name Server:NS65.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

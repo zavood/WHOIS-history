@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154837367-LROR
+Domain Name:MEDANTA.ORG
+Created On:05-Dec-2008 09:01:09 UTC
+Last Updated On:26-Oct-2009 10:43:12 UTC
+Expiration Date:05-Dec-2013 09:01:09 UTC
+Sponsoring Registrar:Visesh Infotecnics Ltd (R66-LROR)
+Status:OK
+Registrant ID:DI_9006376
+Registrant Name:Rajesh Batra
+Registrant Organization:Global Health Pvt Ltd
+Registrant Street1:Medanta, The Medicity
+Registrant Street2:Sec :- 38
+Registrant Street3:
+Registrant City:Gurgaon
+Registrant State/Province:Haryana
+Registrant Postal Code:122001
+Registrant Country:IN
+Registrant Phone:+091.9971991741
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rabatra@medanta.org
+Admin ID:DI_9006376
+Admin Name:Rajesh Batra
+Admin Organization:Global Health Pvt Ltd
+Admin Street1:Medanta, The Medicity
+Admin Street2:Sec :- 38
+Admin Street3:
+Admin City:Gurgaon
+Admin State/Province:Haryana
+Admin Postal Code:122001
+Admin Country:IN
+Admin Phone:+091.9971991741
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rabatra@medanta.org
+Tech ID:DI_9006376
+Tech Name:Rajesh Batra
+Tech Organization:Global Health Pvt Ltd
+Tech Street1:Medanta, The Medicity
+Tech Street2:Sec :- 38
+Tech Street3:
+Tech City:Gurgaon
+Tech State/Province:Haryana
+Tech Postal Code:122001
+Tech Country:IN
+Tech Phone:+091.9971991741
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rabatra@medanta.org
+Name Server:PDNS.SIFYTECH.NET
+Name Server:SDNS.SIFYTECH.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

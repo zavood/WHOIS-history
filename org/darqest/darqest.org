@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157056612-LROR
+Domain Name:DARQEST.ORG
+Created On:08-Sep-2009 12:56:22 UTC
+Last Updated On:15-Sep-2011 06:47:46 UTC
+Expiration Date:08-Sep-2012 12:56:22 UTC
+Sponsoring Registrar:Everyones Internet, Ltd. dba resellone.net (R1381-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:tuZb9hH5DiblIHzN
+Registrant Name:CAGRI YILDIRIM
+Registrant Organization:BILISIMFENERI
+Registrant Street1:GSSRET MAH SECMENLER
+Registrant Street2:SOK D  6 NO 1
+Registrant Street3:
+Registrant City:ANKARA
+Registrant State/Province:ANKARA
+Registrant Postal Code:06000
+Registrant Country:TR
+Registrant Phone:+90.05449036094
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:loj.wirus@hotmail.com
+Admin ID:tuhubnOFRWZvMNJZ
+Admin Name:CAGRI YILDIRIM
+Admin Organization:BILISIMFENERI
+Admin Street1:GSSRET MAH SECMENLER
+Admin Street2:SOK D  6 NO 1
+Admin Street3:
+Admin City:ANKARA
+Admin State/Province:ANKARA
+Admin Postal Code:06000
+Admin Country:TR
+Admin Phone:+90.05449036094
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:loj.wirus@hotmail.com
+Tech ID:tuOtZlgtwMaYBILo
+Tech Name:Yasin Altintas
+Tech Organization:WebAr&amp;#305;s&amp;#305; Int. Hiz.
+Tech Street1:Uyanis mah 42.sok 5/6
+Tech Street2:
+Tech Street3:
+Tech City:Ankara
+Tech State/Province:Kecioren
+Tech Postal Code:06280
+Tech Country:TR
+Tech Phone:+90.3125806923
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@webarisi.com
+Name Server:NS1.BILISIMFENERI.COM
+Name Server:NS2.BILISIMFENERI.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

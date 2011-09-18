@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 27-jun-1999
    Expiration Date: 27-jun-2019
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 10:39:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 18:26:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,7 +76,7 @@ Registrars.
 # Pour obtenir les informations en status 'Protected by policy', contactez
 # directement le registre concerne (Eurid, AFNIC)
 #
-# 2011-09-15 12:40:04 CEST
+# 2011-09-18 20:26:43 CEST
 
 domain: appelsiini.com
 reg_created: 1999-06-27 11:07:40

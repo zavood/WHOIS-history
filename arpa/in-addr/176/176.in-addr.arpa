@@ -1,0 +1,23 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       176.in-addr.arpa
+
+organisation: RIPE NCC
+
+nserver:      ns3.nic.fr.
+nserver:      pri.authdns.ripe.net.
+nserver:      sec1.apnic.net.
+nserver:      sec3.apnic.net.
+nserver:      sns-pb.isc.org.
+nserver:      tinnie.arin.net.
+ds-rdata:     41642 5 1 65899466c320300bc643dcaee0f91dffd15ba0b8
+ds-rdata:     41642 5 2 f6a7d7daa5c742ee949bfd1ec3cb36210c26ce924ba5f9336d3613af8f49279a
+
+whois:        whois.ripe.net
+
+changed:      2010-05
+changed:      2011-04-13
+source:       IANA
+

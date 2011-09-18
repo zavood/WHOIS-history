@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D56029-LROR
+Domain Name:KVIE.ORG
+Created On:28-Apr-1995 04:00:00 UTC
+Last Updated On:30-Apr-2011 01:22:51 UTC
+Expiration Date:29-Apr-2012 04:00:00 UTC
+Sponsoring Registrar:TierraNet Inc. dba DomainDiscover (R86-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:TNTN-0000618785
+Registrant Name:Randy Ramirez
+Registrant Organization:KVIE, Inc.
+Registrant Street1:2030 W. El Camino Ave.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sacramento
+Registrant State/Province:CA
+Registrant Postal Code:95833-2926
+Registrant Country:US
+Registrant Phone:+1.9169295843
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rramirez@kvie.org
+Admin ID:TNTN-0000935590
+Admin Name:Will Sours
+Admin Organization:KVIE Public Television
+Admin Street1:2030 W. El Camino Ave.
+Admin Street2:
+Admin Street3:
+Admin City:Sacramento
+Admin State/Province:CA
+Admin Postal Code:95833
+Admin Country:US
+Admin Phone:+1.9166413577
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:wsours@kvie.org
+Tech ID:TNTN-0000618785
+Tech Name:Randy Ramirez
+Tech Organization:KVIE, Inc.
+Tech Street1:2030 W. El Camino Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Sacramento
+Tech State/Province:CA
+Tech Postal Code:95833-2926
+Tech Country:US
+Tech Phone:+1.9169295843
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rramirez@kvie.org
+Name Server:UDNS1.ULTRADNS.NET
+Name Server:UDNS2.ULTRADNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

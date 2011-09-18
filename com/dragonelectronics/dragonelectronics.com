@@ -6,17 +6,17 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
    Domain Name: DRAGONELECTRONICS.COM
-   Registrar: UK2 GROUP LTD.
-   Whois Server: whois.hostingservicesinc.net
-   Referral URL: http://www.resell.biz
-   Name Server: RGP1.STARGATE.COM
-   Name Server: RGP2.STARGATE.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 10-jul-2001
-   Expiration Date: 10-jul-2011
+   Registrar: DOMAINWARDS.COM LLC
+   Whois Server: whois.domainwards.com
+   Referral URL: http://www.domainwards.com
+   Name Server: NS1.NAMEBRIGHTDNS.COM
+   Name Server: NS2.NAMEBRIGHTDNS.COM
+   Status: clientTransferProhibited
+   Updated Date: 17-sep-2011
+   Creation Date: 15-sep-2011
+   Expiration Date: 15-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:06:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 17:50:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,4 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Error: No Match for &quot;DRAGONELECTRONICS.COM&quot;

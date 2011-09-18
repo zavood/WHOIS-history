@@ -1,0 +1,93 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sun Sep 18 19:14:09 2011
+
+domain:       editionsatlas.cz
+registrant:   AT84038336-052
+admin-c:      AT84038347-052
+temp-c:       ASCIOBILL
+nsset:        NSSID:AT-84038294-052
+registrar:    REG-ASCIO
+status:       paid and in zone
+registered:   01.03.2007 01:05:00
+changed:      28.01.2010 12:05:19
+expire:       01.03.2012
+
+contact:      AT84038336-052
+org:          Editions Atlas
+name:         Nicolas Barriere
+address:      Route des Dragons 7
+address:      Cheseaux-sur-Lausanne
+address:      1033
+address:      CH
+phone:        +41.217319075
+fax-no:       +41.217319010
+e-mail:       nbarriere@editionsatlas.ch
+registrar:    REG-ASCIO
+created:      28.01.2010 12:05:12
+
+contact:      AT84038347-052
+org:          Editions Atlas
+name:         Nicolas Barriere
+address:      Route des Dragons 7
+address:      Cheseaux-sur-Lausanne
+address:      1033
+address:      CH
+phone:        +41.217319075
+fax-no:       +41.217319010
+e-mail:       nbarriere@editionsatlas.ch
+registrar:    REG-ASCIO
+created:      28.01.2010 12:05:15
+
+contact:      ASCIOBILL
+name:         Ascio Billing
+address:      Rejsbygade 8A
+address:      Copenhagen
+address:      1759
+address:      DK
+phone:        +45.33886100
+fax-no:       +45.33886101
+e-mail:       callback@speednic.net
+registrar:    REG-GENREG
+created:      23.09.2004 16:20:00
+
+nsset:        NSSID:AT-84038294-052
+nserver:      ns1.editionsatlas.ch
+nserver:      ns1.ip-plus.net
+tech-c:       AT24274771-053
+registrar:    REG-ASCIO
+created:      28.01.2010 12:05:09
+
+contact:      AT24274771-053
+org:          NetNames Ltd
+name:         Ben Anderson
+address:      3rd Floor, Prospero House
+address:      241 Borough High Street
+address:      London
+address:      SE11GA
+address:      Greater London
+address:      GB
+phone:        +44.2070159370
+fax-no:       +44.2070159375
+e-mail:       corporate-services@netnames.com
+registrar:    REG-ASCIO
+created:      24.11.2008 16:47:21
+changed:      05.04.2011 13:17:24
+
+

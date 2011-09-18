@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D8330008-LROR
+Domain Name:NMONECALL.ORG
+Created On:22-Jul-1999 22:07:54 UTC
+Last Updated On:19-Jun-2009 02:59:46 UTC
+Expiration Date:22-Jul-2012 22:07:54 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:35205200-NSI
+Registrant Name:New Mexico One Call, Inc.
+Registrant Organization:New Mexico One Call, Inc.
+Registrant Street1:P.O. Box 27192
+Registrant Street2:
+Registrant Street3:
+Registrant City:Albuquerque
+Registrant State/Province:NM
+Registrant Postal Code:87125-7192
+Registrant Country:US
+Registrant Phone:+1.5052601165
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:gsloman@qwest.net
+Admin ID:5623756-NSI
+Admin Name:Southwest Cyberport
+Admin Organization:Southwest Cyberport
+Admin Street1:5021 Indian School NE Suite 600
+Admin Street2:
+Admin Street3:
+Admin City:Albuquerque
+Admin State/Province:NM
+Admin Postal Code:87110-3950
+Admin Country:US
+Admin Phone:+1.5052327992
+Admin Phone Ext.:
+Admin FAX:+1.5052327975
+Admin FAX Ext.:
+Admin Email:hostmaster@swcp.com
+Tech ID:35205200-NSI
+Tech Name:New Mexico One Call, Inc.
+Tech Organization:New Mexico One Call, Inc.
+Tech Street1:P.O. Box 27192
+Tech Street2:
+Tech Street3:
+Tech City:Albuquerque
+Tech State/Province:NM
+Tech Postal Code:87125-7192
+Tech Country:US
+Tech Phone:+1.5052601165
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:gsloman@qwest.net
+Name Server:KITSUNE.SWCP.COM
+Name Server:NS2.SWCP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

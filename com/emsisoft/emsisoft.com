@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 17-jul-2003
    Expiration Date: 17-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 06:50:29 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 18:28:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain emsisoft.com
-% Timestamp: 2011-09-17 08:50:54
+% Timestamp: 2011-09-18 20:29:13
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

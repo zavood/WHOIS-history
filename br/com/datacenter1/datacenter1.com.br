@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 14:58:32 (BRT -03:00)
+
+domain:      datacenter1.com.br
+owner:       Alog-02 Solu&ccedil;&otilde;es de Tecnologia em Inform&aacute;tica S.A.
+ownerid:     003.672.254/0001-44
+responsible: Area de Engenharia - Alog
+country:     BR
+owner-c:     AEC81
+admin-c:     AEC81
+tech-c:      GEA59
+billing-c:   AEC81
+nserver:     ns1.datacenter1.com.br 200.198.176.2 2001:12e8:1::3
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3.datacenter1.com.br 200.155.1.2 2001:12e8:1::4
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20000330 #302445
+expires:     20120330
+changed:     20110228
+status:      published
+
+nic-hdl-br:  AEC81
+person:      Area de Engenharia - comDominio
+e-mail:      registro@alog.com.br
+created:     20020909
+changed:     20100820
+
+nic-hdl-br:  GEA59
+person:      Gerencia de Ativa&ccedil;&atilde;o
+e-mail:      suporte@registrobrasil.com
+created:     20020614
+changed:     20101007
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

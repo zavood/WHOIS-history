@@ -1,0 +1,39 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: KS73D-NORID
+Domain Name................: ks.no
+Domain Holder Handle.......: KS675O-NORID
+Registrar Handle...........: REG48-NORID
+Legal-c Handle.............: RD683P-NORID
+Tech-c Handle..............: PH27R-NORID
+Name Server Handle.........: A77H-NORID
+Name Server Handle.........: F12H-NORID
+Name Server Handle.........: G13H-NORID
+Name Server Handle.........: H6H-NORID
+Name Server Handle.........: J3H-NORID
+Name Server Handle.........: L9H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-18
+
+NORID Handle...............: KS675O-NORID
+Type.......................: organization
+Name.......................: KS
+Id Type....................: organization_number
+Id Number..................: 971032146
+Registrar Handle...........: REG48-NORID
+Post Address...............: HAAKON VIISGT 9
+Postal Code................: NO-0161
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.24132600
+Email Address..............: melek.ay@ks.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

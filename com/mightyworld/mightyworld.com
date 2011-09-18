@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 15-jun-2002
    Expiration Date: 15-jun-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:48:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 17:56:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: mightyworld.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 06:39:49 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sun Sep 18 13:46:24 EDT 2011
 Reason Code: IE
