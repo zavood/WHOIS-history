@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D120012414-LROR
+Domain Name:ACIAJA.ORG
+Created On:07-Apr-2006 21:15:46 UTC
+Last Updated On:10-Jun-2011 20:30:11 UTC
+Expiration Date:07-Apr-2013 21:15:46 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CR31968508
+Registrant Name:ALESSANDRO CARVALHO GOMES
+Registrant Organization:ASSOSSIACAO COMERCIAL INDUSTRIAL AGRICOLA DE JAGUARIAIVA
+Registrant Street1:VENIDA ANTONIO CUNHA 214
+Registrant Street2:
+Registrant Street3:
+Registrant City:JAGUARIAIVA
+Registrant State/Province:Parana
+Registrant Postal Code:84200-000
+Registrant Country:BR
+Registrant Phone:+43.35351531
+Registrant Phone Ext.:
+Registrant FAX:+55.1132579706
+Registrant FAX Ext.:
+Registrant Email:ACIAJA@UOL.COM.BR
+Admin ID:CR31968511
+Admin Name:Andre Manoel
+Admin Organization:Insite Serv. Com. Ltda.
+Admin Street1:Av. Sao Luis, 50 Cj. 232
+Admin Street2:
+Admin Street3:
+Admin City:Sao Paulo
+Admin State/Province:Sao Paulo
+Admin Postal Code:01046-926
+Admin Country:BR
+Admin Phone:+55.551132596979
+Admin Phone Ext.:
+Admin FAX:+55.551132579706
+Admin FAX Ext.:
+Admin Email:enom@corp.plugin.com.br
+Tech ID:CR31968509
+Tech Name:Andre Manoel
+Tech Organization:Insite Serv. Com. Ltda.
+Tech Street1:Av. Sao Luis, 50 Cj. 232
+Tech Street2:
+Tech Street3:
+Tech City:Sao Paulo
+Tech State/Province:Sao Paulo
+Tech Postal Code:01046-926
+Tech Country:BR
+Tech Phone:+55.1132596979
+Tech Phone Ext.:
+Tech FAX:+55.1132579706
+Tech FAX Ext.:
+Tech Email:dominios@insite.com.br
+Name Server:NS1.INSITE.COM.BR
+Name Server:NS3.INSITE.COM.BR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 00:10:26 (BRT -03:00)
+
+domain:      imporium.com.br
+owner:       masl rio comercio de couros e acessorios ltda
+ownerid:     003.754.078/0001-90
+responsible: karl heinz schuller
+country:     BR
+owner-c:     HRB
+admin-c:     HRB
+tech-c:      HRB
+billing-c:   HRB
+nserver:     ns1.insite.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.insite.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20040226 #1548644
+expires:     20180226
+changed:     20080213
+status:      published
+
+nic-hdl-br:  HRB
+person:      Manuten&ccedil;&atilde;o de Dom&iacute;nios INSITE
+e-mail:      registro-leg@uolhostidc.com.br
+created:     19971218
+changed:     20100707
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

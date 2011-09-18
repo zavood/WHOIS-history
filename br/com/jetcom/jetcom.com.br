@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 23:56:34 (BRT -03:00)
+
+domain:      jetcom.com.br
+owner:       Acom Comunicacoes S.A.
+ownerid:     002.126.673/0001-18
+responsible: Grupo Redes IP ACOM
+country:     BR
+owner-c:     GRIAC2
+admin-c:     GRIAC2
+tech-c:      RCA456
+billing-c:   EBN6
+nserver:     ns.jetcom.com.br 200.172.230.131
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.jetcom.com.br 200.172.230.136
+nsstat:      20110916 TIMEOUT
+nslastaa:    20110523
+created:     19991122 #223436
+expires:     20111122
+changed:     20101103
+status:      published
+
+nic-hdl-br:  EBN6
+person:      Erich Baumeier Neto
+e-mail:      ebn@attglobal.net
+created:     19990912
+changed:     20070924
+
+nic-hdl-br:  GRIAC2
+person:      Grupo de Redes IP da ACOM
+e-mail:      redes_ip@acom.com.br
+created:     20100818
+changed:     20110720
+
+nic-hdl-br:  RCA456
+person:      Rani&eacute;re Castro de Andrade
+e-mail:      rcastro@acom.com.br
+created:     20051110
+changed:     20110406
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

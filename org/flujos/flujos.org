@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148862774-LROR
+Domain Name:FLUJOS.ORG
+Created On:13-Aug-2007 18:56:08 UTC
+Last Updated On:18-Jul-2011 21:10:22 UTC
+Expiration Date:13-Aug-2012 18:56:08 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-1639846-GANDI
+Registrant Name:Ana Rivas
+Registrant Street1:735 N 10th Av
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tucson
+Registrant State/Province:Arizona
+Registrant Postal Code:85705
+Registrant Country:US
+Registrant Phone:+1.5204883894
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cipota@riseup.net
+Admin ID:AR3489-GANDI
+Admin Name:Ana Rivas
+Admin Street1:735 N 10th Av
+Admin Street2:
+Admin Street3:
+Admin City:Tucson
+Admin State/Province:Arizona
+Admin Postal Code:85705
+Admin Country:US
+Admin Phone:+1.5204883894
+Admin Phone Ext.:
+Admin FAX:+33.1
+Admin FAX Ext.:
+Admin Email:089b2b3d9c54b1a3947f1e00484f559c-1180039@contact.gandi.net
+Tech ID:TB2135-GANDI
+Tech Name:Timothy Brown
+Tech Street1:11411 Thrasher Pike
+Tech Street2:
+Tech Street3:
+Tech City:Hixson
+Tech State/Province:Tennessee
+Tech Postal Code:37343
+Tech Country:US
+Tech Phone:+1.4238420598
+Tech Phone Ext.:
+Tech FAX:+33.1
+Tech FAX Ext.:
+Tech Email:bdc710ea097f5f39b0e96f80ba224580-954186@contact.gandi.net
+Name Server:NS6.GANDI.NET
+Name Server:C.DNS.GANDI.NET
+Name Server:B.DNS.GANDI.NET
+Name Server:A.DNS.GANDI.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 23:54:12 (BRT -03:00)
+
+domain:      modernmarketing.com.br
+owner:       MODERN MARKETING LTDA
+ownerid:     058.470.865/0001-00
+responsible: Ricardo Modern
+country:     BR
+owner-c:     RIM30
+admin-c:     RIM30
+tech-c:      TEE9
+billing-c:   RIM30
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     19970909 #56810
+expires:     20110909
+changed:     20101014
+status:      published
+
+nic-hdl-br:  RIM30
+person:      Ricardo Modern
+e-mail:      mmkt@modernmarketing.com.br
+created:     19980327
+changed:     19990714
+
+nic-hdl-br:  TEE9
+person:      Terra Empresas
+e-mail:      fapesp@terraempresas.com.br
+created:     20001213
+changed:     20100920
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

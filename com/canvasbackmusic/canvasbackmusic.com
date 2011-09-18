@@ -18,11 +18,11 @@ for detailed information.
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 11-sep-2009
+   Updated Date: 11-sep-2011
    Creation Date: 13-oct-2006
-   Expiration Date: 13-oct-2011
+   Expiration Date: 13-oct-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 23:29:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 03:20:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -112,17 +112,17 @@ Registrant:
         dns-admin@wmg-is.com +1.2122752175 Fax: -
 
     Created on..............: 2006-10-13.
-    Expires on..............: 2011-10-13.
-    Record last updated on..: 2011-04-16.
+    Expires on..............: 2013-10-13.
+    Record last updated on..: 2011-09-11.
 
     Domain servers in listed order:
 
+    a4.nstld.com
     f4.nstld.com
-    g4.nstld.com
     l4.nstld.com
     j4.nstld.com
-    a4.nstld.com
     h4.nstld.com
+    g4.nstld.com
 
 
 

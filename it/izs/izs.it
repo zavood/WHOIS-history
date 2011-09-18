@@ -1,0 +1,60 @@
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://www.nic.it/cgi-bin/Whois/whois.cgi                         *
+*********************************************************************
+
+Domain:             izs.it
+Status:             ok
+Created:            1996-01-29 00:00:00
+Last Update:        2011-03-24 11:01:16
+Expire Date:        2012-01-29
+
+Registrant
+  Name:             IZS dell'Abruzzo e del Molise &quot;G. Caporale&quot;
+  Organization:     IZS dell'Abruzzo e del Molise &quot;G. Caporale&quot;
+  ContactID:        IZSD1
+  Address:          Via Campo Boario 4
+                    Teramo
+                    64100
+                    TE
+                    IT
+  Created:          2007-03-01 10:46:57
+  Last Update:      2011-03-24 11:01:07
+
+Admin Contact
+  Name:             Cesare Di Francesco
+  ContactID:        CDF1
+  Address:          Istituto Zooprofilattico Sperimentale - Teramo
+                    Via Campo Boario 4
+                    Teramo
+                    64100
+                    TE
+                    IT
+  Created:          1996-06-17 00:00:00
+  Last Update:      2011-03-24 11:01:08
+
+Technical Contacts
+  Name:             Daniele Zippo
+  ContactID:        DZ15
+  Address:          Istituto Zooprofilattico Sperimentale - Teramo
+                    Via Campo Boario 4
+                    Teramo
+                    64100
+                    TE
+                    IT
+  Created:          1996-12-12 00:00:00
+  Last Update:      2011-03-24 11:01:09
+
+Registrar
+  Organization:     Consortium GARR
+  Name:             GARR-REG
+
+Nameservers
+  dns.izs.it
+  dns.tex.izs.it
+  ns1.garr.net
+

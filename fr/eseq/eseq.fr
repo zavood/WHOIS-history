@@ -1,0 +1,103 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; eseq.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      eseq.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    PM1637-FRNIC
+admin-c:     PM4748-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL21038-FRNIC
+registrar:   GANDI
+anniversary: 07/06
+created:     06/06/2007
+last-update: 07/06/2010
+source:      FRNIC
+
+ns-list:     NSL21038-FRNIC
+nserver:     max.pleir-mv.net
+nserver:     ns6.gandi.net
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     PM1637-FRNIC
+type:        ORGANIZATION
+contact:     PLEIR MV
+address:     19, rue du Vieux Chene
+address:     34470 P&eacute;rols
+country:     FR
+phone:       +33 4 67 42 93 15
+e-mail:      admin@pleir-mv.net
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     PM4748-FRNIC
+type:        PERSON
+contact:     Philippe Marthon
+address:     EURL p.l.e.i.r. MV
+address:     19, rue du Vieux Chene
+address:     34470 P&eacute;rols
+country:     FR
+phone:       +33 4 67 42 93 15
+fax-no:      +33 4 67 42 93 15
+e-mail:      admin@pleir-mv.net
+changed:     06/06/2007 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

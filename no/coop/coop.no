@@ -1,0 +1,41 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: COO459D-NORID
+Domain Name................: coop.no
+Domain Holder Handle.......: CNB3O-NORID
+Registrar Handle...........: REG48-NORID
+Legal-c Handle.............: TD1651P-NORID
+Tech-c Handle..............: PH27R-NORID
+Name Server Handle.........: A77H-NORID
+Name Server Handle.........: F12H-NORID
+Name Server Handle.........: G13H-NORID
+Name Server Handle.........: H6H-NORID
+Name Server Handle.........: J3H-NORID
+Name Server Handle.........: K5H-NORID
+Name Server Handle.........: L9H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2011-01-25
+
+NORID Handle...............: CNB3O-NORID
+Type.......................: organization
+Name.......................: COOP NORGE SA
+Id Type....................: organization_number
+Id Number..................: 936560288
+Registrar Handle...........: REG48-NORID
+Post Address...............: Postboks 21 Haugenstua
+Postal Code................: NO-0915
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22899595
+Fax Number.................: +47.22899745
+Email Address..............: domainadmin@coop.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2011-05-16
+

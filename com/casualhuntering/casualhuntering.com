@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 10-apr-2009
    Expiration Date: 10-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 19:17:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 03:51:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,77 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Legal Stuff:
-
-The information in DreamHost's whois database is to be used for
-informational purposes only, and to obtain information on a
-domain name registration. DreamHost does not guarantee its
-accuracy.
-
-You are not authorized to query or access DreamHost's whois
-database using high-volume, automated means without written
-permission from DreamHost.
-
-You are not authorized to query or access DreamHost's whois
-database in order to facilitate illegal activities, or to
-facilitate the use of unsolicited bulk email, telephone, or
-facsimile communications.
-
-You are not authorized to collect, repackage, or redistribute the
-information in DreamHost's whois database.
-
-DreamHost may, at its sole discretion, restrict your access to
-the whois database at any time, with or without notice. DreamHost
-may modify these Terms of Service at any time, with or without
-notice.
-
-+++++++++++++++++++++++++++++++++++++++++++
-
-   Domain Name: casualhuntering.com
-
-   Registrant Contact:
-      casualhuntering.com Private Registrant         casualhuntering.com@proxy.dreamhost.com
-      A Happy DreamHost Customer
-      417 Associated Rd #324
-      Brea, CA 92821
-      US
-      +1.2139471032
-
-   Administrative Contact:
-      casualhuntering.com Private Registrant         casualhuntering.com@proxy.dreamhost.com
-      A Happy DreamHost Customer
-      417 Associated Rd #324
-      Brea, CA 92821
-      US
-      +1.2139471032
-
-   Technical Contact:
-      casualhuntering.com Private Registrant         casualhuntering.com@proxy.dreamhost.com
-      A Happy DreamHost Customer
-      417 Associated Rd #324
-      Brea, CA 92821
-      US
-      +1.2139471032
-
-   Billing Contact:
-      casualhuntering.com Private Registrant         casualhuntering.com@proxy.dreamhost.com
-      A Happy DreamHost Customer
-      417 Associated Rd #324
-      Brea, CA 92821
-      US
-      +1.2139471032
-
-   Record created on 2009-04-10 17:08:45.
-   Record expires on 2012-04-10 17:08:45.
-
-   Domain servers in listed order:
-
-      NS1.BLUEHOST.COM
-      NS2.BLUEHOST.COM
-DreamHost whois server terms of service: http://whois.dreamhost.com/terms.html
-
-Get a 14-day free trial of unlimited everything from DreamHost Web Hosting.
-Paid web hosting includes A FREE domain registration!
-http://www.dreamhost.com/
-Use promotional code &quot;WHOIS&quot; for an additional $50 off any plan!
-

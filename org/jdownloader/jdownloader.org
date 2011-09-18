@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D151039974-LROR
+Domain Name:JDOWNLOADER.ORG
+Created On:11-Feb-2008 00:05:10 UTC
+Last Updated On:24-Feb-2011 04:17:52 UTC
+Expiration Date:11-Feb-2012 00:05:10 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:75e789d49596e827
+Registrant Name:Thomas  Rechenmacher
+Registrant Organization:AppWork GmbH
+Registrant Street1:Flugplatzstraoe 111
+Registrant Street2:
+Registrant Street3:
+Registrant City:Frth
+Registrant State/Province:Bayern
+Registrant Postal Code:90768
+Registrant Country:DE
+Registrant Phone:+49.91173302895
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:e-mail@appwork.org
+Admin ID:75e789d49596e827
+Admin Name:Thomas  Rechenmacher
+Admin Organization:AppWork GmbH
+Admin Street1:Flugplatzstraoe 111
+Admin Street2:
+Admin Street3:
+Admin City:Frth
+Admin State/Province:Bayern
+Admin Postal Code:90768
+Admin Country:DE
+Admin Phone:+49.91173302895
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:e-mail@appwork.org
+Tech ID:75e789d49596e827
+Tech Name:Thomas  Rechenmacher
+Tech Organization:AppWork GmbH
+Tech Street1:Flugplatzstraoe 111
+Tech Street2:
+Tech Street3:
+Tech City:Frth
+Tech State/Province:Bayern
+Tech Postal Code:90768
+Tech Country:DE
+Tech Phone:+49.91173302895
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:e-mail@appwork.org
+Name Server:DNS1.REGISTRAR-SERVERS.COM
+Name Server:DNS2.REGISTRAR-SERVERS.COM
+Name Server:DNS3.REGISTRAR-SERVERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155835225-LROR
+Domain Name:GHANASAM.ORG
+Created On:09-Apr-2009 07:28:14 UTC
+Last Updated On:17-Feb-2011 04:45:16 UTC
+Expiration Date:09-Apr-2012 07:28:14 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_9670556
+Registrant Name:Ji hoon Yang
+Registrant Organization:yang ji hoon
+Registrant Street1:Chungjeongno 3ga, Seodae
+Registrant Street2:339
+Registrant Street3:
+Registrant City:Seoul
+Registrant State/Province:seoul Teukbyeolsi
+Registrant Postal Code:120013
+Registrant Country:KR
+Registrant Phone:+82.023624909
+Registrant Phone Ext.:
+Registrant FAX:+82.023624909
+Registrant FAX Ext.:
+Registrant Email:domain-admin@dotname.co.kr
+Admin ID:DI_9670557
+Admin Name:Ji hoon Yang
+Admin Organization:yang ji hoon
+Admin Street1:Chungjeongno 3ga, Seodae
+Admin Street2:339
+Admin Street3:
+Admin City:Seoul
+Admin State/Province:seoul Teukbyeolsi
+Admin Postal Code:120013
+Admin Country:KR
+Admin Phone:+82.023624909
+Admin Phone Ext.:
+Admin FAX:+82.023624909
+Admin FAX Ext.:
+Admin Email:domain-admin@dotname.co.kr
+Tech ID:DI_9670558
+Tech Name:Ji hoon Yang
+Tech Organization:yang ji hoon
+Tech Street1:Chungjeongno 3ga, Seodae
+Tech Street2:339
+Tech Street3:
+Tech City:Seoul
+Tech State/Province:seoul Teukbyeolsi
+Tech Postal Code:120013
+Tech Country:KR
+Tech Phone:+82.023624909
+Tech Phone Ext.:
+Tech FAX:+82.023624909
+Tech FAX Ext.:
+Tech Email:domain-admin@dotname.co.kr
+Name Server:NS1.MIREENE.COM
+Name Server:NS2.MIREENE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2368322-LROR
+Domain Name:GIFTSINKIND.ORG
+Created On:07-Aug-1995 04:00:00 UTC
+Last Updated On:24-Jul-2011 07:12:12 UTC
+Expiration Date:06-Aug-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:OK
+Registrant ID:21892757-NSI
+Registrant Name:Gifts In Kind International
+Registrant Organization:Gifts In Kind International
+Registrant Street1:333 N. Fairfax Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Alexandria
+Registrant State/Province:VA
+Registrant Postal Code:22314
+Registrant Country:US
+Registrant Phone:+1.7038362121
+Registrant Phone Ext.:
+Registrant FAX:+1.7035491481
+Registrant FAX Ext.:
+Registrant Email:sgruberg@giftsinkind.org
+Admin ID:19398453-NSI
+Admin Name:Gifts in Kind International
+Admin Organization:Gifts in Kind International
+Admin Street1:333 North Fairfax Street
+Admin Street2:
+Admin Street3:
+Admin City:Alexandria
+Admin State/Province:VA
+Admin Postal Code:22314
+Admin Country:US
+Admin Phone:+1.7038362121
+Admin Phone Ext.:
+Admin FAX:+1.7035491481
+Admin FAX Ext.:
+Admin Email:sgruburg@giftsinkind.org
+Tech ID:19398453-NSI
+Tech Name:Gifts in Kind International
+Tech Organization:Gifts in Kind International
+Tech Street1:333 North Fairfax Street
+Tech Street2:
+Tech Street3:
+Tech City:Alexandria
+Tech State/Province:VA
+Tech Postal Code:22314
+Tech Country:US
+Tech Phone:+1.7038362121
+Tech Phone Ext.:
+Tech FAX:+1.7035491481
+Tech FAX Ext.:
+Tech Email:sgruburg@giftsinkind.org
+Name Server:NS1.EASYDNS.COM
+Name Server:NS2.EASYDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

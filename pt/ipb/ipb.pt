@@ -1,0 +1,28 @@
+Nome de dom&iacute;nio / Domain Name: ipb.pt
+Data de registo / Creation Date (dd/mm/yyyy): 01/10/1996
+Data de expira&ccedil;&atilde;o / Expiration Date (dd/mm/yyyy): 31/12/2011
+Estado / Status: ACTIVE
+
+Titular / Registrant
+   Instituto Politecnico de Braganca
+   Campus de Santa Apolonia
+   Apartado 1038
+   5301-854 null
+   Email: lms@ipb.pt
+
+Entidade Gestora / Billing Contact
+   Funda&ccedil;&atilde;o para a Computa&ccedil;&atilde;o Cientifica Nacional
+   Email: secretaria@fccn.pt
+
+Respons&aacute;vel T&eacute;cnico / Tech Contact
+   Jose Adriano G Pires
+   Email: jadriano@ipb.pt
+
+Nameserver Information
+   Nameserver: ipb.pt	NS	elara.ipb.pt.
+   Nameserver: ipb.pt	NS	io.ipb.pt.
+   Nameserver: elara.ipb.pt.	A	193.136.195.220
+   Nameserver: io.ipb.pt.	A	193.136.195.219
+   Nameserver: elara.ipb.pt.	AAAA	2001:690:22c0:201::2
+   Nameserver: io.ipb.pt.	AAAA	2001:690:22c0:201::3
+   Nameserver: ipb.pt DS D5C3E4919DF487CB23104AC5D718505263CD1604 RSA/SHA-1 (NSEC3) SHA-1 4410

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D146086733-LROR
+Domain Name:KISAN-ISHIKAWA.ORG
+Created On:15-May-2007 07:38:38 UTC
+Last Updated On:08-May-2011 22:47:39 UTC
+Expiration Date:15-May-2012 07:38:38 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:3d761ca0e50db03c
+Registrant Name:Tetushi  Dai
+Registrant Organization:Social welfare corporate Kisan Ishikawa
+Registrant Street1:1-20-1 honcho higashi yama
+Registrant Street2:
+Registrant Street3:
+Registrant City:Uruma city
+Registrant State/Province:OKINAWA
+Registrant Postal Code:904-1101
+Registrant Country:JP
+Registrant Phone:+81.989642286
+Registrant Phone Ext.:
+Registrant FAX:+81.989642286
+Registrant FAX Ext.:
+Registrant Email:yabiku-s@okijoho.com
+Admin ID:7e4b5de52b3e80a7
+Admin Name:Tetushi  Dai
+Admin Organization:Social welfare corporate Kisan Ishikawa
+Admin Street1:1-20-1 honcho higashi yama
+Admin Street2:
+Admin Street3:
+Admin City:Uruma city
+Admin State/Province:
+Admin Postal Code:904-1101
+Admin Country:JP
+Admin Phone:+81.989642286
+Admin Phone Ext.:
+Admin FAX:+81.989642286
+Admin FAX Ext.:
+Admin Email:yabiku-s@okijoho.com
+Tech ID:7e4b5de52b3e80a7
+Tech Name:Tetushi  Dai
+Tech Organization:Social welfare corporate Kisan Ishikawa
+Tech Street1:1-20-1 honcho higashi yama
+Tech Street2:
+Tech Street3:
+Tech City:Uruma city
+Tech State/Province:
+Tech Postal Code:904-1101
+Tech Country:JP
+Tech Phone:+81.989642286
+Tech Phone Ext.:
+Tech FAX:+81.989642286
+Tech FAX Ext.:
+Tech Email:yabiku-s@okijoho.com
+Name Server:NS99.JOESWEBHOSTING.NET
+Name Server:NS20.JOESWEBHOSTING.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

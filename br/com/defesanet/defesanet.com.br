@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 23:45:28 (BRT -03:00)
+
+domain:      defesanet.com.br
+owner:       Defesanet Ag&ecirc;ncia de Not&iacute;cias Ltda
+ownerid:     068.734.250/0001-99
+responsible: Nelson During
+country:     BR
+owner-c:     NFD18
+admin-c:     NFD18
+tech-c:      NFD18
+billing-c:   NFD18
+nserver:     ns1.locaweb.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.locaweb.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20000320 #291049
+expires:     20130320
+changed:     20110329
+status:      published
+
+nic-hdl-br:  NFD18
+person:      Nelson Francisco During
+e-mail:      editor@defesanet.com.br
+created:     20060309
+changed:     20110317
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

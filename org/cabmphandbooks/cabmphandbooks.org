@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D86229307-LROR
+Domain Name:CABMPHANDBOOKS.ORG
+Created On:03-May-2002 15:45:52 UTC
+Last Updated On:04-Mar-2011 22:46:59 UTC
+Expiration Date:03-May-2012 15:45:52 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32019127
+Registrant Name:Geoff Brosseau
+Registrant Organization:CASQA
+Registrant Street1:PO BOX 2105
+Registrant Street2:
+Registrant Street3:
+Registrant City:Menlo Park
+Registrant State/Province:California
+Registrant Postal Code:94026-2105
+Registrant Country:US
+Registrant Phone:+1.6503661042
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@casqa.org
+Admin ID:CR32019129
+Admin Name:Geoff Brosseau
+Admin Organization:CASQA
+Admin Street1:PO BOX 2105
+Admin Street2:
+Admin Street3:
+Admin City:Menlo Park
+Admin State/Province:California
+Admin Postal Code:94026-2105
+Admin Country:US
+Admin Phone:+1.6503661042
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@casqa.org
+Tech ID:CR32019128
+Tech Name:Geoff Brosseau
+Tech Organization:CASQA
+Tech Street1:PO BOX 2105
+Tech Street2:
+Tech Street3:
+Tech City:Menlo Park
+Tech State/Province:California
+Tech Postal Code:94026-2105
+Tech Country:US
+Tech Phone:+1.6503661042
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@casqa.org
+Name Server:AUTH00.NS.UU.NET
+Name Server:AUTH100.NS.UU.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

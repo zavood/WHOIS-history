@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101453222-LROR
+Domain Name:LENSTAR.ORG
+Created On:12-Sep-2003 15:44:27 UTC
+Last Updated On:04-Mar-2009 15:39:46 UTC
+Expiration Date:12-Sep-2014 15:44:27 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:19356189-NSI
+Registrant Name:Barry Johnson
+Registrant Organization:Linking Solutions, LLC
+Registrant Street1:4355 Peavey Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Chaska
+Registrant State/Province:MN
+Registrant Postal Code:55318
+Registrant Country:US
+Registrant Phone:+1.9522920799
+Registrant Phone Ext.:
+Registrant FAX:+1.9525561106
+Registrant FAX Ext.:
+Registrant Email:barry@linkingsolutions.com
+Admin ID:41454350-NSI
+Admin Name:Jason Mohn
+Admin Organization:Linking Solutions
+Admin Street1:4355 Peavey Road
+Admin Street2:
+Admin Street3:
+Admin City:Chaska
+Admin State/Province:MN
+Admin Postal Code:55318
+Admin Country:US
+Admin Phone:+1.952856462
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jmohn@linkingsolutions.com
+Tech ID:41454350-NSI
+Tech Name:Jason Mohn
+Tech Organization:Linking Solutions
+Tech Street1:4355 Peavey Road
+Tech Street2:
+Tech Street3:
+Tech City:Chaska
+Tech State/Province:MN
+Tech Postal Code:55318
+Tech Country:US
+Tech Phone:+1.952856462
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jmohn@linkingsolutions.com
+Name Server:NS97.WORLDNIC.COM
+Name Server:NS98.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

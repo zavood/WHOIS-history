@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1200197-LROR
+Domain Name:SOFT-TOX.ORG
+Created On:01-Apr-1997 05:00:00 UTC
+Last Updated On:05-Mar-2011 20:39:27 UTC
+Expiration Date:02-Apr-2012 05:00:00 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:BG3897-BR
+Registrant Name:Bruce Goldberger
+Registrant Organization:Society of Forensic Toxicologi
+Registrant Street1:4800 S.W. 35th Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Gainesville
+Registrant State/Province:FL
+Registrant Postal Code:32608
+Registrant Country:US
+Registrant Phone:+01.3522650680
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@soft-tox.org
+Admin ID:BG3895-BR
+Admin Name:Bruce Goldberger
+Admin Organization:University of Florida
+Admin Street1:Rocky Point Labs 4800 S.W. 35t
+Admin Street2:h Drive
+Admin Street3:
+Admin City:Gainesville
+Admin State/Province:FL
+Admin Postal Code:32608
+Admin Country:US
+Admin Phone:+1.3522650680
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bruce-goldberger@ufl.edu
+Tech ID:PL3665-BR
+Tech Name:Paul Lubbers
+Tech Organization:Software Craftsman, LLC
+Tech Street1:6660 Delmonico Dr. Suite D430
+Tech Street2:
+Tech Street3:
+Tech City:Colorado Springs
+Tech State/Province:CO
+Tech Postal Code:80919
+Tech Country:US
+Tech Phone:+01.7195319500
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:plubbers@softwarecraftsman.com
+Name Server:NS2389.HOSTGATOR.COM
+Name Server:NS2390.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

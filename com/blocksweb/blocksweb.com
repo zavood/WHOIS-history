@@ -6,7 +6,7 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
 No match for &quot;BLOCKSWEB.COM&quot;.
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 03:06:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 03:09:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

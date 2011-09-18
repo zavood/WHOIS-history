@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 23:49:26 (BRT -03:00)
+
+domain:      irtdpjbrasil.com.br
+owner:       Inst.Reg.Tits.Docs.Pes.Jurid.do Brasil
+ownerid:     059.841.148/0001-00
+responsible: Sergio Carrera
+country:     BR
+owner-c:     SEC117
+admin-c:     SEC117
+tech-c:      SEC117
+billing-c:   SEC117
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20021029 #998180
+expires:     20111029
+changed:     20081104
+status:      published
+
+nic-hdl-br:  SEC117
+person:      Sergio Carrera
+e-mail:      carrera@terra.com.br
+created:     20000731
+changed:     20070518
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

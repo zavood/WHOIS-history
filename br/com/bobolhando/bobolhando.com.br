@@ -1,0 +1,48 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 00:18:59 (BRT -03:00)
+
+domain:      bobolhando.com.br
+owner:       Rog&eacute;rio Dias Lima
+ownerid:     089.129.817-73
+country:     BR
+owner-c:     RODLI5
+admin-c:     RODLI5
+tech-c:      ROM1451
+billing-c:   RODLI5
+nserver:     ns1.hostbits.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns2.hostbits.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     20081212 #5117598
+expires:     20111212
+changed:     20110413
+status:      published
+
+nic-hdl-br:  RODLI5
+person:      Rog&eacute;rio Dias Lima
+e-mail:      rogeriodias@gmail.com
+created:     20080327
+changed:     20080327
+
+nic-hdl-br:  ROM1451
+person:      Ricardo Oliveira da Cunha Matoso
+e-mail:      dominios@hostbits.com.br
+created:     20051101
+changed:     20101222
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

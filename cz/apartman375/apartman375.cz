@@ -1,0 +1,58 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Sun Sep 18 04:48:57 2011
+
+domain:       apartman375.cz
+registrant:   FORPSI-WTD-S196802
+nsset:        SELINUX
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   19.11.2007 13:23:05
+changed:      29.08.2011 21:05:58
+expire:       19.11.2011
+
+contact:      FORPSI-WTD-S196802
+name:         Jan Kopic
+address:      B&Aring;™ezov&Atilde;&iexcl; alej 1304
+address:      Liberec
+address:      460 01
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      19.11.2007 13:23:02
+changed:      23.11.2010 08:24:35
+
+nsset:        SELINUX
+nserver:      ns1.selinux.cz (31.31.73.15)
+nserver:      ns2.selinux.cz (31.31.73.98)
+tech-c:       PETJA
+registrar:    REG-WEDOS
+created:      03.08.2011 16:06:50
+changed:      11.08.2011 16:12:53
+
+contact:      PETJA
+name:         Petr Jech
+address:      Sportovn&Atilde;&shy; 352/11
+address:      Brno
+address:      60200
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      09.10.2008 13:46:37
+changed:      11.08.2011 16:14:41
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 27-feb-2000
    Expiration Date: 27-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 19:17:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 03:51:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: cbc-clovis.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 15:12:47 EDT 2011
+Date and Time of Query: Sat Sep 17 23:41:33 EDT 2011
 Reason Code: IE

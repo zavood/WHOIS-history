@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-17 23:54:14 (BRT -03:00)
+
+domain:      metropolitana-ro.com.br
+owner:       UNNESA - Uni&atilde;o de Ensino Superior da Amazonia
+ownerid:     003.653.762/0001-85
+responsible: Aparicio Carvalho de Moraes
+country:     BR
+owner-c:     MSFRM
+admin-c:     MSFRM
+tech-c:      ALFSA36
+billing-c:   MSFRM
+nserver:     ns2.terraempresas.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns3.terraempresas.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     20030312 #1137695
+expires:     20130312
+changed:     20100311
+status:      published
+
+nic-hdl-br:  ALFSA36
+person:      ALEX FERREIRA SARAIVA
+e-mail:      alex_saraiva21@hotmail.com
+created:     20090619
+changed:     20090619
+
+nic-hdl-br:  MSFRM
+person:      maria silvia f. r. carvalho de moraes
+e-mail:      mariasilvia24@gmail.com
+created:     20071113
+changed:     20090626
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
