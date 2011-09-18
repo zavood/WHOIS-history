@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149009825-LROR
+Domain Name:BALIPUBLISHER.ORG
+Created On:31-Aug-2007 11:20:31 UTC
+Last Updated On:29-Aug-2011 16:54:27 UTC
+Expiration Date:31-Aug-2012 11:20:31 UTC
+Sponsoring Registrar:LiquidNet Ltd. (R1831-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:LN_12370281
+Registrant Name:Komang Putra
+Registrant Organization:Maha Meru
+Registrant Street1:Gatsu
+Registrant Street2:
+Registrant Street3:
+Registrant City:Denpasar
+Registrant State/Province:Bali
+Registrant Postal Code:80238
+Registrant Country:ID
+Registrant Phone:+62.3618564765
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@balipublisher.org
+Admin ID:LN_12370283
+Admin Name:Komang Putra
+Admin Organization:Maha Meru
+Admin Street1:Gatsu
+Admin Street2:
+Admin Street3:
+Admin City:Denpasar
+Admin State/Province:Bali
+Admin Postal Code:80238
+Admin Country:ID
+Admin Phone:+62.3618564765
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@balipublisher.org
+Tech ID:LN_12370282
+Tech Name:Bali Publisher
+Tech Organization:Maha Meru
+Tech Street1:Gatsu
+Tech Street2:
+Tech Street3:
+Tech City:Denpasar
+Tech State/Province:Bali
+Tech Postal Code:80238
+Tech Country:ID
+Tech Phone:+62.3618564765
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webmaster@balipublisher.org
+Name Server:NS1.BALIPUBLISHER.ORG
+Name Server:NS2.BALIPUBLISHER.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

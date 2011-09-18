@@ -1,0 +1,62 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         is-it-on.at
+registrant:     IIOI4374108-NICAT
+admin-c:        IIOI4374109-NICAT
+tech-c:         IIOI4374109-NICAT
+nserver:        dns1.is-it-on.at
+remarks:        195.34.220.2
+nserver:        dns2.is-it-on.at
+remarks:        80.86.93.123
+nserver:        dns3.is-it-on.at
+remarks:        195.34.220.5
+changed:        20090129 15:20:19
+source:         AT-DOM
+
+personname:     Albert Kisling
+organization:   is-it-on Informationstechnologie und Neue Medien GmbH
+street address: Magnesitstrasse 1
+postal code:    3500
+city:           Krems
+country:        Austria
+phone:          +43273272101
+fax-no:         +4327327210190
+e-mail:         dnsadmin@is-it-on.at
+nic-hdl:        IIOI4374108-NICAT
+changed:        20090129 15:20:19
+source:         AT-DOM
+
+personname:     Albert Kisling
+organization:   is-it-on Informationstechnologie und Neue Medien GmbH
+street address: Magnesitstrasse 1
+postal code:    3500
+city:           Krems
+country:        Austria
+phone:          +43273272101
+fax-no:         +4327327210190
+e-mail:         dnsadmin@is-it-on.at
+nic-hdl:        IIOI4374109-NICAT
+changed:        20090129 15:20:19
+source:         AT-DOM
+

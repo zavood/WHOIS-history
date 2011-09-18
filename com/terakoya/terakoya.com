@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 13-oct-1997
    Expiration Date: 12-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 11:46:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 20:04:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: terakoya.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sat Sep 17 07:35:41 EDT 2011
+Date and Time of Query: Sun Sep 18 15:59:43 EDT 2011
 Reason Code: IE

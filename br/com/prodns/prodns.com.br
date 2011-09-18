@@ -1,0 +1,56 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 16:42:14 (BRT -03:00)
+
+domain:      prodns.com.br
+owner:       Hostgator Brasil Hospedagem e suporte tecnico LTDA
+ownerid:     008.852.780/0001-00
+responsible: Robledo Ribeiro Aloisio
+country:     BR
+owner-c:     HOBRA
+admin-c:     RRA105
+tech-c:      RRA105
+billing-c:   RRA105
+nserver:     ns1.prodns.com.br 74.53.108.226
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.prodns.com.br 74.53.108.227
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.prodns.com.br 174.133.202.50
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns4.prodns.com.br 174.133.202.51
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20070718 #3761796
+expires:     20180718
+changed:     20110407
+provider:    HOSTGATOR-BRASIL (43)
+status:      published
+
+nic-hdl-br:  HOBRA
+person:      Hostgator Brasil
+e-mail:      rob@hostgator.com.br
+created:     20071207
+changed:     20110509
+
+nic-hdl-br:  RRA105
+person:      ROBLEDO RIBEIRO ALOISIO
+e-mail:      rob@prodns.com.br
+created:     20021204
+changed:     20100305
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

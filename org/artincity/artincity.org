@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159539707-LROR
+Domain Name:ARTINCITY.ORG
+Created On:30-Jun-2010 01:59:22 UTC
+Last Updated On:23-Jun-2011 11:13:42 UTC
+Expiration Date:30-Jun-2012 01:59:22 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:6d3184b195a0aed1
+Registrant Name:yuki  mizutani
+Registrant Organization:dym
+Registrant Street1:meguro1-4-16-9F
+Registrant Street2:
+Registrant Street3:
+Registrant City:meguro-ku
+Registrant State/Province:tokyo-to
+Registrant Postal Code:153-0063
+Registrant Country:JP
+Registrant Phone:+3.54205768
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dym04@dym.jp
+Admin ID:6d3184b195a0aed1
+Admin Name:yuki  mizutani
+Admin Organization:dym
+Admin Street1:meguro1-4-16-9F
+Admin Street2:
+Admin Street3:
+Admin City:meguro-ku
+Admin State/Province:tokyo-to
+Admin Postal Code:153-0063
+Admin Country:JP
+Admin Phone:+3.54205768
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dym04@dym.jp
+Tech ID:6d3184b195a0aed1
+Tech Name:yuki  mizutani
+Tech Organization:dym
+Tech Street1:meguro1-4-16-9F
+Tech Street2:
+Tech Street3:
+Tech City:meguro-ku
+Tech State/Province:tokyo-to
+Tech Postal Code:153-0063
+Tech Country:JP
+Tech Phone:+3.54205768
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dym04@dym.jp
+Name Server:SNS59.WEBSITEWELCOME.COM
+Name Server:SNS60.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

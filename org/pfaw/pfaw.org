@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D421943-LROR
+Domain Name:PFAW.ORG
+Created On:25-Aug-1995 04:00:00 UTC
+Last Updated On:24-Mar-2007 10:50:56 UTC
+Expiration Date:24-Aug-2016 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22412838-NSI
+Registrant Name:People For the American Way
+Registrant Organization:People For the American Way
+Registrant Street1:2000 M Street, NW Suite 400
+Registrant Street2:
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20036
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@PFAW.ORG
+Admin ID:16048309-NSI
+Admin Name:People For the American Way
+Admin Organization:People For the American Way
+Admin Street1:2000 M ST NW STE 400
+Admin Street2:
+Admin Street3:
+Admin City:WASHINGTON
+Admin State/Province:DC
+Admin Postal Code:20036-3397
+Admin Country:US
+Admin Phone:+1.2024674999
+Admin Phone Ext.:
+Admin FAX:+1.2022932672
+Admin FAX Ext.:
+Admin Email:webmaster@PFAW.ORG
+Tech ID:16048309-NSI
+Tech Name:People For the American Way
+Tech Organization:People For the American Way
+Tech Street1:2000 M ST NW STE 400
+Tech Street2:
+Tech Street3:
+Tech City:WASHINGTON
+Tech State/Province:DC
+Tech Postal Code:20036-3397
+Tech Country:US
+Tech Phone:+1.2024674999
+Tech Phone Ext.:
+Tech FAX:+1.2022932672
+Tech FAX Ext.:
+Tech Email:webmaster@PFAW.ORG
+Name Server:UDNS1.ULTRADNS.NET
+Name Server:UDNS2.ULTRADNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

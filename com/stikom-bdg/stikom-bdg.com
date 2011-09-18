@@ -11,12 +11,12 @@ for detailed information.
    Referral URL: http://www.PublicDomainRegistry.com
    Name Server: DNS.PARKPAGE.FOUNDATIONAPI.COM
    Name Server: DNS2.PARKPAGE.FOUNDATIONAPI.COM
-   Status: redemptionPeriod
-   Updated Date: 15-aug-2011
+   Status: pendingDelete
+   Updated Date: 15-sep-2011
    Creation Date: 06-jul-2005
    Expiration Date: 06-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 04:42:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 20:02:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

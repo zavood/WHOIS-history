@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ucanss.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ucanss.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    U1231-FRNIC
+admin-c:     PR2854-FRNIC
+tech-c:      PR2854-FRNIC
+tech-c:      SOC1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL32195-FRNIC
+registrar:   COMPLETEL SAS FRANCE
+anniversary: 06/10
+created:     02/01/1998
+last-update: 06/10/2009
+source:      FRNIC
+
+ns-list:     NSL32195-FRNIC
+nserver:     dns-ext1.ucanss.fr [92.103.190.90]
+nserver:     dns2.ucanss.fr [92.103.190.91]
+nserver:     ns1.completel.fr [213.244.0.2]
+nserver:     ns2.completel.fr [213.244.0.3]
+source:      FRNIC
+
+registrar:   COMPLETEL SAS FRANCE
+type:        Isp Option 1
+address:     5 Place de la Pyramide
+address:     Tour Ariane
+address:     LA DEFENSE CEDEX
+country:     FR
+phone:       +33 1 72 92 20 00
+fax-no:      +33 1 72 92 20 01
+e-mail:      hostmaster@completel.fr
+website:     http://www.completel.fr
+anonymous:   NO
+registered:  01/07/1999
+source:      FRNIC
+
+nic-hdl:     U1231-FRNIC
+type:        ORGANIZATION
+contact:     UCANSS
+address:     4-16, avenue Leon Gaumont
+address:     75020 Paris
+country:     FR
+phone:       +33 1 45 36 62 70
+fax-no:      +33 1 45 38 70 66
+e-mail:      cvancon@ucanss.fr
+changed:     07/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     PR2854-FRNIC
+type:        PERSON
+contact:     Philippe Renard
+address:     UCANSS
+address:     18, avenue Leon Gaumont
+address:     75020 Paris
+country:     FR
+phone:       +33 1 45 38 81 20
+e-mail:      completel@ordipat.fr
+changed:     05/10/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SOC1-FRNIC
+type:        PERSON
+contact:     Service Operating Center
+address:     Completel SAS France
+address:     15, rue des Sorins
+address:     92741 Nanterre Cedex
+country:     FR
+phone:       +33 1 72 92 44 00
+e-mail:      soc@completel.fr
+changed:     22/01/2001 nic-admin@completel.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 16:42:29 (BRT -03:00)
+
+domain:      consultoria.com.br
+owner:       LPS BRASIL - CONSULTORIA DE IMOVEIS S/A
+ownerid:     008.078.847/0001-09
+responsible: Infra Ti
+country:     BR
+owner-c:     LOCON7
+admin-c:     LOCON7
+tech-c:      LOCON7
+billing-c:   LOCON7
+nserver:     ns1.datacenter1.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns3.datacenter1.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     19960522 #8176
+expires:     20190522
+changed:     20100305
+status:      published
+
+nic-hdl-br:  LOCON7
+person:      Lopes Consultoria
+e-mail:      infrati@lopes.com.br
+created:     20100305
+changed:     20110725
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

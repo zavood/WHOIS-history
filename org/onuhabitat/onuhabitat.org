@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155816247-LROR
+Domain Name:ONUHABITAT.ORG
+Created On:06-Apr-2009 21:10:14 UTC
+Last Updated On:25-Apr-2011 11:13:44 UTC
+Expiration Date:06-Apr-2012 21:10:14 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR38910969
+Registrant Name:Bruno Mendes
+Registrant Organization:UN-Habitat
+Registrant Street1:Rua Rumania 20
+Registrant Street2:Cosme Velho
+Registrant Street3:
+Registrant City:Rio de Janeiro
+Registrant State/Province:Rio de Janeiro
+Registrant Postal Code:22240-140
+Registrant Country:BR
+Registrant Phone:+55.2132358550
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:brunomendesigner@gmail.com
+Admin ID:CR38910971
+Admin Name:Alain Grimard Mendes
+Admin Organization:UN-Habitat
+Admin Street1:Rua Rumania 20
+Admin Street2:Cosme Velho
+Admin Street3:
+Admin City:Rio de Janeiro
+Admin State/Province:Rio de Janeiro
+Admin Postal Code:22240-140
+Admin Country:BR
+Admin Phone:+55.552132358550
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:brunomendesigner@gmail.com
+Tech ID:CR38910970
+Tech Name:Bruno Mendes
+Tech Organization:UN-Habitat
+Tech Street1:Rua Rumania 20
+Tech Street2:Cosme Velho
+Tech Street3:
+Tech City:Rio de Janeiro
+Tech State/Province:Rio de Janeiro
+Tech Postal Code:22240-140
+Tech Country:BR
+Tech Phone:+55.2132358550
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:brunomendesigner@gmail.com
+Name Server:NS44.HOSTGATOR.COM.BR
+Name Server:NS45.HOSTGATOR.COM.BR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 16:30:19 (BRT -03:00)
+
+domain:      egrana.com.br
+owner:       JC Schmidt Digitalizacao
+ownerid:     008.737.970/0001-86
+responsible: Julio Cesar Schmidt
+country:     BR
+owner-c:     JUCSC
+admin-c:     JUCSC
+tech-c:      BEM62
+billing-c:   JUCSC
+nserver:     ns2168.dns.dyn.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns4133.dns.dyn.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns1151.dns.dyn.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns3141.dns.dyn.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20030808 #1313588
+expires:     20130808
+changed:     20110608
+status:      published
+
+nic-hdl-br:  BEM62
+person:      Bruno Evangelista Marques
+e-mail:      bruno@brunomarques.com
+created:     20030525
+changed:     20110211
+
+nic-hdl-br:  JUCSC
+person:      Julio Cesar Schmidt
+e-mail:      nas888@gmail.com
+created:     20070504
+changed:     20110527
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

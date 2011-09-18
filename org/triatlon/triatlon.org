@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D22981611-LROR
+Domain Name:TRIATLON.ORG
+Created On:21-Mar-2000 15:41:28 UTC
+Last Updated On:22-Mar-2011 01:22:39 UTC
+Expiration Date:21-Mar-2012 15:41:28 UTC
+Sponsoring Registrar:Arsys Internet, S.L. dba nicline.com (R144-LROR)
+Status:OK
+Registrant ID:C9321929-LRMS
+Registrant Name:JOSE HIDALGO MARTIN
+Registrant Organization:NULL
+Registrant Street1:FERRAZ,16 .3
+Registrant Street2:
+Registrant Street3:
+Registrant City:Madrid
+Registrant State/Province:Madrid
+Registrant Postal Code:28008
+Registrant Country:ES
+Registrant Phone:+34.918570288
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:quercus@villanuevadelaserena.com
+Admin ID:C9321930-LRMS
+Admin Name:Federacion Espanola de Triatlon
+Admin Organization:NULL
+Admin Street1:c Ferraz 16 3 derecha
+Admin Street2:
+Admin Street3:
+Admin City:Madrid
+Admin State/Province:MADRID
+Admin Postal Code:28008
+Admin Country:ES
+Admin Phone:+34.915599305
+Admin Phone Ext.:
+Admin FAX:+34.917580885
+Admin FAX Ext.:
+Admin Email:federacion@triatlon.org
+Tech ID:C9321931-LRMS
+Tech Name:Federacion Espanola de Triatlon
+Tech Organization:NULL
+Tech Street1:c Ferraz 16 3 derecha
+Tech Street2:
+Tech Street3:
+Tech City:Madrid
+Tech State/Province:MADRID
+Tech Postal Code:28008
+Tech Country:ES
+Tech Phone:+34.915599305
+Tech Phone Ext.:
+Tech FAX:+34.917580885
+Tech FAX Ext.:
+Tech Email:federacion@triatlon.org
+Name Server:DNS1.TRIATLONDESARROLLO.ORG.TRIATLON.ORG
+Name Server:DNS2.TRIATLONDESARROLLO.ORG.TRIATLON.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

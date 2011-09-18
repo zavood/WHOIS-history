@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D74817382-LROR
+Domain Name:KONETIC.ORG
+Created On:09-Jul-2001 13:50:23 UTC
+Last Updated On:05-May-2011 15:54:27 UTC
+Expiration Date:09-Jul-2016 13:50:21 UTC
+Sponsoring Registrar:ASCIO Technologies, Inc. - Denmark (R76-LROR)
+Status:OK
+Registrant ID:10686571420680
+Registrant Name:Kprime Ltd
+Registrant Street1:5 Berners Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:London
+Registrant State/Province:Greater London
+Registrant Postal Code:N1 0PW
+Registrant Country:GB
+Registrant Phone:+44.8704589455
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain-admin@easily.co.uk
+Admin ID:10686571424530
+Admin Name:Easily Limited
+Admin Street1:3rd Floor
+Admin Street2:Prospero House
+Admin Street3:
+Admin City:241 Borough High Street
+Admin State/Province:London
+Admin Postal Code:SE1 1GA
+Admin Country:GB
+Admin Phone:+44.8704589455
+Admin Phone Ext.:
+Admin FAX:+44.8704589458
+Admin FAX Ext.:
+Admin Email:domain-admin@easily.co.uk
+Tech ID:10686571430910
+Tech Name:Easily Limited
+Tech Street1:3rd Floor
+Tech Street2:Prospero House
+Tech Street3:
+Tech City:241 Borough High Street
+Tech State/Province:London
+Tech Postal Code:SE1 1GA
+Tech Country:GB
+Tech Phone:+44.8704589455
+Tech Phone Ext.:
+Tech FAX:+44.8704589458
+Tech FAX Ext.:
+Tech Email:domain-admin@easily.co.uk
+Name Server:DNS1.LON2.TELECITYREDBUS.NET
+Name Server:DNS1.LON7.TELECITYREDBUS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

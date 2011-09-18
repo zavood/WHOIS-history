@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; nordeclair.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      nordeclair.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    NE188-FRNIC
+admin-c:     AD766-FRNIC
+tech-c:      TN1723-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL25054-FRNIC
+registrar:   AUDAXIS SAS
+anniversary: 03/09
+created:     03/09/2004
+last-update: 11/12/2008
+source:      FRNIC
+
+ns-list:     NSL25054-FRNIC
+nserver:     nsa.audaxis.com
+nserver:     nsb.audaxis.com
+source:      FRNIC
+
+registrar:   AUDAXIS SAS
+type:        Isp Option 2
+address:     14 Rue du Sec Arembault
+address:     BP 201
+address:     LILLE CEDEX
+country:     FR
+phone:       +33 3 20 63 88 88
+fax-no:      +33 3 20 63 88 89
+e-mail:      info@audaxis.com
+website:     http://www.audaxis.com
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     AD766-FRNIC
+type:        PERSON
+contact:     Arnaud Delannoy
+address:     NORD ECLAIR
+address:     42, rue du General Sarrail
+address:     B.P. 69
+address:     59052 Roubaix Cedex
+country:     FR
+phone:       +33 3 20 25 02 50
+e-mail:      arnaud.delannoy@nord-eclair.com
+changed:     03/09/2004 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NE188-FRNIC
+type:        ORGANIZATION
+contact:     NORD ECLAIR
+address:     42, rue du General Sarrail
+address:     B.P. 69
+address:     59052 Roubaix Cedex
+country:     FR
+phone:       +33 3 20 25 02 50
+e-mail:      arnaud.delannoy@nord-eclair.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     TN1723-FRNIC
+type:        ROLE
+contact:     TELMEDIA NOC
+address:     TELMEDIA
+address:     14, rue du Sec Arembault
+address:     B.P. 201
+address:     59002 Lille Cedex
+country:     FR
+phone:       +33 3 20 63 88 88
+fax-no:      +33 3 20 63 88 89
+e-mail:      noc@telmedia.fr
+trouble:     mailto:noc@telmedia.fr
+admin-c:     BM405-FRNIC
+tech-c:      DG313-FRNIC
+notify:      noc@telmedia.fr
+changed:     26/03/2001 noc@telmedia.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

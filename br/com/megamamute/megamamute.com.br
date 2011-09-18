@@ -5,13 +5,33 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-11 14:50:20 (BRT -03:00)
-
-% Query rate limit exceeded. Reduced information.
-% Use https://registro.br/cgi-bin/avail/ for domain availability.
+%  2011-09-18 16:35:26 (BRT -03:00)
 
 domain:      megamamute.com.br
-owner:       Microsens Ltda (115838)
+owner:       Microsens Ltda
+ownerid:     078.126.950/0001-54
+responsible: Maria Salete Sens de Oliveira
+country:     BR
+owner-c:     MSSOL
+admin-c:     MSSOL
+tech-c:      MSSOL
+billing-c:   MSSOL
+nserver:     ns1.datacenter1.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns3.datacenter1.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20071017 #3997310
+expires:     20111017
+changed:     20101027
+status:      published
+
+nic-hdl-br:  MSSOL
+person:      Maria Salete Sens de Oliveira
+e-mail:      web@microsens.com.br
+created:     20070924
+changed:     20090430
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

@@ -1,0 +1,68 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-19T07:39:37+12:00
+domain_name: police.govt.nz
+query_status: 200 Active
+domain_dateregistered: 1997-08-14T00:00:00+12:00
+domain_datebilleduntil: 2011-10-14T00:00:00+13:00
+domain_datelastmodified: 2011-09-14T23:38:11+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Government Registrar, Department of Internal Affairs
+registrar_address1: P O Box 10-526
+registrar_city: Wellington
+registrar_postalcode: 6143
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 4631385
+registrar_fax: +64 4 4601308
+registrar_email: moderator@dia.govt.nz
+%
+registrant_contact_name: NZ Police National Headquarters
+registrant_contact_address1: PO Box 3017
+registrant_contact_address2: 180 Molesworth St
+registrant_contact_city: Wellington
+registrant_contact_postalcode: 6011
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 4 470-7265
+registrant_contact_fax: +64 4 498-7413
+registrant_contact_email: webteam@police.govt.nz
+%
+admin_contact_name: NZ Police ICT
+admin_contact_address1: RNZ Police College
+admin_contact_city: Porirua
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 4 238-3222
+admin_contact_fax: +64 4 238-3003
+admin_contact_email: soa@police.govt.nz
+%
+technical_contact_name: NZ Police ICT
+technical_contact_address1: RNZ Police College
+technical_contact_city: Porirua
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 4 238-3222
+technical_contact_fax: +64 4 238-3003
+technical_contact_email: soa@police.govt.nz
+%
+ns_ip4_01: 204.69.234.1
+ns_name_01: ns1.police.govt.nz
+ns_ip4_02: 204.74.101.1
+ns_name_02: ns2.police.govt.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

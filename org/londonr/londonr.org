@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155750777-LROR
+Domain Name:LONDONR.ORG
+Created On:28-Mar-2009 22:16:36 UTC
+Last Updated On:21-Mar-2011 01:16:15 UTC
+Expiration Date:28-Mar-2012 22:16:36 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:72b913902e9ec01c
+Registrant Name:matthew  aldridge
+Registrant Street1:unit 2 greenways business park
+Registrant Street2:
+Registrant Street3:
+Registrant City:chippenham
+Registrant State/Province:
+Registrant Postal Code:SN15 1BN
+Registrant Country:GB
+Registrant Phone:+44.1249767700
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:matt@mango-solutions.com
+Admin ID:2858C12BBF7876DC
+Admin Name:Whois  Agent
+Admin Organization:Domain Express
+Admin Street1:Siddeley House
+Admin Street2:
+Admin Street3:
+Admin City:Kingston Upon Thames, Surrey
+Admin State/Province:WA
+Admin Postal Code:KT2 6LX
+Admin Country:GB
+Admin Phone:+1.8451170366
+Admin Phone Ext.:
+Admin FAX:+1.8451170366
+Admin FAX Ext.:
+Admin Email:admin@freezone.co.uk
+Tech ID:2858C12BBF7876DC
+Tech Name:Whois  Agent
+Tech Organization:Domain Express
+Tech Street1:Siddeley House
+Tech Street2:
+Tech Street3:
+Tech City:Kingston Upon Thames, Surrey
+Tech State/Province:WA
+Tech Postal Code:KT2 6LX
+Tech Country:GB
+Tech Phone:+1.8451170366
+Tech Phone Ext.:
+Tech FAX:+1.8451170366
+Tech FAX Ext.:
+Tech Email:admin@freezone.co.uk
+Name Server:NS2.1ST4DOMAINS.CO.UK
+Name Server:NS4.1ST4DOMAINS.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

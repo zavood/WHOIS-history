@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 16:30:18 (BRT -03:00)
+
+domain:      imovelweb.com.br
+owner:       IMOVELWEB COMUNICACAO S.A.
+ownerid:     012.294.387/0001-15
+responsible: Gustavo Guedes
+country:     BR
+owner-c:     GAG33
+admin-c:     GAG33
+tech-c:      FCH10
+billing-c:   FCH10
+nserver:     ns1.datacenter1.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns3.datacenter1.com.br
+nsstat:      20110917 FAIL
+nslastaa:    20110503
+created:     19990225 #143303
+expires:     20180225
+changed:     20100903
+status:      published
+
+nic-hdl-br:  FCH10
+person:      Fernando Cortez Homsi
+e-mail:      fcortez@imovelweb.com.br
+created:     20010521
+changed:     20010521
+
+nic-hdl-br:  GAG33
+person:      Gustavo de Abreu Guedes
+e-mail:      fpsp@imovelweb.com.br
+created:     20010514
+changed:     20060809
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
