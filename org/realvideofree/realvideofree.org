@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158578601-LROR
+Domain Name:REALVIDEOFREE.ORG
+Created On:12-Mar-2010 07:27:10 UTC
+Last Updated On:12-Mar-2011 11:05:41 UTC
+Expiration Date:12-Mar-2012 07:27:10 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_11322099
+Registrant Name:Nikolaj A Kostrov
+Registrant Organization:N/A
+Registrant Street1:Avtozavodskaya192-93
+Registrant Street2:
+Registrant Street3:
+Registrant City:Samara
+Registrant State/Province:Samara
+Registrant Postal Code:421054
+Registrant Country:RU
+Registrant Phone:+7.846209318
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:lorty2006@yandex.ru
+Admin ID:DI_11322099
+Admin Name:Nikolaj A Kostrov
+Admin Organization:N/A
+Admin Street1:Avtozavodskaya192-93
+Admin Street2:
+Admin Street3:
+Admin City:Samara
+Admin State/Province:Samara
+Admin Postal Code:421054
+Admin Country:RU
+Admin Phone:+7.846209318
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:lorty2006@yandex.ru
+Tech ID:DI_11322099
+Tech Name:Nikolaj A Kostrov
+Tech Organization:N/A
+Tech Street1:Avtozavodskaya192-93
+Tech Street2:
+Tech Street3:
+Tech City:Samara
+Tech State/Province:Samara
+Tech Postal Code:421054
+Tech Country:RU
+Tech Phone:+7.846209318
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:lorty2006@yandex.ru
+Name Server:NS1.VALUEHOST.RU
+Name Server:NS2.VALUEHOST.RU
+Name Server:NS3.VALUEHOST.RU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

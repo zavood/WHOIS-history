@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 20-dec-2007
    Expiration Date: 20-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:09:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 23:28:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,7 +75,7 @@ Registrars.
 # Pour obtenir les informations en status 'Protected by policy', contactez
 # directement le registre concerne (Eurid, AFNIC)
 #
-# 2011-09-14 10:10:02 CEST
+# 2011-09-19 01:29:04 CEST
 
 domain: avencall.com
 reg_created: 2007-12-20 20:47:15

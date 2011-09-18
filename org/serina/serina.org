@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D84837428-LROR
+Domain Name:SERINA.ORG
+Created On:25-Mar-2002 13:44:18 UTC
+Last Updated On:02-Jul-2011 07:02:00 UTC
+Expiration Date:25-Mar-2012 13:44:18 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:10687075844570
+Registrant Name:Kunihiko Aizawa
+Registrant Street1:5-24-1, Hanakoganei
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kodaira-shi
+Registrant State/Province:Tokyo-to
+Registrant Postal Code:187-0002
+Registrant Country:JP
+Registrant Phone:+81.424636265
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:achain@tokyo.email.ne.jp
+Admin ID:10687075847760
+Admin Name:Kunihiko Aizawa
+Admin Street1:5-24-1, Hanakoganei
+Admin Street2:
+Admin Street3:
+Admin City:Kodaira-shi
+Admin State/Province:Tokyo
+Admin Postal Code:187-0002
+Admin Country:JP
+Admin Phone:+81.424636265
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:achain@tokyo.email.ne.jp
+Tech ID:10687075854820
+Tech Name:Kunihiko Aizawa
+Tech Street1:5-24-1, Hanakoganei
+Tech Street2:
+Tech Street3:
+Tech City:Kodaira-shi
+Tech State/Province:Tokyo
+Tech Postal Code:187-0002
+Tech Country:JP
+Tech Phone:+81.424636265
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:achain@tokyo.email.ne.jp
+Name Server:DNS.SERINA.ORG
+Name Server:NS1.MAIHAMA-NET.COM
+Name Server:NS2.MAIHAMA-NET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

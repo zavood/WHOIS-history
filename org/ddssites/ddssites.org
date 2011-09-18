@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103971917-LROR
+Domain Name:DDSSITES.ORG
+Created On:13-Feb-2004 04:46:05 UTC
+Last Updated On:14-Feb-2011 10:13:36 UTC
+Expiration Date:13-Feb-2012 04:46:05 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30774229
+Registrant Name:Scott Swoboda
+Registrant Organization:Stratum Development
+Registrant Street1:PO BOX 282
+Registrant Street2:
+Registrant Street3:
+Registrant City:Wheaton
+Registrant State/Province:Illinois
+Registrant Postal Code:60189
+Registrant Country:US
+Registrant Phone:+1.6308427807
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@stratumdevelopment.com
+Admin ID:CR30774231
+Admin Name:Scott Swoboda
+Admin Organization:Stratum Development
+Admin Street1:PO BOX 282
+Admin Street2:
+Admin Street3:
+Admin City:Wheaton
+Admin State/Province:Illinois
+Admin Postal Code:60189
+Admin Country:US
+Admin Phone:+1.6308427807
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@stratumdevelopment.com
+Tech ID:CR30774230
+Tech Name:Scott Swoboda
+Tech Organization:Stratum Development
+Tech Street1:PO BOX 282
+Tech Street2:
+Tech Street3:
+Tech City:Wheaton
+Tech State/Province:Illinois
+Tech Postal Code:60189
+Tech Country:US
+Tech Phone:+1.6308427807
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@stratumdevelopment.com
+Name Server:NS1.STRATUMDEVELOPMENT.COM
+Name Server:NS2.STRATUMDEVELOPMENT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

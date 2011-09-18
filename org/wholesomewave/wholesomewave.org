@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D117742281-LROR
+Domain Name:WHOLESOMEWAVE.ORG
+Created On:03-Mar-2006 19:44:35 UTC
+Last Updated On:12-Jan-2011 08:19:13 UTC
+Expiration Date:03-Mar-2016 19:44:35 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:40473523-NSI
+Registrant Name:Wholesome Wave, LLC
+Registrant Organization:Wholesome Wave, LLC
+Registrant Street1:728 Post Road East
+Registrant Street2:Suite 202
+Registrant Street3:
+Registrant City:Westport
+Registrant State/Province:CT
+Registrant Postal Code:06880
+Registrant Country:US
+Registrant Phone:+1.2032261112
+Registrant Phone Ext.:
+Registrant FAX:+1.2032266220
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:40473523-NSI
+Admin Name:Wholesome Wave, LLC
+Admin Organization:Wholesome Wave, LLC
+Admin Street1:728 Post Road East
+Admin Street2:Suite 202
+Admin Street3:
+Admin City:Westport
+Admin State/Province:CT
+Admin Postal Code:06880
+Admin Country:US
+Admin Phone:+1.2032261112
+Admin Phone Ext.:
+Admin FAX:+1.2032266220
+Admin FAX Ext.:
+Admin Email:no.valid.email@worldnic.com
+Tech ID:40473523-NSI
+Tech Name:Wholesome Wave, LLC
+Tech Organization:Wholesome Wave, LLC
+Tech Street1:728 Post Road East
+Tech Street2:Suite 202
+Tech Street3:
+Tech City:Westport
+Tech State/Province:CT
+Tech Postal Code:06880
+Tech Country:US
+Tech Phone:+1.2032261112
+Tech Phone Ext.:
+Tech FAX:+1.2032266220
+Tech FAX Ext.:
+Tech Email:no.valid.email@worldnic.com
+Name Server:NS89.WORLDNIC.COM
+Name Server:NS90.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

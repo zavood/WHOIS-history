@@ -1,0 +1,19 @@
+
+domain:   aller.fi
+descr:    Aller Media Oy
+descr:    08722382
+address:  Juha Kuokka
+address:  Pursimiehenkatu 29-31 A
+address:  00150
+address:  HELSINKI
+phone:    +358 40 5336636
+status:   Granted
+created:  16.9.1999
+expires:  31.8.2012
+nserver:  ns.nebula.fi [Ok]
+nserver:  ns2.nebula.fi [Ok]
+dnssec:   no
+modified: 12.10.2009
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

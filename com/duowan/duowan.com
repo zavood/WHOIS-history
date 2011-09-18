@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 26-feb-2005
    Expiration Date: 26-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 17:17:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 23:30:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,35 +84,38 @@ Domain servers in listed order:
 	 ns1.dnsv5.com 	 ns2.dnsv5.com
 
 Administrator:
-	 name: Guangzhou Huaduo Information Technology Limited
- mail: lxl@163.com tel: +86.02085552667
-	 org: Guangzhou Huaduo Information Technology Limited
+	 name:(Guangzhou Huaduo Information Technology Limited)
+	Email:(lxl@163.com) tel-- +86.02085552667
+	 Guangzhou Huaduo Information Technology Limited
+	 4 fl, No.44 JianZhong rd, TianHe
+\r
+t guangzhoushi
+guangzhou,
+CN
 
-address: 4 fl, No.44 JianZhong rd, TianHe
-	 city: guangzhoushi
-,province: guangzhou
-,country: CN
- postcode: 510060
+ zipcode:510060
 
 Technical Contactor:
-	 name: Guangzhou Huaduo Information Technology Limited
- mail: lxl@163.com tel: +86.02085552667
-	 org: Guangzhou Huaduo Information Technology Limited
+	 name:(Guangzhou Huaduo Information Technology Limited)
+	Email:(lxl@163.com) tel-- +86.02085552667
+	 Guangzhou Huaduo Information Technology Limited
+	 4 fl, No.44 JianZhong rd, TianHe
+\r
+t guangzhoushi
+guangzhou,
+CN
 
-address: 4 fl, No.44 JianZhong rd, TianHe
-	 city: guangzhoushi
-,province: guangzhou
-,country: CN
- postcode: 510060
+ zipcode:510060
 
 Billing Contactor:
-	 name: Guangzhou Huaduo Information Technology Limited
- mail: lxl@163.com tel: +86.02085552667
-	 org: Guangzhou Huaduo Information Technology Limited
+	 name:(Guangzhou Huaduo Information Technology Limited)
+	Email:(lxl@163.com) tel-- +86.02085552667
+	 Guangzhou Huaduo Information Technology Limited
+	 4 fl, No.44 JianZhong rd, TianHe
+\r
+t guangzhoushi
+guangzhou,
+CN
 
-address: 4 fl, No.44 JianZhong rd, TianHe
-	 city: guangzhoushi
-,province: guangzhou
-,country: CN
- postcode: 510060
+ zipcode:510060
 

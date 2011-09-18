@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6480194-LROR
+Domain Name:LCLS.ORG
+Created On:12-May-1999 21:51:58 UTC
+Last Updated On:30-Apr-2008 20:20:14 UTC
+Expiration Date:12-May-2013 21:52:33 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:15137169-NSI
+Registrant Name:Lewis &amp; Clark Library System
+Registrant Organization:Lewis &amp; Clark Library System
+Registrant Street1:425 Goshen Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Edwardsville
+Registrant State/Province:IL
+Registrant Postal Code:62025
+Registrant Country:US
+Registrant Phone:+1.6186563216
+Registrant Phone Ext.:
+Registrant FAX:+1.6186569401
+Registrant FAX Ext.:
+Registrant Email:bills@lcls.org
+Admin ID:15137168-NSI
+Admin Name:Leslie Bednar
+Admin Organization:Lewis &amp; Clark Library System
+Admin Street1:6725 Goshen Road
+Admin Street2:
+Admin Street3:
+Admin City:Edwardsville
+Admin State/Province:IL
+Admin Postal Code:62025
+Admin Country:US
+Admin Phone:+1.6186563216
+Admin Phone Ext.:
+Admin FAX:+1.6186569401
+Admin FAX Ext.:
+Admin Email:nicholasbennyhoff@lcls.org
+Tech ID:15137168-NSI
+Tech Name:Leslie Bednar
+Tech Organization:Lewis &amp; Clark Library System
+Tech Street1:6725 Goshen Road
+Tech Street2:
+Tech Street3:
+Tech City:Edwardsville
+Tech State/Province:IL
+Tech Postal Code:62025
+Tech Country:US
+Tech Phone:+1.6186563216
+Tech Phone Ext.:
+Tech FAX:+1.6186569401
+Tech FAX Ext.:
+Tech Email:nicholasbennyhoff@lcls.org
+Name Server:NS1.LCLS.ORG
+Name Server:NS3.LCLS.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

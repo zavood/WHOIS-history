@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 19:24:59 (BRT -03:00)
+
+domain:      iorra.com.br
+owner:       Iorra representa&ccedil;&otilde;es limitada
+ownerid:     005.968.401/0001-53
+responsible: CRISTIANO IORRA
+country:     BR
+owner-c:     CRI32
+admin-c:     CRI32
+tech-c:      MEHOS
+billing-c:   CRI32
+nserver:     ns1.melucohost.com
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.melucohost.com
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20050127 #1988265
+expires:     20130127
+changed:     20110208
+status:      published
+
+nic-hdl-br:  CRI32
+person:      CRISTIANO IORRA
+e-mail:      iorra.com.br@plugin.com.br
+created:     20050127
+changed:     20100714
+
+nic-hdl-br:  MEHOS
+person:      Meluco Host
+e-mail:      suporte@melucohost.com
+created:     20061106
+changed:     20100405
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

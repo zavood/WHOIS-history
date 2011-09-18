@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 17-oct-2004
    Expiration Date: 17-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 06:18:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 22:48:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Magicsoft Asia Systems Pte Ltd
-   21 B.Batok Crescent #09-84 Unity Centre
-   Singapore,  658077
-   Singapore
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: GOODSASIA.COM
-      Created on: 17-Oct-04
-      Expires on: 17-Oct-11
-      Last Updated on: 27-Nov-10
-
-   Administrative Contact:
-      Tew, Kenny  kennytew@magicsoft-asia.com
-      Magicsoft Asia Systems Pte Ltd
-      21 B.Batok Crescent #09-84 Unity Centre
-      Singapore,  658077
-      Singapore
-      +65.65157087      Fax -- +65.65157086
-
-   Technical Contact:
-      Tew, Kenny  kennytew@magicsoft-asia.com
-      Magicsoft Asia Systems Pte Ltd
-      21 B.Batok Crescent #09-84 Unity Centre
-      Singapore,  658077
-      Singapore
-      +65.65157087      Fax -- +65.65157086
 
    Domain servers in listed order:
       NS1.GOODSASIA.COM
       NS2.GOODSASIA.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=GOODSASIA.COM

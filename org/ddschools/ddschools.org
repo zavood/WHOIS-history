@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D38278427-LROR
+Domain Name:DDSCHOOLS.ORG
+Created On:23-Oct-2000 20:18:43 UTC
+Last Updated On:27-Aug-2007 20:43:24 UTC
+Expiration Date:23-Oct-2016 20:18:42 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:2947073-NSI
+Registrant Name:DELAVAN-DARIEN SCHOOL DISTRICT
+Registrant Organization:DELAVAN-DARIEN SCHOOL DISTRICT
+Registrant Street1:324 BELOIT ST
+Registrant Street2:
+Registrant Street3:
+Registrant City:DELAVAN
+Registrant State/Province:WI
+Registrant Postal Code:53115-1606
+Registrant Country:US
+Registrant Phone:+1.2627282642
+Registrant Phone Ext.:
+Registrant FAX:+1.231231234
+Registrant FAX Ext.:
+Registrant Email:deavtra.hs@ddsd.k12.wi.us
+Admin ID:2947073-NSI
+Admin Name:DELAVAN-DARIEN SCHOOL DISTRICT
+Admin Organization:DELAVAN-DARIEN SCHOOL DISTRICT
+Admin Street1:324 BELOIT ST
+Admin Street2:
+Admin Street3:
+Admin City:DELAVAN
+Admin State/Province:WI
+Admin Postal Code:53115-1606
+Admin Country:US
+Admin Phone:+1.2627282642
+Admin Phone Ext.:
+Admin FAX:+1.231231234
+Admin FAX Ext.:
+Admin Email:deavtra.hs@ddsd.k12.wi.us
+Tech ID:21078765-NSI
+Tech Name:Delavan-Darien School District
+Tech Organization:Delavan-Darien School District
+Tech Street1:324 Beloit Street
+Tech Street2:
+Tech Street3:
+Tech City:Delavan
+Tech State/Province:WI
+Tech Postal Code:53115
+Tech Country:US
+Tech Phone:+1.262728264
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:deavtra.hs@ddsd.k12.wi.us
+Name Server:DNS.UW-MAD.WISCNET.NET
+Name Server:DNS.UW-MIL.WISCNET.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

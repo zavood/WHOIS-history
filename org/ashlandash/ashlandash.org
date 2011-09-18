@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98269200-LROR
+Domain Name:ASHLANDASH.ORG
+Created On:18-Jun-2003 22:28:40 UTC
+Last Updated On:20-Jun-2011 22:55:50 UTC
+Expiration Date:18-Jun-2012 22:28:40 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-VZYC5OSUCA22
+Registrant Name:Jim Teece
+Registrant Organization:Ashland Home Net
+Registrant Street1:607 Siskiyou Blvd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ashland
+Registrant State/Province:OR
+Registrant Postal Code:97520
+Registrant Country:US
+Registrant Phone:+1.5414829207
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jim@projecta.com
+Admin ID:DOT-FTIQBX14ME8Z
+Admin Name:Jim Teece
+Admin Organization:Ashland Home Net
+Admin Street1:607 Siskiyou Blvd.
+Admin Street2:
+Admin Street3:
+Admin City:Ashland
+Admin State/Province:OR
+Admin Postal Code:97520
+Admin Country:US
+Admin Phone:+1.5414829207
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jim@projecta.com
+Tech ID:DOT-5I9D0ETCDE3D
+Tech Name:Jim Teece
+Tech Organization:Ashland Home Net
+Tech Street1:607 Siskiyou Blvd.
+Tech Street2:
+Tech Street3:
+Tech City:Ashland
+Tech State/Province:OR
+Tech Postal Code:97520
+Tech Country:US
+Tech Phone:+1.5414829207
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jim@projecta.com
+Name Server:NS2.PROJECTA.COM
+Name Server:NS1.PROJECTA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

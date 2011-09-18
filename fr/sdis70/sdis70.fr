@@ -1,0 +1,98 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; sdis70.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      sdis70.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SDDI18-FRNIC
+admin-c:     JB1286-FRNIC
+tech-c:      OH251-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5419-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 16/06
+created:     16/06/2004
+last-update: 23/03/2011
+source:      FRNIC
+
+ns-list:     NSL5419-FRNIC
+nserver:     ns4.oleane.net
+nserver:     ns5.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     SDDI18-FRNIC
+type:        ORGANIZATION
+contact:     SCE DEP D INCENDIE DE LA HAUTE SAONE
+address:     SCE DEPARTEMENTAL INCENDIE ET SECOU
+address:     176, rue Saint Martin
+address:     70000 Vesoul
+country:     FR
+phone:       +33 3 84 96 76 00
+fax-no:      +33 3 84 96 76 00
+e-mail:      j.beurthey@sdis70.fr
+changed:     23/03/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     JB1286-FRNIC
+type:        PERSON
+contact:     Jerome Beurthey
+address:     DDSIS
+address:     176, rue Saint Martin Prolongee
+address:     70000 Vesoul
+country:     FR
+phone:       +33 3 84 96 76 00
+fax-no:      +33 3 84 96 76 00
+e-mail:      j.beurthet@sdis70.fr
+changed:     23/03/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

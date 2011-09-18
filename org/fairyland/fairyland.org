@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1819463-LROR
+Domain Name:FAIRYLAND.ORG
+Created On:02-Dec-1996 05:00:00 UTC
+Last Updated On:15-Jun-2011 00:27:35 UTC
+Expiration Date:01-Dec-2011 05:00:00 UTC
+Sponsoring Registrar:TLDs L.L.C. d/b/a SRSPlus (R78-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:5655569-SRSPLUS
+Registrant Name:C Colmenares
+Registrant Organization:-
+Registrant Street1:231 Market Place
+Registrant Street2:#531
+Registrant Street3:
+Registrant City:San Ramon
+Registrant State/Province:CA
+Registrant Postal Code:94583
+Registrant Country:US
+Registrant Phone:+1.9255510162
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:management@jackfrostdesign.com
+Admin ID:7088431-SRSPLUS
+Admin Name:CJ Hirschfield
+Admin Organization:Children's Fairyland
+Admin Street1:PO Box 20900
+Admin Street2:
+Admin Street3:
+Admin City:Oakland
+Admin State/Province:CA
+Admin Postal Code:94620
+Admin Country:US
+Admin Phone:+1.5104522259
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cj@fairyland.org
+Tech ID:6510502-SRSPLUS
+Tech Name:Jon Frost
+Tech Organization:Jack Frost Design
+Tech Street1:231 Market Place, Suite 531
+Tech Street2:
+Tech Street3:
+Tech City:San Ramon,
+Tech State/Province:CA
+Tech Postal Code:94583
+Tech Country:US
+Tech Phone:+1.9255510162
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@jackfrostdesign.com
+Name Server:NS2.RACKMY.COM
+Name Server:NS1.RACKMY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

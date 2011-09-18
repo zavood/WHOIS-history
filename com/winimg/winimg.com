@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 29-jan-2008
    Expiration Date: 29-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 23:01:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 23:25:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,9 +58,9 @@ Date Registered: 2008-1-29
 Date Modified: 2011-6-21
 Expiry Date: 2013-1-29
 
-DNS1: ns-canada.topdns.com
-DNS2: ns-uk.topdns.com
-DNS3: ns-usa.topdns.com
+DNS1: ns-usa.topdns.com
+DNS2: ns-canada.topdns.com
+DNS3: ns-uk.topdns.com
 
 Registrant
     Private Whois winimg.com

@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1876073-LROR
+Domain Name:CEIMAINE.ORG
+Created On:29-Oct-1996 05:00:00 UTC
+Last Updated On:11-Aug-2011 16:25:40 UTC
+Expiration Date:28-Oct-2013 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31704065-NSI
+Registrant Name:Coastal Enterprises, Inc.
+Registrant Organization:Coastal Enterprises, Inc.
+Registrant Street1:Water Street
+Registrant Street2:P.O. Box 268
+Registrant Street3:
+Registrant City:Wiscasset
+Registrant State/Province:ME
+Registrant Postal Code:04578
+Registrant Country:US
+Registrant Phone:+1.20788275
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:whb@CEIMAINE.ORG
+Admin ID:42222270-NSI
+Admin Name:Coastal Enterprises, Inc.
+Admin Street1:36 Water Street
+Admin Street2:
+Admin Street3:
+Admin City:Wiscasset
+Admin State/Province:ME
+Admin Postal Code:04578
+Admin Country:US
+Admin Phone:+1.2078827552
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:noc@ceimaine.org
+Tech ID:31704066-NSI
+Tech Name:Coastal Enterprises, Inc.
+Tech Organization:Coastal Enterprises, Inc.
+Tech Street1:36 Water Street
+Tech Street2:
+Tech Street3:
+Tech City:Wiscasset
+Tech State/Province:ME
+Tech Postal Code:04578
+Tech Country:US
+Tech Phone:+1.207882755
+Tech Phone Ext.:
+Tech FAX:+1.999999999
+Tech FAX Ext.:
+Tech Email:noc@CEIMAINE.ORG
+Name Server:NS65.WORLDNIC.COM
+Name Server:NS66.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

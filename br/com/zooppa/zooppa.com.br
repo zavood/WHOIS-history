@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 19:34:58 (BRT -03:00)
+
+domain:      zooppa.com.br
+owner:       A5 SOLUTIONS SERVICOS E COMERCIO EM TELECOMUNICACO
+ownerid:     008.571.310/0001-78
+responsible: Flavio Nogueira Fernandes
+country:     BR
+owner-c:     FLNFE2
+admin-c:     FLNFE2
+tech-c:      ICPLT7
+billing-c:   FLNFE2
+nserver:     j.ns.engineyard.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     k.ns.engineyard.com
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20080528 #4512344
+expires:     20160528
+changed:     20110429
+status:      published
+
+nic-hdl-br:  FLNFE2
+person:      Flavio Nogueira Fernandes
+e-mail:      fnf@aasp.org.br
+created:     20070110
+changed:     20110829
+
+nic-hdl-br:  ICPLT7
+person:      Instra Corporation Pty Ltd
+e-mail:      latintld@instra.com
+created:     20071129
+changed:     20071209
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

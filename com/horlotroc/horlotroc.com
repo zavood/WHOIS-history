@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 07-nov-2008
    Expiration Date: 07-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:02:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 23:25:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,7 +70,64 @@ Registrars.
 %% All rights reserved. These terms can be modify at any time.
 %% By submitting this query, you agree to abide by this policy.
 %
-% Date: 2011/09/16 03:02:45
+% Date: 2011/09/19 01:25:42
 
 
-unknown host rejected 174.142.225.246
+Domain Name:horlotroc.com
+Domain registrar_creation:2009-12-01 06:20:35
+Domain registrar_expiration:2012-11-07 08:34:28
+Domain registry_creation:2008-11-07 08:34:28
+Domain registry_expiration:2012-11-07 08:34:28
+Domain lastupdate:2010-11-08 15:47:33
+Name Server:NS2.DIRECTNOM.COM
+Name Server:NS.DIRECTNOM.COM
+
+Owner ID: FREE-ORG-243429
+Owner Name:  DIRECTNOM DIRECTNOM
+Owner Street1: WHOIS PROXY PRIVACY
+Owner Street2: Chez ONLINE - BP 438
+Owner City: PARIS
+Owner Postal Code: 75366
+Owner Country: FRANCE
+Owner Phone: +33.899193788
+Owner Email: bmn.243429@spamfree.bookmyname.com
+Owner lastupdate: 2011-08-12 14:50:02
+
+Admin ID: FREE-ORG-236953
+Admin Name: Arnaud PIGNARD
+Admin Organization: Frontier Software
+Admin Street1: 36 rue Charles Fourier
+Admin City: EVRY
+Admin Postal Code: 91000
+Admin Country: FRANCE
+Admin Phone: +33.174856500
+Admin FAX: +33.174856585
+Admin Email: domaines@directnom.com
+Admin lastupdate: 2010-07-30 17:35:25
+
+Tech ID: FREE-ORG-236953
+Tech Name: Arnaud PIGNARD
+Tech Organization: Frontier Software
+Tech Street1: 36 rue Charles Fourier
+Tech City: EVRY
+Tech Postal Code: 91000
+Tech Country: FRANCE
+Tech Phone: +33.174856500
+Tech FAX: +33.174856585
+Tech Email: domaines@directnom.com
+Tech lastupdate: 2010-07-30 17:35:25
+
+Bill ID: FREE-ORG-236953
+Bill Name: Arnaud PIGNARD
+Bill Organization: Frontier Software
+Bill Street1: 36 rue Charles Fourier
+Bill City: EVRY
+Bill Postal Code: 91000
+Bill Country: FRANCE
+Bill Phone: +33.174856500
+Bill FAX: +33.174856585
+Bill Email: domaines@directnom.com
+Bill lastupdate: 2010-07-30 17:35:25
+
+For support or more information about this domain name please contact
+&lt;a href=&quot;http://www.directnom.com&quot;&gt;http://www.directnom.com&lt;/a&gt;

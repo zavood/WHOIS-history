@@ -1,0 +1,88 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157122424-LROR
+Domain Name:LIFECHURCHPG.ORG
+Created On:16-Sep-2009 17:30:24 UTC
+Last Updated On:17-Sep-2011 01:25:52 UTC
+Expiration Date:16-Sep-2012 17:30:24 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR14257655
+Registrant Name:Anna Shaw
+Registrant Organization:Life Church
+Registrant Street1:6707 Woodyard Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Upper Marlboro
+Registrant State/Province:Maryland
+Registrant Postal Code:20772
+Registrant Country:US
+Registrant Phone:+1.3015999605
+Registrant Phone Ext.:
+Registrant FAX:+1.3015999603
+Registrant FAX Ext.:
+Registrant Email:handmaidenlady@aol.com
+Admin ID:CR14257661
+Admin Name:Anna Shaw
+Admin Organization:Life Church
+Admin Street1:6707 Woodyard Road
+Admin Street2:
+Admin Street3:
+Admin City:Upper Marlboro
+Admin State/Province:Maryland
+Admin Postal Code:20772
+Admin Country:US
+Admin Phone:+1.3015999605
+Admin Phone Ext.:
+Admin FAX:+1.3015999603
+Admin FAX Ext.:
+Admin Email:mclark@artisanblue.com
+Tech ID:CR14257658
+Tech Name:Anna Shaw
+Tech Organization:Life Church
+Tech Street1:6707 Woodyard Road
+Tech Street2:
+Tech Street3:
+Tech City:Upper Marlboro
+Tech State/Province:Maryland
+Tech Postal Code:20772
+Tech Country:US
+Tech Phone:+1.3015999605
+Tech Phone Ext.:
+Tech FAX:+1.3015999603
+Tech FAX Ext.:
+Tech Email:handmaidenlady@aol.com
+Name Server:NS57.DOMAINCONTROL.COM
+Name Server:NS58.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

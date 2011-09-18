@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154871662-LROR
+Domain Name:TMAIC.ORG
+Created On:10-Dec-2008 12:16:33 UTC
+Last Updated On:29-Jan-2011 00:24:44 UTC
+Expiration Date:10-Dec-2011 12:16:33 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_9348322
+Registrant Name:Joyce Babu
+Registrant Organization:Ennexa Innovative Solutions
+Registrant Street1:Kochuparampil
+Registrant Street2:Thalappady
+Registrant Street3:Manarcad P.O.
+Registrant City:Kottayam
+Registrant State/Province:Kerala
+Registrant Postal Code:686019
+Registrant Country:IN
+Registrant Phone:+481.2371459
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ennexa@gmail.com
+Admin ID:DI_9348322
+Admin Name:Joyce Babu
+Admin Organization:Ennexa Innovative Solutions
+Admin Street1:Kochuparampil
+Admin Street2:Thalappady
+Admin Street3:Manarcad P.O.
+Admin City:Kottayam
+Admin State/Province:Kerala
+Admin Postal Code:686019
+Admin Country:IN
+Admin Phone:+481.2371459
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ennexa@gmail.com
+Tech ID:DI_9348322
+Tech Name:Joyce Babu
+Tech Organization:Ennexa Innovative Solutions
+Tech Street1:Kochuparampil
+Tech Street2:Thalappady
+Tech Street3:Manarcad P.O.
+Tech City:Kottayam
+Tech State/Province:Kerala
+Tech Postal Code:686019
+Tech Country:IN
+Tech Phone:+481.2371459
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ennexa@gmail.com
+Name Server:FREEDNS1.REGISTRAR-SERVERS.COM
+Name Server:FREEDNS2.REGISTRAR-SERVERS.COM
+Name Server:FREEDNS3.REGISTRAR-SERVERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

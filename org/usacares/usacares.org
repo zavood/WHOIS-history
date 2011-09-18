@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D67854614-LROR
+Domain Name:USACARES.ORG
+Created On:15-Mar-2001 11:37:26 UTC
+Last Updated On:01-Sep-2011 17:23:18 UTC
+Expiration Date:15-Mar-2012 11:37:25 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR38017092
+Registrant Name:Philip Setters
+Registrant Organization:USA Cares, Inc.
+Registrant Street1:562B N. Dixie, Ste. 3
+Registrant Street2:
+Registrant Street3:
+Registrant City:Radcliff
+Registrant State/Province:Kentucky
+Registrant Postal Code:40160
+Registrant Country:US
+Registrant Phone:+1.8007730387
+Registrant Phone Ext.:
+Registrant FAX:+1.8665330426
+Registrant FAX Ext.:
+Registrant Email:psetters@usacares.org
+Admin ID:CR38017094
+Admin Name:Philip Setters
+Admin Organization:USA Cares, Inc.
+Admin Street1:562B N. Dixie, Ste. 3
+Admin Street2:
+Admin Street3:
+Admin City:Radcliff
+Admin State/Province:Kentucky
+Admin Postal Code:40160
+Admin Country:US
+Admin Phone:+1.8007730387
+Admin Phone Ext.:
+Admin FAX:+1.8665330426
+Admin FAX Ext.:
+Admin Email:psetters@usacares.org
+Tech ID:CR38017093
+Tech Name:Philip Setters
+Tech Organization:USA Cares, Inc.
+Tech Street1:562B N. Dixie, Ste. 3
+Tech Street2:
+Tech Street3:
+Tech City:Radcliff
+Tech State/Province:Kentucky
+Tech Postal Code:40160
+Tech Country:US
+Tech Phone:+1.8007730387
+Tech Phone Ext.:
+Tech FAX:+1.8665330426
+Tech FAX Ext.:
+Tech Email:psetters@usacares.org
+Name Server:NS1.CSEIT.NET
+Name Server:NS2.CSEIT.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

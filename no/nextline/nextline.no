@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: NEX491D-NORID
+Domain Name................: nextline.no
+Domain Holder Handle.......: NA4582O-NORID
+Registrar Handle...........: REG929-NORID
+Legal-c Handle.............: RS7402P-NORID
+Tech-c Handle..............: NAH65R-NORID
+Name Server Handle.........: NSNE807H-NORID
+Name Server Handle.........: NSNE808H-NORID
+
+Additional information:
+Created:         2011-08-09
+Last updated:    2011-08-09
+
+NORID Handle...............: NA4582O-NORID
+Type.......................: organization
+Name.......................: Nextline AS
+Id Type....................: organization_number
+Id Number..................: 996322807
+Registrar Handle...........: REG929-NORID
+Post Address...............: Rennes&oslash;ygaten 16
+Postal Code................: NO-5537
+Postal Area................: HAUGESUND
+Country....................: NO
+Phone Number...............: +47.52825555
+Email Address..............: post@nextline.no
+
+Additional information:
+Created:         2011-08-09
+Last updated:    2011-08-09
+

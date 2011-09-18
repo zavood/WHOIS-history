@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 30-jul-2009
    Expiration Date: 30-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 14:27:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 23:34:43 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +53,5 @@ The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 No match for domain 'nativosdeminas.com'.
 
-&gt;&gt;&gt; Last update of whois database: 2011/09/16 07:22:19 PST &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: 2011/09/18 16:32:19 PST &lt;&lt;&lt;
 

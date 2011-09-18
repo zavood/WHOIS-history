@@ -1,0 +1,33 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'abadancity.ir'
+
+
+domain:		abadancity.ir
+ascii:		abadancity.ir
+remarks:	(Domain Holder) Masoud Saeidi Boroojeni
+remarks:	(Domain Holder Address) Sadra Suite, HashtBehesht Intersection, BozorgMehr St.,, Esfahan, Esfahan, IR
+holder-c:	ms51-irnic
+admin-c:	ms51-irnic
+tech-c:		ms51-irnic
+nserver:	ns1.ertebatgostar.com
+nserver:	ns2.ertebatgostar.com
+nserver:	ns3.esfahanhost.com
+nserver:	ns4.esfahanhost.com
+last-updated:	2010-08-14
+source:		IRNIC # Filtered
+
+nic-hdl:	ms51-irnic
+person:		Masoud Saeidi Boroojeni
+e-mail:		info@esfahanhost.com
+address:	Sadra Suite, HashtBehesht Intersection, BozorgMehr St.,, Esfahan, Esfahan, IR
+phone:		+98 311 2287137
+fax-no:		+98 311 2645931
+source:		IRNIC # Filtered
+

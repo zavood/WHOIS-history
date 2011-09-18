@@ -1,0 +1,76 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-19T10:33:34+12:00
+domain_name: sportal.co.nz
+query_status: 200 Active
+domain_dateregistered: 2001-07-16T15:03:25+12:00
+domain_datebilleduntil: 2013-07-16T15:03:25+12:00
+domain_datelastmodified: 2011-05-03T14:01:20+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: TPP Internet
+registrar_address1: P O Box 270
+registrar_city: Broadway
+registrar_province: NSW
+registrar_postalcode: 2007
+registrar_country: AU (AUSTRALIA)
+registrar_phone: +61 2 9970 5242
+registrar_fax: +61 2 9970-8262
+registrar_email: notifications@tppinternet.com
+%
+registrant_contact_name: Sportal Australia Pty Ltd.
+registrant_contact_address1: Ground Floor South
+registrant_contact_address2: 120 Harbour Esplanade
+registrant_contact_city: DOCKLANDS
+registrant_contact_province: Victoria
+registrant_contact_postalcode: 3008
+registrant_contact_country: AU (AUSTRALIA)
+registrant_contact_phone: +61 39 96020400
+registrant_contact_fax: +61 39 396020401
+registrant_contact_email: ops@sportal.com.au
+%
+admin_contact_name: Chris Mutimer
+admin_contact_address1: Ground Floor South
+admin_contact_address2: 120 Harbour Esplanade
+admin_contact_city: DOCKLANDS
+admin_contact_province: Victoria
+admin_contact_postalcode: 3008
+admin_contact_country: AU (AUSTRALIA)
+admin_contact_phone: +61 39 96020400
+admin_contact_fax: +61 39 396020401
+admin_contact_email: ops@sportal.com.au
+%
+technical_contact_name: Sportal Australia
+technical_contact_address1: Ground Floor South
+technical_contact_address2: 120 Harbour Esplanade
+technical_contact_city: DOCKLANDS
+technical_contact_province: Victoria
+technical_contact_postalcode: 3008
+technical_contact_country: AU (AUSTRALIA)
+technical_contact_phone: +61 39 96020400
+technical_contact_fax: +61  396020401
+technical_contact_email: ops@sportal.com.au
+%
+ns_name_01: ns-574.awsdns-07.net
+ns_name_02: ns-1155.awsdns-16.org
+ns_name_03: ns-2045.awsdns-63.co.uk
+ns_name_04: ns-376.awsdns-47.com
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

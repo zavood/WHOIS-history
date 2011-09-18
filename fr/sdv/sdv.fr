@@ -1,0 +1,114 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; sdv.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      sdv.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SDDV10-FRNIC
+admin-c:     ML3083-FRNIC
+tech-c:      SASP1-FRNIC
+tech-c:      SG1540-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1008-FRNIC
+registrar:   SDV PLURIMEDIA
+anniversary: 21/11
+created:     07/07/1995
+last-update: 29/03/2011
+source:      FRNIC
+
+ns-list:     NSL1008-FRNIC
+nserver:     dns1.sdv.fr [212.95.66.57]
+nserver:     dns2.sdv.fr [212.95.66.58]
+source:      FRNIC
+
+registrar:   SDV PLURIMEDIA
+type:        Isp Option 1
+address:     15 Rue de la Nu&eacute;e Bleue
+address:     STRASBOURG
+country:     FR
+phone:       +33 3 88 75 80 50
+fax-no:      +33 3 88 23 56 32
+e-mail:      info@sdv.fr
+website:     http://www.sdv.fr
+anonymous:   NO
+registered:  03/07/2000
+source:      FRNIC
+
+nic-hdl:     SDDV10-FRNIC
+type:        ORGANIZATION
+contact:     SOCIETE DE DIFFUSION VIDEOTEX PLURIMEDIA
+address:     15, rue de la Nu&eacute;e Bleue
+address:     67000 Strasbourg
+country:     FR
+phone:       +33 3 88 75 80 50
+fax-no:      +33 3 88 23 56 32
+e-mail:      domaines@sdv.fr
+changed:     25/03/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ML3083-FRNIC
+type:        PERSON
+contact:     Michel Landaret
+address:     SDV PLURIMEDIA
+address:     15, rue de la Nuee Bleue
+address:     67000 Strasbourg
+country:     FR
+phone:       +33 3 88 75 80 50
+fax-no:      +33 3 88 23 56 32
+e-mail:      domaines@sdv.fr
+changed:     16/05/2007 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SASP1-FRNIC
+type:        ROLE
+contact:     Service-AFNIC SdV-Plurimedia
+address:     SDV PLURIMEDIA
+address:     15, rue de la Nuee Bleue
+address:     67000 Strasbourg
+country:     FR
+e-mail:      domaines@sdv.fr
+admin-c:     ML4155-FRNIC
+tech-c:      SG727-FRNIC
+notify:      domaines@sdv.fr
+changed:     17/10/2008 domaines@sdv.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SG1540-FRNIC
+type:        ROLE
+contact:     Salim Gasmi
+address:     SDV PLURIMEDIA
+address:     15, rue de la Nuee Bleue
+address:     67000 Strasbourg
+country:     FR
+phone:       +33 3 88 75 80 50
+e-mail:      domaines@sdv.fr
+admin-c:     ML654-FRNIC
+admin-c:     ML1130-FRNIC
+tech-c:      SASP1-FRNIC
+tech-c:      SG727-FRNIC
+changed:     16/10/2008 domaines@sdv.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

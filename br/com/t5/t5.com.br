@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-13 00:10:15 (BRT -03:00)
+%  2011-09-18 19:49:53 (BRT -03:00)
 
 domain:      t5.com.br
 owner:       ALQG TECNOLOGIA LTDA.
@@ -17,11 +17,11 @@ admin-c:     HOI27
 tech-c:      HOI27
 billing-c:   HOI27
 nserver:     ns1.t5.com.br 201.33.16.75
-nsstat:      20110912 AA
-nslastaa:    20110912
+nsstat:      20110914 AA
+nslastaa:    20110914
 nserver:     ns2.t5.com.br 201.33.16.76
-nsstat:      20110912 AA
-nslastaa:    20110912
+nsstat:      20110914 AA
+nslastaa:    20110914
 created:     20040308 #1562405
 expires:     20120308
 changed:     20110620

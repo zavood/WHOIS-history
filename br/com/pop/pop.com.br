@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-14 17:34:18 (BRT -03:00)
+%  2011-09-18 20:25:15 (BRT -03:00)
 
 domain:      pop.com.br
 owner:       POP Internet LTDA
@@ -17,17 +17,17 @@ admin-c:     OPI5
 tech-c:      OPI5
 billing-c:   COMGV
 nserver:     ns1.pop.com.br 200.175.8.10
-nsstat:      20110912 AA
-nslastaa:    20110912
+nsstat:      20110917 AA
+nslastaa:    20110917
 nserver:     ns2.pop.com.br 200.175.8.11
-nsstat:      20110912 AA
-nslastaa:    20110912
+nsstat:      20110917 AA
+nslastaa:    20110917
 nserver:     ns3.pop.com.br 200.175.8.35
-nsstat:      20110912 AA
-nslastaa:    20110912
+nsstat:      20110917 AA
+nslastaa:    20110917
 nserver:     ns4.pop.com.br 200.175.8.34
-nsstat:      20110912 AA
-nslastaa:    20110912
+nsstat:      20110917 AA
+nslastaa:    20110917
 created:     19970809 #51241
 expires:     20210809
 changed:     20110719

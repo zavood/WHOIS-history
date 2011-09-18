@@ -11,12 +11,12 @@ for detailed information.
    Referral URL: http://www.domaincontext.com
    Name Server: SK.S7.ANS1.NS58.KLCZY.COM
    Name Server: SK.S7.ANS2.NS58.KLCZY.COM
-   Status: clientTransferProhibited
-   Updated Date: 10-aug-2011
+   Status: redemptionPeriod
+   Updated Date: 18-sep-2011
    Creation Date: 09-aug-2010
-   Expiration Date: 09-aug-2012
+   Expiration Date: 09-aug-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:35:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 23:05:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -101,11 +101,8 @@ Billing Contact:
     AU
     Tel. +45.36946676
 
-Status:RENEWAL HOLD
-	Note: This Domain Name has expired. In this status the domain name
-	is inactive. This domain name will be activated once it is renewed.
-	 The Owner of this domain name can renew this domain name from their control panel.
-	If this domain name is not renewed by 18-Sep-2011, it will be permanently deleted.
+Status:REDEMPTIONPERIOD
+
 PRIVACYPROTECT.ORG is providing privacy protection services to this domain name to
 protect the owner from spam and phishing attacks. PrivacyProtect.org is not
 responsible for any of the activities associated with this domain name. If you wish

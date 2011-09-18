@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D143800777-LROR
+Domain Name:SCIEONWPA.ORG
+Created On:17-Apr-2007 22:39:31 UTC
+Last Updated On:27-May-2011 06:57:49 UTC
+Expiration Date:17-Apr-2012 22:39:31 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37298339
+Registrant Name:LISA SPADAFORD
+Registrant Organization:LISA SPADAFORD
+Registrant Street1:4175 KIRK RD
+Registrant Street2:
+Registrant Street3:
+Registrant City:YOUNGSTOWN
+Registrant State/Province:Ohio
+Registrant Postal Code:44511
+Registrant Country:US
+Registrant Phone:+1.3307999367
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:scieonwpa@yahoo.com
+Admin ID:CR37298341
+Admin Name:LISA SPADAFORD
+Admin Organization:LISA SPADAFORD
+Admin Street1:4175 KIRK RD
+Admin Street2:
+Admin Street3:
+Admin City:YOUNGSTOWN
+Admin State/Province:Ohio
+Admin Postal Code:44511
+Admin Country:US
+Admin Phone:+1.3307999367
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:scieonwpa@yahoo.com
+Tech ID:CR37298340
+Tech Name:YahooDomains TechContact
+Tech Organization:Yahoo! Inc
+Tech Street1:701 First Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Sunnyvale
+Tech State/Province:California
+Tech Postal Code:94089
+Tech Country:US
+Tech Phone:+1.6198813096
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain.tech@yahoo-inc.com
+Name Server:NS1.WEBSTARTS.COM
+Name Server:NS2.WEBSTARTS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

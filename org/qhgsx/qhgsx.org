@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D108209382-LROR
+Domain Name:QHGSX.ORG
+Created On:09-Nov-2005 02:59:59 UTC
+Last Updated On:21-Oct-2010 03:04:34 UTC
+Expiration Date:09-Nov-2011 02:59:59 UTC
+Sponsoring Registrar:Web Commerce Communications Limited dba WebNic.cc (R140-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:wn-r5818018919
+Registrant Name:qnic qnic
+Registrant Organization:qnic
+Registrant Street1:28,changjiang road,Xining,Qinghai
+Registrant Street2:
+Registrant Street3:
+Registrant City:xining
+Registrant State/Province:Qinghai
+Registrant Postal Code:810000
+Registrant Country:CN
+Registrant Phone:+86.9718225531
+Registrant Phone Ext.:
+Registrant FAX:+86.9718225531
+Registrant FAX Ext.:
+Registrant Email:lk@qnic.cn
+Admin ID:wn-a5818018919
+Admin Name:qnic qnic
+Admin Organization:qnic
+Admin Street1:28,changjiang road,Xining,Qinghai
+Admin Street2:
+Admin Street3:
+Admin City:xining
+Admin State/Province:Qinghai
+Admin Postal Code:810000
+Admin Country:CN
+Admin Phone:+86.9718225531
+Admin Phone Ext.:
+Admin FAX:+86.9718225531
+Admin FAX Ext.:
+Admin Email:lk@qnic.cn
+Tech ID:wn-t5818018919
+Tech Name:qnic qnic
+Tech Organization:qnic
+Tech Street1:28,changjiang road,Xining,Qinghai
+Tech Street2:
+Tech Street3:
+Tech City:xining
+Tech State/Province:Qinghai
+Tech Postal Code:810000
+Tech Country:CN
+Tech Phone:+86.9718225531
+Tech Phone Ext.:
+Tech FAX:+86.9718225531
+Tech FAX Ext.:
+Tech Email:lk@qnic.cn
+Name Server:NS1.CNOLNIC.NET
+Name Server:NS2.CNOLNIC.NET
+Name Server:NS100.WEBNIC.CC
+Name Server:NS101.WEBNIC.CC
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

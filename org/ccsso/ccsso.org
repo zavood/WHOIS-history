@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1136262-LROR
+Domain Name:CCSSO.ORG
+Created On:24-May-1994 04:00:00 UTC
+Last Updated On:17-Nov-2009 19:06:34 UTC
+Expiration Date:23-May-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22437764-NSI
+Registrant Name:Council of Chief State School Officers
+Registrant Organization:Council of Chief State School Officers
+Registrant Street1:1 Massachusetts Avenue, NW
+Registrant Street2:Suite 700
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20001-1431
+Registrant Country:US
+Registrant Phone:+1.2023367037
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:Chrisl@CCSSO.ORG
+Admin ID:22437765-NSI
+Admin Name:Bruce Buterbaugh
+Admin Organization:CCSSO
+Admin Street1:1 Massachusetts Avenue, NW
+Admin Street2:Suite 700
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20001-1431
+Admin Country:US
+Admin Phone:+1.202330703
+Admin Phone Ext.:
+Admin FAX:+1.202408807
+Admin FAX Ext.:
+Admin Email:bruceb@ccsso.org
+Tech ID:22437764-NSI
+Tech Name:Council of Chief State School Officers
+Tech Organization:Council of Chief State School Officers
+Tech Street1:1 Massachusetts Avenue, NW
+Tech Street2:Suite 700
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20001-1431
+Tech Country:US
+Tech Phone:+1.2023367037
+Tech Phone Ext.:
+Tech FAX:+1.9999999999
+Tech FAX Ext.:
+Tech Email:Chrisl@CCSSO.ORG
+Name Server:NS01.NTIVA.NET
+Name Server:NS02.NTIVA.NET
+Name Server:NS03.NTIVA.NET
+Name Server:NS04.NTIVA.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

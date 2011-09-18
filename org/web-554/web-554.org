@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D90604734-LROR
+Domain Name:WEB-554.ORG
+Created On:25-Sep-2002 06:15:33 UTC
+Last Updated On:25-Aug-2011 20:31:56 UTC
+Expiration Date:25-Sep-2012 06:16:38 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:10687079622870
+Registrant Name:The Chuo Mitsui Trust and Banking Co.Ltd
+Registrant Street1:3-33-1,Shiba
+Registrant Street2:
+Registrant Street3:
+Registrant City:Minato-Ku
+Registrant State/Province:Tokyo-to
+Registrant Postal Code:105-8574
+Registrant Country:JP
+Registrant Phone:+99.999999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:Toshihiro_Kataoka@mitsuitrust-fg.co.jp
+Admin ID:10687079626360
+Admin Name:Toshihiro Kataoka
+Admin Street1:3-33-1,Shiba
+Admin Street2:
+Admin Street3:
+Admin City:Minato-Ku
+Admin State/Province:Tokyo-to
+Admin Postal Code:105-8574
+Admin Country:JP
+Admin Phone:+81.0352328769
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:Toshihiro_Kataoka@mitsuitrust-fg.co.jp
+Tech ID:10687079633040
+Tech Name:Toshihiro Kataoka
+Tech Street1:3-33-1,Shiba
+Tech Street2:
+Tech Street3:
+Tech City:Minato-Ku
+Tech State/Province:Tokyo-to
+Tech Postal Code:105-8574
+Tech Country:JP
+Tech Phone:+81.0352328769
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:Toshihiro_Kataoka@mitsuitrust-fg.co.jp
+Name Server:NS2.CUSTOMER.NE.JP
+Name Server:NS1.CUSTOMER.NE.JP
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

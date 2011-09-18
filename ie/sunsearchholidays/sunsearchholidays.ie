@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      sunsearchholidays.ie
+descr:       KING TRAVEL LIMITED
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Discretionary Name
+admin-c:     ADM518-IEDR
+tech-c:      HH36-IEDR
+renewal:     27-June-2012
+status:      Active
+nserver:     ns0.reg365.net
+nserver:     ns1.reg365.net
+nserver:     ns2.reg365.net
+source:      IEDR
+
+person:      Peter Corcoran
+nic-hdl:     ADM518-IEDR
+source:      IEDR
+
+person:      NamesCo Hostmaster
+nic-hdl:     HH36-IEDR
+source:      IEDR
+

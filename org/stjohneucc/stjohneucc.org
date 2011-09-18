@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D147907449-LROR
+Domain Name:STJOHNEUCC.ORG
+Created On:31-May-2007 03:23:54 UTC
+Last Updated On:27-May-2011 01:51:59 UTC
+Expiration Date:31-May-2012 03:23:54 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33386970
+Registrant Name:Chandra Zeisset
+Registrant Organization:WEBS DOT COM
+Registrant Street1:6 Branch Court
+Registrant Street2:
+Registrant Street3:
+Registrant City:Trenton
+Registrant State/Province:Illinois
+Registrant Postal Code:62293
+Registrant Country:US
+Registrant Phone:+1.6182242736
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@websdotcom.net
+Admin ID:CR33386972
+Admin Name:Chandra Zeisset
+Admin Organization:WEBS DOT COM
+Admin Street1:6 Branch Court
+Admin Street2:
+Admin Street3:
+Admin City:Trenton
+Admin State/Province:Illinois
+Admin Postal Code:62293
+Admin Country:US
+Admin Phone:+1.6182242736
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@websdotcom.net
+Tech ID:CR33386971
+Tech Name:Chandra Zeisset
+Tech Organization:WEBS DOT COM
+Tech Street1:6 Branch Court
+Tech Street2:
+Tech Street3:
+Tech City:Trenton
+Tech State/Province:Illinois
+Tech Postal Code:62293
+Tech Country:US
+Tech Phone:+1.6182242736
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:wdc@websdotcom.net
+Name Server:NS43.DOMAINCONTROL.COM
+Name Server:NS44.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

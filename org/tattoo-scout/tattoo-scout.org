@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152434822-LROR
+Domain Name:TATTOO-SCOUT.ORG
+Created On:16-Apr-2008 15:03:11 UTC
+Last Updated On:17-Apr-2011 01:25:30 UTC
+Expiration Date:16-Apr-2012 15:03:11 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:ABM-667776
+Registrant Name:Arno Joosten
+Registrant Organization:Tor12 - Joosten &amp; Hendrix GbR
+Registrant Street1:Landwehrstr. 83
+Registrant Street2:
+Registrant Street3:
+Registrant City:Duisburg
+Registrant State/Province:DE
+Registrant Postal Code:47119
+Registrant Country:DE
+Registrant Phone:+49.2035707293
+Registrant Phone Ext.:
+Registrant FAX:+49.2035707294
+Registrant FAX Ext.:
+Registrant Email:info@tor12.de
+Admin ID:ABM-667776
+Admin Name:Arno Joosten
+Admin Organization:Tor12 - Joosten &amp; Hendrix GbR
+Admin Street1:Landwehrstr. 83
+Admin Street2:
+Admin Street3:
+Admin City:Duisburg
+Admin State/Province:DE
+Admin Postal Code:47119
+Admin Country:DE
+Admin Phone:+49.2035707293
+Admin Phone Ext.:
+Admin FAX:+49.2035707294
+Admin FAX Ext.:
+Admin Email:info@tor12.de
+Tech ID:ABM-897828
+Tech Name:Ulrich Hendrix
+Tech Street1:Franziskastr. 3a
+Tech Street2:
+Tech Street3:
+Tech City:Koeln
+Tech State/Province:DE
+Tech Postal Code:50733
+Tech Country:DE
+Tech Phone:+49.1795149947
+Tech Phone Ext.:
+Tech FAX:+49.2213103392
+Tech FAX Ext.:
+Tech Email:mail@hendrix.de
+Name Server:NSA6.SCHLUNDTECH.DE
+Name Server:NSB6.SCHLUNDTECH.DE
+Name Server:NSC6.SCHLUNDTECH.DE
+Name Server:NSD6.SCHLUNDTECH.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

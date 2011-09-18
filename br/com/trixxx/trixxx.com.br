@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 19:35:39 (BRT -03:00)
+
+domain:      trixxx.com.br
+owner:       Ana Carolina Figueira
+ownerid:     037.644.727-31
+country:     BR
+owner-c:     VMF3
+admin-c:     VMF3
+tech-c:      VMF3
+billing-c:   VMF3
+nserver:     ns1.innovahost.com.br
+nsstat:      20110918 AA
+nslastaa:    20110918
+nserver:     ns2.innovahost.com.br
+nsstat:      20110918 AA
+nslastaa:    20110918
+created:     20081018 #4957862
+expires:     20111018
+changed:     20101019
+status:      published
+
+nic-hdl-br:  VMF3
+person:      Vera Moreira Figueira
+e-mail:      vmfdesigner@globo.com
+created:     19980415
+changed:     20110720
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+
