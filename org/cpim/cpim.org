@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D22534194-LROR
+Domain Name:CPIM.ORG
+Created On:16-Mar-2000 10:29:39 UTC
+Last Updated On:05-Mar-2011 15:51:09 UTC
+Expiration Date:16-Mar-2012 10:29:39 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR44415544
+Registrant Name:Muralidharan Muralidharan
+Registrant Organization:Communist Party of India (Marxist)
+Registrant Street1:A.K. Gopalan Bhawan
+Registrant Street2:27 Bhai Vir Singh Marg
+Registrant Street3:
+Registrant City:New Delhi
+Registrant State/Province:Delhi
+Registrant Postal Code:110001
+Registrant Country:IN
+Registrant Phone:+91.01123344918
+Registrant Phone Ext.:
+Registrant FAX:+91.01123747483
+Registrant FAX Ext.:
+Registrant Email:domains@cpim.org
+Admin ID:CR44415550
+Admin Name:Muralidharan Muralidharan
+Admin Organization:Communist Party of India (Marxist)
+Admin Street1:A.K. Gopalan Bhawan
+Admin Street2:27 Bhai Vir Singh Marg
+Admin Street3:
+Admin City:New Delhi
+Admin State/Province:Delhi
+Admin Postal Code:110001
+Admin Country:IN
+Admin Phone:+91.01123344918
+Admin Phone Ext.:
+Admin FAX:+91.01123747483
+Admin FAX Ext.:
+Admin Email:domains@cpim.org
+Tech ID:CR44415547
+Tech Name:Muralidharan Muralidharan
+Tech Organization:Communist Party of India (Marxist)
+Tech Street1:A.K. Gopalan Bhawan
+Tech Street2:27 Bhai Vir Singh Marg
+Tech Street3:
+Tech City:New Delhi
+Tech State/Province:Delhi
+Tech Postal Code:110001
+Tech Country:IN
+Tech Phone:+91.01123344918
+Tech Phone Ext.:
+Tech FAX:+91.01123747483
+Tech FAX Ext.:
+Tech Email:domains@cpim.org
+Name Server:NS1.THEPLANET.COM
+Name Server:NS2.THEPLANET.COM
+Name Server:NS1.ONEFORALL.IN
+Name Server:NS2.ONEFORALL.IN
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

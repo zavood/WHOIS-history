@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 27-apr-2004
    Expiration Date: 27-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:18:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 21:52:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Thursday, 15-Sep-2011 03:18:48 CEST
-# gmt time      : Thursday, 15-Sep-2011 01:18:48 GMT
+# local time    : Sunday, 18-Sep-2011 23:53:17 CEST
+# gmt time      : Sunday, 18-Sep-2011 21:53:17 GMT
 # last modify   : Friday, 25-Mar-2011 18:15:22 CET
-# request from  : 192.168.248.1:16527
+# request from  : 192.168.248.1:10564
 
 Domain name: ceras-projet.com
 

@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      rsc.ie
+descr:       Railway Safety Commission
+descr:       UNINCORPORATED ASSOCIATION
+descr:       Unincorporated Association Name
+admin-c:     LB113-IEDR
+tech-c:      AAA967-IEDR
+renewal:     31-October-2011
+status:      Active
+nserver:     DNS1.IEINTERNET.NET
+nserver:     DNS2.IEINTERNET.NET
+nserver:     DNS3.IEINTERNET.NET
+source:      IEDR
+
+person:      Catriona Keenahan
+nic-hdl:     LB113-IEDR
+source:      IEDR
+
+person:      IE Internet Hostmasters
+nic-hdl:     AAA967-IEDR
+source:      IEDR
+

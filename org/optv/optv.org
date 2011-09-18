@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2112703-LROR
+Domain Name:OPTV.ORG
+Created On:09-Feb-1998 05:00:00 UTC
+Last Updated On:05-May-2008 18:11:36 UTC
+Expiration Date:08-Feb-2017 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:17677699-NSI
+Registrant Name:Missouri State University
+Registrant Organization:Missouri State University
+Registrant Street1:Web Services
+Registrant Street2:901 S National Ave
+Registrant Street3:
+Registrant City:Springfield
+Registrant State/Province:MO
+Registrant Postal Code:65897
+Registrant Country:US
+Registrant Phone:+1.417836610
+Registrant Phone Ext.:
+Registrant FAX:+1.123123123
+Registrant FAX Ext.:
+Registrant Email:webmaster@smsu.edu
+Admin ID:17677698-NSI
+Admin Name:Sara Clark
+Admin Organization:Missouri State University
+Admin Street1:Office of Web and New Media
+Admin Street2:901 S National Ave
+Admin Street3:
+Admin City:Springfield
+Admin State/Province:MO
+Admin Postal Code:65897
+Admin Country:US
+Admin Phone:+1.4178365271
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:web@missouristate.edu
+Tech ID:15785371-NSI
+Tech Name:Mark F Harsen
+Tech Organization:Missouri State University
+Tech Street1:901 S NATIONAL AVE
+Tech Street2:
+Tech Street3:
+Tech City:SPRINGFIELD
+Tech State/Province:MO
+Tech Postal Code:65897
+Tech Country:US
+Tech Phone:+1.4178364392
+Tech Phone Ext.:
+Tech FAX:+1.4178366882
+Tech FAX Ext.:
+Tech Email:netabuse@MISSOURISTATE.EDU
+Name Server:ARGUS.MORE.NET
+Name Server:SIRIUS.MISSOURISTATE.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

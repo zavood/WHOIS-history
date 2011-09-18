@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160765854-LROR
+Domain Name:OVATVC.ORG
+Created On:25-Nov-2010 18:35:46 UTC
+Last Updated On:25-Jan-2011 03:50:10 UTC
+Expiration Date:25-Nov-2013 18:35:46 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:b939b8dc5fd44deb
+Registrant Name:Stephen  Knobel
+Registrant Organization:Ottawa Valley ATV Club
+Registrant Street1:17 Colonel Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kemptville
+Registrant State/Province:ON
+Registrant Postal Code:K0G1J0
+Registrant Country:CA
+Registrant Phone:+1.6132580188
+Registrant Phone Ext.:
+Registrant FAX:+1.6132580188
+Registrant FAX Ext.:
+Registrant Email:STEVE.KNOBEL@BELL.NET
+Admin ID:b939b8dc5fd44deb
+Admin Name:Stephen  Knobel
+Admin Organization:Ottawa Valley ATV Club
+Admin Street1:17 Colonel Drive
+Admin Street2:
+Admin Street3:
+Admin City:Kemptville
+Admin State/Province:ON
+Admin Postal Code:K0G1J0
+Admin Country:CA
+Admin Phone:+1.6132580188
+Admin Phone Ext.:
+Admin FAX:+1.6132580188
+Admin FAX Ext.:
+Admin Email:STEVE.KNOBEL@BELL.NET
+Tech ID:276C1A9F573E6DFF
+Tech Name:WebServe Canada
+Tech Organization:WebServe Canada
+Tech Street1:235 - 1000 Roosevelt Crescent
+Tech Street2:
+Tech Street3:
+Tech City:North Vancouver
+Tech State/Province:BC
+Tech Postal Code:V7P 1M3
+Tech Country:CA
+Tech Phone:+1.6049040926
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@webserve.ca
+Name Server:NS70.SERVEPOWER.COM
+Name Server:NS69.SERVEPOWER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

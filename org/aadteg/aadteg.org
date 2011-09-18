@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104721211-LROR
+Domain Name:AADTEG.ORG
+Created On:04-Aug-2004 15:20:08 UTC
+Last Updated On:13-Jan-2008 00:23:41 UTC
+Expiration Date:04-Aug-2015 15:20:08 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuEOlQ4wStfmAIIJ
+Registrant Name:na na
+Registrant Organization:Asociacion de Actores Directores e Tecnicos de Escena de Gal
+Registrant Street1:Rua Porta da Pena, 10 - Baixo
+Registrant Street2:esq
+Registrant Street3:
+Registrant City:Santiago de Compostela
+Registrant State/Province:A Coruna
+Registrant Postal Code:15704
+Registrant Country:ES
+Registrant Phone:+34.981584171
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@onetune.com
+Admin ID:tux1yH0dRcrVKPx4
+Admin Name:Pablo  Diaz Garcia
+Admin Organization:Pablo  Diaz Garcia
+Admin Street1:Varela Silvari 20 3
+Admin Street2:
+Admin Street3:
+Admin City:A Coruna
+Admin State/Province:A Coruna
+Admin Postal Code:15001
+Admin Country:ES
+Admin Phone:+34.981210118
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gasgarage@gmail.com
+Tech ID:tuguC1tA5nNGC8ZR
+Tech Name:Ruben Bouso
+Tech Organization:Dinahosting
+Tech Street1:Orfas 27
+Tech Street2:
+Tech Street3:
+Tech City:Santiago
+Tech State/Province:A CORUNA
+Tech Postal Code:15703
+Tech Country:ES
+Tech Phone:+34.902090016
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@onetune.com
+Name Server:NS343.WEBSITEWELCOME.COM
+Name Server:NS344.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

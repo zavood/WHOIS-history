@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 05-apr-2005
    Expiration Date: 05-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 07:03:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 22:07:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,74 +51,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-NOTICE AND TERMS OF USE: You are not authorized to access or query our WHOIS
-database through the use of high-volume, automated, electronic processes. The
-Data in Network Solutions' WHOIS database is provided by Network Solutions for information
-purposes only, and to assist persons in obtaining information about or related
-to a domain name registration record. Network Solutions does not guarantee its accuracy.
-By submitting a WHOIS query, you agree to abide by the following terms of use:
-You agree that you may use this Data only for lawful purposes and that under no
-circumstances will you use this Data to: (1) allow, enable, or otherwise support
-the transmission of mass unsolicited, commercial advertising or solicitations
-via e-mail, telephone, or facsimile; or (2) enable high volume, automated,
-electronic processes that apply to Network Solutions (or its computer systems). The
-compilation, repackaging, dissemination or other use of this Data is expressly
-prohibited without the prior written consent of Network Solutions. You agree not to use
-high-volume, automated, electronic processes to access or query the WHOIS
-database. Network Solutions reserves the right to terminate your access to the WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this policy.
-Network Solutions reserves the right to modify these terms at any time.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Get a FREE domain name registration, transfer, or renewal with any annual hosting package.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-http://www.networksolutions.com
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Visit AboutUs.org for more information about OHIOHEALTHCAREFCU.COM
-&lt;a href=&quot;http://www.aboutus.org/OHIOHEALTHCAREFCU.COM&quot;&gt;AboutUs: OHIOHEALTHCAREFCU.COM &lt;/a&gt;
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-
-
-Registrant:
-Ohio HealthCare Federal Credit Union
-   ATTN OHIOHEALTHCAREFCU.COM
-   care of Network Solutions
-   PO Box 459
-   Drums, PA.  US  18222
-
-
-   Domain Name: OHIOHEALTHCAREFCU.COM
-
-   ------------------------------------------------------------------------
-   Promote your business to millions of viewers for only $1 a month
-   Learn how you can get an Enhanced Business Listing here for your domain name.
-   Learn more at http://www.NetworkSolutions.com/
-   ------------------------------------------------------------------------
-
-   Administrative Contact, Technical Contact:
-      Ohio HealthCare Federal Credit Union		fd45k4ce2tj@networksolutionsprivateregistration.com
-      ATTN OHIOHEALTHCAREFCU.COM
-      care of Network Solutions
-      PO Box 459
-      Drums, PA 18222
-      US
-      570-708-8780
-
-
-   Record expires on 05-Apr-2013.
-   Record created on 05-Apr-2005.
-   Database last updated on 10-Sep-2011 02:53:26 EDT.
-
-   Domain servers in listed order:
-
-   DNS1.EASYSTREET.COM
-   DNS2.EASYSTREET.COM
-
-This listing is a Network Solutions Private Registration. Mail
-correspondence to this address must be sent via USPS Express Mail(TM) or
-USPS Certified Mail(R); all other mail will not be processed. Be sure to
-include the registrant's domain name in the address.
-
-
-
+Whois Query: ohiohealthcarefcu.com
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sun Sep 18 18:03:21 EDT 2011
+Reason Code: IE

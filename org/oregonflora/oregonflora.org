@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D50260873-LROR
+Domain Name:OREGONFLORA.ORG
+Created On:27-Dec-2000 22:47:05 UTC
+Last Updated On:03-Mar-2011 03:22:06 UTC
+Expiration Date:27-Dec-2015 22:47:05 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:3362451-NSI
+Registrant Name:DEPARTMENTOFBOTANY AND PLANT PATHOLOGY
+Registrant Organization:DEPARTMENTOFBOTANY AND PLANT PATHOLOGY
+Registrant Street1:2082 Cordley, Oregon State U.
+Registrant Street2:**
+Registrant Street3:
+Registrant City:CORVALLIS
+Registrant State/Province:OR
+Registrant Postal Code:97331
+Registrant Country:US
+Registrant Phone:+1.5417374338
+Registrant Phone Ext.:
+Registrant FAX:+1.231231234
+Registrant FAX Ext.:
+Registrant Email:sundbers@bcc.orst.edu
+Admin ID:3362451-NSI
+Admin Name:DEPARTMENTOFBOTANY AND PLANT PATHOLOGY
+Admin Organization:DEPARTMENTOFBOTANY AND PLANT PATHOLOGY
+Admin Street1:2082 Cordley, Oregon State U.
+Admin Street2:**
+Admin Street3:
+Admin City:CORVALLIS
+Admin State/Province:OR
+Admin Postal Code:97331
+Admin Country:US
+Admin Phone:+1.5417374338
+Admin Phone Ext.:
+Admin FAX:+1.231231234
+Admin FAX Ext.:
+Admin Email:sundbers@bcc.orst.edu
+Tech ID:51338988-NSI
+Tech Name:Oregon Flora Project
+Tech Street1:Dept. Botany &amp; Plant Pathology
+Tech Street2:Oregon State University
+Tech Street3:
+Tech City:Corvallis
+Tech State/Province:OR
+Tech Postal Code:97331-2902
+Tech Country:US
+Tech Phone:+1.5417374338
+Tech Phone Ext.:
+Tech FAX:+1.5417373573
+Tech FAX Ext.:
+Tech Email:ofpflora@oregonflora.org
+Name Server:NS1.NERO.NET
+Name Server:NS1.OREGONSTATE.EDU
+Name Server:NS2.OREGONSTATE.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -6,17 +6,19 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
    Domain Name: L-DEE.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: DNS.PARKPAGE.FOUNDATIONAPI.COM
-   Name Server: DNS2.PARKPAGE.FOUNDATIONAPI.COM
-   Status: pendingDelete
-   Updated Date: 09-sep-2011
-   Creation Date: 30-jun-2010
-   Expiration Date: 30-jun-2011
+   Registrar: EUROPEANCONNECTIONONLINE.COM LLC
+   Whois Server: whois.europeanconnectiononline.com
+   Referral URL: http://www.europeanconnectiononline.com
+   Name Server: NS1.DSREDIRECTION.COM
+   Name Server: NS2.DSREDIRECTION.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 15-sep-2011
+   Creation Date: 15-sep-2011
+   Expiration Date: 15-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 11:41:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 21:38:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,4 +53,90 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Error: No Match for &quot;L-DEE.COM&quot;
+
+Moniker Whois Server Version 2.0
+
+The Data in Moniker's WHOIS database
+is provided for information purposes only, and is
+designed to assist persons in obtaining information
+related to domain name registration records.
+Moniker does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you
+will use this Data only for lawful purposes and
+that, under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam),
+telephone, or facsimile; or
+(2) enable high volume, automated, electronic
+processes that apply to Moniker (or its
+systems). Moniker reserves the right
+to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
+
+The compilation, repackaging, dissemination or
+other use of this Data is expressly
+prohibited without the prior written consent
+of Moniker.
+
+Domain Name: L-DEE.COM
+Registrar: EUROPEANCONNECTIONON
+
+Registrant [1300164]:
+        Admin - admin@overseedomainmanagement.com
+        Oversee Domain Management, LLC
+        515 South Flower Street
+        Suite 4400
+        Los Angeles
+        CA
+        90071
+        US
+
+
+Administrative Contact [1300164]:
+        Admin - admin@overseedomainmanagement.com
+        Oversee Domain Management, LLC
+        515 South Flower Street
+        Suite 4400
+        Los Angeles
+        CA
+        90071
+        US
+        Phone: +1.2132653191
+
+
+Billing Contact [1300164]:
+        Admin - admin@overseedomainmanagement.com
+        Oversee Domain Management, LLC
+        515 South Flower Street
+        Suite 4400
+        Los Angeles
+        CA
+        90071
+        US
+        Phone: +1.2132653191
+
+
+Technical Contact [1300164]:
+        Admin - admin@overseedomainmanagement.com
+        Oversee Domain Management, LLC
+        515 South Flower Street
+        Suite 4400
+        Los Angeles
+        CA
+        90071
+        US
+        Phone: +1.2132653191
+
+
+Domain servers in listed order:
+
+        NS1.DSREDIRECTION.COM
+        NS2.DSREDIRECTION.COM
+
+        Record created on:        2011-09-15 14:25:25.0
+        Database last updated on: 2011-09-15 18:27:16.4
+        Domain Expires on:        2012-09-15 14:25:25.0
+
+
+

@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      flyleaf.ie
+descr:       Dr. James Ryan T/A Flyleaf Press
+descr:       Sole Trader
+descr:       Registered Business Name
+admin-c:     JR155-IEDR
+tech-c:      AAA967-IEDR
+renewal:     15-June-2012
+status:      Active
+nserver:     dns1.ieinternet.net
+nserver:     dns2.ieinternet.net
+nserver:     dns3.ieinternet.net
+source:      IEDR
+
+person:      James Ryan
+nic-hdl:     JR155-IEDR
+source:      IEDR
+
+person:      IE Internet Hostmasters
+nic-hdl:     AAA967-IEDR
+source:      IEDR
+

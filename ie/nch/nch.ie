@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      nch.ie
+descr:       National Concert Hall (LTD)
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     AAI275-IEDR
+tech-c:      AAA967-IEDR
+renewal:     12-May-2012
+status:      Active
+nserver:     dns1.ieinternet.net
+nserver:     dns2.ieinternet.net
+nserver:     dns3.ieinternet.net
+source:      IEDR
+
+person:      Michelle Aboud
+nic-hdl:     AAI275-IEDR
+source:      IEDR
+
+person:      IE Internet Hostmasters
+nic-hdl:     AAA967-IEDR
+source:      IEDR
+

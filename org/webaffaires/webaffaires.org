@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D7095086-LROR
+Domain Name:WEBAFFAIRES.ORG
+Created On:08-Jun-1999 08:31:34 UTC
+Last Updated On:02-May-2011 20:22:55 UTC
+Expiration Date:08-Jun-2012 08:32:11 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:B127229886306541
+Registrant Name:Credit du Nord
+Registrant Organization:Credit du Nord
+Registrant Street1:59 Boulevard Haussmann
+Registrant Street2:
+Registrant Street3:
+Registrant City:Paris
+Registrant State/Province:Paris
+Registrant Postal Code:75008
+Registrant Country:FR
+Registrant Phone:+33.140224346
+Registrant Phone Ext.:
+Registrant FAX:+33.140225402
+Registrant FAX Ext.:
+Registrant Email:b.ledu@cdn.fr
+Admin ID:A127229869293474
+Admin Name:Domain Admin
+Admin Organization:Admin
+Admin Street1:Credit du Nord
+Admin Street2:59 Boulevard Haussmann
+Admin Street3:
+Admin City:Paris
+Admin State/Province:Paris
+Admin Postal Code:75008
+Admin Country:FR
+Admin Phone:+33.140224346
+Admin Phone Ext.:
+Admin FAX:+33.140225402
+Admin FAX Ext.:
+Admin Email:internet.projet@cdn.fr
+Tech ID:A127229869293475
+Tech Name:DBMS Admin
+Tech Organization:VeriSign, Inc.
+Tech Street1:487 E. Middlefield Rd.
+Tech Street2:Mailstop MV 3-1-2
+Tech Street3:
+Tech City:Mountain View
+Tech State/Province:CA
+Tech Postal Code:94043
+Tech Country:US
+Tech Phone:+1.8005792848
+Tech Phone Ext.:
+Tech FAX:+1.6502378883
+Tech FAX Ext.:
+Tech Email:dbms-admin@verisign.com
+Name Server:L4.NSTLD.COM
+Name Server:A4.NSTLD.COM
+Name Server:F4.NSTLD.COM
+Name Server:G4.NSTLD.COM
+Name Server:H4.NSTLD.COM
+Name Server:J4.NSTLD.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

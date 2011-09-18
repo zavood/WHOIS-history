@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2014486-LROR
+Domain Name:EPIGEE.ORG
+Created On:09-Jan-1998 05:00:00 UTC
+Last Updated On:08-Jul-2011 18:24:47 UTC
+Expiration Date:08-Jan-2012 05:00:00 UTC
+Sponsoring Registrar:Allindomains LLC (R1377-LROR)
+Status:OK
+Registrant ID:DOT-3ZZKGBAB14WQ
+Registrant Name:Joseph Adler
+Registrant Organization:HOFFER ADLER LLP
+Registrant Street1:#300-425 University Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Toronto
+Registrant State/Province:Ontario
+Registrant Postal Code:M5G 1T6
+Registrant Country:CA
+Registrant Phone:+1.4169773444
+Registrant Phone Ext.:
+Registrant FAX:+1.4169773332
+Registrant FAX Ext.:
+Registrant Email:jadler@hofferadler.com
+Admin ID:DOT-UTBTSU6ZGTQQ
+Admin Name:Maxine Twamley
+Admin Organization:Hearthstone Communications Ltd.
+Admin Street1:#6 Welches Grove Street
+Admin Street2:
+Admin Street3:
+Admin City:St Thomas
+Admin State/Province:Barbados
+Admin Postal Code:22025
+Admin Country:BB
+Admin Phone:+1.4168480395
+Admin Phone Ext.:
+Admin FAX:+1.4163521284
+Admin FAX Ext.:
+Admin Email:maxine@hearthstoneonline.com
+Tech ID:DOT-HUHN8J0A7ITF
+Tech Name:Maxine Twamley
+Tech Organization:Hearthstone Communications Ltd.
+Tech Street1:#6 Welches Grove Street
+Tech Street2:
+Tech Street3:
+Tech City:St Thomas
+Tech State/Province:Barbados
+Tech Postal Code:22025
+Tech Country:BB
+Tech Phone:+1.4168480395
+Tech Phone Ext.:
+Tech FAX:+1.4163521284
+Tech FAX Ext.:
+Tech Email:maxine@hearthstoneonline.com
+Name Server:NS1.EZD3.COM
+Name Server:NS2.EZD3.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

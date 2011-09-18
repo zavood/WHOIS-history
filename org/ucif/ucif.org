@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158634701-LROR
+Domain Name:UCIF.ORG
+Created On:19-Mar-2010 00:15:31 UTC
+Last Updated On:18-Feb-2011 06:47:42 UTC
+Expiration Date:19-Mar-2012 00:15:31 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuZOz39hUd7i0exS
+Registrant Name:Global admin
+Registrant Organization:Global Inventures Inc
+Registrant Street1:2400 Camino Ramon
+Registrant Street2:375
+Registrant Street3:
+Registrant City:San Ramon
+Registrant State/Province:CA
+Registrant Postal Code:94583
+Registrant Country:US
+Registrant Phone:+1.9252756690
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:administrator@inventures.com
+Admin ID:tuKwMPLVEssXZiOi
+Admin Name:Global admin
+Admin Organization:Global Inventures Inc
+Admin Street1:2400 Camino Ramon
+Admin Street2:375
+Admin Street3:
+Admin City:San Ramon
+Admin State/Province:CA
+Admin Postal Code:94583
+Admin Country:US
+Admin Phone:+1.9252756690
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:administrator@inventures.com
+Tech ID:tu1k9fnuSjzZdBdV
+Tech Name:Global admin
+Tech Organization:Global Inventures Inc
+Tech Street1:2400 Camino Ramon
+Tech Street2:375
+Tech Street3:
+Tech City:San Ramon
+Tech State/Province:CA
+Tech Postal Code:94583
+Tech Country:US
+Tech Phone:+1.9252756690
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:administrator@inventures.com
+Name Server:UDNS1.ULTRADNS.NET
+Name Server:UDNS2.ULTRADNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

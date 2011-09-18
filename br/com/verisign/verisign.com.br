@@ -1,0 +1,73 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 18:28:09 (BRT -03:00)
+
+domain:      verisign.com.br
+owner:       VERISIGN DO BRASIL SERVICOS PARA INTERNET LTDA
+ownerid:     010.538.398/0001-78
+responsible: A. Medeiros
+country:     BR
+owner-c:     MIMAC13
+admin-c:     CCS448
+tech-c:      VEHOS3
+billing-c:   NSB4
+nserver:     a4.nstld.com
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     f4.nstld.com
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     g4.nstld.com
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     h4.nstld.com
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     j4.nstld.com
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     k4.nstld.com
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20031215 #1460748
+expires:     20111215
+changed:     20110414
+status:      published
+
+nic-hdl-br:  CCS448
+person:      Claudia Christina Schulz
+e-mail:      claudia.schulz@bmapi.com.br
+created:     20040806
+changed:     20081124
+
+nic-hdl-br:  MIMAC13
+person:      Michelle Machado
+e-mail:      mmachado@verisign.com
+created:     20090129
+changed:     20091016
+
+nic-hdl-br:  NSB4
+person:      Network Solutions - Brazil
+e-mail:      dominios@opelnet.com.br
+created:     19990403
+changed:     20090625
+
+nic-hdl-br:  VEHOS3
+person:      Verisign Hostmaster
+e-mail:      vshostmaster@verisign.com
+created:     20110413
+changed:     20110413
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

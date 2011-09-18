@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      enbu.ie
+descr:       Enbu Consulting Ltd.
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     ABB262-IEDR
+tech-c:      AAA967-IEDR
+renewal:     26-November-2011
+status:      Active
+nserver:     dns1.ieinternet.net
+nserver:     dns2.ieinternet.net
+nserver:     dns3.ieinternet.net
+source:      IEDR
+
+person:      Fran Meggs
+nic-hdl:     ABB262-IEDR
+source:      IEDR
+
+person:      IE Internet Hostmasters
+nic-hdl:     AAA967-IEDR
+source:      IEDR
+

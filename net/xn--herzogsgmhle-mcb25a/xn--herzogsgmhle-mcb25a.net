@@ -1,0 +1,155 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: XN--HERZOGSGMHLE-MCB25A.NET
+   Registrar: PSI-USA, INC. DBA DOMAIN ROBOT
+   Whois Server: whois.psi-usa.info
+   Referral URL: http://www.psi-usa.info
+   Name Server: A.NS14.NET
+   Name Server: B.NS14.NET
+   Name Server: C.NS14.NET
+   Name Server: D.NS14.NET
+   Status: clientTransferProhibited
+   Updated Date: 10-feb-2011
+   Creation Date: 09-feb-2004
+   Expiration Date: 09-feb-2012
+
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 22:14:14 UTC &lt;&lt;&lt;
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' (&quot;VeriSign&quot;) Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+%
+% =============
+% PSI-USA, Inc.
+% =============
+%
+% This is the PSI-USA, Inc. WHOIS server.
+%
+% All requests are logged.
+%
+% Requesting IP: 67.231.254.15
+% Requesting URL: http://whois.psi-usa.info
+% Requesting Object: domain xn--herzogsgmhle-mcb25a.net
+% Timestamp: 2011-09-19 00:15:06
+%
+% You can see the policy that you agree by submitting a query to this server:
+% whois -h whois.psi-usa.info POLICY
+
+
+domain:                      xn--herzogsgmhle-mcb25a.net
+status:                      LOCK
+owner-c:                     LULU-10841620
+admin-c:                     LULU-10841618
+tech-c:                      LULU-9236108
+zone-c:                      LULU-9236108
+nserver:                     a.ns14.net
+nserver:                     b.ns14.net
+nserver:                     c.ns14.net
+nserver:                     d.ns14.net
+created:                     2004-02-09 11:25:23
+expire:                      2012-02-09 11:25:23 (registry time)
+changed:                     2011-02-20 07:41:20
+
+[owner-c] handle:            10841620
+[owner-c] type:              ORG
+[owner-c] title:
+[owner-c] fname:             Kathrin
+[owner-c] lname:             Schwaller
+[owner-c] org:               Herzogs&auml;gm&uuml;hle
+[owner-c] address:           Mitterfeld 2
+[owner-c] city:              Peiting
+[owner-c] pcode:             86971
+[owner-c] country:           DE
+[owner-c] state:             DE
+[owner-c] phone:             +49-8861-2194113
+[owner-c] fax:               +49-8861-2194340
+[owner-c] email:             kathrin.schwaller@herzogsaegmuehle.de
+[owner-c] protection:        B
+[owner-c] updated:           2010-02-05 16:44:29
+
+[admin-c] handle:            10841618
+[admin-c] type:              PERSON
+[admin-c] title:
+[admin-c] fname:             Kathrin
+[admin-c] lname:             Schwaller
+[admin-c] org:               Herzogs&auml;gm&uuml;hle
+[admin-c] address:           Mitterfeld 2
+[admin-c] city:              Peiting
+[admin-c] pcode:             86971
+[admin-c] country:           DE
+[admin-c] state:             DE
+[admin-c] phone:             +49-8861-2194113
+[admin-c] fax:               +49-8861-2194340
+[admin-c] email:             kathrin.schwaller@herzogsaegmuehle.de
+[admin-c] protection:        B
+[admin-c] updated:           2011-03-03 09:47:04
+
+[tech-c] handle:             9236108
+[tech-c] type:               PERSON
+[tech-c] title:              Dipl.-Inf.
+[tech-c] fname:              Florian
+[tech-c] lname:              Boos
+[tech-c] org:                Boos Internetmedien
+[tech-c] address:            Salenbergweg 29
+[tech-c] city:               Rieden
+[tech-c] pcode:              87669
+[tech-c] country:            DE
+[tech-c] state:              DE
+[tech-c] phone:              +49-8362-5074914
+[tech-c] fax:                +49-8362-940723
+[tech-c] email:              info@boos-internetmedien.de
+[tech-c] protection:         B
+[tech-c] updated:            2010-09-29 19:09:47
+
+[zone-c] handle:             9236108
+[zone-c] type:               PERSON
+[zone-c] title:              Dipl.-Inf.
+[zone-c] fname:              Florian
+[zone-c] lname:              Boos
+[zone-c] org:                Boos Internetmedien
+[zone-c] address:            Salenbergweg 29
+[zone-c] city:               Rieden
+[zone-c] pcode:              87669
+[zone-c] country:            DE
+[zone-c] state:              DE
+[zone-c] phone:              +49-8362-5074914
+[zone-c] fax:                +49-8362-940723
+[zone-c] email:              info@boos-internetmedien.de
+[zone-c] protection:         B
+[zone-c] updated:            2010-09-29 19:09:47
+

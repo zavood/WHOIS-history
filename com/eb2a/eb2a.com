@@ -12,7 +12,7 @@ To single out one record, look it up with &quot;xxx&quot;, where xxx is one of t
 of the records displayed above. If the records are the same, look them up
 with &quot;=xxx&quot; to receive a full display for each record.
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 00:06:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 21:33:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

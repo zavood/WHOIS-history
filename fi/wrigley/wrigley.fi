@@ -1,0 +1,21 @@
+
+domain:   wrigley.fi
+descr:    OY WRIGLEY SCANDINAVIA AB
+descr:    01420832
+address:  Minna L&auml;hteinen
+address:  Ilpoistentie 9
+address:  20740
+address:  TURKU
+phone:    +46 85 444 3300
+status:   Granted
+created:  12.3.1999
+expires:  1.9.2012
+nserver:  a4.nstld.com [Ok]
+nserver:  f4.nstld.com [Ok]
+nserver:  g4.nstld.com [Ok]
+nserver:  l4.nstld.com [Ok]
+dnssec:   no
+modified: 6.7.2011
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority
