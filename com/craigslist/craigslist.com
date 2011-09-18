@@ -14,11 +14,11 @@ for detailed information.
    Name Server: NS2F.CRAIGSLIST.ORG
    Name Server: NS2P.CRAIGSLIST.ORG
    Status: clientTransferProhibited
-   Updated Date: 11-may-2009
+   Updated Date: 16-sep-2011
    Creation Date: 24-sep-1997
-   Expiration Date: 23-sep-2011
+   Expiration Date: 23-sep-2016
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:25:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 13:51:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,6 +70,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: craigslist.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Tue Sep 13 15:16:16 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Sun Sep 18 09:42:18 EDT 2011
 Reason Code: IE

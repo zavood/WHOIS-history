@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94766354-LROR
+Domain Name:CEREBRALS.ORG
+Created On:13-Mar-2003 16:58:24 UTC
+Last Updated On:12-Feb-2011 10:42:15 UTC
+Expiration Date:13-Mar-2012 16:58:24 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:F1568B2693C77ABF
+Registrant Name:JOUVE Xavier
+Registrant Organization:Jouve Conseil et D?veloppement
+Registrant Street1:635 chemin des cruyes
+Registrant Street2:
+Registrant Street3:
+Registrant City:Aix en provence
+Registrant State/Province:
+Registrant Postal Code:13090
+Registrant Country:FR
+Registrant Phone:+33.442921519
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jouve.xavier@wanadoo.fr
+Admin ID:F1568B2693C77ABF
+Admin Name:JOUVE Xavier
+Admin Organization:Jouve Conseil et D?veloppement
+Admin Street1:635 chemin des cruyes
+Admin Street2:
+Admin Street3:
+Admin City:Aix en provence
+Admin State/Province:
+Admin Postal Code:13090
+Admin Country:FR
+Admin Phone:+33.442921519
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jouve.xavier@wanadoo.fr
+Tech ID:F1568B2693C77ABF
+Tech Name:JOUVE Xavier
+Tech Organization:Jouve Conseil et D?veloppement
+Tech Street1:635 chemin des cruyes
+Tech Street2:
+Tech Street3:
+Tech City:Aix en provence
+Tech State/Province:
+Tech Postal Code:13090
+Tech Country:FR
+Tech Phone:+33.442921519
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jouve.xavier@wanadoo.fr
+Name Server:NS9.JIFFYNET.NET
+Name Server:NS10.JIFFYNET.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

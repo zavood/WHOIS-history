@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      futurearts.ie
+descr:       The Arts Council
+descr:       Statutory Body
+descr:       Discretionary Name
+admin-c:     AKR339-IEDR
+tech-c:      ENS2-IEDR
+renewal:     04-March-2012
+status:      Active
+nserver:     AUTH01.NS.EIRCOM.NET
+nserver:     AUTH02.NS.EIRCOM.NET
+nserver:     AUTH03.NS.EIRCOM.NET
+source:      IEDR
+
+person:      Deirdre Behan
+nic-hdl:     AKR339-IEDR
+source:      IEDR
+
+person:      Eircom Net System Dept.
+nic-hdl:     ENS2-IEDR
+source:      IEDR
+

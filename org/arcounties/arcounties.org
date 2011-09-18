@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D287298-LROR
+Domain Name:ARCOUNTIES.ORG
+Created On:08-Jun-1997 04:00:00 UTC
+Last Updated On:27-Nov-2006 16:35:59 UTC
+Expiration Date:07-Jun-2016 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:40565487-NSI
+Registrant Name:Arkansas Association of Counties
+Registrant Organization:Arkansas Association of Counties
+Registrant Street1:1415 West Third Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Little Rock
+Registrant State/Province:AR
+Registrant Postal Code:72201
+Registrant Country:US
+Registrant Phone:+1.5013727550
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jhunt@arcounties.org
+Admin ID:40565487-NSI
+Admin Name:Arkansas Association of Counties
+Admin Organization:Arkansas Association of Counties
+Admin Street1:1415 West Third Street
+Admin Street2:
+Admin Street3:
+Admin City:Little Rock
+Admin State/Province:AR
+Admin Postal Code:72201
+Admin Country:US
+Admin Phone:+1.5013727550
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jhunt@arcounties.org
+Tech ID:40565487-NSI
+Tech Name:Arkansas Association of Counties
+Tech Organization:Arkansas Association of Counties
+Tech Street1:1415 West Third Street
+Tech Street2:
+Tech Street3:
+Tech City:Little Rock
+Tech State/Province:AR
+Tech Postal Code:72201
+Tech Country:US
+Tech Phone:+1.5013727550
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jhunt@arcounties.org
+Name Server:NS1.XSPEDIUS.NET
+Name Server:NS2.XSPEDIUS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

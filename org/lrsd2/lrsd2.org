@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107366792-LROR
+Domain Name:LRSD2.ORG
+Created On:02-Sep-2005 21:12:21 UTC
+Last Updated On:03-Sep-2010 21:22:23 UTC
+Expiration Date:02-Sep-2012 21:12:21 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31457919
+Registrant Name:Tiffany Hoffman
+Registrant Organization:Little Rock School District
+Registrant Street1:810 West Markham
+Registrant Street2:
+Registrant Street3:
+Registrant City:Little Rock
+Registrant State/Province:Arkansas
+Registrant Postal Code:72201
+Registrant Country:US
+Registrant Phone:+1.5014471030
+Registrant Phone Ext.:
+Registrant FAX:+1.5014471161
+Registrant FAX Ext.:
+Registrant Email:webmaster@lrsd.org
+Admin ID:CR31457921
+Admin Name:Tiffany Hoffman
+Admin Organization:Little Rock School District
+Admin Street1:810 West Markham
+Admin Street2:
+Admin Street3:
+Admin City:Little Rock
+Admin State/Province:Arkansas
+Admin Postal Code:72201
+Admin Country:US
+Admin Phone:+1.5014471030
+Admin Phone Ext.:
+Admin FAX:+1.5014471161
+Admin FAX Ext.:
+Admin Email:webmaster@lrsd.org
+Tech ID:CR31457920
+Tech Name:Tiffany Hoffman
+Tech Organization:Little Rock School District
+Tech Street1:810 West Markham
+Tech Street2:
+Tech Street3:
+Tech City:Little Rock
+Tech State/Province:Arkansas
+Tech Postal Code:72201
+Tech Country:US
+Tech Phone:+1.5014471030
+Tech Phone Ext.:
+Tech FAX:+1.5014471161
+Tech FAX Ext.:
+Tech Email:webmaster@lrsd.org
+Name Server:NS1.DATARIDE.COM
+Name Server:NS2.DATARIDE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

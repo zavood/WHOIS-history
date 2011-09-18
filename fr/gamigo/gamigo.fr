@@ -1,0 +1,81 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; gamigo.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      gamigo.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      MN221-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2720-FRNIC
+registrar:   WEBPLUS24 GmbH
+anniversary: 27/03
+created:     27/03/2009
+last-update: 28/03/2009
+source:      FRNIC
+
+ns-list:     NSL2720-FRNIC
+nserver:     ns.namespace4you.de
+nserver:     ns2.namespace4you.de
+source:      FRNIC
+
+registrar:   WEBPLUS24 GmbH
+type:        Isp Option 2
+address:     Berliner Damm 205
+address:     DE-15831 MAHLOW
+country:     DE
+phone:       +49 3379 20939100
+fax-no:      +49 3379 20939150
+e-mail:      info@webplus24.de
+website:     http://www.webplus24.de
+anonymous:   NO
+registered:  30/01/2009
+source:      FRNIC
+
+nic-hdl:     MN221-FRNIC
+type:        ROLE
+contact:     mcac net
+address:     McAc.net-Webhosting
+address:     Seidnitzer Weg 3
+address:     01237 Dresden
+address:     DE
+phone:       +49 351 2067340
+e-mail:      fa@webplus24.de
+admin-c:     MA608-FRNIC
+tech-c:      MA608-FRNIC
+changed:     28/03/2009 fa@webplus24.de
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     04/06/2008 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+

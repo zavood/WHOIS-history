@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 30-jun-2004
    Expiration Date: 30-jun-2019
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 04:02:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 14:07:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -115,10 +115,10 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns1.p19.dynect.net
-    ns1.netflix.com
     ns2.netflix.com
+    ns1.netflix.com
     ns2.p19.dynect.net
+    ns1.p19.dynect.net
 
 
 

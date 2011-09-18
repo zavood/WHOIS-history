@@ -11,14 +11,16 @@ for detailed information.
    Referral URL: http://www.melbourneit.com
    Name Server: CBRU.BR.NS.ELS-GMS.ATT.NET
    Name Server: CMTU.MT.NS.ELS-GMS.ATT.NET
-   Name Server: DBRU.BR.NS.ELS-GMS.ATT.NET
-   Name Server: DMTU.MT.NS.ELS-GMS.ATT.NET
+   Name Server: NS-1260.AWSDNS-29.ORG
+   Name Server: NS-1632.AWSDNS-12.CO.UK
+   Name Server: NS-321.AWSDNS-40.COM
+   Name Server: NS-919.AWSDNS-50.NET
    Status: clientTransferProhibited
-   Updated Date: 06-sep-2011
+   Updated Date: 17-sep-2011
    Creation Date: 30-jan-1997
    Expiration Date: 31-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 13:38:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 13:54:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -87,9 +89,11 @@ Tech Name............ DNS ADMIN
   Tech Email........... dnsadmin@abm.com
   Tech Phone........... +713.7765100
   Tech Fax.............
-  Name Server.......... CMTU.MT.NS.ELS-GMS.ATT.NET
-  Name Server.......... DBRU.BR.NS.ELS-GMS.ATT.NET
-  Name Server.......... CBRU.BR.NS.ELS-GMS.ATT.NET
-  Name Server.......... DMTU.MT.NS.ELS-GMS.ATT.NET
+  Name Server.......... ns-321.awsdns-40.com
+  Name Server.......... cbru.br.ns.els-gms.att.net
+  Name Server.......... cmtu.mt.ns.els-gms.att.net
+  Name Server.......... ns-1632.awsdns-12.co.uk
+  Name Server.......... ns-919.awsdns-50.net
+  Name Server.......... ns-1260.awsdns-29.org
 
 

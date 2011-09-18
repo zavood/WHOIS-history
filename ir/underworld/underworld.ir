@@ -1,0 +1,30 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'underworld.ir'
+
+
+domain:		underworld.ir
+ascii:		underworld.ir
+remarks:	(Domain Holder) Gholamreza Afiaty
+remarks:	(Domain Holder Address) no:56 rashid tehranpars, tehran, tehran, IR
+holder-c:	ga50-irnic
+admin-c:	ga50-irnic
+tech-c:		ga50-irnic
+nserver:	ns1.irandomainparking.com
+nserver:	ns2.irandomainparking.com
+last-updated:	2011-02-12
+source:		IRNIC # Filtered
+
+nic-hdl:	ga50-irnic
+person:		Gholamreza Afiaty
+e-mail:		ga1370@yahoo.com
+address:	no:56 rashid tehranpars, tehran, tehran, IR
+phone:		09357000707
+source:		IRNIC # Filtered
+

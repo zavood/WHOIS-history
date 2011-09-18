@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D127465673-LROR
+Domain Name:ENCOREWIKI.ORG
+Created On:18-Aug-2006 19:17:47 UTC
+Last Updated On:01-Sep-2011 19:27:45 UTC
+Expiration Date:18-Aug-2012 19:17:47 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-W0EUXAFH0I3F
+Registrant Name:Jim Slotta
+Registrant Organization:OISE/UT
+Registrant Street1:OISE/UT room 11-268
+Registrant Street2:University of Toronto
+Registrant Street3:
+Registrant City:Toronto
+Registrant State/Province:Ontario
+Registrant Postal Code:M5S1V6
+Registrant Country:CA
+Registrant Phone:+1.5555555555
+Registrant Phone Ext.:
+Registrant FAX:+1.4169264744
+Registrant FAX Ext.:
+Registrant Email:jslotta@oise.utoronto.ca
+Admin ID:DOT-R9U2Z95IZQS2
+Admin Name:Jim Slotta
+Admin Organization:OISE/UT
+Admin Street1:OISE/UT room 11-268
+Admin Street2:University of Toronto
+Admin Street3:
+Admin City:Toronto
+Admin State/Province:Ontario
+Admin Postal Code:M5S1V6
+Admin Country:CA
+Admin Phone:+1.5555555555
+Admin Phone Ext.:
+Admin FAX:+1.4169264744
+Admin FAX Ext.:
+Admin Email:jslotta@oise.utoronto.ca
+Tech ID:DOT-UK3WSWI9KUS5
+Tech Name:System Administrator
+Tech Organization:OISE/UT
+Tech Street1:OISE/UT 3d floor
+Tech Street2:University of Toronto
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:ON
+Tech Postal Code:M5S1V6
+Tech Country:CA
+Tech Phone:+1.4169781802
+Tech Phone Ext.:
+Tech FAX:+1.4169264744
+Tech FAX Ext.:
+Tech Email:sysadmins@oise.utoronto.ca
+Name Server:NS19.ZONEEDIT.COM
+Name Server:NS16.ZONEEDIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

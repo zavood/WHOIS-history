@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101436326-LROR
+Domain Name:MATHEWSUMC.ORG
+Created On:09-Sep-2003 00:43:11 UTC
+Last Updated On:02-Dec-2009 00:32:10 UTC
+Expiration Date:09-Sep-2017 00:43:11 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30656662
+Registrant Name:Bruce Nicholson
+Registrant Organization:JBNHosting
+Registrant Street1:112 College Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Abbeville
+Registrant State/Province:South Carolina
+Registrant Postal Code:29620
+Registrant Country:US
+Registrant Phone:+1.8643662438
+Registrant Phone Ext.:
+Registrant FAX:+1.8643662438
+Registrant FAX Ext.:
+Registrant Email:bruce@csubiz.us
+Admin ID:CR30656664
+Admin Name:Bruce Nicholson
+Admin Organization:JBNHosting
+Admin Street1:112 College Ave
+Admin Street2:
+Admin Street3:
+Admin City:Abbeville
+Admin State/Province:South Carolina
+Admin Postal Code:29620
+Admin Country:US
+Admin Phone:+1.8643662438
+Admin Phone Ext.:
+Admin FAX:+1.8643662438
+Admin FAX Ext.:
+Admin Email:bruce@jbnhosting.net
+Tech ID:CR30656663
+Tech Name:Bruce Nicholson
+Tech Organization:JBNHosting
+Tech Street1:112 College Ave
+Tech Street2:
+Tech Street3:
+Tech City:Abbeville
+Tech State/Province:South Carolina
+Tech Postal Code:29620
+Tech Country:US
+Tech Phone:+1.8643662438
+Tech Phone Ext.:
+Tech FAX:+1.8643662438
+Tech FAX Ext.:
+Tech Email:bruce@jbnhosting.net
+Name Server:NS1.WWWROOT8.NET
+Name Server:NS2.WWWROOT8.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,100 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; abebooks.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      abebooks.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    AEG25-FRNIC
+admin-c:     DA3033-FRNIC
+tech-c:      HB626-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL10691-FRNIC
+registrar:   CSC CORPORATE DOMAINS INC.
+anniversary: 26/11
+created:     23/04/2007
+last-update: 22/05/2009
+source:      FRNIC
+
+ns-list:     NSL10691-FRNIC
+nserver:     udns1.ultradns.net
+nserver:     pdns1.ultradns.net
+nserver:     pdns2.ultradns.net
+nserver:     udns2.ultradns.net
+nserver:     pdns3.ultradns.org
+nserver:     pdns4.ultradns.org
+source:      FRNIC
+
+registrar:   CSC CORPORATE DOMAINS INC.
+type:        Isp Option 1
+address:     2711 Centerville Road, Suite 400
+address:     DE 19808 WILMINGTON
+country:     US
+phone:       +1 302 636 5400
+fax-no:      +1 302 636 5454
+e-mail:      corporatedomains@cscinfo.com
+website:     http://www.csccorporatedomains.com
+anonymous:   NO
+registered:  17/10/2006
+source:      FRNIC
+
+nic-hdl:     AEG25-FRNIC
+type:        ORGANIZATION
+contact:     Abebooks Europe Gmbh
+address:     Ronsdorfer Str. 77a
+address:     40233 Dusseldorf
+country:     DE
+phone:       +49 211711706938
+e-mail:      info@abebooks.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     DA3033-FRNIC
+type:        PERSON
+contact:     Domain Administrator
+address:     ABEBOOKS FRANCE
+address:     5, boulevard Edgard Quinet
+address:     92700 Colombes
+country:     FR
+phone:       +49.21171170690
+fax-no:      +49.21171170690
+e-mail:      domains@abebooks.com
+changed:     22/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HB626-FRNIC
+type:        ROLE
+contact:     Hannes Blum
+address:     Abebooks Inc.
+address:     5th Floor, 655 Tyee Road
+address:     BC
+address:     V9A 6X5 Victoria
+address:     CA
+phone:       +1 2504123200
+e-mail:      domains@abebooks.com
+admin-c:     DR173-FRNIC
+tech-c:      DR356-FRNIC
+notify:      domains@abebooks.com
+changed:     08/12/2008 domains@abebooks.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -1,0 +1,37 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'poul-mobile.ir'
+
+
+domain:		poul-mobile.ir
+ascii:		poul-mobile.ir
+remarks:	(Domain Holder) poyandegan hamrah poul . co
+remarks:	(Domain Holder Address) no 966 - - 4rah College - enghelab, tehran, tehran, IR
+holder-c:	po61-irnic
+admin-c:	po61-irnic
+tech-c:		po61-irnic
+bill-c:		to52-irnic
+nserver:	ns1.hostiran.net
+nserver:	ns2.hostiran.net
+last-updated:	2010-05-09
+source:		IRNIC # Filtered
+
+nic-hdl:	po61-irnic
+org:		poyandegan hamrah poul . co
+e-mail:		mobilepoul@yahoo.com
+address:	no 966 - - 4rah College - enghelab, tehran, tehran, IR
+phone:		+98 21 66748644
+fax-no:		+98 21 66748645
+source:		IRNIC # Filtered
+
+nic-hdl:	to52-irnic
+org:		Fanavarie Etelaate Towseye Saman (Mihannic)
+e-mail:		sales@mihannic.com
+source:		IRNIC # Filtered
+

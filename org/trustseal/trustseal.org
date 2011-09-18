@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D99671818-LROR
+Domain Name:TRUSTSEAL.ORG
+Created On:19-Aug-2003 13:40:48 UTC
+Last Updated On:12-Aug-2011 07:10:33 UTC
+Expiration Date:19-Aug-2012 13:40:48 UTC
+Sponsoring Registrar:101domain, Inc. (R1736-LROR)
+Status:TRANSFER PROHIBITED
+Registrant ID:RWG000000002D5D8
+Registrant Name:Domain Administrator
+Registrant Organization:Indiamart Intermesh Ltd.
+Registrant Street1:B-6 Sec.-8
+Registrant Street2:
+Registrant Street3:
+Registrant City:Noida
+Registrant State/Province:
+Registrant Postal Code:201301
+Registrant Country:IN
+Registrant Phone:+91.01206777777
+Registrant Phone Ext.:712
+Registrant FAX:+91.01206777777
+Registrant FAX Ext.:
+Registrant Email:Domains@indiamart.com
+Admin ID:RWG000000002D5D8
+Admin Name:Domain Administrator
+Admin Organization:Indiamart Intermesh Ltd.
+Admin Street1:B-6 Sec.-8
+Admin Street2:
+Admin Street3:
+Admin City:Noida
+Admin State/Province:
+Admin Postal Code:201301
+Admin Country:IN
+Admin Phone:+91.01206777777
+Admin Phone Ext.:712
+Admin FAX:+91.01206777777
+Admin FAX Ext.:
+Admin Email:Domains@indiamart.com
+Tech ID:RWG000000002D5D8
+Tech Name:Domain Administrator
+Tech Organization:Indiamart Intermesh Ltd.
+Tech Street1:B-6 Sec.-8
+Tech Street2:
+Tech Street3:
+Tech City:Noida
+Tech State/Province:
+Tech Postal Code:201301
+Tech Country:IN
+Tech Phone:+91.01206777777
+Tech Phone Ext.:712
+Tech FAX:+91.01206777777
+Tech FAX Ext.:
+Tech Email:Domains@indiamart.com
+Name Server:NS1.INTERMESH.NET
+Name Server:NS2.INTERMESH.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
