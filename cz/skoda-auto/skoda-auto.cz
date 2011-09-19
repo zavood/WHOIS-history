@@ -1,0 +1,82 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 10:22:26 2011
+
+domain:       skoda-auto.cz
+registrant:   P-SLA41-UVUL
+admin-c:      P-SLA41-UVUL
+temp-c:       DC20-RIPE
+nsset:        SKODA-AUTO.CZ-YEAB
+registrar:    REG-1API
+status:       paid and in zone
+registered:   21.03.1996 01:00:00
+changed:      17.09.2010 14:54:29
+expire:       10.10.2011
+
+contact:      P-SLA41-UVUL
+org:          Skoda Auto, a.s
+name:         Tomas Filip
+address:      V. Klementa 869
+address:      Mlada Boleslav
+address:      29360
+address:      Mlada Boleslav
+address:      CZ
+phone:        +420.326817337
+fax-no:       +420.326817855
+e-mail:       domains@skoda-auto.cz
+registrar:    REG-1API
+created:      19.05.2010 09:33:27
+changed:      21.01.2011 14:31:01
+
+contact:      DC20-RIPE
+name:         Daniel Cep
+address:      Skoda Auto a.s., Vaclava Klementa 869
+address:      Mlada Boleslav
+address:      29360
+address:      CZ
+phone:        +420.326817029
+fax-no:       +420.326817879
+e-mail:       domains@skoda-auto.cz
+registrar:    REG-DIAL-TEL
+created:      10.08.2001 22:13:00
+changed:      21.12.2004 08:45:00
+
+nsset:        SKODA-AUTO.CZ-YEAB
+nserver:      isp2.viapraga.cz
+nserver:      skoda2.skoda-auto.cz (193.108.106.2)
+nserver:      skoda3.skoda-auto.cz (193.108.106.3)
+tech-c:       P-DUC21-EEBB
+registrar:    REG-1API
+created:      17.09.2010 14:53:50
+changed:      17.09.2010 14:54:28
+
+contact:      P-DUC21-EEBB
+org:          Skoda Auto, a.s
+name:         Daniel Cep
+address:      V. Klementa 869
+address:      Mlada Boleslav
+address:      29360
+address:      CZ
+phone:        +420.326817029
+fax-no:       +420.326817855
+e-mail:       domains@skoda-auto.cz
+registrar:    REG-1API
+created:      19.05.2010 09:33:28
+
+

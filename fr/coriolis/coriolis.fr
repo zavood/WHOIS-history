@@ -1,0 +1,111 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; coriolis.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      coriolis.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    C12269-FRNIC
+admin-c:     ADV14-FRNIC
+tech-c:      OH251-FRNIC
+tech-c:      JC1330-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL36264-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 28/04
+created:     21/01/1999
+last-update: 28/04/2010
+source:      FRNIC
+
+ns-list:     NSL36264-FRNIC
+nserver:     dnsvoda.coriolis.fr [217.109.33.66]
+nserver:     ns6.oleane.net
+nserver:     ns7.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     C12269-FRNIC
+type:        ORGANIZATION
+contact:     CORIOLIS
+address:     167-169, avenue Pablo Picasso
+address:     92024 Nanterre Cedex
+country:     FR
+changed:     28/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ADV14-FRNIC
+type:        PERSON
+contact:     Arnaud De Vivie
+address:     CORIOLIS TELECOM SAS
+address:     60, avenue du General de Gaulle
+address:     92800 Puteaux
+country:     FR
+phone:       +33 1 41 45 57 13
+fax-no:      +33 1 41 45 55 13
+e-mail:      ARNAUDDEVIVIE@coriolis.fr
+changed:     20/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JC1330-FRNIC
+type:        PERSON
+contact:     Jose Carlos
+address:     CORIOLIS TELECOM SAS
+address:     60, avenue du General de Gaulle
+address:     92800 Puteaux
+country:     FR
+phone:       +33 1 41 45 55 13
+fax-no:      +33 1 41 45 55 13
+e-mail:      JOSECARLOS@coriolis.fr
+changed:     20/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

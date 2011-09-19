@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 07-feb-2003
    Expiration Date: 07-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 06:49:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 08:59:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,76 +53,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-NOTICE AND TERMS OF USE: You are not authorized to access or query our WHOIS
-database through the use of high-volume, automated, electronic processes. The
-Data in Network Solutions' WHOIS database is provided by Network Solutions for information
-purposes only, and to assist persons in obtaining information about or related
-to a domain name registration record. Network Solutions does not guarantee its accuracy.
-By submitting a WHOIS query, you agree to abide by the following terms of use:
-You agree that you may use this Data only for lawful purposes and that under no
-circumstances will you use this Data to: (1) allow, enable, or otherwise support
-the transmission of mass unsolicited, commercial advertising or solicitations
-via e-mail, telephone, or facsimile; or (2) enable high volume, automated,
-electronic processes that apply to Network Solutions (or its computer systems). The
-compilation, repackaging, dissemination or other use of this Data is expressly
-prohibited without the prior written consent of Network Solutions. You agree not to use
-high-volume, automated, electronic processes to access or query the WHOIS
-database. Network Solutions reserves the right to terminate your access to the WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this policy.
-Network Solutions reserves the right to modify these terms at any time.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Get a FREE domain name registration, transfer, or renewal with any annual hosting package.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-http://www.networksolutions.com
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Visit AboutUs.org for more information about PCSTECHNOLOGY.COM
-&lt;a href=&quot;http://www.aboutus.org/PCSTECHNOLOGY.COM&quot;&gt;AboutUs: PCSTECHNOLOGY.COM &lt;/a&gt;
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-
-
-Registrant:
-PC Solutions, Inc.
-   5155 East River Road
-   Suite 409
-   Minneapolis, MN 55421
-   US
-
-   Domain Name: PCSTECHNOLOGY.COM
-
-   ------------------------------------------------------------------------
-   Promote your business to millions of viewers for only $1 a month
-   Learn how you can get an Enhanced Business Listing here for your domain name.
-   Learn more at http://www.NetworkSolutions.com/
-   ------------------------------------------------------------------------
-
-   Administrative Contact:
-      PC Solutions, Inc.		info@pcstechnology.com
-      5155 East River Road
-      Suite 409
-      Minneapolis, MN 55421
-      US
-      (763) 852-1600 fax: (763) 852-1603
-
-   Technical Contact:
-      Omnera Interactive		JHILLIS@OMNERA.COM
-      5155 East River Road
-      Suite 409
-      Minneapolis, MN 55421
-      US
-      763.852.1600 fax: 763.852.1603
-
-
-   Record expires on 07-Feb-2012.
-   Record created on 07-Feb-2003.
-   Database last updated on 18-Sep-2011 02:39:30 EDT.
-
-   Domain servers in listed order:
-
-   NS1.P19.DYNECT.NET
-   NS2.P19.DYNECT.NET
-   NS3.P19.DYNECT.NET
-   NS4.P19.DYNECT.NET
-
-
+Whois Query: pcstechnology.com
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Mon Sep 19 04:50:25 EDT 2011
+Reason Code: IE

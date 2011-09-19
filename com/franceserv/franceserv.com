@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 04-dec-2004
    Expiration Date: 04-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 01:42:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 09:02:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,7 +75,7 @@ Registrars.
 # Pour obtenir les informations en status 'Protected by policy', contactez
 # directement le registre concerne (Eurid, AFNIC)
 #
-# 2011-09-15 03:43:22 CEST
+# 2011-09-19 11:04:20 CEST
 
 domain: franceserv.com
 reg_created: 2004-12-04 14:14:02

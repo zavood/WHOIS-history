@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154792-LROR
+Domain Name:CTWOODLANDS.ORG
+Created On:21-Feb-1997 05:00:00 UTC
+Last Updated On:10-Jan-2011 19:27:04 UTC
+Expiration Date:22-Feb-2016 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25539352-NSI
+Registrant Name:ConnecticutForestand Park Association
+Registrant Organization:ConnecticutForestand Park Association
+Registrant Street1:16 Meriden Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Rockfall
+Registrant State/Province:CT
+Registrant Postal Code:06481-2961
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:conn.forest.assoc@SNET.NET
+Admin ID:25539355-NSI
+Admin Name:CFPA
+Admin Organization:CFPA
+Admin Street1:16 MERIDEN RD
+Admin Street2:
+Admin Street3:
+Admin City:ROCKFALL
+Admin State/Province:CT
+Admin Postal Code:06481-2945
+Admin Country:US
+Admin Phone:+1.86034623
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:conn.forest.assoc@SNET.NET
+Tech ID:25539354-NSI
+Tech Name:CFPA
+Tech Organization:CFPA
+Tech Street1:1543 Manchester Rd
+Tech Street2:
+Tech Street3:
+Tech City:Glastonbury
+Tech State/Province:CT
+Tech Postal Code:06033
+Tech Country:US
+Tech Phone:+1.86064938
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:raw1543@SNET.NET
+Name Server:NS1.OPENSOURCEHOST.COM
+Name Server:NS2.OPENSOURCEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

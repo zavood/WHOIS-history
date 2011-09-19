@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152031064-LROR
+Domain Name:RANDOMWALKS.ORG
+Created On:17-Mar-2008 05:09:27 UTC
+Last Updated On:16-Jun-2011 09:15:34 UTC
+Expiration Date:17-Mar-2012 05:09:27 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_7895613
+Registrant Name:Won-young So
+Registrant Organization:Won-young So
+Registrant Street1:Mok 1dong Yangcheongu
+Registrant Street2:103102 samick apt
+Registrant Street3:
+Registrant City:SEOUL
+Registrant State/Province:seoul Teukbyeolsi
+Registrant Postal Code:158-820
+Registrant Country:KR
+Registrant Phone:+82.0220616688
+Registrant Phone Ext.:
+Registrant FAX:+82.0221210914
+Registrant FAX Ext.:
+Registrant Email:domain-admin@dotname.co.kr
+Admin ID:DI_7895614
+Admin Name:Won-young So
+Admin Organization:Won-young So
+Admin Street1:Mok 1dong Yangcheongu
+Admin Street2:103102 samick apt
+Admin Street3:
+Admin City:SEOUL
+Admin State/Province:seoul Teukbyeolsi
+Admin Postal Code:158-820
+Admin Country:KR
+Admin Phone:+82.0220616688
+Admin Phone Ext.:
+Admin FAX:+82.0220616688
+Admin FAX Ext.:
+Admin Email:domain-admin@dotname.co.kr
+Tech ID:DI_7895615
+Tech Name:Won-young So
+Tech Organization:Won-young So
+Tech Street1:Mok 1dong Yangcheongu
+Tech Street2:103102 samick apt
+Tech Street3:
+Tech City:SEOUL
+Tech State/Province:seoul Teukbyeolsi
+Tech Postal Code:158-820
+Tech Country:KR
+Tech Phone:+82.0220616688
+Tech Phone Ext.:
+Tech FAX:+82.0220616688
+Tech FAX Ext.:
+Tech Email:domain-admin@dotname.co.kr
+Name Server:NS47.DNSEVER.COM
+Name Server:NS60.DNSEVER.COM
+Name Server:NS83.DNSEVER.COM
+Name Server:NS231.DNSEVER.COM
+Name Server:NS259.DNSEVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D27613281-LROR
+Domain Name:DUCKCORP.ORG
+Created On:22-May-2000 19:29:20 UTC
+Last Updated On:23-Mar-2011 01:10:27 UTC
+Expiration Date:22-May-2012 19:29:20 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:O-892126-GANDI
+Registrant Name:Marc DequAnes
+Registrant Organization:DuckCorp
+Registrant Street1:25 rue Carnot
+Registrant Street2:
+Registrant Street3:
+Registrant City:Levallois-Perret
+Registrant State/Province:
+Registrant Postal Code:92300
+Registrant Country:FR
+Registrant Phone:+33.610208561
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:duck@duckcorp.org
+Admin ID:O-892126-GANDI
+Admin Name:Marc DequAnes
+Admin Organization:DuckCorp
+Admin Street1:25 rue Carnot
+Admin Street2:
+Admin Street3:
+Admin City:Levallois-Perret
+Admin State/Province:
+Admin Postal Code:92300
+Admin Country:FR
+Admin Phone:+33.610208561
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:duck@duckcorp.org
+Tech ID:MD2868-GANDI
+Tech Name:Marc DequAnes
+Tech Organization:MilkyPond
+Tech Street1:25 rue Carnot
+Tech Street2:
+Tech Street3:
+Tech City:Levallois-Perret
+Tech State/Province:
+Tech Postal Code:92300
+Tech Country:FR
+Tech Phone:+33.610208561
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:admin@milkypond.org
+Name Server:NS1.DUCKCORP.ORG
+Name Server:NS1.HIVANE.NET
+Name Server:NS2.DUCKCORP.ORG
+Name Server:NS3.DUCKCORP.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

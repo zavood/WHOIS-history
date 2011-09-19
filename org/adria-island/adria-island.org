@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D61958654-LROR
+Domain Name:ADRIA-ISLAND.ORG
+Created On:16-Feb-2001 11:11:49 UTC
+Last Updated On:17-Jan-2011 14:48:25 UTC
+Expiration Date:16-Feb-2012 11:11:49 UTC
+Sponsoring Registrar:CORE Internet Council of Registrars (R23-LROR)
+Status:OK
+Registrant ID:R23-20934949-PIR
+Registrant Name:Ivica Sinovcic
+Registrant Street1:Hrv.zrtava 18
+Registrant Street2:
+Registrant Street3:
+Registrant City:Supetar
+Registrant State/Province:Croatia
+Registrant Postal Code:21400
+Registrant Country:HR
+Registrant Phone:+385.12345678
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ivica.sinovcic@st.hinet.hr
+Admin ID:R23-58272468-PIR
+Admin Name:Odjel Pretplate
+Admin Organization:CA Internet d.o.o.
+Admin Street1:Garicgradska 18
+Admin Street2:
+Admin Street3:
+Admin City:Zagreb
+Admin State/Province:
+Admin Postal Code:10000
+Admin Country:HR
+Admin Phone:+385.16000960
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:croadria@croadria.com
+Tech ID:R23-19859260-PIR
+Tech Name:REGica.NET
+Tech Organization:Registry
+Tech Street1:Subiceva 3
+Tech Street2:
+Tech Street3:
+Tech City:Zagreb
+Tech State/Province:Croatia
+Tech Postal Code:10000
+Tech Country:HR
+Tech Phone:+385.14657818
+Tech Phone Ext.:
+Tech FAX:+385.14657818
+Tech FAX Ext.:
+Tech Email:domene@regica.net
+Name Server:DNS.ISKON.HR
+Name Server:DNS2.ISKON.HR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

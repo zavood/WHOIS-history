@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D80097-LROR
+Domain Name:NEA.ORG
+Created On:22-Jun-1994 04:00:00 UTC
+Last Updated On:22-Apr-2010 07:13:50 UTC
+Expiration Date:21-Jun-2013 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:34652094-NSI
+Registrant Name:NationalEducationAssociation of the US
+Registrant Organization:NationalEducationAssociation of the US
+Registrant Street1:1201 16th St, NW
+Registrant Street2:attn ITS, rm 620
+Registrant Street3:
+Registrant City:Washington
+Registrant State/Province:DC
+Registrant Postal Code:20036
+Registrant Country:US
+Registrant Phone:+1.2028227552
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sdunne@nea.org
+Admin ID:34652094-NSI
+Admin Name:NationalEducationAssociation of the US
+Admin Organization:NationalEducationAssociation of the US
+Admin Street1:1201 16th St, NW
+Admin Street2:attn ITS, rm 620
+Admin Street3:
+Admin City:Washington
+Admin State/Province:DC
+Admin Postal Code:20036
+Admin Country:US
+Admin Phone:+1.2028227552
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sdunne@nea.org
+Tech ID:34652094-NSI
+Tech Name:NationalEducationAssociation of the US
+Tech Organization:NationalEducationAssociation of the US
+Tech Street1:1201 16th St, NW
+Tech Street2:attn ITS, rm 620
+Tech Street3:
+Tech City:Washington
+Tech State/Province:DC
+Tech Postal Code:20036
+Tech Country:US
+Tech Phone:+1.2028227552
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sdunne@nea.org
+Name Server:UDNS1.ULTRADNS.NET
+Name Server:UDNS2.ULTRADNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

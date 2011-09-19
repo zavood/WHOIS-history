@@ -11,12 +11,12 @@ for detailed information.
    Referral URL: http://www.enom.com
    Name Server: ELECTRON.ARVIXE.COM
    Name Server: NEUTRON.ARVIXE.COM
-   Status: ok
-   Updated Date: 23-sep-2010
+   Status: clientTransferProhibited
+   Updated Date: 16-sep-2011
    Creation Date: 27-jun-2003
    Expiration Date: 27-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 04:20:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 09:17:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -85,7 +85,7 @@ Registrant Contact:
    Santa Rosa, CA 95405
    US
 
-Status: Active
+Status: Locked
 
 Name Servers:
    electron.arvixe.com

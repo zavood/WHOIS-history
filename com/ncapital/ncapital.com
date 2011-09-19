@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 18-nov-1999
    Expiration Date: 18-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 23:10:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 08:22:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,4 +56,59 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Too many lookups from this IP today. See you tomorrow.
+Registrant:
+ NMEDIA
+ 5-2130, DISRAELI
+ MONTREAL, QUEBEC H2K 4N4
+ CA
+
+ Domain name: NCAPITAL.COM
+
+
+ Administrative Contact:
+    PIERRE TURCOTTE, JEAN  jpt@nmedia.ca
+    5-2130, DISRAELI
+    MONTREAL, QUEBEC H2K 4N4
+    CA
+    514-527-0043    Fax: 514-527-7910
+
+ Technical Contact:
+    Hostmaster, easyDNS  hostmaster@easydns.com
+    304A-219 Dufferin Street
+    Toronto, Ontario M6K 3E3
+    CA
+    +1.4165358672
+
+
+ Registrar of Record: easyDNS Technologies, Inc.
+ Record last updated on 03-Dec-2010.
+ Record expires on 18-Nov-2011.
+ Record created on 18-Nov-1999.
+
+ Domain servers in listed order:
+    NS2.EASYDNS.COM   72.52.2.1
+    NS3.EASYDNS.ORG   64.68.192.10
+    NS6.EASYDNS.NET   72.52.2.1
+    REMOTE2.EASYDNS.COM   72.52.2.1
+    REMOTE1.EASYDNS.COM   64.68.192.10
+    NS1.EASYDNS.COM   64.68.192.10
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns
+  or Identi.ca http://identi.ca/easyDNS )
+
+
+You have 13 lookups left today

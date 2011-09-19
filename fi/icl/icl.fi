@@ -1,0 +1,19 @@
+
+domain:   icl.fi
+descr:    Fujitsu Services Oy
+descr:    08150441
+address:  Rainer Helenius
+address:  Pl 100
+address:  00012
+address:  INVIA
+phone:    010 598 5203
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver:  ns1.edelkey.net [Ok]
+nserver:  ns2.edelkey.net [Ok]
+dnssec:   no
+modified: 16.7.2009
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

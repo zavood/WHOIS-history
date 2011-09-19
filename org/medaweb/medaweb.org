@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3384651-LROR
+Domain Name:MEDAWEB.ORG
+Created On:03-Sep-1998 04:00:00 UTC
+Last Updated On:04-Aug-2011 08:23:18 UTC
+Expiration Date:02-Sep-2012 04:00:00 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:28933079-NSI
+Registrant Name:MEDA
+Registrant Organization:MEDA
+Registrant Street1:P.O. Box 15096
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lansing
+Registrant State/Province:MI
+Registrant Postal Code:48901-5096
+Registrant Country:US
+Registrant Phone:+1.73466994
+Registrant Phone Ext.:
+Registrant FAX:+1.5172410089
+Registrant FAX Ext.:
+Registrant Email:bevcart@MEDAWEB.ORG
+Admin ID:37962292-NSI
+Admin Name:John Avery
+Admin Organization:MEDA
+Admin Street1:P.O. Box 15096
+Admin Street2:
+Admin Street3:
+Admin City:Lansing
+Admin State/Province:MI
+Admin Postal Code:48901
+Admin Country:US
+Admin Phone:+1.5172410011
+Admin Phone Ext.:
+Admin FAX:+1.5172410089
+Admin FAX Ext.:
+Admin Email:avery.john@medaweb.org
+Tech ID:5376985-NSI
+Tech Name:ACD Computers DBA ACD Internet Services
+Tech Organization:ACD.net
+Tech Street1:1800 N. Grand River
+Tech Street2:
+Tech Street3:
+Tech City:Lansing
+Tech State/Province:MI
+Tech Postal Code:48906
+Tech Country:US
+Tech Phone:+1.5179999999
+Tech Phone Ext.:
+Tech FAX:+1.5179993993
+Tech FAX Ext.:
+Tech Email:webmaster@acd.net
+Name Server:NS1.ELEXIO.COM
+Name Server:NS2.ELEXIO.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

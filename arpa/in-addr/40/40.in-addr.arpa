@@ -1,0 +1,17 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       40.in-addr.arpa
+
+organisation: Eli Lily &amp; Company
+
+nserver:      AUTH40.NS.UU.NET.
+nserver:      AUTH62.NS.UU.NET.
+nserver:      DNS1I.XH1.LILLY.COM.
+nserver:      NS1.IQUEST.NET.
+
+changed:      1994-06
+changed:      2011-01-08
+source:       IANA
+

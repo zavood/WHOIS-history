@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-17 20:41:11 (BRT -03:00)
+%  2011-09-19 05:40:17 (BRT -03:00)
 
 domain:      sh27.com.br
 owner:       SUNHOST INFORMATICA LTDA - ME
@@ -17,11 +17,11 @@ admin-c:     PAS761
 tech-c:      PAS761
 billing-c:   PAS761
 nserver:     ns1.sh27.com.br 174.37.165.194
-nsstat:      20110915 AA
-nslastaa:    20110915
+nsstat:      20110919 AA
+nslastaa:    20110919
 nserver:     ns2.sh27.com.br 174.37.165.195
-nsstat:      20110915 AA
-nslastaa:    20110915
+nsstat:      20110919 AA
+nslastaa:    20110919
 created:     20080807 #4757562
 expires:     20120807
 changed:     20110824

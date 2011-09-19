@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 09-may-2010
    Expiration Date: 09-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 06:20:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 08:00:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... mmxyy.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc178029600-cn
-Registrant Name ................. yan ming
-Registrant Organization ......... yan ming
-Registrant Address .............. yan shan xian zhang cun zhen
-Registrant City ................. shang rao
-Registrant Province/State ....... JX
-Registrant Postal Code .......... 334705
-Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.07932108161 -
-Registrant Fax .................. +86.07932108161 -
-Registrant Email ................ ym0121gavin@163.com
-Administrative ID ............... hc178029600-cn
-Administrative Name ............. yan ming
-Administrative Organization ..... yan ming
-Administrative Address .......... yan shan xian zhang cun zhen
-Administrative City ............. shang rao
-Administrative Province/State ... JX
-Administrative Postal Code ...... 334705
-Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.07932108161 -
-Administrative Fax .............. +86.07932108161 -
-Administrative Email ............ ym0121gavin@163.com
-Billing ID ...................... hc178029600-cn
-Billing Name .................... yan ming
-Billing Organization ............ yan ming
-Billing Address ................. yan shan xian zhang cun zhen
-Billing City .................... shang rao
-Billing Province/State .......... JX
-Billing Postal Code ............. 334705
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.07932108161 -
-Billing Fax ..................... +86.07932108161 -
-Billing Email ................... ym0121gavin@163.com
-Technical ID .................... hc178029600-cn
-Technical Name .................. yan ming
-Technical Organization .......... yan ming
-Technical Address ............... yan shan xian zhang cun zhen
-Technical City .................. shang rao
-Technical Province/State ........ JX
-Technical Postal Code ........... 334705
-Technical Country Code .......... CN
-Technical Phone Number .......... +86.07932108161 -
-Technical Fax ................... +86.07932108161 -
-Technical Email ................. ym0121gavin@163.com
-Expiration Date ................. 2012-05-09 07:22:26

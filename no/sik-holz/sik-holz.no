@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: SIK469D-NORID
+Domain Name................: sik-holz.no
+Domain Holder Handle.......: LA2009O-NORID
+Registrar Handle...........: REG38-NORID
+Legal-c Handle.............: TN2765P-NORID
+Tech-c Handle..............: AAH21R-NORID
+Name Server Handle.........: DNSA116H-NORID
+Name Server Handle.........: DNSA133H-NORID
+
+Additional information:
+Created:         2004-12-21
+Last updated:    2010-12-23
+
+NORID Handle...............: LA2009O-NORID
+Type.......................: organization
+Name.......................: LEKEPLASSEN ANS
+Id Type....................: organization_number
+Id Number..................: 982712173
+Registrar Handle...........: REG38-NORID
+Post Address...............: Brattvollveien 215
+Postal Code................: NO-1164
+Postal Area................: Oslo
+Country....................: NO
+Mobile Phone Number........: +47.99647838
+Fax Number.................: +47.85023375
+Email Address..............: ntommie@online.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

@@ -1,0 +1,141 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; msha.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      msha.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MDSD8-FRNIC
+admin-c:     CB1648-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      LF143-FRNIC
+tech-c:      OB70-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL9082-FRNIC
+registrar:   RENATER
+anniversary: 21/02
+created:     21/02/2003
+last-update: 03/02/2006
+source:      FRNIC
+
+ns-list:     NSL9082-FRNIC
+nserver:     euclide.msha.fr [147.210.96.130]
+nserver:     bxnms.u-bordeaux.fr [147.210.253.1]
+nserver:     camus.dr15.cnrs.fr [147.210.72.192 2001:660:6101:21::1]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     MDSD8-FRNIC
+type:        ORGANIZATION
+contact:     Maison des Sciences de l'Homme d'Aquitaine
+address:     Domaine Universitaire
+address:     10, Esplanade des Antilles
+address:     33607 Pessac Cedex
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CB1648-FRNIC
+type:        PERSON
+contact:     Christophe Bouneau
+address:     M.S.H.A.
+address:     10, Esplanade des Antilles
+address:     Domaine Universitaire
+address:     33607 Pessac Cedex
+country:     FR
+phone:       +33 5 56 84 68 21
+fax-no:      +33 5 56 84 68 10
+e-mail:      mshasg@msha.asso.fr
+changed:     20/01/2003 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LF143-FRNIC
+type:        PERSON
+contact:     Laurent Facq
+address:     Univ. Bordeaux 1
+address:     pour Idl
+address:     Campus Michel Serres
+address:     47000 Agen
+country:     FR
+phone:       +33 5 56 84 65 34
+fax-no:      +33 5 56 84 66 77
+e-mail:      gaudin@u-bordeaux.fr
+changed:     31/10/2001 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OB70-FRNIC
+type:        PERSON
+contact:     Omar Bouchta
+address:     Maison des Sciences de l'Homme d'Aquitaine
+address:     Domaine Universitaire
+address:     10, Esplanade des Antilles
+address:     33607 Pessac Cedex
+country:     FR
+phone:       +33 5 56 84 68 18
+fax-no:      +33 5 56 84 68 10
+e-mail:      omar@msha.u-bordeaux.fr
+changed:     04/02/2002 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

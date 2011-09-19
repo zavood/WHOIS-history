@@ -1,0 +1,124 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; univ-mlv.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      univ-mlv.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UDML5-FRNIC
+admin-c:     DP93-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      CFB1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL11659-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL11659-FRNIC
+nserver:     helios.univ-mlv.fr [193.55.62.29]
+nserver:     saintex.univ-mlv.fr [193.50.159.100]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     DP93-FRNIC
+type:        PERSON
+contact:     Dominique Perrin
+address:     UNiversit&eacute; Marne La Vall&eacute;e
+address:     5, boulevard Descartes
+address:     77454 Marne la Vallee Cedex 2
+country:     FR
+phone:       +33 1 60 95 70 02
+fax-no:      +33 1 60 95 70 70
+e-mail:      president@univ-mlv.fr
+changed:     22/01/2001 deponthieu@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     UDML5-FRNIC
+type:        ORGANIZATION
+contact:     Universite de Marne la Vallee
+address:     5, boulevard Descartes
+address:     Champs sur Marne
+address:     77454 Marne la Vallee
+country:     FR
+phone:       +33 1 60 95 70 02
+fax-no:      +33 1 60 95 70 70
+e-mail:      president@univ-mlv.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CFB1-FRNIC
+type:        PERSON
+contact:     Christine Fabre-Browaeys
+address:     UNiversit&eacute; Marne La Vall&eacute;e
+address:     5, boulevard Descartes
+address:     77454 Marne la Vallee Cedex 2
+country:     FR
+phone:       +33 1 60 95 74 55
+fax-no:      +33 1 60 95 74 60
+e-mail:      cfb@univ-mlv.fr
+changed:     22/01/2001 deponthieu@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

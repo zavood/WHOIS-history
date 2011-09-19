@@ -1,0 +1,120 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; doyen-auto.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      doyen-auto.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    DAF19-FRNIC
+admin-c:     FM2088-FRNIC
+tech-c:      HE2205-FRNIC
+tech-c:      DE1226-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL51297-FRNIC
+registrar:   BUSINESS &amp; DECISION INTERACTIVE EOLAS
+anniversary: 23/05
+created:     12/09/2006
+last-update: 19/08/2011
+source:      FRNIC
+
+ns-list:     NSL51297-FRNIC
+nserver:     ns01.eolas.fr
+nserver:     ns02.eolas.fr [195.101.10.129]
+nserver:     ns03.eolas.fr
+source:      FRNIC
+
+registrar:   BUSINESS &amp; DECISION INTERACTIVE EOLAS
+type:        Isp Option 1
+address:     8 Rue Voltaire
+address:     GRENOBLE
+country:     FR
+phone:       +33 4 76 44 50 50
+fax-no:      +33 4 76 44 00 41
+e-mail:      afnic@eolas.fr
+website:     http://www.eolas.fr
+anonymous:   NO
+registered:  11/05/1998
+source:      FRNIC
+
+nic-hdl:     DAF19-FRNIC
+type:        ORGANIZATION
+contact:     DOYEN AUTO FRANCE
+address:     6, rue de l'Ourmede
+address:     31620 Castelnau-d'Estr&eacute;tefonds
+country:     FR
+phone:       +33 5 62 22 71 11
+fax-no:      +33 5 62 22 71 00
+e-mail:      franck.millet@doyen-auto.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     FM2088-FRNIC
+type:        PERSON
+contact:     Franck Millet
+address:     DOYEN AUTO FRANCE
+address:     6, rue de l'Ourmede
+address:     31620 Castelnau-d'Estr&eacute;tefonds
+country:     FR
+phone:       +33 5 62 22 71 11
+fax-no:      +33 5 62 22 71 00
+e-mail:      franck.millet@doyen-auto.com
+notify:      afnic@eolas.fr
+changed:     12/09/2006 afnic@eolas.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     HE2205-FRNIC
+type:        ROLE
+contact:     Hostmaster Eolas
+address:     EOLAS
+address:     8, rue Voltaire
+address:     38000 Grenoble
+country:     FR
+phone:       +33 4 76 44 50 50
+e-mail:      afnic@eolas.fr
+trouble:     Informations : http://www.eolas.fr
+trouble:     Questions : mailto:domaine@eolas.fr
+admin-c:     DM1169-FRNIC
+tech-c:      JT661-FRNIC
+notify:      afnic@eolas.fr
+changed:     10/10/2008 afnic@eolas.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DE1226-FRNIC
+type:        ROLE
+contact:     Domain Eolas
+address:     EOLAS
+address:     8, rue Voltaire
+address:     38000 Grenoble
+country:     FR
+phone:       +33 4 76 44 50 50
+e-mail:      afnic@eolas.fr
+trouble:     Informations : http://www.eolas.fr
+trouble:     Questions : mailto:domaine@eolas.fr
+admin-c:     DM1169-FRNIC
+tech-c:      JT661-FRNIC
+notify:      afnic@eolas.fr
+changed:     10/10/2008 afnic@eolas.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

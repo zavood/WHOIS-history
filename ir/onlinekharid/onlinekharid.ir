@@ -1,0 +1,31 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'onlinekharid.ir'
+
+
+domain:		onlinekharid.ir
+ascii:		onlinekharid.ir
+remarks:	(Domain Holder) javad babaei
+remarks:	(Domain Holder Address) No.19,Golestan st.,kave st.,Esfahan, IR8197683489, IR
+holder-c:	---
+admin-c:	mb64-irnic
+tech-c:		mb64-irnic
+nserver:	ns3.esfahanhost.com
+nserver:	ns4.esfahanhost.com
+last-updated:	2009-02-14
+source:		IRNIC # Filtered
+
+nic-hdl:	mb64-irnic
+person:		Mohammad Javad Babaei
+e-mail:		mjb1362@hotmail.com
+address:	kave st. golestan lan. no.19, esfahan, esfahan, IR
+phone:		03114504893
+fax-no:		03114504893
+source:		IRNIC # Filtered
+

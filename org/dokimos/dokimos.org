@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D11689172-LROR
+Domain Name:DOKIMOS.ORG
+Created On:26-Oct-1999 01:20:15 UTC
+Last Updated On:11-Oct-2010 12:33:19 UTC
+Expiration Date:26-Oct-2011 01:20:15 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31457543
+Registrant Name:Theodore Wright
+Registrant Organization:Theodore Wright
+Registrant Street1:Box 274
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ledgewood
+Registrant State/Province:New Jersey
+Registrant Postal Code:07852
+Registrant Country:US
+Registrant Phone:+1.9737318506
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dokimos@mailcity.com
+Admin ID:CR31457545
+Admin Name:Theodore Wright
+Admin Organization:Theodore Wright
+Admin Street1:Box 274
+Admin Street2:
+Admin Street3:
+Admin City:Ledgewood
+Admin State/Province:New Jersey
+Admin Postal Code:07852
+Admin Country:US
+Admin Phone:+1.9737318506
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dokimos@mailcity.com
+Tech ID:CR31457544
+Tech Name:Theodore Wright
+Tech Organization:Theodore Wright
+Tech Street1:Box 274
+Tech Street2:
+Tech Street3:
+Tech City:Ledgewood
+Tech State/Province:New Jersey
+Tech Postal Code:07852
+Tech Country:US
+Tech Phone:+1.9737318506
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dokimos@mailcity.com
+Name Server:NS1.CHRISTIANASP.NET
+Name Server:NS2.CHRISTIANASP.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

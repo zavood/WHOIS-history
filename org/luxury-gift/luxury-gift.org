@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152758589-LROR
+Domain Name:LUXURY-GIFT.ORG
+Created On:19-May-2008 16:27:21 UTC
+Last Updated On:13-Apr-2011 07:37:46 UTC
+Expiration Date:19-May-2012 16:27:21 UTC
+Sponsoring Registrar:Xin Net Technology Corporation (R118-LROR)
+Status:OK
+Registrant ID:K14J1DDX67132
+Registrant Name:hongqiang chen
+Registrant Organization:hongqiang chen
+Registrant Street1:guangzhoushitianhequtianhebeilu52hao
+Registrant Street2:
+Registrant Street3:
+Registrant City:guangzhoushi
+Registrant State/Province:guangdongsheng
+Registrant Postal Code:510180
+Registrant Country:CN
+Registrant Phone:+86.02066631072
+Registrant Phone Ext.:
+Registrant FAX:+86.02085389303
+Registrant FAX Ext.:
+Registrant Email:1079538785@qq.com
+Admin ID:K14J1DEGO2M97
+Admin Name:luxury-gift org
+Admin Organization:wholesalewatch.,ltd
+Admin Street1:xuexiu
+Admin Street2:
+Admin Street3:
+Admin City:tamen
+Admin State/Province:Hongkong
+Admin Postal Code:510180
+Admin Country:CN
+Admin Phone:+86.00000000000
+Admin Phone Ext.:
+Admin FAX:+86.00000000000
+Admin FAX Ext.:
+Admin Email:gtredrt@msn.com
+Tech ID:K14J1DEMHSGTD
+Tech Name:wholesal ewatchltd
+Tech Organization:wholesalewatch.,ltd
+Tech Street1:no detail address
+Tech Street2:
+Tech Street3:
+Tech City:tamen
+Tech State/Province:Guangdong
+Tech Postal Code:510180
+Tech Country:US
+Tech Phone:+86.00000000000
+Tech Phone Ext.:
+Tech FAX:+86.00000000000
+Tech FAX Ext.:
+Tech Email:seo@msn.com
+Name Server:NS.MYDNS8.CN
+Name Server:NS.MYDNS8.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

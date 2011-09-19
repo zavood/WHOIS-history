@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152472046-LROR
+Domain Name:MIGHTYMIAMI.ORG
+Created On:20-Apr-2008 00:58:48 UTC
+Last Updated On:06-Apr-2011 23:31:01 UTC
+Expiration Date:20-Apr-2012 00:58:48 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR35576505
+Registrant Name:Bruce Goldman
+Registrant Street1:1968 S Congress Av
+Registrant Street2:
+Registrant Street3:
+Registrant City:West Palm Beach
+Registrant State/Province:Florida
+Registrant Postal Code:33406
+Registrant Country:US
+Registrant Phone:+1.5619678666
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bjgoldman@earthlink.net
+Admin ID:CR35576507
+Admin Name:Bruce Goldman
+Admin Street1:1968 S Congress Av
+Admin Street2:
+Admin Street3:
+Admin City:West Palm Beach
+Admin State/Province:Florida
+Admin Postal Code:33406
+Admin Country:US
+Admin Phone:+1.5619678666
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bjgoldman@earthlink.net
+Tech ID:CR35576506
+Tech Name:Bruce Goldman
+Tech Street1:1968 S Congress Av
+Tech Street2:
+Tech Street3:
+Tech City:West Palm Beach
+Tech State/Province:Florida
+Tech Postal Code:33406
+Tech Country:US
+Tech Phone:+1.5619678666
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bjgoldman@earthlink.net
+Name Server:DNS3.TOTALCHOICEHOSTING.COM
+Name Server:DNS4.TOTALCHOICEHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

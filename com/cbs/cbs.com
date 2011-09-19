@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 16-dec-1993
    Expiration Date: 15-dec-2019
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 02:23:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 08:01:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -115,10 +115,10 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns4.cbsig.net
     ns1.cbsig.net
     ns5.cbsig.net
     ns2.cbsig.net
+    ns4.cbsig.net
 
 
 

@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94673735-LROR
+Domain Name:WALLSENDFESTIVAL.ORG
+Created On:20-Feb-2003 22:53:02 UTC
+Last Updated On:21-Jan-2011 22:55:16 UTC
+Expiration Date:20-Feb-2012 22:53:02 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tulMGmdHwO4Mk4pS
+Registrant Name:John Fleet
+Registrant Organization:Wallsend Festival Association
+Registrant Street1:Town Centres Management
+Registrant Street2:Howard House
+Registrant Street3:
+Registrant City:North Shields
+Registrant State/Province:Tyne And Wear
+Registrant Postal Code:NE301NT
+Registrant Country:GB
+Registrant Phone:+44.01912963702
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:phil@squarepage.com
+Admin ID:tuNh544w4iiw558n
+Admin Name:Phillip Howells
+Admin Organization:Squarepage Systems Ltd
+Admin Street1:67 Linskill Terrace
+Admin Street2:
+Admin Street3:
+Admin City:North Shields
+Admin State/Province:Tyne And Wear
+Admin Postal Code:NE302EP
+Admin Country:GB
+Admin Phone:+44.01912963702
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:phil@squarepage.com
+Tech ID:tuZVGXnsA4TSOUMl
+Tech Name:Phillip Howells
+Tech Organization:Squarepage Systems Ltd
+Tech Street1:67 Linskill Terrace
+Tech Street2:
+Tech Street3:
+Tech City:North Shields
+Tech State/Province:Tyne And Wear
+Tech Postal Code:NE302EP
+Tech Country:GB
+Tech Phone:+44.01912963702
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:phil@squarepage.com
+Name Server:NS1.SQUAREPAGE.COM
+Name Server:NS2.SQUAREPAGE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

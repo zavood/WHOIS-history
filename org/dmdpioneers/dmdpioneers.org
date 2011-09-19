@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103640043-LROR
+Domain Name:DMDPIONEERS.ORG
+Created On:29-Dec-2003 17:01:20 UTC
+Last Updated On:30-Dec-2010 01:22:04 UTC
+Expiration Date:29-Dec-2011 17:01:20 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-KFUWXZN587JX
+Registrant Name:Charles Rhodes
+Registrant Organization:All Pro Tax &amp; Accounting
+Registrant Street1:510 E. Wilson Way
+Registrant Street2:
+Registrant Street3:
+Registrant City:Grapeview
+Registrant State/Province:WA
+Registrant Postal Code:98546
+Registrant Country:US
+Registrant Phone:+1.3602773600
+Registrant Phone Ext.:
+Registrant FAX:+1.3602773601
+Registrant FAX Ext.:
+Registrant Email:webmaster@allprotax.com
+Admin ID:DOT-1O2CHF2R796M
+Admin Name:Charles Rhodes
+Admin Organization:All Pro Tax &amp; Accounting
+Admin Street1:510 E. Wilson Way
+Admin Street2:
+Admin Street3:
+Admin City:Grapeview
+Admin State/Province:WA
+Admin Postal Code:98546
+Admin Country:US
+Admin Phone:+1.3602773600
+Admin Phone Ext.:
+Admin FAX:+1.3602773601
+Admin FAX Ext.:
+Admin Email:webmaster@allprotax.com
+Tech ID:DOT-21JL2DR8M72Z
+Tech Name:Charles Rhodes
+Tech Organization:All Pro Tax &amp; Accounting
+Tech Street1:510 E. Wilson Way
+Tech Street2:
+Tech Street3:
+Tech City:Grapeview
+Tech State/Province:WA
+Tech Postal Code:98546
+Tech Country:US
+Tech Phone:+1.3602773600
+Tech Phone Ext.:
+Tech FAX:+1.3602773601
+Tech FAX Ext.:
+Tech Email:webmaster@allprotax.com
+Name Server:E12NS1.DNS-HE.COM
+Name Server:E12NS2.DNS-HE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

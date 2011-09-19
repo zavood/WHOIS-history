@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 15-sep-2008
    Expiration Date: 15-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 02:10:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 08:06:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: wwba820.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sat Sep 17 22:00:12 EDT 2011
+Date and Time of Query: Mon Sep 19 04:01:54 EDT 2011
 Reason Code: IE

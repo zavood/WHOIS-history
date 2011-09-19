@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 04-aug-2005
    Expiration Date: 04-aug-2017
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 06:24:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 09:01:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,34 +78,15 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Record Guardian
-   854 N Resh
-   Anahiem, California 92805
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: RGSAFE.COM
-      Created on: 04-Aug-05
-      Expires on: 04-Aug-17
-      Last Updated on: 18-Nov-10
-
-   Administrative Contact:
-      Nguyen, Khai  knguyen@rgsafe.com
-      Record Guardian
-      854 N Resh
-      Anahiem, California 92805
-      United States
-      7142313327
-
-   Technical Contact:
-      Nguyen, Khai  knguyen@rgsafe.com
-      Record Guardian
-      854 N Resh
-      Anahiem, California 92805
-      United States
-      7142313327
 
    Domain servers in listed order:
       NS1.INTELENET.NET
       NS2.INTELENET.NET
       NS3.INTELENET.NET
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=RGSAFE.COM

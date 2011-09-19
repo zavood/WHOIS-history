@@ -1,0 +1,143 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; univ-pau.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      univ-pau.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UDPE1-FRNIC
+admin-c:     RR1432-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      CL64-FRNIC
+tech-c:      MB4883-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6295-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 28/05/2004
+source:      FRNIC
+
+ns-list:     NSL6295-FRNIC
+nserver:     crisv1.univ-pau.fr [194.167.156.13]
+nserver:     bxnms.u-bordeaux.fr [147.210.253.1]
+nserver:     mail.aquitaine.fr
+nserver:     mendibel.iutbayonne.univ-pau.fr [193.50.225.15]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     UDPE1-FRNIC
+type:        ORGANIZATION
+contact:     UNIVERSITE DE PAU ET DU PAYS DE L ADOU
+address:     centre Informatique, I.F.R
+address:     rue Jules Ferry
+address:     64000 Pau
+country:     FR
+phone:       +33 5 59 40 70 00
+changed:     03/01/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     RR1432-FRNIC
+type:        PERSON
+contact:     Raymond Royer
+address:     Universite de Pau et des Pays de l'Adour
+address:     centre Informatique, I.F.R, rue Jules Ferry
+address:     64000 Pau
+country:     FR
+phone:       +33 59 72 20 10
+fax-no:      +33 59 72 20 81
+e-mail:      raymond.royer@univ-pau.fr
+notify:      raymond.royer@univ-pau.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CL64-FRNIC
+type:        PERSON
+contact:     Claude Larrode
+address:     Universite de Pau et des Pays de l'Adour
+address:     Ciuppa - Ifr, rue Jules Ferry
+address:     64000 Pau
+country:     FR
+phone:       +33 59 72 20 11
+fax-no:      +33 59 72 20 80
+e-mail:      claude.larrode@univ-pau.fr
+notify:      claude.larrode@univ-pau.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MB4883-FRNIC
+type:        PERSON
+contact:     Michel Beheregaray
+address:     Universite de Pau et des Pays de l'Adour
+address:     centre Informatique, I.F.R, rue Jules Ferry
+address:     64000 Pau
+country:     FR
+phone:       +33 59 72 20 12
+fax-no:      +33 59 72 20 81
+e-mail:      michel.beheregaray@univ-pau.fr
+notify:      michel.beheregaray@univ-pau.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

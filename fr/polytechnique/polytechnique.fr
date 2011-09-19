@@ -1,0 +1,126 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; polytechnique.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      polytechnique.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    EP2056-FRNIC
+admin-c:     LP282-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      GG14-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL10068-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL10068-FRNIC
+nserver:     milou.polytechnique.fr [129.104.30.41]
+nserver:     picaros.polytechnique.fr [129.104.7.41]
+nserver:     rackham.polytechnique.fr [129.104.32.41]
+nserver:     ns2.nic.fr [192.93.0.4 2001:660:3005:1::1:2]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     LP282-FRNIC
+type:        PERSON
+contact:     Loic Pasquiet
+address:     Ecole Polytechnique
+address:     Plateau de Saclay - Sitx
+address:     91128 Palaiseau Cedex
+country:     FR
+phone:       +33 1 69 33 46 02
+fax-no:      +33 1 69 33 30 35
+e-mail:      loic.pasquiet@polytechnique.fr
+notify:      loic.pasquiet@polytechnique.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     EP2056-FRNIC
+type:        ORGANIZATION
+contact:     ECOLE POLYTECHNIQUE
+address:     route de Saclay
+address:     91128 Palaiseau
+country:     FR
+phone:       +33 1 69 33 46 02
+fax-no:      +33 1 69 33 30 35
+e-mail:      loic.pasquiet@polytechnique.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GG14-FRNIC
+type:        PERSON
+contact:     Gerard Guillerm
+address:     Ecole Polytechnique - Centre Informatique
+address:     route de Saclay
+address:     91128 Palaiseau Cedex
+country:     FR
+phone:       +33 69 33 46 08
+e-mail:      geg@poly.polytechnique.fr
+notify:      geg@poly.polytechnique.fr
+changed:     14/02/2003 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -1,0 +1,87 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; netpublic.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      netpublic.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MDLE151-FRNIC
+admin-c:     CD723-FRNIC
+tech-c:      AMC66-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1807-FRNIC
+registrar:   ATOS WORLDLINE
+anniversary: 12/10
+created:     24/05/2004
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL1807-FRNIC
+nserver:     ns3.atos.net
+nserver:     ns4.atos.net
+source:      FRNIC
+
+registrar:   ATOS WORLDLINE
+type:        Isp Option 2
+anonymous:   YES
+registered:  19/01/2005
+source:      FRNIC
+
+nic-hdl:     MDLE151-FRNIC
+type:        ORGANIZATION
+contact:     Minist&egrave;re de l'Education Nationale de l'Enseignement Sup&eacute;rieur et de la Recherche
+address:     61-65, rue Dutot
+address:     75015 Paris
+country:     FR
+phone:       +33 1 55 55 30 83
+e-mail:      Christian.Donot@education.gouv.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CD723-FRNIC
+type:        PERSON
+contact:     Christian Donot
+address:     Minist&egrave;re de l'Education Nationale de l'Enseignement Sup&eacute;rieur et de la Recherche
+address:     61-65, rue Dutot
+address:     75015 Paris
+country:     FR
+phone:       +33 1 55 55 30 83
+e-mail:      Christian.Donot@education.gouv.fr
+changed:     24/05/2004 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AMC66-FRNIC
+type:        ROLE
+contact:     ATOS WORLDLINE Contact technique
+address:     Atos Worldline
+address:     zone industrielle A rue la Pointe
+address:     59113 Seclin
+country:     FR
+phone:       +33 3 20 60 79 79
+e-mail:      ao-dom@atosorigin.com
+admin-c:     PB868-FRNIC
+tech-c:      EW1780-FRNIC
+notify:      ao-dom@atosorigin.com
+changed:     16/09/2008 ao-dom@atosorigin.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

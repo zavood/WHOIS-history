@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 28-may-2010
    Expiration Date: 28-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 06:52:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 09:05:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... perfectexe.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc042420227-cn
-Registrant Name ................. XinMing Gong
-Registrant Organization ......... GongXinMing
-Registrant Address .............. heerbindaowaiqu22hao
-Registrant City ................. HaErBin
-Registrant Province/State ....... HaErBin
-Registrant Postal Code .......... 100549
-Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.01065788634 - 001
-Registrant Fax .................. +86.01065788634 - 001
-Registrant Email ................ gongxinming197858@126.com
-Administrative ID ............... hc042420227-cn
-Administrative Name ............. XinMing Gong
-Administrative Organization ..... GongXinMing
-Administrative Address .......... heerbindaowaiqu22hao
-Administrative City ............. HaErBin
-Administrative Province/State ... HaErBin
-Administrative Postal Code ...... 100549
-Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.01065788634 - 001
-Administrative Fax .............. +86.01065788634 - 001
-Administrative Email ............ gongxinming197858@126.com
-Billing ID ...................... hc042420227-cn
-Billing Name .................... XinMing Gong
-Billing Organization ............ GongXinMing
-Billing Address ................. heerbindaowaiqu22hao
-Billing City .................... HaErBin
-Billing Province/State .......... HaErBin
-Billing Postal Code ............. 100549
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.01065788634 - 001
-Billing Fax ..................... +86.01065788634 - 001
-Billing Email ................... gongxinming197858@126.com
-Technical ID .................... hc042420227-cn
-Technical Name .................. XinMing Gong
-Technical Organization .......... GongXinMing
-Technical Address ............... heerbindaowaiqu22hao
-Technical City .................. HaErBin
-Technical Province/State ........ HaErBin
-Technical Postal Code ........... 100549
-Technical Country Code .......... CN
-Technical Phone Number .......... +86.01065788634 - 001
-Technical Fax ................... +86.01065788634 - 001
-Technical Email ................. gongxinming197858@126.com
-Expiration Date ................. 2012-05-28 23:13:03

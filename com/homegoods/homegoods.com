@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 11-may-1996
    Expiration Date: 12-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:29:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 08:25:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -114,8 +114,8 @@ Registrant:
 
     Domain servers in listed order:
 
-    dnsauth1.sys.gtei.net
     auth01.ns.uu.net
+    dnsauth1.sys.gtei.net
     auth60.ns.uu.net
 
 

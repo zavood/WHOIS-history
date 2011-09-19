@@ -1,0 +1,52 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-19 04:53:49 (BRT -03:00)
+
+domain:      alog.com.br
+owner:       ALOG-01 Solu&ccedil;&otilde;es de Tecnologia em Inform&aacute;tica Ltda
+ownerid:     003.462.111/0001-08
+responsible: Opera&ccedil;&otilde;es Alog Datacenters do Brasil
+country:     BR
+owner-c:     OPALO
+admin-c:     OPALO
+tech-c:      OPALO
+billing-c:   SVB
+nserver:     ns1.alog.com.br 200.150.144.253 2804:50:1:6::253
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns2.alog.com.br 200.150.144.254 2804:50:1:6::254
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns3.datacenter1.com.br
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     20050413 #2098479
+expires:     20130413
+changed:     20110817
+status:      published
+
+nic-hdl-br:  OPALO
+person:      Opera&ccedil;&otilde;es AlogDatacenters
+e-mail:      operacoesti@alog.com.br
+created:     20100602
+changed:     20110811
+
+nic-hdl-br:  SVB
+person:      Sidney Victor da Costa Breyer
+e-mail:      sidney@alog.com.br
+created:     19980217
+changed:     20090723
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

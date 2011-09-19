@@ -1,0 +1,83 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 10:20:36 2011
+
+domain:       euromise.cz
+registrant:   SB:JZ113-RIPE_XX
+admin-c:      JZ113-RIPE
+nsset:        NSS:KZ50-RIPE_XX:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   25.05.1997 02:00:00
+changed:      27.10.2004 07:45:00
+expire:       12.10.2012
+
+contact:      SB:JZ113-RIPE_XX
+org:          &Atilde;šstav informatiky AV &Auml;ŒR v.v.i.
+name:         EuroMISE Centrum UK a AV CR
+address:      Pod vodarenskou vezi 2
+address:      Praha 8
+address:      180 02
+address:      CZ
+e-mail:       zvarova@euromise.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      25.10.2007 12:57:44
+
+contact:      JZ113-RIPE
+name:         Jana Zvarova
+address:      CZ
+phone:        +420 266053097
+fax-no:       +420 26897013
+e-mail:       zvarova@euromise.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:KZ50-RIPE_XX:1
+nserver:      unix.euromise.cz (147.231.7.2)
+nserver:      web1.euromise.com
+tech-c:       KZ50-RIPE
+tech-c:       SB:KZ50-RIPE_XX
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+changed:      12.05.2011 19:51:10
+
+contact:      KZ50-RIPE
+name:         Karel Zvara
+address:      Pod Vod&Atilde;&iexcl;renskou v&Auml;›&Aring;&frac34;&Atilde;&shy; 2
+address:      Praha 8
+address:      182 07
+address:      CZ
+phone:        +420 603509250
+fax-no:       +420 26897013
+e-mail:       zvara@euromise.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+
+contact:      SB:KZ50-RIPE_XX
+org:          EuroMISE Centrum UK a AV CR
+name:         EuroMISE Centrum UK a AV CR
+address:      Pod vodarenskou vezi 2
+address:      Praha 8
+address:      180 02
+address:      CZ
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+
+

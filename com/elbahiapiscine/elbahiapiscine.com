@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 18-apr-2010
    Expiration Date: 18-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 14:09:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 08:46:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,7 +70,61 @@ Registrars.
 %% All rights reserved. These terms can be modify at any time.
 %% By submitting this query, you agree to abide by this policy.
 %
-% Date: 2011/09/12 16:09:55
+% Date: 2011/09/19 10:47:03
 
 
-unknown host rejected 188.72.227.95
+Domain Name:elbahiapiscine.com
+Domain registrar_creation:2010-04-18 12:02:56
+Domain registrar_expiration:2012-04-18 12:02:56
+Domain registry_creation:2010-04-18 12:02:56
+Domain registry_expiration:2012-04-18 12:02:56
+Domain lastupdate:2011-05-02 16:02:25
+Name Server:ns352798.ovh.net
+Name Server:sdns1.ovh.net
+
+Owner ID: FREE-ORG-83374
+Owner Name: Nadir LAFENDI
+Owner Organization: oriaxe communication
+Owner Street1: cit&eacute; des 69 logements, Bt D1, Courbet Hai seddikia
+Owner City: oran
+Owner Postal Code: 31000
+Owner Country: ALGERIA
+Owner Phone: +213.71161038
+Owner Email: info@oriaxe.com
+Owner lastupdate: 2010-07-14 16:22:08
+
+Admin ID: FREE-ORG-83374
+Admin Name: Nadir LAFENDI
+Admin Organization: oriaxe communication
+Admin Street1: cit&eacute; des 69 logements, Bt D1, Courbet Hai seddikia
+Admin City: oran
+Admin Postal Code: 31000
+Admin Country: ALGERIA
+Admin Phone: +213.71161038
+Admin Email: info@oriaxe.com
+Admin lastupdate: 2010-07-14 16:22:08
+
+Tech ID: FREE-ORG-83374
+Tech Name: Nadir LAFENDI
+Tech Organization: oriaxe communication
+Tech Street1: cit&eacute; des 69 logements, Bt D1, Courbet Hai seddikia
+Tech City: oran
+Tech Postal Code: 31000
+Tech Country: ALGERIA
+Tech Phone: +213.71161038
+Tech Email: info@oriaxe.com
+Tech lastupdate: 2010-07-14 16:22:08
+
+Bill ID: FREE-ORG-83374
+Bill Name: Nadir LAFENDI
+Bill Organization: oriaxe communication
+Bill Street1: cit&eacute; des 69 logements, Bt D1, Courbet Hai seddikia
+Bill City: oran
+Bill Postal Code: 31000
+Bill Country: ALGERIA
+Bill Phone: +213.71161038
+Bill Email: info@oriaxe.com
+Bill lastupdate: 2010-07-14 16:22:08
+
+For support or more information about this domain name please contact
+&lt;a href=&quot;http://www.bookmyname.com/&quot;&gt;http://www.bookmyname.com/&lt;/a&gt;
