@@ -1,0 +1,55 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-19 00:28:15 (BRT -03:00)
+
+domain:      milmar.com.br
+owner:       JUST TIME EXPRESS COM. IMP
+ownerid:     007.013.160/0001-14
+responsible: Angela Maria Machado
+country:     BR
+owner-c:     MSPOL
+admin-c:     JCM1046
+tech-c:      MSPOL
+billing-c:   JTECI
+nserver:     ns1.ibmm.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.ibmm.com.br
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20051221 #2530317
+expires:     20111221
+changed:     20110501
+status:      published
+
+nic-hdl-br:  JCM1046
+person:      julioomachado campinas me
+e-mail:      julio@computerhobby.com.br
+created:     20060218
+changed:     20100809
+
+nic-hdl-br:  JTECI
+person:      JUST TIME EXPRESS COM. IMP
+e-mail:      guyfrank@milmar.com.br
+created:     20070601
+changed:     20091027
+
+nic-hdl-br:  MSPOL
+person:      Marcos S. P. de Oliveira
+e-mail:      jupress@hotmail.com
+created:     20060914
+changed:     20101113
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

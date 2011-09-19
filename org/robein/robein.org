@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D14367636-LROR
+Domain Name:ROBEIN.ORG
+Created On:01-Dec-1999 16:22:50 UTC
+Last Updated On:26-Aug-2010 13:40:31 UTC
+Expiration Date:01-Dec-2015 16:22:50 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25010006-NSI
+Registrant Name:Robein School DIstrict
+Registrant Organization:Robein School DIstrict
+Registrant Street1:200 Campus Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:East Peoria
+Registrant State/Province:IL
+Registrant Postal Code:61611
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jwendelin@YAHOO.COM
+Admin ID:25010009-NSI
+Admin Name:Robein School District
+Admin Organization:Robein School District
+Admin Street1:200 Campus Ave
+Admin Street2:
+Admin Street3:
+Admin City:East Peoria
+Admin State/Province:IL
+Admin Postal Code:61611
+Admin Country:US
+Admin Phone:+1.30969414
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jwendelin@YAHOO.COM
+Tech ID:17936811-NSI
+Tech Name:Mike Whitlow
+Tech Organization:Illinois Century Network
+Tech Street1:211B SW Adams Street
+Tech Street2:
+Tech Street3:
+Tech City:Peoria
+Tech State/Province:IL
+Tech Postal Code:61602
+Tech Country:US
+Tech Phone:+1.3096717681
+Tech Phone Ext.:
+Tech FAX:+1.3096717684
+Tech FAX Ext.:
+Tech Email:mwhitlow@ILLINOIS.NET
+Name Server:NS2.ILLINOIS.NET
+Name Server:NS1.ILLINOIS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

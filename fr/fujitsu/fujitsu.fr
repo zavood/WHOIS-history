@@ -1,0 +1,110 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; fujitsu.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      fujitsu.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    FS2845-FRNIC
+admin-c:     AM1135-FRNIC
+tech-c:      SB526-FRNIC
+tech-c:      CV158-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2692-FRNIC
+registrar:   BLUEGIX
+anniversary: 06/12
+created:     01/01/1995
+last-update: 12/03/2009
+source:      FRNIC
+
+ns-list:     NSL2692-FRNIC
+nserver:     nsl.fujitsu.fr [62.244.109.18]
+nserver:     ns.fujitsu.fr [62.244.109.4]
+nserver:     ns.crt.fr [62.244.78.5]
+nserver:     nscrt.crihan.fr
+source:      FRNIC
+
+registrar:   BLUEGIX
+type:        Isp Option 2
+anonymous:   YES
+registered:  23/05/2002
+source:      FRNIC
+
+nic-hdl:     SB526-FRNIC
+type:        ROLE
+contact:     Support Bluegix
+address:     BlueGIX
+address:     8ter, place Henri d'Astier
+address:     94220 Charenton-le-Pont
+country:     FR
+phone:       +33 4 37 54 18 00
+e-mail:      afnic@bluegix.com
+admin-c:     WA11-FRNIC
+admin-c:     SI17-FRNIC
+admin-c:     PC492-FRNIC
+tech-c:      WA11-FRNIC
+tech-c:      SI17-FRNIC
+tech-c:      PC492-FRNIC
+notify:      afnic@bluegix.com
+changed:     29/09/2006 afnic@bluegix.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     FS2845-FRNIC
+type:        ORGANIZATION
+contact:     FUJITSU SYSTEMS
+address:     8, rue Maryse Hilsz
+address:     31500 Toulouse
+country:     FR
+phone:       +33 5 62 47 58 30
+e-mail:      postmaster@fujitsu.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AM1135-FRNIC
+type:        PERSON
+contact:     Alain Massiot
+address:     Fujitsu Systems Europe
+address:     8, rue Maryse Hilsz
+address:     31500 Toulouse
+country:     FR
+phone:       +33 5 62 47 58 30
+fax-no:      +33 5 62 47 58 40
+e-mail:      postmaster@fujitsu.fr
+changed:     06/12/2004 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CV158-FRNIC
+type:        PERSON
+contact:     Christophe Voisin
+address:     CRT Informatique
+address:     403, route de Darnetal
+address:     76230 Bois-Guillaume
+country:     FR
+phone:       +33 2 35 59 63 30
+fax-no:      +33 2 35 59 63 40
+e-mail:      cv@crt.fr
+changed:     16/09/2002 afnic@bluegix.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

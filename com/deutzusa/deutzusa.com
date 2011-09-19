@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 19-jul-1996
    Expiration Date: 18-jul-2016
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 04:10:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 04:43:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -106,7 +106,7 @@ Deutz Corp.
 
    Record expires on 18-Jul-2016.
    Record created on 19-Jul-1996.
-   Database last updated on 18-Sep-2011 00:00:54 EDT.
+   Database last updated on 19-Sep-2011 00:33:29 EDT.
 
    Domain servers in listed order:
 

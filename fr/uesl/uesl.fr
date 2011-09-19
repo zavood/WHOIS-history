@@ -1,0 +1,102 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; uesl.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      uesl.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UDES20-FRNIC
+admin-c:     AN79-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL8591-FRNIC
+registrar:   GANDI
+anniversary: 15/10
+created:     23/05/2006
+last-update: 15/10/2009
+source:      FRNIC
+
+ns-list:     NSL8591-FRNIC
+nserver:     nss0301504sr.netsecurity.fr [194.206.221.219]
+nserver:     nss0301505sr.netsecurity.fr [194.206.221.220]
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     UDES20-FRNIC
+type:        ORGANIZATION
+contact:     UNION D'ECONOMIE SOCIALE POUR LE LOGEMENT
+address:     66, avenue du Maine
+address:     75014 Paris
+country:     FR
+phone:       +33 1 44 85 81 00
+e-mail:      02b74fa9c1cdc1cab8233b1c5779e5c2-860928@contact.gandi.net
+changed:     14/10/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AN79-FRNIC
+type:        PERSON
+contact:     Alexandre Niel
+address:     45, rue Delizy
+address:     93692 Pantin
+country:     FR
+phone:       +33 1 49 91 27 27
+fax-no:      +33 1 49 91 27 28
+e-mail:      d271ac39957f682ebd385933083132f4-100867@contact.gandi.net
+changed:     06/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

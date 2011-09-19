@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D13402687-LROR
+Domain Name:DCBECU.ORG
+Created On:17-Nov-1999 17:22:13 UTC
+Last Updated On:06-May-2010 00:24:50 UTC
+Expiration Date:17-Nov-2011 17:22:13 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tujaVD0k4UGSNUcz
+Registrant Name:Dallas Cotton Belt ECU
+Registrant Organization:Dallas Cotton Belt ECU
+Registrant Street1:3445 Highland
+Registrant Street2:Suite110
+Registrant Street3:
+Registrant City:Dallas
+Registrant State/Province:TX
+Registrant Postal Code:75228
+Registrant Country:US
+Registrant Phone:+1.2148878000
+Registrant Phone Ext.:
+Registrant FAX:+1.2148878003
+Registrant FAX Ext.:
+Registrant Email:dwayne.buhler@fnf.com
+Admin ID:tu873TnEsZc4GzeN
+Admin Name:Dallas Cotton Belt ECU
+Admin Street1:3445 Highland Road
+Admin Street2:Suite 110
+Admin Street3:
+Admin City:Dallas
+Admin State/Province:TX
+Admin Postal Code:75228
+Admin Country:US
+Admin Phone:+1.2148878000
+Admin Phone Ext.:
+Admin FAX:+1.2148878003
+Admin FAX Ext.:
+Admin Email:kimplowman_dcb@yahoo.com
+Tech ID:tu873TnEsZc4GzeN
+Tech Name:Dallas Cotton Belt ECU
+Tech Street1:3445 Highland Road
+Tech Street2:Suite 110
+Tech Street3:
+Tech City:Dallas
+Tech State/Province:TX
+Tech Postal Code:75228
+Tech Country:US
+Tech Phone:+1.2148878000
+Tech Phone Ext.:
+Tech FAX:+1.2148878003
+Tech FAX Ext.:
+Tech Email:kimplowman_dcb@yahoo.com
+Name Server:DNS1.DONET.COM
+Name Server:DNS2.DONET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

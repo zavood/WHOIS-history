@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 09-feb-1996
    Expiration Date: 10-feb-2014
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 02:56:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 03:52:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: netvigator.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 22:45:53 EDT 2011
+Date and Time of Query: Sun Sep 18 23:42:12 EDT 2011
 Reason Code: IE

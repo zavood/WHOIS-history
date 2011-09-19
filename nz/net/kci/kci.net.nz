@@ -1,0 +1,65 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-19T15:42:55+12:00
+domain_name: kci.net.nz
+query_status: 200 Active
+domain_dateregistered: 2005-11-12T14:16:42+13:00
+domain_datebilleduntil: 2011-11-12T14:16:42+13:00
+domain_datelastmodified: 2010-11-12T01:35:12+13:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Domainz Limited
+registrar_address1: Private Bag 1810
+registrar_city: Wellington
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 473 4567
+registrar_fax: +64 4 473 4569
+registrar_email: 4service@domainz.net.nz
+%
+registrant_contact_name: PlaNet Communications Ltd
+registrant_contact_address1: PO Box 6594
+registrant_contact_address2: Wellesley St
+registrant_contact_city: AUCKLAND 1141
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 9 4165366
+registrant_contact_email: office@pl.net
+%
+admin_contact_name: Roger Genet
+admin_contact_address1: PO Box 6594
+admin_contact_address2: Wellesley St
+admin_contact_city: AUCKLAND 1141
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 9 4165366
+admin_contact_email: office@pl.net
+%
+technical_contact_name: Richard Haakma
+technical_contact_address1: PO Box 6594
+technical_contact_city: Auckland
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 21 631931
+technical_contact_email: richard@pl.net
+%
+ns_ip4_01: 202.14.102.1
+ns_name_01: ns1.kci.net.nz
+ns_ip4_02: 202.14.102.3
+ns_name_02: ns2.kci.net.nz
+ns_name_03: pubsec.domainz.net.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

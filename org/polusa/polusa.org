@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148462920-LROR
+Domain Name:POLUSA.ORG
+Created On:03-Jul-2007 21:47:30 UTC
+Last Updated On:08-Dec-2009 19:50:22 UTC
+Expiration Date:03-Jul-2015 21:47:30 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33543899
+Registrant Name:Elan Hagouel
+Registrant Street1:5344 Laurel Canyon Blvd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Valley Village
+Registrant State/Province:California
+Registrant Postal Code:91607
+Registrant Country:US
+Registrant Phone:+1.8189808366
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:fauxmiragepaint@umail.ucsb.edu
+Admin ID:CR33543901
+Admin Name:Elan Hagouel
+Admin Street1:5344 Laurel Canyon Blvd
+Admin Street2:
+Admin Street3:
+Admin City:Valley Village
+Admin State/Province:California
+Admin Postal Code:91607
+Admin Country:US
+Admin Phone:+1.8189808366
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:fauxmiragepaint@umail.ucsb.edu
+Tech ID:CR33543900
+Tech Name:Elan Hagouel
+Tech Street1:5344 Laurel Canyon Blvd
+Tech Street2:
+Tech Street3:
+Tech City:Valley Village
+Tech State/Province:California
+Tech Postal Code:91607
+Tech Country:US
+Tech Phone:+1.8189808366
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:fauxmiragepaint@umail.ucsb.edu
+Name Server:NS53.HOSTGATOR.COM
+Name Server:NS54.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

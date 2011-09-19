@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156936717-LROR
+Domain Name:DIAMEX.ORG
+Created On:23-Aug-2009 04:41:26 UTC
+Last Updated On:24-May-2011 03:20:18 UTC
+Expiration Date:23-Aug-2012 04:41:26 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR12872140
+Registrant Name:DIAMEX INTERNATIONAL LTDA
+Registrant Organization:DIAMEX INTERNATIONAL LTDA
+Registrant Street1:CRA 51 NRO 34 15
+Registrant Street2:
+Registrant Street3:
+Registrant City:Medellin
+Registrant State/Province:Antioquia
+Registrant Postal Code:00000
+Registrant Country:CO
+Registrant Phone:+57.43990950
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sebastianjarami@gmail.com
+Admin ID:CR12872142
+Admin Name:DIAMEX INTERNATIONAL LTDA
+Admin Organization:DIAMEX INTERNATIONAL LTDA
+Admin Street1:CRA 51 NRO 34 15
+Admin Street2:
+Admin Street3:
+Admin City:Medellin
+Admin State/Province:Antioquia
+Admin Postal Code:00000
+Admin Country:CO
+Admin Phone:+57.43990950
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sebastianjarami@gmail.com
+Tech ID:CR12872141
+Tech Name:DIAMEX INTERNATIONAL LTDA
+Tech Organization:DIAMEX INTERNATIONAL LTDA
+Tech Street1:CRA 51 NRO 34 15
+Tech Street2:
+Tech Street3:
+Tech City:Medellin
+Tech State/Province:Antioquia
+Tech Postal Code:00000
+Tech Country:CO
+Tech Phone:+57.43990950
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sebastianjarami@gmail.com
+Name Server:CEREBRO1.DIAMEX.CO
+Name Server:CEREBRO2.DIAMEX.CO
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

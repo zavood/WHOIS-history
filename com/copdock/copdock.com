@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 22-jan-2008
    Expiration Date: 22-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 03:50:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 04:06:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain copdock.com
-% Timestamp: 2011-09-18 05:51:05
+% Timestamp: 2011-09-19 06:07:13
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

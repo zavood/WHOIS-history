@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D74567554-LROR
+Domain Name:E-SHCI.ORG
+Created On:02-Jul-2001 19:27:01 UTC
+Last Updated On:10-May-2010 13:32:43 UTC
+Expiration Date:02-Jul-2012 19:27:01 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30892492
+Registrant Name:KJ King
+Registrant Organization:Specialized Health Concepts, I
+Registrant Street1:1500 SE 13TH ST
+Registrant Street2:
+Registrant Street3:
+Registrant City:DEERFIELD BCH
+Registrant State/Province:Florida
+Registrant Postal Code:33441-7138
+Registrant Country:US
+Registrant Phone:+1.8004737357
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@e-shci.com
+Admin ID:CR30892494
+Admin Name:KJ King
+Admin Organization:Specialized Health Concepts, I
+Admin Street1:1500 SE 13TH ST
+Admin Street2:
+Admin Street3:
+Admin City:DEERFIELD BCH
+Admin State/Province:Florida
+Admin Postal Code:33441-7138
+Admin Country:US
+Admin Phone:+1.8004737357
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@e-shci.com
+Tech ID:CR30892493
+Tech Name:KJ King
+Tech Organization:Specialized Health Concepts, I
+Tech Street1:1500 SE 13TH ST
+Tech Street2:
+Tech Street3:
+Tech City:DEERFIELD BCH
+Tech State/Province:Florida
+Tech Postal Code:33441-7138
+Tech Country:US
+Tech Phone:+1.8004737357
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@e-shci.com
+Name Server:NS.TRACI.NET
+Name Server:NS2.TRACI.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

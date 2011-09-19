@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D51084175-LROR
+Domain Name:OSUMU.ORG
+Created On:04-Jan-2001 20:44:32 UTC
+Last Updated On:11-May-2011 20:32:02 UTC
+Expiration Date:04-Jan-2016 20:44:32 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37484118
+Registrant Name:Network Engineering
+Registrant Organization:Oregon State University
+Registrant Street1:Kerr Admin B211
+Registrant Street2:Oregon State University
+Registrant Street3:
+Registrant City:Corvallis
+Registrant State/Province:Oregon
+Registrant Postal Code:97331
+Registrant Country:US
+Registrant Phone:+1.5417379187
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@oregonstate.edu
+Admin ID:CR37484120
+Admin Name:Network Engineering
+Admin Organization:Oregon State University
+Admin Street1:Kerr Admin B211
+Admin Street2:Oregon State University
+Admin Street3:
+Admin City:Corvallis
+Admin State/Province:Oregon
+Admin Postal Code:97331
+Admin Country:US
+Admin Phone:+1.5417379187
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@oregonstate.edu
+Tech ID:CR37484119
+Tech Name:Network Engineering
+Tech Organization:Oregon State University
+Tech Street1:Kerr Admin B211
+Tech Street2:Oregon State University
+Tech Street3:
+Tech City:Corvallis
+Tech State/Province:Oregon
+Tech Postal Code:97331
+Tech Country:US
+Tech Phone:+1.5417379187
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@oregonstate.edu
+Name Server:NS1.OREGONSTATE.EDU
+Name Server:NS2.OREGONSTATE.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

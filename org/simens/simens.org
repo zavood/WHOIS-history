@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D150548620-LROR
+Domain Name:SIMENS.ORG
+Created On:04-Jan-2008 20:26:13 UTC
+Last Updated On:08-Jan-2011 11:17:04 UTC
+Expiration Date:04-Jan-2012 20:26:13 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34612784
+Registrant Name:Robin Gupta
+Registrant Organization:www.RobinGupta.Com
+Registrant Street1:Robin Gupta, 45-Nagpal Colony
+Registrant Street2:Lane No -4
+Registrant Street3:
+Registrant City:Sri Ganganagar
+Registrant State/Province:Rajasthan
+Registrant Postal Code:335001
+Registrant Country:IN
+Registrant Phone:+91.9929784567
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:Support@RobinGupta.Com
+Admin ID:CR34612786
+Admin Name:Robin Gupta
+Admin Organization:www.RobinGupta.Com
+Admin Street1:Robin Gupta, 45-Nagpal Colony
+Admin Street2:Lane No -4
+Admin Street3:
+Admin City:Sri Ganganagar
+Admin State/Province:Rajasthan
+Admin Postal Code:335001
+Admin Country:IN
+Admin Phone:+91.9929784567
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:Support@RobinGupta.Com
+Tech ID:CR34612785
+Tech Name:Robin Gupta
+Tech Organization:www.RobinGupta.Com
+Tech Street1:Robin Gupta, 45-Nagpal Colony
+Tech Street2:Lane No -4
+Tech Street3:
+Tech City:Sri Ganganagar
+Tech State/Province:Rajasthan
+Tech Postal Code:335001
+Tech Country:IN
+Tech Phone:+91.9929784567
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:Support@RobinGupta.Com
+Name Server:NS1.SEOSCHEMES.COM
+Name Server:NS2.SEOSCHEMES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

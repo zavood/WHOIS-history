@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 19-apr-2010
    Expiration Date: 19-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 03:42:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 03:58:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,66 +53,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-******************************************************************
-Registrar:	123Reg/Webfusion
-Url:		http://www.123-reg.co.uk
-
-This domain is provided by 123-reg. We're the UK's largest
-registrar with over 2.7 million domains sold. We also provide
-cheap, easy website creation.
-******************************************************************
-
-Domain Name: 		COMICSFORIPAD.COM
-Created Date:		19-Apr-2010
-Expiry Date:		19-Apr-2012
-Nameserver:		ns.123-reg.co.uk
-Nameserver:		ns2.123-reg.co.uk
-Registrant Name:	Identity Protection Service
-Registrant Company:	Identity Protect Limited
-Registrant Address:	PO BOX 1125
-Registrant Address:
-Registrant Address:
-Registrant Address:	Guildford
-Registrant Address:	Surrey
-Registrant Address:	GU1 9LU
-Registrant Address:	United Kingdom
-Technical Name:		Identity Protection Service
-Technical Company:	Identity Protect Limited
-Technical Address:	PO BOX 1125
-Technical Address:
-Technical Address:
-Technical Address:	Guildford
-Technical Address:	Surrey
-Technical Address:	GU1 9LU
-Technical Address:	United Kingdom
-Technical Email:	comicsforipad.com@identity-protect.org
-Technical Tel:		+44.1483307527
-Technical Fax:		+44.1483304031
-Administrative Name:	Identity Protection Service
-Administrative Company:	Identity Protect Limited
-Administrative Address:	PO BOX 1125
-Administrative Address:
-Administrative Address:
-Administrative Address:	Guildford
-Administrative Address:	Surrey
-Administrative Address:	GU1 9LU
-Administrative Address:	United Kingdom
-Administrative Email:	comicsforipad.com@identity-protect.org
-Administrative Tel:	+44.1483307527
-Administrative Fax:	+44.1483304031
-
-The Data in this WHOIS database is provided
-for information purposes only, and is designed to assist persons in
-obtaining information related to domain name registration records.
-It's accuracy is not guarenteed. By submitting a
-WHOIS query, you agree that you will use this Data only for lawful
-purposes and that, under no circumstances will you use this Data to:
-(1) allow, enable, or otherwise support the transmission of mass
-unsolicited, commercial advertising or solicitations via e-mail(spam);
- or (2) enable high volume, automated, electronic processes that
-apply to this WHOIS or any of its related systems. The provider of
-this WHOIS reserves the right to modify these terms at any time.
-By submitting this query, you agree to abide by this policy.
-
-LACK OF A DOMAIN RECORD IN THE WHOIS DATABASE DOES
-NOT INDICATE DOMAIN AVAILABILITY.
+comicsforipad.com not found.

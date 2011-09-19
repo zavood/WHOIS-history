@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156715254-LROR
+Domain Name:DAYTONTEMPLE.ORG
+Created On:23-Jul-2009 14:31:19 UTC
+Last Updated On:29-Aug-2011 20:48:35 UTC
+Expiration Date:23-Jul-2012 14:31:19 UTC
+Sponsoring Registrar:Above.com Pty Ltd (R1386-LROR)
+Status:OK
+Registrant ID:above-privacy
+Registrant Name:Host Master
+Registrant Organization:Above.com Domain Privacy
+Registrant Street1:8  East Concourse
+Registrant Street2:
+Registrant Street3:
+Registrant City:Beaumaris
+Registrant State/Province:VIC
+Registrant Postal Code:3193
+Registrant Country:AU
+Registrant Phone:+613.95897946
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@above.com
+Admin ID:above-privacy
+Admin Name:Host Master
+Admin Organization:Above.com Domain Privacy
+Admin Street1:8  East Concourse
+Admin Street2:
+Admin Street3:
+Admin City:Beaumaris
+Admin State/Province:VIC
+Admin Postal Code:3193
+Admin Country:AU
+Admin Phone:+613.95897946
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@above.com
+Tech ID:above-privacy
+Tech Name:Host Master
+Tech Organization:Above.com Domain Privacy
+Tech Street1:8  East Concourse
+Tech Street2:
+Tech Street3:
+Tech City:Beaumaris
+Tech State/Province:VIC
+Tech Postal Code:3193
+Tech Country:AU
+Tech Phone:+613.95897946
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@above.com
+Name Server:NS1.SEDOPARKING.COM
+Name Server:NS2.SEDOPARKING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,21 @@
+
+domain:   avoinyle.fi
+descr:    YLEISRADIO
+descr:    02154388
+address:  Tietohallinto
+address:  PL60
+address:  00024
+address:  YLEISRADIO
+phone:    +358 9 1480 5756
+status:   Granted
+created:  28.9.2009
+expires:  28.9.2012
+nserver:  ns1-fin.global.sonera.fi [Ok]
+nserver:  ns2-fin.global.sonera.fi [Ok]
+nserver:  ns2-usa.global.sonera.net [Ok]
+nserver:  ns1-swe.global.sonera.se [Ok]
+dnssec:   no
+modified: 28.9.2009
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

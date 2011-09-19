@@ -1,0 +1,109 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 05:41:55 2011
+
+domain:       satjam.cz
+registrant:   SB:SATJAM
+admin-c:      KAMARYTRENE
+nsset:        NSS:ISSACZECH2-CZ:2
+registrar:    REG-MIRAMO
+status:       paid and in zone
+registered:   20.01.1998 01:00:00
+changed:      10.03.2008 15:16:12
+expire:       06.10.2012
+
+contact:      SB:SATJAM
+org:          SATJAM, s.r.o.
+name:         Ji&Aring;™&Atilde;&shy; &Auml;Œernota
+address:      Michalsk&Atilde;&iexcl; 18
+address:      Ostrava
+address:      710 00
+address:      CZ
+e-mail:       satjam@satjam.cz
+registrar:    REG-MIRAMO
+created:      22.03.2004 15:20:00
+changed:      17.09.2007 21:15:00
+
+contact:      KAMARYTRENE
+name:         Ren&Atilde;&copy; Kamaryt
+address:      Michalsk&Atilde;&iexcl; 1032/21
+address:      Slezsk&Atilde;&iexcl; Ostrava
+address:      71000
+address:      CZ
+e-mail:       rene.kamaryt@satjam.cz
+registrar:    REG-MIRAMO
+created:      17.09.2007 12:45:00
+changed:      10.03.2008 15:16:11
+
+nsset:        NSS:ISSACZECH2-CZ:2
+nserver:      fobos.proit.cz
+nserver:      pc1.satjam.cz (90.181.133.226)
+tech-c:       SB:ISSACZECH2-CZ
+tech-c:       ISSA-KOLESAR
+tech-c:       ISSA-NOGA
+tech-c:       ISSA-LIBERDA
+registrar:    REG-MIRAMO
+created:      01.10.2007 02:00:00
+changed:      27.10.2010 17:08:00
+
+contact:      SB:ISSACZECH2-CZ
+org:          ISSA CZECH s.r.o.
+name:         ISSA CZECH s.r.o.
+address:      Hru&Aring;&iexcl;ovsk&Atilde;&iexcl; 3203/13
+address:      Moravska Ostrava
+address:      702 00
+address:      CZ
+e-mail:       issa@issa.cz
+registrar:    REG-MIRAMO
+created:      10.08.2001 22:13:00
+changed:      27.11.2010 19:39:46
+
+contact:      ISSA-KOLESAR
+name:         Michal Kolesar
+address:      Bohuslava Martinu 722
+address:      Ostrava-Poruba
+address:      708 00
+address:      CZ
+e-mail:       michal.kolesar@issa.cz
+registrar:    REG-MIRAMO
+created:      23.06.2006 13:05:00
+
+contact:      ISSA-NOGA
+name:         Lubomir Noga
+address:      Kon&Auml;›vova 81
+address:      Ostrava - He&Aring;™manice
+address:      71300
+address:      CZ
+phone:        +420.604270644
+e-mail:       lubomir.noga@issa.cz
+registrar:    REG-MIRAMO
+created:      03.09.2007 11:25:00
+
+contact:      ISSA-LIBERDA
+name:         Marcel Liberda
+address:      P&Aring;™emyslovc&Aring;&macr; 68
+address:      Ostrava
+address:      709 00
+address:      CZ
+phone:        +420.604270569
+registrar:    REG-MIRAMO
+created:      02.12.2003 10:50:00
+changed:      30.07.2009 16:19:56
+
+

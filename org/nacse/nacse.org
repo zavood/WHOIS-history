@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D48553-LROR
+Domain Name:NACSE.ORG
+Created On:24-Feb-1996 05:00:00 UTC
+Last Updated On:18-Oct-2010 19:07:11 UTC
+Expiration Date:25-Feb-2017 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25363054-NSI
+Registrant Name:NorthwestAlliancefor Computational Scienceand Engineering (NACSE)
+Registrant Organization:NorthwestAlliancefor Computational Scienceand Engineering (NACSE)
+Registrant Street1:Oregon State University
+Registrant Street2:CH2MHill Alumni Center 218
+Registrant Street3:
+Registrant City:Corvallis
+Registrant State/Province:OR
+Registrant Postal Code:97331
+Registrant Country:US
+Registrant Phone:+1.5417376601
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kennino@nacse.org
+Admin ID:35861578-NSI
+Admin Name:NACSE
+Admin Street1:Kelly Enginerring Center
+Admin Street2:
+Admin Street3:
+Admin City:Corvallis
+Admin State/Province:OR
+Admin Postal Code:97331
+Admin Country:US
+Admin Phone:+1.5417376604
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:leanne@nacse.org
+Tech ID:25363054-NSI
+Tech Name:NorthwestAlliancefor Computational Scienceand Engineering (NACSE)
+Tech Organization:NorthwestAlliancefor Computational Scienceand Engineering (NACSE)
+Tech Street1:Oregon State University
+Tech Street2:CH2MHill Alumni Center 218
+Tech Street3:
+Tech City:Corvallis
+Tech State/Province:OR
+Tech Postal Code:97331
+Tech Country:US
+Tech Phone:+1.5417376601
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:kennino@nacse.org
+Name Server:NS1.NERO.NET
+Name Server:NS1.OREGONSTATE.EDU
+Name Server:NS2.OREGONSTATE.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

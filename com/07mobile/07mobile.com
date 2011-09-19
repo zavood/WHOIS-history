@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 25-oct-2007
    Expiration Date: 25-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 13:05:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 04:06:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -59,8 +59,8 @@ Registrar:		Domainmonster.com
 			The friendly future of domain name registration.
 
 Domain Name: 		07MOBILE.COM
-Date Created:		Wed 08-October-2008
-Date Expires:		Tue 25-October-2011
+Created Date:		08-Oct-2008
+Expiry Date:		25-Oct-2011
 Nameserver:		ns1.domainmonster.com
 Nameserver:		ns2.domainmonster.com
 Nameserver:		ns3.domainmonster.com
@@ -82,7 +82,7 @@ Technical Address:	Oldham
 Technical Address:	Lancashire
 Technical Address:	OL1 2XG
 Technical Address:	United Kingdom
-Technical E-Mail:	telecomdata@hotmail.com
+Technical Email:	telecomdata@hotmail.com
 Technical Tel:		+44.8445670302
 Technical Fax:
 Administrative Name:	Paul Bridgeman
@@ -94,7 +94,7 @@ Administrative Address:	Oldham
 Administrative Address:	Lancashire
 Administrative Address:	OL1 2XG
 Administrative Address:	United Kingdom
-Administrative E-Mail:	telecomdata@hotmail.com
+Administrative Email:	telecomdata@hotmail.com
 Administrative Tel:	+44.8445670302
 Administrative Fax:
 
