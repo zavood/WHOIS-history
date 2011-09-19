@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D32203449-LROR
+Domain Name:BLAUFUSS.ORG
+Created On:01-Aug-2000 17:58:59 UTC
+Last Updated On:17-Sep-2011 01:33:03 UTC
+Expiration Date:01-Aug-2013 17:58:59 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:908734203b9ac044
+Registrant Name:Domain Discreet
+Registrant Organization:ATTN: blaufuss.org
+Registrant Street1:Rua Dr. Brito Camara, n 20, 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Funchal
+Registrant State/Province:Madeira
+Registrant Postal Code:9000-039
+Registrant Country:PT
+Registrant Phone:+361.19027495331
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:7503af090a16121e71738bf11c0c77ad@domaindiscreet.com
+Admin ID:169901103af18645
+Admin Name:Domain Discreet
+Admin Organization:ATTN: blaufuss.org
+Admin Street1:Rua Dr. Brito Camara, n 20, 1
+Admin Street2:
+Admin Street3:
+Admin City:Funchal
+Admin State/Province:Madeira
+Admin Postal Code:9000-039
+Admin Country:PT
+Admin Phone:+361.19027495331
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:7503af060a16121e64a632c6dc884207@domaindiscreet.com
+Tech ID:128500103bdce688
+Tech Name:Domain Discreet
+Tech Organization:ATTN: blaufuss.org
+Tech Street1:Rua Dr. Brito Camara, n 20, 1
+Tech Street2:
+Tech Street3:
+Tech City:Funchal
+Tech State/Province:Madeira
+Tech Postal Code:9000-039
+Tech Country:PT
+Tech Phone:+361.19027495331
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:7503af0a0a16121e788016b83364398b@domaindiscreet.com
+Name Server:NS.INMOTIONHOSTING.COM
+Name Server:NS2.INMOTIONHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

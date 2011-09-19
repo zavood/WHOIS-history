@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D11642516-LROR
+Domain Name:NOBELPEACEPRIZE.ORG
+Created On:24-Oct-1999 14:43:17 UTC
+Last Updated On:10-May-2010 09:10:55 UTC
+Expiration Date:24-Oct-2012 14:43:17 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:35938935-NSI
+Registrant Name:Norwegian Nobel Institute
+Registrant Organization:Norwegian Nobel Institute
+Registrant Street1:Henrik Ibsens gate 51
+Registrant Street2:
+Registrant Street3:
+Registrant City:Oslo
+Registrant State/Province:
+Registrant Postal Code:NO-0255
+Registrant Country:NO
+Registrant Phone:+47.22129300
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:35938936-NSI
+Admin Name:Bjorn Vangen
+Admin Organization:Norwegian Nobel Institute
+Admin Street1:Henrik Ibsens gate 51
+Admin Street2:
+Admin Street3:
+Admin City:Oslo
+Admin State/Province:
+Admin Postal Code:NO-0255
+Admin Country:NO
+Admin Phone:+47.22129300
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bhv@nobel.no
+Tech ID:35938936-NSI
+Tech Name:Bjorn Vangen
+Tech Organization:Norwegian Nobel Institute
+Tech Street1:Henrik Ibsens gate 51
+Tech Street2:
+Tech Street3:
+Tech City:Oslo
+Tech State/Province:
+Tech Postal Code:NO-0255
+Tech Country:NO
+Tech Phone:+47.22129300
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bhv@nobel.no
+Name Server:DNS01.TDC.NO
+Name Server:DNS02.TDC.NO
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D997644-LROR
+Domain Name:VALLEYFORGE.ORG
+Created On:30-May-1996 04:00:00 UTC
+Last Updated On:30-Mar-2011 06:42:38 UTC
+Expiration Date:29-May-2016 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:16568987-NSI
+Registrant Name:Valley Forge Convention &amp; Visitors Burea
+Registrant Organization:Valley Forge Convention &amp; Visitors Burea
+Registrant Street1:1000 First Avenue
+Registrant Street2:Suite 101
+Registrant Street3:
+Registrant City:King of Prussia
+Registrant State/Province:PA
+Registrant Postal Code:19406
+Registrant Country:US
+Registrant Phone:+1.6108341550
+Registrant Phone Ext.:
+Registrant FAX:+1.231231234
+Registrant FAX Ext.:
+Registrant Email:chen@valleyforge.org
+Admin ID:16568987-NSI
+Admin Name:Valley Forge Convention &amp; Visitors Burea
+Admin Organization:Valley Forge Convention &amp; Visitors Burea
+Admin Street1:1000 First Avenue
+Admin Street2:Suite 101
+Admin Street3:
+Admin City:King of Prussia
+Admin State/Province:PA
+Admin Postal Code:19406
+Admin Country:US
+Admin Phone:+1.6108341550
+Admin Phone Ext.:
+Admin FAX:+1.231231234
+Admin FAX Ext.:
+Admin Email:chen@valleyforge.org
+Tech ID:5358805-NSI
+Tech Name:Network Solutions, LLC.
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:NS75.WORLDNIC.COM
+Name Server:NS76.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

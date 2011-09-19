@@ -1,0 +1,38 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: GAS545D-NORID
+Domain Name................: gasta.no
+Domain Holder Handle.......: GRA189O-NORID
+Registrar Handle...........: REG885-NORID
+Legal-c Handle.............: VB839P-NORID
+Tech-c Handle..............: FIDD4R-NORID
+Name Server Handle.........: PC15H-NORID
+Name Server Handle.........: PC21H-NORID
+Name Server Handle.........: RH10H-NORID
+Name Server Handle.........: RH6H-NORID
+
+Additional information:
+Created:         2001-05-11
+Last updated:    2011-05-13
+
+NORID Handle...............: GRA189O-NORID
+Type.......................: organization
+Name.......................: GASTA DESIGN &amp; KOMMUNIKASJON AS
+Id Type....................: organization_number
+Id Number..................: 979329989
+Registrar Handle...........: REG885-NORID
+Post Address...............: Trolladalen 30
+Postal Code................: NO-6852
+Postal Area................: Sogndal
+Country....................: NO
+Phone Number...............: +47.57627770
+Fax Number.................: +47.57674949
+Email Address..............: post@gasta.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2011-02-01
+

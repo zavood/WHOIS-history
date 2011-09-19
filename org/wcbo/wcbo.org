@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96671154-LROR
+Domain Name:WCBO.ORG
+Created On:26-Mar-2003 13:33:34 UTC
+Last Updated On:25-May-2011 00:25:52 UTC
+Expiration Date:26-Mar-2012 13:33:34 UTC
+Sponsoring Registrar:1st Antagus Internet GmbH (R1782-LROR)
+Status:OK
+Registrant ID:RUIEA0001-ANT
+Registrant Name:Rubingh Iepe Benne Tee
+Registrant Organization:privat
+Registrant Street1:Kastanienallee 12
+Registrant Street2:
+Registrant Street3:
+Registrant City:Berlin
+Registrant State/Province:
+Registrant Postal Code:10435
+Registrant Country:DE
+Registrant Phone:+49.304496300
+Registrant Phone Ext.:
+Registrant FAX:+49.304496300
+Registrant FAX Ext.:
+Registrant Email:rubingh@iepe.net
+Admin ID:RUIEA0001-ANT
+Admin Name:Rubingh Iepe Benne Tee
+Admin Organization:privat
+Admin Street1:Kastanienallee 12
+Admin Street2:
+Admin Street3:
+Admin City:Berlin
+Admin State/Province:
+Admin Postal Code:10435
+Admin Country:DE
+Admin Phone:+49.304496300
+Admin Phone Ext.:
+Admin FAX:+49.304496300
+Admin FAX Ext.:
+Admin Email:rubingh@iepe.net
+Tech ID:HOINA0002-ANT
+Tech Name:Hostmaster IN-Berlin e.V.
+Tech Organization:Individual Network Berlin e.V.
+Tech Street1:Lehrter Str. 53
+Tech Street2:
+Tech Street3:
+Tech City:Berlin
+Tech State/Province:Berlin
+Tech Postal Code:10557
+Tech Country:DE
+Tech Phone:+49.3045494343
+Tech Phone Ext.:
+Tech FAX:+49.3045494344
+Tech FAX Ext.:
+Tech Email:domain@in-berlin.de
+Name Server:NS1.IN-BERLIN.DE
+Name Server:NS2.IN-BERLIN.DE
+Name Server:NS3.IN-BERLIN.DE
+Name Server:NS4.IN-BERLIN.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

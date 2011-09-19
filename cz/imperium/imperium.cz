@@ -1,0 +1,63 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 04:35:55 2011
+
+domain:       imperium.cz
+registrant:   SB:TIBOR-CZ
+admin-c:      RG3227-RIPE
+nsset:        NSS:TIBOR-CZ:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   17.08.1998 02:00:00
+changed:      10.09.2007 21:05:00
+expire:       27.10.2011
+
+contact:      SB:TIBOR-CZ
+name:         Robert Gajdzica
+address:      n&Atilde;&iexcl;m. Dr. V. Hol&Atilde;&copy;ho 17
+address:      Praha 8
+address:      180 00
+address:      CZ
+e-mail:       tibor@imperium.cz
+registrar:    REG-ACTIVE24
+created:      19.11.2002 18:20:00
+changed:      02.10.2010 20:46:29
+
+contact:      RG3227-RIPE
+name:         Robert Gajdzica
+address:      K Cervenemu dvoru 3156/25
+address:      Praha 3
+address:      130 00
+address:      CZ
+phone:        +420 284084680
+fax-no:       +420 284084699
+e-mail:       robert.gajdzica@imaginet.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      19.05.2003 16:45:00
+
+nsset:        NSS:TIBOR-CZ:1
+nserver:      mail.imperium.cz (90.183.231.81)
+nserver:      ns.ambition.cz
+tech-c:       SB:TIBOR-CZ
+tech-c:       RG3227-RIPE
+registrar:    REG-ZONER
+created:      01.10.2007 02:00:00
+
+

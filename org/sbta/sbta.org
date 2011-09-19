@@ -1,0 +1,88 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D10310474-LROR
+Domain Name:SBTA.ORG
+Created On:17-Sep-1999 00:18:44 UTC
+Last Updated On:18-Sep-2011 10:25:43 UTC
+Expiration Date:17-Sep-2012 00:18:44 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR30581708
+Registrant Name:Michael Nicholson
+Registrant Organization:Nicholson Solutions
+Registrant Street1:Po Box 158
+Registrant Street2:
+Registrant Street3:
+Registrant City:Twin Peaks
+Registrant State/Province:California
+Registrant Postal Code:92391
+Registrant Country:US
+Registrant Phone:+1.9093363919
+Registrant Phone Ext.:
+Registrant FAX:+1.90933636919
+Registrant FAX Ext.:
+Registrant Email:Domains@NicholsonSolutions.com
+Admin ID:CR30581710
+Admin Name:Michael Nicholson
+Admin Organization:Nicholson Solutions
+Admin Street1:Po Box 158
+Admin Street2:
+Admin Street3:
+Admin City:Twin Peaks
+Admin State/Province:California
+Admin Postal Code:92391
+Admin Country:US
+Admin Phone:+1.9093363919
+Admin Phone Ext.:
+Admin FAX:+1.90933636919
+Admin FAX Ext.:
+Admin Email:Domains@NicholsonSolutions.com
+Tech ID:CR30581709
+Tech Name:Michael Nicholson
+Tech Organization:Nicholson Solutions
+Tech Street1:Po Box 158
+Tech Street2:
+Tech Street3:
+Tech City:Twin Peaks
+Tech State/Province:California
+Tech Postal Code:92391
+Tech Country:US
+Tech Phone:+1.9093363919
+Tech Phone Ext.:
+Tech FAX:+1.90933636919
+Tech FAX Ext.:
+Tech Email:Domains@NicholsonSolutions.com
+Name Server:NS01.DOMAINCONTROL.COM
+Name Server:NS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

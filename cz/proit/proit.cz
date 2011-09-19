@@ -1,0 +1,91 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 04:27:04 2011
+
+domain:       proit.cz
+registrant:   SB:PROIT
+admin-c:      MDPROIT
+temp-c:       JKPROIT
+temp-c:       VDPROIT
+nsset:        PROIT_PODA
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   02.06.2000 18:11:00
+changed:      26.08.2011 16:01:40
+expire:       08.06.2012
+
+contact:      SB:PROIT
+org:          Pro IT, a.s.
+name:         Pro IT, a.s.
+address:      Varensk&Atilde;&iexcl; 51
+address:      Ostrava
+address:      70200
+address:      CZ
+e-mail:       martin.dusek@proit.cz
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      22.09.2005 09:15:00
+
+contact:      MDPROIT
+name:         Martin Dusek
+address:      Varensk&Atilde;&iexcl; 51
+address:      Ostrava
+address:      70200
+address:      CZ
+phone:        +420.604297797
+fax-no:       +420.596658432
+e-mail:       martin.dusek@proit.cz
+registrar:    REG-INTERNET-CZ
+created:      19.09.2001 09:36:00
+changed:      22.09.2005 09:25:00
+
+contact:      JKPROIT
+name:         Jiri Kolonicny
+address:      Varenska 51
+address:      Ostrava
+address:      702 00
+address:      CZ
+phone:        +420 596658429 ;+420 604297788
+fax-no:       +420 596658431
+e-mail:       jiri.kolonicny@proit.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+changed:      19.09.2001 07:36:00
+
+contact:      VDPROIT
+name:         Vitezslav Dorazil
+address:      Varenska 51
+address:      Ostrava
+address:      70200
+address:      CZ
+phone:        +420.596658429
+fax-no:       +420.596658432
+e-mail:       vitezslav.dorazil@proit.cz
+registrar:    REG-INTERNET-CZ
+created:      26.04.2004 15:35:00
+changed:      14.05.2004 15:35:00
+
+nsset:        PROIT_PODA
+nserver:      fobos.proit.cz (46.47.159.160)
+nserver:      fobos2.proit.cz (46.47.159.130)
+tech-c:       VDPROIT
+registrar:    REG-INTERNET-CZ
+created:      26.08.2011 16:01:37
+
+
