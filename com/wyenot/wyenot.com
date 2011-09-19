@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 06-dec-2000
    Expiration Date: 06-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 18:27:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 07:03:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -72,7 +72,7 @@ status:       lock
 created:      2000-12-06 17:30:31 UTC
 modified:     2005-04-24 15:23:08 UTC
 expires:      2011-12-06 17:30:31 UTC
-query-source: 174.142.225.246
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-1526
 person:       GET FREE DOMAINS FROM ----- www.uk2.net -----
@@ -86,8 +86,8 @@ country:      GB
 phone:        +44.2079871200
 
 source:       joker.com live whois service
-query-time:   0.031327
-db-updated:   2011-09-15 18:28:01
+query-time:   0.022939
+db-updated:   2011-09-19 07:04:01
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

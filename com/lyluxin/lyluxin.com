@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 23-may-2007
    Expiration Date: 23-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 06:07:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 07:40:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... lyluxin.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc399457612-cn
-Registrant Name ................. jing nie
-Registrant Organization ......... niejing
-Registrant Address .............. linyi
-Registrant City ................. linyi
-Registrant Province/State ....... shandong
-Registrant Postal Code .......... 276000
-Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.05393129297 -
-Registrant Fax .................. +86.05393129297 -
-Registrant Email ................ chuonv@163.com
-Administrative ID ............... hc199457612-cn
-Administrative Name ............. niejing
-Administrative Organization ..... niejing
-Administrative Address .......... Shandong Linyi Taoyuankejiguangchang 401
-Administrative City ............. Linyi
-Administrative Province/State ... Shandong
-Administrative Postal Code ...... 276000
-Administrative Country Code ..... CN
-Administrative Phone Number ..... 86-5398797605-1- -
-Administrative Fax .............. 86-5397359808-1- -
-Administrative Email ............ ac@shangtong.com
-Billing ID ...................... hc776106868-cn
-Billing Name ....................  Yuanyong
-Billing Organization ............  Yuanyong
-Billing Address ................. Shandong Linyi Taoyuankejiguangchang 401
-Billing City .................... Linyi
-Billing Province/State .......... Shandong
-Billing Postal Code ............. 276000
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.5398797605 - 1
-Billing Fax ..................... +86.5397359808 - 1
-Billing Email ................... ac@shangtong.com
-Technical ID .................... hc799457612-cn
-Technical Name ..................  Yuanyong
-Technical Organization ..........  Yuanyong
-Technical Address ............... Shandong Linyi Taoyuankejiguangchang 401
-Technical City .................. Linyi
-Technical Province/State ........ Shandong
-Technical Postal Code ........... 276000
-Technical Country Code .......... CN
-Technical Phone Number .......... +86.5398797605 - 1
-Technical Fax ................... +86.5397359808 - 1
-Technical Email ................. ac@shangtong.com
-Expiration Date ................. 2012-05-24 01:01:59

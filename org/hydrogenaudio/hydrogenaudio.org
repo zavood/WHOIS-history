@@ -21,7 +21,6 @@ Last Updated On:13-Sep-2011 02:49:03 UTC
 Expiration Date:21-Sep-2012 00:14:11 UTC
 Sponsoring Registrar:eNom, Inc. (R39-LROR)
 Status:CLIENT TRANSFER PROHIBITED
-Status:RENEWPERIOD
 Registrant ID:E7F383DADAF91190
 Registrant Name:Darin Morrison
 Registrant Organization:Darin Morrison

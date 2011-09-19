@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 03-feb-2005
    Expiration Date: 03-feb-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:03:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 07:00:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,7 +73,7 @@ Short, Doug
 
    Record expires on 03-Feb-2015.
    Record created on 03-Feb-2005.
-   Database last updated on 14-Sep-2011 17:53:35 EDT.
+   Database last updated on 19-Sep-2011 02:50:32 EDT.
 
    Domain servers in listed order:
 

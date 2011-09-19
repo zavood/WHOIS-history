@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 01-feb-2008
    Expiration Date: 01-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 15:25:04 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 07:19:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,4 +51,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-You have exceeded your access quota. Please try again later.
+Domain Name: myyoungsex.com
+Registered at http://www.dynadot.com
+
+Registrant:
+Frank Simson c/o Dynadot Privacy
+PO Box 701
+San Mateo, CA 94401
+United States
+
+Administrative Contact:
+Frank Simson c/o Dynadot Privacy
+PO Box 701
+San Mateo, CA 94401
+United States
+privacy@dynadot.com
+1-650-585-4708
+
+Technical Contact:
+Frank Simson c/o Dynadot Privacy
+PO Box 701
+San Mateo, CA 94401
+United States
+privacy@dynadot.com
+1-650-585-4708
+
+Record expires on 2012/02/01 UTC
+Record created on 2008/02/01 UTC
+
+Domain servers in listed order:
+ns1.dynadot.com
+ns2.dynadot.com
+
+
+&gt;&gt;&gt; Last update of whois database: 2011/09/19 00:17:19 PST &lt;&lt;&lt;
+

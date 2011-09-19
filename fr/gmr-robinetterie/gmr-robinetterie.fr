@@ -1,0 +1,113 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; gmr-robinetterie.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      gmr-robinetterie.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    GMRG1-FRNIC
+admin-c:     RS1453-FRNIC
+tech-c:      OH251-FRNIC
+tech-c:      RS1452-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL13195-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 04/12
+created:     06/07/1999
+last-update: 04/12/2007
+source:      FRNIC
+
+ns-list:     NSL13195-FRNIC
+nserver:     ns6.oleane.net
+nserver:     ns7.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     GMRG1-FRNIC
+type:        ORGANIZATION
+contact:     G M R GAUTHIER MAITRE ROBINETTERIE
+address:     22, passage Faugier
+address:     69007 Lyon
+country:     FR
+phone:       +33 4 78 58 50 37
+fax-no:      +33 4 72 09 10 19
+e-mail:      remi.seux@gmr-robinetterie.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     RS1453-FRNIC
+type:        PERSON
+contact:     Remi Seux
+address:     Gmr Gauthier Maitre Robinetterie
+address:     221, avenue Francis de Pressence
+address:     69200 V&eacute;nissieux
+country:     FR
+phone:       +33 4 78 58 50 37
+fax-no:      +33 4 72 09 10 19
+e-mail:      REMI.SEUX@gmr-robinetterie.fr
+changed:     03/12/2007 robot-fr@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     RS1452-FRNIC
+type:        PERSON
+contact:     Remi Seux
+address:     Gmr
+address:     221, avenue Francis de Pressence
+address:     69200 V&eacute;nissieux
+country:     FR
+phone:       +33 4 78 58 50 37
+fax-no:      +33 4 72 09 10 19
+e-mail:      REMI.SEUX@gmr-robinetterie.fr
+changed:     03/12/2007 robot-fr@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

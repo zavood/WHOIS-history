@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 10-jun-2004
    Expiration Date: 10-jun-2014
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 14:21:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 07:19:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: ucamera.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 10:17:32 EDT 2011
+Date and Time of Query: Mon Sep 19 03:15:37 EDT 2011
 Reason Code: IE

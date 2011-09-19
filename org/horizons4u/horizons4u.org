@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D99653495-LROR
+Domain Name:HORIZONS4U.ORG
+Created On:13-Aug-2003 15:42:56 UTC
+Last Updated On:15-Jul-2011 09:25:19 UTC
+Expiration Date:13-Aug-2012 15:42:56 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:4e052fc0ac00710e
+Registrant Name:Todd  Lavine
+Registrant Organization:Horizons
+Registrant Street1:1503 157 Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ham Lake
+Registrant State/Province:MN
+Registrant Postal Code:55304
+Registrant Country:US
+Registrant Phone:+1.7634137210
+Registrant Phone Ext.:
+Registrant FAX:+1.7634136864
+Registrant FAX Ext.:
+Registrant Email:todd.lavine@horizonscommunitychurch.com
+Admin ID:4e052fc0ac00710e
+Admin Name:Todd  Lavine
+Admin Organization:Horizons
+Admin Street1:1503 157 Ave
+Admin Street2:
+Admin Street3:
+Admin City:Ham Lake
+Admin State/Province:MN
+Admin Postal Code:55304
+Admin Country:US
+Admin Phone:+1.7634137210
+Admin Phone Ext.:
+Admin FAX:+1.7634136864
+Admin FAX Ext.:
+Admin Email:todd.lavine@horizonscommunitychurch.com
+Tech ID:4e052fc0ac00710e
+Tech Name:Todd  Lavine
+Tech Organization:Horizons
+Tech Street1:1503 157 Ave
+Tech Street2:
+Tech Street3:
+Tech City:Ham Lake
+Tech State/Province:MN
+Tech Postal Code:55304
+Tech Country:US
+Tech Phone:+1.7634137210
+Tech Phone Ext.:
+Tech FAX:+1.7634136864
+Tech FAX Ext.:
+Tech Email:todd.lavine@horizonscommunitychurch.com
+Name Server:NS1.ELEXIO.COM
+Name Server:NS2.ELEXIO.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 19-may-2010
    Expiration Date: 19-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 06:06:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 07:39:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... lxceo.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc254675698-cn
-Registrant Name ................. Xia Ying
-Registrant Organization ......... Xia ying
-Registrant Address .............. Beijing China
-Registrant City ................. Beijing
-Registrant Province/State ....... Beijing
-Registrant Postal Code .......... 102208
-Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.13810872881 - 0
-Registrant Fax .................. +86.13810872881 - 0
-Registrant Email ................ wjx0814@163.com
-Administrative ID ............... hc254675698-cn
-Administrative Name ............. Xia Ying
-Administrative Organization ..... Xia ying
-Administrative Address .......... Beijing China
-Administrative City ............. Beijing
-Administrative Province/State ... Beijing
-Administrative Postal Code ...... 102208
-Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.13810872881 - 0
-Administrative Fax .............. +86.13810872881 - 0
-Administrative Email ............ wjx0814@163.com
-Billing ID ...................... hc254675698-cn
-Billing Name .................... Xia Ying
-Billing Organization ............ Xia ying
-Billing Address ................. Beijing China
-Billing City .................... Beijing
-Billing Province/State .......... Beijing
-Billing Postal Code ............. 102208
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.13810872881 - 0
-Billing Fax ..................... +86.13810872881 - 0
-Billing Email ................... wjx0814@163.com
-Technical ID .................... hc254675698-cn
-Technical Name .................. Xia Ying
-Technical Organization .......... Xia ying
-Technical Address ............... Beijing China
-Technical City .................. Beijing
-Technical Province/State ........ Beijing
-Technical Postal Code ........... 102208
-Technical Country Code .......... CN
-Technical Phone Number .......... +86.13810872881 - 0
-Technical Fax ................... +86.13810872881 - 0
-Technical Email ................. wjx0814@163.com
-Expiration Date ................. 2012-05-19 08:59:09

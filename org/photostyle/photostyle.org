@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161062360-LROR
+Domain Name:PHOTOSTYLE.ORG
+Created On:29-Dec-2010 03:37:59 UTC
+Last Updated On:05-May-2011 23:36:19 UTC
+Expiration Date:29-Dec-2012 03:37:59 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR71116101
+Registrant Name:Morten Buljo
+Registrant Street1:Odinsvei 20a
+Registrant Street2:
+Registrant Street3:
+Registrant City:Drammen
+Registrant State/Province:Buskerud
+Registrant Postal Code:3041
+Registrant Country:NO
+Registrant Phone:+93.606707
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:m@photo247.com
+Admin ID:CR71116103
+Admin Name:Morten Buljo
+Admin Street1:Odinsvei 20a
+Admin Street2:
+Admin Street3:
+Admin City:Drammen
+Admin State/Province:Buskerud
+Admin Postal Code:3041
+Admin Country:NO
+Admin Phone:+93.606707
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:m@photo247.com
+Tech ID:CR71116102
+Tech Name:Morten Buljo
+Tech Street1:Odinsvei 20a
+Tech Street2:
+Tech Street3:
+Tech City:Drammen
+Tech State/Province:Buskerud
+Tech Postal Code:3041
+Tech Country:NO
+Tech Phone:+93.606707
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:m@photo247.com
+Name Server:NS1.REDBOXSYSTEM.COM
+Name Server:NS2.REDBOXSYSTEM.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -10,9 +10,11 @@ phone:    +358 50 5985 865
 status:   Granted
 created:  19.6.1997
 expires:  31.8.2012
-nserver: ns.turkuamk.fi [OK] 195.148.208.2
-nserver: ns2.turkuamk.fi [OK] 193.166.133.2
-nserver: ns-secondary.funet.fi [OK]
+nserver:  ns.turkuamk.fi [Ok]
+nserver:  ns2.turkuamk.fi [Ok]
+nserver:  ns-secondary.funet.fi [Ok]
+dnssec:   no
+modified: 1.7.2009
 
 More information is available at https://domain.ficora.fi/
 Copyright (c) Finnish Communications Regulatory Authority

@@ -1,0 +1,113 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ffepgv.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ffepgv.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    FFEP1-FRNIC
+admin-c:     FF322-FRNIC
+tech-c:      OH251-FRNIC
+tech-c:      MN1551-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL8221-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 12/12
+created:     12/12/2003
+last-update: 21/06/2011
+source:      FRNIC
+
+ns-list:     NSL8221-FRNIC
+nserver:     ns0.infoclip.fr [217.25.176.28]
+nserver:     ns1.infoclip.fr [194.29.206.67]
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     FFEP1-FRNIC
+type:        ORGANIZATION
+contact:     FEDERATION FR EDUCAT PHYSIQ GYM VOLONTAI
+address:     FEDERATION FR EDUCAT PHYSIQ GYM VOLONTAI
+address:     46-48, rue de Lagny
+address:     93100 Montreuil
+country:     FR
+phone:       +33 1 41 72 26 07
+e-mail:      service-informatique@ffepgv.fr
+changed:     24/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     FF322-FRNIC
+type:        PERSON
+contact:     Fran&ccedil;ois Fauvel
+address:     FFEPGV
+address:     46-48, rue de Lagny
+address:     93100 Montreuil
+country:     FR
+phone:       +33 1 41 72 26 07
+fax-no:      +33 1 41 72 26 03
+e-mail:      service-informatique@ffepgv.fr
+changed:     24/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MN1551-FRNIC
+type:        PERSON
+contact:     Michel Norais
+address:     FFEPGV
+address:     46-48, rue de Lagny
+address:     93100 Montreuil
+country:     FR
+phone:       +33 1 41 72 26 37
+fax-no:      +33 1 41 72 26 04
+e-mail:      service-informatique@ffepgv.fr
+changed:     20/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

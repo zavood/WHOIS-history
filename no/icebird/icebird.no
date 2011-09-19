@@ -1,0 +1,35 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: ICE254D-NORID
+Domain Name................: icebird.no
+Domain Holder Handle.......: IPSF5O-NORID
+Registrar Handle...........: REG812-NORID
+Legal-c Handle.............: SF1240P-NORID
+Tech-c Handle..............: HM1278P-NORID
+Name Server Handle.........: NSON12H-NORID
+Name Server Handle.........: NSON8H-NORID
+
+Additional information:
+Created:         2010-01-27
+Last updated:    2011-08-04
+
+NORID Handle...............: IPSF5O-NORID
+Type.......................: organization
+Name.......................: ICEBIRD PRODUCTIONS SNORRE FORSGREN
+Id Type....................: organization_number
+Id Number..................: 993059749
+Registrar Handle...........: REG812-NORID
+Post Address...............: Anna Rogstadsvei 43 B
+Postal Code................: NO-0592
+Postal Area................: Oslo
+Country....................: NO
+Mobile Phone Number........: +47.93495237
+Email Address..............: snorre.forsgren@bluezone.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

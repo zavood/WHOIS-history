@@ -1,0 +1,104 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; wdmdirectinet.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      wdmdirectinet.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    WF223-FRNIC
+admin-c:     JR1066-FRNIC
+tech-c:      AA3541-FRNIC
+tech-c:      FG4631-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL8540-FRNIC
+registrar:   CONSEILS ET SYSTEMES INFORMATIQUES
+anniversary: 26/01
+created:     26/01/2011
+last-update: 26/01/2011
+source:      FRNIC
+
+ns-list:     NSL8540-FRNIC
+nserver:     ns1.cetsi.fr [91.151.64.234]
+nserver:     ns2.cetsi.eu
+nserver:     ns3.cetsi.info
+source:      FRNIC
+
+registrar:   CONSEILS ET SYSTEMES INFORMATIQUES
+type:        Isp Option 2
+address:     93/99 Rue Veuve Lacroix
+address:     NANTERRE CEDEX
+country:     FR
+phone:       +33 1 41 19 40 40
+fax-no:      +33 1 47 60 22 16
+website:     http://www.c-si.fr
+anonymous:   NO
+registered:  06/04/2000
+source:      FRNIC
+
+nic-hdl:     JR1066-FRNIC
+type:        PERSON
+contact:     Jose Ribeiro
+address:     WDM FRANCE
+address:     3, avenue Leon Gambetta
+address:     92120 Montrouge
+country:     FR
+phone:       +33 1 46 12 27 00
+e-mail:      jose.ribeiro@wdmfrance.fr
+changed:     27/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AA3541-FRNIC
+type:        PERSON
+contact:     Alexandre Amsaleg
+address:     93-105, rue Veuve Lacroix
+address:     92000 Nanterre
+country:     FR
+phone:       +33 1 41 19 40 40
+e-mail:      aamsaleg@c-si.fr
+changed:     11/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     WF223-FRNIC
+type:        ORGANIZATION
+contact:     WDM FRANCE
+address:     3, avenue Leon Gambetta
+address:     92120 Montrouge
+country:     FR
+phone:       +33 1 46 12 27 00
+e-mail:      dom-reg@c-si.fr
+changed:     27/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     FG4631-FRNIC
+type:        PERSON
+contact:     Frederic Giovannetti
+address:     93-105, rue Veuve Lacroix
+address:     92000 Nanterre
+country:     FR
+phone:       +33 1 41 19 40 40
+e-mail:      fgiovannetti@c-si.fr
+changed:     22/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

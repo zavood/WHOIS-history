@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103402695-LROR
+Domain Name:DOWNTOWNLS.ORG
+Created On:02-Dec-2003 16:49:09 UTC
+Last Updated On:02-May-2011 01:12:35 UTC
+Expiration Date:02-Dec-2012 16:49:09 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30714302
+Registrant Name:Jeanine Rann
+Registrant Organization:Downtown LS Main Street
+Registrant Street1:226 SE Douglas Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lees Summit
+Registrant State/Province:Missouri
+Registrant Postal Code:64063
+Registrant Country:US
+Registrant Phone:+1.8162466598
+Registrant Phone Ext.:
+Registrant FAX:+1.8162467433
+Registrant FAX Ext.:
+Registrant Email:info@mywebtechgurus.com
+Admin ID:CR30714304
+Admin Name:Jeanine Rann
+Admin Organization:Downtown LS Main Street
+Admin Street1:226 SE Douglas Street
+Admin Street2:
+Admin Street3:
+Admin City:Lees Summit
+Admin State/Province:Missouri
+Admin Postal Code:64063
+Admin Country:US
+Admin Phone:+1.8162466598
+Admin Phone Ext.:
+Admin FAX:+1.8162467433
+Admin FAX Ext.:
+Admin Email:info@mywebtechgurus.com
+Tech ID:CR30714303
+Tech Name:Michael Nagles
+Tech Organization:MyWebTechGurus.Com
+Tech Street1:204 NE Douglas Street
+Tech Street2:Suite 100
+Tech Street3:
+Tech City:Lees Summit
+Tech State/Province:Missouri
+Tech Postal Code:64063
+Tech Country:US
+Tech Phone:+1.8169748787
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@mywebtechgurus.com
+Name Server:NS5.WEBCONTROLCENTER.COM
+Name Server:NS6.WEBCONTROLCENTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -6,17 +6,19 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
    Domain Name: SEAFLOG.COM
-   Registrar: DATTATEC.COM DE IRAZOQUI VERONICA PALMIRA
-   Whois Server: whois.dattatec.com
-   Referral URL: http://www.dattatec.com
-   Name Server: NS1-DOMINIO-SUSPENDIDO.TRAXHOST.COM
-   Name Server: NS2-DOMINIO-SUSPENDIDO.TRAXHOST.COM
-   Status: pendingDelete
-   Updated Date: 08-sep-2011
-   Creation Date: 24-jul-2008
-   Expiration Date: 24-jul-2011
+   Registrar: DOMAINAMANIA.COM LLC
+   Whois Server: whois.domainamania.com
+   Referral URL: http://www.domainamania.com
+   Name Server: NS1.ABOVE.COM
+   Name Server: NS2.ABOVE.COM
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 17-sep-2011
+   Creation Date: 14-sep-2011
+   Expiration Date: 14-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 00:54:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 07:56:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,8 +54,81 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 
-Datttatec.com - Registration Service Provided By: Dattatec.com
-Contact: +54 341 599000
-Email: dominios@dattatec.com
-Website: http://www.dattatec.com
-DOMAIN seaflog.com NO  FOUND!
+Moniker Whois Server Version 2.0
+
+The Data in Moniker's WHOIS database
+is provided for information purposes only, and is
+designed to assist persons in obtaining information
+related to domain name registration records.
+Moniker does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you
+will use this Data only for lawful purposes and
+that, under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam),
+telephone, or facsimile; or
+(2) enable high volume, automated, electronic
+processes that apply to Moniker (or its
+systems). Moniker reserves the right
+to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
+
+The compilation, repackaging, dissemination or
+other use of this Data is expressly
+prohibited without the prior written consent
+of Moniker.
+
+Domain Name: SEAFLOG.COM
+Registrar: DOMAINAMANIA
+
+Registrant [1607013]:
+        Mr Bauer windinv@yahoo.com
+        P.O. Box 1491
+        st johns
+        st johns
+        st johns
+        AG
+
+
+Administrative Contact [1607013]:
+        Mr Bauer windinv@yahoo.com
+        P.O. Box 1491
+        st johns
+        st johns
+        st johns
+        AG
+        Phone: +809.1234567
+
+
+Billing Contact [1607013]:
+        Mr Bauer windinv@yahoo.com
+        P.O. Box 1491
+        st johns
+        st johns
+        st johns
+        AG
+        Phone: +809.1234567
+
+
+Technical Contact [1607013]:
+        Mr Bauer windinv@yahoo.com
+        P.O. Box 1491
+        st johns
+        st johns
+        st johns
+        AG
+        Phone: +809.1234567
+
+
+Domain servers in listed order:
+
+        NS1.ABOVE.COM
+        NS2.ABOVE.COM
+
+        Record created on:        2011-09-14 14:03:30.0
+        Database last updated on: 2011-09-17 16:54:25.63
+        Domain Expires on:        2012-09-14 14:03:30.0
+
+
+

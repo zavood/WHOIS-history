@@ -1,0 +1,50 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-19 04:51:09 (BRT -03:00)
+
+domain:      totalturismo.com.br
+owner:       total emprendimentos turisticos ltda
+ownerid:     004.321.798/0001-24
+responsible: halisson augusto lelis oliveira
+country:     BR
+owner-c:     HALOL6
+admin-c:     HALOL6
+tech-c:      UBI6
+billing-c:   HALOL6
+nserver:     ns1.servidorwebfacil.com
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.servidorwebfacil.com
+nsstat:      20110916 AA
+nslastaa:    20110916
+saci:        yes
+created:     20110316 #8054282
+expires:     20120316
+changed:     20110321
+status:      published
+
+nic-hdl-br:  HALOL6
+person:      Halisson Augusto Lelis Oliveira
+e-mail:      halisson_oliveira@hotmail.com
+created:     20110316
+changed:     20110316
+
+nic-hdl-br:  UBI6
+person:      ubirajara iglecio
+e-mail:      bira@cvc.com.br
+created:     19990720
+changed:     20110419
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

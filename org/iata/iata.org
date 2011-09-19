@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1440790-LROR
+Domain Name:IATA.ORG
+Created On:08-Dec-1994 05:00:00 UTC
+Last Updated On:23-Nov-2009 16:24:36 UTC
+Expiration Date:07-Dec-2014 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:16400686-NSI
+Registrant Name:International Air Transport Association
+Registrant Organization:International Air Transport Association
+Registrant Street1:800 Place Victoria
+Registrant Street2:
+Registrant Street3:
+Registrant City:Montreal
+Registrant State/Province:Quebec
+Registrant Postal Code:H4Z 1M1
+Registrant Country:CA
+Registrant Phone:+1.5148740202
+Registrant Phone Ext.:
+Registrant FAX:+1.5148741699
+Registrant FAX Ext.:
+Registrant Email:campellonel@iata.org
+Admin ID:16400686-NSI
+Admin Name:International Air Transport Association
+Admin Organization:International Air Transport Association
+Admin Street1:800 Place Victoria
+Admin Street2:
+Admin Street3:
+Admin City:Montreal
+Admin State/Province:Quebec
+Admin Postal Code:H4Z 1M1
+Admin Country:CA
+Admin Phone:+1.5148740202
+Admin Phone Ext.:
+Admin FAX:+1.5148741699
+Admin FAX Ext.:
+Admin Email:campellonel@iata.org
+Tech ID:30378708-NSI
+Tech Name:InternationalAirTransport Association
+Tech Organization:InternationalAirTransport Association
+Tech Street1:800 Square Victoria
+Tech Street2:PO Box 113
+Tech Street3:
+Tech City:Montreal
+Tech State/Province:Quebec
+Tech Postal Code:H4Z 1M1
+Tech Country:CA
+Tech Phone:+1.15148740
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:networkservices@iata.org
+Name Server:PDNS1.ULTRADNS.NET
+Name Server:PDNS2.ULTRADNS.NET
+Name Server:PDNS3.ULTRADNS.ORG
+Name Server:PDNS4.ULTRADNS.ORG
+Name Server:PDNS5.ULTRADNS.INFO
+Name Server:PDNS6.ULTRADNS.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

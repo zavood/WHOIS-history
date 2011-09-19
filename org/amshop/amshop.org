@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156891128-LROR
+Domain Name:AMSHOP.ORG
+Created On:16-Aug-2009 21:32:25 UTC
+Last Updated On:07-Aug-2011 02:52:56 UTC
+Expiration Date:16-Aug-2012 21:32:25 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ncr-847419-784b7
+Registrant Name:wissam othman
+Registrant Organization:driversfox
+Registrant Street1:gudrunsvej 54 1. tv
+Registrant Street2:
+Registrant Street3:
+Registrant City:brabrand
+Registrant State/Province:none
+Registrant Postal Code:8220
+Registrant Country:DK
+Registrant Phone:+45.86250840
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:wissam_oth@hotmail.com
+Admin ID:nca-847420-48e9d
+Admin Name:wissam othman
+Admin Organization:driversfox
+Admin Street1:gudrunsvej 54 1. tv
+Admin Street2:
+Admin Street3:
+Admin City:brabrand
+Admin State/Province:none
+Admin Postal Code:8220
+Admin Country:DK
+Admin Phone:+45.86250840
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:wissam_oth@hotmail.com
+Tech ID:nct-847421-0bb1a
+Tech Name:wissam othman
+Tech Organization:driversfox
+Tech Street1:gudrunsvej 54 1. tv
+Tech Street2:
+Tech Street3:
+Tech City:brabrand
+Tech State/Province:none
+Tech Postal Code:8220
+Tech Country:DK
+Tech Phone:+45.86250840
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:wissam_oth@hotmail.com
+Name Server:NS13.IXWEBHOSTING.COM
+Name Server:NS14.IXWEBHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 02-jun-2009
    Expiration Date: 02-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:05:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 07:27:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -113,8 +113,8 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns1v.datapipe.net
     ns2v.datapipe.net
+    ns1v.datapipe.net
 
 
 
@@ -129,4 +129,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
---
+

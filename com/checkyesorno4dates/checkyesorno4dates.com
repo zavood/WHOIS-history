@@ -5,18 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: CHECKYESORNO4DATES.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS77.DOMAINCONTROL.COM
-   Name Server: NS78.DOMAINCONTROL.COM
-   Status: pendingDelete
-   Updated Date: 07-sep-2011
-   Creation Date: 17-sep-2010
-   Expiration Date: 17-sep-2011
-
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 00:18:08 UTC &lt;&lt;&lt;
+No match for &quot;CHECKYESORNO4DATES.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 07:31:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-No match for &quot;checkyesorno4dates.com&quot; in the registrar database.
-

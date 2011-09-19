@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104819959-LROR
+Domain Name:WORKINGSMOKEALARMSSAVELIVES.ORG
+Created On:27-Aug-2004 19:48:22 UTC
+Last Updated On:19-Aug-2009 17:02:13 UTC
+Expiration Date:27-Aug-2012 19:48:22 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuCk8P8KEVTOVuPm
+Registrant Name:Tammy Huoni
+Registrant Organization:Special Audience Marketing and Research, Inc.
+Registrant Street1:6700 Manchaca Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Austin
+Registrant State/Province:Texas
+Registrant Postal Code:78745
+Registrant Country:US
+Registrant Phone:+01.5124416484
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tlhuoni@specialaudience.com
+Admin ID:tuxkFBNyl7Fvgs2a
+Admin Name:Will Godwin
+Admin Organization:Special Audience Marketing and Research, Inc.
+Admin Street1:6700 Manchaca Road
+Admin Street2:
+Admin Street3:
+Admin City:Austin
+Admin State/Province:Texas
+Admin Postal Code:78745
+Admin Country:US
+Admin Phone:+01.5124416484
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:wgodwin@specialaudience.com
+Tech ID:tuGqNxAYY0hX6qbZ
+Tech Name:Tammy  Huoni
+Tech Organization:Special Audience Marketing and Research, Inc.
+Tech Street1:6700 Manchaca Road
+Tech Street2:
+Tech Street3:
+Tech City:Austin
+Tech State/Province:Texas
+Tech Postal Code:78745
+Tech Country:US
+Tech Phone:+01.5124416484
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tlhuoni@specialaudience.com
+Name Server:NS1.PARKINGNAMESERVERS.COM
+Name Server:NS2.PARKINGNAMESERVERS.COM
+Name Server:NS3.PARKINGNAMESERVERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
