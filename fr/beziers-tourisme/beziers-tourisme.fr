@@ -1,0 +1,103 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; beziers-tourisme.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      beziers-tourisme.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CDB570-FRNIC
+admin-c:     FSS4-FRNIC
+tech-c:      HN20-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL15298-FRNIC
+registrar:   NAMEBAY
+anniversary: 19/02
+created:     10/07/2003
+last-update: 15/11/2009
+source:      FRNIC
+
+ns-list:     NSL15298-FRNIC
+nserver:     ns1.faire-savoir.com
+nserver:     ns2.faire-savoir.com
+source:      FRNIC
+
+registrar:   NAMEBAY
+type:        Isp Option 1
+address:     27 Boulevard des Moulins
+address:     98000 MONACO
+country:     MC
+phone:       +377 97 70 61 64
+fax-no:      +377 97 97 21 13
+e-mail:      contact@namebay.com
+website:     http://www.namebay.com
+anonymous:   NO
+registered:  18/09/2001
+source:      FRNIC
+
+nic-hdl:     HN20-FRNIC
+type:        ROLE
+contact:     Hostmaster Namebay
+address:     Namebay
+address:     Namebay SAM
+address:     30 bld Princesse Charlotte
+address:     98000 Monaco
+country:     MC
+phone:       +377 97706164
+fax-no:      +377 97972113
+e-mail:      techafnic@namebay.com
+trouble:     http://www.namebay.com
+trouble:     Support : hotline@namebay.com
+trouble:     Spam : abuse@namebay.com
+admin-c:     CV97-FRNIC
+tech-c:      FH448-FRNIC
+tech-c:      BF81-FRNIC
+notify:      techafnic@namebay.com
+changed:     28/09/2001 techafnic@namebay.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CDB570-FRNIC
+type:        ORGANIZATION
+contact:     COMMUNE DE BEZIERS
+address:     place Gabriel Peri
+address:     34500 B&eacute;ziers
+country:     FR
+phone:       +33 4 67 76 84 00
+fax-no:      +33 4 67 62 29 05
+e-mail:      congres@ville-beziers.fr
+changed:     19/02/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     FSS4-FRNIC
+type:        ORGANIZATION
+contact:     FAIRE SAVOIR,FAIRE SAVOIR
+address:     FAIRE SAVOIR
+address:     11, all&eacute;e de la Cr&eacute;ativit&eacute;
+address:     59650 Villeneuve-d'Ascq
+country:     FR
+phone:       +33 3 20 58 91 52
+fax-no:      +33 3 20 58 91 53
+e-mail:      domaine@faire-savoir.com
+changed:     15/11/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+

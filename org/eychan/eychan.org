@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152303229-LROR
+Domain Name:EYCHAN.ORG
+Created On:08-Apr-2008 15:59:06 UTC
+Last Updated On:04-Jul-2011 00:26:30 UTC
+Expiration Date:08-Apr-2012 15:59:06 UTC
+Sponsoring Registrar:UK2 Group Ltd. (R123-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_15586522
+Registrant Name:Chris Toueg
+Registrant Organization:Nixihost.com
+Registrant Street1:10455 Briar Forest Dr. #130-141
+Registrant Street2:
+Registrant Street3:
+Registrant City:Houston
+Registrant State/Province:Texas
+Registrant Postal Code:77042
+Registrant Country:US
+Registrant Phone:+1.7133963223
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:DomainProtection@Nixihost.com
+Admin ID:DI_15586522
+Admin Name:Chris Toueg
+Admin Organization:Nixihost.com
+Admin Street1:10455 Briar Forest Dr. #130-141
+Admin Street2:
+Admin Street3:
+Admin City:Houston
+Admin State/Province:Texas
+Admin Postal Code:77042
+Admin Country:US
+Admin Phone:+1.7133963223
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:DomainProtection@Nixihost.com
+Tech ID:DI_15586522
+Tech Name:Chris Toueg
+Tech Organization:Nixihost.com
+Tech Street1:10455 Briar Forest Dr. #130-141
+Tech Street2:
+Tech Street3:
+Tech City:Houston
+Tech State/Province:Texas
+Tech Postal Code:77042
+Tech Country:US
+Tech Phone:+1.7133963223
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:DomainProtection@Nixihost.com
+Name Server:NS5.NIXIHOST.COM
+Name Server:NS6.NIXIHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

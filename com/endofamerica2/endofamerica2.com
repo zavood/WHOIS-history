@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 08-dec-2010
    Expiration Date: 08-dec-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 02:10:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 16:40:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,33 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Publishing Services LLC
-   14 West Mount Vernon Place
-   Baltimore, Maryland 21201
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: ENDOFAMERICA2.COM
-      Created on: 08-Dec-10
-      Expires on: 08-Dec-12
-      Last Updated on: 08-Dec-10
-
-   Administrative Contact:
-      Pell, Jason  hostmaster@itoverlords.com
-      Publishing Services LLC
-      14 West Mount Vernon Place
-      Baltimore, Maryland 21201
-      United States
-      +1.4108957996      Fax --
-
-   Technical Contact:
-      Pell, Jason  hostmaster@itoverlords.com
-      Publishing Services LLC
-      14 West Mount Vernon Place
-      Baltimore, Maryland 21201
-      United States
-      +1.4108957996      Fax --
 
    Domain servers in listed order:
       NS01.DOMAINCONTROL.COM
       NS02.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=ENDOFAMERICA2.COM

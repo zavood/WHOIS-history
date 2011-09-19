@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103941813-LROR
+Domain Name:BELDENCDTEUROPE.ORG
+Created On:05-Feb-2004 15:06:26 UTC
+Last Updated On:06-Jan-2010 07:05:56 UTC
+Expiration Date:05-Feb-2012 15:06:26 UTC
+Sponsoring Registrar:Easyspace Limited (R36-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuBYpc8cklWI8rGR
+Registrant Name:Mr David R Stokes
+Registrant Organization:Belden
+Registrant Street1:Delaunays Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Blackley
+Registrant State/Province:Manchester
+Registrant Postal Code:M98FP
+Registrant Country:GB
+Registrant Phone:+44.1617412252
+Registrant Phone Ext.:
+Registrant FAX:+44.1617412375
+Registrant FAX Ext.:
+Registrant Email:david.stokes@belden-cd.co.uk
+Admin ID:tufsvbxnrur7UDiY
+Admin Name:Mr David R Stokes
+Admin Organization:Belden
+Admin Street1:Delaunays Road
+Admin Street2:
+Admin Street3:
+Admin City:Blackley
+Admin State/Province:Manchester
+Admin Postal Code:M98FP
+Admin Country:GB
+Admin Phone:+44.1617412252
+Admin Phone Ext.:
+Admin FAX:+44.1617412375
+Admin FAX Ext.:
+Admin Email:david.stokes@belden-cd.co.uk
+Tech ID:tuSBg8wS2Q15gQ5E
+Tech Name:Mr David R Stokes
+Tech Organization:Belden
+Tech Street1:Delaunays Road
+Tech Street2:
+Tech Street3:
+Tech City:Blackley
+Tech State/Province:Manchester
+Tech Postal Code:M98FP
+Tech Country:GB
+Tech Phone:+44.1617412252
+Tech Phone Ext.:
+Tech FAX:+44.1617412375
+Tech FAX Ext.:
+Tech Email:david.stokes@belden-cd.co.uk
+Name Server:NS2.NAMECITY.COM
+Name Server:NS1.NAMECITY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

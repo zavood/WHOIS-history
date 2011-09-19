@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D128154093-LROR
+Domain Name:LPCEXPRESS.ORG
+Created On:01-Sep-2006 19:36:12 UTC
+Last Updated On:16-Sep-2011 12:01:11 UTC
+Expiration Date:01-Sep-2012 19:36:12 UTC
+Sponsoring Registrar:MarkMonitor Inc. (R37-LROR)
+Status:HOLD
+Status:AUTORENEWPERIOD
+Status:PENDING DELETE RESTORABLE
+Registrant ID:mmr-91470
+Registrant Name:Domain Administrator
+Registrant Organization:The Access Network Company
+Registrant Street1:29 East 19th Street
+Registrant Street2:4th Floor
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:NY
+Registrant Postal Code:10036
+Registrant Country:US
+Registrant Phone:+1.2123341800
+Registrant Phone Ext.:
+Registrant FAX:+1.2127772105
+Registrant FAX Ext.:
+Registrant Email:domains@accessnetwork.com
+Admin ID:mmr-91470
+Admin Name:Domain Administrator
+Admin Organization:The Access Network Company
+Admin Street1:29 East 19th Street
+Admin Street2:4th Floor
+Admin Street3:
+Admin City:New York
+Admin State/Province:NY
+Admin Postal Code:10036
+Admin Country:US
+Admin Phone:+1.2123341800
+Admin Phone Ext.:
+Admin FAX:+1.2127772105
+Admin FAX Ext.:
+Admin Email:domains@accessnetwork.com
+Tech ID:mmr-91470
+Tech Name:Domain Administrator
+Tech Organization:The Access Network Company
+Tech Street1:29 East 19th Street
+Tech Street2:4th Floor
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10036
+Tech Country:US
+Tech Phone:+1.2123341800
+Tech Phone Ext.:
+Tech FAX:+1.2127772105
+Tech FAX Ext.:
+Tech Email:domains@accessnetwork.com
+Name Server:PDNS1.ULTRADNS.NET
+Name Server:PDNS2.ULTRADNS.NET
+Name Server:PDNS3.ULTRADNS.ORG
+Name Server:PDNS4.ULTRADNS.ORG
+Name Server:PDNS5.ULTRADNS.INFO
+Name Server:PDNS6.ULTRADNS.CO.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152429666-LROR
+Domain Name:JACKSONPURCHASEHISTORY.ORG
+Created On:16-Apr-2008 00:36:11 UTC
+Last Updated On:28-Apr-2011 02:35:00 UTC
+Expiration Date:16-Apr-2012 00:36:11 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0380866952f36f22
+Registrant Name:Greg  Strange
+Registrant Organization:Jackson Purchase HIstorical Society
+Registrant Street1:1446 State Route 97
+Registrant Street2:
+Registrant Street3:
+Registrant City:Mayfield
+Registrant State/Province:KY
+Registrant Postal Code:42066-7317
+Registrant Country:US
+Registrant Phone:+1.2702519859
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:greg@lonestarcloud.com
+Admin ID:0380866952f36f22
+Admin Name:Greg  Strange
+Admin Organization:Jackson Purchase HIstorical Society
+Admin Street1:1446 State Route 97
+Admin Street2:
+Admin Street3:
+Admin City:Mayfield
+Admin State/Province:KY
+Admin Postal Code:42066-7317
+Admin Country:US
+Admin Phone:+1.2702519859
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:greg@lonestarcloud.com
+Tech ID:0380866952f36f22
+Tech Name:Greg  Strange
+Tech Organization:Jackson Purchase HIstorical Society
+Tech Street1:1446 State Route 97
+Tech Street2:
+Tech Street3:
+Tech City:Mayfield
+Tech State/Province:KY
+Tech Postal Code:42066-7317
+Tech Country:US
+Tech Phone:+1.2702519859
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:greg@lonestarcloud.com
+Name Server:NS1927.HOSTGATOR.COM
+Name Server:NS1928.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

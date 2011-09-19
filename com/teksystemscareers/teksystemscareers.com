@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 29-nov-2006
    Expiration Date: 29-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 09:48:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 15:59:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,34 +78,15 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Allegis Group, Inc.
-   7312 Parkway Drive
-   Hanover, Maryland 21076
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: TEKSYSTEMSCAREERS.COM
-      Created on: 29-Nov-06
-      Expires on: 29-Nov-11
-      Last Updated on: 15-Aug-07
-
-   Administrative Contact:
-      NetRegistrar, Allegis  internet@allegisgroup.com
-      Allegis Group, Inc.
-      7312 Parkway Drive
-      Hanover, Maryland 21076
-      United States
-      +1.4105793000      Fax --
-
-   Technical Contact:
-      NetRegistrar, Allegis  internet@allegisgroup.com
-      Allegis Group, Inc.
-      7312 Parkway Drive
-      Hanover, Maryland 21076
-      United States
-      +1.4105793000      Fax --
 
    Domain servers in listed order:
       EXDNS.ALLEGISGROUP.COM
       AUTH00.NS.UU.NET
       AUTH100.NS.UU.NET
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=TEKSYSTEMSCAREERS.COM

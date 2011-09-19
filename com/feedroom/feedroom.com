@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 20-may-1999
    Expiration Date: 27-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 16:12:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 16:21:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: feedroom.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sun Sep 18 12:02:40 EDT 2011
+Date and Time of Query: Mon Sep 19 12:11:24 EDT 2011
 Reason Code: IE

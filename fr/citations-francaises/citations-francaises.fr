@@ -1,0 +1,101 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; citations-francaises.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      citations-francaises.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      TCP8-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL43148-FRNIC
+registrar:   ONLINE SAS
+anniversary: 30/10
+created:     30/10/2007
+last-update: 30/10/2010
+source:      FRNIC
+
+ns-list:     NSL43148-FRNIC
+nserver:     ns-slave.free.org
+nserver:     adonis.aewd.net
+source:      FRNIC
+
+registrar:   ONLINE SAS
+type:        Isp Option 1
+address:     8 Rue de la Ville l'Ev&ecirc;que
+address:     PARIS
+country:     FR
+phone:       +33 1 73 50 20 00
+fax-no:      +33 1 73 50 26 05
+e-mail:      hebergement@online.net
+website:     http://www.online.net
+anonymous:   NO
+registered:  01/04/1999
+source:      FRNIC
+
+nic-hdl:     TCP8-FRNIC
+type:        ROLE
+contact:     Technical Contact for ProXad
+address:     Free SAS / ProXad
+address:     8, rue de la ville l'Eveque
+address:     75008 Paris
+country:     FR
+phone:       +33 1 73 50 20 00
+fax-no:      +33 1 73 50 25 01
+e-mail:      hostmaster@proxad.net
+trouble:     Information: http://www.proxad.net/
+trouble:     Spam/Abuse requests: mailto:abuse@proxad.net
+admin-c:     RA999-FRNIC
+tech-c:      NH1184-FRNIC
+notify:      ripe-notify@proxad.net
+changed:     17/02/2004 nhyvernat+ripe@corp.free.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     30/07/2007 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     06/02/2010 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+

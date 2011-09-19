@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D93230510-LROR
+Domain Name:UU2.ORG
+Created On:18-Dec-2002 11:09:59 UTC
+Last Updated On:19-Nov-2010 10:09:16 UTC
+Expiration Date:18-Dec-2011 11:09:59 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:A7877A6BF7941F8F
+Registrant Name:ACS Networks
+Registrant Organization:ACS Networks
+Registrant Street1:5Fl., No. 165, Jungyuan Rd.
+Registrant Street2:Shinjuang City
+Registrant Street3:
+Registrant City:Taipei
+Registrant State/Province:TAIWAN
+Registrant Postal Code:242
+Registrant Country:TW
+Registrant Phone:+886.926906709
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dn@acsite.net
+Admin ID:A7877A6BF7941F8F
+Admin Name:ACS Networks
+Admin Organization:ACS Networks
+Admin Street1:5Fl., No. 165, Jungyuan Rd.
+Admin Street2:Shinjuang City
+Admin Street3:
+Admin City:Taipei
+Admin State/Province:TAIWAN
+Admin Postal Code:242
+Admin Country:TW
+Admin Phone:+886.926906709
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dn@acsite.net
+Tech ID:A7877A6BF7941F8F
+Tech Name:ACS Networks
+Tech Organization:ACS Networks
+Tech Street1:5Fl., No. 165, Jungyuan Rd.
+Tech Street2:Shinjuang City
+Tech Street3:
+Tech City:Taipei
+Tech State/Province:TAIWAN
+Tech Postal Code:242
+Tech Country:TW
+Tech Phone:+886.926906709
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dn@acsite.net
+Name Server:DNS1.ACSITE.NET
+Name Server:DNS2.ACSITE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

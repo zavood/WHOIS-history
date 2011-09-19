@@ -11,12 +11,12 @@ for detailed information.
    Referral URL: http://www.PublicDomainRegistry.com
    Name Server: DNS.PARKPAGE.FOUNDATIONAPI.COM
    Name Server: DNS2.PARKPAGE.FOUNDATIONAPI.COM
-   Status: redemptionPeriod
-   Updated Date: 16-aug-2011
+   Status: pendingDelete
+   Updated Date: 16-sep-2011
    Creation Date: 07-jul-2006
    Expiration Date: 07-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 19:46:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 16:11:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,92 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: INTERNATIONAL DOMAIN SERVICES
-Contact: +44.2076917981
-
-Domain Name: PODVARP.COM
-
-Registrant:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
-
-Creation Date: 07-Jul-2006
-Expiration Date: 07-Jul-2011
-
-Domain servers in listed order:
-    ns2.interdoms.net
-    ns.interdoms.net
-
-
-Administrative Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
-
-Technical Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
-
-Billing Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
-
-Status:REDEMPTIONPERIOD
-
-PRIVACYPROTECT.ORG is providing privacy protection services to this domain name to
-protect the owner from spam and phishing attacks. PrivacyProtect.org is not
-responsible for any of the activities associated with this domain name. If you wish
-to report any abuse concerning the usage of this domain name, you may do so at
-http://privacyprotect.org/contact. We have a stringent abuse policy and any
-complaint will be actioned within a short period of time.
-
-The data in this whois database is provided to you for information purposes only,
-that is, to assist you in obtaining information about or related
-to a domain name registration record. We make this information available &quot;as is&quot;,
-and do not guarantee its accuracy. By submitting a whois query, you agree that you will
-use this data only for lawful purposes and that, under no circumstances will you use this data to:
-(1) enable high volume, automated, electronic processes that stress
-or load this whois database system providing you this information; or
-(2) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
-The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
-We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-Check out our great domain reselling options at http://reseller.interdoms.com or buy more super low prized domains and webhosting at http://www.interdoms.net
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
+Whois Error: No Match for &quot;PODVARP.COM&quot;
