@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D91747364-LROR
+Domain Name:GHOST2GHOST.ORG
+Created On:31-Oct-2002 09:35:33 UTC
+Last Updated On:19-Sep-2011 00:31:59 UTC
+Expiration Date:31-Oct-2016 09:35:33 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:RENEWPERIOD
+Registrant ID:CR30981846
+Registrant Name:Ricardo Lee
+Registrant Street1:Building 122
+Registrant Street2:Gwei-Zen Hsiang,
+Registrant Street3:
+Registrant City:Taiwan Hsien
+Registrant State/Province:
+Registrant Postal Code:23451
+Registrant Country:TW
+Registrant Phone:+886.62738992
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jebellee@gmail.com
+Admin ID:CR30981848
+Admin Name:Ricardo Lee
+Admin Street1:Building 122
+Admin Street2:Gwei-Zen Hsiang,
+Admin Street3:
+Admin City:Taiwan Hsien
+Admin State/Province:
+Admin Postal Code:23451
+Admin Country:TW
+Admin Phone:+886.62738992
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jebellee@gmail.com
+Tech ID:CR30981847
+Tech Name:Ricardo Lee
+Tech Street1:Building 122
+Tech Street2:Gwei-Zen Hsiang,
+Tech Street3:
+Tech City:Taiwan Hsien
+Tech State/Province:
+Tech Postal Code:23451
+Tech Country:TW
+Tech Phone:+886.62738992
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jebellee@gmail.com
+Name Server:DNS1.FLEXIHOSTINGS.NET
+Name Server:DNS2.FLEXIHOSTINGS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

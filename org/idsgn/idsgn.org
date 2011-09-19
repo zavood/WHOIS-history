@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D87244484-LROR
+Domain Name:IDSGN.ORG
+Created On:05-Jun-2002 00:09:42 UTC
+Last Updated On:26-May-2011 22:19:30 UTC
+Expiration Date:05-Jun-2012 00:09:42 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33038146
+Registrant Name:Skylar Challand
+Registrant Organization:Oak Studios, LLC
+Registrant Street1:10 Jay St
+Registrant Street2:Suite 606
+Registrant Street3:
+Registrant City:Brooklyn
+Registrant State/Province:New York
+Registrant Postal Code:11201
+Registrant Country:US
+Registrant Phone:+1.8669909625
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@oakmade.com
+Admin ID:CR33038148
+Admin Name:Skylar Challand
+Admin Organization:Oak Studios, LLC
+Admin Street1:10 Jay St
+Admin Street2:Suite 606
+Admin Street3:
+Admin City:Brooklyn
+Admin State/Province:New York
+Admin Postal Code:11201
+Admin Country:US
+Admin Phone:+1.8669909625
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@oakmade.com
+Tech ID:CR33038147
+Tech Name:Skylar Challand
+Tech Organization:Oak Studios, LLC
+Tech Street1:10 Jay St
+Tech Street2:Suite 606
+Tech Street3:
+Tech City:Brooklyn
+Tech State/Province:New York
+Tech Postal Code:11201
+Tech Country:US
+Tech Phone:+1.8669909625
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@oakmade.com
+Name Server:NS43.DOMAINCONTROL.COM
+Name Server:NS44.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

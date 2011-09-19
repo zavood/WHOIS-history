@@ -44,23 +44,22 @@ Licensee:
    Not shown, please visit www.dns.be for webbased whois.
 
 Agent Technical Contacts:
-   Last Name:     Jan de Wael
-   Company Name:  owner
+   Last Name:     Jan en Inge
+   Company Name:  (contact enkel via mail aub)
+   Company Name2: (contact only by email please)
    Language:      nl
-   Street:        by email
-   Location:      2000 boechout
+   Street:        Vinkenstraat 61
+   Location:      2530 Boechout
    Country:       BE
    Phone:         +32.486757191
-   Fax:           +32.486757191
-   Email:         jan@landmeter.be
+   Fax:           +32.000000000
+   Email:         jan-en-inge@skynet.be
 
 Agent:
    Name:      LBO bvba
    Website:
 
 Nameservers:
-   ns61.abstractdns.com
-   ns62.abstractdns.com
-   ns1.h2.be
-   ns2.h2.be
+   ns1.yits.be
+   ns2.yits.be
 

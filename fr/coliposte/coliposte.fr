@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; coliposte.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      coliposte.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LP1395-FRNIC
+admin-c:     LPLP13-FRNIC
+tech-c:      DT1958-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL12931-FRNIC
+registrar:   NAMESHIELD
+anniversary: 18/02
+created:     04/01/2002
+last-update: 16/06/2009
+source:      FRNIC
+
+ns-list:     NSL12931-FRNIC
+nserver:     ns2.laposte.net
+nserver:     ns3.laposte.net
+source:      FRNIC
+
+registrar:   NAMESHIELD
+type:        Isp Option 1
+address:     16 Rue de St P&eacute;tersbourg
+address:     PARIS
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      jpbechu@nameshield.net
+website:     http://www.nameshield.net
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     LP1395-FRNIC
+type:        ORGANIZATION
+contact:     LA POSTE
+address:     Cp T301 - 44 boulevard de Vaugirard
+address:     75015 Paris
+country:     FR
+phone:       +33 2 40 12 72 84
+fax-no:      +33 2 40 12 39 01
+e-mail:      gestint.disit@laposte.fr
+changed:     28/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     LPLP13-FRNIC
+type:        PERSON
+contact:     La Poste La Poste
+address:     LA POSTE
+address:     Cp T301 - 44 boulevard de Vaugirard
+address:     75015 Paris
+country:     FR
+phone:       +33 2 40 12 72 84
+fax-no:      +33 2 40 12 39 01
+e-mail:      gestint.disit@laposte.fr
+changed:     09/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DT1958-FRNIC
+type:        PERSON
+contact:     Department Technical
+address:     NAMESHIELD
+address:     27, rue des arenes
+address:     49100 Angers
+country:     FR
+phone:       +33 2 41 18 28 28
+fax-no:      +33 2 41 18 28 29
+e-mail:      technical@nameshield.net
+changed:     12/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

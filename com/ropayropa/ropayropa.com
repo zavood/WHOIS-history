@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 24-jan-2010
    Expiration Date: 24-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 16:02:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 00:47:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,8 +69,8 @@ Registrante/Registrant:
     AU
     Tel. +45.36946676
 
-Fecha de Creaci&Atilde;&sup3;n/Creation Date: 24-Jan-2010
-Fecha de Expiraci&Atilde;&sup3;n/Expiration Date: 24-Jan-2012
+Fecha de Creaci?n/Creation Date: 24-Jan-2010
+Fecha de Expiraci?n/Expiration Date: 24-Jan-2012
 
 Servidores DNS/Domain servers in listed order:
     51600.earth.orderbox-dns.com

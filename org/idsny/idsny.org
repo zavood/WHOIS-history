@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96748857-LROR
+Domain Name:IDSNY.ORG
+Created On:22-Apr-2003 01:38:55 UTC
+Last Updated On:18-Apr-2011 20:11:29 UTC
+Expiration Date:22-Apr-2014 01:38:55 UTC
+Sponsoring Registrar:DomainPeople, Inc. (R30-LROR)
+Status:OK
+Registrant ID:6901268d897ecb79
+Registrant Name:David  Luke
+Registrant Organization:Infectious Disease Society of New York
+Registrant Street1:43 Chriswood Terrace
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ledyard
+Registrant State/Province:CT
+Registrant Postal Code:06339
+Registrant Country:US
+Registrant Phone:+1.8604649282
+Registrant Phone Ext.:
+Registrant FAX:+1.8604649282
+Registrant FAX Ext.:
+Registrant Email:DLuke4@Comcast.net
+Admin ID:6901268d897ecb79
+Admin Name:David  Luke
+Admin Organization:Infectious Disease Society of New York
+Admin Street1:43 Chriswood Terrace
+Admin Street2:
+Admin Street3:
+Admin City:Ledyard
+Admin State/Province:CT
+Admin Postal Code:06339
+Admin Country:US
+Admin Phone:+1.8604649282
+Admin Phone Ext.:
+Admin FAX:+1.8604649282
+Admin FAX Ext.:
+Admin Email:DLuke4@Comcast.net
+Tech ID:6901268d897ecb79
+Tech Name:David  Luke
+Tech Organization:Infectious Disease Society of New York
+Tech Street1:43 Chriswood Terrace
+Tech Street2:
+Tech Street3:
+Tech City:Ledyard
+Tech State/Province:CT
+Tech Postal Code:06339
+Tech Country:US
+Tech Phone:+1.8604649282
+Tech Phone Ext.:
+Tech FAX:+1.8604649282
+Tech FAX Ext.:
+Tech Email:DLuke4@Comcast.net
+Name Server:NS01.DOMAINCONTROL.COM
+Name Server:NS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

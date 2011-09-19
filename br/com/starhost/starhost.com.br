@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 21:54:22 (BRT -03:00)
+
+domain:      starhost.com.br
+owner:       O2 Internet Ltda
+ownerid:     005.366.239/0001-01
+responsible: Leandro de Oliveira
+country:     BR
+owner-c:     EDO87
+admin-c:     EDO87
+tech-c:      EDO87
+billing-c:   EDO87
+nserver:     dns1.starhost.com.br 189.38.95.2
+nsstat:      20110918 AA
+nslastaa:    20110918
+nserver:     dns2.starhost.com.br 189.38.95.3
+nsstat:      20110918 NOT SYNC ZONE
+nslastaa:    20110918
+created:     20030127 #1085496
+expires:     20150127
+changed:     20100122
+status:      published
+
+nic-hdl-br:  EDO87
+person:      Edgar Oppitz
+e-mail:      leandro@e-dominios.com.br
+created:     20021111
+changed:     20081128
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

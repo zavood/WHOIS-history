@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 06-may-2009
    Expiration Date: 06-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 22:56:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 01:06:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Bogdan Karman
-   10405 NE Sandy blvd
-   portland, Oregon 97220
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: VEHIX411.COM
-      Created on: 06-May-09
-      Expires on: 06-May-12
-      Last Updated on: 11-Aug-11
-
-   Administrative Contact:
-      Karman, Bogdan  obkarman@yahoo.com
-      10405 NE Sandy blvd
-      portland, Oregon 97220
-      United States
-      +1.5034816575      Fax --
-
-   Technical Contact:
-      Karman, Bogdan  obkarman@yahoo.com
-      10405 NE Sandy blvd
-      portland, Oregon 97220
-      United States
-      +1.5034816575      Fax --
 
    Domain servers in listed order:
       NS3193.HOSTGATOR.COM
       NS3194.HOSTGATOR.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=VEHIX411.COM

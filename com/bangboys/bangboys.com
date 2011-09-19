@@ -11,12 +11,12 @@ for detailed information.
    Referral URL: http://www.enom.com
    Name Server: NS1.RACKSPACE.COM
    Name Server: NS2.RACKSPACE.COM
-   Status: ok
-   Updated Date: 25-may-2011
+   Status: clientTransferProhibited
+   Updated Date: 14-sep-2011
    Creation Date: 19-feb-2004
    Expiration Date: 19-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 18:32:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 01:23:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -88,7 +88,7 @@ Technical Contact:
    Bellevue, WA 98007
    US
 
-Status: Active
+Status: Locked
 
 Name Servers:
    NS1.RACKSPACE.COM

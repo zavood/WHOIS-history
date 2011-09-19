@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D141912411-LROR
+Domain Name:VNDOWNLOAD.ORG
+Created On:20-Mar-2007 09:04:04 UTC
+Last Updated On:21-Aug-2011 08:29:28 UTC
+Expiration Date:20-Mar-2012 09:04:04 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:9d1f71217686d64a
+Registrant Name:Bao  Tuan
+Registrant Organization:Bao Tuan
+Registrant Street1:59 Hai Ba Trung
+Registrant Street2:
+Registrant Street3:
+Registrant City:Buon Me Thuot
+Registrant State/Province:DAKLAK
+Registrant Postal Code:630100
+Registrant Country:VN
+Registrant Phone:+84.1666999456
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@vndownload.org
+Admin ID:9d1f71217686d64a
+Admin Name:Bao  Tuan
+Admin Organization:Bao Tuan
+Admin Street1:59 Hai Ba Trung
+Admin Street2:
+Admin Street3:
+Admin City:Buon Me Thuot
+Admin State/Province:DAKLAK
+Admin Postal Code:630100
+Admin Country:VN
+Admin Phone:+84.1666999456
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin@vndownload.org
+Tech ID:29BA20AEE523C8FA
+Tech Name:B???o Tu???n B???o Tu???n
+Tech Organization:B???o Tu???n
+Tech Street1:address
+Tech Street2:address
+Tech Street3:
+Tech City:Ho Chi Minh
+Tech State/Province:SG
+Tech Postal Code:70000
+Tech Country:VN
+Tech Phone:+84.8633630
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:batudesign@gmail.com
+Name Server:NS1.HE.NET
+Name Server:NS2.HE.NET
+Name Server:NS3.HE.NET
+Name Server:NS4.HE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

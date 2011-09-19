@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 21:52:15 (BRT -03:00)
+
+domain:      deputadoedsonbrum.com.br
+owner:       Edson Meurer Brum
+ownerid:     007.630.837/0001-63
+responsible: Edson Meurer Brum
+country:     BR
+owner-c:     EDMBR2
+admin-c:     EDMBR2
+tech-c:      EDMBR2
+billing-c:   EDMBR2
+nserver:     ns1.locaweb.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns2.locaweb.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+nserver:     ns3.locaweb.com.br
+nsstat:      20110916 AA
+nslastaa:    20110916
+created:     20051124 #2487041
+expires:     20121124
+changed:     20101203
+status:      published
+
+nic-hdl-br:  EDMBR2
+person:      Edson Meurer Brum
+e-mail:      edson.brum@al.rs.gov.br
+created:     20070228
+changed:     20070228
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

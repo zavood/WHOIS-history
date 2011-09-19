@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154163508-LROR
+Domain Name:SOUTHSIDEACADEMY.ORG
+Created On:20-Sep-2008 10:20:10 UTC
+Last Updated On:05-Sep-2011 09:53:27 UTC
+Expiration Date:20-Sep-2013 10:20:10 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tugwAxPyQXFnjwBj
+Registrant Name:Rolando Asisten
+Registrant Organization:n/a
+Registrant Street1:9652 Whiteacre Road, Apt 2
+Registrant Street2:
+Registrant Street3:
+Registrant City:Columbia
+Registrant State/Province:MD
+Registrant Postal Code:21045
+Registrant Country:US
+Registrant Phone:+1.4435429907
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:newdomains@siteground.com
+Admin ID:tugwAxPyQXFnjwBj
+Admin Name:Rolando Asisten
+Admin Organization:n/a
+Admin Street1:9652 Whiteacre Road, Apt 2
+Admin Street2:
+Admin Street3:
+Admin City:Columbia
+Admin State/Province:MD
+Admin Postal Code:21045
+Admin Country:US
+Admin Phone:+1.4435429907
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:newdomains@siteground.com
+Tech ID:tugwAxPyQXFnjwBj
+Tech Name:Rolando Asisten
+Tech Organization:n/a
+Tech Street1:9652 Whiteacre Road, Apt 2
+Tech Street2:
+Tech Street3:
+Tech City:Columbia
+Tech State/Province:MD
+Tech Postal Code:21045
+Tech Country:US
+Tech Phone:+1.4435429907
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:newdomains@siteground.com
+Name Server:NS2.SITEGROUND196.COM
+Name Server:NS1.SITEGROUND196.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

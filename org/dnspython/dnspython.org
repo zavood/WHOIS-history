@@ -1,0 +1,90 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98204290-LROR
+Domain Name:DNSPYTHON.ORG
+Created On:28-May-2003 03:16:07 UTC
+Last Updated On:26-Jan-2011 00:24:15 UTC
+Expiration Date:28-May-2013 03:16:07 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR67904179
+Registrant Name:Robert Halley
+Registrant Street1:570 El Camino Real STE 150-411
+Registrant Street2:
+Registrant Street3:
+Registrant City:Redwood City
+Registrant State/Province:California
+Registrant Postal Code:94063
+Registrant Country:US
+Registrant Phone:+1.6506189555
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@play-bow.org
+Admin ID:CR67904185
+Admin Name:Robert Halley
+Admin Street1:570 El Camino Real STE 150-411
+Admin Street2:
+Admin Street3:
+Admin City:Redwood City
+Admin State/Province:California
+Admin Postal Code:94063
+Admin Country:US
+Admin Phone:+1.6506189555
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@play-bow.org
+Tech ID:CR67904181
+Tech Name:Robert Halley
+Tech Street1:570 El Camino Real STE 150-411
+Tech Street2:
+Tech Street3:
+Tech City:Redwood City
+Tech State/Province:California
+Tech Postal Code:94063
+Tech Country:US
+Tech Phone:+1.6506189555
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@play-bow.org
+Name Server:NS1.STAFF.NOMINUM.ORG
+Name Server:NS2.STAFF.NOMINUM.ORG
+Name Server:HOWL.PLAY-BOW.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Signed
+DS Created 1:26-Mar-2010 14:28:47 UTC
+DS Maximum Signature Life 1:3456000 seconds
+DS Key Tag 1:57349
+Algorithm 1:5
+Digest Type 1:2
+Digest 1:53a79a3e7488ab44ffc56b2d1109f0699d1796dd977e72108b841f96e47d7013
+
+

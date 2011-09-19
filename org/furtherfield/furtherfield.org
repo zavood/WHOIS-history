@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6014901-LROR
+Domain Name:FURTHERFIELD.ORG
+Created On:25-Apr-1999 01:28:47 UTC
+Last Updated On:01-Sep-2011 09:51:44 UTC
+Expiration Date:25-Apr-2017 01:27:21 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26113782-NSI
+Registrant Name:FURTHERFIELD
+Registrant Organization:FURTHERFIELD
+Registrant Street1:57C Grand Parade
+Registrant Street2:Green Lane
+Registrant Street3:
+Registrant City:London
+Registrant State/Province:
+Registrant Postal Code:N4 1AF
+Registrant Country:GB
+Registrant Phone:+1.02088022827
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:marc.garrett@FURTHERFIELD.ORG
+Admin ID:51825071-NSI
+Admin Name:Furtherfield
+Admin Street1:57c Grand Parade
+Admin Street2:Green Lanes
+Admin Street3:
+Admin City:London
+Admin State/Province:
+Admin Postal Code:N4 1AF
+Admin Country:GB
+Admin Phone:+1.02088022827
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ale@furtherfield.org
+Tech ID:26113783-NSI
+Tech Name:garrett marc
+Tech Street1:57C Grand Parade
+Tech Street2:Green Lanes
+Tech Street3:
+Tech City:London
+Tech State/Province:
+Tech Postal Code:N4 1AF
+Tech Country:GB
+Tech Phone:+1.02088022827
+Tech Phone Ext.:
+Tech FAX:+1.9999999999
+Tech FAX Ext.:
+Tech Email:marc.garrett@FURTHERFIELD.ORG
+Name Server:NS1-AUTH.ROLLERNET.US
+Name Server:NS2-AUTH.ROLLERNET.US
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

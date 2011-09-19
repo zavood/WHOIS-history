@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D79393242-LROR
+Domain Name:MARSONEARTH.ORG
+Created On:06-Nov-2001 19:21:35 UTC
+Last Updated On:05-Feb-2007 16:36:37 UTC
+Expiration Date:06-Nov-2016 19:21:35 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:22744641-NSI
+Registrant Name:aTerra Technologies Corporation
+Registrant Organization:aTerra Technologies Corporation
+Registrant Street1:97  - 35287 Old Yale Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Abbotsford
+Registrant State/Province:BC
+Registrant Postal Code:V3G8H5
+Registrant Country:CA
+Registrant Phone:+1.6046282121
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:marc@ATERRA.COM
+Admin ID:22744641-NSI
+Admin Name:aTerra Technologies Corporation
+Admin Organization:aTerra Technologies Corporation
+Admin Street1:97  - 35287 Old Yale Road
+Admin Street2:
+Admin Street3:
+Admin City:Abbotsford
+Admin State/Province:BC
+Admin Postal Code:V3G8H5
+Admin Country:CA
+Admin Phone:+1.6046282121
+Admin Phone Ext.:
+Admin FAX:+1.9999999999
+Admin FAX Ext.:
+Admin Email:marc@ATERRA.COM
+Tech ID:22744641-NSI
+Tech Name:aTerra Technologies Corporation
+Tech Organization:aTerra Technologies Corporation
+Tech Street1:97  - 35287 Old Yale Road
+Tech Street2:
+Tech Street3:
+Tech City:Abbotsford
+Tech State/Province:BC
+Tech Postal Code:V3G8H5
+Tech Country:CA
+Tech Phone:+1.6046282121
+Tech Phone Ext.:
+Tech FAX:+1.9999999999
+Tech FAX Ext.:
+Tech Email:marc@ATERRA.COM
+Name Server:NS1.EASYDNS.COM
+Name Server:ATERRA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

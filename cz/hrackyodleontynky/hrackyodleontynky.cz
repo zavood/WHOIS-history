@@ -1,0 +1,59 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 02:53:36 2011
+
+domain:       hrackyodleontynky.cz
+registrant:   FORPSI-CWD-S316832
+nsset:        FORPSI
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   23.04.2009 04:43:08
+expire:       23.04.2012
+
+contact:      FORPSI-CWD-S316832
+name:         Leona Hur&Atilde;&iexcl;&Auml;çkov&Atilde;&iexcl;
+address:      V L&Atilde;&iexcl;zn&Atilde;&shy;ch 688
+address:      Jesenice
+address:      25242
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      07.04.2009 06:04:02
+
+nsset:        FORPSI
+nserver:      ns.forpsi.net
+nserver:      ns.forpsi.cz (81.2.209.185)
+nserver:      ns.forpsi.it
+tech-c:       FORPSI
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 10:19:47
+changed:      30.09.2010 10:21:36
+
+contact:      FORPSI
+org:          INTERNET CZ, a.s.
+name:         Stefano Cecconi
+address:      Kti&Aring;&iexcl; 2
+address:      Kti&Aring;&iexcl;
+address:      38403
+address:      CZ
+fax-no:       +420.383835354
+registrar:    REG-INTERNET-CZ
+created:      04.08.2008 14:42:08
+changed:      06.06.2011 13:55:12
+
+
