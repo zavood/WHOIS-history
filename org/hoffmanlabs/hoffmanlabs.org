@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104830618-LROR
+Domain Name:HOFFMANLABS.ORG
+Created On:31-Aug-2004 18:13:13 UTC
+Last Updated On:31-Jul-2011 03:54:48 UTC
+Expiration Date:31-Aug-2012 18:13:13 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:TRANSFER PROHIBITED
+Registrant ID:DI_17166982
+Registrant Name:Stephen Hoffman
+Registrant Organization:HoffmanLabs LLC
+Registrant Street1:345 Meeting House Hill Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Mason
+Registrant State/Province:New Hampshire
+Registrant Postal Code:03048
+Registrant Country:US
+Registrant Phone:+1.6035662811
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hoff@hoffmanlabs.com
+Admin ID:DI_17166982
+Admin Name:Stephen Hoffman
+Admin Organization:HoffmanLabs LLC
+Admin Street1:345 Meeting House Hill Road
+Admin Street2:
+Admin Street3:
+Admin City:Mason
+Admin State/Province:New Hampshire
+Admin Postal Code:03048
+Admin Country:US
+Admin Phone:+1.6035662811
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hoff@hoffmanlabs.com
+Tech ID:DI_17166982
+Tech Name:Stephen Hoffman
+Tech Organization:HoffmanLabs LLC
+Tech Street1:345 Meeting House Hill Road
+Tech Street2:
+Tech Street3:
+Tech City:Mason
+Tech State/Province:New Hampshire
+Tech Postal Code:03048
+Tech Country:US
+Tech Phone:+1.6035662811
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hoff@hoffmanlabs.com
+Name Server:NS1.MACHIGHWAY.COM
+Name Server:NS2.MACHIGHWAY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 27-apr-2000
    Expiration Date: 27-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 18:42:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 19:20:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,12 +117,12 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns2.nokia.com
     ns.nokia.com
     ns3.nokia.com
+    ns4.nokia.com
+    ns2.nokia.com
     ns6.nokia.com
     ns5.nokia.com
-    ns4.nokia.com
 
 
 
@@ -137,4 +137,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
-
+--

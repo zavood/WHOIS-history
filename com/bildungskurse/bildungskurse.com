@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 29-jan-2004
    Expiration Date: 29-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 20:46:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:32:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ Registrars.
 % Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain bildungskurse.com
-% Timestamp: 2011-09-16 22:46:59
+% Timestamp: 2011-09-19 20:32:38
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

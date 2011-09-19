@@ -1,0 +1,64 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         fischer-wien.at
+registrant:     IIF7844433-NICAT
+admin-c:        IIF7844432-NICAT
+tech-c:         UAG2482255-NICAT
+nserver:        dns1.inode.at
+remarks:        213.229.60.99
+nserver:        dns2.inode.at
+remarks:        195.58.160.5
+changed:        20110209 01:37:11
+source:         AT-DOM
+
+personname:     Ingeborg Fischer
+organization:   Immobilienverwaltung Ingeborg Fischer
+street address: Stiftgasse 4
+postal code:    1070
+city:           Wien
+country:        Austria
+nic-hdl:        IIF7844433-NICAT
+changed:        20110209 01:37:09
+source:         AT-DOM
+
+personname:     Ingeborg Fischer
+organization:   Immobilienverwaltung Ingeborg Fischer
+street address: Stiftgasse 4
+postal code:    1070
+city:           Wien
+country:        Austria
+nic-hdl:        IIF7844432-NICAT
+changed:        20110209 01:37:08
+source:         AT-DOM
+
+personname:     Peter Badura
+organization:   UPC Austria Gmbh
+street address: Wolfganggasse 58 -60
+postal code:    1120
+city:           Wien
+country:        Austria
+nic-hdl:        UAG2482255-NICAT
+changed:        20090924 12:11:36
+source:         AT-DOM
+

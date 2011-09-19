@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 22-may-2007
    Expiration Date: 22-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 17:18:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:56:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,58 +56,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- Empathica Inc.
- 6557D Mississauga Rd.
- Mississauga, Ontario L5N 1A6
- CA
-
- Domain name: MARKS-SURVEY.COM
-
-
- Administrative Contact:
-    Del Rosario, Vince  vdelrosario@empathica.com
-    6557D Mississauga Rd.
-    Mississauga, Ontario L5N 1A6
-    CA
-    905-542-9001 ext 230
- Technical Contact:
-    Del Rosario, Vince  vdelrosario@empathica.com
-    6557D Mississauga Rd.
-    Mississauga, Ontario L5N 1A6
-    CA
-    905-542-9001 ext 230
-
-
- Registrar of Record: easyDNS Technologies, Inc.
- Record last updated on 29-Mar-2011.
- Record expires on 22-May-2012.
- Record created on 22-May-2007.
-
- Domain servers in listed order:
-    NS2.EASYDNS.COM   72.52.2.1
-    NS3.EASYDNS.ORG   64.68.192.10
-    NS6.EASYDNS.NET   72.52.2.1
-    REMOTE2.EASYDNS.COM   72.52.2.1
-    REMOTE1.EASYDNS.COM   64.68.192.10
-    NS1.EASYDNS.COM   64.68.192.10
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-This domain is being managed via EASYDNS
-
-The DNS Hosting specialists since 1998
-
-DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
-
-Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
-
-System Status Updates: http://easyurl.net/easystatus
-
-( Follow us on Twitter http://twitter.com/easydns
-  or Identi.ca http://identi.ca/easyDNS )
-
-
-You have 1 lookups left today
+Too many lookups from this IP today. See you tomorrow.

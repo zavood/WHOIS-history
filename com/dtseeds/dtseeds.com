@@ -6,17 +6,18 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
    Domain Name: DTSEEDS.COM
-   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
-   Whois Server: whois.melbourneit.com
-   Referral URL: http://www.melbourneit.com
+   Registrar: TUCOWS.COM CO.
+   Whois Server: whois.tucows.com
+   Referral URL: http://domainhelp.opensrs.net
    Name Server: NS0.SWIFTINTER.NET
    Name Server: NS1.SWIFTINTER.NET
-   Status: ok
-   Updated Date: 17-sep-2011
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 19-sep-2011
    Creation Date: 19-sep-2000
-   Expiration Date: 19-sep-2011
+   Expiration Date: 19-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 10:16:01 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:40:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,41 +52,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... dtseeds.com
-  Creation Date........ 2000-09-19
-  Registration Date.... 2003-09-27
-  Expiry Date.......... 2011-09-19
-  Organisation Name.... Pipemedia OnLine
-  Organisation Address. Pipemedia House Peckleton Business Park
-  Organisation Address. Peckleton
-  Organisation Address. LEICESTERSHIRE LE9 7RF
-  Organisation Address. LE9 7RF
-  Organisation Address. LEICESTERSHIRE
-  Organisation Address. GREAT BRITAIN (UK)
-
-Admin Name........... Swift Hostmaster
-  Admin Address........ Swift Internet
-  Admin Address........ Greenlands Business Centre
-  Admin Address........ Redditch
-  Admin Address........ B98 7HD
-  Admin Address........ Worcestershire
-  Admin Address........ GREAT BRITAIN (UK)
-  Admin Email.......... hostmaster@swiftinter.net
-  Admin Phone.......... +44.1527500940
-  Admin Fax............ +44.1527500934
-
-Tech Name............ Swift Hostmaster
-  Tech Address......... Swift Internet, Studley Road
-  Tech Address......... Greenlands Business Centre
-  Tech Address......... Redditch
-  Tech Address......... B98 7HD
-  Tech Address......... Worcestershire
-  Tech Address......... GREAT BRITAIN (UK)
-  Tech Email........... hostmaster@swiftinter.net
-  Tech Phone........... +44.1527500940
-  Tech Fax............. +44.1527500934
-  Name Server.......... ns0.swiftinter.net
-  Name Server.......... ns1.swiftinter.net
-
-
+IP Address: 67.231.254.15
+Maximum Daily connection limit reached. Lookup refused.

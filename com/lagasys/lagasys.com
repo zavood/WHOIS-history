@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 23-jun-2000
    Expiration Date: 23-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 09:09:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:33:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,85 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- Laga Systems
- B-103,Southend United Avenue
- Ameerpet, Hyderabad
- Hyderabad, AP 500016
- IN
-
- Domain name: LAGASYS.COM
-
-
- Administrative Contact:
-    Sunkara, Sunkara  snsunkara@sify.com
-    B-103,Southend United Avenue
-    Ameerpet, Hyderabad
-    Hyderabad, AP 500016
-    IN
-    +9140 23732196
- Technical Contact:
-    Sunkara, Sunkara  snsunkara@sify.com
-    B-103,Southend United Avenue
-    Ameerpet, Hyderabad
-    Hyderabad, AP 500016
-    IN
-    +9140 23732196
-
-
- Registration Service Provider:
-    Balasai Net Pvt. Ltd., sales@balasai.com
-    91-20-25662112
-    http://www.balasai.com
-    This company may be contacted for domain login/passwords,
-    DNS/Nameserver changes, and general domain support questions.
-
-
- Registrar of Record: TUCOWS, INC.
- Record last updated on 20-Aug-2011.
- Record expires on 23-Jun-2012.
- Record created on 23-Jun-2000.
-
- Registrar Domain Name Help Center:
-    http://tucowsdomains.com
-
- Domain servers in listed order:
-    NS2.BALASAI.COM
-    NS.BALASAI.COM
-
-
- Domain status: ok
-
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-Tucows makes this information available &quot;as is,&quot; and does not guarantee its
-accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Tucows.
-
-Tucows reserves the right to terminate your access to the Tucows WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
-
-Tucows reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
-
+IP Address: 67.231.254.15
+Maximum Daily connection limit reached. Lookup refused.

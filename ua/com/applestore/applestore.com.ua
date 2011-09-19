@@ -1,5 +1,5 @@
 % request from 2620:0:2e40:2:20a:95ff:fe71:cab0
-% This is the Ukrainian Whois query server #B.
+% This is the Ukrainian Whois query server #F.
 % Rights restricted by copyright.
 %
 
@@ -57,7 +57,7 @@ source:         UANIC
 
 % % .UA whois
 
-% Last update of whois database: 18 Sep 2011 07:46:38 +0200 (EET)
+% Last update of whois database: 19 Sep 2011 22:31:21 +0200 (EET)
 
-% Query time:   27 msec
+% Query time:   6 msec
 

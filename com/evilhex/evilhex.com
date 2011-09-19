@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 24-nov-2010
    Expiration Date: 24-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 18:43:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:42:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -120,4 +120,4 @@ DNS Delegation details:
 Nameserver 1: ns4.syra.net.au
 Nameserver IP 1: 203.170.87.3
 Nameserver 2: ns5.syra.net.au
-Nameserver IP 2: 176.74.25.17
+Nameserver IP 2: 176.74.25.18

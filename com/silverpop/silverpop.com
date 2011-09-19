@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 03-dec-2000
    Expiration Date: 03-dec-2015
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 04:26:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 19:26:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -114,9 +114,9 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns3.silverpop.com
-    ns1.silverpop.com
     ns2.silverpop.com
+    ns1.silverpop.com
+    ns3.silverpop.com
 
 
 

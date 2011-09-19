@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160756435-LROR
+Domain Name:FFAFOOTBALL.ORG
+Created On:24-Nov-2010 15:54:15 UTC
+Last Updated On:24-Jan-2011 03:50:08 UTC
+Expiration Date:24-Nov-2011 15:54:15 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR67753335
+Registrant Name:George French
+Registrant Organization:HSI
+Registrant Street1:4759 Malabar Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Castro Valley
+Registrant State/Province:California
+Registrant Postal Code:94546
+Registrant Country:US
+Registrant Phone:+1.5103296035
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:georgef@hostedsports.com
+Admin ID:CR67753337
+Admin Name:George French
+Admin Organization:HSI
+Admin Street1:4759 Malabar Ave
+Admin Street2:
+Admin Street3:
+Admin City:Castro Valley
+Admin State/Province:California
+Admin Postal Code:94546
+Admin Country:US
+Admin Phone:+1.5103296035
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:georgef@hostedsports.com
+Tech ID:CR67753336
+Tech Name:George French
+Tech Organization:HSI
+Tech Street1:4759 Malabar Ave
+Tech Street2:
+Tech Street3:
+Tech City:Castro Valley
+Tech State/Province:California
+Tech Postal Code:94546
+Tech Country:US
+Tech Phone:+1.5103296035
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:georgef@hostedsports.com
+Name Server:NS57.DOMAINCONTROL.COM
+Name Server:NS58.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

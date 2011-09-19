@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D30951918-LROR
+Domain Name:URBAN75.ORG
+Created On:06-Jul-2000 12:46:44 UTC
+Last Updated On:06-Jul-2011 12:34:15 UTC
+Expiration Date:06-Jul-2012 12:46:44 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-854053-GANDI
+Registrant Name:Mike Slocombe
+Registrant Organization:Mike Slocombe
+Registrant Street1:n/a
+Registrant Street2:
+Registrant Street3:
+Registrant City:n/a
+Registrant State/Province:
+Registrant Postal Code:NA
+Registrant Country:GB
+Registrant Phone:+44.444444444
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:61b0ea70ef7c24739ec481a8188a59c3-855842@owner.gandi.net
+Admin ID:EH297-GANDI
+Admin Name:Exonetric Hostmaster
+Admin Organization:Exonetric Consulting Limited
+Admin Street1:57 Dapdune Road
+Admin Street2:
+Admin Street3:
+Admin City:Guildford
+Admin State/Province:
+Admin Postal Code:GU1 4NZ
+Admin Country:GB
+Admin Phone:+44.8707879394
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gandi@exonetric.com
+Tech ID:EH297-GANDI
+Tech Name:Exonetric Hostmaster
+Tech Organization:Exonetric Consulting Limited
+Tech Street1:57 Dapdune Road
+Tech Street2:
+Tech Street3:
+Tech City:Guildford
+Tech State/Province:
+Tech Postal Code:GU1 4NZ
+Tech Country:GB
+Tech Phone:+44.8707879394
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:gandi@exonetric.com
+Name Server:NS0.EXONETRIC.NET
+Name Server:NS1.EXONETRIC.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

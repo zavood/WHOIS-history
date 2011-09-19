@@ -64,21 +64,6 @@ anonymous:   NO
 obsoleted:   NO
 source:      FRNIC
 
-nic-hdl:     UAG3-FRNIC
-type:        ORGANIZATION
-contact:     Universite Antilles Guyane
-address:     B.P. 771
-address:     97173 Pointe-&agrave;-Pitre
-country:     FR
-phone:       +33 5 90 93 86 63
-fax-no:      +33 5 90 83 80 80
-e-mail:      paul.sarlat@univ-ag.fr
-changed:     02/12/2009 nic@nic.fr
-anonymous:   NO
-obsoleted:   NO
-idstatus:    ok
-source:      FRNIC
-
 nic-hdl:     GR1378-FRNIC
 type:        ROLE
 contact:     GIP RENATER
@@ -105,5 +90,20 @@ tech-c:      FXA1-FRNIC
 changed:     08/11/2005 rensvp@renater.fr
 anonymous:   NO
 obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     UAG3-FRNIC
+type:        ORGANIZATION
+contact:     Universite Antilles Guyane
+address:     B.P. 771
+address:     97173 Pointe-&agrave;-Pitre
+country:     FR
+phone:       +33 5 90 93 86 63
+fax-no:      +33 5 90 83 80 80
+e-mail:      paul.sarlat@univ-ag.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
 source:      FRNIC
 

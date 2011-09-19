@@ -1,0 +1,87 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; monopoly.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      monopoly.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    AI870-FRNIC
+admin-c:     GC3617-FRNIC
+tech-c:      ST212-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL7293-FRNIC
+registrar:   neoDomaine
+anniversary: 18/04
+created:     18/04/2005
+last-update: 03/06/2008
+source:      FRNIC
+
+ns-list:     NSL7293-FRNIC
+nserver:     ns1.neodomaine.com
+nserver:     ns2.neodomaine.com
+source:      FRNIC
+
+registrar:   neoDomaine
+type:        Isp Option 1
+anonymous:   YES
+registered:  12/07/2004
+source:      FRNIC
+
+nic-hdl:     ST212-FRNIC
+type:        ROLE
+contact:     support technique
+address:     neodomaine
+address:     36, rue Saint Cleophas
+address:     34000 Montpellier
+country:     FR
+e-mail:      afnic@neodomaine.com
+admin-c:     ST211-FRNIC
+tech-c:      ST211-FRNIC
+changed:     15/07/2004 afnic@neodomaine.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AI870-FRNIC
+type:        ORGANIZATION
+contact:     Agence Interactive
+address:     Zac Confluence
+address:     8, rue Montrochet
+address:     69002 Lyon
+country:     FR
+phone:       +33 4 26 73 33 66
+e-mail:      virginie.dessaux@erai.org
+changed:     02/08/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GC3617-FRNIC
+type:        PERSON
+contact:     Grosdemange Cecile
+address:     HASBRO FRANCE
+address:     Savoie Technolac
+address:     213, rue de Gerland
+address:     73378 Le Bourget-du-Lac
+country:     FR
+phone:       +33 4 79 96 48 48
+e-mail:      cecile.grosdemange@hasbro.fr
+changed:     03/06/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

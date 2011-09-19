@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159705831-LROR
+Domain Name:NONOHAIRREMOVALSYSTEM.ORG
+Created On:21-Jul-2010 07:27:01 UTC
+Last Updated On:01-Jul-2011 00:06:36 UTC
+Expiration Date:21-Jul-2012 07:27:01 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ncr-5028285-45d8
+Registrant Name:Anthony Chan
+Registrant Organization:Excel Marketing
+Registrant Street1:1769
+Registrant Street2:
+Registrant Street3:
+Registrant City:Clearwater
+Registrant State/Province:Florida
+Registrant Postal Code:33760
+Registrant Country:US
+Registrant Phone:+1.1809900000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cwaiyean@yahoo.com
+Admin ID:nca-5028286-8573
+Admin Name:Anthony Chan
+Admin Organization:Excel Marketing
+Admin Street1:1769
+Admin Street2:
+Admin Street3:
+Admin City:Clearwater
+Admin State/Province:Florida
+Admin Postal Code:33760
+Admin Country:US
+Admin Phone:+1.1809900000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cwaiyean@yahoo.com
+Tech ID:nct-5028287-8999
+Tech Name:Anthony Chan
+Tech Organization:Excel Marketing
+Tech Street1:1769
+Tech Street2:
+Tech Street3:
+Tech City:Clearwater
+Tech State/Province:Florida
+Tech Postal Code:33760
+Tech Country:US
+Tech Phone:+1.1809900000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cwaiyean@yahoo.com
+Name Server:NS1.BLUEHOST.COM
+Name Server:NS2.BLUEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

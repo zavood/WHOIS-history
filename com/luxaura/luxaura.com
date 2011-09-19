@@ -6,19 +6,19 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
    Domain Name: LUXAURA.COM
-   Registrar: TUCOWS.COM CO.
-   Whois Server: whois.tucows.com
-   Referral URL: http://domainhelp.opensrs.net
+   Registrar: MELBOURNE IT, LTD. D/B/A INTERNET NAMES WORLDWIDE
+   Whois Server: whois.melbourneit.com
+   Referral URL: http://www.melbourneit.com
    Name Server: A4.NSTLD.COM
    Name Server: F4.NSTLD.COM
    Name Server: G4.NSTLD.COM
    Name Server: L4.NSTLD.COM
-   Status: ok
-   Updated Date: 13-sep-2011
+   Status: clientTransferProhibited
+   Updated Date: 19-sep-2011
    Creation Date: 14-mar-2002
-   Expiration Date: 14-mar-2012
+   Expiration Date: 14-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 18:15:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:48:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +53,43 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 67.231.254.15
-Maximum Daily connection limit reached. Lookup refused.
+
+Domain Name.......... luxaura.com
+  Creation Date........ 2002-03-15
+  Registration Date.... 2011-09-19
+  Expiry Date.......... 2013-03-15
+  Organisation Name.... Bridgestone Industrial Products America, Inc.
+  Organisation Address. 402 BNA Drive, Suite 212
+  Organisation Address.
+  Organisation Address. Nashville
+  Organisation Address. 37217
+  Organisation Address. TN
+  Organisation Address. UNITED STATES
+
+Admin Name........... Novak .
+  Admin Address........ 1200 Firestone Parkway
+  Admin Address........
+  Admin Address........ Akron
+  Admin Address........ 44317
+  Admin Address........ OH
+  Admin Address........ UNITED STATES
+  Admin Email.......... DNSAdmin-BFBD@bfusa.com
+  Admin Phone.......... +1.3303794043
+  Admin Fax............ +1.3303794064
+
+Tech Name............ Tech .
+  Tech Address......... 487 E. Middlefield Rd.
+  Tech Address.........
+  Tech Address......... Mountain View
+  Tech Address......... 94043
+  Tech Address......... CA
+  Tech Address......... UNITED STATES
+  Tech Email........... tech@melbourneitdbs.com
+  Tech Phone........... +1.8669073267
+  Tech Fax............. +1.6502378883
+  Name Server.......... L4.NSTLD.COM
+  Name Server.......... F4.NSTLD.COM
+  Name Server.......... G4.NSTLD.COM
+  Name Server.......... A4.NSTLD.COM
+
+

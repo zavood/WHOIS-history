@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D126305662-LROR
+Domain Name:WATSONCLIDE.ORG
+Created On:24-Jul-2006 19:33:52 UTC
+Last Updated On:02-Sep-2011 20:15:23 UTC
+Expiration Date:24-Jul-2012 19:33:52 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:HOLD
+Status:PENDING DELETE RESTORABLE
+Registrant ID:DI_10136515
+Registrant Name:Ricardo Ramirez Adams
+Registrant Organization:WATSONCLIDE  S.A.C.
+Registrant Street1:Carlos Alaiza y roel 2346 Int. B
+Registrant Street2:Lince
+Registrant Street3:
+Registrant City:Lima
+Registrant State/Province:Lima
+Registrant Postal Code:51
+Registrant Country:PE
+Registrant Phone:+51.95710684
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rra53@hotmail.com
+Admin ID:DI_10136515
+Admin Name:Ricardo Ramirez Adams
+Admin Organization:WATSONCLIDE  S.A.C.
+Admin Street1:Carlos Alaiza y roel 2346 Int. B
+Admin Street2:Lince
+Admin Street3:
+Admin City:Lima
+Admin State/Province:Lima
+Admin Postal Code:51
+Admin Country:PE
+Admin Phone:+51.95710684
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rra53@hotmail.com
+Tech ID:DI_10136515
+Tech Name:Ricardo Ramirez Adams
+Tech Organization:WATSONCLIDE  S.A.C.
+Tech Street1:Carlos Alaiza y roel 2346 Int. B
+Tech Street2:Lince
+Tech Street3:
+Tech City:Lima
+Tech State/Province:Lima
+Tech Postal Code:51
+Tech Country:PE
+Tech Phone:+51.95710684
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rra53@hotmail.com
+Name Server:DNS.PARKPAGE.FOUNDATIONAPI.COM
+Name Server:DNS2.PARKPAGE.FOUNDATIONAPI.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

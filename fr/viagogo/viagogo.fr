@@ -1,0 +1,91 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; viagogo.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      viagogo.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    VL843-FRNIC
+admin-c:     DFI75-FRNIC
+tech-c:      JD1684-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2723-FRNIC
+registrar:   COMBELL GROUP NV
+anniversary: 02/10
+created:     27/09/2005
+last-update: 05/10/2009
+source:      FRNIC
+
+ns-list:     NSL2723-FRNIC
+nserver:     ns.rackspace.com
+nserver:     ns2.rackspace.com
+source:      FRNIC
+
+registrar:   COMBELL GROUP NV
+type:        Isp Option 1
+address:     Skaldenstraat 121
+address:     B-9042 GENT
+country:     BE
+phone:       +32 9 218 79 79
+fax-no:      +32 9 218 79 78
+e-mail:      info@combell.com
+website:     http://www.combell.com
+anonymous:   NO
+registered:  19/05/2005
+source:      FRNIC
+
+nic-hdl:     JD1684-FRNIC
+type:        PERSON
+contact:     Jonas Dhaenens
+address:     COMBELL - De Fracl Inv
+address:     41, rue Charles de Gaulle
+address:     57958 Montigny-l&egrave;s-Metz Cedex
+country:     FR
+phone:       +33 8 05 03 20 40
+e-mail:      afnic@combellgroup.com
+changed:     19/12/2006 afnic@combellgroup.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DFI75-FRNIC
+type:        ORGANIZATION
+contact:     DE FRACL INVESTISSEMENTS
+address:     rue Charles de Gaulle 41
+address:     57958 Montigny-l&egrave;s-Metz
+country:     FR
+phone:       +33 4 88 66 22 22
+e-mail:      fr@domaincentral.info
+changed:     22/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     VL843-FRNIC
+type:        ORGANIZATION
+contact:     Viagogo Ltd.
+address:     1 Lyric Square
+address:     W6 ONB London
+country:     GB
+phone:       +44 2031708857
+e-mail:      james.wright@viagogo.com
+changed:     07/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

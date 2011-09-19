@@ -10,7 +10,7 @@
 %%
 %% Use '-h' option to obtain more information about this service.
 %%
-%% [174.142.225.246 REQUEST] &gt;&gt; autoplus.fr
+%% [67.231.254.15 REQUEST] &gt;&gt; autoplus.fr
 %%
 %% RL Net [##########] - RL IP [#########.]
 %%
@@ -49,18 +49,6 @@ anonymous:   NO
 registered:  09/06/1998
 source:      FRNIC
 
-nic-hdl:     EFAS1-FRNIC
-type:        ORGANIZATION
-contact:     EMAP France Axel Springer
-address:     19-21, rue Emile Duclaux
-address:     92150 Suresnes
-country:     FR
-changed:     09/10/2008 whoismaster@nic.fr
-anonymous:   NO
-obsoleted:   NO
-idstatus:    ok
-source:      FRNIC
-
 nic-hdl:     MF42-FRNIC
 type:        PERSON
 contact:     Margareth Figueiredo
@@ -92,5 +80,17 @@ notify:      nic@alcyonis.fr
 changed:     28/06/2001 nic@alcyonis.fr
 anonymous:   NO
 obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     EFAS1-FRNIC
+type:        ORGANIZATION
+contact:     EMAP France Axel Springer
+address:     19-21, rue Emile Duclaux
+address:     92150 Suresnes
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
 source:      FRNIC
 

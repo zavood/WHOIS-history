@@ -1,0 +1,38 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       thekking.is
+descr:        &THORN;ekking - Tristan hf
+descr:        Hafnarstr&aelig;ti 93-95
+descr:        IS-600 Akureyri
+admin-c:      TTH2-IS
+tech-c:       TTH2-IS
+zone-c:       TTH2-IS
+billing-c:    TUH1-IS
+nserver:      ns1.thekking.is
+nserver:      ns2.thekking.is
+created:      November 25 1999
+expires:      November 25 2011
+source:       ISNIC
+
+role:         &THORN;ekking - Tristan hf
+address:      Hafnarstr&aelig;ti 93-95
+address:      IS-600 Akureyri
+phone:        +354 460 3100
+e-mail:       stefan@thekking.is
+nic-hdl:      TUH1-IS
+created:      September 30 2002
+source:       ISNIC
+
+role:         &THORN;ekking - Tristan hf
+address:      Hafnarstr&aelig;ti 91-95
+address:      IS-600 Akureyri
+phone:        +354 460 3100
+e-mail:       hostmaster@thekking.is
+nic-hdl:      TTH2-IS
+created:      January 19 2004
+source:       ISNIC
+
+

@@ -10,7 +10,7 @@
 %%
 %% Use '-h' option to obtain more information about this service.
 %%
-%% [174.142.225.246 REQUEST] &gt;&gt; ordipat.fr
+%% [67.231.254.15 REQUEST] &gt;&gt; ordipat.fr
 %%
 %% RL Net [##########] - RL IP [#########.]
 %%
@@ -64,21 +64,6 @@ anonymous:   NO
 obsoleted:   NO
 source:      FRNIC
 
-nic-hdl:     O2649-FRNIC
-type:        ORGANIZATION
-contact:     Ordipat
-address:     3, rue Moncey
-address:     75009 Paris
-country:     FR
-phone:       +33 1 72 74 00 00
-fax-no:      +33 1 46 52 84 38
-e-mail:      noc@ordipat.fr
-changed:     30/12/2010 nic@nic.fr
-anonymous:   NO
-obsoleted:   NO
-idstatus:    ok
-source:      FRNIC
-
 nic-hdl:     OS225-FRNIC
 type:        ROLE
 contact:     Olivier Salmon
@@ -93,5 +78,20 @@ tech-c:      OS5930-FRNIC
 changed:     16/09/2005 admins@ordipat.fr
 anonymous:   NO
 obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     O2649-FRNIC
+type:        ORGANIZATION
+contact:     Ordipat
+address:     3, rue Moncey
+address:     75009 Paris
+country:     FR
+phone:       +33 1 72 74 00 00
+fax-no:      +33 1 46 52 84 38
+e-mail:      noc@ordipat.fr
+changed:     30/12/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
 source:      FRNIC
 

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149872128-LROR
+Domain Name:DOOLS-WORLD.ORG
+Created On:20-Nov-2007 23:34:48 UTC
+Last Updated On:03-Mar-2011 01:04:15 UTC
+Expiration Date:20-Nov-2011 23:34:48 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR71514783
+Registrant Name:Jaka Hendra Purnama
+Registrant Street1:Jl Merak Timur Raya 22
+Registrant Street2:
+Registrant Street3:
+Registrant City:Surabaya
+Registrant State/Province:Jawa Timur
+Registrant Postal Code:60221
+Registrant Country:ID
+Registrant Phone:+62.62317874697
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jakahendra@gmail.com
+Admin ID:CR71514787
+Admin Name:Jaka Hendra Purnama
+Admin Street1:Jl Merak Timur Raya 22
+Admin Street2:
+Admin Street3:
+Admin City:Surabaya
+Admin State/Province:Jawa Timur
+Admin Postal Code:60221
+Admin Country:ID
+Admin Phone:+62.62317874697
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jakahendra@gmail.com
+Tech ID:CR71514785
+Tech Name:Jaka Hendra Purnama
+Tech Street1:Jl Merak Timur Raya 22
+Tech Street2:
+Tech Street3:
+Tech City:Surabaya
+Tech State/Province:Jawa Timur
+Tech Postal Code:60221
+Tech Country:ID
+Tech Phone:+62.62317874697
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jakahendra@gmail.com
+Name Server:NS1.STABLEHOST.COM
+Name Server:NS2.STABLEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
