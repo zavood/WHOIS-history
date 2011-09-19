@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 23-jul-1996
    Expiration Date: 22-jul-2018
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 09:04:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 12:40:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&eacute;servons  le  droit  de  modifier  ces  termes  &agrave; tout moment. En
 # soumettant une requ&ecirc;te au Whois vous consentez &agrave; vous soumettre &agrave; ces termes.
 #
-# local time    : Saturday, 17-Sep-2011 11:05:49 CEST
+# local time    : Monday, 19-Sep-2011 14:41:07 CEST
 # last modified : Wednesday, 13-Jun-2007 16:35:26 CEST
 # domaine       : leguide.com
-# request from  : 192.168.248.1:52077
+# request from  : 192.168.248.1:19360
 
 domain:		LEGUIDE.COM
 owner:		LeGuide.com

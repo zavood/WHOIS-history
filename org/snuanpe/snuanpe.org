@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104873622-LROR
+Domain Name:SNUANPE.ORG
+Created On:10-Sep-2004 11:00:41 UTC
+Last Updated On:11-Sep-2011 01:25:21 UTC
+Expiration Date:10-Sep-2012 11:00:41 UTC
+Sponsoring Registrar:Nordnet (R62-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:NNR-snuanp0
+Registrant Name:DAUCE NOEL
+Registrant Organization:SNUANPE
+Registrant Street1:4345 RUE DE JAVEL
+Registrant Street2:
+Registrant Street3:
+Registrant City:PARIS
+Registrant State/Province:
+Registrant Postal Code:75015
+Registrant Country:FR
+Registrant Phone:+33.144370030
+Registrant Phone Ext.:
+Registrant FAX:+33.144370040
+Registrant FAX Ext.:
+Registrant Email:SNU.ANPE@FREE.FR
+Admin ID:NNR-snuanp1
+Admin Name:DAUCE NOEL
+Admin Organization:SNUANPE
+Admin Street1:4345 RUE DE JAVEL
+Admin Street2:
+Admin Street3:
+Admin City:PARIS
+Admin State/Province:
+Admin Postal Code:75015
+Admin Country:FR
+Admin Phone:+33.144370030
+Admin Phone Ext.:
+Admin FAX:+33.144370040
+Admin FAX Ext.:
+Admin Email:SNU.ANPE@FREE.FR
+Tech ID:NNR-snuanp1
+Tech Name:DAUCE NOEL
+Tech Organization:SNUANPE
+Tech Street1:4345 RUE DE JAVEL
+Tech Street2:
+Tech Street3:
+Tech City:PARIS
+Tech State/Province:
+Tech Postal Code:75015
+Tech Country:FR
+Tech Phone:+33.144370030
+Tech Phone Ext.:
+Tech FAX:+33.144370040
+Tech FAX Ext.:
+Tech Email:SNU.ANPE@FREE.FR
+Name Server:NS4.OLEANE.NET
+Name Server:NS5.OLEANE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

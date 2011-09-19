@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 06-dec-2001
    Expiration Date: 06-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 22:23:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 12:24:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: belairaviation.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 18:13:15 EDT 2011
+Date and Time of Query: Mon Sep 19 08:14:38 EDT 2011
 Reason Code: IE

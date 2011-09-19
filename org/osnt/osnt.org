@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156950394-LROR
+Domain Name:OSNT.ORG
+Created On:25-Aug-2009 08:27:45 UTC
+Last Updated On:26-Aug-2011 01:25:27 UTC
+Expiration Date:25-Aug-2012 08:27:45 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:ABM-9893004
+Registrant Name:Oliver Scheu
+Registrant Organization:KIWI GmbH
+Registrant Street1:Karlstr. 5
+Registrant Street2:
+Registrant Street3:
+Registrant City:Osnabrueck
+Registrant State/Province:Niedersachsen
+Registrant Postal Code:49074
+Registrant Country:DE
+Registrant Phone:+49.541668580
+Registrant Phone Ext.:
+Registrant FAX:+49.5416685820
+Registrant FAX Ext.:
+Registrant Email:info@kiwicore.com
+Admin ID:ABM-9748349
+Admin Name:Olaf Eimecke
+Admin Organization:BYTE Computer
+Admin Street1:Drosselweg 7
+Admin Street2:
+Admin Street3:
+Admin City:Osnabrueck
+Admin State/Province:Niedersachsen
+Admin Postal Code:49088
+Admin Country:DE
+Admin Phone:+49.541802630
+Admin Phone Ext.:
+Admin FAX:+49.541802632
+Admin FAX Ext.:
+Admin Email:info@byte-computer.de
+Tech ID:ABM-10728458
+Tech Name:SUMANAUTEN GmbH
+Tech Organization:Oliver Scheu
+Tech Street1:Karlstr. 5
+Tech Street2:
+Tech Street3:
+Tech City:Osnabrueck
+Tech State/Province:DE
+Tech Postal Code:49074
+Tech Country:DE
+Tech Phone:+49.5416685819
+Tech Phone Ext.:
+Tech FAX:+49.5416685820
+Tech FAX Ext.:
+Tech Email:info@sumanauten.de
+Name Server:NS01.DECISO.NET
+Name Server:NS02.DECISO.NET
+Name Server:NS3.DECISO.EU
+Name Server:NS4.DECISO.EU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

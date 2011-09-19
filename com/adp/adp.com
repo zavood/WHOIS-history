@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 24-jun-1991
    Expiration Date: 23-jun-2021
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 14:42:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 12:40:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,5 +71,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: adp.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sat Sep 17 10:38:24 EDT 2011
+Date and Time of Query: Mon Sep 19 08:30:45 EDT 2011
 Reason Code: IE

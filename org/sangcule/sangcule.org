@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D88277394-LROR
+Domain Name:SANGCULE.ORG
+Created On:10-Jul-2002 11:59:25 UTC
+Last Updated On:02-Jul-2008 09:22:59 UTC
+Expiration Date:10-Jul-2013 11:59:25 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:E6AA89CA891762A8
+Registrant Name:Nemetic S.L.
+Registrant Organization:Nemetic S.L.
+Registrant Street1:C/ Castillo, 17, 3o-11
+Registrant Street2:
+Registrant Street3:
+Registrant City:Santa Cruz de Tenerife
+Registrant State/Province:SANTA CRUZ DE TENERIFE
+Registrant Postal Code:38002
+Registrant Country:ES
+Registrant Phone:+34.902010038
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:consultas@esdominios.com
+Admin ID:E6AA89CA891762A8
+Admin Name:Nemetic S.L.
+Admin Organization:Nemetic S.L.
+Admin Street1:C/ Castillo, 17, 3o-11
+Admin Street2:
+Admin Street3:
+Admin City:Santa Cruz de Tenerife
+Admin State/Province:SANTA CRUZ DE TENERIFE
+Admin Postal Code:38002
+Admin Country:ES
+Admin Phone:+34.902010038
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:consultas@esdominios.com
+Tech ID:E6AA89CA891762A8
+Tech Name:Nemetic S.L.
+Tech Organization:Nemetic S.L.
+Tech Street1:C/ Castillo, 17, 3o-11
+Tech Street2:
+Tech Street3:
+Tech City:Santa Cruz de Tenerife
+Tech State/Province:SANTA CRUZ DE TENERIFE
+Tech Postal Code:38002
+Tech Country:ES
+Tech Phone:+34.902010038
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:consultas@esdominios.com
+Name Server:NS1.HOSTAPLUS.NET
+Name Server:NS2.HOSTAPLUS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

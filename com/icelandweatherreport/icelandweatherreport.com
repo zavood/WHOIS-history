@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 21-jun-2005
    Expiration Date: 21-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 23:43:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 12:41:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -58,7 +58,7 @@ Registrant:
   Pittsburgh, PA 15203
   US
 
-  617t9m3x6352@eliminatejunkemail.com
+  7n2i5a1347@junkemailprevention.com
    +1.4123257437
 
 Domain Name: ICELANDWEATHERREPORT.COM
@@ -70,7 +70,7 @@ Administrative &amp; Technical Contact:
   Pittsburgh, PA 15203
   US
 
-  714t7m7x9421@eliminatejunkemail.com
+  1n0i9a5467@junkemailprevention.com
    +1.4123257437
 
 Domain Name Servers:

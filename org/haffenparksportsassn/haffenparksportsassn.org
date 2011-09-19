@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D99622682-LROR
+Domain Name:HAFFENPARKSPORTSASSN.ORG
+Created On:05-Aug-2003 16:51:08 UTC
+Last Updated On:31-Jul-2011 01:16:38 UTC
+Expiration Date:05-Aug-2012 16:51:08 UTC
+Sponsoring Registrar:DomainPeople, Inc. (R30-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DPRP-2963900
+Registrant Name:Domain Administrator
+Registrant Organization:Haffen Park Sports Assoc.
+Registrant Street1:Po Box 692
+Registrant Street2:
+Registrant Street3:
+Registrant City:BRONX
+Registrant State/Province:NY
+Registrant Postal Code:10469
+Registrant Country:US
+Registrant Phone:+1.7183202656
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hedgyb@aol.com
+Admin ID:DPRP-2963901
+Admin Name:Domain Administrator
+Admin Organization:Haffen Park Sports Assoc.
+Admin Street1:Po Box 692
+Admin Street2:
+Admin Street3:
+Admin City:BRONX
+Admin State/Province:NY
+Admin Postal Code:10469
+Admin Country:US
+Admin Phone:+1.7183202656
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hedgyb@aol.com
+Tech ID:DPRP-2963902
+Tech Name:Domain Tech
+Tech Organization:Gate.com
+Tech Street1:3250 W. Commercial Blvd.
+Tech Street2:Suite 200
+Tech Street3:
+Tech City:Ft. Lauderdale
+Tech State/Province:FL
+Tech Postal Code:33309
+Tech Country:US
+Tech Phone:+1.9543348000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domaintech@gate.com
+Name Server:NS1.HOSTSAVE.COM
+Name Server:NS2.HOSTSAVE.COM
+Name Server:NS3.HOSTSAVE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

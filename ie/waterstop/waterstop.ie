@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      waterstop.ie
+descr:       Water Stop Limited
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Corporate Name
+admin-c:     AMR491-IEDR
+tech-c:      ABG704-IEDR
+renewal:     24-March-2012
+status:      Active
+nserver:     ns5.dnsireland.com
+nserver:     ns6.dnsireland.com
+nserver:     ns7.dnsireland.ie
+source:      IEDR
+
+person:      Stephen O Brien
+nic-hdl:     AMR491-IEDR
+source:      IEDR
+
+person:      Lets Host Domain Services
+nic-hdl:     ABG704-IEDR
+source:      IEDR
+

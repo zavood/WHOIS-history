@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 03-aug-2011
    Expiration Date: 03-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 18:44:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 12:02:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,62 +52,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-The data in this whois database is provided to you for information
-purposes only, that is, to assist you in obtaining information about or
-related to a domain name registration record. We make this information
-available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
-whois query, you agree that you will use this data only for lawful
-purposes and that, under no circumstances will you use this data to: (1)
-enable high volume, automated, electronic processes that stress or load
-this whois database system providing you this information; or (2) allow,
-enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic
-mail, or by telephone.  The compilation, repackaging, dissemination or
-other use of this data is expressly prohibited without prior written
-consent from us.  We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
-Registration Service Provided By: Bizcn.com
-Website: http://www.cnobin.com
-Whois Server: whois.bizcn.com
-
-Domain name: kufegakurol.com
-
-Registrant Contact:
-   Jack Fehon
-   Jack Fehon hill@cutemail.org
-   +61883941989 fax: +61883941989
-   93 Thule Drive
-   Allendale North SA 5373
-   AU
-
-Administrative Contact:
-   Jack Fehon hill@cutemail.org
-   +61883941989 fax: +61883941989
-   93 Thule Drive
-   Allendale North SA 5373
-   AU
-
-Technical Contact:
-   Jack Fehon hill@cutemail.org
-   +61883941989 fax: +61883941989
-   93 Thule Drive
-   Allendale North SA 5373
-   AU
-
-Billing Contact:
-   Jack Fehon hill@cutemail.org
-   +61883941989 fax: +61883941989
-   93 Thule Drive
-   Allendale North SA 5373
-   AU
-
-Registration Service Provider:
-name: Bizcn
-
-DNS:
-ns1.kufegakurol.com
-ns2.kufegakurol.com
-
-Created: 2011-08-03
-Expires: 2012-08-03
+Too many connection!

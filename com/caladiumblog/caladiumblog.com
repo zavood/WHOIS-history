@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 07-may-2006
    Expiration Date: 07-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 23:43:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 12:41:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -78,7 +78,7 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 Registrant:
    Worldwide Directory Services
 
-   Registered through: Turbo Sales
+   Registered through: Domains Priced Right
    Domain Name: CALADIUMBLOG.COM
 
    Domain servers in listed order:
@@ -87,4 +87,4 @@ Registrant:
 
 
    For complete domain details go to:
-   http://who.securepaynet.net/whoischeck.aspx?Domain=CALADIUMBLOG.COM&amp;prog_id=wwdir
+   http://who.securepaynet.net/whoischeck.aspx?Domain=CALADIUMBLOG.COM&amp;prog_id=domainspricedright

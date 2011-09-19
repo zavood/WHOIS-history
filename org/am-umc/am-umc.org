@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D25170379-LROR
+Domain Name:AM-UMC.ORG
+Created On:18-Apr-2000 13:57:17 UTC
+Last Updated On:07-Jul-2009 14:35:29 UTC
+Expiration Date:18-Apr-2015 13:57:17 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25470515-NSIV
+Registrant Name:A &amp; M United Methodist Church
+Registrant Organization:A &amp; M United Methodist Church
+Registrant Street1:ATTN insert domain name here
+Registrant Street2:care of Network Solutions
+Registrant Street3:
+Registrant City:Drums
+Registrant State/Province:PA
+Registrant Postal Code:18222
+Registrant Country:US
+Registrant Phone:+1.5707088780
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dy4bw2sp3r8@networksolutionsprivateregistration.com
+Admin ID:37439918-NSIV
+Admin Name:Cindy Allen
+Admin Organization:A&amp;M United Methodist Church
+Admin Street1:ATTN insert domain name here
+Admin Street2:care of Network Solutions
+Admin Street3:
+Admin City:Drums
+Admin State/Province:PA
+Admin Postal Code:18222
+Admin Country:US
+Admin Phone:+1.5707088780
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:kz26x32y4yx@networksolutionsprivateregistration.com
+Tech ID:37439918-NSIV
+Tech Name:Cindy Allen
+Tech Organization:A&amp;M United Methodist Church
+Tech Street1:ATTN insert domain name here
+Tech Street2:care of Network Solutions
+Tech Street3:
+Tech City:Drums
+Tech State/Province:PA
+Tech Postal Code:18222
+Tech Country:US
+Tech Phone:+1.5707088780
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:kz26x32y4yx@networksolutionsprivateregistration.com
+Name Server:NS11.WORLDNIC.COM
+Name Server:NS12.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

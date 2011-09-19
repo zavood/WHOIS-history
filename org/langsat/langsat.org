@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157834346-LROR
+Domain Name:LANGSAT.ORG
+Created On:17-Dec-2009 11:18:11 UTC
+Last Updated On:13-Jan-2011 16:36:18 UTC
+Expiration Date:17-Dec-2011 11:18:11 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_8996673
+Registrant Name:Saling Silang
+Registrant Organization:PT Saling Silang
+Registrant Street1:Jl Langsat I No. 16
+Registrant Street2:Kramat Pela
+Registrant Street3:Kebayoran Baru
+Registrant City:Jakarta 12130
+Registrant State/Province:Jakarta
+Registrant Postal Code:12120
+Registrant Country:ID
+Registrant Phone:+62.217208262
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:happyhpn@gmail.com
+Admin ID:DI_8996673
+Admin Name:Saling Silang
+Admin Organization:PT Saling Silang
+Admin Street1:Jl Langsat I No. 16
+Admin Street2:Kramat Pela
+Admin Street3:Kebayoran Baru
+Admin City:Jakarta 12130
+Admin State/Province:Jakarta
+Admin Postal Code:12120
+Admin Country:ID
+Admin Phone:+62.217208262
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:happyhpn@gmail.com
+Tech ID:DI_8996673
+Tech Name:Saling Silang
+Tech Organization:PT Saling Silang
+Tech Street1:Jl Langsat I No. 16
+Tech Street2:Kramat Pela
+Tech Street3:Kebayoran Baru
+Tech City:Jakarta 12130
+Tech State/Province:Jakarta
+Tech Postal Code:12120
+Tech Country:ID
+Tech Phone:+62.217208262
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:happyhpn@gmail.com
+Name Server:NSIIX19.RUMAHWEB.COM
+Name Server:NSIIX20.RUMAHWEB.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

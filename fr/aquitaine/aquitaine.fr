@@ -1,0 +1,116 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; aquitaine.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      aquitaine.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CRDA8-FRNIC
+admin-c:     IA552-FRNIC
+tech-c:      JPC117-FRNIC
+tech-c:      CS8617-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL34079-FRNIC
+registrar:   NAMEBAY
+anniversary: 01/03
+created:     01/03/2001
+last-update: 14/12/2009
+source:      FRNIC
+
+ns-list:     NSL34079-FRNIC
+nserver:     ns3.aquitaine.fr [81.255.96.237]
+nserver:     camus.dr15.cnrs.fr [147.210.72.192 2001:660:6101:21::1]
+source:      FRNIC
+
+registrar:   NAMEBAY
+type:        Isp Option 1
+address:     27 Boulevard des Moulins
+address:     98000 MONACO
+country:     MC
+phone:       +377 97 70 61 64
+fax-no:      +377 97 97 21 13
+e-mail:      contact@namebay.com
+website:     http://www.namebay.com
+anonymous:   NO
+registered:  18/09/2001
+source:      FRNIC
+
+nic-hdl:     CRDA8-FRNIC
+type:        ORGANIZATION
+contact:     Conseil Regional d'Aquitaine
+address:     14, rue Francois de Sourdis
+address:     33077 Bordeaux
+country:     FR
+phone:       +33 5 57 57 83 49
+fax-no:      +33 5 57 57 82 59
+e-mail:      webmaster@aquitaine.fr
+changed:     07/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     IA552-FRNIC
+type:        PERSON
+contact:     Internet Administratif
+address:     SYSTONIC SA
+address:     2, avenue Eugene Cheuvreul
+address:     33600 Pessac
+country:     FR
+phone:       +33 5 57 26 44 44
+fax-no:      +33 5 56 36 85 46
+e-mail:      contactadmin@systonic.fr
+changed:     21/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JPC117-FRNIC
+type:        PERSON
+contact:     Jean-Paul Chiron
+address:     Conseil Regional d'Aquitaine
+address:     14, rue Francois de Sourdis
+address:     33077 Bordeaux Cedex
+country:     FR
+phone:       +33 5 57 57 83 49
+fax-no:      +33 5 57 57 82 59
+e-mail:      webmaster@aquitaine.fr
+changed:     07/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CS8617-FRNIC
+type:        ROLE
+contact:     contacts systonic
+address:     Systonic
+address:     9, avenue Leonard de Vinci
+address:     Europarc
+address:     33600 Pessac
+country:     FR
+phone:       +33 5 57 26 44 44
+e-mail:      hostmaster@systonic.fr
+trouble:     Abuse : mailto:abuse@systonic.fr
+admin-c:     AG1935-FRNIC
+admin-c:     FM1165-FRNIC
+tech-c:      LCF4-FRNIC
+tech-c:      FM1165-FRNIC
+notify:      hostmaster@systonic.fr
+changed:     31/10/2005 hostmaster@systonic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

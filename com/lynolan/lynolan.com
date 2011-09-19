@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 30-jun-2001
    Expiration Date: 30-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 12:57:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 12:35:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,5 +53,82 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 67.231.254.15
-Maximum Daily connection limit reached. Lookup refused.
+Registrant:
+ Lynolan Bed &amp; Breakfast
+ Heynestown
+ Dundalk, Co. Louth N/A
+ IE
+
+ Domain name: LYNOLAN.COM
+
+
+ Administrative Contact:
+    Carolan, Peter  LYNOLAN@INDIGO.IE
+    Heynestown
+    Dundalk, Co. Louth N/A
+    IE
+    +353.429336553    Fax: +353.429336553
+
+ Technical Contact:
+    Conkie, Graeme  graeme@letshost.ie
+    Unit 6D, Callan House
+    Coolock, na Dublin 17
+    IE
+    +353.16535032    Fax: +353.14430542
+
+
+
+ Registration Service Provider:
+    Lets Host, support@letshost.ie
+    01 653 5032
+    01 443 0542 (fax)
+    http://www.letshost.ie
+    Lets Host may be contacted for domain login/passwords, DNS/Nameserver
+    changes, and general domain support questions.  Lets Host provides web
+    hosting and domain services.
+
+
+ Registrar of Record: Everyones Internet, LLC dba Resellone.net
+ Record last updated on 03-Sep-2011.
+ Record expires on 30-Jun-2012.
+ Record created on 30-Jun-2001.
+
+ Domain servers in listed order:
+    NS5.DNSIRELAND.COM
+    NS7.DNSIRELAND.IE
+    NS6.DNSIRELAND.COM
+
+
+ Domain status: clientTransferProhibited
+                clientUpdateProhibited
+
+The Data in the ResellOne Registrar WHOIS database is provided to you by ResellOne
+for information purposes only, and may be used to assist you in obtaining
+information about or related to a domain name's registration record.
+
+ResellOne makes this information available &quot;as is,&quot; and does not guarantee its accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising or
+solicitations to entities other than the data recipient's own existing
+customers; or (b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator or
+ICANN-Accredited registrar, except as reasonably necessary to register
+domain names or modify existing registrations.
+
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of ResellOne.
+
+ResellOne reserves the right to terminate your access to the ResellOne WHOIS
+database in its sole discretion, including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this policy.
+
+ResellOne reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by these terms.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
+RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
+

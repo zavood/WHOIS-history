@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 12-may-2003
    Expiration Date: 12-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 21:57:28 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 11:47:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +51,85 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 67.231.254.15
-Maximum Daily connection limit reached. Lookup refused.
+Registrant:
+ Envisionext,Inc.
+ 3172 Coney Island Ave
+ #571
+ brooklyn, ny 11235
+ US
+
+ Domain name: ENVISIONEXT.COM
+
+
+ Administrative Contact:
+    Inc, Envisionext  domains@envisionext.com
+    3172 Coney Island Ave
+    #571
+    brooklyn, ny 11235
+    US
+    +1.7186274059
+ Technical Contact:
+    Inc, Envisionext  domains@envisionext.com
+    3172 Coney Island Ave
+    #571
+    brooklyn, ny 11235
+    US
+    +1.7186274059
+
+
+ Registration Service Provider:
+    Envisionext, Inc., domains@envisionexthost.com
+    +1.866.69.24323
+    +1.973.270.24323 (fax)
+    http://www.envisionext.com
+    Look Ahead!
+
+
+ Registrar of Record: TUCOWS, INC.
+ Record last updated on 13-Apr-2011.
+ Record expires on 12-May-2012.
+ Record created on 12-May-2003.
+
+ Registrar Domain Name Help Center:
+    http://tucowsdomains.com
+
+ Domain servers in listed order:
+    AHEAD.ENVISIONEXT.COM   76.9.3.50
+    LOOK.ENVISIONEXT.COM   76.9.3.3
+
+
+ Domain status: ok
+
+The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
+for information purposes only, and may be used to assist you in obtaining
+information about or related to a domain name's registration record.
+
+Tucows makes this information available &quot;as is,&quot; and does not guarantee its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising or
+solicitations to entities other than the data recipient's own existing
+customers; or (b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator or
+ICANN-Accredited registrar, except as reasonably necessary to register
+domain names or modify existing registrations.
+
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of Tucows.
+
+Tucows reserves the right to terminate your access to the Tucows WHOIS
+database in its sole discretion, including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this
+policy.
+
+Tucows reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by these terms.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
+RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155859216-LROR
+Domain Name:DALTLAVILA.ORG
+Created On:13-Apr-2009 14:23:50 UTC
+Last Updated On:14-Apr-2011 12:11:40 UTC
+Expiration Date:13-Apr-2013 14:23:50 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR38980750
+Registrant Name:Marcal Casas Cartagena
+Registrant Street1:Pujol 19
+Registrant Street2:
+Registrant Street3:
+Registrant City:Badalona
+Registrant State/Province:Barcelona
+Registrant Postal Code:08911
+Registrant Country:ES
+Registrant Phone:+687.503774
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:marcal@www.sosmatic.net
+Admin ID:CR38980752
+Admin Name:Marcal Casas Cartagena
+Admin Street1:Pujol 19
+Admin Street2:
+Admin Street3:
+Admin City:Badalona
+Admin State/Province:Barcelona
+Admin Postal Code:08911
+Admin Country:ES
+Admin Phone:+687.503774
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:marcal@www.sosmatic.net
+Tech ID:CR38980751
+Tech Name:Marcal Casas Cartagena
+Tech Street1:Pujol 19
+Tech Street2:
+Tech Street3:
+Tech City:Badalona
+Tech State/Province:Barcelona
+Tech Postal Code:08911
+Tech Country:ES
+Tech Phone:+687.503774
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:marcal@www.sosmatic.net
+Name Server:NS2.3ESSENTIALS.COM
+Name Server:NS1.3ESSENTIALS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

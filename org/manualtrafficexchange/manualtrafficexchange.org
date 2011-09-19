@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149419790-LROR
+Domain Name:MANUALTRAFFICEXCHANGE.ORG
+Created On:16-Oct-2007 13:50:05 UTC
+Last Updated On:25-Apr-2011 12:16:42 UTC
+Expiration Date:16-Oct-2011 13:50:05 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:d1e37185d8201812
+Registrant Name:Tim  Linden
+Registrant Organization:TimTech LLC
+Registrant Street1:PO BOX 28
+Registrant Street2:
+Registrant Street3:
+Registrant City:West Kingston
+Registrant State/Province:RI
+Registrant Postal Code:02892
+Registrant Country:US
+Registrant Phone:+1.8772443581
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tim@timtech.us
+Admin ID:d1e37185d8201812
+Admin Name:Tim  Linden
+Admin Organization:TimTech LLC
+Admin Street1:PO BOX 28
+Admin Street2:
+Admin Street3:
+Admin City:West Kingston
+Admin State/Province:RI
+Admin Postal Code:02892
+Admin Country:US
+Admin Phone:+1.8772443581
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tim@timtech.us
+Tech ID:d1e37185d8201812
+Tech Name:Tim  Linden
+Tech Organization:TimTech LLC
+Tech Street1:PO BOX 28
+Tech Street2:
+Tech Street3:
+Tech City:West Kingston
+Tech State/Province:RI
+Tech Postal Code:02892
+Tech Country:US
+Tech Phone:+1.8772443581
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tim@timtech.us
+Name Server:DNS1.REGISTRAR-SERVERS.COM
+Name Server:DNS2.REGISTRAR-SERVERS.COM
+Name Server:DNS3.REGISTRAR-SERVERS.COM
+Name Server:DNS4.REGISTRAR-SERVERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

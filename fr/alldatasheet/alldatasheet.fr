@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; alldatasheet.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      alldatasheet.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CDEA4-FRNIC
+admin-c:     ACCD1729-FRNIC
+tech-c:      II8-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL42677-FRNIC
+registrar:   KEY-SYSTEMS GmbH
+anniversary: 31/07
+created:     31/07/2008
+last-update: 19/08/2011
+source:      FRNIC
+
+ns-list:     NSL42677-FRNIC
+nserver:     ns.gabia.co.kr
+nserver:     ns1.gabia.co.kr
+nserver:     ns.gabia.net
+source:      FRNIC
+
+registrar:   KEY-SYSTEMS GmbH
+type:        Isp Option 1
+address:     Im Oberen Werk 1
+address:     DE-66386 ST. INGBERT
+country:     DE
+phone:       +49 (0) 68 94 93 96 850
+fax-no:      +49 (0) 68 94 93 96 851
+e-mail:      info@key-systems.net
+website:     http://www.key-systems.net
+anonymous:   NO
+registered:  25/07/2006
+source:      FRNIC
+
+nic-hdl:     ACCD1729-FRNIC
+type:        PERSON
+contact:     Admin-C Cabinet Dreyfus Et Associes
+address:     78, avenue Raymond Poincare
+address:     75116 Paris
+country:     FR
+phone:       +33 1 44 70 07 04
+fax-no:      +33 1 40 06 99 64
+e-mail:      contact@dreyfus.fr
+changed:     30/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     II8-FRNIC
+type:        ROLE
+contact:     Interbird Interbird
+address:     Multicenter 301, 236-4,Namhangdong 2-ga, Yeongdo-gu,
+address:     606802 Busan
+country:     KR
+phone:       +82 514138931
+fax-no:      +82 514138933
+e-mail:      master@interbird.com
+admin-c:     II7-FRNIC
+tech-c:      II7-FRNIC
+changed:     29/07/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CDEA4-FRNIC
+type:        ORGANIZATION
+contact:     Cabinet Dreyfus et Associes
+address:     78, avenue Raymond Poincare
+address:     75116 Paris
+country:     FR
+phone:       +33 1 44 70 07 04
+fax-no:      +33 1 40 06 99 64
+e-mail:      contact@dreyfus.fr
+changed:     30/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

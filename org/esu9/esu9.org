@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4068224-LROR
+Domain Name:ESU9.ORG
+Created On:04-Mar-1999 05:00:00 UTC
+Last Updated On:09-Oct-2007 21:40:38 UTC
+Expiration Date:04-Mar-2013 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20103943-NSI
+Registrant Name:NO FIRST NAME NO LAST NAME
+Registrant Organization:Educational Service Unit #9
+Registrant Street1:1117 East South St
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hastings
+Registrant State/Province:NE
+Registrant Postal Code:68901
+Registrant Country:US
+Registrant Phone:+1.402463717
+Registrant Phone Ext.:
+Registrant FAX:+1.402463955
+Registrant FAX Ext.:
+Registrant Email:cpetroff@ESU9.org
+Admin ID:20843177-NSI
+Admin Name:Educational Service Unit #9
+Admin Organization:Educational Service Unit #9
+Admin Street1:1117 East South St
+Admin Street2:
+Admin Street3:
+Admin City:Hastings
+Admin State/Province:NE
+Admin Postal Code:68901
+Admin Country:US
+Admin Phone:+1.40246371
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cpetroff@ESU9.ESU9.K12.NE.US
+Tech ID:20843177-NSI
+Tech Name:Educational Service Unit #9
+Tech Organization:Educational Service Unit #9
+Tech Street1:1117 East South St
+Tech Street2:
+Tech Street3:
+Tech City:Hastings
+Tech State/Province:NE
+Tech Postal Code:68901
+Tech Country:US
+Tech Phone:+1.40246371
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cpetroff@ESU9.ESU9.K12.NE.US
+Name Server:DNS.ESU9.ORG
+Name Server:DNS1.ESU9.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

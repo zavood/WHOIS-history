@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1614973-LROR
+Domain Name:WCSAP.ORG
+Created On:20-Jul-1998 04:00:00 UTC
+Last Updated On:03-Jan-2010 08:57:11 UTC
+Expiration Date:19-Jul-2014 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:23068525-NSI
+Registrant Name:Washington Coalition of Sexual Assualt Programs
+Registrant Organization:Washington Coalition of Sexual Assualt Programs
+Registrant Street1:4317 6th Ave SE #102
+Registrant Street2:
+Registrant Street3:
+Registrant City:Olympia
+Registrant State/Province:WA
+Registrant Postal Code:98503
+Registrant Country:US
+Registrant Phone:+1.3607547583
+Registrant Phone Ext.:
+Registrant FAX:+1.3607868707
+Registrant FAX Ext.:
+Registrant Email:wcsap@wcsap.org
+Admin ID:23068526-NSI
+Admin Name:Yahui Chi
+Admin Street1:4317 6th Ave SE #102
+Admin Street2:
+Admin Street3:
+Admin City:OLYMPIA
+Admin State/Province:WA
+Admin Postal Code:98503
+Admin Country:US
+Admin Phone:+1.3607547583
+Admin Phone Ext.:
+Admin FAX:+1.3607868707
+Admin FAX Ext.:
+Admin Email:wcsap@wcsap.org
+Tech ID:5358805-NSI
+Tech Name:Network Solutions, LLC.
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:NS39.WORLDNIC.COM
+Name Server:NS40.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

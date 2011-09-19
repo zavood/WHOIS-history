@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 21-may-2002
    Expiration Date: 21-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 21:25:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 12:37:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,7 +69,7 @@ registrant-postcode:          04178
 registrant-city:              Leipzig
 registrant-country:           DE
 
-admin-c-name:                 J&Atilde;&para;rg Ebert
+admin-c-name:                 J&Atilde;ƒ&Acirc;&para;rg Ebert
 admin-c-organization:         Sineros Versandhandels GmbH &amp; Co. KG
 admin-c-type:                 PERSON
 admin-c-address:              Ludwig-Hupfeld-Str. 16
@@ -80,7 +80,7 @@ admin-c-phone:                +493413512949
 admin-c-fax:                  +493413512946
 admin-c-email:                info@sineros.de
 
-tech-c-name:                  J&Atilde;&para;rg Ebert
+tech-c-name:                  J&Atilde;ƒ&Acirc;&para;rg Ebert
 tech-c-organization:          Sineros Versandhandels GmbH &amp; Co. KG
 tech-c-type:                  PERSON
 tech-c-address:               Ludwig-Hupfeld-Str. 16
@@ -91,7 +91,7 @@ tech-c-phone:                 +493413512949
 tech-c-fax:                   +493413512946
 tech-c-email:                 info@sineros.de
 
-zone-c-name:                  J&Atilde;&para;rg Ebert
+zone-c-name:                  J&Atilde;ƒ&Acirc;&para;rg Ebert
 zone-c-organization:          Sineros Versandhandels GmbH &amp; Co. KG
 zone-c-type:                  PERSON
 zone-c-address:               Ludwig-Hupfeld-Str. 16

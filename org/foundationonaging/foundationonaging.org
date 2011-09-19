@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158972484-LROR
+Domain Name:FOUNDATIONONAGING.ORG
+Created On:24-Apr-2010 18:34:49 UTC
+Last Updated On:13-Apr-2011 04:09:34 UTC
+Expiration Date:24-Apr-2012 18:34:49 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:891a1398b0a89b8b
+Registrant Name:linzi  johnson
+Registrant Street1:624 bellhouse road
+Registrant Street2:
+Registrant Street3:
+Registrant City:sheffield
+Registrant State/Province:united kingdom
+Registrant Postal Code:95444
+Registrant Country:US
+Registrant Phone:+1.01141251820
+Registrant Phone Ext.:
+Registrant FAX:+1.12342626262
+Registrant FAX Ext.:
+Registrant Email:linzijahnson@btinternet.com
+Admin ID:891a1398b0a89b8b
+Admin Name:linzi  johnson
+Admin Street1:624 bellhouse road
+Admin Street2:
+Admin Street3:
+Admin City:sheffield
+Admin State/Province:united kingdom
+Admin Postal Code:95444
+Admin Country:US
+Admin Phone:+1.01141251820
+Admin Phone Ext.:
+Admin FAX:+1.12342626262
+Admin FAX Ext.:
+Admin Email:linzijahnson@btinternet.com
+Tech ID:891a1398b0a89b8b
+Tech Name:linzi  johnson
+Tech Street1:624 bellhouse road
+Tech Street2:
+Tech Street3:
+Tech City:sheffield
+Tech State/Province:united kingdom
+Tech Postal Code:95444
+Tech Country:US
+Tech Phone:+1.01141251820
+Tech Phone Ext.:
+Tech FAX:+1.12342626262
+Tech FAX Ext.:
+Tech Email:linzijahnson@btinternet.com
+Name Server:DNS1.REGISTRAR-SERVERS.COM
+Name Server:DNS2.REGISTRAR-SERVERS.COM
+Name Server:DNS3.REGISTRAR-SERVERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

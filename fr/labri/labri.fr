@@ -1,0 +1,142 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; labri.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      labri.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UBU1-FRNIC
+admin-c:     RC444-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      PH50-FRNIC
+tech-c:      PU1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1969-FRNIC
+registrar:   RENATER
+anniversary: 30/01
+created:     30/01/2001
+last-update: 01/05/2004
+source:      FRNIC
+
+ns-list:     NSL1969-FRNIC
+nserver:     donaser.labri.fr [147.210.8.187]
+nserver:     bxnms.u-bordeaux.fr [147.210.253.1]
+nserver:     edwood.emi.u-bordeaux.fr
+nserver:     neouvielle.enserb.u-bordeaux.fr
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     RC444-FRNIC
+type:        PERSON
+contact:     Richard Castanet
+address:     Univ. Bordeaux 1 - Lab. Bordelais de la
+address:     Recherche en Informatique Labri.
+address:     351, cours de la Liberation
+address:     33405 Talence Cedex
+country:     FR
+phone:       +33 5 56 84 69 01
+fax-no:      +33 5 56 84 66 69
+e-mail:      castanet@labri.u-bordeaux.fr
+changed:     22/01/2001 deponthieu@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     UBU1-FRNIC
+type:        ORGANIZATION
+contact:     Universite Bordeaux 1
+address:     Lab. Bordelais de Recherche en Informatique
+address:     351, cours de la Liberation
+address:     33405 Talence Cedex
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     PH50-FRNIC
+type:        PERSON
+contact:     Patrick Henry
+address:     Univ. Bordeaux 1 - Lab. Bordelais de
+address:     Recherche en Informatique - Labri
+address:     351, cours de la Liberation
+address:     33405 Talence Cedex
+country:     FR
+phone:       +33 5 56 84 66 10
+fax-no:      +33 5 56 84 66 69
+e-mail:      henry@labri.u-bordeaux.fr
+changed:     22/01/2001 deponthieu@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PU1-FRNIC
+type:        PERSON
+contact:     Pascal Ung
+address:     Univ. Bordeaux 1 - Lab. Bordelais de
+address:     Recherche en Informatique
+address:     351, cours de la Liberation
+address:     33405 Talence Cedex
+country:     FR
+phone:       +33 5 56 84 69 19
+fax-no:      +33 5 56 84 66 69
+e-mail:      ung@labri.u-bordeaux.fr
+changed:     22/01/2001 deponthieu@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

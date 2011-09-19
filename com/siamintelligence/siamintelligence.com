@@ -12,11 +12,11 @@ for detailed information.
    Name Server: NS1.CLNOX.COM
    Name Server: NS2.CLNOX.COM
    Status: ok
-   Updated Date: 03-sep-2010
+   Updated Date: 17-sep-2011
    Creation Date: 17-sep-2007
-   Expiration Date: 17-sep-2011
+   Expiration Date: 17-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 07:32:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 12:19:51 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -103,8 +103,8 @@ By submitting this query, you agree to abide by these terms.
 
    Registrar of Record:
       Hostopia.com Inc. d/b/a Aplus.net, www.aplus.net
-      Record last updated on 2010-09-03
-      Record expires on 2011-09-17
+      Record last updated on 2011-09-17
+      Record expires on 2012-09-17
       Record created on 2007-09-17
 
    Domain servers in listed order:

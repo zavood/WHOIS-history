@@ -1,0 +1,89 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 13:58:42 2011
+
+domain:       pckvary.cz
+registrant:   J240651M
+admin-c:      MUSIL1
+temp-c:       PES
+nsset:        FORPSI
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   17.10.2001 12:26:00
+changed:      17.10.2008 08:18:00
+expire:       28.10.2011
+
+contact:      J240651M
+org:          Pedagogick&Atilde;&copy; a vzd&Auml;õl&Atilde;&iexcl;vac&Atilde;&shy; centrum Karlovarsk&Atilde;&copy;ho kraje, o.p.s.
+name:         Josef Musil
+address:      n&Atilde;&iexcl;m. V. &Aring;òez&Atilde;&iexcl;&Auml;çe 3, &Auml;çp. 5
+address:      Karlovy Vary
+address:      36009
+address:      CZ
+phone:        +420.724923901
+fax-no:       +420.353229446
+e-mail:       musilj@linguae-sro.cz
+registrar:    REG-INTERNET-CZ
+created:      12.10.2007 10:26:49
+
+contact:      MUSIL1
+name:         Josef Musil
+address:      n&Atilde;&iexcl;m. V. &Aring;òez&Atilde;&iexcl;&Auml;çe 3
+address:      Karlovy Vary
+address:      36009
+address:      CZ
+phone:        +420.724923901
+fax-no:       +420.353229446
+e-mail:       musilj@linguae-sro.cz
+registrar:    REG-INTERNET-CZ
+created:      24.10.2007 08:42:26
+
+contact:      PES
+name:         Josef Grill
+address:      V&Atilde;&iexcl;clavsk&Atilde;&copy; n&Atilde;&iexcl;m. 17
+address:      Praha 1
+address:      110 00
+address:      CZ
+e-mail:       domain@forpsi.com
+registrar:    REG-INTERNET-CZ
+created:      10.08.2001 22:13:00
+changed:      11.03.2008 16:06:49
+
+nsset:        FORPSI
+nserver:      ns.forpsi.net
+nserver:      ns.forpsi.cz (81.2.209.185)
+nserver:      ns.forpsi.it
+tech-c:       FORPSI
+registrar:    REG-INTERNET-CZ
+created:      01.10.2007 10:19:47
+changed:      30.09.2010 10:21:36
+
+contact:      FORPSI
+org:          INTERNET CZ, a.s.
+name:         Stefano Cecconi
+address:      Kti&Aring;&iexcl; 2
+address:      Kti&Aring;&iexcl;
+address:      38403
+address:      CZ
+fax-no:       +420.383835354
+registrar:    REG-INTERNET-CZ
+created:      04.08.2008 14:42:08
+changed:      06.06.2011 13:55:12
+
+

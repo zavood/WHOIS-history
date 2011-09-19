@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158002472-LROR
+Domain Name:WAYNERESOURCEGUIDE.ORG
+Created On:07-Jan-2010 21:15:03 UTC
+Last Updated On:08-Jan-2011 01:24:26 UTC
+Expiration Date:07-Jan-2012 21:15:03 UTC
+Sponsoring Registrar:CORE Internet Council of Registrars (R23-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:R23-98413832-PIR
+Registrant Name:Manfred Lichti
+Registrant Organization:Lichti International
+Registrant Street1:Sprongs Bluff
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sodus
+Registrant State/Province:NY
+Registrant Postal Code:14551
+Registrant Country:US
+Registrant Phone:+1.3155532287
+Registrant Phone Ext.:
+Registrant FAX:+1.3155532287
+Registrant FAX Ext.:
+Registrant Email:m.lichti@lichti.com
+Admin ID:R23-98413832-PIR
+Admin Name:Manfred Lichti
+Admin Organization:Lichti International
+Admin Street1:Sprongs Bluff
+Admin Street2:
+Admin Street3:
+Admin City:Sodus
+Admin State/Province:NY
+Admin Postal Code:14551
+Admin Country:US
+Admin Phone:+1.3155532287
+Admin Phone Ext.:
+Admin FAX:+1.3155532287
+Admin FAX Ext.:
+Admin Email:m.lichti@lichti.com
+Tech ID:R23-37715120-PIR
+Tech Name:Christian Clos
+Tech Organization:ALL-TLD GmbH
+Tech Street1:Am Ullrichsberg 26
+Tech Street2:
+Tech Street3:
+Tech City:Mannheim
+Tech State/Province:BW
+Tech Postal Code:68309
+Tech Country:DE
+Tech Phone:+49.6211502200
+Tech Phone Ext.:
+Tech FAX:+49.6211502233
+Tech FAX Ext.:
+Tech Email:hostmaster@all-tld.net
+Name Server:DE01.NS-ALL-TLD.NET
+Name Server:DE02.NS-ALL-TLD.BIZ
+Name Server:US01.NS-ALL-TLD.COM
+Name Server:CA01.NS-ALL-TLD.INFO
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

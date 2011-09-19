@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 11-may-2002
    Expiration Date: 11-may-2016
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 13:30:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 11:58:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -86,38 +86,26 @@ Domain servers in listed order:
 	 ns1.dns-diy.com 	 ns2.dns-diy.com
 
 Administrator:
-	 name:(Gangjiaping)
-	Email:(zheng@23w.net) tel-- +86.13701950784
-	 Gangjiaping
+	 Name-- Gangjiaping
+ EMail-: (zheng@23w.net)
+ tel --: +86.13701950784
+	 org: Gangjiaping
 	 Room 401 No 47 Lane 1500 Dahua Road Shanghai
-\r
-t &Eacute;&Iuml;&ordm;&pound;
-&Eacute;&Iuml;&ordm;&pound;,
-CN
-
- zipcode:200436
+	 &Eacute;&Iuml;&ordm;&pound;,&Eacute;&Iuml;&ordm;&pound;,CN 200436
 
 Technical Contactor:
-	 name:(zhenghui)
-	Email:(zheng@23w.net) tel-- +86.2164860438
-	 zhenghui
+	 Name-- zhenghui
+ EMail-: (zheng@23w.net)
+ tel --: +86.2164860438
+	 org: zhenghui
 	 Rm 1212,Qijian Building,No.439,Yishan Rd,Shanghai,China
-\r
-t shanghai
-shanghai,
-CN
-
- zipcode:200233
+	 shanghai,shanghai,CN 200233
 
 Billing Contactor:
-	 name:(zhenghui)
-	Email:(zheng@23w.net) tel-- +86.2164860438
-	 zhenghui
+	 Name-- zhenghui
+ EMail-: (zheng@23w.net)
+ tel --: +86.2164860438
+	 org: zhenghui
 	 Rm 1212,Qijian Building,No.439,Yishan Rd,Shanghai,China
-\r
-t shanghai
-shanghai,
-CN
-
- zipcode:200233
+	 shanghai,shanghai,CN 200233
 

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158202999-LROR
+Domain Name:MYGHD.ORG
+Created On:26-Jan-2010 10:49:52 UTC
+Last Updated On:22-Jun-2011 08:56:36 UTC
+Expiration Date:26-Jan-2012 10:49:52 UTC
+Sponsoring Registrar:Xin Net Technology Corporation (R118-LROR)
+Status:OK
+Registrant ID:5gq93j78o5viw0
+Registrant Name:delong Chen
+Registrant Organization:Chen delong
+Registrant Street1:Heilngjiang province,Mudanjiang City
+Registrant Street2:
+Registrant Street3:
+Registrant City:Mudanjiang
+Registrant State/Province:Heilongjiang
+Registrant Postal Code:157000
+Registrant Country:CN
+Registrant Phone:+86.4538630040
+Registrant Phone Ext.:111
+Registrant FAX:+86.4538630040
+Registrant FAX Ext.:111
+Registrant Email:mdjcdl@163.com
+Admin ID:5gq93j78o5viw0a
+Admin Name:delong Chen
+Admin Organization:delong Chen
+Admin Street1:Heilngjiang province,Mudanjiang City
+Admin Street2:
+Admin Street3:
+Admin City:Mudanjiang
+Admin State/Province:Heilongjiang
+Admin Postal Code:157000
+Admin Country:CN
+Admin Phone:+86.4538630040
+Admin Phone Ext.:111
+Admin FAX:+86.4538630040
+Admin FAX Ext.:111
+Admin Email:mdjcdl@163.com
+Tech ID:5gq93j78o5viw0a
+Tech Name:delong Chen
+Tech Organization:delong Chen
+Tech Street1:Heilngjiang province,Mudanjiang City
+Tech Street2:
+Tech Street3:
+Tech City:Mudanjiang
+Tech State/Province:Heilongjiang
+Tech Postal Code:157000
+Tech Country:CN
+Tech Phone:+86.4538630040
+Tech Phone Ext.:111
+Tech FAX:+86.4538630040
+Tech FAX Ext.:111
+Tech Email:mdjcdl@163.com
+Name Server:NS11.CHINAHSP.NET
+Name Server:NS12.CHINAHSP.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

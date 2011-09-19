@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       tuuleenergia.ee
+registrant:   CID:ZONE:94974
+admin-c:      CID:ZONE:94975
+nsset:        NSSID:ZONE:12479
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 05:48:51
+changed:      14.10.2010 15:35:04
+expire:       14.10.2011
+
+contact:      CID:ZONE:94974
+org:          Eesti Tuuleenergia Assotsiatsioon
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      14.10.2010 15:35:02
+
+contact:      CID:ZONE:94975
+name:         Tuuliki Kasonen-Lins
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      14.10.2010 15:35:02
+
+nsset:        NSSID:ZONE:12479
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:94976
+registrar:    zone
+created:      14.10.2010 15:35:03
+
+contact:      CID:ZONE:94976
+name:         Tuuliki Kasonen-Lins
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      14.10.2010 15:35:03
+
+

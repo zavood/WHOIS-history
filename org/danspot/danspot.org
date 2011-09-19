@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D79278969-LROR
+Domain Name:DANSPOT.ORG
+Created On:03-Nov-2001 03:38:59 UTC
+Last Updated On:07-Nov-2007 21:04:07 UTC
+Expiration Date:03-Nov-2012 03:38:59 UTC
+Sponsoring Registrar:DomainPeople, Inc. (R30-LROR)
+Status:OK
+Registrant ID:DP-627513
+Registrant Name:Dan O'Leary
+Registrant Organization:Dan O'Leary
+Registrant Street1:9629 Crown Prince Lane
+Registrant Street2:NA
+Registrant Street3:
+Registrant City:Windermere
+Registrant State/Province:FL
+Registrant Postal Code:34786
+Registrant Country:US
+Registrant Phone:+1.4078228500
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:djo@n-space.com
+Admin ID:DP-627514
+Admin Name:Dan O'Leary
+Admin Organization:Dan O'Leary
+Admin Street1:9629 Crown Prince Lane
+Admin Street2:NA
+Admin Street3:
+Admin City:Windermere
+Admin State/Province:FL
+Admin Postal Code:34786
+Admin Country:US
+Admin Phone:+1.4078228500
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:djo@n-space.com
+Tech ID:DP-1168209
+Tech Name:Dan O'Leary
+Tech Organization:Dan O'Leary
+Tech Street1:9629 Crown Prince Lane
+Tech Street2:NA
+Tech Street3:
+Tech City:Windermere
+Tech State/Province:FL
+Tech Postal Code:34786
+Tech Country:US
+Tech Phone:+1.4073993189
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:djo@n-space.com
+Name Server:NS39.VOSN.NET
+Name Server:NS40.VOSN.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D64841048-LROR
+Domain Name:COLUMBIAALS.ORG
+Created On:27-Feb-2001 15:16:54 UTC
+Last Updated On:12-Jul-2011 12:40:29 UTC
+Expiration Date:27-Feb-2012 15:16:54 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-N4D5PCIOFKVP
+Registrant Name:David Youn
+Registrant Organization:Columbia University Medical Center
+Registrant Street1:630 West 168th St
+Registrant Street2:PH 20
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:New York
+Registrant Postal Code:10032
+Registrant Country:US
+Registrant Phone:+1.2123051668
+Registrant Phone Ext.:
+Registrant FAX:+1.2123057860
+Registrant FAX Ext.:
+Registrant Email:jhy2104@columbia.edu
+Admin ID:DOT-ACPNCD53HF10
+Admin Name:David Youn
+Admin Organization:Columbia University Medical Center
+Admin Street1:630 West 168th St
+Admin Street2:PH 20
+Admin Street3:
+Admin City:New York
+Admin State/Province:New York
+Admin Postal Code:10032
+Admin Country:US
+Admin Phone:+1.2123051668
+Admin Phone Ext.:
+Admin FAX:+1.2123057860
+Admin FAX Ext.:
+Admin Email:jhy2104@columbia.edu
+Tech ID:DOT-P7G8D8W2SXFE
+Tech Name:David Youn
+Tech Organization:Columbia University Medical Center
+Tech Street1:630 West 168th St
+Tech Street2:PH 20
+Tech Street3:
+Tech City:New York
+Tech State/Province:New York
+Tech Postal Code:10032
+Tech Country:US
+Tech Phone:+1.2123051668
+Tech Phone Ext.:
+Tech FAX:+1.2123057860
+Tech FAX Ext.:
+Tech Email:jhy2104@columbia.edu
+Name Server:DNS1.CPMC.COLUMBIA.EDU
+Name Server:DNS2.CPMC.COLUMBIA.EDU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

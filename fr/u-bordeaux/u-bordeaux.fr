@@ -1,0 +1,143 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; u-bordeaux.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      u-bordeaux.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    PRES9-FRNIC
+admin-c:     MS931-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      LF411-FRNIC
+tech-c:      VG259-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL4522-FRNIC
+registrar:   RENATER
+anniversary: 15/12
+created:     15/12/2008
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL4522-FRNIC
+nserver:     bxnms.u-bordeaux.fr [147.210.253.1]
+nserver:     cnudns.cines.fr [193.48.169.40 2001:660:6301:301::2:1]
+nserver:     ns2.nic.fr [192.93.0.4 2001:660:3005:1::1:2]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MS931-FRNIC
+type:        PERSON
+contact:     M Singaravelou
+address:     Univ. Michel de Montaigne Bordeaux 3
+address:     Domaine Universitaire
+address:     33607 Pessac Cedex
+country:     FR
+phone:       +33 5 57 12 45 45
+fax-no:      +33 5 57 12 47 94
+e-mail:      jean-michel.baudequin@u-bordeaux3.fr
+changed:     11/04/2005 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PRES9-FRNIC
+type:        ORGANIZATION
+contact:     POLE RECHERCHE ENSEIGNEMENT SUPERIEUR UNIVERSITE DE BORDEAUX
+address:     D&eacute;partement Tic
+address:     351, cours de la Liberation
+address:     33405 Talence
+country:     FR
+phone:       +33 5 40 00 60 44
+fax-no:      +33 5 56 80 08 37
+e-mail:      a.boudou@presidence.u-bordeaux1.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     LF411-FRNIC
+type:        PERSON
+contact:     Laurent Facq
+address:     Univ. Bordeaux 1
+address:     Sce Inter-Universitaire Reaumur
+address:     351, cours de la Liberation
+address:     33400 Talence
+country:     FR
+phone:       +33 5 40 00 65 34
+fax-no:      +33 5 40 00 34 79
+e-mail:      facq@u-bordeaux.fr
+changed:     22/03/2005 facq@u-brodeaux.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     VG259-FRNIC
+type:        PERSON
+contact:     Vincent Gaudin
+address:     Univ. de Bordeaux 1
+address:     Sce Inter-Universitaire Reaumur
+address:     351, cours de la Liberation
+address:     33400 Talence
+country:     FR
+phone:       +33 5 40 00 28 39
+fax-no:      +33 5 40 00 34 79
+e-mail:      gaudin@u-bordeaux.fr
+changed:     21/03/2005 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
