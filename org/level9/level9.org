@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D102734436-LROR
+Domain Name:LEVEL9.ORG
+Created On:16-Nov-2003 22:00:36 UTC
+Last Updated On:30-Aug-2011 18:37:37 UTC
+Expiration Date:16-Nov-2013 22:00:36 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30703266
+Registrant Name:Mark Kadubec
+Registrant Organization:none
+Registrant Street1:35 Topaz Wy.
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Francisco
+Registrant State/Province:California
+Registrant Postal Code:94131
+Registrant Country:US
+Registrant Phone:+1.4084826628
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mkadubec@yahoo.com
+Admin ID:CR30703268
+Admin Name:Mark Kadubec
+Admin Organization:Level9
+Admin Street1:441 Monterey Blvd.  Apt 1
+Admin Street2:
+Admin Street3:
+Admin City:San Francisco
+Admin State/Province:California
+Admin Postal Code:94127
+Admin Country:US
+Admin Phone:+1.4153363581
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mkadubec@yahoo.com
+Tech ID:CR30703267
+Tech Name:Mark Kadubec
+Tech Organization:Level9
+Tech Street1:441 Monterey Blvd.  Apt 1
+Tech Street2:
+Tech Street3:
+Tech City:San Francisco
+Tech State/Province:California
+Tech Postal Code:94127
+Tech Country:US
+Tech Phone:+1.4153363581
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mkadubec@yahoo.com
+Name Server:NS1.LEVEL9.ORG
+Name Server:NS2.LEVEL9.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

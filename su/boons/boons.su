@@ -1,0 +1,18 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     BOONS.SU
+nserver:    ns1.boons.su. 173.242.117.105
+nserver:    ns2.boons.su. 204.45.42.20
+state:      REGISTERED, DELEGATED
+person:     Private Person
+e-mail:     boons@free-id.ru
+registrar:  NAUNET-REG-FID
+created:    2011.07.15
+paid-till:  2012.07.15
+source:     TCI
+
+Last updated on 2011.09.19 06:10:46 MSK/MSD
+

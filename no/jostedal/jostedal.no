@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: JOS268D-NORID
+Domain Name................: jostedal.no
+Domain Holder Handle.......: DA1432O-NORID
+Registrar Handle...........: REG885-NORID
+Legal-c Handle.............: EB3586P-NORID
+Tech-c Handle..............: FIDD4R-NORID
+Name Server Handle.........: RH10H-NORID
+Name Server Handle.........: RH6H-NORID
+
+Additional information:
+Created:         2001-03-06
+Last updated:    2011-03-08
+
+NORID Handle...............: DA1432O-NORID
+Type.......................: organization
+Name.......................: Datapart AS
+Id Type....................: organization_number
+Id Number..................: 979980981
+Registrar Handle...........: REG885-NORID
+Post Address...............: c/o Fjordane IT AS
+Post Address...............: Postboks 590
+Postal Code................: NO-6803
+Postal Area................: F&oslash;rde
+Country....................: NO
+Mobile Phone Number........: +47.98240360
+Fax Number.................: +47.57683405
+Email Address..............: post@fjordane-it.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

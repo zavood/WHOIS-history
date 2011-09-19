@@ -1,0 +1,20 @@
+
+domain:   eunet.fi
+descr:    Saunalahti Group Oyj
+descr:    10643333
+address:  Riku Hakkarainen
+address:  Ratavartijankatu 3 D
+address:  00520
+address:  Helsinki
+phone:    +358 9 42430840
+status:   Granted
+created:  22.7.2002
+expires:  31.8.2012
+nserver:  ns1.eunet.fi [Ok]
+nserver:  ns2.eunet.fi [Ok]
+nserver:  ns3.eunet.fi [Ok]
+dnssec:   no
+modified: 17.6.2011
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

@@ -1,0 +1,39 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: EBO125D-NORID
+Domain Name................: ebookers.no
+Domain Holder Handle.......: ESA430O-NORID
+Registrar Handle...........: REG164-NORID
+Legal-c Handle.............: DS1096P-NORID
+Tech-c Handle..............: HH3939P-NORID
+Name Server Handle.........: EBLG2H-NORID
+Name Server Handle.........: NSEB1H-NORID
+Name Server Handle.........: NSEB2H-NORID
+Name Server Handle.........: NSEB5H-NORID
+
+Additional information:
+Created:         2000-05-02
+Last updated:    2011-05-04
+
+NORID Handle...............: ESA430O-NORID
+Type.......................: organization
+Name.......................: Ebookers Scandinavia AB
+Id Type....................: organization_number
+Id Number..................: 994348302
+Registrar Handle...........: REG164-NORID
+Post Address...............: Olav Vs Gate 4
+Post Address...............: P.O.Box 1364
+Postal Code................: NO-0114
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.24131500
+Fax Number.................: +47.24131500
+Email Address..............: domain.names@ebookers.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-11-16
+

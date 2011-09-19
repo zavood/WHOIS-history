@@ -1,0 +1,39 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       ebs.ee
+registrant:   CID:EENET:5B12
+admin-c:      CID:EENET:B382
+nsset:        NSSID:EENET:5E5F
+registrar:    eenet
+status:       paid and in zone
+registered:   04.07.2010 04:12:39
+changed:      02.11.2010 12:53:26
+expire:       02.11.2011
+
+contact:      CID:EENET:5B12
+name:         Osa&Atilde;&frac14;hing EBS Education
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      02.11.2010 12:53:20
+
+contact:      CID:EENET:B382
+name:         T&Atilde;&micro;nu K&Atilde;&frac14;ttmaa
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      02.11.2010 12:53:19
+
+nsset:        NSSID:EENET:5E5F
+nserver:      ns.eenet.ee (193.40.56.245)
+nserver:      ns1.ebs.ee (193.40.130.25)
+tech-c:       CID:EENET:D414
+registrar:    eenet
+created:      02.11.2010 12:53:22
+
+contact:      CID:EENET:D414
+name:         Andrei Kozlovski
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    eenet
+created:      02.11.2010 12:53:21
+
+

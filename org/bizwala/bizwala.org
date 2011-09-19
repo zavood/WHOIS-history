@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D29476457-LROR
+Domain Name:BIZWALA.ORG
+Created On:19-Jun-2000 02:57:12 UTC
+Last Updated On:21-May-2011 05:07:31 UTC
+Expiration Date:19-Jun-2012 02:57:12 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tuirRJaYgzV8QxuY
+Registrant Name:Jonathan Remund
+Registrant Organization:Bizwala
+Registrant Street1:10624 So Eastern Ave
+Registrant Street2:Suite A-198
+Registrant Street3:
+Registrant City:Henderson
+Registrant State/Province:NV
+Registrant Postal Code:89052
+Registrant Country:US
+Registrant Phone:+1.7024078721
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:support@bizwala.com
+Admin ID:tuirRJaYgzV8QxuY
+Admin Name:Jonathan Remund
+Admin Organization:Bizwala
+Admin Street1:10624 So Eastern Ave
+Admin Street2:Suite A-198
+Admin Street3:
+Admin City:Henderson
+Admin State/Province:NV
+Admin Postal Code:89052
+Admin Country:US
+Admin Phone:+1.7024078721
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:support@bizwala.com
+Tech ID:tuShagem0jvKlIbP
+Tech Name:Jonathan Remund
+Tech Organization:Bizwala
+Tech Street1:10624 S. Eastern Ave.
+Tech Street2:Suite A-198
+Tech Street3:
+Tech City:Henderson
+Tech State/Province:NV
+Tech Postal Code:89052
+Tech Country:US
+Tech Phone:+1.7024078721
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:opensrs@bizwala.com
+Name Server:NS1.BIZWALA.ORG
+Name Server:NS2.BIZWALA.ORG
+Name Server:DNS.BIZWALA.NET
+Name Server:DNS2.BIZWALA.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

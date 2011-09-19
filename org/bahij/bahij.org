@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D136785658-LROR
+Domain Name:BAHIJ.ORG
+Created On:08-Jan-2007 18:47:36 UTC
+Last Updated On:09-Jan-2011 01:22:56 UTC
+Expiration Date:08-Jan-2012 18:47:36 UTC
+Sponsoring Registrar:1 &amp; 1 Internet AG (R73-LROR)
+Status:OK
+Registrant ID:SPAG-35557117
+Registrant Name:Zouhir Bahij
+Registrant Street1:26 rue Adolphe Joanne
+Registrant Street2:
+Registrant Street3:
+Registrant City:Dijon
+Registrant State/Province:
+Registrant Postal Code:21000
+Registrant Country:FR
+Registrant Phone:+33.678001040
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:zouhir@bahij.org
+Admin ID:SPAG-35557117
+Admin Name:Zouhir Bahij
+Admin Street1:26 rue Adolphe Joanne
+Admin Street2:
+Admin Street3:
+Admin City:Dijon
+Admin State/Province:
+Admin Postal Code:21000
+Admin Country:FR
+Admin Phone:+33.678001040
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:zouhir@bahij.org
+Tech ID:SPAG-32126874
+Tech Name:Hostmaster UNETUN
+Tech Organization:1&amp;1 Internet SARL
+Tech Street1:7 Place de la Gare
+Tech Street2:
+Tech Street3:
+Tech City:Sarreguemines
+Tech State/Province:
+Tech Postal Code:57200
+Tech Country:FR
+Tech Phone:+33.825080020
+Tech Phone Ext.:
+Tech FAX:+33.387959974
+Tech FAX Ext.:
+Tech Email:hostmaster@1and1.fr
+Name Server:NS11.1AND1.FR
+Name Server:NS12.1AND1.FR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
