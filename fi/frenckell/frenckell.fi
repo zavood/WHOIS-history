@@ -1,0 +1,20 @@
+
+domain:   frenckell.fi
+descr:    FRENCKELLIN KIRJAPAINO OY
+descr:    01082992
+address:  c/o AAtsto Muukkonen &amp; Soikkeli
+address:  Olarinluoma 16
+address:  02200
+address:  ESPOO
+phone:    00000000
+status:   Grace Period
+created:  3.7.1997
+expires:  31.8.2011
+nserver:  ns1.eunet.fi [Ok]
+nserver:  ns2.eunet.fi [Ok]
+nserver:  ns3.eunet.fi [Ok]
+dnssec:   no
+modified: 1.9.2011
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

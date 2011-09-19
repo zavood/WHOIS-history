@@ -1,0 +1,37 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: FJO1006D-NORID
+Domain Name................: fjordinfo.no
+Domain Holder Handle.......: RIPA7O-NORID
+Registrar Handle...........: REG885-NORID
+Legal-c Handle.............: EB2960P-NORID
+Tech-c Handle..............: FIDD4R-NORID
+Name Server Handle.........: PC15H-NORID
+Name Server Handle.........: PC21H-NORID
+
+Additional information:
+Created:         1999-11-15
+Last updated:    2010-11-17
+
+NORID Handle...............: RIPA7O-NORID
+Type.......................: organization
+Name.......................: REGIONAL IKT PLATTFORM AS
+Id Type....................: organization_number
+Id Number..................: 984492871
+Registrar Handle...........: REG885-NORID
+Post Address...............: Sognahallen
+Post Address...............: Postboks 163
+Postal Code................: NO-6851
+Postal Area................: SOGNDAL
+Country....................: NO
+Phone Number...............: +47.57676150
+Fax Number.................: +47.57676190
+Email Address..............: postmaster@fjordinfo.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

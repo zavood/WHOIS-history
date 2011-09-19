@@ -1,0 +1,113 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; recyclez-moi.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      recyclez-moi.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CE1027-FRNIC
+admin-c:     SC4248-FRNIC
+tech-c:      NB1756-FRNIC
+tech-c:      OH251-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL13195-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 03/03
+created:     03/03/2010
+last-update: 03/03/2010
+source:      FRNIC
+
+ns-list:     NSL13195-FRNIC
+nserver:     ns6.oleane.net
+nserver:     ns7.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     CE1027-FRNIC
+type:        ORGANIZATION
+contact:     CORDON ELECTRONICS
+address:     5, boulevard du Petit Paris
+address:     22100 Taden
+country:     FR
+phone:       +33 8 92 69 27 92
+fax-no:      +33 2 96 85 82 21
+e-mail:      SERGE.CORDON@cordonweb.com
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SC4248-FRNIC
+type:        PERSON
+contact:     Serge Cordon
+address:     CORDON ELECTRONICS
+address:     5, boulevard du Petit Paris
+address:     22100 Taden
+country:     FR
+phone:       +33 8 92 69 27 92
+fax-no:      +33 8 92 69 27 92
+e-mail:      SERGE.CORDON@cordonweb.com
+changed:     03/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     NB1756-FRNIC
+type:        PERSON
+contact:     Noel Bugault
+address:     CORDON ELECTRONICS
+address:     5, boulevard du Petit Paris
+address:     22100 Taden
+country:     FR
+phone:       +33 8 92 69 27 92
+fax-no:      +33 8 92 69 27 92
+e-mail:      NOEL.BUGAULT@cordonweb.com
+changed:     03/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3199047-LROR
+Domain Name:SASCHINA.ORG
+Created On:19-Nov-1997 05:00:00 UTC
+Last Updated On:15-Apr-2011 00:43:44 UTC
+Expiration Date:18-Nov-2018 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25112202-NSI
+Registrant Name:Shanghai American School
+Registrant Organization:Shanghai American School
+Registrant Street1:#258 Jinfeng Lu, Zhudi town, Minhang
+Registrant Street2:Dist.
+Registrant Street3:
+Registrant City:shanghai
+Registrant State/Province:
+Registrant Postal Code:201107
+Registrant Country:CN
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:Bonita.Grice@SASCHINA.ORG
+Admin ID:25112203-NSI
+Admin Name:Shanghai American School
+Admin Street1:258 JinFeng Lu, Zhudi Town, Mi
+Admin Street2:Shanghai, 201107
+Admin Street3:
+Admin City:Shanghai
+Admin State/Province:
+Admin Postal Code:99999
+Admin Country:CN
+Admin Phone:+1.8621622114452
+Admin Phone Ext.:
+Admin FAX:+1.862162210773
+Admin FAX Ext.:
+Admin Email:tech@SASCHINA.ORG
+Tech ID:25112203-NSI
+Tech Name:Shanghai American School
+Tech Street1:258 JinFeng Lu, Zhudi Town, Mi
+Tech Street2:Shanghai, 201107
+Tech Street3:
+Tech City:Shanghai
+Tech State/Province:
+Tech Postal Code:99999
+Tech Country:CN
+Tech Phone:+1.8621622114452
+Tech Phone Ext.:
+Tech FAX:+1.862162210773
+Tech FAX Ext.:
+Tech Email:tech@SASCHINA.ORG
+Name Server:NS1.EASYDNS.COM
+Name Server:NS2.EASYDNS.COM
+Name Server:REMOTE1.EASYDNS.COM
+Name Server:REMOTE2.EASYDNS.COM
+Name Server:REMOTE3.EASYDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

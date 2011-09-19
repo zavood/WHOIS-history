@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160402543-LROR
+Domain Name:TH3LEQEND.ORG
+Created On:14-Oct-2010 04:25:08 UTC
+Last Updated On:14-Dec-2010 03:48:40 UTC
+Expiration Date:14-Oct-2011 04:25:08 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:C128702492848129
+Registrant Name:th3leqend
+Registrant Organization:th3leqend
+Registrant Street1:farzet mah celebi cad no 21
+Registrant Street2:
+Registrant Street3:
+Registrant City:istanbukl
+Registrant State/Province:zytnbrnu
+Registrant Postal Code:25500
+Registrant Country:TR
+Registrant Phone:+1.8005001212
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:r00tzgrup@gmail.com
+Admin ID:C128702492848126
+Admin Name:mehmet s??yler
+Admin Organization:th3leqend
+Admin Street1:farzet mah celebi cad no 21
+Admin Street2:
+Admin Street3:
+Admin City:istanbukl
+Admin State/Province:zytnbrnu
+Admin Postal Code:25500
+Admin Country:TR
+Admin Phone:+1.8005001212
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:r00tzgrup@gmail.com
+Tech ID:C128702492848128
+Tech Name:YahooDomains TechContact
+Tech Organization:Yahoo! Inc
+Tech Street1:701 First Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Sunnyvale
+Tech State/Province:CA
+Tech Postal Code:94089
+Tech Country:US
+Tech Phone:+1.4089162124
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain.tech@yahoo-inc.com
+Name Server:NS1.KOCHOST.COM
+Name Server:NS2.KOCHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

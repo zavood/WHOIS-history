@@ -1,0 +1,110 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; altitudeformation.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      altitudeformation.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    AF394-FRNIC
+admin-c:     CG1854-FRNIC
+tech-c:      EM4016-FRNIC
+tech-c:      ST41-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL8688-FRNIC
+registrar:   E.L.B. MULTIMEDIA - Netissime
+anniversary: 07/02
+created:     07/02/2006
+last-update: 16/02/2006
+source:      FRNIC
+
+ns-list:     NSL8688-FRNIC
+nserver:     ns1.dns26.net
+nserver:     ns2.dns26.net
+source:      FRNIC
+
+registrar:   E.L.B. MULTIMEDIA - Netissime
+type:        Isp Option 1
+address:     13/15/17 Rue Jean Bourgey
+address:     VILLEURBANNE
+country:     FR
+phone:       +33 4 37 43 00 37
+fax-no:      +33 4 37 43 00 38
+e-mail:      info@netissime.com
+website:     http://www.netissime.com
+anonymous:   NO
+registered:  12/07/2000
+source:      FRNIC
+
+nic-hdl:     EM4016-FRNIC
+type:        ROLE
+contact:     elb multimedia
+address:     ELB MULTIMEDIA
+address:     17, rue Jean Bourgey
+address:     69100 Villeurbanne
+country:     FR
+phone:       +33 4 37 43 00 37
+e-mail:      info@netissime.com
+admin-c:     DE1803-FRNIC
+tech-c:      DE1803-FRNIC
+notify:      info@netissime.com
+changed:     23/05/2006 info@netissime.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CG1854-FRNIC
+type:        PERSON
+contact:     Christophe Guigo
+address:     Altitude formation
+address:     35, avenue de Romans
+address:     38360 Sassenage
+country:     FR
+phone:       +33 4 67 99 63 68
+e-mail:      guigo.christophe@wanadoo.fr
+changed:     07/02/2006 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AF394-FRNIC
+type:        ORGANIZATION
+contact:     Altitude formation
+address:     35, avenue de Romans
+address:     38360 Sassenage
+country:     FR
+phone:       +33 4 67 99 63 68
+e-mail:      guigo.christophe@wanadoo.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ST41-FRNIC
+type:        PERSON
+contact:     Support Technique
+address:     ELB MULTIMEDIA
+address:     17, rue Jean Bourgey
+address:     69100 Villeurbanne
+country:     FR
+phone:       +33 4 37 43 00 37
+fax-no:      +33 4 37 43 00 38
+e-mail:      help@netissime.com
+changed:     23/05/2006 technique@netissime.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

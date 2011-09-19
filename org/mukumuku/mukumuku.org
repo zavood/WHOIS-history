@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154938820-LROR
+Domain Name:MUKUMUKU.ORG
+Created On:19-Dec-2008 19:56:46 UTC
+Last Updated On:26-Jul-2011 00:25:10 UTC
+Expiration Date:19-Dec-2012 19:56:46 UTC
+Sponsoring Registrar:1API GmbH (R1724-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:MKR7486912-WPHN
+Registrant Name:Mark Karpeles
+Registrant Street1:20 E. DELAWARE AVE, # 1085
+Registrant Street2:
+Registrant Street3:
+Registrant City:Newark, Delaware
+Registrant State/Province:
+Registrant Postal Code:19711
+Registrant Country:US
+Registrant Phone:+1.3024427145
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:auto-tr@mutumsigillum.com
+Admin ID:MKK6985692-DRQF
+Admin Name:Mark Karpeles
+Admin Organization:K.K. Tibanne
+Admin Street1:Cerulean Tower 15F
+Admin Street2:
+Admin Street3:
+Admin City:Shibuya
+Admin State/Province:Tokyo
+Admin Postal Code:150-8512
+Admin Country:JP
+Admin Phone:+81.345501529
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:contact@tibanne.com
+Tech ID:MKK6985692-DRQF
+Tech Name:Mark Karpeles
+Tech Organization:K.K. Tibanne
+Tech Street1:Cerulean Tower 15F
+Tech Street2:
+Tech Street3:
+Tech City:Shibuya
+Tech State/Province:Tokyo
+Tech Postal Code:150-8512
+Tech Country:JP
+Tech Phone:+81.345501529
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:contact@tibanne.com
+Name Server:NS1.XTA.NET
+Name Server:NS2.XTA.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

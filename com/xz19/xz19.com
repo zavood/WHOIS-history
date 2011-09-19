@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 29-mar-2011
    Expiration Date: 29-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 18:52:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 05:48:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -109,8 +109,8 @@ Phone:         +86.8657187027930
 Fax:           +1.8657187027930
 Email Address: bizbj@hotmail.com
 
-Timestamp: 1316285587.4454
+Timestamp: 1316411340.7425
 
 The Data in the  WHOIS database is provided by  for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.   does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to  (or its systems).  reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
 
-Cached on: 2011-09-17T12:53:07-06:00
+Cached on: 2011-09-18T23:49:00-06:00

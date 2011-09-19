@@ -1,0 +1,20 @@
+
+domain:   kuvalehdet.fi
+descr:    Otavamedia Oy
+descr:    01968072
+address:  Raimo Valkama
+address:  Maistraatinportti 1
+address:  00015
+address:  Otavamedia
+phone:    0405116641
+status:   Granted
+created:  1.1.1991
+expires:  31.8.2012
+nserver:  ns1.eunet.fi [Ok]
+nserver:  ns2.eunet.fi [Ok]
+nserver:  ns3.eunet.fi [Ok]
+dnssec:   no
+modified: 26.8.2009
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

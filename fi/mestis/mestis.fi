@@ -1,0 +1,19 @@
+
+domain:   mestis.fi
+descr:    Suomen J&auml;&auml;kiekkoliitto ry
+descr:    02021374
+address:  Mikko Lamberg
+address:  M&auml;kel&auml;nkatu 91
+address:  00610
+address:  Helsinki
+phone:    0975675504
+status:   Granted
+created:  1.9.2003
+expires:  1.9.2012
+nserver:  ns-fi.elisa.net [Ok]
+nserver:  ns-se.elisa.net [Ok]
+dnssec:   no
+modified: 17.6.2011
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

@@ -1,0 +1,20 @@
+
+domain:   datafrank.fi
+descr:    Datafrank Oy
+descr:    10201850
+address:  Johto
+address:  Vuorikatu 14 A
+address:  00100
+address:  Helsinki
+phone:    09-5860650
+status:   Granted
+created:  1.1.1991
+expires:  1.9.2012
+nserver:  ns1.eunet.fi [Ok]
+nserver:  ns2.eunet.fi [Ok]
+nserver:  ns3.eunet.fi [Ok]
+dnssec:   no
+modified: 24.8.2009
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

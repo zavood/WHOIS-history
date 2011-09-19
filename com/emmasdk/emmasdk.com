@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 23-jan-2011
    Expiration Date: 23-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 04:46:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 05:29:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,54 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Domain Name ..................... emmasdk.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc678625874-cn
-Registrant Name ................. wang yin
-Registrant Organization ......... wangyin
-Registrant Address .............. beijing
-Registrant City ................. beijingshi
-Registrant Province/State ....... beijing
-Registrant Postal Code .......... 400000
+Name Server ..................... ns1.ultimatecpanel.com
+                                  ns2.ultimatecpanel.com
+Registrant ID ................... hc732392152-cn
+Registrant Name ................. xingying chen
+Registrant Organization ......... Union Investment Management Co., Ltd. Guangzhou
+Registrant Address .............. guangzhoushitianhequzhujiangxinchenghuaxialu28
+Registrant City ................. guangzhou
+Registrant Province/State ....... guangdong
+Registrant Postal Code .......... 510000
 Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.01064244489 - 10
-Registrant Fax .................. +86.6429486700 - 100
-Registrant Email ................ 133991917@qq.com
-Administrative ID ............... hc678625874-cn
-Administrative Name ............. wang yin
-Administrative Organization ..... wangyin
-Administrative Address .......... beijing
-Administrative City ............. beijingshi
-Administrative Province/State ... beijing
-Administrative Postal Code ...... 400000
+Registrant Phone Number ......... +86.02085209207 -
+Registrant Fax .................. +86.02085209207 -
+Registrant Email ................ cuntiecxy@hotmail.com
+Administrative ID ............... hc175701258-cn
+Administrative Name ............. dapeng Zhang
+Administrative Organization ..... Zhang dapeng
+Administrative Address .......... chengdebeilu road 510 huaian china
+Administrative City ............. Huaian
+Administrative Province/State ... Jiangsu
+Administrative Postal Code ...... 223300
 Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.01064244489 - 10
-Administrative Fax .............. +86.6429486700 - 100
-Administrative Email ............ 133991917@qq.com
-Billing ID ...................... hichina001-cn
-Billing Name .................... hichina
-Billing Organization ............ HiChina Web Solutions Limited
-Billing Address ................. 3/F., HiChina Mansion
-                                  No.27 Gulouwai Avenue
-                                  Dongcheng District
-Billing City .................... Beijing
-Billing Province/State .......... Beijing
-Billing Postal Code ............. 100011
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.01064242299 -
-Billing Fax ..................... +86.01064258796 -
-Billing Email ................... domainadm@hichina.com
-Technical ID .................... hichina001-cn
-Technical Name .................. hichina
-Technical Organization .......... HiChina Web Solutions Limited
-Technical Address ............... 3/F., HiChina Mansion
-                                  No.27 Gulouwai Avenue
-                                  Dongcheng District
+Administrative Phone Number ..... +86.03125079340 -
+Administrative Fax .............. +86.03125079340 -
+Administrative Email ............ 77126484@qq.com
+Technical ID .................... hc477885810-cn
+Technical Name .................. Haihua Yin
+Technical Organization .......... Jia You Home Shopping Group
+Technical Address ............... beijingshihaidianqu
 Technical City .................. Beijing
 Technical Province/State ........ Beijing
-Technical Postal Code ........... 100011
+Technical Postal Code ........... 100088
 Technical Country Code .......... CN
-Technical Phone Number .......... +86.01064242299 -
-Technical Fax ................... +86.01064258796 -
-Technical Email ................. domainadm@hichina.com
+Technical Phone Number .......... +010.59867671 -
+Technical Fax ................... +010.59867669 -
+Technical Email ................. yinhaihua001@gmail.com
+Billing ID ...................... hc202645538-cn
+Billing Name .................... Zhiquan Wang
+Billing Organization ............ Wang Zhiquan
+Billing Address ................. No.180 Wusidong Road
+Billing City .................... Baoding
+Billing Province/State .......... Hebei
+Billing Postal Code ............. 071001
+Billing Country Code ............ CN
+Billing Phone Number ............ +86.03125079340 -
+Billing Fax ..................... +86.03125079340 -
+Billing Email ................... wzq99@126.com
 Expiration Date ................. 2012-01-23 05:31:57

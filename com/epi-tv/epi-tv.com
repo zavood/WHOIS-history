@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 31-oct-1997
    Expiration Date: 30-oct-2016
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 04:48:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 05:32:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -105,7 +105,7 @@ Gibson Guitar Corp
 
    Record expires on 30-Oct-2016.
    Record created on 31-Oct-1997.
-   Database last updated on 18-Sep-2011 00:38:00 EDT.
+   Database last updated on 19-Sep-2011 01:28:12 EDT.
 
    Domain servers in listed order:
 

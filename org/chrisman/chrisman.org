@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D12044791-LROR
+Domain Name:CHRISMAN.ORG
+Created On:02-Nov-1999 18:28:20 UTC
+Last Updated On:21-Oct-2004 20:09:13 UTC
+Expiration Date:02-Nov-2013 18:28:20 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-0LBGQF6G9OO4
+Registrant Name:Lonnie Chrisman
+Registrant Street1:4824 Kingbrook Dr.
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Jose
+Registrant State/Province:CA
+Registrant Postal Code:95124
+Registrant Country:US
+Registrant Phone:+1.4083581640
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:lonnie@chrisman.org
+Admin ID:DOT-70XWY1WKFEH1
+Admin Name:Lonnie Chrisman
+Admin Street1:4824 Kingbrook Dr.
+Admin Street2:
+Admin Street3:
+Admin City:San Jose
+Admin State/Province:CA
+Admin Postal Code:95124
+Admin Country:US
+Admin Phone:+1.4083581640
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:lonnie@chrisman.org
+Tech ID:DOT-WR6Y0C7Z7VWS
+Tech Name:Lonnie Chrisman
+Tech Street1:4824 Kingbrook Dr.
+Tech Street2:
+Tech Street3:
+Tech City:San Jose
+Tech State/Province:CA
+Tech Postal Code:95124
+Tech Country:US
+Tech Phone:+1.4083581640
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:lchrisman@lumina.com
+Name Server:NS1.HOSTSAVE.COM
+Name Server:NS2.HOSTSAVE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

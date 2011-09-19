@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156796663-LROR
+Domain Name:ORIGINART.ORG
+Created On:03-Aug-2009 17:56:43 UTC
+Last Updated On:14-Sep-2011 08:26:11 UTC
+Expiration Date:03-Aug-2012 17:56:43 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:HOLD
+Status:PENDING DELETE RESTORABLE
+Registrant ID:CR11180833
+Registrant Name:Kathleen Gilliland
+Registrant Organization:Origin Art
+Registrant Street1:3738 Madison Lane
+Registrant Street2:Apt. B
+Registrant Street3:
+Registrant City:Falls Church
+Registrant State/Province:Virginia
+Registrant Postal Code:22041
+Registrant Country:US
+Registrant Phone:+1.7039442136
+Registrant Phone Ext.:
+Registrant FAX:+1.7039442136
+Registrant FAX Ext.:
+Registrant Email:kat_gilliland@yahoo.com
+Admin ID:CR11180837
+Admin Name:Kathleen Gilliland
+Admin Organization:Origin Art
+Admin Street1:3738 Madison Lane
+Admin Street2:Apt. B
+Admin Street3:
+Admin City:Falls Church
+Admin State/Province:Virginia
+Admin Postal Code:22041
+Admin Country:US
+Admin Phone:+1.7039442136
+Admin Phone Ext.:
+Admin FAX:+1.7039442136
+Admin FAX Ext.:
+Admin Email:kat_gilliland@yahoo.com
+Tech ID:CR11180835
+Tech Name:Kathleen Gilliland
+Tech Organization:Origin Art
+Tech Street1:3738 Madison Lane
+Tech Street2:Apt. B
+Tech Street3:
+Tech City:Falls Church
+Tech State/Province:Virginia
+Tech Postal Code:22041
+Tech Country:US
+Tech Phone:+1.7039442136
+Tech Phone Ext.:
+Tech FAX:+1.7039442136
+Tech FAX Ext.:
+Tech Email:kat_gilliland@yahoo.com
+Name Server:NS33.DOMAINCONTROL.COM
+Name Server:NS34.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

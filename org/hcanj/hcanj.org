@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D72799052-LROR
+Domain Name:HCANJ.ORG
+Created On:18-Jun-2001 17:49:24 UTC
+Last Updated On:20-May-2011 09:28:14 UTC
+Expiration Date:18-Jun-2012 17:49:24 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:3328453-NSI
+Registrant Name:CARESOURCE HEALTHCARE COMMUNICATIONS
+Registrant Organization:CARESOURCE HEALTHCARE COMMUNICATIONS
+Registrant Street1:2200 6th Ave
+Registrant Street2:Suite 88
+Registrant Street3:
+Registrant City:SEATTLE
+Registrant State/Province:WA
+Registrant Postal Code:98121
+Registrant Country:US
+Registrant Phone:+1.8004485213
+Registrant Phone Ext.:
+Registrant FAX:+1.2066822901
+Registrant FAX Ext.:
+Registrant Email:webadmin@caresource.com
+Admin ID:5488164-NSI
+Admin Name:Aaron Howard
+Admin Organization:IlluminAge Communicatio Partners
+Admin Street1:2200 Sixth Ave.
+Admin Street2:Suite 833
+Admin Street3:
+Admin City:SEATTLE
+Admin State/Province:WA
+Admin Postal Code:98121
+Admin Country:US
+Admin Phone:+1.2066259128
+Admin Phone Ext.:
+Admin FAX:+1.2066822901
+Admin FAX Ext.:
+Admin Email:webadmin@illuminage.com
+Tech ID:5488164-NSI
+Tech Name:Aaron Howard
+Tech Organization:IlluminAge Communicatio Partners
+Tech Street1:2200 Sixth Ave.
+Tech Street2:Suite 833
+Tech Street3:
+Tech City:SEATTLE
+Tech State/Province:WA
+Tech Postal Code:98121
+Tech Country:US
+Tech Phone:+1.2066259128
+Tech Phone Ext.:
+Tech FAX:+1.2066822901
+Tech FAX Ext.:
+Tech Email:webadmin@illuminage.com
+Name Server:NS.ADHOST.COM
+Name Server:NS0.ADHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

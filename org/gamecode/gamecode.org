@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D31276678-LROR
+Domain Name:GAMECODE.ORG
+Created On:13-Jul-2000 01:41:07 UTC
+Last Updated On:12-Jul-2011 02:22:51 UTC
+Expiration Date:13-Jul-2012 01:41:07 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_8131839
+Registrant Name:Sangkwon Lee
+Registrant Organization:Mad-Head
+Registrant Street1:Sindo Branew Apt. Chang 5(o)dong Dobonggu Seoul
+Registrant Street2:
+Registrant Street3:
+Registrant City:Seoul
+Registrant State/Province:seoul Teukbyeolsi
+Registrant Postal Code:132-736
+Registrant Country:KR
+Registrant Phone:+82.029022185
+Registrant Phone Ext.:
+Registrant FAX:+82.0318232070
+Registrant FAX Ext.:
+Registrant Email:yaroriri@naver.com
+Admin ID:DI_8131839
+Admin Name:Sangkwon Lee
+Admin Organization:Mad-Head
+Admin Street1:Sindo Branew Apt. Chang 5(o)dong Dobonggu Seoul
+Admin Street2:
+Admin Street3:
+Admin City:Seoul
+Admin State/Province:seoul Teukbyeolsi
+Admin Postal Code:132-736
+Admin Country:KR
+Admin Phone:+82.029022185
+Admin Phone Ext.:
+Admin FAX:+82.0318232070
+Admin FAX Ext.:
+Admin Email:yaroriri@naver.com
+Tech ID:DI_5769628
+Tech Name:Ji hong Ha
+Tech Organization:The Korean Sapsaree Association(KSA)
+Tech Street1:Gyeongbuk National Univ. Sangyeok 3(sam)dong Buk
+Tech Street2:
+Tech Street3:
+Tech City:Daegu
+Tech State/Province:seoul Teukbyeolsi
+Tech Postal Code:702-701
+Tech Country:KR
+Tech Phone:+82.0539530370
+Tech Phone Ext.:
+Tech FAX:+82.0539530613
+Tech FAX Ext.:
+Tech Email:sapsaree@sapsaree.org
+Name Server:NS1.NAMOWEB.NET
+Name Server:NS2.NAMOWEB.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

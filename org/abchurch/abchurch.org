@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1052373-LROR
+Domain Name:ABCHURCH.ORG
+Created On:06-Feb-1997 05:00:00 UTC
+Last Updated On:02-Feb-2010 17:51:09 UTC
+Expiration Date:07-Feb-2012 05:00:00 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30642639
+Registrant Name:Patty Mays
+Registrant Organization:Antioch Bible Church
+Registrant Street1:12316 134th Ct NE
+Registrant Street2:
+Registrant Street3:
+Registrant City:Redmond
+Registrant State/Province:Washington
+Registrant Postal Code:98052
+Registrant Country:US
+Registrant Phone:+1.4255565905
+Registrant Phone Ext.:
+Registrant FAX:+1.4255561333
+Registrant FAX Ext.:
+Registrant Email:pmays@abchurch.org
+Admin ID:CR30642641
+Admin Name:Kamal Lutfi
+Admin Organization:KsimbaCorp
+Admin Street1:3788 NE 4TH ST
+Admin Street2:
+Admin Street3:
+Admin City:Renton
+Admin State/Province:Washington
+Admin Postal Code:98056
+Admin Country:US
+Admin Phone:+1.2066831460
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:kamal@ksimbacorp.com
+Tech ID:CR30642640
+Tech Name:Kamal Lutfi
+Tech Organization:KsimbaCorp
+Tech Street1:3788 NE 4TH ST
+Tech Street2:
+Tech Street3:
+Tech City:Renton
+Tech State/Province:Washington
+Tech Postal Code:98056
+Tech Country:US
+Tech Phone:+1.2066831460
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:kamal@ksimbacorp.com
+Name Server:NS3.KSIMBACORP.COM
+Name Server:NS4.KSIMBACORP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

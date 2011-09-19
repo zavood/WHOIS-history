@@ -1,0 +1,89 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 07:05:23 2011
+
+domain:       klfree.cz
+registrant:   SB:JS528-RIPE_XX
+admin-c:      JS528-RIPE
+nsset:        NSS:ARCHA-CZ:3
+registrar:    REG-GENREG
+status:       paid and in zone
+registered:   02.02.2005 12:55:00
+changed:      24.10.2006 21:35:00
+expire:       02.02.2012
+
+contact:      SB:JS528-RIPE_XX
+name:         Jaroslav St&Aring;™e&Aring;&iexcl;t&Atilde;&shy;k
+address:      Dlouh&Atilde;&iexcl; 32
+address:      Praha 1
+address:      110 00
+address:      CZ
+e-mail:       strestik@profinet.cz
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      17.01.2002 11:30:00
+
+contact:      JS528-RIPE
+name:         Jaroslav Strestik
+address:      Dlouh&Atilde;&iexcl;  32
+address:      Praha 1
+address:      110 00
+address:      CZ
+phone:        +420 603200855
+fax-no:       +420 221103205
+e-mail:       strestik@profinet.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+changed:      03.01.2002 11:16:00
+
+nsset:        NSS:ARCHA-CZ:3
+nserver:      ns1.klfree.cz (81.201.48.46)
+nserver:      charon.hkfree.org
+nserver:      ns2.klfree.cz (81.201.48.45)
+nserver:      france.cust.ignum.cz
+tech-c:       HS1972
+tech-c:       SB:ARCHA-CZ
+registrar:    REG-GENREG
+created:      01.10.2007 02:00:00
+
+contact:      HS1972
+name:         Hugo &Aring;&nbsp;vec
+address:      Zelen&Atilde;&iexcl; 12
+address:      Praha 6
+address:      16000
+address:      CZ
+phone:        +420.603899978
+e-mail:       domeny@archa.cz
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      01.10.2007 17:55:00
+
+contact:      SB:ARCHA-CZ
+org:          Archa, s.r.o.
+name:         Archa, s.r.o.
+address:      Kotorska 28
+address:      Praha 4
+address:      140 00
+address:      CZ
+e-mail:       dns@archa.cz
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      01.10.2007 18:10:00
+
+

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 28-jan-2011
    Expiration Date: 28-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 04:24:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 04:51:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Marek Smirnov
-   Drottingholmswagen 190-4
-   Stockholm,  57264
-   Sweden
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: HUGEMATURETUBE.COM
-      Created on: 28-Jan-11
-      Expires on: 28-Jan-12
-      Last Updated on: 30-Jan-11
-
-   Administrative Contact:
-      Smirnov, Marek  andreibild@gmail.com
-      Drottingholmswagen 190-4
-      Stockholm,  57264
-      Sweden
-      +46.125500745      Fax --
-
-   Technical Contact:
-      Smirnov, Marek  andreibild@gmail.com
-      Drottingholmswagen 190-4
-      Stockholm,  57264
-      Sweden
-      +46.125500745      Fax --
 
    Domain servers in listed order:
       NS1.MATURENATION.COM
       NS2.MATURENATION.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=HUGEMATURETUBE.COM
