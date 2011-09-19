@@ -1,0 +1,104 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; 2340.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      2340.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    GGG11-FRNIC
+admin-c:     FA1207-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL7722-FRNIC
+registrar:   GANDI
+anniversary: 30/01
+created:     30/01/2007
+last-update: 28/05/2007
+source:      FRNIC
+
+ns-list:     NSL7722-FRNIC
+nserver:     ns31791.ovh.net
+nserver:     sdns1.ovh.net
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     FA1207-FRNIC
+type:        PERSON
+contact:     Faustine Aury
+address:     GCI-groupe Grey
+address:     37, rue de Bellefond
+address:     75009 Paris
+country:     FR
+phone:       +33 1 49 70 43 24
+fax-no:      +33 1 49 70 43 24
+e-mail:      faury@gci-grey.com
+changed:     30/01/2007 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GGG11-FRNIC
+type:        ORGANIZATION
+contact:     COHN&amp;WOLFE
+address:     37, rue de Bellefond
+address:     75009 Paris
+country:     FR
+phone:       +33 1 49 70 43 24
+fax-no:      +33 1 49 70 44 03
+e-mail:      93ae776648d8f69251c38367bab76343-gg947@contact.gandi.net
+changed:     11/05/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

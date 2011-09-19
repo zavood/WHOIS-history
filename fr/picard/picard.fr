@@ -50,18 +50,6 @@ anonymous:   NO
 registered:  16/03/2007
 source:      FRNIC
 
-nic-hdl:     PS4717-FRNIC
-type:        ORGANIZATION
-contact:     Picard Surgeles
-address:     17-19, place de la Resistance
-address:     92446 Issy-les-Moulineaux
-country:     FR
-changed:     02/12/2009 nic@nic.fr
-anonymous:   NO
-obsoleted:   NO
-idstatus:    ok
-source:      FRNIC
-
 nic-hdl:     JMC374-FRNIC
 type:        PERSON
 contact:     Jean Michel Colas
@@ -75,6 +63,18 @@ e-mail:      jm_colas@picard.fr
 changed:     27/05/2009 nic@nic.fr
 anonymous:   NO
 obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PS4717-FRNIC
+type:        ORGANIZATION
+contact:     Picard Surgeles
+address:     17-19, place de la Resistance
+address:     92446 Issy-les-Moulineaux
+country:     FR
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
 source:      FRNIC
 
 nic-hdl:     DT790-FRNIC

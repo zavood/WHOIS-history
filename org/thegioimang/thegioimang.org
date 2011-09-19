@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152331147-LROR
+Domain Name:THEGIOIMANG.ORG
+Created On:10-Apr-2008 04:29:52 UTC
+Last Updated On:12-Apr-2011 05:01:25 UTC
+Expiration Date:10-Apr-2012 04:29:52 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_8007811
+Registrant Name:Luong Van Khiem
+Registrant Organization:N/A
+Registrant Street1:c39/17 phuong chanh nghia thi xa thu dau mot tinh binh duong
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ho Chi Minh
+Registrant State/Province:Binh Duong
+Registrant Postal Code:70000
+Registrant Country:VN
+Registrant Phone:+84.07807700
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:luongvankhiem@yahoo.com
+Admin ID:DI_8007811
+Admin Name:Luong Van Khiem
+Admin Organization:N/A
+Admin Street1:c39/17 phuong chanh nghia thi xa thu dau mot tinh binh duong
+Admin Street2:
+Admin Street3:
+Admin City:Ho Chi Minh
+Admin State/Province:Binh Duong
+Admin Postal Code:70000
+Admin Country:VN
+Admin Phone:+84.07807700
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:luongvankhiem@yahoo.com
+Tech ID:DI_8007811
+Tech Name:Luong Van Khiem
+Tech Organization:N/A
+Tech Street1:c39/17 phuong chanh nghia thi xa thu dau mot tinh binh duong
+Tech Street2:
+Tech Street3:
+Tech City:Ho Chi Minh
+Tech State/Province:Binh Duong
+Tech Postal Code:70000
+Tech Country:VN
+Tech Phone:+84.07807700
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:luongvankhiem@yahoo.com
+Name Server:NS1.SGCDNS.COM
+Name Server:NS2.SGCDNS.COM
+Name Server:NS3.SGCDNS.COM
+Name Server:NS4.SGCDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

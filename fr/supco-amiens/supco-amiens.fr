@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; supco-amiens.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      supco-amiens.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    GSDC2-FRNIC
+admin-c:     NBB3-FRNIC
+tech-c:      GW257-FRNIC
+tech-c:      NBB3-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL33095-FRNIC
+registrar:   RENATER
+anniversary: 29/09
+created:     04/09/1995
+last-update: 03/11/2009
+source:      FRNIC
+
+ns-list:     NSL33095-FRNIC
+nserver:     ns.supco-amiens.fr [194.167.2.10]
+nserver:     gip.u-picardie.fr [193.49.184.17]
+nserver:     orion.utc.fr [195.83.155.16]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     NBB3-FRNIC
+type:        PERSON
+contact:     Nathalie Bertin Boussu
+address:     Groupe Sup de Co Amiens Picardie
+address:     18, place Saint Michel
+address:     80038 Amiens Cedex
+country:     FR
+phone:       +33 22 82 24 00
+fax-no:      +33 22 82 23 01
+e-mail:      nathalie.bertin-boussu@supco-amiens.fr
+notify:      nathalie.bertin-boussu@supco-amiens.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GW257-FRNIC
+type:        PERSON
+contact:     Gilles Watteau
+address:     Groupe Sup de Co
+address:     18, place Saint Michel
+address:     80038 Amiens Cedex 1
+country:     FR
+phone:       +33 22 82 24 00
+fax-no:      +33 22 82 23 01
+e-mail:      gilles.watteau@supco-amiens.fr
+notify:      gilles.watteau@supco-amiens.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GSDC2-FRNIC
+type:        ORGANIZATION
+contact:     CHAMBRE COMMERCE ET D INDUSTRIE D AMIE
+address:     6, boulevard de Belfort
+address:     80000 Amiens
+country:     FR
+phone:       +33 3 22 82 22 22
+changed:     14/01/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

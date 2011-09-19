@@ -1,0 +1,88 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D82727237-LROR
+Domain Name:PEPPERPIKE.ORG
+Created On:18-Jan-2002 18:51:52 UTC
+Last Updated On:19-Sep-2011 19:14:48 UTC
+Expiration Date:18-Jan-2016 18:51:52 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:RENEWPERIOD
+Registrant ID:CR30356654
+Registrant Name:Prashant Shah
+Registrant Organization:City of Pepper Pike
+Registrant Street1:28000 Shaker Blvd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Pepper Pike
+Registrant State/Province:Ohio
+Registrant Postal Code:44124
+Registrant Country:US
+Registrant Phone:+1.2168318500
+Registrant Phone Ext.:
+Registrant FAX:+1.2168316525
+Registrant FAX Ext.:
+Registrant Email:finance@pepperpike.org
+Admin ID:CR30356656
+Admin Name:Prashant Shah
+Admin Organization:City of Pepper Pike
+Admin Street1:28000 Shaker Blvd
+Admin Street2:
+Admin Street3:
+Admin City:Pepper Pike
+Admin State/Province:Ohio
+Admin Postal Code:44124
+Admin Country:US
+Admin Phone:+1.2168318500
+Admin Phone Ext.:
+Admin FAX:+1.2168316525
+Admin FAX Ext.:
+Admin Email:finance@pepperpike.org
+Tech ID:CR30356655
+Tech Name:Prashant Shah
+Tech Organization:City of Pepper Pike
+Tech Street1:28000 Shaker Blvd
+Tech Street2:
+Tech Street3:
+Tech City:Pepper Pike
+Tech State/Province:Ohio
+Tech Postal Code:44124
+Tech Country:US
+Tech Phone:+1.2168318500
+Tech Phone Ext.:
+Tech FAX:+1.2168316525
+Tech FAX Ext.:
+Tech Email:finance@pepperpike.org
+Name Server:NS1.NETNOWLEDGE.COM
+Name Server:NS2.NETNOWLEDGE.COM
+Name Server:NS3.NETNOWLEDGE.COM
+Name Server:NS4.NETNOWLEDGE.COM
+Name Server:NS5.NETNOWLEDGE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

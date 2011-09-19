@@ -11,12 +11,12 @@ for detailed information.
    Referral URL: http://www.webnames.ru
    Name Server: NS1.NAMESELF.COM
    Name Server: NS2.NAMESELF.COM
-   Status: ok
-   Updated Date: 21-jul-2011
+   Status: clientHold
+   Updated Date: 19-sep-2011
    Creation Date: 21-jul-2011
    Expiration Date: 21-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 21:35:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 20:52:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

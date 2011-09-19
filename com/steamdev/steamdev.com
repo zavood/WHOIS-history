@@ -12,11 +12,11 @@ for detailed information.
    Name Server: NS5.MISTER.NET
    Name Server: NS6.MISTER.NET
    Status: clientTransferProhibited
-   Updated Date: 18-sep-2010
+   Updated Date: 16-sep-2011
    Creation Date: 18-sep-2010
-   Expiration Date: 18-sep-2011
+   Expiration Date: 18-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:24:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 20:12:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -94,7 +94,7 @@ Name Servers:
    ns6.mister.net
 
 Creation date: 18 Sep 2010 18:12:00
-Expiration date: 18 Sep 2011 13:12:00
+Expiration date: 18 Sep 2012 13:12:00
 
 
 

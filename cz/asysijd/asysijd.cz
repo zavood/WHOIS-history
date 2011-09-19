@@ -1,0 +1,102 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 21:56:30 2011
+
+domain:       asysijd.cz
+registrant:   SB:MP507-RIPE_XX
+admin-c:      TV117-RIPE
+temp-c:       MB-ASYS
+temp-c:       MS-ASYS
+nsset:        NSS:TV117-RIPE_XX:1
+registrar:    REG-GENREG
+status:       paid and in zone
+registered:   05.04.1997 02:00:00
+changed:      21.10.2004 12:35:00
+expire:       11.10.2012
+
+contact:      SB:MP507-RIPE_XX
+org:          Asys IJD spol. s r.o.
+name:         Asys IJD spol. s r.o.
+address:      Havlickova 605
+address:      Kolin IV
+address:      280 99
+address:      CZ
+e-mail:       tomas.vycital@asys.cz
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+
+contact:      TV117-RIPE
+name:         Tomas Vycital
+address:      Havlickova 605
+address:      Kolin IV
+address:      280 99
+address:      CZ
+phone:        +420 321721237
+fax-no:       +420 321721237
+e-mail:       tomas.vycital@asys.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+
+contact:      MB-ASYS
+name:         Martina Benesova
+address:      Ov=E8=E1reck=E1 333
+address:      Kol=EDn V
+address:      280 00
+address:      CZ
+phone:        +420 321721402
+fax-no:       +420 321712066
+e-mail:       info@konstav.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+changed:      03.12.2001 08:51:00
+
+contact:      MS-ASYS
+name:         Pavel Tvrd&Atilde;&shy;k
+address:      Heverova 249
+address:      Kol&Atilde;&shy;n IV
+address:      280 02
+address:      CZ
+phone:        +420.321721237
+fax-no:       +420.321721237
+e-mail:       pavel.tvrdik@asys.cz
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      17.04.2009 12:21:01
+
+nsset:        NSS:TV117-RIPE_XX:1
+nserver:      server.asysijd.cz (193.85.146.161)
+nserver:      ns.eunet.cz
+tech-c:       MS-ASYS
+tech-c:       TV117-RIPE
+tech-c:       SB:TV117-RIPE_XX
+registrar:    REG-GENREG
+created:      01.10.2007 02:00:00
+
+contact:      SB:TV117-RIPE_XX
+org:          Asys IJD spol. s r.o.
+name:         Asys IJD spol. s r.o.
+address:      Havlickova 605
+address:      Kolin IV
+address:      280 99
+address:      CZ
+e-mail:       tomas.vycital@asys.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+
+

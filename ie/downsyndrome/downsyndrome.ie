@@ -1,0 +1,25 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      downsyndrome.ie
+descr:       Downs Syndrome Ireland
+descr:       Unincorporated Association
+descr:       Unincorporated Association Name
+admin-c:     AAE48-IEDR
+tech-c:      BGB1-IEDR
+renewal:     05-April-2012
+status:      Active
+nserver:     ns1.dublin13.com
+nserver:     ns0.gradwell.com
+nserver:     ns1.gradwell.net
+source:      IEDR
+
+person:      Christina Riordan
+nic-hdl:     AAE48-IEDR
+source:      IEDR
+
+person:      Brian Greene
+nic-hdl:     BGB1-IEDR
+source:      IEDR
+

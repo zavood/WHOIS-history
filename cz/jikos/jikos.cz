@@ -1,0 +1,63 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 21:47:10 2011
+
+domain:       jikos.cz
+registrant:   SB:JK2060-RIPE_XX
+admin-c:      JK2060-RIPE
+nsset:        NSS:JK2060-RIPE_XX:2
+registrar:    REG-KRAXNET
+status:       paid and in zone
+registered:   28.05.1998 02:00:00
+expire:       12.10.2012
+
+contact:      SB:JK2060-RIPE_XX
+org:          JiKos
+name:         Jiri Kosina
+address:      Konevova 178
+address:      Praha 3
+address:      130 00
+address:      CZ
+e-mail:       jikos@jikos.cz
+registrar:    REG-KRAXNET
+created:      10.08.2001 22:13:00
+changed:      21.08.2003 00:51:00
+
+contact:      JK2060-RIPE
+name:         Jiri Kosina
+address:      Kon&Auml;›vova 178
+address:      Praha 3
+address:      130 00
+address:      CZ
+phone:        +420 602829514
+e-mail:       jikos@jikos.cz
+registrar:    REG-KRAXNET
+created:      10.08.2001 22:13:00
+changed:      21.08.2003 00:46:00
+
+nsset:        NSS:JK2060-RIPE_XX:2
+nserver:      ns.kraxnet.com
+nserver:      twin.jikos.cz (89.185.236.188)
+tech-c:       SB:JK2060-RIPE_XX
+tech-c:       JK2060-RIPE
+registrar:    REG-KRAXNET
+created:      01.10.2007 02:00:00
+changed:      07.09.2010 17:49:48
+
+

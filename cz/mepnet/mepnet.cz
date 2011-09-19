@@ -1,0 +1,60 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 21:36:10 2011
+
+domain:       mepnet.cz
+registrant:   SB:MV993-RIPE_XX
+admin-c:      MV993-RIPE
+nsset:        NSS:MV993-RIPE_XX:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   10.09.1998 02:00:00
+changed:      26.11.2003 07:21:00
+expire:       28.10.2015
+
+contact:      SB:MV993-RIPE_XX
+org:          MHMP
+name:         MHMP
+address:      Marianske nam. 2
+address:      Praha 1
+address:      110 01
+address:      CZ
+e-mail:       vrba@magnet.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      01.07.2003 17:36:00
+
+contact:      MV993-RIPE
+name:         Miroslav Vrba
+address:      CZ
+phone:        +420 224482821
+fax-no:       +420 22325483
+e-mail:       vrba@magnet.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:MV993-RIPE_XX:1
+nserver:      ns.eunet.cz
+nserver:      ns.mepnet.cz (193.86.30.98)
+tech-c:       SB:MV993-RIPE_XX
+tech-c:       MV993-RIPE
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+
+

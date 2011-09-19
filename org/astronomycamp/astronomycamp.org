@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D76450600-LROR
+Domain Name:ASTRONOMYCAMP.ORG
+Created On:27-Aug-2001 01:49:54 UTC
+Last Updated On:06-Jul-2011 21:14:39 UTC
+Expiration Date:27-Aug-2014 01:49:54 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:70059730e6cb7882
+Registrant Name:Chris Gottbrath
+Registrant Organization:Chris Gottbrath
+Registrant Street1:200 Honeysuckle Lane
+Registrant Street2:
+Registrant Street3:
+Registrant City:Starkville
+Registrant State/Province:MS
+Registrant Postal Code:39759
+Registrant Country:US
+Registrant Phone:+1.6623244048
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:gottbrath@gmail.com
+Admin ID:C42739170-RCOM
+Admin Name:Chris Gottbrath
+Admin Organization:Chris Gottbrath
+Admin Street1:200 Honeysuckle Lane
+Admin Street2:
+Admin Street3:
+Admin City:Starkville
+Admin State/Province:MS
+Admin Postal Code:39759
+Admin Country:US
+Admin Phone:+1.6623244048
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gottbrath@gmail.com
+Tech ID:C42739171-RCOM
+Tech Name:Chris Gottbrath
+Tech Organization:Chris Gottbrath
+Tech Street1:200 Honeysuckle Lane
+Tech Street2:
+Tech Street3:
+Tech City:Starkville
+Tech State/Province:MS
+Tech Postal Code:39759
+Tech Country:US
+Tech Phone:+1.6623244048
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:gottbrath@gmail.com
+Name Server:NS1.CHANGEIP.COM
+Name Server:NS2.CHANGEIP.COM
+Name Server:NS3.CHANGEIP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

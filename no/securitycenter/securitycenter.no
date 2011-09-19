@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: SEC427D-NORID
+Domain Name................: securitycenter.no
+Domain Holder Handle.......: CNA545O-NORID
+Registrar Handle...........: REG897-NORID
+Legal-c Handle.............: JS6656P-NORID
+Tech-c Handle..............: ITF1R-NORID
+Tech-c Handle..............: MS6490P-NORID
+Name Server Handle.........: NSVI155H-NORID
+Name Server Handle.........: TOMM5H-NORID
+
+Additional information:
+Created:         2004-11-29
+Last updated:    2011-06-28
+
+NORID Handle...............: CNA545O-NORID
+Type.......................: organization
+Name.......................: COMPUTERLAND NORGE AS
+Id Type....................: organization_number
+Id Number..................: 991239855
+Registrar Handle...........: REG897-NORID
+Post Address...............: &Oslash;kernveien 94
+Postal Code................: NO-0579
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.32897790
+Email Address..............: Michael.Scheel@umoeikt.no
+
+Additional information:
+Created:         2011-06-28
+Last updated:    2011-06-28
+

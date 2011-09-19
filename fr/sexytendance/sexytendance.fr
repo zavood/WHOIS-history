@@ -1,0 +1,80 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; sexytendance.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      sexytendance.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      RM2210-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL32938-FRNIC
+registrar:   MONAROBASE
+anniversary: 13/10
+created:     13/10/2009
+last-update: 28/10/2009
+source:      FRNIC
+
+ns-list:     NSL32938-FRNIC
+nserver:     ns7005.monarobase.net
+nserver:     nssec5.monarobase.net
+source:      FRNIC
+
+registrar:   MONAROBASE
+type:        Isp Option 2
+address:     LA VINCENDIERE
+address:     LES ETILLEUX
+country:     FR
+phone:       +33 2 37 29 13 42
+fax-no:      +33 2 72 22 02 03
+e-mail:      domaines@monarobase.net
+website:     http://www.monarobase.net
+anonymous:   NO
+registered:  23/01/2008
+source:      FRNIC
+
+nic-hdl:     RM2210-FRNIC
+type:        ROLE
+contact:     role-monarobase
+address:     Monarobase
+address:     la Vincendiere
+address:     28330 Les Etilleux
+country:     FR
+e-mail:      tech@monarobase.net
+admin-c:     RH792-FRNIC
+tech-c:      RH792-FRNIC
+changed:     04/02/2008 tech@monarobase.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     13/10/2009 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+

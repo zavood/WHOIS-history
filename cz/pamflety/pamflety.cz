@@ -1,0 +1,89 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 21:56:23 2011
+
+domain:       pamflety.cz
+registrant:   SB:LIMEMEDIA
+admin-c:      ADAMKR
+temp-c:       IGNUM-C23559-I92
+nsset:        NSGLOW
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   15.01.2002 11:21:00
+changed:      23.06.2008 11:34:08
+expire:       22.01.2019
+
+contact:      SB:LIMEMEDIA
+org:          Limemedia, a.s.
+name:         Jan &Aring;&nbsp;abat
+address:      Nad Petruskou 63/1
+address:      Praha 2
+address:      12000
+address:      CZ
+phone:        +420.224409955
+fax-no:       +420.224409966
+e-mail:       domeny@limemedia.cz
+registrar:    REG-IGNUM
+created:      07.10.2005 13:05:00
+changed:      09.03.2011 16:02:13
+
+contact:      ADAMKR
+name:         Adam Krikava
+address:      Senov&Atilde;&iexcl;&Aring;&frac34;n&Atilde;&copy; n&Atilde;&iexcl;m&Auml;›st&Atilde;&shy; 5
+address:      Praha 1
+address:      11000
+address:      CZ
+phone:        +420.605296303
+e-mail:       krikava@internetradio.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      22.04.2005 14:55:00
+
+contact:      IGNUM-C23559-I92
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Slab&Atilde;&frac12;
+address:      Senov&Atilde;&iexcl;&Aring;&frac34;n&Atilde;&copy; n&Atilde;&iexcl;m&Auml;›st&Atilde;&shy; 5
+address:      Praha 1
+address:      11000
+address:      CZ
+e-mail:       slaby@abradio.com
+registrar:    REG-IGNUM
+created:      11.01.2005 12:45:00
+changed:      22.04.2005 14:35:00
+
+nsset:        NSGLOW
+nserver:      ns.glow.cz (77.78.110.88)
+nserver:      sns.glow.cz (195.140.253.123)
+tech-c:       VESELYR
+registrar:    REG-IGNUM
+created:      08.10.2007 16:58:02
+changed:      30.05.2011 16:40:02
+
+contact:      VESELYR
+name:         Roman Vesel&Atilde;&frac12;
+address:      Nadrazni 164
+address:      Liten
+address:      267 27
+address:      CZ
+phone:        +420 603150504
+e-mail:       roman@liten.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      12.08.2004 11:25:00
+
+

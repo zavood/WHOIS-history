@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 13-oct-1999
    Expiration Date: 13-oct-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:36:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 20:18:46 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -115,10 +115,10 @@ Registrant:
 
     Domain servers in listed order:
 
-    auth00.ns.uu.net
-    ns4.hrblock.com
     auth100.ns.uu.net
     ns3.hrblock.com
+    ns4.hrblock.com
+    auth00.ns.uu.net
 
 
 

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160589577-LROR
+Domain Name:MAKEOWNPOWER.ORG
+Created On:04-Nov-2010 21:45:42 UTC
+Last Updated On:04-Jan-2011 03:51:36 UTC
+Expiration Date:04-Nov-2011 21:45:42 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:D128889810451350
+Registrant Name:JAMES JOHNSON
+Registrant Organization:makeownpower
+Registrant Street1:P.O.BOX 654
+Registrant Street2:
+Registrant Street3:
+Registrant City:HULL
+Registrant State/Province:GA
+Registrant Postal Code:30646
+Registrant Country:US
+Registrant Phone:+1.7067785449
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hellohereisjim@gmail.com
+Admin ID:D128889810451347
+Admin Name:JAMES JOHNSON
+Admin Organization:makeownpower
+Admin Street1:P.O.BOX 654
+Admin Street2:
+Admin Street3:
+Admin City:HULL
+Admin State/Province:GA
+Admin Postal Code:30646
+Admin Country:US
+Admin Phone:+1.7067785449
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hellohereisjim@gmail.com
+Tech ID:D128889810451349
+Tech Name:YahooDomains TechContact
+Tech Organization:Yahoo! Inc
+Tech Street1:701 First Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Sunnyvale
+Tech State/Province:CA
+Tech Postal Code:94089
+Tech Country:US
+Tech Phone:+1.4089162124
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain.tech@yahoo-inc.com
+Name Server:NS19.HOSTING24.COM
+Name Server:NS20.HOSTING24.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

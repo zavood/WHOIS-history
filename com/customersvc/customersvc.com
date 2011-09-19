@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 24-sep-1996
    Expiration Date: 23-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 14:12:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 20:06:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,12 +117,12 @@ Registrant:
 
     Domain servers in listed order:
 
-    londnsext2.timeinc.com
-    tpadnsext2.timeinc.com
     tpadnsext1.timeinc.com
-    nycdnsext1.timeinc.com
     londnsext1.timeinc.com
     nycdnsext2.timeinc.com
+    londnsext2.timeinc.com
+    nycdnsext1.timeinc.com
+    tpadnsext2.timeinc.com
 
 
 

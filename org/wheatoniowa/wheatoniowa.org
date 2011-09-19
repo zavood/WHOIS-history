@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156251318-LROR
+Domain Name:WHEATONIOWA.ORG
+Created On:28-May-2009 17:51:00 UTC
+Last Updated On:28-Jul-2009 03:55:02 UTC
+Expiration Date:28-May-2014 17:51:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR3468709
+Registrant Name:Adam Lewis
+Registrant Organization:Spinutech Inc.
+Registrant Street1:201 Washington Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cedar Falls
+Registrant State/Province:Iowa
+Registrant Postal Code:50613
+Registrant Country:US
+Registrant Phone:+1.3192777816
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:adam@spinutech.com
+Admin ID:CR3468713
+Admin Name:Adam Lewis
+Admin Organization:Spinutech Inc.
+Admin Street1:201 Washington Street
+Admin Street2:
+Admin Street3:
+Admin City:Cedar Falls
+Admin State/Province:Iowa
+Admin Postal Code:50613
+Admin Country:US
+Admin Phone:+1.3192777816
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:adam@spinutech.com
+Tech ID:CR3468711
+Tech Name:Adam Lewis
+Tech Organization:Spinutech Inc.
+Tech Street1:201 Washington Street
+Tech Street2:
+Tech Street3:
+Tech City:Cedar Falls
+Tech State/Province:Iowa
+Tech Postal Code:50613
+Tech Country:US
+Tech Phone:+1.3192777816
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:adam@spinutech.com
+Name Server:RESOLVETHIS.SPINUTECH.COM
+Name Server:NS1.SPINUTECH.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

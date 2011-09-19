@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 24-jul-2002
    Expiration Date: 24-jul-2015
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 08:23:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 20:31:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,34 +80,9 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Domains by Proxy, Inc.
-   DomainsByProxy.com
-   15111 N. Hayden Rd., Ste 160, PMB 353
-   Scottsdale, Arizona 85260
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: HOMEREPAIRFORUM.COM
-      Created on: 24-Jul-02
-      Expires on: 24-Jul-15
-      Last Updated on: 01-Apr-10
-
-   Administrative Contact:
-      Private, Registration  HOMEREPAIRFORUM.COM@domainsbyproxy.com
-      Domains by Proxy, Inc.
-      DomainsByProxy.com
-      15111 N. Hayden Rd., Ste 160, PMB 353
-      Scottsdale, Arizona 85260
-      United States
-      (480) 624-2599      Fax -- (480) 624-2598
-
-   Technical Contact:
-      Private, Registration  HOMEREPAIRFORUM.COM@domainsbyproxy.com
-      Domains by Proxy, Inc.
-      DomainsByProxy.com
-      15111 N. Hayden Rd., Ste 160, PMB 353
-      Scottsdale, Arizona 85260
-      United States
-      (480) 624-2599      Fax -- (480) 624-2598
 
    Domain servers in listed order:
       NS1.MYDYNDNS.ORG
@@ -116,3 +91,6 @@ Registrant:
       NS4.MYDYNDNS.ORG
       NS5.MYDYNDNS.ORG
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=HOMEREPAIRFORUM.COM

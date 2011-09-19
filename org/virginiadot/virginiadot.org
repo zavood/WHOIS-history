@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D56599879-LROR
+Domain Name:VIRGINIADOT.ORG
+Created On:01-Feb-2001 16:26:54 UTC
+Last Updated On:18-Jun-2010 14:19:15 UTC
+Expiration Date:01-Feb-2020 16:26:54 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:5652824-NSI
+Registrant Name:VirginiaDepartmentof Transportation
+Registrant Organization:VirginiaDepartmentof Transportation
+Registrant Street1:1401 E. Broad Street
+Registrant Street2:**
+Registrant Street3:
+Registrant City:Richmond
+Registrant State/Province:VA
+Registrant Postal Code:23219
+Registrant Country:US
+Registrant Phone:+1.8042253540
+Registrant Phone Ext.:
+Registrant FAX:+1.8047866250
+Registrant FAX Ext.:
+Registrant Email:ceperich_cn@vdot.state.va.us
+Admin ID:5652823-NSI
+Admin Name:VA Dept. of Transportation Pub. Affairs Web section
+Admin Organization:Virginia Department of Transportation
+Admin Street1:1401 E. Broad Street, Room 302
+Admin Street2:
+Admin Street3:
+Admin City:Richmond
+Admin State/Province:VA
+Admin Postal Code:23219
+Admin Country:US
+Admin Phone:+1.8047867539
+Admin Phone Ext.:
+Admin FAX:+1.8047866250
+Admin FAX Ext.:
+Admin Email:cynthia.brown@vdot.virginia.gov
+Tech ID:17671299-NSI
+Tech Name:Va.Dept.of Information Technology
+Tech Organization:Va.Dept.of Information Technology
+Tech Street1:110 S. 7th Street, 3rd floor
+Tech Street2:
+Tech Street3:
+Tech City:Richmond
+Tech State/Province:VA
+Tech Postal Code:23219
+Tech Country:US
+Tech Phone:+1.80478639
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:rtraycie@dit.state.va.us
+Name Server:DIT1.STATE.VA.US
+Name Server:DIT3.STATE.VA.US
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

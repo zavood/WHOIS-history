@@ -1,0 +1,106 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; gullireplay.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      gullireplay.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    JT440-FRNIC
+admin-c:     FS2212-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL20484-FRNIC
+registrar:   GANDI
+anniversary: 12/04
+created:     12/04/2010
+last-update: 28/04/2010
+source:      FRNIC
+
+ns-list:     NSL20484-FRNIC
+nserver:     ns0.fr.claradns.net
+nserver:     ns1.fr.claradns.net
+nserver:     ns2.fr.claradns.net
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JT440-FRNIC
+type:        ORGANIZATION
+contact:     JEUNESSE TV
+address:     JEUNESSE TV
+address:     12, rue d'Oradour sur Glane
+address:     75015 Paris
+country:     FR
+phone:       +33 1 41 34 72 38
+e-mail:      direction.juridique@lagardere-active.com
+changed:     03/08/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     FS2212-FRNIC
+type:        ORGANIZATION
+contact:     HACHETTE FILIPACCHI PRESSE
+address:     HACHETTE FILIPACCHI PRESSE
+address:     149, rue Anatole France
+address:     92534 Levallois-Perret
+country:     FR
+phone:       +33 1 41 34 72 38
+fax-no:      +33 1 41 34 72 24
+e-mail:      direction.juridique@lagardere-active.com
+changed:     12/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

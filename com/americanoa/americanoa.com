@@ -6,17 +6,17 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
    Domain Name: AMERICANOA.COM
-   Registrar: FASTDOMAIN, INC.
-   Whois Server: whois.fastdomain.com
-   Referral URL: http://www.fastdomain.com
-   Name Server: NS1.NETFIRMS.COM
-   Name Server: NS2.NETFIRMS.COM
-   Status: pendingDelete
-   Updated Date: 10-sep-2011
-   Creation Date: 24-jul-2011
-   Expiration Date: 24-jul-2012
+   Registrar: ABOVE.COM PTY LTD.
+   Whois Server: whois.above.com
+   Referral URL: http://www.above.com
+   Name Server: NS3.ABOVE.COM
+   Name Server: NS4.ABOVE.COM
+   Status: ok
+   Updated Date: 16-sep-2011
+   Creation Date: 16-sep-2011
+   Expiration Date: 16-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 20:15:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 20:35:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,82 +51,65 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data in the Netfirms, Inc. WHOIS database is provided
-to you by Netfirms, Inc. for information purposes only,
-that is, to assist you in obtaining information about or related to
-a domain name registration record. Netfirms, Inc. makes
-this information available &quot;as is,&quot; and does not guarantee its
-accuracy.  By submitting a WHOIS query, you  agree that you will use
-this data only for lawful purposes and that, under no circumstances
-will you use this data to: (1) allow, enable, or otherwise support
-the transmission of mass unsolicited, commercial advertising or
-solicitations via direct mail, electronic mail, or by telephone; or
-(2) enable high volume, automated, electronic processes that apply
-to Netfirms, Inc. (or its systems). The compilation,
-repackaging, dissemination or other use of this data is expressly
-prohibited without the prior written consent of
-Netfirms, Inc.. Netfirms, Inc. reserves the
-right to modify these terms at any time.  By submitting this query,
-you agree to abide by these terms.
+Registration Service Provided By: ABOVE.COM, PTY. LTD.
+Contact: +613.95897946
 
-=-=-=-=
+    Domain Name: AMERICANOA.COM
 
-Registrar: FastDomain Inc.
-Provider Name....: Netfirms, Inc.
-Provider Whois...: whois.fastdomain.com
-Provider Homepage: http://www.netfirms.com/
+    Registrant:
+        Above.com Domain Privacy
+        8 East concourse
 
-Domain Name: AMERICANOA.COM
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
 
-EXPIRED DOMAIN
+    Creation date: 2011-09-17
+    Expiration Date: 2012-09-17
 
-This domain has expired and will soon be deleted at the registry.
-If this is your domain, and you would like to retain control, please
-call customer support to have your domain restored.
+    Domain servers in listed order:
+        ns3.above.com
+        ns4.above.com
 
-   Created on..............: 2011-07-24 18:52:13 GMT
-   Expires on..............: 2012-07-24 18:52:13 GMT
-   Last modified on........: 2011-08-10 16:58:21 GMT
+    Administrative Contact:
+        Above.com Domain Privacy
+        8 East concourse
 
-Registrant Info: (FAST-16039232)
-   Netfirms
-   Domain Support
-   70 Blanchard rd.
-   Burlington, Massachusetts 01803
-   United States
-   Phone: +1.8663174678
-   Fax..:
-   Email: domains@netfirms.com
-   Last modified: 2011-08-09 22:50:26 GMT
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
 
-Administrative Info: (FAST-16039232)
-   Netfirms
-   Domain Support
-   70 Blanchard rd.
-   Burlington, Massachusetts 01803
-   United States
-   Phone: +1.8663174678
-   Fax..:
-   Email: domains@netfirms.com
-   Last modified: 2011-08-09 22:50:26 GMT
+    Technical Contact:
+        Above.com Domain Privacy
+        8 East concourse
 
-Technical Info: (FAST-16039233)
-   Netfirms
-   K.L. Peterson
-   70 Blanchard Road
-   Burlington, Massachusetts 01803
-   United States
-   Phone: +1.8663174678
-   Fax..: +1.7812726550
-   Email: support@netfirms.com
-   Last modified: 2011-07-24 18:52:13 GMT
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
 
-Status: Locked - Pending Delete
+    Billing Contact:
+        Above.com Domain Privacy
+        8 East concourse
 
-Domain servers in listed order:
+        Beaumaris
+        VIC
+        3193
+        AU
+        hostmaster@above.com
+        Tel. +61.395897946
+	Fax.
 
-   NS2.NETFIRMS.COM
-   NS1.NETFIRMS.COM
-   =-=-=-=
-
+    The data in this whois database is provided to you for information purposes only, that is, to assist you in obtaining information about or related to a domain name registration record. We make this information available &quot;as is&quot;, and do not guarantee its accuracy. By submitting a whois query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (1) enable high volume, automated, electronic processes that stress or load this whois database system providing you this information; or (2) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone. The compilation, repackaging, dissemination or other use of this data is expressly prohibited without prior written consent from us. The Registrar of record is Above.com, Pty. Ltd. We reserve the right to modify these terms at any time. By submitting this query, you agree to abide by these terms.
 

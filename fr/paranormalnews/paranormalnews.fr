@@ -1,0 +1,81 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; paranormalnews.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      paranormalnews.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     DN498-FRNIC
+tech-c:      DN498-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2890-FRNIC
+registrar:   LIGNE WEB SERVICES - LWS
+anniversary: 09/08
+created:     28/07/2008
+last-update: 09/08/2011
+source:      FRNIC
+
+ns-list:     NSL2890-FRNIC
+nserver:     ns1.infomaniak.ch
+nserver:     ns2.infomaniak.ch
+source:      FRNIC
+
+registrar:   LIGNE WEB SERVICES - LWS
+type:        Isp Option 1
+address:     4 Rue Galvani
+address:     PARIS
+country:     FR
+phone:       0 826 102 413
+fax-no:      +33 3 29 38 47 07
+e-mail:      afnic@lws.fr
+website:     http://www.lws.fr
+anonymous:   NO
+registered:  02/01/2007
+source:      FRNIC
+
+nic-hdl:     DN498-FRNIC
+type:        ROLE
+contact:     Soci&eacute;t&eacute; LWS
+address:     LWS
+address:     4, rue Galvani
+address:     75017 Paris
+country:     FR
+phone:       +33 8 92 70 04 79
+e-mail:      afnic@lws.fr
+admin-c:     LL1496-FRNIC
+tech-c:      LL1496-FRNIC
+changed:     20/06/2008 afnic@lws.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     28/07/2008 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+

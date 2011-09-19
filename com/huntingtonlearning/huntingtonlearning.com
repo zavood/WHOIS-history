@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 09-mar-1999
    Expiration Date: 09-mar-2016
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 07:28:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 19:57:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: huntingtonlearning.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sun Sep 18 03:18:43 EDT 2011
+Date and Time of Query: Mon Sep 19 15:47:28 EDT 2011
 Reason Code: IE

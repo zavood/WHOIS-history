@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D25893467-LROR
+Domain Name:NAHBA.ORG
+Created On:28-Apr-2000 18:54:42 UTC
+Last Updated On:30-Mar-2011 09:55:15 UTC
+Expiration Date:28-Apr-2012 18:54:42 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:eb7d650595b95025
+Registrant Name:Juanice  Hagan
+Registrant Organization:Florida DOT
+Registrant Street1:605 Suwanne Street MS22
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tallahassee
+Registrant State/Province:FL
+Registrant Postal Code:32399
+Registrant Country:US
+Registrant Phone:+1.1504144605
+Registrant Phone Ext.:
+Registrant FAX:+1.1504144605
+Registrant FAX Ext.:
+Registrant Email:juanice.hagan@dot.state.fl.us
+Admin ID:a6d83e427bd1a5c9
+Admin Name:T  Jackson
+Admin Organization:Jackson Technical LLC
+Admin Street1:415 S. Boston Ave. Ste 105
+Admin Street2:
+Admin Street3:
+Admin City:Tulsa
+Admin State/Province:OK
+Admin Postal Code:74103
+Admin Country:US
+Admin Phone:+1.9185858324
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dns@jacksontechnical.com
+Tech ID:a6d83e427bd1a5c9
+Tech Name:T  Jackson
+Tech Organization:Jackson Technical LLC
+Tech Street1:415 S. Boston Ave. Ste 105
+Tech Street2:
+Tech Street3:
+Tech City:Tulsa
+Tech State/Province:OK
+Tech Postal Code:74103
+Tech Country:US
+Tech Phone:+1.9185858324
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dns@jacksontechnical.com
+Name Server:NS.HOSTSITE4U.COM
+Name Server:NS2.HOSTSITE4U.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,115 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 21:38:29 2011
+
+domain:       eunet.cz
+registrant:   GTSCZECH
+admin-c:      MACKU-NXT
+admin-c:      MM-GTSCZ
+nsset:        NSS:GTS-NOVERA:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   28.12.1996 01:00:00
+changed:      20.12.2010 15:01:18
+expire:       21.10.2012
+
+contact:      GTSCZECH
+org:          GTS Czech s.r.o.
+name:         Josef Macku
+address:      P&Aring;™emyslovsk&Atilde;&iexcl; 2845/43
+address:      Praha 3
+address:      13000
+address:      CZ
+phone:        +420.225252525
+e-mail:       josef.macku@gtsce.com
+registrar:    REG-IGNUM
+created:      11.10.2010 15:28:02
+
+contact:      MACKU-NXT
+name:         Josef Macku
+address:      V Celnici 10
+address:      Praha 1
+address:      117 21
+address:      CZ
+phone:        +420 96355111
+fax-no:       +420 96355112
+e-mail:       josef.macku@nextra.cz
+registrar:    REG-IGNUM
+created:      16.11.2001 17:36:00
+changed:      20.11.2003 14:50:00
+
+contact:      MM-GTSCZ
+name:         Michael Macek
+address:      Hvezdova 33
+address:      Praha 4
+address:      140 21
+address:      CZ
+phone:        +420 296 157 111
+fax-no:       +420 296 157 444
+e-mail:       michael.macek@gtsgroup.cz
+registrar:    REG-IGNUM
+created:      09.01.2003 12:25:00
+
+nsset:        NSS:GTS-NOVERA:1
+nserver:      ns1.gts.cz
+nserver:      ns2.gts.cz
+tech-c:       MACKU-NXT
+tech-c:       PAPOK-CZ
+tech-c:       SB:GTS-NOVERA
+tech-c:       FKR-CZ
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+
+contact:      PAPOK-CZ
+name:         Pavel Pokorny
+address:      Sokolovska 86
+address:      Praha 8
+address:      18600
+address:      CZ
+phone:        +420.296157111
+fax-no:       +420.296157157
+e-mail:       pavel.pokorny@gtsnovera.cz
+registrar:    REG-IGNUM
+created:      27.10.2005 11:55:00
+
+contact:      SB:GTS-NOVERA
+org:          GTS NOVERA a.s.
+name:         GTS NOVERA a.s.
+address:      P&Aring;™emyslovsk&Atilde;&iexcl; 2845/43
+address:      Praha 3
+address:      130 00
+address:      CZ
+e-mail:       info@gtsnovera.cz
+registrar:    REG-IGNUM
+created:      09.01.2006 12:15:00
+changed:      29.01.2007 17:45:00
+
+contact:      FKR-CZ
+name:         Filip Krupka
+address:      Vinohradska 184
+address:      Praha 3
+address:      130 52
+address:      CZ
+phone:        +420 296157111
+fax-no:       +420 296157444
+e-mail:       filip.krupka@gtsgroup.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+
+

@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D16127413-LROR
+Domain Name:OKLA-CHIEFS.ORG
+Created On:27-Dec-1999 21:38:20 UTC
+Last Updated On:26-Feb-2009 07:44:50 UTC
+Expiration Date:27-Dec-2011 21:38:19 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:10686732083890
+Registrant Name:Oklahoma Association of Chiefs of Police (OKLA-CHIEFS2-DOM)
+Registrant Street1:3701 S.E. 15th Street
+Registrant Street2:_
+Registrant Street3:
+Registrant City:Del City
+Registrant State/Province:OK
+Registrant Postal Code:73115
+Registrant Country:US
+Registrant Phone:+99.999999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@USITS.COM
+Admin ID:10686732094080
+Admin Name:Jim Stoddard
+Admin Street1:3701 S.E. 15th Street
+Admin Street2:_
+Admin Street3:
+Admin City:Del City
+Admin State/Province:OK
+Admin Postal Code:73115
+Admin Country:US
+Admin Phone:+1.4056721225
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@USITS.COM
+Tech ID:10686732102160
+Tech Name:Domain Administrator
+Tech Street1:PO Box 3895
+Tech Street2:_
+Tech Street3:
+Tech City:Englewood
+Tech State/Province:CO
+Tech Postal Code:80155
+Tech Country:US
+Tech Phone:+1.18014370220
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@securesites.com
+Name Server:NS.INMOTIONHOSTING.COM
+Name Server:NS2.INMOTIONHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

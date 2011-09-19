@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 14-may-1999
    Expiration Date: 14-may-2014
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 16:37:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 20:00:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -85,7 +85,7 @@ Administrative Contact Postal Code:      94103
 Administrative Contact Country:          United States
 Administrative Contact Phone:            +1.4152557215
 Administrative Contact Facsimile Number:
-Administrative Contact Email:            biz@flixster-inc.com
+Administrative Contact Email:            tlim@warnerbros.com
 
 
 Technical Contact Name:                  flixster admin
@@ -98,7 +98,7 @@ Technical Contact Postal Code:           94103
 Technical Contact Country:               United States
 Technical Contact Phone:                 +1.4152557215
 Technical Contact Facsimile Number:
-Technical Contact Email:                 biz@flixster-inc.com
+Technical Contact Email:                 tlim@warnerbros.com
 
 
 Name Server Name:                        NS3.DTDNS.COM

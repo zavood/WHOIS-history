@@ -5,18 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: GOELIGO.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
-   Name Server: NS01.DOMAINCONTROL.COM
-   Name Server: NS02.DOMAINCONTROL.COM
-   Status: pendingDelete
-   Updated Date: 11-sep-2011
-   Creation Date: 26-jul-2005
-   Expiration Date: 30-jun-2011
-
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 17:10:59 UTC &lt;&lt;&lt;
+No match for &quot;GOELIGO.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 20:09:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-No match for &quot;goeligo.com&quot; in the registrar database.
-

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D51844934-LROR
+Domain Name:WALK4ISRAEL.ORG
+Created On:15-Jan-2001 03:15:30 UTC
+Last Updated On:31-Dec-2007 15:05:30 UTC
+Expiration Date:15-Jan-2017 03:15:30 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:C36414132-RCOM
+Registrant Name:One Family One Family
+Registrant Organization:One Family
+Registrant Street1:Har Tum 19, PO Box 45002, Har Hotzvim
+Registrant Street2:
+Registrant Street3:
+Registrant City:Jerusalem
+Registrant State/Province:
+Registrant Postal Code:91450
+Registrant Country:IL
+Registrant Phone:+972.25817783
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@onefamilyfund.org
+Admin ID:C36414357-RCOM
+Admin Name:One Family One Family
+Admin Organization:One Family
+Admin Street1:Har Tum 19, PO Box 45002, Har Hotzvim
+Admin Street2:
+Admin Street3:
+Admin City:Jerusalem
+Admin State/Province:
+Admin Postal Code:91450
+Admin Country:IL
+Admin Phone:+972.25817783
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@onefamilyfund.org
+Tech ID:C36414358-RCOM
+Tech Name:Domain Registrar
+Tech Organization:Register.Com
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027495429
+Tech FAX Ext.:
+Tech Email:domain-registrar@register.com
+Name Server:NS2.INTERSPACE.NET
+Name Server:NS.INTERSPACE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

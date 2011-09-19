@@ -1,1 +1,84 @@
-WHOIS LIMIT EXCEEDED - SEE WWW.PIR.ORG/WHOIS FOR DETAILS
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107661303-LROR
+Domain Name:DATASHEETCATALOG.ORG
+Created On:02-Oct-2005 13:30:27 UTC
+Last Updated On:20-Aug-2011 06:22:32 UTC
+Expiration Date:02-Oct-2012 13:30:27 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:C112823479360970
+Registrant Name:Neacsu Petrus Sc Roboweb Srl
+Registrant Organization:Neacsu Petrus Sc Roboweb Srl
+Registrant Street1:str.Costache Negruzzi nr.105
+Registrant Street2:Braila 810404
+Registrant Street3:
+Registrant City:Braila
+Registrant State/Province:Braila
+Registrant Postal Code:810404
+Registrant Country:RO
+Registrant Phone:+40.723336392
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:petrusneacsu@hotmail.com
+Admin ID:C112823479360967
+Admin Name:Neacsu Petrus Sc Roboweb Srl
+Admin Organization:Neacsu Petrus Sc Roboweb Srl
+Admin Street1:str.Costache Negruzzi nr.105
+Admin Street2:Braila 810404
+Admin Street3:
+Admin City:Braila
+Admin State/Province:Braila
+Admin Postal Code:810404
+Admin Country:RO
+Admin Phone:+40.723336392
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:petrusneacsu@hotmail.com
+Tech ID:C112823479360969
+Tech Name:YahooDomains TechContact
+Tech Organization:Yahoo! Inc
+Tech Street1:701 First Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Sunnyvale
+Tech State/Province:CA
+Tech Postal Code:94089
+Tech Country:US
+Tech Phone:+1.4089162124
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain.tech@YAHOO-INC.COM
+Name Server:NS1.THEPLANET.COM
+Name Server:NS2.THEPLANET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

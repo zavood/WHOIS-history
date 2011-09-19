@@ -1,0 +1,22 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         4c.sk
+Admin-id            JARO-0413
+Admin-name          Jaroslav Klima
+Admin-legal-form    fyzicka osoba (nepodnikatel)
+Admin-email         domena4c@jaroslavklima.com
+Tech-id             EXOT-0004
+Tech-name           EXO TECHNOLOGIES spol. s r.o.
+Tech-org.-ID        36485161
+Tech-address        Garbiarska 3, Stara Lubovna 06401
+Tech-telephone      +421 907 992 728, +421 907 992 728
+Tech-email          support@exohosting.sk
+dns_name            ns.mysh.cz
+dns_name            ns2.mysh.cz
+Last-update         2011-05-03
+Valid-date          2012-05-17
+Domain-status       DOM_OK
+

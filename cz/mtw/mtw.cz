@@ -1,0 +1,73 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 22:15:04 2011
+
+domain:       mtw.cz
+registrant:   SB:MW1569-RIPE_XX
+admin-c:      MW1569-RIPE
+nsset:        NSS:MTW-CZ:1
+registrar:    REG-ZONER
+status:       paid and in zone
+registered:   01.12.1998 01:00:00
+changed:      21.09.2006 09:55:00
+expire:       21.10.2011
+
+contact:      SB:MW1569-RIPE_XX
+org:          Martin Wetter
+name:         Martin Wetter
+address:      Velenova 12
+address:      Boskovice
+address:      680 01
+address:      CZ
+e-mail:       wetter@mtw.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+
+contact:      MW1569-RIPE
+name:         Martin Wetter
+address:      Velenova 12
+address:      Boskovice
+address:      680 01
+address:      CZ
+phone:        +420 516453026
+fax-no:       +420 516453026
+e-mail:       wetter@mtw.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:MTW-CZ:1
+nserver:      ns.mtw.cz (193.179.179.2)
+nserver:      sns.mtw.cz (193.86.232.10)
+tech-c:       SB:MTW-CZ
+tech-c:       MW1569-RIPE
+registrar:    REG-ZONER
+created:      01.10.2007 02:00:00
+changed:      08.04.2011 23:40:47
+
+contact:      SB:MTW-CZ
+name:         Martin Wetter
+address:      Velenova 12
+address:      Boskovice
+address:      680 01
+address:      CZ
+e-mail:       wetter@mtw.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+
+

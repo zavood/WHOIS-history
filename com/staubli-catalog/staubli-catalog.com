@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 22-feb-2006
    Expiration Date: 22-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 20:13:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 19:50:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,6 +69,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: staubli-catalog.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 16:04:35 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Mon Sep 19 15:41:12 EDT 2011
 Reason Code: IE

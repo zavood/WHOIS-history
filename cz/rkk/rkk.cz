@@ -1,0 +1,102 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 22:04:54 2011
+
+domain:       rkk.cz
+registrant:   SB:HL253-RIPE_XX
+admin-c:      HL253-RIPE
+nsset:        NSS:STMDA:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   23.02.1997 01:00:00
+changed:      19.10.2006 09:45:00
+expire:       07.10.2012
+
+contact:      SB:HL253-RIPE_XX
+name:         Hajo Libor
+address:      Husinecka 7
+address:      Prague 3
+address:      130 00
+address:      CZ
+e-mail:       hajo.libor@st.com
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      08.02.2002 15:30:00
+
+contact:      HL253-RIPE
+name:         Hajo Libor
+address:      U nov&Atilde;&frac12;ch vil 16
+address:      Praha 10
+address:      10000
+address:      CZ
+phone:        +420.272738937
+fax-no:       +420.222540130
+e-mail:       hajo@ikup.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      18.10.2004 15:45:00
+
+nsset:        NSS:STMDA:1
+nserver:      ns.rkk.cz (193.85.150.194)
+nserver:      ns.eunet.cz
+tech-c:       HL253-RIPE
+tech-c:       VL251-RIPE
+tech-c:       PHRUSA
+tech-c:       SB:STMDA
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+
+contact:      VL251-RIPE
+name:         Vladimir Lieberzeit
+address:      Odlehl&Atilde;&iexcl; 324
+address:      Praha 9
+address:      19000
+address:      CZ
+phone:        +420.222541366
+fax-no:       +420.222541370
+e-mail:       vladimir.lieberzeit@upek.com
+registrar:    REG-MEDIA4WEB
+created:      10.08.2001 22:13:00
+changed:      18.10.2004 16:15:00
+
+contact:      PHRUSA
+name:         Pavel Hru&Aring;&iexcl;a
+address:      &Aring;&frac12;alovsk&Atilde;&iexcl; 429/38
+address:      Praha 8
+address:      181 00
+address:      CZ
+phone:        +420.222541366
+fax-no:       +420.222541370
+e-mail:       pavel.hrusa@upek.com
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      23.11.2005 16:35:00
+
+contact:      SB:STMDA
+org:          STMicroelectronics Design and Application s.r.o.
+name:         STMicroelectronics Design and Application s.r.o.
+address:      Husinecka 7 / 548
+address:      Praha 3
+address:      130 00
+address:      CZ
+e-mail:       hajo@ikup.cz,vladimir.lieberzeit@upek.com
+registrar:    REG-ACTIVE24
+created:      13.03.2002 11:41:00
+
+
