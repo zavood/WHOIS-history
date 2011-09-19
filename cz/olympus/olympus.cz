@@ -1,0 +1,112 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 23:31:30 2011
+
+domain:       olympus.cz
+registrant:   SB:MUJOLYMPUSVOS011
+admin-c:      JANVOSAHLIK011
+temp-c:       VZ57-RIPE
+temp-c:       VZOUBEK
+nsset:        NSS:PP110-RIPE_XX:1
+registrar:    REG-CT
+status:       paid and in zone
+registered:   13.02.1997 01:00:00
+changed:      15.07.2005 16:55:00
+expire:       07.10.2015
+
+contact:      SB:MUJOLYMPUSVOS011
+org:          OLYMPUS C&amp;S spol. s r.o.
+name:         OLYMPUS C&amp;S spol. s r.o.
+address:      V Jircharich 10/151
+address:      Praha 1
+address:      111 21
+address:      CZ
+e-mail:       vosahlik@olympus.cz
+registrar:    REG-CT
+created:      22.03.2004 15:20:00
+
+contact:      JANVOSAHLIK011
+name:         Jan Vosahlik
+address:      V Jircharich 10/151
+address:      Praha 1
+address:      111 21
+address:      CZ
+e-mail:       vosahlik@olympus.cz
+registrar:    REG-CT
+created:      22.03.2004 14:50:00
+
+contact:      VZ57-RIPE
+name:         Vlastislav Zoubek
+address:      Olsanska 6
+address:      Praha 3
+address:      130 00
+address:      CZ
+phone:        +420.271466183
+fax-no:       +420.271466185
+e-mail:       hostmaster@iol.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+changed:      02.04.2004 11:23:00
+
+contact:      VZOUBEK
+name:         Vlastislav Zoubek
+address:      Olsanska 5/55
+address:      Praha 3
+address:      130 00
+address:      CZ
+phone:        +420.271466183
+fax-no:       +420.271466185
+e-mail:       billing@iol.cz
+registrar:    REG-CT
+created:      08.10.2002 16:21:00
+changed:      02.04.2004 11:23:00
+
+nsset:        NSS:PP110-RIPE_XX:1
+nserver:      nic.eunet.cz
+nserver:      ns.eunet.cz
+tech-c:       OCS-ZB-SW
+tech-c:       SB:PP110-RIPE_XX
+registrar:    REG-CT
+created:      01.10.2007 02:00:00
+
+contact:      OCS-ZB-SW
+name:         Zbynek Baudys
+address:      V Jircharich 10
+address:      Praha 1
+address:      121 11
+address:      CZ
+phone:        +420 221985254
+fax-no:       +420 221985554
+e-mail:       zbynek.baudys@olympus.cz
+registrar:    REG-CT
+created:      12.09.2002 14:01:00
+
+contact:      SB:PP110-RIPE_XX
+org:          OLYMPUS C&amp;S s.r.o.
+name:         OLYMPUS C&amp;S s.r.o.
+address:      V Jircharich 10, P.O.Box 523
+address:      Praha 1
+address:      111 21
+address:      CZ
+e-mail:       zbynek.baudys@olympus.cz
+registrar:    REG-CT
+created:      10.08.2001 22:13:00
+changed:      03.07.2003 13:21:00
+
+

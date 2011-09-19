@@ -5,36 +5,13 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-16 12:33:59 (BRT -03:00)
+%  2011-09-19 18:12:58 (BRT -03:00)
+
+% Query rate limit exceeded. Reduced information.
+% Use https://registro.br/cgi-bin/avail/ for domain availability.
 
 domain:      site.com.br
-owner:       Simple Host Inform&aacute;tica Ltda.
-ownerid:     024.054.546/0001-93
-responsible: Mateus B Mattos
-country:     BR
-owner-c:     MBM13
-admin-c:     MBM13
-tech-c:      MBM13
-billing-c:   MBM13
-nserver:     ns1.simplehost.com.br
-nsstat:      20110916 AA
-nslastaa:    20110916
-nserver:     ns2.simplehost.com.br
-nsstat:      20110916 AA
-nslastaa:    20110916
-nserver:     ns3.simplehost.com.br
-nsstat:      20110916 AA
-nslastaa:    20110916
-created:     20041127 #1906337
-expires:     20111127
-changed:     20110521
-status:      published
-
-nic-hdl-br:  MBM13
-person:      Mateus B. Mattos
-e-mail:      mateus@simplehost.com.br
-created:     19980521
-changed:     20040920
+owner:       Simple Host Inform&aacute;tica Ltda. (455786)
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

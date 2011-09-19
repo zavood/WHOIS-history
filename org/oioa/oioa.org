@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D8854012-LROR
+Domain Name:OIOA.ORG
+Created On:05-Aug-1999 12:47:10 UTC
+Last Updated On:08-Aug-2011 14:54:21 UTC
+Expiration Date:05-Aug-2014 12:47:02 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:0712273e2ebb2961
+Registrant Name:Timothy Elliget
+Registrant Organization:Ohio Identification Officers Association
+Registrant Street1:237 Woods Ave.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Newark
+Registrant State/Province:OH
+Registrant Postal Code:43055
+Registrant Country:US
+Registrant Phone:+1.7403497317
+Registrant Phone Ext.:
+Registrant FAX:+1.7403496614
+Registrant FAX Ext.:
+Registrant Email:labman@alltel.net
+Admin ID:0712273e2ebb2961
+Admin Name:Timothy Elliget
+Admin Organization:Ohio Identification Officers Association
+Admin Street1:237 Woods Ave.
+Admin Street2:
+Admin Street3:
+Admin City:Newark
+Admin State/Province:OH
+Admin Postal Code:43055
+Admin Country:US
+Admin Phone:+1.7403497317
+Admin Phone Ext.:
+Admin FAX:+1.7403496614
+Admin FAX Ext.:
+Admin Email:labman@alltel.net
+Tech ID:032291559215e337
+Tech Name:Domain Registrar
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027492701
+Tech FAX Ext.:
+Tech Email:domainregistrar@register.com
+Name Server:CLE1.VISN.NET
+Name Server:NS1.FNSI.NET
+Name Server:NS2.FNSI.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

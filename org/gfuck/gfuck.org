@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153975189-LROR
+Domain Name:GFUCK.ORG
+Created On:01-Sep-2008 12:17:10 UTC
+Last Updated On:02-Sep-2011 01:25:37 UTC
+Expiration Date:01-Sep-2012 12:17:10 UTC
+Sponsoring Registrar:Key-Systems GmbH (R51-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:P-730924
+Registrant Name:Whois Protected
+Registrant Organization:VCN - Whois Protection Service Panama
+Registrant Street1:Ramon Arias Avenue Maheli Building, Office 12-E
+Registrant Street2:
+Registrant Street3:
+Registrant City:Panama City
+Registrant State/Province:
+Registrant Postal Code:00000
+Registrant Country:PA
+Registrant Phone:+507.84564866839
+Registrant Phone Ext.:
+Registrant FAX:+507.84564839948
+Registrant FAX Ext.:
+Registrant Email:protect@whois-protect.net
+Admin ID:P-730924
+Admin Name:Whois Protected
+Admin Organization:VCN - Whois Protection Service Panama
+Admin Street1:Ramon Arias Avenue Maheli Building, Office 12-E
+Admin Street2:
+Admin Street3:
+Admin City:Panama City
+Admin State/Province:
+Admin Postal Code:00000
+Admin Country:PA
+Admin Phone:+507.84564866839
+Admin Phone Ext.:
+Admin FAX:+507.84564839948
+Admin FAX Ext.:
+Admin Email:protect@whois-protect.net
+Tech ID:P-730924
+Tech Name:Whois Protected
+Tech Organization:VCN - Whois Protection Service Panama
+Tech Street1:Ramon Arias Avenue Maheli Building, Office 12-E
+Tech Street2:
+Tech Street3:
+Tech City:Panama City
+Tech State/Province:
+Tech Postal Code:00000
+Tech Country:PA
+Tech Phone:+507.84564866839
+Tech Phone Ext.:
+Tech FAX:+507.84564839948
+Tech FAX Ext.:
+Tech Email:protect@whois-protect.net
+Name Server:NS1.NLDNS.NET
+Name Server:NS2.NLDNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

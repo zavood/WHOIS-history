@@ -1,5 +1,5 @@
 % request from 2620:0:2e40:2:20a:95ff:fe71:cab0
-% This is the Ukrainian Whois query server #F.
+% This is the Ukrainian Whois query server #B.
 % Rights restricted by copyright.
 %
 
@@ -26,7 +26,7 @@ source: UANIC
 % Redirecting to external database(s) for contact information
 
 % request from 62.149.14.11
-% This is the Ukrainian Whois query server #F.
+% This is the Ukrainian Whois query server #B.
 % Rights restricted by copyright.
 %
 
@@ -47,7 +47,7 @@ mnt-by:         NONE
 changed:        INAME-UANIC 20101129152612
 source:         UANIC
 
-% Last update of whois database: 17 Sep 2011 15:22:11 +0200 (EET)
+% Last update of whois database: 20 Sep 2011 01:07:09 +0200 (EET)
 
 % Query time:   2 msec
 

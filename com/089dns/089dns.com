@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 25-jan-2010
    Expiration Date: 25-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 01:49:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 21:07:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -82,7 +82,7 @@ DNS:
 	f1g1ns2.dnspod.net
 
 Created: 2010-01-25 17:39:14
-Expires: 2013-01-25 17:39:14
+Expires: 2013-01-25 09:39:14
 Last Modified: 2010-01-25 17:39:14
 
 Registrant Contact:

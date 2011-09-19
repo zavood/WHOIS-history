@@ -1,0 +1,84 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 23:43:32 2011
+
+domain:       cscstavby.cz
+registrant:   SB:S4Y_SKJI290803_S
+admin-c:      S4Y_SKJI290803
+nsset:        NSS:SERVER4YOU:1
+registrar:    REG-IGNUM
+status:       Expired
+registered:   29.08.2003 15:56:00
+changed:      16.09.2003 18:31:00
+expire:       29.08.2011
+
+contact:      SB:S4Y_SKJI290803_S
+org:          CSCstavby
+name:         Jiri Skalik
+address:      Ovocna, 1970/43
+address:      Opava
+address:      74601
+address:      CZ
+e-mail:       cscstavby@centrum.cz
+registrar:    REG-IGNUM
+created:      29.08.2003 15:56:00
+changed:      29.08.2003 13:56:00
+
+contact:      S4Y_SKJI290803
+name:         Jiri Skalik
+address:      Ovocna, 1970/43
+address:      Opava
+address:      74601
+address:      CZ
+phone:        608887823
+e-mail:       cscstavby@centrum.cz
+registrar:    REG-IGNUM
+created:      29.08.2003 15:56:00
+changed:      29.08.2003 13:56:00
+
+nsset:        NSS:SERVER4YOU:1
+nserver:      ns.tripsi.com
+nserver:      ns.server4you.cz
+tech-c:       S4Y_DANIEL
+tech-c:       SB:SERVER4YOU
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+
+contact:      S4Y_DANIEL
+name:         Daniel Hastik
+address:      Hrab&Atilde;&iexcl;kova 1/1861
+address:      Moravsk&Atilde;&iexcl; Ostrava
+address:      702 00
+address:      CZ
+registrar:    REG-IGNUM
+created:      16.04.2002 19:11:00
+changed:      02.09.2008 15:17:09
+
+contact:      SB:SERVER4YOU
+org:          Datahost s.r.o.
+name:         Datahost s.r.o.
+address:      Hrab&Atilde;&iexcl;kova 1/1861
+address:      Moravsk&Atilde;&iexcl; Ostrava
+address:      702 00
+address:      CZ
+registrar:    REG-IGNUM
+created:      16.04.2002 19:31:00
+changed:      02.09.2008 15:33:09
+
+

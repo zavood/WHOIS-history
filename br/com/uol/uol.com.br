@@ -5,51 +5,13 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-18 10:41:10 (BRT -03:00)
+%  2011-09-19 18:16:02 (BRT -03:00)
+
+% Query rate limit exceeded. Reduced information.
+% Use https://registro.br/cgi-bin/avail/ for domain availability.
 
 domain:      uol.com.br
-owner:       Universo Online S.A.
-ownerid:     001.109.184/0004-38
-responsible: Contato da Entidade UOL
-country:     BR
-owner-c:     CAU12
-admin-c:     CAU12
-tech-c:      CTU6
-billing-c:   CCU10
-nserver:     eliot.uol.com.br 200.221.11.98
-nsstat:      20110912 AA
-nslastaa:    20110912
-nserver:     borges.uol.com.br 200.147.255.105
-nsstat:      20110912 AA
-nslastaa:    20110912
-nserver:     charles.uol.com.br 200.147.38.8
-nsstat:      20110912 AA
-nslastaa:    20110912
-nserver:     thomas.uol.com.br 208.113.76.80
-nsstat:      20110912 AA
-nslastaa:    20110912
-created:     19960424 #7137
-expires:     20130424
-changed:     20110523
-status:      published
-
-nic-hdl-br:  CAU12
-person:      Contato Administrativo - UOL
-e-mail:      l-registrobr-uol@corp.uol.com.br
-created:     20031202
-changed:     20100106
-
-nic-hdl-br:  CCU10
-person:      Contato de Cobranca - UOL
-e-mail:      l-adm-dns@uolinc.com
-created:     20031202
-changed:     20070301
-
-nic-hdl-br:  CTU6
-person:      Contato Tecnico - UOL
-e-mail:      l-adm-dns@uolinc.com
-created:     20031202
-changed:     20070301
+owner:       Universo Online S.A. (895741)
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

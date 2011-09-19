@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 09-mar-2002
    Expiration Date: 09-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:42:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 22:41:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -85,37 +85,28 @@ Domain servers in listed order:
 	 ns1.ipowerweb.net 	 ns2.ipowerdns.com
 
 Administrator:
-	 name: Sabrina Sterling
- mail: sterlingfam@tds.net tel: 912-882-6733
+	 Name-- Sabrina Sterling
+ EMail-: (sterlingfam@tds.net)
+ tel --: 912-882-6733
 	 org: Longtail Media
-
-address: 202 Bent Tree Ct
-	 city: St. Marys
-,province: GA
-,country: US
- postcode: 31558
+	 202 Bent Tree Ct
+	 St. Marys,GA,US 31558
 
 Technical Contactor:
-	 name: Domain
- mail: admin@ipowerweb.com tel: 310-314-2776
+	 Name-- Domain
+ EMail-: (admin@ipowerweb.com)
+ tel --: 310-314-2776
 	 org: iPowerWeb, Inc
-
-address: 3435 Ocean Park Blvd. Suite 112-52
-	 city: Santa Monica
-,province: CA
-,country: United States
- postcode: 234567
+	 3435 Ocean Park Blvd. Suite 112-52
+	 Santa Monica,CA,United States 234567
 
 Billing Contactor:
-	 name: Sabrina Sterling
- mail: sterlingfam@tds.net tel: 912-882-6733
+	 Name-- Sabrina Sterling
+ EMail-: (sterlingfam@tds.net)
+ tel --: 912-882-6733
 	 org: Longtail Media
-
-address: 202 Bent Tree Ct
-	 city: St. Marys
-,province: GA
-,country: US
- postcode: 31558
+	 202 Bent Tree Ct
+	 St. Marys,GA,US 31558
 
 
 Registration Service Provider:

@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; scfi.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      scfi.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    S2612-FRNIC
+admin-c:     CT1698-FRNIC
+tech-c:      DT124-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL41195-FRNIC
+registrar:   GROUPE MIT
+anniversary: 22/12
+created:     19/05/2000
+last-update: 20/09/2010
+source:      FRNIC
+
+ns-list:     NSL41195-FRNIC
+nserver:     ns1.groupe-mit.com
+nserver:     ns2.groupe-mit.com
+source:      FRNIC
+
+registrar:   GROUPE MIT
+type:        Isp Option 1
+address:     143 Rue Emile Julien
+address:     MONTPELLIER
+country:     FR
+phone:       0 825 00 33 42
+fax-no:      +33 4 67 65 10 44
+e-mail:      info@drim.com
+website:     http://www.drim.com
+anonymous:   NO
+registered:  18/02/2004
+source:      FRNIC
+
+nic-hdl:     DT124-FRNIC
+type:        ROLE
+contact:     DRIM TECHNOLOGIES
+address:     DRIM TECHNOLOGIES
+address:     Pit de la Pompignane batiment T4
+address:     rue de la Vieille Poste
+address:     34055 Montpellier Cedex 1
+country:     FR
+e-mail:      domaine@drim.com
+admin-c:     PC939-FRNIC
+tech-c:      PC939-FRNIC
+changed:     20/02/2004 domaine@drim.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CT1698-FRNIC
+type:        PERSON
+contact:     Christophe Tatin
+address:     SCFI
+address:     10, rue de la Vrilliere
+address:     75001 Paris
+country:     FR
+phone:       +33 1 42 02 42 48
+fax-no:      +33 1 42 02 41 56
+e-mail:      christophe.tatin@scfi.fr
+changed:     28/08/2008 domaine@drim.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     S2612-FRNIC
+type:        ORGANIZATION
+contact:     SCFI
+address:     10, rue de la Vrilliere
+address:     75001 Paris
+country:     FR
+phone:       +33 1 42 02 42 48
+fax-no:      +33 1 42 02 41 56
+e-mail:      christophe.tatin@scfi.fr
+changed:     11/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

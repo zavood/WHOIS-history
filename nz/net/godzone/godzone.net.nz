@@ -1,0 +1,76 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-20T09:12:01+12:00
+domain_name: godzone.net.nz
+query_status: 200 Active
+domain_dateregistered: 1998-05-25T00:00:00+12:00
+domain_datebilleduntil: 2012-05-25T00:00:00+12:00
+domain_datelastmodified: 2011-08-23T15:24:07+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: GodZone Internet Services
+registrar_address1: PO Box 8020
+registrar_city: Palmerston North
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 6 3578168
+registrar_fax: +64 6 3578165
+registrar_email: domadmin@godzone.net.nz
+%
+registrant_contact_name: GodZone Internet Services
+registrant_contact_address1: PO Box 8020
+registrant_contact_city: Palmerston North
+registrant_contact_postalcode: 4446
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 6 3578168
+registrant_contact_fax: +64 6 3578165
+registrant_contact_email: geustace@godzone.net.nz
+%
+admin_contact_name: Glen Eustace
+admin_contact_address1: 176 Te Awe Awe Street
+admin_contact_city: Palmerston North
+admin_contact_postalcode: 4410
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 6 3578168
+admin_contact_fax: +64 6 3578165
+admin_contact_email: agree@godzone.net.nz
+%
+technical_contact_name: GodZone Internet Services
+technical_contact_address1: P.O.Box 8020
+technical_contact_city: Palmerston North
+technical_contact_postalcode: 4446
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 6 3578168
+technical_contact_fax: +64 6 3578165
+technical_contact_email: domadmin@godzone.net.nz
+%
+ns_ip4_01: 192.138.251.36
+ns_name_01: ns1.godzone.net.nz
+ns_ip6_01: 2001:df0:dc::251:36
+ns_ip4_02: 192.138.251.13
+ns_name_02: ns2.godzone.net.nz
+ns_ip6_02: 2001:fd0:dc::251:13
+ns_ip4_03: 199.127.225.133
+ns_name_03: ns3.godzone.net.nz
+ns_ip6_03: 2001:470:33:2::11c
+ns_ip4_04: 94.102.149.206
+ns_name_04: ns4.godzone.net.nz
+ns_ip6_04: 2a01:7b8:0:1::6
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

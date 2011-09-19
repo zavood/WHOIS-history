@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 14-oct-2004
    Expiration Date: 14-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 16:46:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 21:40:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -86,39 +86,39 @@ Registrar: MONIKER
 
 Registrant [1356546]:
         Mike Frankel Mike@freeindie.com
-        151 E 31st St Apt 26J
+        45 W 67th St Apt 26F
         New York
         NY
-        10013
+        10023
         US
 
 
 Administrative Contact [1356546]:
         Mike Frankel Mike@freeindie.com
-        151 E 31st St Apt 26J
+        45 W 67th St Apt 26F
         New York
         NY
-        10013
+        10023
         US
         Phone: +1.9147727033
 
 
 Billing Contact [1356546]:
         Mike Frankel Mike@freeindie.com
-        151 E 31st St Apt 26J
+        45 W 67th St Apt 26F
         New York
         NY
-        10013
+        10023
         US
         Phone: +1.9147727033
 
 
 Technical Contact [1356546]:
         Mike Frankel Mike@freeindie.com
-        151 E 31st St Apt 26J
+        45 W 67th St Apt 26F
         New York
         NY
-        10013
+        10023
         US
         Phone: +1.9147727033
 

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 09-feb-2004
    Expiration Date: 09-feb-2014
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 19:15:41 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 22:20:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,32 +84,38 @@ Domain servers in listed order:
 	 ns.kugou.net 	 ns1.kugou.net
 
 Administrator:
+	 name:(KuGou Tecnology Information Co. Ltd.)
+	Email:(gaojin@kugou.net) tel-- +86.02085559005
+	 KuGou Tecnology Information Co. Ltd.
 	 GuangZhou, TianHe, KeYun Road, Xinxigang B-13F
-	 GuangZhou
+\r
+t GuangZhou
 GuangDong,
 CN
- 510630
 
-	 name:(KuGou Tecnology Information Co. Ltd.)
-mail:(gaojin@kugou.net) +86.02085559005
-	 KuGou Tecnology Information Co. Ltd.
+ zipcode:510630
+
 Technical Contactor:
+	 name:(KuGou Tecnology Information Co. Ltd.)
+	Email:(gaojin@kugou.net) tel-- +86.02085559005
+	 KuGou Tecnology Information Co. Ltd.
 	 GuangZhou, TianHe, KeYun Road, Xinxigang B-13F
-	 GuangZhou
+\r
+t GuangZhou
 GuangDong,
 CN
- 510630
 
-	 name:(KuGou Tecnology Information Co. Ltd.)
-mail:(gaojin@kugou.net) +86.02085559005
-	 KuGou Tecnology Information Co. Ltd.
+ zipcode:510630
+
 Billing Contactor:
+	 name:(KuGou Tecnology Information Co. Ltd.)
+	Email:(gaojin@kugou.net) tel-- +86.02085559005
+	 KuGou Tecnology Information Co. Ltd.
 	 GuangZhou, TianHe, KeYun Road, Xinxigang B-13F
-	 GuangZhou
+\r
+t GuangZhou
 GuangDong,
 CN
- 510630
 
-	 name:(KuGou Tecnology Information Co. Ltd.)
-mail:(gaojin@kugou.net) +86.02085559005
-	 KuGou Tecnology Information Co. Ltd.
+ zipcode:510630
+

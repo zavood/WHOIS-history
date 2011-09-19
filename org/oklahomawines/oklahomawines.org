@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D85840211-LROR
+Domain Name:OKLAHOMAWINES.ORG
+Created On:22-Apr-2002 13:52:07 UTC
+Last Updated On:01-Apr-2011 15:47:43 UTC
+Expiration Date:22-Apr-2013 13:52:07 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:927134320b014819
+Registrant Name:Oklahoma Grape Growers and Wine Makers Association
+Registrant Organization:Oklahoma Grape Growers and Wine Makers Association
+Registrant Street1:17565 South 210 Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Okmulgee
+Registrant State/Province:OK
+Registrant Postal Code:74447
+Registrant Country:US
+Registrant Phone:+1.4053432463
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:president@oklahomawines.org
+Admin ID:440042820b539466
+Admin Name:Oklahoma Grape Growers and Wine Makers Association
+Admin Organization:Oklahoma Grape Growers and Wine Makers Association
+Admin Street1:17565 South 210 Road
+Admin Street2:
+Admin Street3:
+Admin City:Okmulgee
+Admin State/Province:OK
+Admin Postal Code:74447
+Admin Country:US
+Admin Phone:+1.4053432463
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:president@oklahomawines.org
+Tech ID:848719820b8f5330
+Tech Name:Domain Registrar
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027492701
+Tech FAX Ext.:
+Tech Email:domainregistrar@register.com
+Name Server:NS1.ZABCO.NET
+Name Server:NS2.ZABCO.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

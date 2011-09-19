@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D112041175-LROR
+Domain Name:TUFED.ORG
+Created On:18-Jan-2006 10:39:44 UTC
+Last Updated On:06-May-2011 15:40:41 UTC
+Expiration Date:18-Jan-2012 10:39:44 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:D113756632886844
+Registrant Name:Ahmet $#304;nam
+Registrant Organization:Ahmet $#304;nam
+Registrant Street1:METU
+Registrant Street2:ESKISEHIR YOLU
+Registrant Street3:
+Registrant City:ANKARA
+Registrant State/Province:N/A
+Registrant Postal Code:06231
+Registrant Country:TR
+Registrant Phone:+90.3122103141
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tufedorg@yahoo.com
+Admin ID:D113756632886841
+Admin Name:Ahmet $#304;nam
+Admin Organization:Ahmet $#304;nam
+Admin Street1:METU
+Admin Street2:ESKISEHIR YOLU
+Admin Street3:
+Admin City:ANKARA
+Admin State/Province:N/A
+Admin Postal Code:06231
+Admin Country:TR
+Admin Phone:+90.3122103141
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tufedorg@yahoo.com
+Tech ID:D113756632886843
+Tech Name:YahooDomains TechContact
+Tech Organization:Yahoo! Inc
+Tech Street1:701 First Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Sunnyvale
+Tech State/Province:CA
+Tech Postal Code:94089
+Tech Country:US
+Tech Phone:+1.4089162124
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain.tech@YAHOO-INC.COM
+Name Server:NS02.000WEBHOST.COM
+Name Server:NS01.000WEBHOST.COM
+Name Server:NS1.HOST1FREE.COM
+Name Server:NS2.HOST1FREE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

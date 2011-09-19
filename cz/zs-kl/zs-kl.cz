@@ -1,0 +1,86 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 23:28:36 2011
+
+domain:       zs-kl.cz
+registrant:   SB:MC17-RIPE_XX
+admin-c:      MC17-RIPE
+nsset:        NSS:PAJACAT2:1
+registrar:    REG-ZONER
+status:       paid and in zone
+registered:   17.01.1996 01:00:00
+changed:      03.11.2005 12:55:00
+expire:       06.10.2011
+
+contact:      SB:MC17-RIPE_XX
+org:          Masarykova zakladni skola
+name:         Masarykova zakladni skola
+address:      Slavetinska 200
+address:      Praha - Klanovice
+address:      190 14
+address:      CZ
+e-mail:       cerny@zs-kl.cz
+registrar:    REG-DIAL-TEL
+created:      10.08.2001 22:13:00
+
+contact:      MC17-RIPE
+name:         Michal Cerny
+address:      Slav&Auml;›t&Atilde;&shy;nsk&Atilde;&iexcl;  200
+address:      Praha 9 - Kl&Atilde;&iexcl;novice
+address:      190 14
+address:      CZ
+phone:        +420.281962193
+fax-no:       +420.281962193
+e-mail:       cerny@zs-kl.cz
+registrar:    REG-DIAL-TEL
+created:      10.08.2001 22:13:00
+changed:      11.11.2005 12:55:00
+
+nsset:        NSS:PAJACAT2:1
+nserver:      nic.eunet.cz
+nserver:      ns.eunet.cz
+tech-c:       SB:PAJACAT2
+tech-c:       PAJACAT
+registrar:    REG-DIAL-TEL
+created:      01.10.2007 02:00:00
+
+contact:      SB:PAJACAT2
+name:         Pavel Jezdik
+address:      Zazvorkova 2005
+address:      Praha 5
+address:      15500
+address:      CZ
+e-mail:       pavel@chw.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      25.08.2003 12:51:00
+
+contact:      PAJACAT
+name:         Pavel Jezdik
+address:      Zazvorkova 2005
+address:      Praha 5
+address:      15500
+address:      CZ
+phone:        +420 603155424
+e-mail:       pavel@chw.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+changed:      12.11.2004 15:25:00
+
+

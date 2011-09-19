@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D759946-LROR
+Domain Name:KENNEDYCATHOLIC.ORG
+Created On:14-Jan-1998 05:00:00 UTC
+Last Updated On:16-Feb-2011 18:19:21 UTC
+Expiration Date:13-Jan-2021 05:00:00 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:OK
+Registrant ID:C29693368-RCOM
+Registrant Name:John F Kennedy High School
+Registrant Organization:John F. Kennedy High School
+Registrant Street1:Route 138
+Registrant Street2:
+Registrant Street3:
+Registrant City:Somers
+Registrant State/Province:NY
+Registrant Postal Code:10589
+Registrant Country:US
+Registrant Phone:+1.9142325061
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:acasella@kennedycatholic.org
+Admin ID:C29693368-RCOM
+Admin Name:John F Kennedy High School
+Admin Organization:John F. Kennedy High School
+Admin Street1:Route 138
+Admin Street2:
+Admin Street3:
+Admin City:Somers
+Admin State/Province:NY
+Admin Postal Code:10589
+Admin Country:US
+Admin Phone:+1.9142325061
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:acasella@kennedycatholic.org
+Tech ID:C29693369-RCOM
+Tech Name:BestWebVirtualDomainCoordinator BestWebVirtualDomainCoordinator
+Tech Organization:BestWebInternetCorporation
+Tech Street1:25SouthRiversideAve
+Tech Street2:
+Tech Street3:
+Tech City:Croton-on-Hudson
+Tech State/Province:NY
+Tech Postal Code:10520
+Tech Country:US
+Tech Phone:+1.9142714500
+Tech Phone Ext.:
+Tech FAX:+1.9142714292
+Tech FAX Ext.:
+Tech Email:domains@bestweb.net
+Name Server:ATG2.ATGNET.COM
+Name Server:ATG1.ATGNET.COM
+Name Server:PROXY3.ATGNET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

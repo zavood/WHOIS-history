@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104084906-LROR
+Domain Name:EXTENSION.ORG
+Created On:11-Mar-2004 19:42:10 UTC
+Last Updated On:24-Mar-2011 12:25:51 UTC
+Expiration Date:11-Mar-2019 19:42:10 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-AXDL8KXKCMNS
+Registrant Name:Dan Cotton
+Registrant Organization:eXtension Foundation
+Registrant Street1:Room 6, Ag Communications Bldg
+Registrant Street2:PO Box 830918
+Registrant Street3:
+Registrant City:Lincoln
+Registrant State/Province:Nebraska
+Registrant Postal Code:68583-0918
+Registrant Country:US
+Registrant Phone:+1.4024728841
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dan.cotton@extension.org
+Admin ID:DOT-0K1E5FTVWXPG
+Admin Name:Dan Cotton
+Admin Organization:eXtension Foundation
+Admin Street1:Room 6, Ag Communications Bldg
+Admin Street2:PO Box 830918
+Admin Street3:
+Admin City:Lincoln
+Admin State/Province:Nebraska
+Admin Postal Code:68583-0918
+Admin Country:US
+Admin Phone:+1.4024728841
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dan.cotton@extension.org
+Tech ID:DOT-XQ7DBBMIYU6N
+Tech Name:Jason Young
+Tech Organization:eXtension Foundation
+Tech Street1:512 Brickhaven Dr.
+Tech Street2:Room 127, Box 7641
+Tech Street3:
+Tech City:Raleigh
+Tech State/Province:NC
+Tech Postal Code:27695-7641
+Tech Country:US
+Tech Phone:+1.9195137948
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:jason.young@extension.org
+Name Server:NS1.EXTENSION.ORG
+Name Server:NS2.EXTENSION.ORG
+Name Server:NS0.EXTENSION.ORG
+Name Server:NS3.EXTENSION.ORG
+Name Server:NS4.EXTENSION.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

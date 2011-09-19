@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149058169-LROR
+Domain Name:TOILE-LIBRE.ORG
+Created On:06-Sep-2007 15:59:14 UTC
+Last Updated On:23-Oct-2010 15:46:30 UTC
+Expiration Date:06-Sep-2012 15:59:14 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-1282669-GANDI
+Registrant Name:Arthur Fernandez
+Registrant Organization:Toile-Libre
+Registrant Street1:Toile-Libre
+Registrant Street2:1, rue Auguste Ravier
+Registrant Street3:
+Registrant City:Grenoble
+Registrant State/Province:
+Registrant Postal Code:38100
+Registrant Country:FR
+Registrant Phone:+33.674616982
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:zero@toile-libre.org
+Admin ID:AR41-GANDI
+Admin Name:CONTACT NOT AUTHORITATIVE see http://www.gandi.net/whois
+Admin Organization:GANDI SARL
+Admin Street1:15 place de la Nation
+Admin Street2:
+Admin Street3:
+Admin City:Paris
+Admin State/Province:
+Admin Postal Code:75011
+Admin Country:FR
+Admin Phone:+33.1
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:support@support.gandi.net
+Tech ID:AR41-GANDI
+Tech Name:CONTACT NOT AUTHORITATIVE see http://www.gandi.net/whois
+Tech Organization:GANDI SARL
+Tech Street1:15 place de la Nation
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:75011
+Tech Country:FR
+Tech Phone:+33.1
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@support.gandi.net
+Name Server:NS.GITOYEN.NET
+Name Server:WALLIS.CURSYS.NET
+Name Server:NOC.TOILE-LIBRE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,25 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         mfsr.sk
+Admin-id            MINI-0011
+Admin-name          Ministerstvo financii SR
+Admin-legal-form    ina pravna forma
+Admin-org.-ID       151742
+Admin-address       Stefanovicova 5, Bratislava 81782
+Admin-telephone     0259582413, 0259582408
+Admin-email         henrik.brinkac@mfsr.sk
+Tech-id             SLOV-0006
+Tech-name           Slovak Telekom, a.s.
+Tech-org.-ID        35763469
+Tech-address        Karadzicova 10, Bratislava 82513
+Tech-telephone      0800/123777, 0800/123777, 0903
+Tech-email          hostm-stonline@telecom.sk
+dns_name            ns.nextra.sk
+dns_name            ns1.nextra.sk
+Last-update         2011-09-07
+Valid-date          2011-10-05
+Domain-status       DOM_WARN
+

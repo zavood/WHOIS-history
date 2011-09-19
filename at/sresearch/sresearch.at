@@ -1,0 +1,71 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         sresearch.at
+registrant:     AS3012063-NICAT
+admin-c:        VIG1552318-NICAT
+tech-c:         VIG1534101-NICAT
+nserver:        ns.izone.at
+remarks:        80.78.233.163
+nserver:        ns.izone.info
+remarks:        217.115.144.61
+changed:        20070911 12:18:20
+source:         AT-DOM
+
+personname:     Alexander Soellei
+organization:
+street address: Augustinergasse 6
+postal code:    A-5020
+city:           Salzburg
+country:        Austria
+phone:          +436507774552
+e-mail:         alexander.soellei@sbg.ac.at
+nic-hdl:        AS3012063-NICAT
+changed:        20070911 12:18:19
+source:         AT-DOM
+
+personname:     Domain Admin
+organization:   VIM Internetdienstleistungen GmbH
+street address: Kaerntner Strasse 17/13
+postal code:    A-1010
+city:           Wien
+country:        Austria
+phone:          +4317260200
+e-mail:         office@vim.at
+nic-hdl:        VIG1552318-NICAT
+changed:        20050406 17:52:20
+source:         AT-DOM
+
+personname:     VIM Hostmaster
+organization:   VIM Internetdienstleistungen Gmbh
+street address: Kaerntnerstrasse 17/13
+postal code:    A-1010
+city:           Wien
+country:        Austria
+phone:          +4317260200
+fax-no:         +431726020027
+e-mail:         hostmaster@vim.at
+nic-hdl:        VIG1534101-NICAT
+changed:        20040321 13:33:17
+source:         AT-DOM
+

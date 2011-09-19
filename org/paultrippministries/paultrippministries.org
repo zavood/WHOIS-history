@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D123445345-LROR
+Domain Name:PAULTRIPPMINISTRIES.ORG
+Created On:29-May-2006 20:20:09 UTC
+Last Updated On:26-May-2011 02:28:18 UTC
+Expiration Date:29-May-2012 20:20:09 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32119604
+Registrant Name:Domain Administrator
+Registrant Organization:Xact IT Solutions Inc
+Registrant Street1:521 Berlin Crosskeys Rd
+Registrant Street2:PMB 50
+Registrant Street3:
+Registrant City:Sicklerville
+Registrant State/Province:New Jersey
+Registrant Postal Code:08081
+Registrant Country:US
+Registrant Phone:+1.8566372523
+Registrant Phone Ext.:
+Registrant FAX:+1.8667655495
+Registrant FAX Ext.:
+Registrant Email:domain.admin@xitx.com
+Admin ID:CR32119607
+Admin Name:Domain Administrator
+Admin Organization:Xact IT Solutions Inc
+Admin Street1:521 Berlin Crosskeys Rd
+Admin Street2:PMB 50
+Admin Street3:
+Admin City:Sicklerville
+Admin State/Province:New Jersey
+Admin Postal Code:08081
+Admin Country:US
+Admin Phone:+1.8566372523
+Admin Phone Ext.:
+Admin FAX:+1.8667655495
+Admin FAX Ext.:
+Admin Email:domain.admin@xitx.com
+Tech ID:CR32119605
+Tech Name:Domain Administrator
+Tech Organization:Xact IT Solutions Inc
+Tech Street1:521 Berlin Crosskeys Rd
+Tech Street2:PMB 50
+Tech Street3:
+Tech City:Sicklerville
+Tech State/Province:New Jersey
+Tech Postal Code:08081
+Tech Country:US
+Tech Phone:+1.8566372523
+Tech Phone Ext.:
+Tech FAX:+1.8667655495
+Tech FAX Ext.:
+Tech Email:domain.admin@xitx.com
+Name Server:NS9.ZONEEDIT.COM
+Name Server:NS13.ZONEEDIT.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

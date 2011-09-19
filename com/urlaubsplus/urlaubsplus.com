@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 12-oct-2005
    Expiration Date: 12-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 21:22:09 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 22:46:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain urlaubsplus.com
-% Timestamp: 2011-09-18 23:22:41
+% Timestamp: 2011-09-20 00:46:39
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

@@ -12,11 +12,11 @@ for detailed information.
    Name Server: GYDNS04.JLREXT.COM
    Name Server: WHDNS04.JLREXT.COM
    Status: clientTransferProhibited
-   Updated Date: 10-aug-2011
+   Updated Date: 19-sep-2011
    Creation Date: 26-mar-1997
    Expiration Date: 27-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 06:18:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 21:45:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,24 +56,24 @@ Domain Name.......... jaguarusa.com
   Creation Date........ 1997-03-26
   Registration Date.... 2008-05-29
   Expiry Date.......... 2012-03-27
-  Organisation Name.... Jaguar Cars Limited
-  Organisation Address. 20600 Rotunda Drive
-  Organisation Address.
-  Organisation Address. Dearborn
-  Organisation Address. 48121
-  Organisation Address. -
-  Organisation Address. UNITED STATES
+  Organisation Name.... Jaguar Land Rover PLC
+  Organisation Address. Banbury Road
+  Organisation Address. Gaydon
+  Organisation Address. Warwick
+  Organisation Address. CV35 0RG
+  Organisation Address. Warwick
+  Organisation Address. UNITED KINGDOM
 
-Admin Name........... Administrative Contact J
-  Admin Address........ 20600 Rotunda Drive
-  Admin Address........
-  Admin Address........ Dearborn
-  Admin Address........ 48121
-  Admin Address........ -
-  Admin Address........ UNITED STATES
-  Admin Email.......... dnsmgr@ford.com
-  Admin Phone.......... +1.3133903476
-  Admin Fax............
+Admin Name........... JLR Domain Administrator
+  Admin Address........ Banbury Road
+  Admin Address........ Gaydon
+  Admin Address........ Warwick
+  Admin Address........ CV35 0RG
+  Admin Address........ Warwick
+  Admin Address........ UNITED KINGDOM
+  Admin Email.......... domains@jaguarlandrover.com
+  Admin Phone.......... +44.1926641111
+  Admin Fax............ +44.1926649403
 
 Tech Name............ DNS Admin
   Tech Address......... Banbury Road

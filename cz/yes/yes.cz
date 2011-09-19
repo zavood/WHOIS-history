@@ -1,0 +1,80 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 23:40:41 2011
+
+domain:       yes.cz
+registrant:   SB:GLOBE-SYES654364
+admin-c:      JJ930-RIPE
+nsset:        NSS:SERVER4YOU:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   02.02.1998 01:00:00
+changed:      13.10.2006 06:25:00
+expire:       07.10.2012
+
+contact:      SB:GLOBE-SYES654364
+org:          YES computers s.r.o.
+name:         YES computers s.r.o.
+address:      Marianske namesti 81
+address:      Uherske Hradiste
+address:      68601
+address:      CZ
+e-mail:       janik@yes.cz
+registrar:    REG-IGNUM
+created:      01.03.2004 18:05:00
+
+contact:      JJ930-RIPE
+name:         Jiri Janik
+address:      CZ
+phone:        +420 572555626
+fax-no:       +420 63240585
+e-mail:       janik@yes.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:SERVER4YOU:1
+nserver:      ns.tripsi.com
+nserver:      ns.server4you.cz
+tech-c:       S4Y_DANIEL
+tech-c:       SB:SERVER4YOU
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+
+contact:      S4Y_DANIEL
+name:         Daniel Hastik
+address:      Hrab&Atilde;&iexcl;kova 1/1861
+address:      Moravsk&Atilde;&iexcl; Ostrava
+address:      702 00
+address:      CZ
+registrar:    REG-IGNUM
+created:      16.04.2002 19:11:00
+changed:      02.09.2008 15:17:09
+
+contact:      SB:SERVER4YOU
+org:          Datahost s.r.o.
+name:         Datahost s.r.o.
+address:      Hrab&Atilde;&iexcl;kova 1/1861
+address:      Moravsk&Atilde;&iexcl; Ostrava
+address:      702 00
+address:      CZ
+registrar:    REG-IGNUM
+created:      16.04.2002 19:31:00
+changed:      02.09.2008 15:33:09
+
+

@@ -10,7 +10,7 @@
 %%
 %% Use '-h' option to obtain more information about this service.
 %%
-%% [174.142.225.246 REQUEST] &gt;&gt; alvarum.fr
+%% [67.231.254.15 REQUEST] &gt;&gt; alvarum.fr
 %%
 %% RL Net [##########] - RL IP [#########.]
 %%
@@ -48,37 +48,6 @@ anonymous:   NO
 registered:  09/03/2004
 source:      FRNIC
 
-nic-hdl:     ANO00-FRNIC
-type:        PERSON
-contact:     Ano Nymous
-remarks:     -------------- WARNING --------------
-remarks:     While the registrar knows him/her,
-remarks:     this person chose to restrict access
-remarks:     to his/her personal data. So PLEASE,
-remarks:     don't send emails to Ano Nymous. This
-remarks:     address is bogus and there is no hope
-remarks:     of a reply.
-remarks:     -------------- WARNING --------------
-changed:     10/06/2011 anonymous@nowhere.xx.fr
-anonymous:   YES
-obsoleted:   NO
-source:      FRNIC
-
-nic-hdl:     CL1922-FRNIC
-type:        ORGANIZATION
-contact:     ALVARUM
-address:     ALVARUM SARL
-address:     19, rue Martel
-address:     75010 Paris
-country:     FR
-phone:       +33 6 60 53 38 54
-e-mail:      53e0dc82965fc7c8f454027cf07835c4-801017@contact.gandi.net
-changed:     16/02/2010 nic@nic.fr
-anonymous:   NO
-obsoleted:   NO
-idstatus:    ok
-source:      FRNIC
-
 nic-hdl:     GR283-FRNIC
 type:        ROLE
 contact:     GANDI ROLE
@@ -101,6 +70,37 @@ tech-c:      TUF1-FRNIC
 notify:      noc@gandi.net
 changed:     03/03/2006 noc@gandi.net
 anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CL1922-FRNIC
+type:        ORGANIZATION
+contact:     ALVARUM
+address:     ALVARUM SARL
+address:     19, rue Martel
+address:     75010 Paris
+country:     FR
+phone:       +33 6 60 53 38 54
+e-mail:      53e0dc82965fc7c8f454027cf07835c4-801017@contact.gandi.net
+changed:     16/02/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     10/06/2011 anonymous@nowhere.xx.fr
+anonymous:   YES
 obsoleted:   NO
 source:      FRNIC
 

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 11-feb-2000
    Expiration Date: 11-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 21:21:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 22:44:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -63,7 +63,7 @@ Registrars.
 % Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain unisfair.com
-% Timestamp: 2011-09-18 23:21:56
+% Timestamp: 2011-09-20 00:44:44
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 15-dec-2004
    Expiration Date: 15-dec-2017
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 20:12:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 21:14:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -55,4 +55,125 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Your ip address 67.231.254.15 has been blocked.  If you believe this is in error please contact info@nameking.com  with your request.
+
+
+
+
+Domain Name:                 shopwiki.com
+
+
+
+
+Registrant
+------------------------------------------------------------
+
+
+
+Name:                        Host Master
+
+
+Organization:                Oversee.net
+
+Email:                       hostmaster@oversee.net
+Address:                     515 S. Flower Street, Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2134080080
+
+
+
+
+
+Admin Contact
+------------------------------------------------------------
+
+
+
+Name:                        Host Master
+
+
+Organization:                Oversee.net
+
+Email:                       hostmaster@oversee.net
+Address:                     515 S. Flower Street, Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2134080080
+
+
+
+
+
+Billing Contact
+------------------------------------------------------------
+
+
+
+Name:                        Host Master
+
+
+Organization:                Oversee.net
+
+Email:                       hostmaster@oversee.net
+Address:                     515 S. Flower Street, Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2134080080
+
+
+
+
+
+Tech Contact
+------------------------------------------------------------
+
+
+
+Name:                        Host Master
+
+
+Organization:                Oversee.net
+
+Email:                       hostmaster@oversee.net
+Address:                     515 S. Flower Street, Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2134080080
+
+
+
+
+
+
+Creation Date:               12/15/04
+Expiration Date:             12/15/17
+Domain Status:               LOCKED
+
+
+Domain Servers
+
+
+  pdns1.ultradns.net
+
+  ns1.shopwiki.com
+
+  udns1.ultradns.net
+
+  udns2.ultradns.net
+
+
+
+Registration Provided By:    NAMEKING INC.
+Contact:                     info@nameking.com
+Abuse Desk Email Address:    abuse@nameking.com
+
+
+
+
+
+
+Request 3/20

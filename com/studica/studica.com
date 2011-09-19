@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 03-jan-2000
    Expiration Date: 03-jan-2017
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 20:44:03 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 21:52:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -73,5 +73,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: studica.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sun Sep 18 16:39:37 EDT 2011
+Date and Time of Query: Mon Sep 19 17:41:54 EDT 2011
 Reason Code: IE

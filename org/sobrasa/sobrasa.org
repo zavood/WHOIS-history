@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96798730-LROR
+Domain Name:SOBRASA.ORG
+Created On:07-May-2003 20:23:30 UTC
+Last Updated On:29-Aug-2011 22:24:25 UTC
+Expiration Date:07-May-2020 20:23:30 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:35166365-NSI
+Registrant Name:Sobrasa
+Registrant Organization:Sobrasa
+Registrant Street1:Rua Honestino Guimaraes 11 - R
+Registrant Street2:
+Registrant Street3:
+Registrant City:Rio de Janeiro
+Registrant State/Province:Rio de Janeiro
+Registrant Postal Code:22785-390
+Registrant Country:BR
+Registrant Phone:+1.0552199983
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:szpilman@globo.com
+Admin ID:35166365-NSI
+Admin Name:Sobrasa
+Admin Organization:Sobrasa
+Admin Street1:Rua Honestino Guimaraes 11 - R
+Admin Street2:
+Admin Street3:
+Admin City:Rio de Janeiro
+Admin State/Province:Rio de Janeiro
+Admin Postal Code:22785-390
+Admin Country:BR
+Admin Phone:+1.0552199983
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:szpilman@globo.com
+Tech ID:5358805-NSI
+Tech Name:Network Solutions, LLC.
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:NS2.TECLA.COM.BR
+Name Server:NS1.TECLA.COM.BR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

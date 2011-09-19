@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104945778-LROR
+Domain Name:CONVIVIALITEENFLANDRE.ORG
+Created On:29-Sep-2004 17:27:09 UTC
+Last Updated On:29-Sep-2010 06:20:11 UTC
+Expiration Date:29-Sep-2011 17:27:09 UTC
+Sponsoring Registrar:OVH (R135-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ovh4ca2da9ahayk
+Registrant Name:Monique Vyers
+Registrant Street1:convivialiteenflandre.org, office #1550995
+Registrant Street2:c/o OwO, BP80157
+Registrant Street3:
+Registrant City:Roubaix Cedex 1
+Registrant State/Province:
+Registrant Postal Code:59053
+Registrant Country:FR
+Registrant Phone:+33.899701761
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:f2udo3neh8u2aqppexpq@i.o-w-o.info
+Admin ID:ovh4ca2da9awgrg
+Admin Name:Monique Vyers
+Admin Organization:Association Convivialite en Flandre
+Admin Street1:10, rue de Roubaix
+Admin Street2:
+Admin Street3:
+Admin City:Dunkerque
+Admin State/Province:
+Admin Postal Code:59240
+Admin Country:FR
+Admin Phone:+33.328660930
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ltcermaa566pjb78hu0w@p.o-w-o.info
+Tech ID:ovh4ca2da9bmp1g
+Tech Name:Maxence Cordiez
+Tech Street1:convivialiteenflandre.org, office #1550995
+Tech Street2:c/o OwO, BP80157
+Tech Street3:
+Tech City:Roubaix Cedex 1
+Tech State/Province:
+Tech Postal Code:59053
+Tech Country:FR
+Tech Phone:+33.899701761
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:z7sgo7bgfhk58punpjx8@d.o-w-o.info
+Name Server:NS.ZCORRECTEURS.FR
+Name Server:NS2.ZCORRECTEURS.FR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

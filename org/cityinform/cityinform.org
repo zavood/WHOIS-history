@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105231429-LROR
+Domain Name:CITYINFORM.ORG
+Created On:22-Nov-2004 13:15:22 UTC
+Last Updated On:24-Jan-2011 19:33:16 UTC
+Expiration Date:22-Nov-2011 13:15:22 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:OK
+Registrant ID:ONLC-1448658-4
+Registrant Name:Berezutskiy Alexey
+Registrant Organization:host-telecom
+Registrant Street1:4-249, Lyalin pereulok
+Registrant Street2:4-249, Lyalin pereulok
+Registrant Street3:
+Registrant City:Moscow
+Registrant State/Province:Moscow
+Registrant Postal Code:105062
+Registrant Country:RU
+Registrant Phone:+7.0957968893
+Registrant Phone Ext.:
+Registrant FAX:+7.0957968893
+Registrant FAX Ext.:
+Registrant Email:mailbal@mail.ru
+Admin ID:ONLC-1448658-1
+Admin Name:Berezutskiy Alexey Alexandrovich
+Admin Organization:host-telecom
+Admin Street1:4-249, Lyalin pereulok
+Admin Street2:4-249, Lyalin pereulok
+Admin Street3:
+Admin City:Moscow
+Admin State/Province:Moscow
+Admin Postal Code:105062
+Admin Country:RU
+Admin Phone:+7.0957968893
+Admin Phone Ext.:
+Admin FAX:+7.0957968893
+Admin FAX Ext.:
+Admin Email:mailbal@mail.ru
+Tech ID:ONLC-1448658-2
+Tech Name:Pavel Thernobrov
+Tech Organization:Host-Telecom.com
+Tech Street1:Leningradskoe shosse, 5
+Tech Street2:Leningradskoe shosse, 5
+Tech Street3:
+Tech City:Moscow
+Tech State/Province:Moscow
+Tech Postal Code:125080
+Tech Country:RU
+Tech Phone:+7.0955069911
+Tech Phone Ext.:
+Tech FAX:+7.0955069911
+Tech FAX Ext.:
+Tech Email:info@atlex.ru
+Name Server:NS213.HOST-TELECOM.COM
+Name Server:NS214.HOST-TELECOM.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

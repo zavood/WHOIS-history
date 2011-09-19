@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 11-may-1996
    Expiration Date: 12-may-2021
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 20:16:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 21:15:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: sigmadesigns.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sun Sep 18 16:06:31 EDT 2011
+Date and Time of Query: Mon Sep 19 17:05:34 EDT 2011
 Reason Code: IE

@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 20-mar-2006
    Expiration Date: 20-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:45:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 22:38:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -90,5 +90,5 @@ The Registry database contains ONLY .COM, .NET and .ORG domains.
      Secondary Name Server Hostname: NS2.REGISTER.IT
 
 
-&gt;&gt;&gt; Last update of whois database: Wed Sep 14 22:04:04 2011 &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon Sep 19 22:04:30 2011 &lt;&lt;&lt;
 

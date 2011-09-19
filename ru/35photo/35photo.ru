@@ -4,9 +4,8 @@
 % http://www.ripn.net/about/en/servpol.html#3.2 (in English).
 
 domain:     35PHOTO.RU
-nserver:    ns3.gigedns.net.
-nserver:    ns4.gigedns.net.
-nserver:    ns5.gigedns.net.
+nserver:    dns1.yandex.ru.
+nserver:    dns2.yandex.ru.
 state:      REGISTERED, DELEGATED, VERIFIED
 person:     Private Person
 e-mail:     va109@mail.ru
@@ -15,5 +14,5 @@ created:    2006.09.19
 paid-till:  2012.09.19
 source:     TCI
 
-Last updated on 2011.09.18 05:35:46 MSK/MSD
+Last updated on 2011.09.20 02:05:46 MSK/MSD
 

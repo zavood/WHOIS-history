@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 23-jan-1997
    Expiration Date: 24-jan-2016
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 20:56:24 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 22:21:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: theweekender.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sun Sep 18 16:46:14 EDT 2011
+Date and Time of Query: Mon Sep 19 18:11:20 EDT 2011
 Reason Code: IE

@@ -1,0 +1,100 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 22:54:11 2011
+
+domain:       g-f.cz
+registrant:   SB:GF-CZ
+admin-c:      GF-RK
+nsset:        NSS:ASYS-CZ:1
+registrar:    REG-GENREG
+status:       paid and in zone
+registered:   22.12.2000 11:52:00
+changed:      16.01.2007 11:45:00
+expire:       23.12.2011
+
+contact:      SB:GF-CZ
+org:          Graficky design a fotografie Roman Kadlec
+name:         Graficky design a fotografie Roman Kadlec
+address:      Stitarska 152
+address:      Kolin 2
+address:      28000
+address:      CZ
+e-mail:       gandalf@asysijd.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+
+contact:      GF-RK
+name:         Roman Kadlec
+address:      Stitarska 152
+address:      Kolin 2
+address:      28000
+address:      CZ
+phone:        +420 321723455
+fax-no:       +420 321714099
+e-mail:       gandalf@asysijd.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:ASYS-CZ:1
+nserver:      caliph.asysijd.cz
+nserver:      server.asysijd.cz
+tech-c:       MS-ASYS
+tech-c:       TV117-RIPE
+tech-c:       SB:ASYS-CZ
+registrar:    REG-GENREG
+created:      01.10.2007 02:00:00
+
+contact:      MS-ASYS
+name:         Pavel Tvrd&Atilde;&shy;k
+address:      Heverova 249
+address:      Kol&Atilde;&shy;n IV
+address:      280 02
+address:      CZ
+phone:        +420.321721237
+fax-no:       +420.321721237
+e-mail:       pavel.tvrdik@asys.cz
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      17.04.2009 12:21:01
+
+contact:      TV117-RIPE
+name:         Tomas Vycital
+address:      Havlickova 605
+address:      Kolin IV
+address:      280 99
+address:      CZ
+phone:        +420 321721237
+fax-no:       +420 321721237
+e-mail:       tomas.vycital@asys.cz
+registrar:    REG-CZNIC
+created:      10.08.2001 22:13:00
+
+contact:      SB:ASYS-CZ
+org:          ASYS IJD spol. s r.o.
+name:         ASYS IJD spol. s r.o.
+address:      Havlickova 605
+address:      Kolin IV
+address:      280 99
+address:      CZ
+e-mail:       tomas.vycital@asys.cz
+registrar:    REG-GENREG
+created:      10.08.2001 22:13:00
+changed:      08.03.2004 10:35:00
+
+
