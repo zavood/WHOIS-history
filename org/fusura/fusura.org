@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155937455-LROR
+Domain Name:FUSURA.ORG
+Created On:23-Apr-2009 01:19:30 UTC
+Last Updated On:19-Jun-2011 21:52:27 UTC
+Expiration Date:23-Apr-2012 01:19:30 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:OK
+Registrant ID:ncr-3198788-980c
+Registrant Name:Reyes Hernandez Luis Michael
+Registrant Organization:All Servic FP
+Registrant Street1:Apolinar Perdomo No. 79
+Registrant Street2:
+Registrant Street3:
+Registrant City:Neyba
+Registrant State/Province:none
+Registrant Postal Code:82000
+Registrant Country:DO
+Registrant Phone:+1.8294495326
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:luismichael40@gmail.com
+Admin ID:nca-3198789-ea24
+Admin Name:Reyes Hernandez Luis Michael
+Admin Organization:All Servic FP
+Admin Street1:Apolinar Perdomo No. 79
+Admin Street2:
+Admin Street3:
+Admin City:Neyba
+Admin State/Province:none
+Admin Postal Code:82000
+Admin Country:DO
+Admin Phone:+1.8294495326
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:luismichael40@gmail.com
+Tech ID:nct-3198790-4da2
+Tech Name:Reyes Hernandez Luis Michael
+Tech Organization:All Servic FP
+Tech Street1:Apolinar Perdomo No. 79
+Tech Street2:
+Tech Street3:
+Tech City:Neyba
+Tech State/Province:none
+Tech Postal Code:82000
+Tech Country:DO
+Tech Phone:+1.8294495326
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:luismichael40@gmail.com
+Name Server:NS02.000WEBHOST.COM
+Name Server:NS01.000WEBHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

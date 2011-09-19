@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D925917-LROR
+Domain Name:LERCTR.ORG
+Created On:20-Feb-1992 05:00:00 UTC
+Last Updated On:20-Dec-2009 04:51:21 UTC
+Expiration Date:21-Feb-2018 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR38607692
+Registrant Name:Lawrence E. Rosenman
+Registrant Organization:LERCTR Consulting
+Registrant Street1:430 Valona Loop
+Registrant Street2:
+Registrant Street3:
+Registrant City:Round Rock
+Registrant State/Province:Texas
+Registrant Postal Code:78681-3893
+Registrant Country:US
+Registrant Phone:+1.5122482683
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ler@lerctr.org
+Admin ID:CR38607694
+Admin Name:Lawrence E. Rosenman
+Admin Organization:LERCTR Consulting
+Admin Street1:430 Valona Loop
+Admin Street2:
+Admin Street3:
+Admin City:Round Rock
+Admin State/Province:Texas
+Admin Postal Code:78681-3893
+Admin Country:US
+Admin Phone:+1.5122482683
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ler@lerctr.org
+Tech ID:CR38607693
+Tech Name:Lawrence E. Rosenman
+Tech Organization:LERCTR Consulting
+Tech Street1:430 Valona Loop
+Tech Street2:
+Tech Street3:
+Tech City:Round Rock
+Tech State/Province:Texas
+Tech Postal Code:78681-3893
+Tech Country:US
+Tech Phone:+1.5122482683
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ler@lerctr.org
+Name Server:NS-A.CIRR.COM
+Name Server:NS-A.LERCTR.ORG
+Name Server:NS-B.LERCTR.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

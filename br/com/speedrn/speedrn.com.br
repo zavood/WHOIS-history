@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 20:15:41 (BRT -03:00)
+
+domain:      speedrn.com.br
+owner:       Guedes &amp; Saraiva LTDA ME
+ownerid:     008.075.059/0001-50
+responsible: Edcarlos Saraiva de Ara&uacute;jo
+country:     BR
+owner-c:     AMQ4
+admin-c:     AMQ4
+tech-c:      GAS468
+billing-c:   GAS468
+nserver:     ns1.speedrn.com.br 189.77.29.43
+nsstat:      20110918 QREFUSED
+nslastaa:    20110823
+nserver:     ns2.speedrn.com.br 189.77.29.44
+nsstat:      20110918 AA
+nslastaa:    20110918
+created:     20070316 #3450591
+expires:     20120316
+changed:     20110805
+status:      published
+
+nic-hdl-br:  AMQ4
+person:      Alexandre Melo Queiroga
+e-mail:      alexandrekurticao@hotmail.com
+created:     20020521
+changed:     20060408
+
+nic-hdl-br:  GAS468
+person:      Grisalbert Alexandre da Silva Santos
+e-mail:      grisalbert@hotmail.com
+created:     20051212
+changed:     20110222
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

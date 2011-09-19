@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D11811530-LROR
+Domain Name:UUFEASTON.ORG
+Created On:28-Oct-1999 20:04:38 UTC
+Last Updated On:22-Oct-2004 21:35:15 UTC
+Expiration Date:28-Oct-2013 21:04:38 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26935680-NSI
+Registrant Name:Unitarian Universalist Fellowship @Easton
+Registrant Organization:Unitarian Universalist Fellowship @Easton
+Registrant Street1:PO Box 1162
+Registrant Street2:
+Registrant Street3:
+Registrant City:Easton
+Registrant State/Province:MD
+Registrant Postal Code:21601
+Registrant Country:US
+Registrant Phone:+1.410822810
+Registrant Phone Ext.:
+Registrant FAX:+1.999999999
+Registrant FAX Ext.:
+Registrant Email:blhoag@INTERCOM.NET
+Admin ID:26935680-NSI
+Admin Name:Unitarian Universalist Fellowship @Easton
+Admin Organization:Unitarian Universalist Fellowship @Easton
+Admin Street1:PO Box 1162
+Admin Street2:
+Admin Street3:
+Admin City:Easton
+Admin State/Province:MD
+Admin Postal Code:21601
+Admin Country:US
+Admin Phone:+1.410822810
+Admin Phone Ext.:
+Admin FAX:+1.999999999
+Admin FAX Ext.:
+Admin Email:blhoag@INTERCOM.NET
+Tech ID:5440163-NSI
+Tech Name:Delmarva Online
+Tech Organization:Delmarva Online
+Tech Street1:808 Priscilla St
+Tech Street2:
+Tech Street3:
+Tech City:Salisbury
+Tech State/Province:MD
+Tech Postal Code:21084
+Tech Country:US
+Tech Phone:+1.8002209262
+Tech Phone Ext.:
+Tech FAX:+1.4107495418
+Tech FAX Ext.:
+Tech Email:dalfred@dmv.com
+Name Server:NS.INTERCOM.NET
+Name Server:NS.EZY.NET
+Name Server:NS2.INTERCOM.NET
+Name Server:NS1.EZY.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

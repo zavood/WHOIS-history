@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D109328912-LROR
+Domain Name:DNSWL.ORG
+Created On:09-Dec-2005 07:03:11 UTC
+Last Updated On:26-Feb-2011 09:48:39 UTC
+Expiration Date:09-Dec-2012 07:03:11 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:O-948260-GANDI
+Registrant Name:Matthias Leisi
+Registrant Organization:Matthias Leisi
+Registrant Street1:Ackerstrasse 150
+Registrant Street2:
+Registrant Street3:
+Registrant City:Volketswil
+Registrant State/Province:
+Registrant Postal Code:8604
+Registrant Country:CH
+Registrant Phone:+41.432110355
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:85aebe4d0adbb73b3728c22144bd0230-950049@owner.gandi.net
+Admin ID:ML1087-GANDI
+Admin Name:Matthias Leisi
+Admin Street1:KatzenrAtistrasse 68
+Admin Street2:
+Admin Street3:
+Admin City:RAmlang
+Admin State/Province:
+Admin Postal Code:8153
+Admin Country:CH
+Admin Phone:+41.432110355
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:matthias@leisi.net
+Tech ID:ML1087-GANDI
+Tech Name:Matthias Leisi
+Tech Street1:KatzenrAtistrasse 68
+Tech Street2:
+Tech Street3:
+Tech City:RAmlang
+Tech State/Province:
+Tech Postal Code:8153
+Tech Country:CH
+Tech Phone:+41.432110355
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:matthias@leisi.net
+Name Server:NS6.GANDI.NET
+Name Server:ZONE-NS.DNSWL.ORG
+Name Server:DNSWL1.CHAOSREIGNS.COM
+Name Server:ZONE-NS2.DNSWL.ORG
+Name Server:ZONE-NS6.DNSWL.ORG
+Name Server:NS01.WL-INFRA.NET
+Name Server:NS02.WL-INFRA.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

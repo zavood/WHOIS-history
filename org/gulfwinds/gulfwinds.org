@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D11472025-LROR
+Domain Name:GULFWINDS.ORG
+Created On:19-Oct-1999 13:24:46 UTC
+Last Updated On:30-Mar-2010 00:23:49 UTC
+Expiration Date:19-Oct-2014 13:24:46 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:4c393724b8df45b5
+Registrant Name:Applied  Innovations
+Registrant Organization:Applied Innovations
+Registrant Street1:6401 N Congress Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Boca Raton
+Registrant State/Province:FL
+Registrant Postal Code:33487
+Registrant Country:US
+Registrant Phone:+1.5619818196
+Registrant Phone Ext.:
+Registrant FAX:+1.5619818196
+Registrant FAX Ext.:
+Registrant Email:dnsadmin@appliedi.net
+Admin ID:b4066d8a9d581599
+Admin Name:Peg  Griffin
+Admin Organization:Gulf Winds Track Club
+Admin Street1:PO Box 3447
+Admin Street2:
+Admin Street3:
+Admin City:Tallahassee
+Admin State/Province:FL
+Admin Postal Code:32315
+Admin Country:US
+Admin Phone:+1.8505679890
+Admin Phone Ext.:
+Admin FAX:+1.8505679890
+Admin FAX Ext.:
+Admin Email:gwtc@nettally.com
+Tech ID:14852b5ffdb9f37a
+Tech Name:Applied  Innovations
+Tech Organization:Applied Innovations
+Tech Street1:6401 N Congress Ave
+Tech Street2:
+Tech Street3:
+Tech City:Boca Raton
+Tech State/Province:FL
+Tech Postal Code:33487
+Tech Country:US
+Tech Phone:+1.5619818196
+Tech Phone Ext.:
+Tech FAX:+1.5619818196
+Tech FAX Ext.:
+Tech Email:peggriff@nettally.com
+Name Server:DNS1.APPLIEDI.NET
+Name Server:DNS2.APPLIEDI.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

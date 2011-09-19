@@ -11,15 +11,12 @@ for detailed information.
    Referral URL: http://registrar.godaddy.com
    Name Server: NS47.DOMAINCONTROL.COM
    Name Server: NS48.DOMAINCONTROL.COM
-   Status: clientDeleteProhibited
-   Status: clientRenewProhibited
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 08-aug-2011
+   Status: ok
+   Updated Date: 18-sep-2011
    Creation Date: 07-aug-2009
    Expiration Date: 07-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 09 Sep 2011 23:01:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 23:43:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,54 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
-
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
-
-
-Registrant:
-   charles mccoart
-   8710 Mount Vernon Highway
-   Alexandria, Virginia 22309
-   United States
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: FATHERCHUCK.COM
-      Created on: 07-Aug-09
-      Expires on: 07-Aug-11
-      Last Updated on: 08-Aug-10
-
-   Administrative Contact:
-      mccoart, charles  churck@gs-cc.org
-      8710 Mount Vernon Highway
-      Alexandria, Virginia 22309
-      United States
-      (703) 780-4055      Fax --
-
-   Technical Contact:
-      mccoart, charles  churck@gs-cc.org
-      8710 Mount Vernon Highway
-      Alexandria, Virginia 22309
-      United States
-      (703) 780-4055      Fax --
-
-   Domain servers in listed order:
-      NS47.DOMAINCONTROL.COM
-      NS48.DOMAINCONTROL.COM
+No match for &quot;fatherchuck.com&quot; in the registrar database.
 

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D131516518-LROR
+Domain Name:LYTKARINO.ORG
+Created On:25-Oct-2006 12:00:52 UTC
+Last Updated On:21-Aug-2011 19:01:42 UTC
+Expiration Date:25-Oct-2011 12:00:52 UTC
+Sponsoring Registrar:Regtime Ltd. (R1602-LROR)
+Status:OK
+Registrant ID:CO307930-RT
+Registrant Name:Alexandr A Strochilin
+Registrant Organization:Private person
+Registrant Street1:Kubinka, d.79 kv.77
+Registrant Street2:
+Registrant Street3:
+Registrant City:Moscow
+Registrant State/Province:Moskovskaya oblast
+Registrant Postal Code:143070
+Registrant Country:RU
+Registrant Phone:+7.9057501594
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:vernon2001@mail.ru
+Admin ID:CA307930-RT
+Admin Name:Alexandr A Strochilin
+Admin Organization:Private person
+Admin Street1:Kubinka, d.79 kv.77
+Admin Street2:
+Admin Street3:
+Admin City:Moscow
+Admin State/Province:Moskovskaya oblast
+Admin Postal Code:143070
+Admin Country:RU
+Admin Phone:+7.9057501594
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:vernon2001@mail.ru
+Tech ID:CT307930-RT
+Tech Name:Alexandr A Strochilin
+Tech Organization:Private person
+Tech Street1:Kubinka, d.79 kv.77
+Tech Street2:
+Tech Street3:
+Tech City:Moscow
+Tech State/Province:Moskovskaya oblast
+Tech Postal Code:143070
+Tech Country:RU
+Tech Phone:+7.9057501594
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:vernon2001@mail.ru
+Name Server:NS1.NOVPRO.RU
+Name Server:NS2.NOVPRO.RU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

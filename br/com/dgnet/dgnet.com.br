@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-16 22:17:33 (BRT -03:00)
+%  2011-09-18 20:35:33 (BRT -03:00)
 
 domain:      dgnet.com.br
 owner:       DGNET PROVEDOR DE INTERNET LTDA
@@ -17,11 +17,11 @@ admin-c:     MAB757
 tech-c:      MAB757
 billing-c:   MAE79
 nserver:     ns1.dgnet.com.br 189.113.97.13
-nsstat:      20110915 AA
-nslastaa:    20110915
+nsstat:      20110917 AA
+nslastaa:    20110917
 nserver:     ns2.dgnet.com.br 187.17.254.250
-nsstat:      20110915 AA
-nslastaa:    20110915
+nsstat:      20110917 AA
+nslastaa:    20110917
 created:     20001027 #455542
 expires:     20121027
 changed:     20110728

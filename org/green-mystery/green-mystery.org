@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D116101659-LROR
+Domain Name:GREEN-MYSTERY.ORG
+Created On:09-Feb-2006 21:58:48 UTC
+Last Updated On:15-Apr-2011 14:35:00 UTC
+Expiration Date:09-Feb-2012 21:58:48 UTC
+Sponsoring Registrar:PSI-USA, Inc. dba Domain Robot (R68-LROR)
+Status:OK
+Registrant ID:ABM-10006637
+Registrant Name:Joana Breede
+Registrant Street1:Roenneykoppel 12
+Registrant Street2:
+Registrant Street3:
+Registrant City:Westerroenfeld
+Registrant State/Province:DE
+Registrant Postal Code:24784
+Registrant Country:DE
+Registrant Phone:+49.433188388
+Registrant Phone Ext.:
+Registrant FAX:+49.433188388
+Registrant FAX Ext.:
+Registrant Email:jojosan@hotmail.de
+Admin ID:ABM-10006637
+Admin Name:Joana Breede
+Admin Street1:Roenneykoppel 12
+Admin Street2:
+Admin Street3:
+Admin City:Westerroenfeld
+Admin State/Province:DE
+Admin Postal Code:24784
+Admin Country:DE
+Admin Phone:+49.433188388
+Admin Phone Ext.:
+Admin FAX:+49.433188388
+Admin FAX Ext.:
+Admin Email:jojosan@hotmail.de
+Tech ID:ABM-886012
+Tech Name:HOST MASTER
+Tech Organization:Global Host AG
+Tech Street1:Erlenweg 8
+Tech Street2:
+Tech Street3:
+Tech City:Oberentfelden
+Tech State/Province:CH
+Tech Postal Code:5036
+Tech Country:CH
+Tech Phone:+41.625117585
+Tech Phone Ext.:
+Tech FAX:+41.625117586
+Tech FAX Ext.:
+Tech Email:hostmaster@global-host.ch
+Name Server:NS.SERVER-HOME.NET
+Name Server:NS2.SERVER-HOME.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

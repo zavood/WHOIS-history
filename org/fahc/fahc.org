@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D971855-LROR
+Domain Name:FAHC.ORG
+Created On:20-Nov-1996 05:00:00 UTC
+Last Updated On:07-Sep-2011 12:17:06 UTC
+Expiration Date:19-Nov-2013 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32552413
+Registrant Name:IS Webadmin
+Registrant Organization:Fletcher Allen Health Care
+Registrant Street1:111 Colchester Ave
+Registrant Street2:Information Services
+Registrant Street3:
+Registrant City:Burlington
+Registrant State/Province:Vermont
+Registrant Postal Code:05401
+Registrant Country:US
+Registrant Phone:+1.8028478100
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:iswebadmin@vtmednet.org
+Admin ID:CR32552415
+Admin Name:IS Webadmin
+Admin Organization:Fletcher Allen Health Care
+Admin Street1:111 Colchester Ave
+Admin Street2:Information Services
+Admin Street3:
+Admin City:Burlington
+Admin State/Province:Vermont
+Admin Postal Code:05401
+Admin Country:US
+Admin Phone:+1.8028478100
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:iswebadmin@vtmednet.org
+Tech ID:CR32552414
+Tech Name:IS Webadmin
+Tech Organization:Fletcher Allen Health Care
+Tech Street1:111 Colchester Ave
+Tech Street2:Information Services
+Tech Street3:
+Tech City:Burlington
+Tech State/Province:Vermont
+Tech Postal Code:05401
+Tech Country:US
+Tech Phone:+1.8028478100
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:iswebadmin@vtmednet.org
+Name Server:FAHC-DNS.FAHC.ORG
+Name Server:NS1.TELCOVE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

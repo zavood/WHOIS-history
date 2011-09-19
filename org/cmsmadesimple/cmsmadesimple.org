@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104640294-LROR
+Domain Name:CMSMADESIMPLE.ORG
+Created On:16-Jul-2004 11:50:10 UTC
+Last Updated On:12-Jul-2011 13:42:09 UTC
+Expiration Date:16-Jul-2012 11:50:10 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30915143
+Registrant Name:Ted Kulp
+Registrant Street1:220 Tewksbury Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fairless Hills
+Registrant State/Province:Pennsylvania
+Registrant Postal Code:19030
+Registrant Country:US
+Registrant Phone:+1.2159493945
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dns@wishy.org
+Admin ID:CR30915145
+Admin Name:Ted Kulp
+Admin Street1:220 Tewksbury Rd
+Admin Street2:
+Admin Street3:
+Admin City:Fairless Hills
+Admin State/Province:Pennsylvania
+Admin Postal Code:19030
+Admin Country:US
+Admin Phone:+1.2159493945
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dns@wishy.org
+Tech ID:CR30915144
+Tech Name:Ted Kulp
+Tech Street1:220 Tewksbury Rd
+Tech Street2:
+Tech Street3:
+Tech City:Fairless Hills
+Tech State/Province:Pennsylvania
+Tech Postal Code:19030
+Tech Country:US
+Tech Phone:+1.2159493945
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dns@wishy.org
+Name Server:NS57.DOMAINCONTROL.COM
+Name Server:NS58.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

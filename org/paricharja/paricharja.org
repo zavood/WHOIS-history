@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160845187-LROR
+Domain Name:PARICHARJA.ORG
+Created On:05-Dec-2010 18:37:41 UTC
+Last Updated On:04-Feb-2011 03:49:16 UTC
+Expiration Date:05-Dec-2011 18:37:41 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_13487202
+Registrant Name:Parwez Salman Chowdhury
+Registrant Organization:Paricharja
+Registrant Street1:12/C Asad Avenue, Mohammadpur
+Registrant Street2:
+Registrant Street3:
+Registrant City:Dhaka
+Registrant State/Province:Dhaka
+Registrant Postal Code:1207
+Registrant Country:BD
+Registrant Phone:+88.01716849482
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ma.quaiyum@live.com
+Admin ID:DI_13487202
+Admin Name:Parwez Salman Chowdhury
+Admin Organization:Paricharja
+Admin Street1:12/C Asad Avenue, Mohammadpur
+Admin Street2:
+Admin Street3:
+Admin City:Dhaka
+Admin State/Province:Dhaka
+Admin Postal Code:1207
+Admin Country:BD
+Admin Phone:+88.01716849482
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ma.quaiyum@live.com
+Tech ID:DI_13487202
+Tech Name:Parwez Salman Chowdhury
+Tech Organization:Paricharja
+Tech Street1:12/C Asad Avenue, Mohammadpur
+Tech Street2:
+Tech Street3:
+Tech City:Dhaka
+Tech State/Province:Dhaka
+Tech Postal Code:1207
+Tech Country:BD
+Tech Phone:+88.01716849482
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ma.quaiyum@live.com
+Name Server:NS1.TECHNOBD.COM
+Name Server:NS2.TECHNOBD.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

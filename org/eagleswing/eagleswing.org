@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6032415-LROR
+Domain Name:EAGLESWING.ORG
+Created On:26-Apr-1999 07:16:08 UTC
+Last Updated On:12-Mar-2010 22:43:58 UTC
+Expiration Date:26-Apr-2012 07:14:41 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31904082
+Registrant Name:Morris Hunter
+Registrant Organization:Morris Hunter
+Registrant Street1:2815 SouthRidge
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sachse
+Registrant State/Province:Texas
+Registrant Postal Code:75048
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hunter@dfwcreative.com
+Admin ID:CR31904091
+Admin Name:Morris Hunter
+Admin Organization:Morris Hunter
+Admin Street1:2815 SOUTHRIDGE DR
+Admin Street2:
+Admin Street3:
+Admin City:SACHSE
+Admin State/Province:Texas
+Admin Postal Code:75048-4341
+Admin Country:US
+Admin Phone:+1.9726756425
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mhunter@airmail.net
+Tech ID:CR31904083
+Tech Name:Morris Hunter
+Tech Organization:Morris Hunter
+Tech Street1:2815 SOUTHRIDGE DR
+Tech Street2:
+Tech Street3:
+Tech City:SACHSE
+Tech State/Province:Texas
+Tech Postal Code:75048-4341
+Tech Country:US
+Tech Phone:+1.9726756425
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mhunter@airmail.net
+Name Server:NS1.CATALYST2.NET
+Name Server:NS2.CATALYST2.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

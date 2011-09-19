@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 20:40:39 (BRT -03:00)
+
+domain:      icshvalparaiso.edu.br
+owner:       Centro de Ensino Superior do Brasil
+ownerid:     002.809.449/0001-20
+responsible: S&eacute;rgio Bilota
+country:     BR
+owner-c:     CAV302
+admin-c:     CAV302
+tech-c:      CAV302
+billing-c:   CAV302
+nserver:     ns1.insite.com.br
+nsstat:      20110918 UDN
+nslastaa:    20100307
+nserver:     ns3.insite.com.br
+nsstat:      20110918 AA
+nslastaa:    20110918
+created:     20050317 #2040645
+changed:     20080318
+status:      published
+
+nic-hdl-br:  CAV302
+person:      Carlos Vieira
+e-mail:      informatica@cesbvalparaiso.edu.br
+created:     20050224
+changed:     20050224
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

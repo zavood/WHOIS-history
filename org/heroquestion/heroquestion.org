@@ -1,0 +1,81 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D71203269-LROR
+Domain Name:HEROQUESTION.ORG
+Created On:22-May-2001 02:59:43 UTC
+Last Updated On:21-May-2011 01:58:05 UTC
+Expiration Date:22-May-2012 02:59:43 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:10687182311470
+Registrant Name:Pete Livingston
+Registrant Street1:POB 71123
+Registrant Street2:
+Registrant Street3:
+Registrant City:Richmond
+Registrant State/Province:CA
+Registrant Postal Code:94801
+Registrant Country:US
+Registrant Phone:+99.999999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mumpy@pacbell.net
+Admin ID:10687182314920
+Admin Name:Pete Livingston
+Admin Street1:POB 71123
+Admin Street2:
+Admin Street3:
+Admin City:Richmond
+Admin State/Province:CA
+Admin Postal Code:94801
+Admin Country:US
+Admin Phone:+1.5102363309
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mumpy@pacbell.net
+Tech ID:10687182321160
+Tech Name:Verio Hostmaster
+Tech Street1:5050 Blue Lake Dr.
+Tech Street2:
+Tech Street3:
+Tech City:Boca Raton
+Tech State/Province:FL
+Tech Postal Code:33431
+Tech Country:US
+Tech Phone:+1.8886636648
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@VERIO-HOSTING.COM
+Name Server:NS11A.VERIO-WEB.COM
+Name Server:NS11B.VERIO-WEB.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

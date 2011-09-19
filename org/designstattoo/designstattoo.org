@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158734877-LROR
+Domain Name:DESIGNSTATTOO.ORG
+Created On:30-Mar-2010 15:45:59 UTC
+Last Updated On:26-Mar-2011 04:27:16 UTC
+Expiration Date:30-Mar-2012 15:45:59 UTC
+Sponsoring Registrar:Name.com, LLC (R1288-LROR)
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:ncr-4522597-c42b
+Registrant Name:banjar widodo
+Registrant Organization:banjar widodo
+Registrant Street1:cipinang baru No. 14
+Registrant Street2:jakarta
+Registrant Street3:
+Registrant City:jakarta
+Registrant State/Province:dki
+Registrant Postal Code:13240
+Registrant Country:ID
+Registrant Phone:+62.0811871458
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bandora9@gmail.com
+Admin ID:nca-4522598-8c28
+Admin Name:banjar widodo
+Admin Organization:banjar widodo
+Admin Street1:cipinang baru No. 14
+Admin Street2:jakarta
+Admin Street3:
+Admin City:jakarta
+Admin State/Province:dki
+Admin Postal Code:13240
+Admin Country:ID
+Admin Phone:+62.0811871458
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bandora9@gmail.com
+Tech ID:nct-4522599-f2dc
+Tech Name:banjar widodo
+Tech Organization:banjar widodo
+Tech Street1:cipinang baru No. 14
+Tech Street2:jakarta
+Tech Street3:
+Tech City:jakarta
+Tech State/Province:dki
+Tech Postal Code:13240
+Tech Country:ID
+Tech Phone:+62.0811871458
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bandora9@gmail.com
+Name Server:NS2121.HOSTGATOR.COM
+Name Server:NS2122.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

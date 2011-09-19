@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 21-sep-2004
    Expiration Date: 21-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 01:30:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 23:53:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,3 +52,50 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Whois Server Version 2.1 at whois.tmagnic.net
+
+Database contains ONLY .COM, .NET, .TV, .CC domains.
+
+Owner Contact:
+   Holger Felger
+   TeamViewer GmbH
+   Kuhnbergstrasse 16
+   Goeppingen, 73037, DE
+
+   Punycode Name:  dyngate.com
+   Unicode Name:   dyngate.com
+
+   Admin Contact
+      Holger Felger
+      TeamViewer GmbH
+      hostmaster@teamviewer.com
+      Kuhnbergstrasse 16
+      Goeppingen, 73037, DE
+      phone: +49.71616069250
+
+   Technical Contact
+      Holger Felger
+      TeamViewer GmbH
+      hostmaster@teamviewer.com
+      Kuhnbergstrasse 16
+      Goeppingen, 73037, DE
+      phone: +49.71616069250
+
+   Zone Contact
+      Holger Felger
+      TeamViewer GmbH
+      hostmaster@teamviewer.com
+      Kuhnbergstrasse 16
+      Goeppingen, 73037, DE
+      phone: +49.71616069250
+
+   Record expires on: 2011-09-21 00:00:00
+
+   Domain servers in listed order:
+
+      ns6.rossmanith.com 87.230.73.20
+      ns3.rossmanith.com 88.198.141.34
+      ns4.rossmanith.com 87.230.73.18
+
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D195372-LROR
+Domain Name:TINET.ORG
+Created On:29-Mar-1997 05:00:00 UTC
+Last Updated On:23-Feb-2011 05:54:30 UTC
+Expiration Date:30-Mar-2012 05:00:00 UTC
+Sponsoring Registrar:Nominalia Internet S.L. (R89-LROR)
+Status:OK
+Registrant ID:a482edc15aae
+Registrant Name:Organisme Autonom Per A la Societat de la Informacio
+Registrant Organization:Organisme Autonom Per A la Societat de la Informacio
+Registrant Street1:Assalt 12
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tarragona
+Registrant State/Province:TARRAGONA
+Registrant Postal Code:43003
+Registrant Country:ES
+Registrant Phone:+34.935074360
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ebrull@oasi.org
+Admin ID:a446baa41f41
+Admin Name:null Enric Brull Alabart
+Admin Organization:Organisme Autonom per a la Societat de la Informacio
+Admin Street1:Assalt, 12
+Admin Street2:
+Admin Street3:
+Admin City:Tarragona
+Admin State/Province:TARRAGONA
+Admin Postal Code:43003
+Admin Country:ES
+Admin Phone:+34.977244007
+Admin Phone Ext.:
+Admin FAX:+34.977224517
+Admin FAX Ext.:
+Admin Email:ebrull@oasi.org
+Tech ID:NIC_PIR_TECH
+Tech Name:Technical Department
+Tech Organization:Nominalia Internet, S.L
+Tech Street1:Josep Pla 2, Torres Diagonal Litoral, Edificio B3, planta 3-D
+Tech Street2:
+Tech Street3:
+Tech City:Barcelona
+Tech State/Province:Barcelona
+Tech Postal Code:08019
+Tech Country:ES
+Tech Phone:+34.935074360
+Tech Phone Ext.:
+Tech FAX:+34.933102360
+Tech FAX Ext.:
+Tech Email:tecnico@nominalia.com
+Name Server:MILU.FUT.ES
+Name Server:NIL.FUT.ES
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; devolo.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      devolo.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    DA719-FRNIC
+admin-c:     ACKI19-FRNIC
+tech-c:      TK3527-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5691-FRNIC
+registrar:   KLUTE THIEMANN Informations technologie GmbH &amp; Co.K G.
+anniversary: 01/04
+created:     01/04/2004
+last-update: 25/05/2010
+source:      FRNIC
+
+ns-list:     NSL5691-FRNIC
+nserver:     ns1.klute-thiemann.de
+nserver:     ns2.klute-thiemann.de
+nserver:     ns3.klute-thiemann.de
+nserver:     ns4.klute-thiemann.de
+source:      FRNIC
+
+registrar:   KLUTE THIEMANN Informations technologie GmbH &amp; Co.K G.
+type:        Isp Option 2
+address:     Emil-Figge-Strasse 76-80
+address:     D-44227 DORTMUND
+country:     DE
+phone:       +49 231 9742 543
+fax-no:      +49 231 9742 544
+e-mail:      info@123domain.de
+website:     http://www.123domain.de
+anonymous:   NO
+registered:  20/04/2000
+source:      FRNIC
+
+nic-hdl:     ACKI19-FRNIC
+type:        PERSON
+contact:     Thomas Klute
+address:     K&amp;T Informationstechnologie Beteiligungsgesellschaft mbH
+address:     20, rue de Molsheim
+address:     6700 Strasbourg
+country:     FR
+phone:       +33 3 90 22 13 00
+fax-no:      +33 3 88 24 02 63
+e-mail:      frnic@klute-thiemann.de
+changed:     25/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DA719-FRNIC
+type:        ORGANIZATION
+contact:     devolo AG
+address:     Sonnenweg 11
+address:     52070 Aachen
+country:     DE
+changed:     12/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     TK3527-FRNIC
+type:        PERSON
+contact:     Thomas Klute
+address:     Klute &amp; Thiemann Informationstechnologie Ohg
+address:     Emil-Figge-Str. 76-80
+address:     44227 Dortmund
+address:     DE
+phone:       +49 231 9742 543
+fax-no:      +49 231 9742 544
+e-mail:      klute@klute-thiemann.de
+changed:     23/10/2008 support@123domain.eu
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

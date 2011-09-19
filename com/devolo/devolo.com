@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 21-feb-2002
    Expiration Date: 21-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 22:38:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 00:04:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain devolo.com
-% Timestamp: 2011-09-17 00:39:01
+% Timestamp: 2011-09-19 02:04:23
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

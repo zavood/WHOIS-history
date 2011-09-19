@@ -1,0 +1,42 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 20:43:55 (BRT -03:00)
+
+domain:      maximumwebdesign.com.br
+owner:       Daniel Ortega Pereira
+ownerid:     354.790.778-05
+country:     BR
+owner-c:     DAORT2
+admin-c:     DAORT2
+tech-c:      DAORT2
+billing-c:   DAORT2
+nserver:     ns1.maximumwebdesign.com.br 184.107.43.130
+nsstat:      20110914 AA
+nslastaa:    20110914
+nserver:     ns2.maximumwebdesign.com.br 184.107.43.131
+nsstat:      20110914 AA
+nslastaa:    20110914
+created:     20100406 #6721833
+expires:     20120406
+changed:     20110801
+status:      published
+
+nic-hdl-br:  DAORT2
+person:      Daniel Ortega
+e-mail:      dnlortega@gmail.com
+created:     20081027
+changed:     20110613
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

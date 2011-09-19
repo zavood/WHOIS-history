@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D31793898-LROR
+Domain Name:MIYAKE-CL.ORG
+Created On:24-Jul-2000 04:13:15 UTC
+Last Updated On:12-Jul-2011 05:00:38 UTC
+Expiration Date:24-Jul-2012 04:13:15 UTC
+Sponsoring Registrar:PSI Japan (R67-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CP00122187
+Registrant Name:iryouhoujin miyake clinic
+Registrant Street1:2-10-20,Jinyama
+Registrant Street2:
+Registrant Street3:
+Registrant City:Yahatanishi-ku,Kitakyushu-shi
+Registrant State/Province:FUKUOKA
+Registrant Postal Code:806-0012
+Registrant Country:JP
+Registrant Phone:+81.999999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain@webfactory.ne.jp
+Admin ID:CP00100714
+Admin Name:NihonMediaWork.Co.Ltd
+Admin Organization:Network
+Admin Street1:3-23-12,Hakataekimae
+Admin Street2:Kouwa,BLD,6F
+Admin Street3:
+Admin City:Hakata-Ku,Fukuoka-City
+Admin State/Province:Fukuoka
+Admin Postal Code:812-0011
+Admin Country:JP
+Admin Phone:+81.924327725
+Admin Phone Ext.:
+Admin FAX:+81.924327735
+Admin FAX Ext.:
+Admin Email:domain@webfactory.ne.jp
+Tech ID:CP00100714
+Tech Name:NihonMediaWork.Co.Ltd
+Tech Organization:Network
+Tech Street1:3-23-12,Hakataekimae
+Tech Street2:Kouwa,BLD,6F
+Tech Street3:
+Tech City:Hakata-Ku,Fukuoka-City
+Tech State/Province:Fukuoka
+Tech Postal Code:812-0011
+Tech Country:JP
+Tech Phone:+81.924327725
+Tech Phone Ext.:
+Tech FAX:+81.924327735
+Tech FAX Ext.:
+Tech Email:domain@webfactory.ne.jp
+Name Server:NS.NAMEDSERVER.NET
+Name Server:NS2.NAMEDSERVER.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

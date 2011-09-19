@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154478986-LROR
+Domain Name:DOCLAB.ORG
+Created On:16-Oct-2008 13:08:43 UTC
+Last Updated On:16-Dec-2008 03:51:13 UTC
+Expiration Date:16-Oct-2013 13:08:43 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CS4555-GANDI
+Registrant Name:caspar sonnen
+Registrant Street1:kleine gartmanplantsoen
+Registrant Street2:
+Registrant Street3:
+Registrant City:amsterdam
+Registrant State/Province:
+Registrant Postal Code:1017RR
+Registrant Country:NL
+Registrant Phone:+31.644886266
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:2c592fd78c87ea7afd984f1f1d804150-876923@contact.gandi.net
+Admin ID:CS4555-GANDI
+Admin Name:caspar sonnen
+Admin Street1:kleine gartmanplantsoen
+Admin Street2:
+Admin Street3:
+Admin City:amsterdam
+Admin State/Province:
+Admin Postal Code:1017RR
+Admin Country:NL
+Admin Phone:+31.644886266
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:2c592fd78c87ea7afd984f1f1d804150-876923@contact.gandi.net
+Tech ID:AB995-GANDI
+Tech Name:Alexandre Brachet
+Tech Organization:Upian.com
+Tech Street1:211 rue saint-maur
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:75010
+Tech Country:FR
+Tech Phone:+33.153197003
+Tech Phone Ext.:
+Tech FAX:+33.142401436
+Tech FAX Ext.:
+Tech Email:01af1ebc53caf017b01bc245fcbdc79a-188556@contact.gandi.net
+Name Server:NS1.TYPHON.NET
+Name Server:NS2.TYPHON.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

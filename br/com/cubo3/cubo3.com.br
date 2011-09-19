@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 20:21:36 (BRT -03:00)
+
+domain:      cubo3.com.br
+owner:       PictoCity est&uacute;dio
+ownerid:     010.246.216/0001-95
+responsible: Deborah Magnani
+country:     BR
+owner-c:     HRB
+admin-c:     HRB
+tech-c:      HRB
+billing-c:   HRB
+nserver:     ns1.insite.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+nserver:     ns3.insite.com.br
+nsstat:      20110915 AA
+nslastaa:    20110915
+created:     20090126 #5218569
+expires:     20120126
+changed:     20110209
+status:      published
+
+nic-hdl-br:  HRB
+person:      Manuten&ccedil;&atilde;o de Dom&iacute;nios INSITE
+e-mail:      registro-leg@uolhostidc.com.br
+created:     19971218
+changed:     20100707
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

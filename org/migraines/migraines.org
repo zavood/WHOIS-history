@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4882073-LROR
+Domain Name:MIGRAINES.ORG
+Created On:12-Dec-1996 05:00:00 UTC
+Last Updated On:16-Jul-2011 11:42:03 UTC
+Expiration Date:11-Dec-2016 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:24723398-NSI
+Registrant Name:MAGNUM, Inc.
+Registrant Organization:MAGNUM, Inc.
+Registrant Street1:100 North Union Street
+Registrant Street2:Suite B
+Registrant Street3:
+Registrant City:Alexandria
+Registrant State/Province:VA
+Registrant Postal Code:22314
+Registrant Country:US
+Registrant Phone:+1.703349192
+Registrant Phone Ext.:
+Registrant FAX:+1.703739243
+Registrant FAX Ext.:
+Registrant Email:magnump@EROLS.COM
+Admin ID:24723399-NSI
+Admin Name:Michael Coleman
+Admin Organization:MAGNUM, Inc.
+Admin Street1:100 North Union Street
+Admin Street2:Suite B
+Admin Street3:
+Admin City:Alexandria
+Admin State/Province:VA
+Admin Postal Code:22314-3244
+Admin Country:US
+Admin Phone:+1.7033491929
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:coleman@migraines.org
+Tech ID:24723399-NSI
+Tech Name:Michael Coleman
+Tech Organization:MAGNUM, Inc.
+Tech Street1:100 North Union Street
+Tech Street2:Suite B
+Tech Street3:
+Tech City:Alexandria
+Tech State/Province:VA
+Tech Postal Code:22314-3244
+Tech Country:US
+Tech Phone:+1.7033491929
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:coleman@migraines.org
+Name Server:NS89.WORLDNIC.COM
+Name Server:NS90.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

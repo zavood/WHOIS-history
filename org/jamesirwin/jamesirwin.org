@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98385606-LROR
+Domain Name:JAMESIRWIN.ORG
+Created On:14-Jul-2003 17:43:57 UTC
+Last Updated On:17-Jun-2011 16:54:30 UTC
+Expiration Date:14-Jul-2013 17:43:57 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30624195
+Registrant Name:Ryan Schierholz
+Registrant Organization:James Irwin Charter Schools
+Registrant Street1:5525 Astrozon Blvd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Colorado Springs
+Registrant State/Province:Colorado
+Registrant Postal Code:80916
+Registrant Country:US
+Registrant Phone:+1.7193029009
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tech@jamesirwin.org
+Admin ID:CR30624197
+Admin Name:Ryan Schierholz
+Admin Organization:James Irwin Charter Schools
+Admin Street1:5525 Astrozon Blvd
+Admin Street2:
+Admin Street3:
+Admin City:Colorado Springs
+Admin State/Province:Colorado
+Admin Postal Code:80916
+Admin Country:US
+Admin Phone:+1.7193029009
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tech@jamesirwin.org
+Tech ID:CR30624196
+Tech Name:Ryan Schierholz
+Tech Organization:James Irwin Charter Schools
+Tech Street1:5525 Astrozon Blvd
+Tech Street2:
+Tech Street3:
+Tech City:Colorado Springs
+Tech State/Province:Colorado
+Tech Postal Code:80916
+Tech Country:US
+Tech Phone:+1.7193029009
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tech@jamesirwin.org
+Name Server:NS21.DOMAINCONTROL.COM
+Name Server:NS22.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

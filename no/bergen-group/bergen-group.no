@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: BER3261D-NORID
+Domain Name................: bergen-group.no
+Domain Holder Handle.......: BGMA5O-NORID
+Registrar Handle...........: REG929-NORID
+Legal-c Handle.............: JTS170P-NORID
+Tech-c Handle..............: NAH65R-NORID
+Name Server Handle.........: PUMB11H-NORID
+Name Server Handle.........: TIMO11H-NORID
+
+Additional information:
+Created:         2007-10-22
+Last updated:    2011-06-22
+
+NORID Handle...............: BGMA5O-NORID
+Type.......................: organization
+Name.......................: Bergen Group Management AS
+Id Type....................: organization_number
+Id Number..................: 977171849
+Registrar Handle...........: REG929-NORID
+Post Address...............: Thorm&oslash;hlensgate 53c
+Postal Code................: NO-5006
+Postal Area................: BERGEN
+Country....................: NO
+Phone Number...............: +47.55542400
+Fax Number.................: +47.55542401
+Email Address..............: hosting@aspekt.no
+
+Additional information:
+Created:         2011-06-22
+Last updated:    2011-06-22
+

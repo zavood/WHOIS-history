@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154561183-LROR
+Domain Name:WESA-A-GEH-YA.ORG
+Created On:28-Oct-2008 07:55:23 UTC
+Last Updated On:29-Oct-2010 09:59:39 UTC
+Expiration Date:28-Oct-2011 07:55:23 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR39137932
+Registrant Name:Mutsu Hamaoka
+Registrant Organization:H3-Network
+Registrant Street1:Abeno
+Registrant Street2:1-1
+Registrant Street3:
+Registrant City:Osaka
+Registrant State/Province:Osaka
+Registrant Postal Code:5450023
+Registrant Country:JP
+Registrant Phone:+81.0666284666
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain-contact@h3-network.com
+Admin ID:CR39137934
+Admin Name:Mutsu Hamaoka
+Admin Organization:H3-Network
+Admin Street1:Abeno
+Admin Street2:1-1
+Admin Street3:
+Admin City:Osaka
+Admin State/Province:Osaka
+Admin Postal Code:5450023
+Admin Country:JP
+Admin Phone:+81.0666284666
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domain-contact@h3-network.com
+Tech ID:CR39137933
+Tech Name:Mutsu Hamaoka
+Tech Organization:H3-Network
+Tech Street1:Abeno
+Tech Street2:1-1
+Tech Street3:
+Tech City:Osaka
+Tech State/Province:Osaka
+Tech Postal Code:5450023
+Tech Country:JP
+Tech Phone:+81.0666284666
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain-contact@h3-network.com
+Name Server:NS1.CONEPUPPY.COM
+Name Server:NS2.CONEPUPPY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

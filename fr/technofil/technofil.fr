@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; technofil.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      technofil.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    T1969-FRNIC
+admin-c:     MB1846-FRNIC
+tech-c:      PW339-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL3796-FRNIC
+registrar:   PLANET-WORK
+anniversary: 16/05
+created:     16/05/2005
+last-update: 12/08/2011
+source:      FRNIC
+
+ns-list:     NSL3796-FRNIC
+nserver:     ns1.planet-work.com
+nserver:     ns2.planet-work.com
+source:      FRNIC
+
+registrar:   PLANET-WORK
+type:        Isp Option 1
+address:     231 Rue Saint-Honor&eacute;
+address:     PARIS
+country:     FR
+phone:       +33 8 91 02 44 24
+fax-no:      +33 1 41 79 78 61
+e-mail:      domains@planet-work.com
+website:     http://www.planet-work.fr
+anonymous:   NO
+registered:  06/08/2004
+source:      FRNIC
+
+nic-hdl:     T1969-FRNIC
+type:        ORGANIZATION
+contact:     TECHNOFIL
+address:     10-12, rue des Gaudines
+address:     78100 Saint-Germain-en-Laye
+country:     FR
+phone:       +33 1 39 73 07 01
+e-mail:      marc.bessiere@noos.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     MB1846-FRNIC
+type:        PERSON
+contact:     Marc Bessiere
+address:     TECHNOFIL
+address:     10-12, rue des Gaudines
+address:     78100 Saint-Germain-en-Laye
+country:     FR
+phone:       +33 1 39 73 07 01
+e-mail:      marc.bessiere@noos.fr
+changed:     16/05/2005 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PW339-FRNIC
+type:        ORGANIZATION
+contact:     PLANET-WORK
+address:     Planet-Work
+address:     231, rue Saint-Honor&eacute;
+address:     75001 Paris
+country:     FR
+phone:       +33 8 91 02 44 24
+fax-no:      +33 1 41 79 78 61
+e-mail:      domains@planet-work.com
+changed:     14/06/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+

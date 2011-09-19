@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 12-oct-1996
    Expiration Date: 11-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 19:23:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 23:44:18 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -106,12 +106,12 @@ Registrant:
 		Phone: +33.497128733	Fax: +33.497128501
 
 	Billing Contact:
-		Contact De Facturation  (NNR-wanado95) billing@domaine.wanadoo.com
-		France Telecom Scr
-		48 Rue Camille Desmoulins
-		92791 Issy Les Moulineaux
+		Leopold Fenu Beatrice (NNR-wanado95) gestionndd@francetelecom.biz
+		France Telecom
+		6 Place D Alleray
+		75015 Paris
 		FR
-		Phone: +33.158885349	Fax: +33.158887580
+		Phone: +33.145298193
 
 	Record last updated on 2010-Oct-11
 	Record expires on 2011-Oct-11

@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157021619-LROR
+Domain Name:LIBGONCHAR.ORG
+Created On:03-Sep-2009 12:09:20 UTC
+Last Updated On:18-Sep-2011 09:33:25 UTC
+Expiration Date:03-Sep-2012 12:09:20 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:8c6b7cee5d3ac550
+Registrant Name:Reactivation  Period
+Registrant Street1:15801 NE 24th Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bellevue
+Registrant State/Province:WA
+Registrant Postal Code:98004
+Registrant Country:US
+Registrant Phone:+1.4252744500
+Registrant Phone Ext.:
+Registrant FAX:+1.4259744791
+Registrant FAX Ext.:
+Registrant Email:Reactivation-Pending@enom.com
+Admin ID:8c6b7cee5d3ac550
+Admin Name:Reactivation  Period
+Admin Street1:15801 NE 24th Street
+Admin Street2:
+Admin Street3:
+Admin City:Bellevue
+Admin State/Province:WA
+Admin Postal Code:98004
+Admin Country:US
+Admin Phone:+1.4252744500
+Admin Phone Ext.:
+Admin FAX:+1.4259744791
+Admin FAX Ext.:
+Admin Email:Reactivation-Pending@enom.com
+Tech ID:8c6b7cee5d3ac550
+Tech Name:Reactivation  Period
+Tech Street1:15801 NE 24th Street
+Tech Street2:
+Tech Street3:
+Tech City:Bellevue
+Tech State/Province:WA
+Tech Postal Code:98004
+Tech Country:US
+Tech Phone:+1.4252744500
+Tech Phone Ext.:
+Tech FAX:+1.4259744791
+Tech FAX Ext.:
+Tech Email:Reactivation-Pending@enom.com
+Name Server:DNS1.NAME-SERVICES.COM
+Name Server:DNS2.NAME-SERVICES.COM
+Name Server:DNS3.NAME-SERVICES.COM
+Name Server:DNS4.NAME-SERVICES.COM
+Name Server:DNS5.NAME-SERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

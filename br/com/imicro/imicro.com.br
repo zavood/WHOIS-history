@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-18 20:56:00 (BRT -03:00)
+
+domain:      imicro.com.br
+owner:       Intermicro Ltda
+ownerid:     002.491.874/0001-14
+responsible: Marco Antonio Tureta Feli
+country:     BR
+owner-c:     MAF78
+admin-c:     MAF78
+tech-c:      MAF78
+billing-c:   ATF65
+nserver:     ns1.imicro.com.br 200.243.56.220
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     ns2.imicro.com.br 200.243.56.221
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     19980513 #97643
+expires:     20160513
+changed:     20110524
+status:      published
+
+nic-hdl-br:  ATF65
+person:      Alessandra Tureta da Silva Felisberto
+e-mail:      tanda@imicro.com.br
+created:     20020921
+changed:     20020921
+
+nic-hdl-br:  MAF78
+person:      marco antonio tureta felisberto
+e-mail:      marco@imicro.com.br
+created:     19980513
+changed:     20060105
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

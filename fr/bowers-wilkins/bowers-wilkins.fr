@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; bowers-wilkins.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      bowers-wilkins.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    BAWL1-FRNIC
+admin-c:     LN384-FRNIC
+tech-c:      CL1601-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6777-FRNIC
+registrar:   ASCIO TECHNOLOGIES Inc.
+anniversary: 05/12
+created:     05/12/2006
+last-update: 14/12/2006
+source:      FRNIC
+
+ns-list:     NSL6777-FRNIC
+nserver:     ns1.ascio.com
+nserver:     ns3.ascio.com
+source:      FRNIC
+
+registrar:   ASCIO TECHNOLOGIES Inc.
+type:        Isp Option 1
+address:     Islands Brygge 55
+address:     DK-2300 COPENHAGUE S
+country:     DK
+phone:       +45 33 88 61 00
+fax-no:      +45 33 88 61 01
+e-mail:      nicrelations@ascio.com
+website:     http://www.ascio.com
+anonymous:   NO
+registered:  18/01/2001
+source:      FRNIC
+
+nic-hdl:     BAWL1-FRNIC
+type:        ORGANIZATION
+contact:     B and W Loudspeakers France Sarl
+address:     Domaine des Algorithmes
+address:     immeuble Esope
+address:     91190 Saint-Aubin
+country:     FR
+phone:       +33 1 69 35 31 50
+fax-no:      +33 1 60 19 65 33
+e-mail:      sthomas@bwgroup.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     LN384-FRNIC
+type:        PERSON
+contact:     Lionel Nunney
+address:     B And W Loudspeakers France Sarl
+address:     Domaine des Algorithmes
+address:     immeuble Esope
+address:     91190 Saint-Aubin
+country:     FR
+phone:       +33 1 69 35 31 50
+e-mail:      sthomas@bwgroup.com
+changed:     05/12/2006 callback@speednic.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CL1601-FRNIC
+type:        ROLE
+contact:     Christopher Laursen
+address:     C Balmes 9, 1-1
+address:     Barcelona
+address:     08007 ES
+e-mail:      info@edc.es
+admin-c:     CL1600-FRNIC
+tech-c:      CL1600-FRNIC
+changed:     08/11/2005 callback@speednic.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

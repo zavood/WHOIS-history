@@ -1,0 +1,104 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; la-chevre.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      la-chevre.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SSDP40-FRNIC
+admin-c:     RS2400-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL13550-FRNIC
+registrar:   GANDI
+anniversary: 07/05
+created:     23/06/2006
+last-update: 07/05/2010
+source:      FRNIC
+
+ns-list:     NSL13550-FRNIC
+nserver:     a.dns.gandi.net
+nserver:     b.dns.gandi.net
+nserver:     c.dns.gandi.net
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     SSDP40-FRNIC
+type:        ORGANIZATION
+contact:     SPEOC - SOCIETE DE PRESSE ET D'EDITION OVINE ET CAPRINE
+address:     149, rue de Bercy
+address:     75595 Paris
+country:     FR
+phone:       +33 1 40 04 52 45
+e-mail:      damien.hardy@inst-elevage.asso.fr
+changed:     07/05/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     RS2400-FRNIC
+type:        ORGANIZATION
+contact:     REUSSIR SA
+address:     2, avenue du pays de Caen Colombelles
+address:     14902 Caen
+country:     FR
+phone:       +33 2 31 35 77 00
+fax-no:      +33 2 31 35 77 18
+e-mail:      2059717bcb8706cf444a5fb0c50fdeab-917209@contact.gandi.net
+changed:     03/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

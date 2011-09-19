@@ -1,0 +1,30 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'fpnovin.ir'
+
+
+domain:		fpnovin.ir
+ascii:		fpnovin.ir
+remarks:	(Domain Holder) Mohamad Mahdi Nasiri
+remarks:	(Domain Holder Address) No. 101, Filban DEAD END, Siami Haj Abadi Ave.,, Tehran, Tehran, IR
+holder-c:	mn63-irnic
+admin-c:	mn63-irnic
+tech-c:		mn63-irnic
+nserver:	ns1.panelboxmanager.com
+nserver:	ns2.panelboxmanager.com
+last-updated:	2009-09-05
+source:		IRNIC # Filtered
+
+nic-hdl:	mn63-irnic
+person:		Mohamad Mahdi Nasiri
+e-mail:		Mahdi.Nasiri@Gmail.com
+address:	No. 101, Filban DEAD END, Siami Haj Abadi Ave.,, Tehran, Tehran, IR
+phone:		55660008
+source:		IRNIC # Filtered
+

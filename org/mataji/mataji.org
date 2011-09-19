@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1021516-LROR
+Domain Name:MATAJI.ORG
+Created On:25-Mar-1998 05:00:00 UTC
+Last Updated On:22-Apr-2010 03:06:59 UTC
+Expiration Date:24-Mar-2015 05:00:00 UTC
+Sponsoring Registrar:QuantumPages Technologies Pvt. Ltd. d/b/a OwnRegistrar.com (R1466-LROR)
+Status:OK
+Registrant ID:DI_340341
+Registrant Name:Mataji
+Registrant Organization:Mataji
+Registrant Street1:805 Shapath II
+Registrant Street2:Opp. Rajpath Club
+Registrant Street3:Satellite
+Registrant City:Ahmedabad
+Registrant State/Province:Gujarat
+Registrant Postal Code:380015
+Registrant Country:IN
+Registrant Phone:+91.7926870902
+Registrant Phone Ext.:
+Registrant FAX:+91.7926870903
+Registrant FAX Ext.:
+Registrant Email:intranet@vsnl.com
+Admin ID:DI_340341
+Admin Name:Mataji
+Admin Organization:Mataji
+Admin Street1:805 Shapath II
+Admin Street2:Opp. Rajpath Club
+Admin Street3:Satellite
+Admin City:Ahmedabad
+Admin State/Province:Gujarat
+Admin Postal Code:380015
+Admin Country:IN
+Admin Phone:+91.7926870902
+Admin Phone Ext.:
+Admin FAX:+91.7926870903
+Admin FAX Ext.:
+Admin Email:intranet@vsnl.com
+Tech ID:DI_340341
+Tech Name:Mataji
+Tech Organization:Mataji
+Tech Street1:805 Shapath II
+Tech Street2:Opp. Rajpath Club
+Tech Street3:Satellite
+Tech City:Ahmedabad
+Tech State/Province:Gujarat
+Tech Postal Code:380015
+Tech Country:IN
+Tech Phone:+91.7926870902
+Tech Phone Ext.:
+Tech FAX:+91.7926870903
+Tech FAX Ext.:
+Tech Email:intranet@vsnl.com
+Name Server:NS1.MATAJI.ORG
+Name Server:NS2.MATAJI.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
