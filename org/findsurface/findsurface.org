@@ -17,11 +17,10 @@ time. By submitting this query, you agree to abide by this policy.
 Domain ID:D162829333-LROR
 Domain Name:FINDSURFACE.ORG
 Created On:20-Jul-2011 13:43:16 UTC
-Last Updated On:20-Jul-2011 17:44:38 UTC
+Last Updated On:19-Sep-2011 03:51:03 UTC
 Expiration Date:20-Jul-2012 13:43:16 UTC
 Sponsoring Registrar:Bizcn.com, Inc. (R1248-LROR)
 Status:CLIENT TRANSFER PROHIBITED
-Status:TRANSFER PROHIBITED
 Registrant ID:orgab11169393390
 Registrant Name:Alen Bootwin
 Registrant Organization:AlenBootwin

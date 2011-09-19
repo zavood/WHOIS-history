@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 17-jun-1998
    Expiration Date: 16-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 17:44:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:16:05 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,5 +74,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: jpcycles.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sun Sep 18 13:35:04 EDT 2011
+Date and Time of Query: Mon Sep 19 14:06:27 EDT 2011
 Reason Code: IE

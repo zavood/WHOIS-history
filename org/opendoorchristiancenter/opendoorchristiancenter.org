@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149883865-LROR
+Domain Name:OPENDOORCHRISTIANCENTER.ORG
+Created On:22-Nov-2007 02:41:14 UTC
+Last Updated On:27-May-2011 01:08:14 UTC
+Expiration Date:22-Nov-2011 02:41:14 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34288176
+Registrant Name:David Page
+Registrant Street1:400 7th St
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bolckow
+Registrant State/Province:Missouri
+Registrant Postal Code:64427
+Registrant Country:US
+Registrant Phone:+1.8163240844
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:pagesoftheking@yahoo.com
+Admin ID:CR34288178
+Admin Name:David Page
+Admin Street1:7305 S. 99th East Ave, Apt 918
+Admin Street2:
+Admin Street3:
+Admin City:Tulsa
+Admin State/Province:Oklahoma
+Admin Postal Code:74133
+Admin Country:US
+Admin Phone:+1.9183762071
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:pagesoftheking@yahoo.com
+Tech ID:CR34288177
+Tech Name:David Page
+Tech Street1:7305 S. 99th East Ave, Apt 918
+Tech Street2:
+Tech Street3:
+Tech City:Tulsa
+Tech State/Province:Oklahoma
+Tech Postal Code:74133
+Tech Country:US
+Tech Phone:+1.9183762071
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:pagesoftheking@yahoo.com
+Name Server:NS1.WEBSRVCS.COM
+Name Server:NS2.WEBSRVCS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

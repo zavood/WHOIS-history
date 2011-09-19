@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 17-nov-2003
    Expiration Date: 17-nov-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 08:40:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:33:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ In most cases, the Registrar is not the owner of domain names listed in this dat
 
 Registrant:
    My Brands
-   395 Summit Point Drive
-   Suite One
-   Henrietta, New York 14467
-   United States
 
    Registered through: equaTEK Interactive
    Domain Name: MYBRANDS.COM
-      Created on: 17-Nov-03
-      Expires on: 17-Nov-12
-      Last Updated on: 21-Oct-09
-
-   Administrative Contact:
-      Clarridge, Suzanne  sclarridge@mybrands.com
-      My Brands
-      395 Summit Point Drive
-      Suite One
-      Henrietta, New York 14467
-      United States
-      +1.15852738480      Fax -- +1.5853219906
-
-   Technical Contact:
-      Management, Domain  domains@equatekinteractive.com
-      equaTEK Interactive
-      PO Box 885
-      Suite One
-      Pittsford, New York 14534
-      United States
-      +1.5859248680      Fax --
 
    Domain servers in listed order:
       DNS1.LAYER8HOSTING.COM
       DNS2.LAYER8HOSTING.COM
 
+
+   For complete domain details go to:
+   http://who.securepaynet.net/whoischeck.aspx?Domain=MYBRANDS.COM&amp;prog_id=equatek

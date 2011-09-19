@@ -5,39 +5,13 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-17 01:05:18 (BRT -03:00)
+%  2011-09-19 15:12:44 (BRT -03:00)
+
+% Query rate limit exceeded. Reduced information.
+% Use https://registro.br/cgi-bin/avail/ for domain availability.
 
 domain:      milassentos.com.br
-owner:       Asthi Comercial Ltda
-ownerid:     058.840.380/0001-52
-responsible: Bruno Corsi Rodrigues
-country:     BR
-owner-c:     BCR63
-admin-c:     BCR63
-tech-c:      SCL1153
-billing-c:   BCR63
-nserver:     dns1.atmacomercial.com.br
-nsstat:      20110912 AA
-nslastaa:    20110912
-nserver:     dns2.atmacomercial.com.br
-nsstat:      20110912 AA
-nslastaa:    20110912
-created:     20040913 #1810641
-expires:     20130913
-changed:     20110617
-status:      published
-
-nic-hdl-br:  BCR63
-person:      Bruno Corsi Rodrigues
-e-mail:      aasti@uol.com.br
-created:     20060425
-changed:     20110629
-
-nic-hdl-br:  SCL1153
-person:      SUPERMICRO COMERCIAL LTDA.
-e-mail:      gilsonatma@hotmail.com
-created:     20060220
-changed:     20100909
+owner:       Asthi Comercial Ltda (112960)
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

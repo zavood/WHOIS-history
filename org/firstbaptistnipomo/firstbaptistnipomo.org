@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161870263-LROR
+Domain Name:FIRSTBAPTISTNIPOMO.ORG
+Created On:25-Mar-2011 22:06:37 UTC
+Last Updated On:25-May-2011 03:50:38 UTC
+Expiration Date:25-Mar-2012 22:06:37 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR78846344
+Registrant Name:Customer Services
+Registrant Street1:2100 Riverchase Center
+Registrant Street2:Suite 212
+Registrant Street3:
+Registrant City:Birmingham
+Registrant State/Province:Alabama
+Registrant Postal Code:35007
+Registrant Country:US
+Registrant Phone:+1.8772410540
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domainrenewals@websrvcs.com
+Admin ID:CR78846346
+Admin Name:Customer Services
+Admin Street1:2100 Riverchase Center
+Admin Street2:Suite 212
+Admin Street3:
+Admin City:Birmingham
+Admin State/Province:Alabama
+Admin Postal Code:35007
+Admin Country:US
+Admin Phone:+1.8772410540
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domainrenewals@websrvcs.com
+Tech ID:CR78846345
+Tech Name:Customer Services
+Tech Street1:2100 Riverchase Center
+Tech Street2:Suite 212
+Tech Street3:
+Tech City:Birmingham
+Tech State/Province:Alabama
+Tech Postal Code:35007
+Tech Country:US
+Tech Phone:+1.8772410540
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domainrenewals@websrvcs.com
+Name Server:NS1.WEBSRVCS.COM
+Name Server:NS2.WEBSRVCS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 10-oct-2009
    Expiration Date: 10-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 06:04:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 17:16:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,22 +84,40 @@ Domain servers in listed order:
 	 ns7.hostdl.com 	 ns8.hostdl.com
 
 Administrator:
-	 Hossain Miri gooyait@gmail.com +98.9118664038
+	 name:(Hossain Miri)
+	Email:(gooyait@gmail.com) tel-- +98.9118664038
 	 gooyait
 	 Dadgostari Ave
-	 goonbad kavoos,golestan,IR 74319
+\r
+t goonbad kavoos
+golestan,
+IR
+
+ zipcode:74319
 
 Technical Contactor:
-	 Hossain Miri gooyait@gmail.com +98.9118664038
+	 name:(Hossain Miri)
+	Email:(gooyait@gmail.com) tel-- +98.9118664038
 	 gooyait
 	 Dadgostari Ave
-	 goonbad kavoos,golestan,IR 74319
+\r
+t goonbad kavoos
+golestan,
+IR
+
+ zipcode:74319
 
 Billing Contactor:
-	 Hossain Miri gooyait@gmail.com +98.1744240055
+	 name:(Hossain Miri)
+	Email:(gooyait@gmail.com) tel-- +98.1744240055
 	 wsd
 	 Dadgostari Ave
-	 goonbad kavoos,Golestan,IR 74319
+\r
+t goonbad kavoos
+Golestan,
+IR
+
+ zipcode:74319
 
 
 Registration Service Provider:

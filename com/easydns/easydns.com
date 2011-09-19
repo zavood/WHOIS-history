@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 24-mar-1998
    Expiration Date: 23-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 16:53:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:11:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,63 +54,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- easyDNS Technologies
- 304A - 219 Dufferin St.
- Toronto, ON M6K 3J1
- CA
-
- Domain name: EASYDNS.COM
- ---------------------------------------------------------------------------
- Anycast Deployed Nameservers. See:
- http://web.easydns.com/our_nameservers.php
- 100% DNS Uptime SLA
- ---------------------------------------------------------------------------
-
-
- Administrative Contact:
-    Role Account, Hostmaster  easydns@myprivacy.ca
-    304A - 219 Dufferin St.
-    Toronto, ON M6K 3J1
-    CA
-    416-535-8672    Fax: +1.6474386227
-
- Technical Contact:
-    Role Account, Hostmaster  easydns@myprivacy.ca
-    304A - 219 Dufferin St.
-    Toronto, ON M6K 3J1
-    CA
-    416-535-8672    Fax: +1.6474386227
-
-
-
- Registrar of Record: easyDNS Technologies, Inc.
- Record last updated on 09-Sep-2011.
- Record expires on 23-Mar-2013.
- Record created on 24-Mar-1998.
-
- Domain servers in listed order:
-    DNS1.EASYDNS.COM   64.68.192.10
-    DNS4.EASYDNS.INFO   194.0.2.19
-    DNS2.EASYDNS.NET   72.52.2.1
-    DNS3.EASYDNS.ORG   64.68.193.10
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-This domain is being managed via EASYDNS
-
-The DNS Hosting specialists since 1998
-
-DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
-
-Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
-
-System Status Updates: http://easyurl.net/easystatus
-
-( Follow us on Twitter http://twitter.com/easydns
-  or Identi.ca http://identi.ca/easyDNS )
-
-
-You have 9 lookups left today
+Too many lookups from this IP today. See you tomorrow.

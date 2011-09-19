@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 02-jul-2011
    Expiration Date: 02-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 12:00:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:19:53 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -87,5 +87,5 @@ ns1.g00dluck.com
 ns2.g00dluck.com
 
 
-&gt;&gt;&gt; Last update of whois database: 2011/09/15 05:00:23 PST &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: 2011/09/19 11:17:19 PST &lt;&lt;&lt;
 

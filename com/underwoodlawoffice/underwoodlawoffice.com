@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 18-aug-2005
    Expiration Date: 18-aug-2014
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 13:12:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:12:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

@@ -1,0 +1,76 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; sosryko.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      sosryko.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    JPQ9-FRNIC
+admin-c:     HM498-FRNIC
+tech-c:      HM498-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL23816-FRNIC
+registrar:   Tucows.com CO
+anniversary: 04/09
+created:     04/09/2009
+last-update: 04/09/2009
+source:      FRNIC
+
+ns-list:     NSL23816-FRNIC
+nserver:     ns1.hostpapa.com
+nserver:     ns2.hostpapa.com
+source:      FRNIC
+
+registrar:   Tucows.com CO
+type:        Isp Option 1
+address:     96 Mowat Avenue
+address:     M6K 3M1 TORONTO
+country:     CA
+phone:       +1 416 535 0123
+fax-no:      +1 416 531 55 84
+e-mail:      servicebureau@tucows.com
+website:     http://www.tucows.com
+anonymous:   NO
+registered:  24/01/2005
+source:      FRNIC
+
+nic-hdl:     HM498-FRNIC
+type:        PERSON
+contact:     Host Master
+address:     HostPapa
+address:     10-12, avenue de l'Arche
+address:     92419 Paris
+country:     FR
+phone:       +1.0800907197
+e-mail:      domains@hostpapasupport.com
+changed:     02/07/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JPQ9-FRNIC
+type:        PERSON
+contact:     Jean-Philippe Qadri
+address:     8, rue de Pineau, Apt 210
+address:     33100 Bordeaux
+country:     FR
+phone:       +336679352
+e-mail:      jpqadri@gmail.com
+changed:     04/09/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

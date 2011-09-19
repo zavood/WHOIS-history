@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 01-apr-2010
    Expiration Date: 01-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 15:17:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 17:00:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,26 +84,20 @@ Domain servers in listed order:
 	 dns1.markum.net 	 dns2.markum.net
 
 Administrator:
-	 Name-- Ahmet Kavakli
- EMail-: (ahkavakli@hotmail.com)
- tel --: +90.5055414057
-	 org: KIRIKKALE
+	 Ahmet Kavakli ahkavakli@hotmail.com +90.5055414057
+	 KIRIKKALE
 	 KIRIKKALE
 	 MERKEZ,Kirikkale,TR 71100
 
 Technical Contactor:
-	 Name-- Ahmet Kavakli
- EMail-: (ahkavakli@hotmail.com)
- tel --: +90.5055414057
-	 org: KIRIKKALE
+	 Ahmet Kavakli ahkavakli@hotmail.com +90.5055414057
+	 KIRIKKALE
 	 KIRIKKALE
 	 MERKEZ,Kirikkale,TR 71100
 
 Billing Contactor:
-	 Name-- Ahmet Kavakli
- EMail-: (ahkavakli@hotmail.com)
- tel --: +90.5055414057
-	 org: KIRIKKALE
+	 Ahmet Kavakli ahkavakli@hotmail.com +90.5055414057
+	 KIRIKKALE
 	 KIRIKKALE
 	 MERKEZ,Kirikkale,TR 71100
 

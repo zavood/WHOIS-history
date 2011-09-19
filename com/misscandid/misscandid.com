@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 19-jan-2009
    Expiration Date: 19-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:24:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:11:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -72,7 +72,7 @@ status:       lock
 created:      2009-01-19 12:50:31 UTC
 modified:     2011-01-13 10:00:34 UTC
 expires:      2012-01-19 12:50:31 UTC
-query-source: 174.142.225.246
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-96712
 person:       Hostmaster Funktionen
@@ -85,8 +85,8 @@ country:      DK
 phone:        +45.86515030
 
 source:       joker.com live whois service
-query-time:   0.045046
-db-updated:   2011-09-14 17:24:47
+query-time:   0.020093
+db-updated:   2011-09-19 18:12:56
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

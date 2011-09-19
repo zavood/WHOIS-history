@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 19-mar-2007
    Expiration Date: 19-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 18:43:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 17:46:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -63,7 +63,7 @@ Registrars.
 % Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain justin-tv.com
-% Timestamp: 2011-09-17 20:43:56
+% Timestamp: 2011-09-19 19:46:46
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

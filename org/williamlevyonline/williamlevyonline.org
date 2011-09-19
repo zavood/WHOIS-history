@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156910349-LROR
+Domain Name:WILLIAMLEVYONLINE.ORG
+Created On:19-Aug-2009 13:12:31 UTC
+Last Updated On:20-Aug-2011 10:11:51 UTC
+Expiration Date:19-Aug-2012 13:12:31 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR12699910
+Registrant Name:Maya Villanueva
+Registrant Organization:www.MEGAWB.com
+Registrant Street1:c.34 montes de ame
+Registrant Street2:
+Registrant Street3:
+Registrant City:Merida
+Registrant State/Province:Yucatan
+Registrant Postal Code:19917
+Registrant Country:MX
+Registrant Phone:+52.9991219475
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:elfenomenorebelde@hotmail.com
+Admin ID:CR12699914
+Admin Name:Maya Villanueva
+Admin Organization:www.MEGAWB.com
+Admin Street1:c.34 montes de ame
+Admin Street2:
+Admin Street3:
+Admin City:Merida
+Admin State/Province:Yucatan
+Admin Postal Code:19917
+Admin Country:MX
+Admin Phone:+52.9991219475
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:elfenomenorebelde@hotmail.com
+Tech ID:CR12699913
+Tech Name:Maya Villanueva
+Tech Street1:c.34 montes de ame
+Tech Street2:
+Tech Street3:
+Tech City:Merida
+Tech State/Province:Yucatan
+Tech Postal Code:19917
+Tech Country:MX
+Tech Phone:+52.9991219475
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:elfenomenorebelde@hotmail.com
+Name Server:NS35.DOMAINCONTROL.COM
+Name Server:NS36.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

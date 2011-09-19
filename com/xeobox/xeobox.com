@@ -13,11 +13,11 @@ for detailed information.
    Name Server: NS9.GACOX.COM
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
-   Updated Date: 18-sep-2010
+   Updated Date: 18-sep-2011
    Creation Date: 18-sep-2009
-   Expiration Date: 18-sep-2011
+   Expiration Date: 18-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 09:21:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 17:54:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Monday, 12-Sep-2011 11:21:38 CEST
-# gmt time      : Monday, 12-Sep-2011 09:21:38 GMT
-# last modify   : Monday, 05-Sep-2011 05:49:19 CEST
-# request from  : 192.168.248.3:40030
+# local time    : Monday, 19-Sep-2011 19:55:11 CEST
+# gmt time      : Monday, 19-Sep-2011 17:55:11 GMT
+# last modify   : Sunday, 18-Sep-2011 07:15:05 CEST
+# request from  : 192.168.248.2:51160
 
 Domain name: xeobox.com
 
@@ -145,8 +145,8 @@ Billing Contact:
   qsog7xkepaqt8lbbegu2@v.o-w-o.info
 
 Registrar of Record: OVH.
-Record last updated on 2011-09-03.
-Record expires on 2011-09-18.
+Record last updated on 2011-09-18.
+Record expires on 2012-09-18.
 Record created on 2009-09-18.
 
 ###############################################################################

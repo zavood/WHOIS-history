@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 10-feb-2011
    Expiration Date: 10-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 00:59:43 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:23:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Sunday, 18-Sep-2011 03:00:21 CEST
-# gmt time      : Sunday, 18-Sep-2011 01:00:21 GMT
+# local time    : Monday, 19-Sep-2011 20:24:22 CEST
+# gmt time      : Monday, 19-Sep-2011 18:24:22 GMT
 # last modify   : Sunday, 21-Aug-2011 01:32:30 CEST
-# request from  : 192.168.248.1:11841
+# request from  : 192.168.248.2:14450
 
 Domain name: inteserver.com
 

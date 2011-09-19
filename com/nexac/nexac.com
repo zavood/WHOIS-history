@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 30-oct-2006
    Expiration Date: 30-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 20:16:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 17:43:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,5 +71,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: nexac.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 16:06:13 EDT 2011
+Date and Time of Query: Mon Sep 19 13:38:37 EDT 2011
 Reason Code: IE

@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 15-may-1996
    Expiration Date: 16-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:15:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 17:33:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,7 +71,7 @@ Registrars.
 %% All rights reserved. These terms can be modify at any time.
 %% By submitting this query, you agree to abide by this policy.
 %
-% Date: 2011/09/16 14:15:37
+% Date: 2011/09/19 19:33:41
 
 
 Domain Name:atinternet.com

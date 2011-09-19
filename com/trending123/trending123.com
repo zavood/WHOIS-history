@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 25-jan-2002
    Expiration Date: 25-jan-2018
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 01:07:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 17:47:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,5 +71,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: trending123.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 20:57:40 EDT 2011
+Date and Time of Query: Mon Sep 19 13:37:27 EDT 2011
 Reason Code: IE

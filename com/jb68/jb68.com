@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 24-jan-2004
    Expiration Date: 24-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 02:51:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 17:46:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -82,8 +82,8 @@ country:      CA
 phone:        +1.60409078
 
 source:       joker.com live whois service
-query-time:   0.04452
-db-updated:   2011-09-17 02:51:51
+query-time:   0.030786
+db-updated:   2011-09-19 17:46:54
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

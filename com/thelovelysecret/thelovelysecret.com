@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 31-jul-2010
    Expiration Date: 31-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 01:03:32 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 17:35:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,37 +84,28 @@ Domain servers in listed order:
 	 ns1.mrlinus.net 	 ns2.mrlinus.net
 
 Administrator:
-	 name: IVY Mak
- mail: lovelysecret888@gmail.com tel: +852.31110342
+	 Name-- IVY Mak
+ EMail-: (lovelysecret888@gmail.com)
+ tel --: +852.31110342
 	 org: IVY Mak Network Service Co.
-
-address: 35B Granville House, 21C Granville Road, Tsim Sha Tusi, KLN
-	 city: Hong Kong
-,province: Hong Kong
-,country: HK
- postcode: 000000
+	 35B Granville House, 21C Granville Road, Tsim Sha Tusi, KLN
+	 Hong Kong,Hong Kong,HK 000000
 
 Technical Contactor:
-	 name: IVY Mak
- mail: lovelysecret888@gmail.com tel: +852.31110342
+	 Name-- IVY Mak
+ EMail-: (lovelysecret888@gmail.com)
+ tel --: +852.31110342
 	 org: IVY Mak Network Service Co.
-
-address: 35B Granville House, 21C Granville Road, Tsim Sha Tusi, KLN
-	 city: Hong Kong
-,province: Hong Kong
-,country: HK
- postcode: 000000
+	 35B Granville House, 21C Granville Road, Tsim Sha Tusi, KLN
+	 Hong Kong,Hong Kong,HK 000000
 
 Billing Contactor:
-	 name: IVY Mak
- mail: lovelysecret888@gmail.com tel: +852.31110342
+	 Name-- IVY Mak
+ EMail-: (lovelysecret888@gmail.com)
+ tel --: +852.31110342
 	 org: IVY Mak Network Service Co.
-
-address: 35B Granville House, 21C Granville Road, Tsim Sha Tusi, KLN
-	 city: Hong Kong
-,province: Hong Kong
-,country: HK
- postcode: 000000
+	 35B Granville House, 21C Granville Road, Tsim Sha Tusi, KLN
+	 Hong Kong,Hong Kong,HK 000000
 
 
 Registration Service Provider:

@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 21-sep-2010
    Expiration Date: 21-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 13:56:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 17:58:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Monday, 12-Sep-2011 15:57:25 CEST
-# gmt time      : Monday, 12-Sep-2011 13:57:25 GMT
-# last modify   : Friday, 12-Aug-2011 09:50:02 CEST
-# request from  : 192.168.248.1:28557
+# local time    : Monday, 19-Sep-2011 19:59:16 CEST
+# gmt time      : Monday, 19-Sep-2011 17:59:16 GMT
+# last modify   : Tuesday, 13-Sep-2011 12:02:44 CEST
+# request from  : 192.168.248.3:18145
 
 Domain name: ljptv.com
 
@@ -111,7 +111,7 @@ Registrant:
   59053, Roubaix Cedex 1
   FR
   +33.899701761
-  ck7bs7ou3npi4hx2nuwv@q.o-w-o.info
+  ti5aanj39y3e0riuq3i3@z.o-w-o.info
 
 Administrative Contact:
   Briattre Anthony
@@ -120,7 +120,7 @@ Administrative Contact:
   59053, Roubaix Cedex 1
   FR
   +33.899701761
-  7dgzuedstrtqaj8rpv97@g.o-w-o.info
+  ucz8mtin2uevubdh7nu3@i.o-w-o.info
 
 Technical Contact:
   Briattre Anthony
@@ -129,7 +129,7 @@ Technical Contact:
   59053, Roubaix Cedex 1
   FR
   +33.899701761
-  7dgzuedstrtqaj8rpv97@g.o-w-o.info
+  ucz8mtin2uevubdh7nu3@i.o-w-o.info
 
 Billing Contact:
   Briattre Anthony
@@ -138,10 +138,10 @@ Billing Contact:
   59053, Roubaix Cedex 1
   FR
   +33.899701761
-  7dgzuedstrtqaj8rpv97@g.o-w-o.info
+  ucz8mtin2uevubdh7nu3@i.o-w-o.info
 
 Registrar of Record: OVH.
-Record last updated on 2011-07-23.
+Record last updated on 2011-09-06.
 Record expires on 2011-09-21.
 Record created on 2010-09-21.
 

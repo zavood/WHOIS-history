@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 11-nov-2004
    Expiration Date: 11-nov-2018
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 17:44:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:17:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,8 +117,8 @@ Registrant:
 
     ns1.p29.dynect.net
     ns2.p29.dynect.net
-    ns3.p29.dynect.net
     ns4.p29.dynect.net
+    ns3.p29.dynect.net
 
 
 

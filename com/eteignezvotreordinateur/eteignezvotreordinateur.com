@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 24-may-2007
    Expiration Date: 24-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:23:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:11:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,7 +70,61 @@ Registrars.
 %% All rights reserved. These terms can be modify at any time.
 %% By submitting this query, you agree to abide by this policy.
 %
-% Date: 2011/09/14 19:24:35
+% Date: 2011/09/19 20:12:52
 
 
-unknown host rejected 174.142.225.246
+Domain Name:eteignezvotreordinateur.com
+Domain registrar_creation:2008-03-24 19:28:02
+Domain registrar_expiration:2012-05-24 23:48:20
+Domain registry_creation:2007-05-24 23:48:20
+Domain registry_expiration:2012-05-24 23:48:20
+Domain lastupdate:2010-05-11 12:09:02
+Name Server:ns16.zoneedit.com
+Name Server:ns8.zoneedit.com
+
+Owner ID: FREE-ORG-272740
+Owner Name: Mona Toumi
+Owner Street1: WHOIS PROXY PRIVACY
+Owner Street2: Chez ONLINE - BP 438
+Owner City: PARIS
+Owner Postal Code: 75366
+Owner Country: FRANCE
+Owner Phone: +33.899193788
+Owner Email: mona.272740@spamfree.bookmyname.com
+Owner lastupdate: 2010-08-16 15:13:58
+
+Admin ID: FREE-ORG-272740
+Admin Name: Mona Toumi
+Admin Street1: WHOIS PROXY PRIVACY
+Admin Street2: Chez ONLINE - BP 438
+Admin City: PARIS
+Admin Postal Code: 75366
+Admin Country: FRANCE
+Admin Phone: +33.899193788
+Admin Email: mona.272740@spamfree.bookmyname.com
+Admin lastupdate: 2010-08-16 15:13:58
+
+Tech ID: FREE-ORG-272740
+Tech Name: Mona Toumi
+Tech Street1: WHOIS PROXY PRIVACY
+Tech Street2: Chez ONLINE - BP 438
+Tech City: PARIS
+Tech Postal Code: 75366
+Tech Country: FRANCE
+Tech Phone: +33.899193788
+Tech Email: mona.272740@spamfree.bookmyname.com
+Tech lastupdate: 2010-08-16 15:13:58
+
+Bill ID: FREE-ORG-272740
+Bill Name: Mona Toumi
+Bill Street1: WHOIS PROXY PRIVACY
+Bill Street2: Chez ONLINE - BP 438
+Bill City: PARIS
+Bill Postal Code: 75366
+Bill Country: FRANCE
+Bill Phone: +33.899193788
+Bill Email: mona.272740@spamfree.bookmyname.com
+Bill lastupdate: 2010-08-16 15:13:58
+
+For support or more information about this domain name please contact
+&lt;a href=&quot;http://www.bookmyname.com/&quot;&gt;http://www.bookmyname.com/&lt;/a&gt;

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D125266465-LROR
+Domain Name:HIPER-LASER.ORG
+Created On:30-Jun-2006 10:59:44 UTC
+Last Updated On:21-Jun-2010 14:51:28 UTC
+Expiration Date:30-Jun-2014 10:59:44 UTC
+Sponsoring Registrar:TotalRegistrations dba Total Web Solutions (R79-LROR)
+Status:OK
+Registrant ID:TWEB-0000060403
+Registrant Name:CCLRC
+Registrant Organization:CCLRC
+Registrant Street1:Rutherford Appleton Laboratory
+Registrant Street2:Chilton
+Registrant Street3:
+Registrant City:Didcot
+Registrant State/Province:Oxfordshire
+Registrant Postal Code:OX11 0QX
+Registrant Country:GB
+Registrant Phone:+44.4411111
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:Hostmaster@rl.ac.uk
+Admin ID:TWEB-NH00022-TR
+Admin Name:Host Master
+Admin Organization:STFC
+Admin Street1:Rutherford Appleton Laboratory
+Admin Street2:Chilton
+Admin Street3:
+Admin City:Didcot
+Admin State/Province:Oxfordshire
+Admin Postal Code:OX11 0QX
+Admin Country:GB
+Admin Phone:+44.01235446234
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:Hostmaster@stfc.ac.uk
+Tech ID:TWEB-NH00022-TR
+Tech Name:Host Master
+Tech Organization:STFC
+Tech Street1:Rutherford Appleton Laboratory
+Tech Street2:Chilton
+Tech Street3:
+Tech City:Didcot
+Tech State/Province:Oxfordshire
+Tech Postal Code:OX11 0QX
+Tech Country:GB
+Tech Phone:+44.01235446234
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:Hostmaster@stfc.ac.uk
+Name Server:NS1.RL.AC.UK
+Name Server:NS2.RL.AC.UK
+Name Server:NS3.RL.AC.UK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D216527-LROR
+Domain Name:GHBLP.ORG
+Created On:16-Apr-1997 04:00:00 UTC
+Last Updated On:03-May-2011 18:10:38 UTC
+Expiration Date:17-Apr-2016 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:31029172-NSI
+Registrant Name:GrandHavenBoard of Light and Power
+Registrant Organization:GrandHavenBoard of Light and Power
+Registrant Street1:1700 Eaton Dr.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Grand Haven
+Registrant State/Province:MI
+Registrant Postal Code:49417
+Registrant Country:US
+Registrant Phone:+1.6168469200
+Registrant Phone Ext.:
+Registrant FAX:+1.6168463114
+Registrant FAX Ext.:
+Registrant Email:ghblp@NOVAGATE.COM
+Admin ID:51271698-NSI
+Admin Name:GRAND HAVEN BLP
+Admin Street1:1700 EATON DRIVE
+Admin Street2:
+Admin Street3:
+Admin City:GRAND HAVEN
+Admin State/Province:MI
+Admin Postal Code:49417
+Admin Country:US
+Admin Phone:+1.6168469200
+Admin Phone Ext.:
+Admin FAX:+1.6168463114
+Admin FAX Ext.:
+Admin Email:rmolyneux@ghblp.org
+Tech ID:51271698-NSI
+Tech Name:GRAND HAVEN BLP
+Tech Street1:1700 EATON DRIVE
+Tech Street2:
+Tech Street3:
+Tech City:GRAND HAVEN
+Tech State/Province:MI
+Tech Postal Code:49417
+Tech Country:US
+Tech Phone:+1.6168469200
+Tech Phone Ext.:
+Tech FAX:+1.6168463114
+Tech FAX Ext.:
+Tech Email:rmolyneux@ghblp.org
+Name Server:AUTH1.NS.CHARTER.NET
+Name Server:AUTH0.NS.CHARTER.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

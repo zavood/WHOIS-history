@@ -1,0 +1,27 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         uniag.sk
+Admin-id            SLOV-0623
+Admin-name          Slovenska Polnohospodarska Univerzita v Nitre
+Admin-legal-form    ina pravna forma
+Admin-org.-ID       397482
+Admin-address       Tr. A. Hlinku 2, Nitra 94976
+Admin-telephone     037/641 4861, 037/7412 616
+Admin-email         sanet-op@nr.sanet.sk
+Tech-id             SLOV-0623
+Tech-name           Slovenska Polnohospodarska Univerzita v Nitre
+Tech-org.-ID        397482
+Tech-address        Tr. A. Hlinku 2, Nitra 94976
+Tech-telephone      037/641 4861, 037/7412 616
+Tech-email          sanet-op@nr.sanet.sk
+dns_name            dns.uniag.sk
+dns_IPv4            193.87.99.171
+dns_name            dns2.uniag.sk
+dns_IPv4            193.87.99.177
+Last-update         2010-10-25
+Valid-date          2011-11-17
+Domain-status       DOM_OK
+

@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D9298445-LROR
+Domain Name:NEARNORTHHEALTH.ORG
+Created On:20-Aug-1999 16:53:42 UTC
+Last Updated On:24-Aug-2011 17:47:44 UTC
+Expiration Date:20-Aug-2012 16:53:42 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:turDu9eQ4Q8gGZ5e
+Registrant Name:WAHABI TIJANI
+Registrant Organization:NEAR NORTH SHORE
+Registrant Street1:HEALTH SVC. CORP
+Registrant Street2:1276 North Clybourn
+Registrant Street3:
+Registrant City:Chicago
+Registrant State/Province:IL
+Registrant Postal Code:60610
+Registrant Country:US
+Registrant Phone:+1.3123371073
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mgorring@nmh.org
+Admin ID:tuJRwBA1WcNytL7P
+Admin Name:WAHABI TIJANI
+Admin Organization:NEAR NORTH SHORE
+Admin Street1:HEALTH SVC. CORP
+Admin Street2:1276 North Clybourn
+Admin Street3:
+Admin City:Chicago
+Admin State/Province:IL
+Admin Postal Code:60610
+Admin Country:US
+Admin Phone:+1.3123371073
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:wTIJANI@nmh.org
+Tech ID:tubQrOGT4talAZsz
+Tech Name:WAHABI TIJANI
+Tech Organization:NEAR NORTH SHORE
+Tech Street1:HEALTH SVC. CORP
+Tech Street2:1276 North Clybourn
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:IL
+Tech Postal Code:60610
+Tech Country:US
+Tech Phone:+1.3123371073
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mgorring@nmh.org
+Name Server:NS2.LNHI.NET
+Name Server:NS1.LNHI.NET
+Name Server:NS3.LNHI.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

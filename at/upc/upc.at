@@ -1,0 +1,69 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         upc.at
+registrant:     TWG2562710-NICAT
+admin-c:        GP2562715-NICAT
+tech-c:         UAG2482255-NICAT
+nserver:        dns1.inode.at
+nserver:        dns2.inode.at
+changed:        20061128 10:40:00
+source:         AT-DOM
+
+personname:
+organization:   TELEKABEL WIEN GMBH
+street address: WOLFGANGGASSE 58 60
+postal code:    A-1120
+city:           WIEN
+country:        Austria
+phone:          +43196068
+e-mail:         gerald.parthe@telekabel.co.at
+nic-hdl:        TWG2562710-NICAT
+changed:        20061128 10:39:59
+source:         AT-DOM
+
+personname:     GERALD PARTHE
+organization:
+street address: ERLACHGASSE 116
+street address: AUSTRIA
+street address: A-1100 WIEN
+postal code:
+city:
+country:
+phone:          +431960681643
+fax-no:         +431960681555
+e-mail:         gerald.parthe@telekabel.co.at
+nic-hdl:        GP2562715-NICAT
+changed:        20061128 10:39:59
+source:         AT-DOM
+
+personname:     Peter Badura
+organization:   UPC Austria Gmbh
+street address: Wolfganggasse 58 -60
+postal code:    1120
+city:           Wien
+country:        Austria
+nic-hdl:        UAG2482255-NICAT
+changed:        20090924 12:11:36
+source:         AT-DOM
+

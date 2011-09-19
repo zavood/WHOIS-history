@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 07-jan-2010
    Expiration Date: 07-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 12:56:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:23:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -98,10 +98,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Sunday, 18-Sep-2011 14:57:28 CEST
-# gmt time      : Sunday, 18-Sep-2011 12:57:28 GMT
+# local time    : Monday, 19-Sep-2011 20:24:05 CEST
+# gmt time      : Monday, 19-Sep-2011 18:24:05 GMT
 # last modify   : Monday, 12-Sep-2011 02:47:06 CEST
-# request from  : 192.168.248.1:46811
+# request from  : 192.168.248.1:8196
 
 Domain name: najlepszeoferty.com
 

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D14599921-LROR
+Domain Name:MODPERLBOOK.ORG
+Created On:04-Dec-1999 17:05:36 UTC
+Last Updated On:11-Oct-2010 16:45:01 UTC
+Expiration Date:04-Dec-2011 17:05:36 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-800279-GANDI
+Registrant Name:Eric CHOLET
+Registrant Organization:NO ORG NAME
+Registrant Street1:153 boulevard Jean-Jaures
+Registrant Street2:
+Registrant Street3:
+Registrant City:Boulogne-Billancourt
+Registrant State/Province:
+Registrant Postal Code:92100
+Registrant Country:FR
+Registrant Phone:+33.143496000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cholet@LOGILUNE.COM
+Admin ID:EC814-GANDI
+Admin Name:eric cholet
+Admin Organization:logilune
+Admin Street1:322, rue des PyrAnAes
+Admin Street2:
+Admin Street3:
+Admin City:paris
+Admin State/Province:
+Admin Postal Code:75020
+Admin Country:FR
+Admin Phone:+33.143496000
+Admin Phone Ext.:
+Admin FAX:+33.143496050
+Admin FAX Ext.:
+Admin Email:noc@logilune.com
+Tech ID:AR41-GANDI
+Tech Name:CONTACT NOT AUTHORITATIVE see http://www.gandi.net/whois
+Tech Organization:GANDI SARL
+Tech Street1:15 place de la Nation
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:75011
+Tech Country:FR
+Tech Phone:+33.1
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@support.gandi.net
+Name Server:LUCIFER.LOGILUNE.COM
+Name Server:DNS2.NETTICA.COM
+Name Server:DNS4.NETTICA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

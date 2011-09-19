@@ -12,11 +12,11 @@ for detailed information.
    Name Server: NS1.HOSTMONSTER.COM
    Name Server: NS2.HOSTMONSTER.COM
    Status: clientTransferProhibited
-   Updated Date: 14-sep-2010
+   Updated Date: 15-sep-2011
    Creation Date: 14-sep-2010
-   Expiration Date: 14-sep-2011
+   Expiration Date: 14-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:24:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:12:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,7 +80,7 @@ Domain Name: TECHNOLOGYSTOCKPHOTOS.COM
 
    Created on..............: 2010-09-14 13:29:54 GMT
    Expires on..............: 2012-09-14 14:29:33 GMT
-   Last modified on........: 2011-08-31 10:11:52 GMT
+   Last modified on........: 2011-09-15 14:29:40 GMT
 
 Registrant Info: (FAST-16062239)
    Pixmac

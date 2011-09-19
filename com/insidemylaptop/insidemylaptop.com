@@ -9,17 +9,17 @@ for detailed information.
    Registrar: GODADDY.COM, INC.
    Whois Server: whois.godaddy.com
    Referral URL: http://registrar.godaddy.com
-   Name Server: NS29.DOMAINCONTROL.COM
-   Name Server: NS30.DOMAINCONTROL.COM
+   Name Server: NS.INMOTIONHOSTING.COM
+   Name Server: NS2.INMOTIONHOSTING.COM
    Status: clientDeleteProhibited
    Status: clientRenewProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 22-may-2011
+   Updated Date: 17-sep-2011
    Creation Date: 04-aug-2006
    Expiration Date: 04-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:23:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:12:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -82,8 +82,8 @@ Registrant:
    Domain Name: INSIDEMYLAPTOP.COM
 
    Domain servers in listed order:
-      NS29.DOMAINCONTROL.COM
-      NS30.DOMAINCONTROL.COM
+      NS.INMOTIONHOSTING.COM
+      NS2.INMOTIONHOSTING.COM
 
 
    For complete domain details go to:

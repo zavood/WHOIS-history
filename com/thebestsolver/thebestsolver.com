@@ -6,17 +6,17 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
    Domain Name: THEBESTSOLVER.COM
-   Registrar: GODADDY.COM, INC.
-   Whois Server: whois.godaddy.com
-   Referral URL: http://registrar.godaddy.com
+   Registrar: NAME.COM LLC
+   Whois Server: whois.name.com
+   Referral URL: http://www.name.com
    Name Server: NS1.HAWKHOST.COM
    Name Server: NS2.HAWKHOST.COM
-   Status: ok
-   Updated Date: 08-sep-2011
+   Status: clientTransferProhibited
+   Updated Date: 15-sep-2011
    Creation Date: 07-oct-2009
-   Expiration Date: 07-oct-2011
+   Expiration Date: 07-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:24:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:12:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,37 +51,78 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The data contained in GoDaddy.com, Inc.'s WhoIs database,
-while believed by the company to be reliable, is provided &quot;as is&quot;
-with no guarantee or warranties regarding its accuracy.  This
-information is provided for the sole purpose of assisting you
-in obtaining information about domain name registration records.
-Any use of this data for any other purpose is expressly forbidden without the prior written
-permission of GoDaddy.com, Inc.  By submitting an inquiry,
-you agree to these terms of usage and limitations of warranty.  In particular,
-you agree not to use this data to allow, enable, or otherwise make possible,
-dissemination or collection of this data, in part or in its entirety, for any
-purpose, such as the transmission of unsolicited advertising and
-and solicitations of any kind, including spam.  You further agree
-not to use this data to enable high volume, automated or robotic electronic
-processes designed to collect or compile this data for any purpose,
-including mining this data for your own personal or commercial purposes.
 
-Please note: the registrant of the domain name is specified
-in the &quot;registrant&quot; field.  In most cases, GoDaddy.com, Inc.
-is not the registrant of domain names listed in this database.
+__   _                             ____
+| \ | | __ _ _ __ ___   ___       / ___|___  _ __ ___
+|  \| |/ _` | '_ ` _ \ / _ \     | |   / _ \| '_ ` _ \
+| |\  | (_| | | | | | |  __/  _  | |__| (_) | | | | | |
+|_| \_|\__,_|_| |_| |_|\___| (_)  \____\___/|_| |_| |_|
+      On a first name basis with the rest of the world.
 
 
-Registrant:
-   None
-
-   Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
-   Domain Name: THEBESTSOLVER.COM
-
-   Domain servers in listed order:
-      NS1.HAWKHOST.COM
-      NS2.HAWKHOST.COM
+Get your &lt;a href=&quot;http://www.name.com&quot;&gt;domains&lt;/a&gt; at Name.com.
 
 
-   For complete domain details go to:
-   http://who.godaddy.com/whoischeck.aspx?Domain=THEBESTSOLVER.COM
+Domain Name:     thebestsolver.com
+Registrar:       Name.com LLC
+
+Expiration Date: 2012-10-07 08:24:06
+Creation Date:   2009-10-07 08:24:06
+
+Name Servers:
+	ns1.hawkhost.com
+	ns2.hawkhost.com
+
+REGISTRANT CONTACT INFO
+personal
+habib maulana
+Jl.Raya Bogor Km.22 No.6
+Kel.Rambutan Kec.ciracas
+Jakarta Timur
+DKI Jakarta
+13830
+ID
+Phone:         +62.1384461301
+Email Address: webmailqu@gmail.com
+
+ADMINISTRATIVE CONTACT INFO
+personal
+habib maulana
+Jl.Raya Bogor Km.22 No.6
+Kel.Rambutan Kec.ciracas
+Jakarta Timur
+DKI Jakarta
+13830
+ID
+Phone:         +62.1384461301
+Email Address: webmailqu@gmail.com
+
+TECHNICAL CONTACT INFO
+personal
+habib maulana
+Jl.Raya Bogor Km.22 No.6
+Kel.Rambutan Kec.ciracas
+Jakarta Timur
+DKI Jakarta
+13830
+ID
+Phone:         +62.1384461301
+Email Address: webmailqu@gmail.com
+
+BILLING CONTACT INFO
+personal
+habib maulana
+Jl.Raya Bogor Km.22 No.6
+Kel.Rambutan Kec.ciracas
+Jakarta Timur
+DKI Jakarta
+13830
+ID
+Phone:         +62.1384461301
+Email Address: webmailqu@gmail.com
+
+Timestamp: 1316455984.9613
+
+The Data in the Name.com LLC WHOIS database is provided by Name.com LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.  Name.com LLC does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Name.com LLC (or its systems). Name.com LLC reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
+
+Cached on: 2011-09-19T12:13:04-06:00

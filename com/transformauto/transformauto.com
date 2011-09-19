@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 24-jan-1999
    Expiration Date: 24-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 17:24:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 18:12:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,6 +69,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: transformauto.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 13:15:07 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Mon Sep 19 14:08:02 EDT 2011
 Reason Code: IE

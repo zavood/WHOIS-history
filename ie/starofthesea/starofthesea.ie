@@ -1,0 +1,30 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      starofthesea.ie
+descr:       St. Mary's Star Of The Sea B.N.S
+descr:       School/Educational Institution
+descr:       School/Educational Institution Name
+admin-c:     AAA617-IEDR
+admin-c:     ADL796-IEDR
+tech-c:      DAD1-IEDR
+renewal:     20-September-2011
+status:      Active
+nserver:     NS5.DNSIRELAND.COM
+nserver:     NS6.DNSIRELAND.COM
+nserver:     NS7.DNSIRELAND.IE
+source:      IEDR
+
+person:      Una Condon
+nic-hdl:     AAA617-IEDR
+source:      IEDR
+
+person:      Liam Behan
+nic-hdl:     ADL796-IEDR
+source:      IEDR
+
+person:      Digiweb Hosting
+nic-hdl:     DAD1-IEDR
+source:      IEDR
+
