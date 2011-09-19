@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 19-jun-1997
    Expiration Date: 06-apr-2014
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 03:08:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 13:56:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -114,8 +114,8 @@ Registrant:
 
     Domain servers in listed order:
 
-    dns-ex-dmz.dmz.priceline.com
     dns-att-dmz.dmz.priceline.com
+    dns-ex-dmz.dmz.priceline.com
     dns-nw-dmz.dmz.priceline.com
 
 
@@ -131,4 +131,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
---
+

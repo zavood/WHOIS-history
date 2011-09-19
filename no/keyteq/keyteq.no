@@ -1,0 +1,38 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: KEY214D-NORID
+Domain Name................: keyteq.no
+Domain Holder Handle.......: KA2661O-NORID
+Registrar Handle...........: REG762-NORID
+Legal-c Handle.............: JHS121P-NORID
+Tech-c Handle..............: KH15R-NORID
+Name Server Handle.........: NSKE14H-NORID
+Name Server Handle.........: NSKE18H-NORID
+Name Server Handle.........: NSKE25H-NORID
+
+Additional information:
+Created:         2001-01-22
+Last updated:    2011-01-24
+
+NORID Handle...............: KA2661O-NORID
+Type.......................: organization
+Name.......................: Keyteq AS
+Id Type....................: organization_number
+Id Number..................: 985527164
+Registrar Handle...........: REG762-NORID
+Post Address...............: Postboks 1911 Nordnes
+Postal Code................: NO-5817
+Postal Area................: BERGEN
+Country....................: NO
+Phone Number...............: +47.55209100
+Fax Number.................: +47.55209101
+Email Address..............: firmapost@keyteq.no
+Additional Email...........: billing@keyteq.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-06
+

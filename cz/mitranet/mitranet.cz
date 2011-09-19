@@ -1,0 +1,72 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 15:00:40 2011
+
+domain:       mitranet.cz
+registrant:   SB:SUB000012411-ZONER
+admin-c:      MITRANET-TECH
+admin-c:      MITRANET-ZACEK
+nsset:        MITRANETGNS
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   14.04.2003 17:46:00
+changed:      15.08.2011 15:05:04
+expire:       13.04.2012
+
+contact:      SB:SUB000012411-ZONER
+name:         Jiri Zacek
+address:      Na Becve 799
+address:      Lipnik nad Becvou
+address:      75131
+address:      CZ
+e-mail:       jiri.zacek@mymail.cz
+registrar:    REG-IGNUM
+created:      14.04.2003 14:21:00
+
+contact:      MITRANET-TECH
+name:         Jan Bortl
+address:      Mlynecka 626
+address:      Lipnik nad Becvou
+address:      75131
+address:      CZ
+e-mail:       jan.bortl@mitranet.cz
+registrar:    REG-IGNUM
+created:      09.03.2007 16:05:00
+changed:      12.07.2007 16:55:00
+
+contact:      MITRANET-ZACEK
+name:         Jiri Zacek
+address:      Mlynecka 626
+address:      Lipnik nad Becvou
+address:      75131
+address:      CZ
+phone:        +420.777682510
+e-mail:       jiri.zacek@mitranet.cz
+registrar:    REG-IGNUM
+created:      13.03.2007 12:25:00
+changed:      03.04.2007 16:05:00
+
+nsset:        MITRANETGNS
+nserver:      ns01.mitranet.cz (62.240.190.34, 2a01:5e0:d:4000::22)
+nserver:      ns02.mitranet.cz (62.240.190.4)
+tech-c:       MITRANET-TECH
+registrar:    REG-IGNUM
+created:      14.08.2011 12:54:04
+
+

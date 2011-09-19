@@ -17,12 +17,13 @@ time. By submitting this query, you agree to abide by this policy.
 Domain ID:D160470409-LROR
 Domain Name:AWSDNS-59.ORG
 Created On:21-Oct-2010 21:02:54 UTC
-Last Updated On:21-Dec-2010 03:48:10 UTC
-Expiration Date:21-Oct-2011 21:02:54 UTC
+Last Updated On:19-Sep-2011 09:15:21 UTC
+Expiration Date:21-Oct-2012 21:02:54 UTC
 Sponsoring Registrar:MarkMonitor Inc. (R37-LROR)
 Status:CLIENT DELETE PROHIBITED
 Status:CLIENT TRANSFER PROHIBITED
 Status:CLIENT UPDATE PROHIBITED
+Status:RENEWPERIOD
 Registrant ID:mmr-28993
 Registrant Name:Hostmaster, Amazon Legal Dept.
 Registrant Organization:Amazon Technologies, Inc.

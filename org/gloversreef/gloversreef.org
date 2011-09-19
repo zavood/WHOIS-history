@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D16638400-LROR
+Domain Name:GLOVERSREEF.ORG
+Created On:05-Jan-2000 22:30:10 UTC
+Last Updated On:08-Dec-2010 14:59:25 UTC
+Expiration Date:05-Jan-2012 22:30:09 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tu8sTnIDzKvMv42e
+Registrant Name:Tony Rath
+Registrant Organization:Naturalight Productions Ltd
+Registrant Street1:23 Pen Road
+Registrant Street2:Po Box 216
+Registrant Street3:
+Registrant City:Dangriga
+Registrant State/Province:Stann Creek
+Registrant Postal Code:00000
+Registrant Country:BZ
+Registrant Phone:+1.501522995
+Registrant Phone Ext.:
+Registrant FAX:+1.501523707
+Registrant FAX Ext.:
+Registrant Email:domains@naturalightproductions.com
+Admin ID:tund4giwlKyiqoxs
+Admin Name:Tony Rath
+Admin Organization:Naturalight Productions
+Admin Street1:23 Pen Road
+Admin Street2:Box 216
+Admin Street3:
+Admin City:Dangriga
+Admin State/Province:Stann Creek
+Admin Postal Code:00000
+Admin Country:BZ
+Admin Phone:+501.522995
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tony@bze.net
+Tech ID:tuzVpM9KHcuVjEPu
+Tech Name:Tony Rath
+Tech Organization:Naturalight Productions
+Tech Street1:23 Pen Rd
+Tech Street2:Box 216
+Tech Street3:
+Tech City:Dangriga
+Tech State/Province:Stann Creek
+Tech Postal Code:00000
+Tech Country:BZ
+Tech Phone:+501.522995
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tony@bze.net
+Name Server:NS1.HOSTMONSTER.COM
+Name Server:NS2.HOSTMONSTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 14-may-2009
    Expiration Date: 14-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 00:24:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 13:32:57 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,4 +52,71 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-We're sorry, there has been a problem. Technicians have been notified. Code E3.
+=-=-=-=
+Visit AboutUs.org for more information about heytell.com
+&lt;a href=&quot;http://www.aboutus.org/heytell.com&quot;&gt;AboutUs: heytell.com&lt;/a&gt;
+
+Registration Service Provided By: Namecheap.com
+Contact: support@namecheap.com
+Visit: http://namecheap.com
+
+Domain name: heytell.com
+
+Registrant Contact:
+   Voxilate Inc.
+   Steven Hugg ()
+
+   Fax:
+   427 N Tatnall St #87905
+   Wilmington,  19801-2230
+   US
+
+Administrative Contact:
+   Voxilate Inc.
+    Hugg (hosting@voxilate.com)
+   +1.2403965621
+   Fax: +1.2403965621
+   427 N Tatnall St #87905
+   Wilmington,  19801-2230
+   US
+
+Technical Contact:
+   Voxilate Inc.
+   Steven Hugg (hosting@voxilate.com)
+   +1.2403965621
+   Fax: +1.2403965621
+   427 N Tatnall St #87905
+   Wilmington,  19801-2230
+   US
+
+Status: Locked
+
+Name Servers:
+   dns1.registrar-servers.com
+   dns2.registrar-servers.com
+   dns3.registrar-servers.com
+
+Creation date: 14 May 2009 21:20:28
+Expiration date: 14 May 2012 21:20:28
+
+
+
+Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com
+=-=-=-=
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available &quot;as is,&quot; and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+We reserve the right to modify these terms at any time. By submitting
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

@@ -50,19 +50,20 @@ anonymous:   NO
 registered:  05/01/2000
 source:      FRNIC
 
-nic-hdl:     RDC60-FRNIC
-type:        ORGANIZATION
-contact:     RUE DU COMMERCE
-address:     44-50, avenue capitaine glarner
-address:     93585 Saint-Ouen
+nic-hdl:     IC2-FRNIC
+type:        ROLE
+contact:     INDOM Contact
+address:     Indom.com Domain Names
+address:     124-126, rue de Provence
+address:     75008 Paris
 country:     FR
-phone:       +33 1 41 66 18 00
-fax-no:      +33 1 41 66 18 01
-e-mail:      direction.technique@rueducommerce.com
-changed:     12/03/2009 nic@nic.fr
+phone:       +33 1 48 01 83 60
+e-mail:      indom@indom.com
+admin-c:     SVG1-FRNIC
+tech-c:      PVG2-FRNIC
+changed:     18/12/2007 indom@indom.com
 anonymous:   NO
 obsoleted:   NO
-idstatus:    ok
 source:      FRNIC
 
 nic-hdl:     MLJ15-FRNIC
@@ -80,19 +81,18 @@ anonymous:   NO
 obsoleted:   NO
 source:      FRNIC
 
-nic-hdl:     IC2-FRNIC
-type:        ROLE
-contact:     INDOM Contact
-address:     Indom.com Domain Names
-address:     124-126, rue de Provence
-address:     75008 Paris
+nic-hdl:     RDC60-FRNIC
+type:        ORGANIZATION
+contact:     RUE DU COMMERCE
+address:     44-50, avenue capitaine glarner
+address:     93585 Saint-Ouen
 country:     FR
-phone:       +33 1 48 01 83 60
-e-mail:      indom@indom.com
-admin-c:     SVG1-FRNIC
-tech-c:      PVG2-FRNIC
-changed:     18/12/2007 indom@indom.com
+phone:       +33 1 41 66 18 00
+fax-no:      +33 1 41 66 18 01
+e-mail:      direction.technique@rueducommerce.com
+changed:     12/03/2009 nic@nic.fr
 anonymous:   NO
 obsoleted:   NO
+idstatus:    ok
 source:      FRNIC
 

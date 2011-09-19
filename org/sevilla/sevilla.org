@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D452664-LROR
+Domain Name:SEVILLA.ORG
+Created On:24-Jun-1997 04:00:00 UTC
+Last Updated On:24-Jun-2011 01:26:01 UTC
+Expiration Date:23-Jun-2012 04:00:00 UTC
+Sponsoring Registrar:ASCIO Technologies, Inc. - Denmark (R76-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:AT59170970-052
+Registrant Name:Ayuntamiento de Sevilla
+Registrant Organization:Ayuntamiento de Sevilla
+Registrant Street1:Plaza Nueva, 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sevilla
+Registrant State/Province:Sevilla
+Registrant Postal Code:41001
+Registrant Country:ES
+Registrant Phone:+34.954590600
+Registrant Phone Ext.:
+Registrant FAX:+34.954590501
+Registrant FAX Ext.:
+Registrant Email:hostmaster@vianetworks.es
+Admin ID:AT8055201-051
+Admin Name:Amparo Tejera Ortega
+Admin Organization:AYUNTAMIENTO DE SEVILLA
+Admin Street1:Arenal, 6
+Admin Street2:
+Admin Street3:
+Admin City:Sevilla
+Admin State/Province:Sevilla
+Admin Postal Code:41001
+Admin Country:ES
+Admin Phone:+34.954590525
+Admin Phone Ext.:
+Admin FAX:+34.954590501
+Admin FAX Ext.:
+Admin Email:seim@sevilla.org
+Tech ID:AT8055204-051
+Tech Name:Rosario Munoz Cueli
+Tech Organization:AYUNTAMIENTO DE SEVILLA
+Tech Street1:Arenal, 6
+Tech Street2:
+Tech Street3:
+Tech City:Sevilla
+Tech State/Province:Sevilla
+Tech Postal Code:41001
+Tech Country:ES
+Tech Phone:+34.954590525
+Tech Phone Ext.:
+Tech FAX:+34.954590501
+Tech FAX Ext.:
+Tech Email:seim@sevilla.org
+Name Server:DNS1.DPN.DE
+Name Server:DNS2.DPN.DE
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

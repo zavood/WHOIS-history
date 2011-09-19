@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D33104685-LROR
+Domain Name:DEVOURED.ORG
+Created On:17-Aug-2000 02:57:14 UTC
+Last Updated On:18-Aug-2011 12:41:41 UTC
+Expiration Date:17-Aug-2012 02:57:13 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR49757470
+Registrant Name:Amanda Walker
+Registrant Street1:2005 Woodside Lane
+Registrant Street2:
+Registrant Street3:
+Registrant City:Newtown Square
+Registrant State/Province:Pennsylvania
+Registrant Postal Code:19073
+Registrant Country:US
+Registrant Phone:+1.6102967367
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:shadow@wolfheart.net
+Admin ID:CR49757472
+Admin Name:Amanda Walker
+Admin Street1:2005 Woodside Lane
+Admin Street2:
+Admin Street3:
+Admin City:Newtown Square
+Admin State/Province:Pennsylvania
+Admin Postal Code:19073
+Admin Country:US
+Admin Phone:+1.6102967367
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:shadow@wolfheart.net
+Tech ID:CR49757471
+Tech Name:Amanda Walker
+Tech Street1:2005 Woodside Lane
+Tech Street2:
+Tech Street3:
+Tech City:Newtown Square
+Tech State/Province:Pennsylvania
+Tech Postal Code:19073
+Tech Country:US
+Tech Phone:+1.6102967367
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:shadow@wolfheart.net
+Name Server:NS1.DEVOURED.ORG
+Name Server:NS2.DEVOURED.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154319801-LROR
+Domain Name:WEGMANSLPGA.ORG
+Created On:25-Sep-2008 13:44:22 UTC
+Last Updated On:10-Sep-2010 12:56:35 UTC
+Expiration Date:25-Sep-2012 13:44:22 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR36938240
+Registrant Name:James Garvey
+Registrant Organization:Wegmans LPGA
+Registrant Street1:2000 Jefferson Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Pittsford
+Registrant State/Province:New York
+Registrant Postal Code:14534
+Registrant Country:US
+Registrant Phone:+1.5854277100
+Registrant Phone Ext.:
+Registrant FAX:+1.5854277029
+Registrant FAX Ext.:
+Registrant Email:jgarvey@wegmanslpga.org
+Admin ID:CR36938242
+Admin Name:James Garvey
+Admin Organization:Wegmans LPGA
+Admin Street1:2000 Jefferson Road
+Admin Street2:
+Admin Street3:
+Admin City:Pittsford
+Admin State/Province:New York
+Admin Postal Code:14534
+Admin Country:US
+Admin Phone:+1.5854277100
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:wegmanslpga@aol.com
+Tech ID:CR36938241
+Tech Name:James Garvey
+Tech Organization:Wegmans LPGA
+Tech Street1:2000 Jefferson Road
+Tech Street2:
+Tech Street3:
+Tech City:Pittsford
+Tech State/Province:New York
+Tech Postal Code:14534
+Tech Country:US
+Tech Phone:+1.5854277100
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:wegmanslpga@aol.com
+Name Server:NS1.LSWEB.COM
+Name Server:NS2.LSWEB.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,80 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 14:51:11 2011
+
+domain:       anect.cz
+registrant:   SB:ANC-CZ
+admin-c:      KVASNICA_JIRI_ANECT
+temp-c:       ANC-CZ-UCTARNA
+nsset:        NSS:ANC-CZ:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   11.09.1997 02:00:00
+changed:      07.07.2009 10:13:55
+expire:       28.10.2014
+
+contact:      SB:ANC-CZ
+org:          ANECT a.s.
+name:         ANECT a.s.
+address:      Videnska 125
+address:      Brno
+address:      61900
+address:      CZ
+e-mail:       admin@anect.com
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      07.07.2009 10:51:31
+
+contact:      KVASNICA_JIRI_ANECT
+org:          ANECT a.s.
+name:         Ji&Aring;™&Atilde;&shy; Kvasnica
+address:      V&Atilde;&shy;de&Aring;ˆsk&Atilde;&iexcl; 125
+address:      Brno
+address:      61900
+address:      &Auml;Œesk&Atilde;&iexcl; republika
+address:      CZ
+phone:        +420.547100100
+fax-no:       +420.547100101
+e-mail:       admin@anect.com
+registrar:    REG-ACTIVE24
+created:      08.12.2008 11:08:41
+
+contact:      ANC-CZ-UCTARNA
+name:         Helena Ingrova
+address:      Videnska 125
+address:      Brno
+address:      61900
+address:      CZ
+phone:        +420.547100100
+fax-no:       +420.547100101
+e-mail:       faktury@anect.com
+registrar:    REG-ACTIVE24
+created:      29.09.2004 20:05:00
+
+nsset:        NSS:ANC-CZ:1
+nserver:      ns.inecnet.cz
+nserver:      gate.anect.cz (85.239.80.34)
+nserver:      phgate.anect.cz (85.239.82.34)
+tech-c:       SB:ANC-CZ
+tech-c:       KVASNICA_JIRI_ANECT
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+changed:      07.07.2009 10:53:39
+
+

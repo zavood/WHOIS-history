@@ -5,18 +5,8 @@ Domain names in the .com and .net domains can now be registered
 with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
-   Domain Name: VISUALSONO.COM
-   Registrar: ARSYS INTERNET, S.L. D/B/A NICLINE.COM
-   Whois Server: whois.nicline.com
-   Referral URL: http://www.nicline.com
-   Name Server: NS1.FACTORIADIGITAL.COM
-   Name Server: NS2.FACTORIADIGITAL.COM
-   Status: pendingDelete
-   Updated Date: 08-sep-2011
-   Creation Date: 09-jul-2007
-   Expiration Date: 09-jul-2011
-
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 10:33:39 UTC &lt;&lt;&lt;
+No match for &quot;VISUALSONO.COM&quot;.
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 13:29:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,5 +41,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-No match for visualsono.com
-

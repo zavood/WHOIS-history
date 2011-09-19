@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 24-jul-2004
    Expiration Date: 24-jul-2018
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 22:51:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 14:13:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -114,9 +114,9 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns2.vuze.com
     ns1.vuze.com
     ns0.vuze.com
+    ns2.vuze.com
 
 
 

@@ -1,0 +1,57 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 15:19:27 2011
+
+domain:       or.cz
+registrant:   SB:ORW
+admin-c:      OR9A
+nsset:        NSS:ORW:2
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   14.12.2000 18:31:00
+changed:      08.08.2007 01:26:00
+expire:       17.12.2011
+
+contact:      SB:ORW
+name:         Pavel Baudis
+address:      Dobraticka 523
+address:      Praha 9
+address:      199 00
+address:      CZ
+e-mail:       baudis9@volny.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+
+contact:      OR9A
+name:         Pavel Baudis
+address:      CZ
+e-mail:       baudis9@volny.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:ORW:2
+nserver:      twin.jikos.cz (213.151.79.26)
+nserver:      pasky.or.cz (84.242.80.195)
+tech-c:       SB:ORW
+tech-c:       OR9A
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+changed:      02.07.2011 23:46:02
+
+

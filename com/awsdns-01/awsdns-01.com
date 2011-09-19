@@ -16,11 +16,11 @@ for detailed information.
    Status: clientDeleteProhibited
    Status: clientTransferProhibited
    Status: clientUpdateProhibited
-   Updated Date: 01-nov-2010
+   Updated Date: 19-sep-2011
    Creation Date: 21-oct-2010
-   Expiration Date: 21-oct-2011
+   Expiration Date: 21-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 04:40:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 13:10:09 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -110,14 +110,14 @@ Registrant:
         hostmaster@amazon.com +1.2062664064 Fax: +1.2062667010
 
     Created on..............: 2010-10-21.
-    Expires on..............: 2011-10-20.
-    Record last updated on..: 2011-06-24.
+    Expires on..............: 2012-10-21.
+    Record last updated on..: 2011-09-19.
 
     Domain servers in listed order:
 
+    g-ns-1153.awsdns-01.com
     g-ns-577.awsdns-01.com
     g-ns-1729.awsdns-01.com
-    g-ns-1153.awsdns-01.com
     g-ns-2.awsdns-01.com
 
 

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94393365-LROR
+Domain Name:VENICEGARDENTOUR.ORG
+Created On:30-Jan-2003 18:33:05 UTC
+Last Updated On:21-Feb-2008 02:14:49 UTC
+Expiration Date:30-Jan-2013 18:33:05 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:3736841c5774a479
+Registrant Name:Sybil Williams
+Registrant Organization:Neighborhood Youth Association
+Registrant Street1:1016 Pleasant View Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Venice
+Registrant State/Province:CA
+Registrant Postal Code:90291
+Registrant Country:US
+Registrant Phone:+1.3106648893
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:swilliams@nyayouth.org
+Admin ID:5846208c577e6487
+Admin Name:Sybil Williams
+Admin Organization:Neighborhood Youth Association
+Admin Street1:1016 Pleasant View Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Venice
+Admin State/Province:CA
+Admin Postal Code:90291
+Admin Country:US
+Admin Phone:+1.3106648893
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:swilliams@nyayouth.org
+Tech ID:1998012c57b07797
+Tech Name:Domain Registrar
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027492701
+Tech FAX Ext.:
+Tech Email:domainregistrar@register.com
+Name Server:NS1.VEL.NET
+Name Server:NS2.VEL.NET
+Name Server:NS3.VEL.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

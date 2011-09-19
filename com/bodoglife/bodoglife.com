@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 06-sep-2007
    Expiration Date: 06-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 12:51:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 13:43:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -54,83 +54,13 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: DOMAINCLIP
-Contact: +1.6046388501
-Website: http://www.domainclip.com
+The IP Address 67.231.254.15 you are using to query our Whois Server has exceeded the 100 Whois queries per day limit. Any further queries from this IP Address will not result in a response until 24 hours.
 
-Domain Name: BODOGLIFE.COM
+You could have received this message, if 67.231.254.15 is a Public IP Address and has been used to query our Whois Server today, by multiple individuals before your query.
 
-Registrant:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
+This limit is set to effectively dissuade Whois Contact Details harvesting, apart from balancing load on our Whois Server.
 
-Creation Date: 06-Sep-2007
-Expiration Date: 06-Sep-2012
+If you wish to continue your investigation, please perform a Whois Lookup at http://manage.logicboxes.com/whois.
 
-Domain servers in listed order:
-    anycast.bit2host.com
-    anycast.bit2host.co.uk
-    anycast.bit2host.net
-    anycast.bit2host.org
-    ns0.bit2host.com
-
-
-Administrative Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
-
-Technical Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
-
-Billing Contact:
-    PrivacyProtect.org
-    Domain Admin        (contact@privacyprotect.org)
-    ID#10760, PO Box 16
-    Note - All Postal Mails Rejected, visit Privacyprotect.org
-    Nobby Beach
-    null,QLD 4218
-    AU
-    Tel. +45.36946676
-
-Status:ACTIVE
-
-PRIVACYPROTECT.ORG is providing privacy protection services to this domain name to
-protect the owner from spam and phishing attacks. PrivacyProtect.org is not
-responsible for any of the activities associated with this domain name. If you wish
-to report any abuse concerning the usage of this domain name, you may do so at
-http://privacyprotect.org/contact. We have a stringent abuse policy and any
-complaint will be actioned within a short period of time.
-
-The data in this whois database is provided to you for information purposes only,
-that is, to assist you in obtaining information about or related
-to a domain name registration record. We make this information available &quot;as is&quot;,
-and do not guarantee its accuracy. By submitting a whois query, you agree that you will
-use this data only for lawful purposes and that, under no circumstances will you use this data to:
-(1) enable high volume, automated, electronic processes that stress
-or load this whois database system providing you this information; or
-(2) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
-The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is DomainClip Domains Inc.
-We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+In order to increase this limit, please write to compliance@logicboxes.com with your IP Address and an explanation as to why you require a higher limit.
 

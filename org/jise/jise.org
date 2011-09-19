@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104965139-LROR
+Domain Name:JISE.ORG
+Created On:05-Oct-2004 08:38:25 UTC
+Last Updated On:19-Nov-2010 00:24:39 UTC
+Expiration Date:05-Oct-2011 08:38:25 UTC
+Sponsoring Registrar:FastDomain Inc. (R1455-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:FAST-14839410
+Registrant Name:Brenda McAleer
+Registrant Organization:AITP EDSIG
+Registrant Street1:P.O.Box 27
+Registrant Street2:
+Registrant Street3:
+Registrant City:Harpswell
+Registrant State/Province:Maine
+Registrant Postal Code:04079
+Registrant Country:US
+Registrant Phone:+1.8082958210
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mcaleer@maine.edu
+Admin ID:FAST-14839410
+Admin Name:Brenda McAleer
+Admin Organization:AITP EDSIG
+Admin Street1:P.O.Box 27
+Admin Street2:
+Admin Street3:
+Admin City:Harpswell
+Admin State/Province:Maine
+Admin Postal Code:04079
+Admin Country:US
+Admin Phone:+1.8082958210
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mcaleer@maine.edu
+Tech ID:FAST-12785242
+Tech Name:Bluehost Inc
+Tech Organization:Bluehost.com
+Tech Street1:1958 South 950 East
+Tech Street2:
+Tech Street3:
+Tech City:Provo
+Tech State/Province:Utah
+Tech Postal Code:84606
+Tech Country:US
+Tech Phone:+1.8017659400
+Tech Phone Ext.:
+Tech FAX:+1.8017651992
+Tech FAX Ext.:
+Tech Email:whois@bluehost.com
+Name Server:NS1.BLUEHOST.COM
+Name Server:NS2.BLUEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

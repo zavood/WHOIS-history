@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157636348-LROR
+Domain Name:NHMU.ORG
+Created On:19-Nov-2009 17:23:19 UTC
+Last Updated On:08-Nov-2010 04:37:41 UTC
+Expiration Date:19-Nov-2013 17:23:19 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR29854239
+Registrant Name:Chris Eisenberg
+Registrant Street1:1659 Harrison ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Salt lake city
+Registrant State/Province:Utah
+Registrant Postal Code:84105
+Registrant Country:US
+Registrant Phone:+1.4356400208
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:Chris.Eisenberg@gmail.com
+Admin ID:CR29854241
+Admin Name:Chris Eisenberg
+Admin Street1:1659 Harrison ave
+Admin Street2:
+Admin Street3:
+Admin City:Salt lake city
+Admin State/Province:Utah
+Admin Postal Code:84105
+Admin Country:US
+Admin Phone:+1.4356400208
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:Chris.Eisenberg@gmail.com
+Tech ID:CR29854240
+Tech Name:Chris Eisenberg
+Tech Street1:1659 Harrison ave
+Tech Street2:
+Tech Street3:
+Tech City:Salt lake city
+Tech State/Province:Utah
+Tech Postal Code:84105
+Tech Country:US
+Tech Phone:+1.4356400208
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:Chris.Eisenberg@gmail.com
+Name Server:NS13.DOMAINCONTROL.COM
+Name Server:NS14.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

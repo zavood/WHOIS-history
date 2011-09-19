@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; lepetitnicois.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lepetitnicois.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    P8132-FRNIC
+admin-c:     RV718-FRNIC
+tech-c:      PM7151-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL15456-FRNIC
+registrar:   NAMEBAY
+anniversary: 16/11
+created:     30/03/2000
+last-update: 15/12/2010
+source:      FRNIC
+
+ns-list:     NSL15456-FRNIC
+nserver:     s15224627.onlinehome-server.info
+nserver:     slv2.1and1.fr
+source:      FRNIC
+
+registrar:   NAMEBAY
+type:        Isp Option 1
+address:     27 Boulevard des Moulins
+address:     98000 MONACO
+country:     MC
+phone:       +377 97 70 61 64
+fax-no:      +377 97 97 21 13
+e-mail:      contact@namebay.com
+website:     http://www.namebay.com
+anonymous:   NO
+registered:  18/09/2001
+source:      FRNIC
+
+nic-hdl:     PM7151-FRNIC
+type:        ROLE
+contact:     Pascal Maniscalco
+address:     ARTHYS
+address:     208, route de Grenoble
+address:     immeuble Space batiment C
+address:     06200 Nice
+country:     FR
+e-mail:      cyril@arthys.com
+admin-c:     PM419-FRNIC
+tech-c:      PM419-FRNIC
+changed:     15/12/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     P8132-FRNIC
+type:        ORGANIZATION
+contact:     Pascom
+address:     2, rue D&eacute;sir&eacute; Niel
+address:     06000 Nice
+country:     FR
+changed:     15/12/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     RV718-FRNIC
+type:        PERSON
+contact:     Robert Verdoia
+address:     Pascom
+address:     2, rue Desire Niel
+address:     06000 Nice
+country:     FR
+phone:       +33 4 93 13 79 89
+fax-no:      +33 4 93 13 79 69
+e-mail:      prv44@aol.com
+notify:      prv44@aol.com
+changed:     15/12/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

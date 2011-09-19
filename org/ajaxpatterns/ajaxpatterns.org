@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106278146-LROR
+Domain Name:AJAXPATTERNS.ORG
+Created On:09-May-2005 18:29:21 UTC
+Last Updated On:08-Aug-2011 06:48:31 UTC
+Expiration Date:09-May-2015 18:29:21 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:GODA-016288103
+Registrant Name:System Administrator
+Registrant Organization:Usable Systems Engineering Pty. Ltd.
+Registrant Street1:PO Box 380
+Registrant Street2:
+Registrant Street3:
+Registrant City:Malvern
+Registrant State/Province:Victoria
+Registrant Postal Code:3144
+Registrant Country:AU
+Registrant Phone:+61.398221356
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sysadmin@useng.com
+Admin ID:GODA-216288103
+Admin Name:System Administrator
+Admin Organization:Usable Systems Engineering Pty. Ltd.
+Admin Street1:PO Box 380
+Admin Street2:
+Admin Street3:
+Admin City:Malvern
+Admin State/Province:Western Australia
+Admin Postal Code:3144
+Admin Country:AU
+Admin Phone:+61.398221356
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sysadmin@useng.com
+Tech ID:GODA-116288103
+Tech Name:System Administrator
+Tech Organization:Usable Systems Engineering Pty. Ltd.
+Tech Street1:PO Box 380
+Tech Street2:
+Tech Street3:
+Tech City:Malvern
+Tech State/Province:Victoria
+Tech Postal Code:3144
+Tech Country:AU
+Tech Phone:+61.398221356
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sysadmin@useng.com
+Name Server:NS1.LINODE.COM
+Name Server:NS2.LINODE.COM
+Name Server:NS3.LINODE.COM
+Name Server:NS4.LINODE.COM
+Name Server:NS5.LINODE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

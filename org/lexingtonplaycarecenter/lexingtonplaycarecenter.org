@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D141980224-LROR
+Domain Name:LEXINGTONPLAYCARECENTER.ORG
+Created On:21-Mar-2007 18:27:01 UTC
+Last Updated On:07-Dec-2009 21:57:19 UTC
+Expiration Date:21-Mar-2017 18:27:01 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33085260
+Registrant Name:Cheryl L Simons
+Registrant Organization:Lexington Playcare Center, Inc.
+Registrant Street1:6 Meriam Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Lexington
+Registrant State/Province:Massachusetts
+Registrant Postal Code:02420
+Registrant Country:US
+Registrant Phone:+1.7818625485
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:lpckids@verizon.net
+Admin ID:CR33085263
+Admin Name:Cheryl L Simons
+Admin Organization:Lexington Playcare Center, Inc.
+Admin Street1:6 Meriam Street
+Admin Street2:
+Admin Street3:
+Admin City:Lexington
+Admin State/Province:Massachusetts
+Admin Postal Code:02420
+Admin Country:US
+Admin Phone:+1.7818625485
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:lpckids@verizon.net
+Tech ID:CR33085261
+Tech Name:Cheryl L Simons
+Tech Organization:Lexington Playcare Center, Inc.
+Tech Street1:6 Meriam Street
+Tech Street2:
+Tech Street3:
+Tech City:Lexington
+Tech State/Province:Massachusetts
+Tech Postal Code:02420
+Tech Country:US
+Tech Phone:+1.7818625485
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:lpckids@verizon.net
+Name Server:NS39.DOMAINCONTROL.COM
+Name Server:NS40.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

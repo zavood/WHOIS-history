@@ -1,0 +1,157 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: WILHELMWEB.NET
+   Registrar: PSI-USA, INC. DBA DOMAIN ROBOT
+   Whois Server: whois.psi-usa.info
+   Referral URL: http://www.psi-usa.info
+   Name Server: NS01.DECISO.NET
+   Name Server: NS02.DECISO.NET
+   Name Server: NS3.DECISO.EU
+   Name Server: NS4.DECISO.EU
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 10-oct-2010
+   Creation Date: 09-oct-2003
+   Expiration Date: 09-oct-2011
+
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 12:33:13 UTC &lt;&lt;&lt;
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' (&quot;VeriSign&quot;) Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+%
+% =============
+% PSI-USA, Inc.
+% =============
+%
+% This is the PSI-USA, Inc. WHOIS server.
+%
+% All requests are logged.
+%
+% Requesting IP: 67.231.254.15
+% Requesting URL: http://whois.psi-usa.info
+% Requesting Object: domain wilhelmweb.net
+% Timestamp: 2011-09-19 14:33:52
+%
+% You can see the policy that you agree by submitting a query to this server:
+% whois -h whois.psi-usa.info POLICY
+
+
+domain:                      wilhelmweb.net
+status:                      LOCK
+owner-c:                     LULU-285201
+admin-c:                     LULU-285201
+tech-c:                      LULU-285201
+zone-c:                      LULU-300191
+nserver:                     ns01.deciso.net
+nserver:                     ns02.deciso.net
+nserver:                     ns3.deciso.eu
+nserver:                     ns4.deciso.eu
+created:                     2003-10-09 14:21:18
+expire:                      2011-10-09 14:21:18 (registry time)
+changed:                     2010-10-11 06:26:24
+
+[owner-c] handle:            285201
+[owner-c] type:              PERSON
+[owner-c] title:             Dr.
+[owner-c] fname:             Hans-Ulrich
+[owner-c] lname:             Wilhelm
+[owner-c] org:
+[owner-c] address:           Stuttgarter Str. 33-35
+[owner-c] city:              Stuttgart
+[owner-c] pcode:             70469
+[owner-c] country:           DE
+[owner-c] state:             Germany
+[owner-c] phone:             +49-711-2991395
+[owner-c] fax:               +49-711-2991395
+[owner-c] email:             info@rheuma-praxis.net
+[owner-c] protection:        B
+[owner-c] updated:           2007-08-10 10:43:49
+
+[admin-c] handle:            285201
+[admin-c] type:              PERSON
+[admin-c] title:             Dr.
+[admin-c] fname:             Hans-Ulrich
+[admin-c] lname:             Wilhelm
+[admin-c] org:
+[admin-c] address:           Stuttgarter Str. 33-35
+[admin-c] city:              Stuttgart
+[admin-c] pcode:             70469
+[admin-c] country:           DE
+[admin-c] state:             Germany
+[admin-c] phone:             +49-711-2991395
+[admin-c] fax:               +49-711-2991395
+[admin-c] email:             info@rheuma-praxis.net
+[admin-c] protection:        B
+[admin-c] updated:           2007-08-10 10:43:49
+
+[tech-c] handle:            285201
+[tech-c] type:              PERSON
+[tech-c] title:             Dr.
+[tech-c] fname:             Hans-Ulrich
+[tech-c] lname:             Wilhelm
+[tech-c] org:
+[tech-c] address:           Stuttgarter Str. 33-35
+[tech-c] city:              Stuttgart
+[tech-c] pcode:             70469
+[tech-c] country:           DE
+[tech-c] state:             Germany
+[tech-c] phone:             +49-711-2991395
+[tech-c] fax:               +49-711-2991395
+[tech-c] email:             info@rheuma-praxis.net
+[tech-c] protection:        B
+[tech-c] updated:           2007-08-10 10:43:49
+
+[zone-c] handle:             300191
+[zone-c] type:               PERSON
+[zone-c] title:
+[zone-c] fname:              Martin
+[zone-c] lname:              Mienert
+[zone-c] org:                Internet Service Mienert
+[zone-c] address:            Roopstra&szlig;e 6
+[zone-c] city:               Osnabr&uuml;ck
+[zone-c] pcode:              49088
+[zone-c] country:            DE
+[zone-c] state:              Niedersachsen
+[zone-c] phone:              +49-0541-2005977
+[zone-c] fax:                +49-0541-2005978
+[zone-c] email:              service@mienert.com
+[zone-c] protection:         B
+[zone-c] updated:            2011-01-16 11:30:38
+

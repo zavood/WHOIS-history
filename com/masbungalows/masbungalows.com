@@ -1,0 +1,153 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: MASBUNGALOWS.COM
+   Registrar: PSI-USA, INC. DBA DOMAIN ROBOT
+   Whois Server: whois.psi-usa.info
+   Referral URL: http://www.psi-usa.info
+   Name Server: NS.EATSERVER.NL
+   Name Server: NS2.EATSERVER.NL
+   Status: clientDeleteProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 16-sep-2011
+   Creation Date: 15-sep-2003
+   Expiration Date: 15-sep-2012
+
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 13:15:13 UTC &lt;&lt;&lt;
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' (&quot;VeriSign&quot;) Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+%
+% =============
+% PSI-USA, Inc.
+% =============
+%
+% This is the PSI-USA, Inc. WHOIS server.
+%
+% All requests are logged.
+%
+% Requesting IP: 67.231.254.15
+% Requesting URL: http://whois.psi-usa.info
+% Requesting Object: domain masbungalows.com
+% Timestamp: 2011-09-19 15:15:48
+%
+% You can see the policy that you agree by submitting a query to this server:
+% whois -h whois.psi-usa.info POLICY
+
+
+domain:                      masbungalows.com
+status:                      LOCK
+owner-c:                     LULU-265710
+admin-c:                     LULU-473558
+tech-c:                      LULU-473558
+zone-c:                      LULU-473558
+nserver:                     NS.EATSERVER.NL
+nserver:                     NS2.EATSERVER.NL
+created:                     2003-09-15 07:46:01
+expire:                      2012-09-15 07:46:01 (registry time)
+changed:                     2011-09-17 06:06:25
+
+[owner-c] handle:            265710
+[owner-c] type:              ORG
+[owner-c] title:
+[owner-c] fname:             Evert
+[owner-c] lname:             Cazant
+[owner-c] org:               evert Cazant
+[owner-c] address:           Opmerkzaam 37
+[owner-c] city:              AMSTERDAM
+[owner-c] pcode:             1068 RW
+[owner-c] country:           NL
+[owner-c] state:             NL
+[owner-c] phone:             +31-6-23417014
+[owner-c] fax:               +49-000-000
+[owner-c] email:             mas_bali@hotmail.com
+[owner-c] protection:        B
+[owner-c] updated:           2006-04-18 14:08:49
+
+[admin-c] handle:            473558
+[admin-c] type:              ROLE
+[admin-c] title:
+[admin-c] fname:             Domain
+[admin-c] lname:             Admin
+[admin-c] org:               eatserver.nl
+[admin-c] address:           postbus 479
+[admin-c] city:              Beverwijk
+[admin-c] pcode:             1940AL
+[admin-c] country:           NL
+[admin-c] state:             NH
+[admin-c] phone:             +31-251-274669
+[admin-c] fax:               +31-251-270939
+[admin-c] email:             postmaster@eatserver.nl
+[admin-c] protection:        B
+[admin-c] updated:           2011-07-26 16:31:19
+
+[tech-c] handle:            473558
+[tech-c] type:              ROLE
+[tech-c] title:
+[tech-c] fname:             Domain
+[tech-c] lname:             Admin
+[tech-c] org:               eatserver.nl
+[tech-c] address:           postbus 479
+[tech-c] city:              Beverwijk
+[tech-c] pcode:             1940AL
+[tech-c] country:           NL
+[tech-c] state:             NH
+[tech-c] phone:             +31-251-274669
+[tech-c] fax:               +31-251-270939
+[tech-c] email:             postmaster@eatserver.nl
+[tech-c] protection:        B
+[tech-c] updated:           2011-07-26 16:31:19
+
+[zone-c] handle:            473558
+[zone-c] type:              ROLE
+[zone-c] title:
+[zone-c] fname:             Domain
+[zone-c] lname:             Admin
+[zone-c] org:               eatserver.nl
+[zone-c] address:           postbus 479
+[zone-c] city:              Beverwijk
+[zone-c] pcode:             1940AL
+[zone-c] country:           NL
+[zone-c] state:             NH
+[zone-c] phone:             +31-251-274669
+[zone-c] fax:               +31-251-270939
+[zone-c] email:             postmaster@eatserver.nl
+[zone-c] protection:        B
+[zone-c] updated:           2011-07-26 16:31:19
+

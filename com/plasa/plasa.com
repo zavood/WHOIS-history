@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 27-jun-1998
    Expiration Date: 26-jun-2015
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 00:59:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 13:25:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -87,29 +87,35 @@ Domain servers in listed order:
 	 ns2.plasa.com 	 dns1.plasa.com
 
 Administrator:
-	 Name-- PT. Telekomunikasi Indonesia. Tbk
- EMail-: (idc@telkom.co.id)
- tel --: +62.213860500
-	 org: PT. Telekomunikasi Indonesia. Tbk
 	 Jl. Kebon Sirih 37
-	 Jakarta,DKI Jakarta,ID 10340
+	 Jakarta
+DKI Jakarta,
+ID
+ 10340
 
+	 name:(PT. Telekomunikasi Indonesia. Tbk)
+mail:(idc@telkom.co.id) +62.213860500
+	 PT. Telekomunikasi Indonesia. Tbk
 Technical Contactor:
-	 Name-- PT.Metranet
- EMail-: (it@mojopia.com)
- tel --: +62.2172795682
-	 org: PT.Metranet
 	 Jl. Mendawai 1 no 45
-	 Jakarta,DKI Jakarta,ID 12130
+	 Jakarta
+DKI Jakarta,
+ID
+ 12130
 
+	 name:(PT.Metranet)
+mail:(it@mojopia.com) +62.2172795682
+	 PT.Metranet
 Billing Contactor:
-	 Name-- PT. Telekomunikasi Indonesia. Tbk
- EMail-: (idc@telkom.co.id)
- tel --: +62.213860500
-	 org: PT. Telekomunikasi Indonesia. Tbk
 	 Jl. Kebon Sirih 37
-	 Jakarta,DKI Jakarta,ID 10340
+	 Jakarta
+DKI Jakarta,
+ID
+ 10340
 
+	 name:(PT. Telekomunikasi Indonesia. Tbk)
+mail:(idc@telkom.co.id) +62.213860500
+	 PT. Telekomunikasi Indonesia. Tbk
 
 Registration Service Provider:
 	name: Divisi Multimedia, PT Telekomunikasi Indonesia, tbk

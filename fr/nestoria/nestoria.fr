@@ -1,0 +1,94 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; nestoria.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      nestoria.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LL1346-FRNIC
+admin-c:     RM2268-FRNIC
+tech-c:      MB2548-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2252-FRNIC
+registrar:   ORDIPAT
+anniversary: 13/02
+created:     13/02/2008
+last-update: 14/09/2009
+source:      FRNIC
+
+ns-list:     NSL2252-FRNIC
+nserver:     ns0.exonetric.net
+nserver:     ns1.exonetric.net
+source:      FRNIC
+
+registrar:   ORDIPAT
+type:        Isp Option 1
+address:     3 Rue Moncey
+address:     PARIS
+country:     FR
+phone:       +33 1 72 74 00 00
+fax-no:      +33 1 53 32 80 89
+e-mail:      info@ordipat.fr
+website:     http://www.ordipat.net/
+anonymous:   NO
+registered:  01/01/1999
+source:      FRNIC
+
+nic-hdl:     RM2268-FRNIC
+type:        PERSON
+contact:     Ruben Martinez
+address:     Lokku Ltd
+address:     C/O Ordipat
+address:     3, rue Moncey
+address:     75009 Paris
+country:     FR
+phone:       +33 1 72 74 00 00
+e-mail:      domains@lokku.com
+changed:     04/03/2008 noc@ordipat.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LL1346-FRNIC
+type:        ORGANIZATION
+contact:     LOKKU LTD
+address:     First Floor
+address:     7-10 Chandos Street
+address:     W1G 9DQ London
+country:     UK
+phone:       +33 1 56 02 62 00
+fax-no:      +33 1 56 02 62 10
+e-mail:      noc@ordipat.fr
+changed:     05/12/2008 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     MB2548-FRNIC
+type:        PERSON
+contact:     Mark Blackman
+address:     EXONETRIC
+address:     41 Stocton Road
+address:     GU1 4NZ GUILFORD
+country:     GB
+phone:       +44 7766918662
+e-mail:      mark@exonetric.com
+changed:     14/09/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
