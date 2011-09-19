@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2702819-LROR
+Domain Name:SIEMENS-FOUNDATION.ORG
+Created On:09-Dec-1998 05:00:00 UTC
+Last Updated On:09-Dec-2010 01:23:54 UTC
+Expiration Date:08-Dec-2011 05:00:00 UTC
+Sponsoring Registrar:ASCIO Technologies, Inc. - Denmark (R76-LROR)
+Status:OK
+Registrant ID:AT9479290-016
+Registrant Name:Heinrich Wunram
+Registrant Organization:Siemens AG
+Registrant Street1:Wittelsbacherplatz 2
+Registrant Street2:
+Registrant Street3:
+Registrant City:Muenchen
+Registrant State/Province:Bayern
+Registrant Postal Code:80333
+Registrant Country:DE
+Registrant Phone:+49.8963600
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domainmanagement.cc@siemens.com
+Admin ID:AT9479291-016
+Admin Name:Manish Bansal
+Admin Organization:Siemens Business Services GmbH &amp; Co. OHG
+Admin Street1:4570 River Green Parkway
+Admin Street2:
+Admin Street3:
+Admin City:Duluth, GA
+Admin State/Province:
+Admin Postal Code:30096-2564
+Admin Country:US
+Admin Phone:+1.7708145100
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:manish.bansal@siemens.com
+Tech ID:AT43965637-014
+Tech Name:Domain Administration
+Tech Organization:Siemens AG
+Tech Street1:Otto-Hahn-Ring 6
+Tech Street2:
+Tech Street3:
+Tech City:Munich
+Tech State/Province:Bavaria
+Tech Postal Code:81739
+Tech Country:DE
+Tech Phone:+49.8963655450
+Tech Phone Ext.:
+Tech FAX:+49.8963644901
+Tech FAX Ext.:
+Tech Email:hostmaster@siemens.de
+Name Server:DAVID.SIEMENS.DE
+Name Server:DAVID.SIEMENS.COM.SG
+Name Server:NS.SBS.DE
+Name Server:DAVID.SIEMENS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

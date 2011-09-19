@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 31-aug-1995
    Expiration Date: 30-aug-2020
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 14:49:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 14:59:48 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,5 +71,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: carinsurance.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sun Sep 18 10:40:14 EDT 2011
+Date and Time of Query: Mon Sep 19 10:50:18 EDT 2011
 Reason Code: IE

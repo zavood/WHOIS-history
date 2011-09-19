@@ -10,7 +10,7 @@
 %%
 %% Use '-h' option to obtain more information about this service.
 %%
-%% [174.142.225.246 REQUEST] &gt;&gt; niloo.fr
+%% [67.231.254.15 REQUEST] &gt;&gt; niloo.fr
 %%
 %% RL Net [##########] - RL IP [#########.]
 %%
@@ -48,22 +48,6 @@ anonymous:   NO
 registered:  21/10/1999
 source:      FRNIC
 
-nic-hdl:     ANO00-FRNIC
-type:        PERSON
-contact:     Ano Nymous
-remarks:     -------------- WARNING --------------
-remarks:     While the registrar knows him/her,
-remarks:     this person chose to restrict access
-remarks:     to his/her personal data. So PLEASE,
-remarks:     don't send emails to Ano Nymous. This
-remarks:     address is bogus and there is no hope
-remarks:     of a reply.
-remarks:     -------------- WARNING --------------
-changed:     17/08/2007 anonymous@nowhere.xx.fr
-anonymous:   YES
-obsoleted:   NO
-source:      FRNIC
-
 nic-hdl:     OVH5-FRNIC
 type:        ROLE
 contact:     OVH NET
@@ -81,6 +65,22 @@ tech-c:      OK217-FRNIC
 notify:      tech@ovh.net
 changed:     11/10/2006 tech@ovh.net
 anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     17/08/2007 anonymous@nowhere.xx.fr
+anonymous:   YES
 obsoleted:   NO
 source:      FRNIC
 

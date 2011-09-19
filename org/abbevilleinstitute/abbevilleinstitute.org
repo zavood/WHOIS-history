@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D99612367-LROR
+Domain Name:ABBEVILLEINSTITUTE.ORG
+Created On:02-Aug-2003 14:41:08 UTC
+Last Updated On:18-Jul-2011 13:19:32 UTC
+Expiration Date:02-Aug-2012 14:41:08 UTC
+Sponsoring Registrar:DomainPeople, Inc. (R30-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DPRP-2940006
+Registrant Name:Domain Administrator
+Registrant Organization:The Abbeville Institute
+Registrant Street1:478 Burlington Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:ATLANTA
+Registrant State/Province:GA
+Registrant Postal Code:30307
+Registrant Country:US
+Registrant Phone:+1.4043770484
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:devon162@yahoo.com
+Admin ID:DPRP-8641083
+Admin Name:Domain Administrator
+Admin Organization:The Abbeville Institute
+Admin Street1:478 Burlington Rd.
+Admin Street2:
+Admin Street3:
+Admin City:ATLANTA
+Admin State/Province:GA
+Admin Postal Code:30307
+Admin Country:US
+Admin Phone:+1.4043770484
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:devon162@yahoo.com
+Tech ID:DPRP-8641085
+Tech Name:Administrator DNS
+Tech Organization:SiteProduct Web Services
+Tech Street1:1 N State Street
+Tech Street2:
+Tech Street3:
+Tech City:Chicago
+Tech State/Province:IL
+Tech Postal Code:60602
+Tech Country:US
+Tech Phone:+1.3122362132
+Tech Phone Ext.:
+Tech FAX:+1.3122361958
+Tech FAX Ext.:
+Tech Email:administrator@siteprotect.com
+Name Server:NS1.HOSTSAVE.COM
+Name Server:NS2.HOSTSAVE.COM
+Name Server:NS3.HOSTSAVE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

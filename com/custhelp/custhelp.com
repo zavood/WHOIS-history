@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 22-jan-1999
    Expiration Date: 22-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 15:51:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 14:35:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,5 +71,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: custhelp.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 11:40:55 EDT 2011
+Date and Time of Query: Mon Sep 19 10:25:53 EDT 2011
 Reason Code: IE

@@ -1,0 +1,111 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 16:38:50 2011
+
+domain:       ipex.cz
+registrant:   SB:LM54-RIPE_XX
+admin-c:      IPXR03PP
+admin-c:      IPXR03PC
+temp-c:       IPXR03PZ
+nsset:        NSS:IPEX-CZ:0
+registrar:    REG-TERMS
+status:       paid and in zone
+registered:   16.06.1997 02:00:00
+changed:      04.07.2011 11:36:38
+expire:       13.10.2014
+
+contact:      SB:LM54-RIPE_XX
+org:          IPEX a.s.
+name:         IPEX a.s.
+address:      Siroka 37
+address:      Ceske Budejovice
+address:      370 01
+address:      CZ
+e-mail:       petr@ipex.cz
+registrar:    REG-TERMS
+created:      10.08.2001 22:13:00
+changed:      14.05.2008 17:17:33
+
+contact:      IPXR03PP
+name:         Pavel P&Atilde;&shy;&Aring;&iexcl;t&Auml;õk
+address:      Obec&Atilde;&shy;ny 4169
+address:      Zl&Atilde;&shy;n
+address:      76001
+address:      CZ
+e-mail:       pistek@ipex.cz
+registrar:    REG-TERMS
+created:      08.12.2003 15:50:00
+
+contact:      IPXR03PC
+name:         Petr Chru&Aring;à&Atilde;&iexcl;k
+address:      Pod z&Atilde;&iexcl;mkem 574/21
+address:      Rudolfov
+address:      37371
+address:      CZ
+e-mail:       petr@ipex.cz
+registrar:    REG-TERMS
+created:      08.12.2003 15:50:00
+
+contact:      IPXR03PZ
+name:         Pavel &Aring;&frac12;o&Auml;çek
+address:      E.Bene&Aring;&iexcl;e 51
+address:      &Auml;åesk&Atilde;&copy; Bud&Auml;õjovice
+address:      37006
+address:      CZ
+e-mail:       domain@ipex.cz
+registrar:    REG-TERMS
+created:      14.01.2004 12:05:00
+changed:      05.12.2005 18:15:00
+
+nsset:        NSS:IPEX-CZ:0
+nserver:      ns.ph.ipex.cz (212.71.128.8)
+nserver:      ns.cb.ipex.cz (212.71.133.6)
+tech-c:       SB:IPEX-CZ
+tech-c:       IPXR03PP
+tech-c:       IPXR03PC
+tech-c:       IPXR03PB
+registrar:    REG-TERMS
+created:      04.07.2011 11:27:43
+
+contact:      SB:IPEX-CZ
+org:          Ipex a.s.
+name:         Ipex a.s.
+address:      Siroka 37
+address:      Ceske Budejovice
+address:      370 01
+address:      CZ
+e-mail:       domain@gin.cz
+registrar:    REG-TERMS
+created:      10.08.2001 22:13:00
+changed:      15.11.2007 08:40:22
+
+contact:      IPXR03PB
+org:          Ipex a.s.
+name:         Petr Bezd&Auml;õk
+address:      Roh&Atilde;&iexcl;&Auml;çova 1095/77
+address:      Praha
+address:      13000
+address:      Czech republic
+address:      CZ
+phone:        +420.777711103
+e-mail:       petr.bezdek@ipex.cz
+registrar:    REG-TERMS
+created:      04.07.2011 11:21:01
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157623604-LROR
+Domain Name:TLAXCALA-INT.ORG
+Created On:18-Nov-2009 08:02:53 UTC
+Last Updated On:22-Sep-2010 11:39:02 UTC
+Expiration Date:18-Nov-2011 08:02:53 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:FG2833-GANDI
+Registrant Name:Fausto Giudice
+Registrant Organization:Association Tlaxcala pour la diversitA linguistique (ATDL)
+Registrant Street1:1 impasse GAnAral-Laperrine
+Registrant Street2:
+Registrant Street3:
+Registrant City:Carcassonne
+Registrant State/Province:
+Registrant Postal Code:11000
+Registrant Country:FR
+Registrant Phone:+33.468478122
+Registrant Phone Ext.:
+Registrant FAX:+33.468478122
+Registrant FAX Ext.:
+Registrant Email:tlaxcala@tlaxcala.es
+Admin ID:FG2833-GANDI
+Admin Name:Fausto Giudice
+Admin Organization:Association Tlaxcala pour la diversitA linguistique (ATDL)
+Admin Street1:1 impasse GAnAral-Laperrine
+Admin Street2:
+Admin Street3:
+Admin City:Carcassonne
+Admin State/Province:
+Admin Postal Code:11000
+Admin Country:FR
+Admin Phone:+33.468478122
+Admin Phone Ext.:
+Admin FAX:+33.468478122
+Admin FAX Ext.:
+Admin Email:tlaxcala@tlaxcala.es
+Tech ID:AR41-GANDI
+Tech Name:CONTACT NOT AUTHORITATIVE see http://www.gandi.net/whois
+Tech Organization:GANDI SARL
+Tech Street1:15 place de la Nation
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:75011
+Tech Country:FR
+Tech Phone:+33.1
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@support.gandi.net
+Name Server:NS1.IKOULA.FR
+Name Server:NS2.IKOULA.FR
+Name Server:NS.TLAXCALA-INT.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

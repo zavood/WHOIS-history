@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D79639686-LROR
+Domain Name:CAPEDORY.ORG
+Created On:12-Nov-2001 20:14:52 UTC
+Last Updated On:15-Aug-2010 21:19:00 UTC
+Expiration Date:12-Nov-2014 20:14:52 UTC
+Sponsoring Registrar:CORE Internet Council of Registrars (R23-LROR)
+Status:OK
+Registrant ID:R23-1204374-PIR
+Registrant Name:Cape Dory Sailboat Owners Association
+Registrant Organization:Cape Dory Sailboat Owners Association
+Registrant Street1:831 Falesky Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Rahway
+Registrant State/Province:NJ
+Registrant Postal Code:07065
+Registrant Country:US
+Registrant Phone:+1.7323813549
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:c_m_monaghan@comcast.net
+Admin ID:R23-1204374-PIR
+Admin Name:Cape Dory Sailboat Owners Association
+Admin Organization:Cape Dory Sailboat Owners Association
+Admin Street1:831 Falesky Street
+Admin Street2:
+Admin Street3:
+Admin City:Rahway
+Admin State/Province:NJ
+Admin Postal Code:07065
+Admin Country:US
+Admin Phone:+1.7323813549
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:c_m_monaghan@comcast.net
+Tech ID:R23-114073518-P
+Tech Name:Bob Dugan
+Tech Street1:24 Davelin Road
+Tech Street2:
+Tech Street3:
+Tech City:Wayland
+Tech State/Province:MA
+Tech Postal Code:01778
+Tech Country:US
+Tech Phone:+1.5083583066
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bdugan@stonehill.edu
+Name Server:NS.INMOTIONHOSTING.COM
+Name Server:NS2.INMOTIONHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

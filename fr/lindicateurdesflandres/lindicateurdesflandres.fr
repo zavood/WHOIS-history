@@ -1,0 +1,98 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; lindicateurdesflandres.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lindicateurdesflandres.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    SPF33-FRNIC
+admin-c:     GC3027-FRNIC
+tech-c:      TN1723-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL25054-FRNIC
+registrar:   AUDAXIS SAS
+anniversary: 16/02
+created:     16/02/2009
+last-update: 19/02/2009
+source:      FRNIC
+
+ns-list:     NSL25054-FRNIC
+nserver:     nsa.audaxis.com
+nserver:     nsb.audaxis.com
+source:      FRNIC
+
+registrar:   AUDAXIS SAS
+type:        Isp Option 2
+address:     14 Rue du Sec Arembault
+address:     BP 201
+address:     LILLE CEDEX
+country:     FR
+phone:       +33 3 20 63 88 88
+fax-no:      +33 3 20 63 88 89
+e-mail:      info@audaxis.com
+website:     http://www.audaxis.com
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     TN1723-FRNIC
+type:        ROLE
+contact:     TELMEDIA NOC
+address:     TELMEDIA
+address:     14, rue du Sec Arembault
+address:     B.P. 201
+address:     59002 Lille Cedex
+country:     FR
+phone:       +33 3 20 63 88 88
+fax-no:      +33 3 20 63 88 89
+e-mail:      noc@telmedia.fr
+trouble:     mailto:noc@telmedia.fr
+admin-c:     BM405-FRNIC
+tech-c:      DG313-FRNIC
+notify:      noc@telmedia.fr
+changed:     26/03/2001 noc@telmedia.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     SPF33-FRNIC
+type:        ORGANIZATION
+contact:     SA PRESSE FLAMANDE
+address:     rue du Milieu B.P. 10139
+address:     59523 Hazebrouck
+country:     FR
+phone:       +33 3 28 41 49 32
+e-mail:      gchombart@presseflamande.fr
+changed:     16/02/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     GC3027-FRNIC
+type:        PERSON
+contact:     Gonzague Chombart
+address:     SA PRESSE FLAMANDE
+address:     rue du Milieu B.P. 10139
+address:     59523 Hazebrouck
+country:     FR
+phone:       +33 3 28 41 49 32
+e-mail:      gchombart@presseflamande.fr
+changed:     16/02/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

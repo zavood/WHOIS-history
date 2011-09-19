@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D139099532-LROR
+Domain Name:SHOPMANIA.ORG
+Created On:07-Feb-2007 13:39:12 UTC
+Last Updated On:04-May-2011 09:12:55 UTC
+Expiration Date:07-Feb-2012 13:39:12 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:FB64ED4994B9BCF3
+Registrant Name:A R
+Registrant Organization:Asesoft Net
+Registrant Street1:Str Mihai Bravu nr 10
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ploiesti
+Registrant State/Province:PRAHOVA
+Registrant Postal Code:100550
+Registrant Country:RO
+Registrant Phone:+40.244519851
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@asesoftnet.com
+Admin ID:FB64ED4994B9BCF3
+Admin Name:A R
+Admin Organization:Asesoft Net
+Admin Street1:Str Mihai Bravu nr 10
+Admin Street2:
+Admin Street3:
+Admin City:Ploiesti
+Admin State/Province:PRAHOVA
+Admin Postal Code:100550
+Admin Country:RO
+Admin Phone:+40.244519851
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@asesoftnet.com
+Tech ID:FB64ED4994B9BCF3
+Tech Name:A R
+Tech Organization:Asesoft Net
+Tech Street1:Str Mihai Bravu nr 10
+Tech Street2:
+Tech Street3:
+Tech City:Ploiesti
+Tech State/Province:PRAHOVA
+Tech Postal Code:100550
+Tech Country:RO
+Tech Phone:+40.244519851
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@asesoftnet.com
+Name Server:NS2.RACKSPACE.COM
+Name Server:NS.RACKSPACE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

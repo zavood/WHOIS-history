@@ -1,0 +1,72 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         eduhi.at
+registrant:     EGG8161462-NICAT
+admin-c:        WN527536-NICAT
+tech-c:         TB1433934-NICAT
+tech-c:         WN527536-NICAT
+nserver:        gatekeeper.asn-linz.ac.at
+remarks:        193.170.68.253
+nserver:        s13200u1.asn-wien.ac.at
+remarks:        193.170.115.34
+changed:        20110808 09:43:28
+source:         AT-DOM
+
+personname:     Peter Eiselmair
+organization:   Education Group GmbH
+street address: Hafenstrasse 47-51
+postal code:    4020
+city:           Linz
+country:        Austria
+nic-hdl:        EGG8161462-NICAT
+changed:        20110804 09:04:39
+source:         AT-DOM
+
+personname:     Walter Neuner
+organization:   Education Group GmbH.
+street address: Hafenstrasse 47-51
+postal code:    A-4020
+city:           Linz
+country:        Austria
+e-mail:         techsup@eduhi.at
+nic-hdl:        WN527536-NICAT
+changed:        20110729 10:19:59
+source:         AT-DOM
+
+personname:     Thomas Binder
+organization:
+street address: Jet2Web Telekom
+street address: Antonigasse 101
+street address: A-1170 Vienna
+street address: AUSTRIA
+postal code:
+city:
+country:
+phone:          +43 1 47666 0
+fax-no:         +43 1 4815720
+e-mail:         thomas.binder@telekom.at
+nic-hdl:        TB1433934-NICAT
+changed:        20031129 04:32:04
+source:         AT-DOM
+

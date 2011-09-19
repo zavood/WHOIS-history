@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 05-mar-2010
    Expiration Date: 05-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 04:58:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 14:40:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Monday, 12-Sep-2011 06:59:29 CEST
-# gmt time      : Monday, 12-Sep-2011 04:59:29 GMT
+# local time    : Monday, 19-Sep-2011 16:40:55 CEST
+# gmt time      : Monday, 19-Sep-2011 14:40:55 GMT
 # last modify   : Saturday, 03-Sep-2011 09:41:43 CEST
-# request from  : 192.168.248.1:24437
+# request from  : 192.168.248.3:42405
 
 Domain name: netavic.com
 

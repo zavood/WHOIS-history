@@ -1,0 +1,12 @@
+
+domain:   cesmes.fi
+status:   Granted
+created:  1.3.2006
+expires:  1.3.2012
+nserver:  ns1.kapsi.fi [Ok]
+nserver:  ns2.kapsi.fi [Ok]
+dnssec:   no
+modified: 11.2.2009
+
+More information is available at https://domain.ficora.fi/
+Copyright (c) Finnish Communications Regulatory Authority

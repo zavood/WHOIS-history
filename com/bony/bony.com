@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 27-jul-1990
    Expiration Date: 26-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 14:40:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 14:45:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,12 +117,12 @@ Registrant:
 
     Domain servers in listed order:
 
+    l4.nstld.com
     auth10.ns.wcom.com
     g4.nstld.com
-    auth50.ns.uu.net
-    l4.nstld.com
     f4.nstld.com
     a4.nstld.com
+    auth50.ns.uu.net
 
 
 

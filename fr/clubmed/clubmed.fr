@@ -64,20 +64,6 @@ obsoleted:   NO
 idstatus:    ok
 source:      FRNIC
 
-nic-hdl:     JH1636-FRNIC
-type:        PERSON
-contact:     Jerome Hiquet
-address:     Club Mediterranee SA
-address:     11, rue de Cambrai
-address:     75019 Paris
-country:     FR
-phone:       +33 1 53 35 32 12
-e-mail:      domaines@clubmed.com
-changed:     09/10/2009 nic@nic.fr
-anonymous:   NO
-obsoleted:   NO
-source:      FRNIC
-
 nic-hdl:     MIDT4-FRNIC
 type:        PERSON
 contact:     Melbourne It Dbs Tech
@@ -89,6 +75,20 @@ phone:       +1 8669073267
 fax-no:      +1 6506182574
 e-mail:      tech@melbourneitdbs.com
 changed:     21/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     JH1636-FRNIC
+type:        PERSON
+contact:     Jerome Hiquet
+address:     Club Mediterranee SA
+address:     11, rue de Cambrai
+address:     75019 Paris
+country:     FR
+phone:       +33 1 53 35 32 12
+e-mail:      domaines@clubmed.com
+changed:     09/10/2009 nic@nic.fr
 anonymous:   NO
 obsoleted:   NO
 source:      FRNIC

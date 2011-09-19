@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; celog.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      celog.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CDED173-FRNIC
+admin-c:     PDAD12-FRNIC
+tech-c:      D5484-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1566-FRNIC
+registrar:   DOMAINOO
+anniversary: 05/07
+created:     05/11/1996
+last-update: 05/07/2011
+source:      FRNIC
+
+ns-list:     NSL1566-FRNIC
+nserver:     a.ns.planet-service.fr [62.4.78.143]
+nserver:     b.ns.planet-service.fr [84.233.158.133]
+source:      FRNIC
+
+registrar:   DOMAINOO
+type:        Isp Option 2
+address:     49 Rue Richelieu
+address:     PARIS
+country:     FR
+phone:       +33 1 47 05 87 27
+fax-no:      +33 1 56 72 90 48
+e-mail:      info@domainoo.com
+website:     http://www.domainoo.com
+anonymous:   NO
+registered:  05/10/2000
+source:      FRNIC
+
+nic-hdl:     D5484-FRNIC
+type:        ORGANIZATION
+contact:     DOMAINOO
+address:     DOMAINOO
+address:     49, rue de Richelieu
+address:     75001 Paris
+country:     FR
+phone:       +33 1 47 05 87 27
+fax-no:      +33 1 56 72 90 48
+e-mail:      info@domainoo.com
+changed:     18/06/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     PDAD12-FRNIC
+type:        ORGANIZATION
+contact:     CENTRE D ETUDE DE LOGICIEL - CELOG
+address:     CELOG
+address:     70, rue de Ponthieu
+address:     75008 Paris
+country:     FR
+phone:       +33 1 47 05 87 27
+fax-no:      +33 1 56 72 90 48
+e-mail:      ra@celog.fr
+changed:     18/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CDED173-FRNIC
+type:        ORGANIZATION
+contact:     CENTRE D ETUDE DE LOGICIEL - CELOG
+address:     70, rue de Ponthieu
+address:     75008 Paris
+country:     FR
+phone:       +33 1 43 59 60 61
+fax-no:      +33 1 43 59 60 64
+e-mail:      domaine@celog.fr
+changed:     05/07/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

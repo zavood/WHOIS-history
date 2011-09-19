@@ -1,0 +1,102 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; lebonvivre.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lebonvivre.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LAD40-FRNIC
+admin-c:     MD4856-FRNIC
+tech-c:      HN20-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL16909-FRNIC
+registrar:   NAMEBAY
+anniversary: 01/07
+created:     18/03/2009
+last-update: 03/07/2009
+source:      FRNIC
+
+ns-list:     NSL16909-FRNIC
+nserver:     dns1.ledns.net
+nserver:     dns2.ledns.net
+source:      FRNIC
+
+registrar:   NAMEBAY
+type:        Isp Option 1
+address:     27 Boulevard des Moulins
+address:     98000 MONACO
+country:     MC
+phone:       +377 97 70 61 64
+fax-no:      +377 97 97 21 13
+e-mail:      contact@namebay.com
+website:     http://www.namebay.com
+anonymous:   NO
+registered:  18/09/2001
+source:      FRNIC
+
+nic-hdl:     HN20-FRNIC
+type:        ROLE
+contact:     Hostmaster Namebay
+address:     Namebay
+address:     Namebay SAM
+address:     30 bld Princesse Charlotte
+address:     98000 Monaco
+country:     MC
+phone:       +377 97706164
+fax-no:      +377 97972113
+e-mail:      techafnic@namebay.com
+trouble:     http://www.namebay.com
+trouble:     Support : hotline@namebay.com
+trouble:     Spam : abuse@namebay.com
+admin-c:     CV97-FRNIC
+tech-c:      FH448-FRNIC
+tech-c:      BF81-FRNIC
+notify:      techafnic@namebay.com
+changed:     28/09/2001 techafnic@namebay.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MD4856-FRNIC
+type:        PERSON
+contact:     Matthieu Durieux
+address:     YZEO
+address:     66, all&eacute;e sadi carnot
+address:     45770 Saran
+country:     FR
+phone:       +33 2 38 25 07 92
+fax-no:      +33 2 38 63 65 17
+e-mail:      dns@yzeo.fr
+changed:     20/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LAD40-FRNIC
+type:        ORGANIZATION
+contact:     LOPES Antonio Daniel
+address:     19, route de Saint Ceols
+address:     18220 Rians
+country:     FR
+phone:       +33 2 48 64 18 66
+fax-no:      +33 6 20 65 08 49
+e-mail:      lebonvivre@neuf.fr
+changed:     01/07/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

@@ -9,15 +9,17 @@ for detailed information.
    Registrar: ENOM, INC.
    Whois Server: whois.enom.com
    Referral URL: http://www.enom.com
-   Name Server: NS1.POLARWEBSERVICES.COM
-   Name Server: NS2.POLARWEBSERVICES.COM
-   Name Server: NS3.POLARWEBSERVICES.COM
+   Name Server: DNS1.NAME-SERVICES.COM
+   Name Server: DNS2.NAME-SERVICES.COM
+   Name Server: DNS3.NAME-SERVICES.COM
+   Name Server: DNS4.NAME-SERVICES.COM
+   Name Server: DNS5.NAME-SERVICES.COM
    Status: clientTransferProhibited
-   Updated Date: 01-aug-2010
+   Updated Date: 19-sep-2011
    Creation Date: 18-sep-2008
-   Expiration Date: 18-sep-2011
+   Expiration Date: 18-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 09:51:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 15:07:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -89,9 +91,11 @@ Technical Contact:
 Status: Locked
 
 Name Servers:
-   ns1.polarwebservices.com
-   ns2.polarwebservices.com
-   ns3.polarwebservices.com
+   dns1.name-services.com
+   dns2.name-services.com
+   dns3.name-services.com
+   dns4.name-services.com
+   dns5.name-services.com
 
 Creation date: 18 Sep 2008 13:15:10
 Expiration date: 18 Sep 2011 13:15:00

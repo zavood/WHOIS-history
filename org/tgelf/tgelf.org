@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149572396-LROR
+Domain Name:TGELF.ORG
+Created On:27-Oct-2007 11:36:15 UTC
+Last Updated On:24-Jan-2009 05:48:15 UTC
+Expiration Date:27-Oct-2012 11:36:15 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:OK
+Registrant ID:DI_9272074
+Registrant Name:Shiv Vikram Khemka
+Registrant Organization:Sun Group(R)
+Registrant Street1:9th Floor, Meridien Commercial Tower,
+Registrant Street2:Raisina Road,
+Registrant Street3:
+Registrant City:New Delhi
+Registrant State/Province:New Delhi
+Registrant Postal Code:110001
+Registrant Country:IN
+Registrant Phone:+91.4428360557
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:jayakumar@sungroup-india.com
+Admin ID:DI_9272073
+Admin Name:Shiv Vikram Khemka
+Admin Organization:Sun Group(A)
+Admin Street1:9th Floor, Meridien Commercial Tower,
+Admin Street2:Raisina Road,
+Admin Street3:
+Admin City:New Delhi
+Admin State/Province:New Delhi
+Admin Postal Code:110001
+Admin Country:IN
+Admin Phone:+91.4428360557
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jayakumar@sungroup-india.com
+Tech ID:DI_9272076
+Tech Name:Shiv Vikram Khemka
+Tech Organization:Sun Group(T)
+Tech Street1:9th Floor, Meridien Commercial Tower,
+Tech Street2:Raisina Road,
+Tech Street3:
+Tech City:New Delhi
+Tech State/Province:New Delhi
+Tech Postal Code:110001
+Tech Country:IN
+Tech Phone:+91.4428360557
+Tech Phone Ext.:
+Tech FAX:+91.4443203599
+Tech FAX Ext.:
+Tech Email:jayakumar@sungroup-india.com
+Name Server:NS1.SPEEDHOST.IN
+Name Server:NS2.SPEEDHOST.IN
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106467440-LROR
+Domain Name:GEEKNODE.ORG
+Created On:30-May-2005 19:44:28 UTC
+Last Updated On:02-Jun-2011 21:27:07 UTC
+Expiration Date:30-May-2012 19:44:28 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:0-931991-GANDI
+Registrant Name:Alex z Legrix
+Registrant Organization:NULL
+Registrant Street1:Rue Maurice Alaire
+Registrant Street2:Res. Racing II
+Registrant Street3:Bat. E
+Registrant City:Blonville sur mer
+Registrant State/Province:HI
+Registrant Postal Code:14910
+Registrant Country:FR
+Registrant Phone:+33.175437571
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:e7708f20287dbd424339e8fc074ebaf7-595009@contact.gandi.net
+Admin ID:AL3032-GANDI
+Admin Name:Alexandre Legrix
+Admin Organization:GeekNode
+Admin Street1:Rue Maurice Alaire
+Admin Street2:
+Admin Street3:
+Admin City:BLonville sur mer
+Admin State/Province:
+Admin Postal Code:14910
+Admin Country:FR
+Admin Phone:+33.175437571
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:e7597cdb32d1a0892fc78b4127e11d08-806212@contact.gandi.net
+Tech ID:AL3032-GANDI
+Tech Name:Alexandre Legrix
+Tech Organization:GeekNode
+Tech Street1:Rue Maurice Alaire
+Tech Street2:
+Tech Street3:
+Tech City:BLonville sur mer
+Tech State/Province:
+Tech Postal Code:14910
+Tech Country:FR
+Tech Phone:+33.175437571
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:e7597cdb32d1a0892fc78b4127e11d08-806212@contact.gandi.net
+Name Server:MARLA.GEEKNODE.ORG
+Name Server:SMEAGOL.GEEKNODE.ORG
+Name Server:ALUCARD.GEEKNODE.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

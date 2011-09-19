@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104103052-LROR
+Domain Name:BMIUS.ORG
+Created On:16-Mar-2004 03:10:27 UTC
+Last Updated On:16-Mar-2011 21:31:15 UTC
+Expiration Date:16-Mar-2012 03:10:27 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:777175ACE09E2250
+Registrant Name:Bible Ministries International Bible Ministries Internationa
+Registrant Organization:Bible Ministries International
+Registrant Street1:115 Campbell Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Delaware
+Registrant State/Province:Ohio
+Registrant Postal Code:43015
+Registrant Country:US
+Registrant Phone:+1.7403621251
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:manhewitt@columbus.rr.com
+Admin ID:6B7F0D606A4E7A02
+Admin Name:Mark Hewitt
+Admin Organization:Bible Ministries International
+Admin Street1:115 Campbell Street
+Admin Street2:
+Admin Street3:
+Admin City:Delaware
+Admin State/Province:Ohio
+Admin Postal Code:43015
+Admin Country:US
+Admin Phone:+1.7403621251
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:manhewitt@columbus.rr.com
+Tech ID:F55656ED1F963241
+Tech Name:Matthew Hill
+Tech Organization:Liquid Web Inc
+Tech Street1:4210 S. Creyts Rd.
+Tech Street2:
+Tech Street3:
+Tech City:Lansing
+Tech State/Province:MI
+Tech Postal Code:48917
+Tech Country:US
+Tech Phone:+1.8005804985
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:billing@liquidweb.com
+Name Server:NS.INMOTIONHOSTING.COM
+Name Server:NS2.INMOTIONHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

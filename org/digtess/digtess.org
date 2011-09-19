@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2214193-LROR
+Domain Name:DIGTESS.ORG
+Created On:09-Jul-1997 04:00:00 UTC
+Last Updated On:18-Dec-2009 06:59:42 UTC
+Expiration Date:08-Jul-2013 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37605940
+Registrant Name:Lee Marrs
+Registrant Organization:Texas Excavation Safety System, Inc.
+Registrant Street1:11880 Greenville Ave # 120
+Registrant Street2:Suite 120
+Registrant Street3:
+Registrant City:Dallas
+Registrant State/Province:Texas
+Registrant Postal Code:75243
+Registrant Country:US
+Registrant Phone:+1.9722315497
+Registrant Phone Ext.:
+Registrant FAX:+1.9722317006
+Registrant FAX Ext.:
+Registrant Email:leemarrs@digtess.org
+Admin ID:CR37605942
+Admin Name:Mike Garcia
+Admin Organization:Texas Excavation Safety System, Inc.
+Admin Street1:11880 Greenville Ave # 120
+Admin Street2:Suite 120
+Admin Street3:
+Admin City:Dallas
+Admin State/Province:Texas
+Admin Postal Code:75243
+Admin Country:US
+Admin Phone:+1.9722315497
+Admin Phone Ext.:
+Admin FAX:+1.9722317006
+Admin FAX Ext.:
+Admin Email:mikegarcia@digtess.org
+Tech ID:CR37605941
+Tech Name:Mike Garcia
+Tech Organization:Texas Excavation Safety System, Inc.
+Tech Street1:11880 Greenville Ave # 120
+Tech Street2:Suite 120
+Tech Street3:
+Tech City:Dallas
+Tech State/Province:Texas
+Tech Postal Code:75243
+Tech Country:US
+Tech Phone:+1.9722315497
+Tech Phone Ext.:
+Tech FAX:+1.9722317006
+Tech FAX Ext.:
+Tech Email:mikegarcia@digtess.org
+Name Server:NS61.DOMAINCONTROL.COM
+Name Server:NS62.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,155 @@
+
+Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: HOEVELHOF.NET
+   Registrar: PSI-USA, INC. DBA DOMAIN ROBOT
+   Whois Server: whois.psi-usa.info
+   Referral URL: http://www.psi-usa.info
+   Name Server: NS1.TWOSTEPS.INFO
+   Name Server: NS2.TWOSTEPS.INFO
+   Status: clientDeleteProhibited
+   Status: clientRenewProhibited
+   Status: clientTransferProhibited
+   Status: clientUpdateProhibited
+   Updated Date: 30-may-2011
+   Creation Date: 29-may-2000
+   Expiration Date: 29-may-2012
+
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 13:40:46 UTC &lt;&lt;&lt;
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' (&quot;VeriSign&quot;) Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+%
+% =============
+% PSI-USA, Inc.
+% =============
+%
+% This is the PSI-USA, Inc. WHOIS server.
+%
+% All requests are logged.
+%
+% Requesting IP: 67.231.254.15
+% Requesting URL: http://whois.psi-usa.info
+% Requesting Object: domain hoevelhof.net
+% Timestamp: 2011-09-19 15:41:26
+%
+% You can see the policy that you agree by submitting a query to this server:
+% whois -h whois.psi-usa.info POLICY
+
+
+domain:                      hoevelhof.net
+status:                      LOCK
+owner-c:                     LULU-9516681
+admin-c:                     LULU-9516681
+tech-c:                      LULU-9516681
+zone-c:                      LULU-842461
+nserver:                     ns1.twosteps.info
+nserver:                     ns2.twosteps.info
+created:                     2000-05-29 09:29:01
+expire:                      2012-05-29 09:29:01 (registry time)
+changed:                     2011-05-30 10:45:19
+
+[owner-c] handle:            9516681
+[owner-c] type:              PERSON
+[owner-c] title:
+[owner-c] fname:             Joerg
+[owner-c] lname:             Ellerbrok
+[owner-c] org:
+[owner-c] address:           Hoevelwiese 22
+[owner-c] city:              Hoevelhof
+[owner-c] pcode:             33161
+[owner-c] country:           DE
+[owner-c] state:             DE
+[owner-c] phone:             +49-711-9908849
+[owner-c] fax:               +49-711-9908851
+[owner-c] email:             j.ellerbrok@gmx.net
+[owner-c] protection:        B
+[owner-c] updated:           2007-01-24 10:17:43
+
+[admin-c] handle:            9516681
+[admin-c] type:              PERSON
+[admin-c] title:
+[admin-c] fname:             Joerg
+[admin-c] lname:             Ellerbrok
+[admin-c] org:
+[admin-c] address:           Hoevelwiese 22
+[admin-c] city:              Hoevelhof
+[admin-c] pcode:             33161
+[admin-c] country:           DE
+[admin-c] state:             DE
+[admin-c] phone:             +49-711-9908849
+[admin-c] fax:               +49-711-9908851
+[admin-c] email:             j.ellerbrok@gmx.net
+[admin-c] protection:        B
+[admin-c] updated:           2007-01-24 10:17:43
+
+[tech-c] handle:            9516681
+[tech-c] type:              PERSON
+[tech-c] title:
+[tech-c] fname:             Joerg
+[tech-c] lname:             Ellerbrok
+[tech-c] org:
+[tech-c] address:           Hoevelwiese 22
+[tech-c] city:              Hoevelhof
+[tech-c] pcode:             33161
+[tech-c] country:           DE
+[tech-c] state:             DE
+[tech-c] phone:             +49-711-9908849
+[tech-c] fax:               +49-711-9908851
+[tech-c] email:             j.ellerbrok@gmx.net
+[tech-c] protection:        B
+[tech-c] updated:           2007-01-24 10:17:43
+
+[zone-c] handle:             842461
+[zone-c] type:               ROLE
+[zone-c] title:              Hostmaster
+[zone-c] fname:              Ralf
+[zone-c] lname:              Kayser
+[zone-c] org:                twosteps
+[zone-c] address:            Flughafenrandstrasse
+[zone-c] city:               Stuttgart-Flughafen
+[zone-c] pcode:              70629
+[zone-c] country:            DE
+[zone-c] state:              Baden-Wuerttemberg
+[zone-c] phone:              +49-711-9908849
+[zone-c] fax:                +49-711-9908851
+[zone-c] email:              hostmaster@twosteps.net
+[zone-c] protection:         A
+[zone-c] remarks:            For spam/abuse/security issues please contact abuse@twosteps.net. Contacts on fax will be charged if not an spam/abuse/security-issues
+[zone-c] updated:            2011-08-06 20:32:45
+

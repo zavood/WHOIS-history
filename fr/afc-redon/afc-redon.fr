@@ -1,0 +1,93 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; afc-redon.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      afc-redon.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    A1194-FRNIC
+admin-c:     IG490-FRNIC
+tech-c:      TAN14-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL2067-FRNIC
+registrar:   AIC NETWORK
+anniversary: 07/08
+created:     03/08/2001
+last-update: 10/08/2009
+source:      FRNIC
+
+ns-list:     NSL2067-FRNIC
+nserver:     ns1.aic.fr [195.13.34.35]
+nserver:     ns2.aic.fr [195.13.32.2]
+source:      FRNIC
+
+registrar:   AIC NETWORK
+type:        Isp Option 2
+address:     6-8 Rue Georges Marrane
+address:     VENISSIEUX
+country:     FR
+phone:       0 825 157 857
+fax-no:      0 825 157 898
+e-mail:      info@aic.fr
+website:     http://www.aic.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     TAN14-FRNIC
+type:        ROLE
+contact:     TECH2 AIC NETWORK
+address:     55, boulevard p&eacute;reire
+address:     75017 Paris
+country:     FR
+phone:       +33 4 72 37 23 15
+fax-no:      +33 4 72 81 83 11
+e-mail:      tech@aic.fr
+trouble:     Information : http://www.aic.fr/info
+trouble:     Questions and bug reports : mailto:tech@aic.fr
+admin-c:     SC1153-FRNIC
+tech-c:      SP754-FRNIC
+notify:      tech@aic.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     A1194-FRNIC
+type:        ORGANIZATION
+contact:     AFC
+address:     38, rue de Vannes
+address:     35603 Redon Cedex
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     IG490-FRNIC
+type:        PERSON
+contact:     Isabelle Gillet
+address:     38, rue de Vannes
+address:     35603 Redon
+country:     FR
+phone:       +33 3 24 52 67 77
+e-mail:      igillet@lfa-group.com
+changed:     10/08/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

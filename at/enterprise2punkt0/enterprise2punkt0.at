@@ -1,0 +1,65 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         enterprise2punkt0.at
+registrant:     MH5427190-NICAT
+admin-c:        MH5427189-NICAT
+tech-c:         DH1238718-NICAT
+nserver:        ns.namespace4you.de
+nserver:        ns2.namespace4you.de
+changed:        20101108 01:21:15
+source:         AT-DOM
+
+personname:     Michael Holakovsky
+organization:
+street address: Leo Mathausergasse 41
+postal code:    1230
+city:           Wien
+country:        Austria
+nic-hdl:        MH5427190-NICAT
+changed:        20101107 22:23:10
+source:         AT-DOM
+
+personname:     Michael Holakovsky
+organization:
+street address: Leo Mathausergasse 41
+postal code:    1230
+city:           Wien
+country:        Austria
+nic-hdl:        MH5427189-NICAT
+changed:        20101107 22:23:08
+source:         AT-DOM
+
+personname:     domainfactory Hostmaster
+organization:   domainfactory GmbH
+street address: Oskar-Messter-Str. 33
+postal code:    85737
+city:           Ismaning
+country:        Germany
+phone:          +4989552660
+fax-no:         +498955266222
+e-mail:         hostmaster@domainfactory.de
+nic-hdl:        DH1238718-NICAT
+changed:        20031208 14:54:49
+source:         AT-DOM
+

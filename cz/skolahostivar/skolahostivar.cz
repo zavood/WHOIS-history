@@ -1,0 +1,89 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 15:51:52 2011
+
+domain:       skolahostivar.cz
+registrant:   SB:POUPE-20004
+admin-c:      KNEZA
+nsset:        SKOLAHOSTIVAR
+registrar:    REG-WEB4U
+status:       paid and in zone
+registered:   16.04.1999 02:00:00
+changed:      28.11.2009 15:58:08
+expire:       11.10.2012
+
+contact:      SB:POUPE-20004
+org:          SO&Aring;&nbsp; a SOU, Praha 10, Weilova 4
+name:         Milan Vorel
+address:      Weilova 4
+address:      Praha 15
+address:      10200
+address:      CZ
+e-mail:       mailbox@skolahostivar.cz
+registrar:    REG-INTERNET-CZ
+created:      11.11.2003 21:35:00
+changed:      04.03.2005 13:15:00
+
+contact:      KNEZA
+name:         Michal Knezourek
+address:      Ke Kam&Atilde;&shy;nce 1291
+address:      Praha 5 - Zbraslav
+address:      15600
+address:      CZ
+phone:        +420 608253646
+e-mail:       kneza@poupe.net
+registrar:    REG-INTERNET-CZ
+created:      20.02.2002 01:16:00
+changed:      02.04.2004 11:23:00
+
+nsset:        SKOLAHOSTIVAR
+nserver:      ns1.skolahostivar.cz (82.99.161.114)
+nserver:      ns2.skolahostivar.cz (78.24.10.90)
+tech-c:       ONELIFE
+tech-c:       WEB4U
+registrar:    REG-WEB4U
+created:      28.11.2009 10:50:03
+
+contact:      ONELIFE
+org:          ONELIFE
+name:         Michal Kn&Auml;›&Aring;&frac34;ourek
+address:      Ke Kam&Atilde;&shy;nce 1291
+address:      Praha 5 - Zbraslav
+address:      15600
+address:      CZ
+phone:        +420.246036036
+e-mail:       info@onelife.cz
+registrar:    REG-WEB4U
+created:      01.10.2007 23:59:53
+
+contact:      WEB4U
+org:          Web4U s.r.o.
+name:         Luk&Atilde;&iexcl;&Aring;&iexcl; Kunovsk&Atilde;&frac12;
+address:      Pravdova 837
+address:      Jind&Aring;™ich&Aring;&macr;v Hradec II
+address:      37701
+address:      CZ
+phone:        +420.270001456
+fax-no:       +420.270005124
+e-mail:       info@web4u.cz
+registrar:    REG-WEB4U
+created:      03.10.2007 14:48:14
+changed:      30.01.2011 00:28:17
+
+

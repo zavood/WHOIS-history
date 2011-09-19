@@ -1,0 +1,63 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-20T02:46:52+12:00
+domain_name: cx-nic.org.nz
+query_status: 200 Active
+domain_dateregistered: 2001-11-11T22:51:00+13:00
+domain_datebilleduntil: 2012-11-11T22:51:00+13:00
+domain_datelastmodified: 2010-11-21T17:48:07+13:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Freeparking
+registrar_address1: Level 2, 2 Devon St East
+registrar_address2: www.freeparking.co.nz
+registrar_city: New Plymouth
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 6 7572881
+registrar_fax: +64 6 7572883
+registrar_email: domains@freeparking.co.nz
+%
+registrant_contact_name: Dot CX Limited
+registrant_contact_address1: PO Box 496
+registrant_contact_city: Christmas Island
+registrant_contact_country: AU (AUSTRALIA)
+registrant_contact_phone: +61 8 9164 8808
+registrant_contact_fax: +61 8 9164 8879
+registrant_contact_email: brad.waugh@dot.cx
+%
+admin_contact_name: Brad Waugh
+admin_contact_address1: PO Box 496
+admin_contact_city: Christmas Island
+admin_contact_country: AU (AUSTRALIA)
+admin_contact_phone: +61 8 9164 8808
+admin_contact_fax: +61 8 9164 8879
+admin_contact_email: brad.waugh@dot.cx
+%
+technical_contact_name: Brad Waugh
+technical_contact_address1: PO Box 496
+technical_contact_address2: Christmas Island, Australia
+technical_contact_phone: +61 8 9164 8808
+technical_contact_fax: +61 8 9164 8879
+technical_contact_email: brad.waugh@dot.cx
+%
+ns_name_01: ns.freeparking.co.nz
+ns_name_02: ns2.freeparking.co.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

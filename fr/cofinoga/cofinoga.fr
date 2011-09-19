@@ -53,19 +53,19 @@ anonymous:   NO
 registered:  16/03/2007
 source:      FRNIC
 
-nic-hdl:     LCS180-FRNIC
-type:        ORGANIZATION
-contact:     LASER COFINOGA
-address:     LASER COFINOGA SA
-address:     18, rue de Londres
-address:     75009 Paris
-country:     FR
-phone:       +33 1 44 54 47 00
-e-mail:      contactadmin@cofinoga.fr
-changed:     22/11/2010 nic@nic.fr
+nic-hdl:     MIDT4-FRNIC
+type:        PERSON
+contact:     Melbourne It Dbs Tech
+address:     Melbourne IT DBS Inc
+address:     636, Ellis Street
+address:     94043 Mountain View
+country:     US
+phone:       +1 8669073267
+fax-no:      +1 6506182574
+e-mail:      tech@melbourneitdbs.com
+changed:     21/12/2009 nic@nic.fr
 anonymous:   NO
 obsoleted:   NO
-idstatus:    ok
 source:      FRNIC
 
 nic-hdl:     PC5863-FRNIC
@@ -83,18 +83,18 @@ anonymous:   NO
 obsoleted:   NO
 source:      FRNIC
 
-nic-hdl:     MIDT4-FRNIC
-type:        PERSON
-contact:     Melbourne It Dbs Tech
-address:     Melbourne IT DBS Inc
-address:     636, Ellis Street
-address:     94043 Mountain View
-country:     US
-phone:       +1 8669073267
-fax-no:      +1 6506182574
-e-mail:      tech@melbourneitdbs.com
-changed:     21/12/2009 nic@nic.fr
+nic-hdl:     LCS180-FRNIC
+type:        ORGANIZATION
+contact:     LASER COFINOGA
+address:     LASER COFINOGA SA
+address:     18, rue de Londres
+address:     75009 Paris
+country:     FR
+phone:       +33 1 44 54 47 00
+e-mail:      contactadmin@cofinoga.fr
+changed:     22/11/2010 nic@nic.fr
 anonymous:   NO
 obsoleted:   NO
+idstatus:    ok
 source:      FRNIC
 

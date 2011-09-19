@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153502288-LROR
+Domain Name:IARU-R3.ORG
+Created On:01-Aug-2008 15:44:22 UTC
+Last Updated On:17-Aug-2011 01:12:18 UTC
+Expiration Date:01-Aug-2012 15:44:22 UTC
+Sponsoring Registrar:FastDomain Inc. (R1455-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:FAST-13206783
+Registrant Name:Seiichi Oka
+Registrant Organization:International Amateur Radio Union Region 3
+Registrant Street1:14-5, Sugamo 1-chome
+Registrant Street2:
+Registrant Street3:
+Registrant City:Toshima-ku
+Registrant State/Province:Tokyo
+Registrant Postal Code:170-0002
+Registrant Country:JP
+Registrant Phone:+81.353953125
+Registrant Phone Ext.:
+Registrant FAX:+81.339438282
+Registrant FAX Ext.:
+Registrant Email:oka@jarl.or.jp
+Admin ID:FAST-13206783
+Admin Name:Seiichi Oka
+Admin Organization:International Amateur Radio Union Region 3
+Admin Street1:14-5, Sugamo 1-chome
+Admin Street2:
+Admin Street3:
+Admin City:Toshima-ku
+Admin State/Province:Tokyo
+Admin Postal Code:170-0002
+Admin Country:JP
+Admin Phone:+81.353953125
+Admin Phone Ext.:
+Admin FAX:+81.339438282
+Admin FAX Ext.:
+Admin Email:oka@jarl.or.jp
+Tech ID:FAST-12785297
+Tech Name:Hostmonster Inc
+Tech Organization:Hostmonster.com
+Tech Street1:1958 South 950 East
+Tech Street2:
+Tech Street3:
+Tech City:Provo
+Tech State/Province:Utah
+Tech Postal Code:84606
+Tech Country:US
+Tech Phone:+1.8014948462
+Tech Phone Ext.:
+Tech FAX:+1.8017651992
+Tech FAX Ext.:
+Tech Email:support@hostmonster.com
+Name Server:NS1.HOSTMONSTER.COM
+Name Server:NS2.HOSTMONSTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

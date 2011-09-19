@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 22-nov-1996
    Expiration Date: 21-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 08:56:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 14:17:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -75,7 +75,7 @@ Registrars.
 # Pour obtenir les informations en status 'Protected by policy', contactez
 # directement le registre concerne (Eurid, AFNIC)
 #
-# 2011-09-12 10:57:10 CEST
+# 2011-09-19 16:18:04 CEST
 
 domain: actunet.com
 reg_created: 1996-11-22 00:00:00
@@ -100,15 +100,15 @@ owner-c:
 admin-c:
   nic-hdl: JLN7-GANDI
   organisation: Actufax
-  person: Christine Eid
+  person: Jean-Louis NEE
   address: &quot;Centre d'Affaires du P&Atilde;&acute;le\r\nZI 3 - 20 I. de la Valenceaude&quot;
   zipcode: 16160
   city: GOND-PONTOUVRE
   country: France
   phone: +33.545941017
   fax: +33.545941016
-  email: d9f6dadbb27838d5646455739fdd058b-94800@contact.gandi.net
-  lastupdated: 2011-04-01 16:29:56
+  email: ac8853f7c5d83e668f53d53d40d84394-94800@contact.gandi.net
+  lastupdated: 2011-09-15 15:35:33
 tech-c:
   nic-hdl: SV437-GANDI
   organisation: SARL ACTUNET
@@ -124,12 +124,12 @@ tech-c:
 bill-c:
   nic-hdl: JLN7-GANDI
   organisation: Actufax
-  person: Christine Eid
+  person: Jean-Louis NEE
   address: &quot;Centre d'Affaires du P&Atilde;&acute;le\r\nZI 3 - 20 I. de la Valenceaude&quot;
   zipcode: 16160
   city: GOND-PONTOUVRE
   country: France
   phone: +33.545941017
   fax: +33.545941016
-  email: d9f6dadbb27838d5646455739fdd058b-94800@contact.gandi.net
-  lastupdated: 2011-04-01 16:29:56
+  email: ac8853f7c5d83e668f53d53d40d84394-94800@contact.gandi.net
+  lastupdated: 2011-09-15 15:35:33

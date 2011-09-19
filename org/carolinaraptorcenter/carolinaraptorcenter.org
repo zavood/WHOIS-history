@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D99607523-LROR
+Domain Name:CAROLINARAPTORCENTER.ORG
+Created On:01-Aug-2003 12:11:36 UTC
+Last Updated On:08-Nov-2008 16:20:33 UTC
+Expiration Date:01-Aug-2012 12:11:36 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:35709493-NSIV
+Registrant Name:Carolina Raptor Center
+Registrant Organization:Carolina Raptor Center
+Registrant Street1:ATTN insert domain name here
+Registrant Street2:care of Network Solutions
+Registrant Street3:
+Registrant City:Drums
+Registrant State/Province:PA
+Registrant Postal Code:18222
+Registrant Country:US
+Registrant Phone:+1.5707088780
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sv6ap5zx6jx@networksolutionsprivateregistration.com
+Admin ID:35709494-NSIV
+Admin Name:Rick Orr
+Admin Street1:ATTN insert domain name here
+Admin Street2:care of Network Solutions
+Admin Street3:
+Admin City:Drums
+Admin State/Province:PA
+Admin Postal Code:18222
+Admin Country:US
+Admin Phone:+1.5707088780
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gz5bn52c2tc@networksolutionsprivateregistration.com
+Tech ID:5358805-NSI
+Tech Name:Network Solutions, LLC.
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:NS1.EASYDNS.COM
+Name Server:NS2.EASYDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
