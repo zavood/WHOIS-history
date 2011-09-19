@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156481968-LROR
+Domain Name:HORMONECARE.ORG
+Created On:21-Jun-2009 09:46:21 UTC
+Last Updated On:01-Jun-2011 04:19:10 UTC
+Expiration Date:21-Jun-2012 09:46:21 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_10025002
+Registrant Name:praveen r
+Registrant Organization:praveen
+Registrant Street1:d-17.d-flats
+Registrant Street2:LLRMC,medical college,garh road
+Registrant Street3:
+Registrant City:meerut
+Registrant State/Province:uttar pradesh
+Registrant Postal Code:250004
+Registrant Country:IN
+Registrant Phone:+91.9760726274
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dr_praveen_r@rediffmail.com
+Admin ID:DI_10025002
+Admin Name:praveen r
+Admin Organization:praveen
+Admin Street1:d-17.d-flats
+Admin Street2:LLRMC,medical college,garh road
+Admin Street3:
+Admin City:meerut
+Admin State/Province:uttar pradesh
+Admin Postal Code:250004
+Admin Country:IN
+Admin Phone:+91.9760726274
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dr_praveen_r@rediffmail.com
+Tech ID:DI_10025002
+Tech Name:praveen r
+Tech Organization:praveen
+Tech Street1:d-17.d-flats
+Tech Street2:LLRMC,medical college,garh road
+Tech Street3:
+Tech City:meerut
+Tech State/Province:uttar pradesh
+Tech Postal Code:250004
+Tech Country:IN
+Tech Phone:+91.9760726274
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dr_praveen_r@rediffmail.com
+Name Server:FERRARI1.HOSTRIGHTNOW.COM
+Name Server:FERRARI2.HOSTRIGHTNOW.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

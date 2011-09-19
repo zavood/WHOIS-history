@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D157267601-LROR
+Domain Name:ARBITRVOLGA.ORG
+Created On:05-Oct-2009 13:50:36 UTC
+Last Updated On:02-Oct-2010 19:31:28 UTC
+Expiration Date:05-Oct-2011 13:50:36 UTC
+Sponsoring Registrar:Regional Network Information Center, JSC dba RU-CENTER (R148-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:PQOXIIS-RU
+Registrant Name:Studio 22:04 Ltd
+Registrant Organization:Studio 22:04 Ltd
+Registrant Street1:Podnikonaia st. 6
+Registrant Street2:
+Registrant Street3:
+Registrant City:Nizhnii Novgorod
+Registrant State/Province:Nizhnii Novgorod
+Registrant Postal Code:603024
+Registrant Country:RU
+Registrant Phone:+7.9050110639
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:golubev1982@gmail.com
+Admin ID:PQOXIIS-RU
+Admin Name:Studio 22:04 Ltd
+Admin Organization:Studio 22:04 Ltd
+Admin Street1:Podnikonaia st. 6
+Admin Street2:
+Admin Street3:
+Admin City:Nizhnii Novgorod
+Admin State/Province:Nizhnii Novgorod
+Admin Postal Code:603024
+Admin Country:RU
+Admin Phone:+7.9050110639
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:golubev1982@gmail.com
+Tech ID:PQOXIIS-RU
+Tech Name:Studio 22:04 Ltd
+Tech Organization:Studio 22:04 Ltd
+Tech Street1:Podnikonaia st. 6
+Tech Street2:
+Tech Street3:
+Tech City:Nizhnii Novgorod
+Tech State/Province:Nizhnii Novgorod
+Tech Postal Code:603024
+Tech Country:RU
+Tech Phone:+7.9050110639
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:golubev1982@gmail.com
+Name Server:NS1.1GB.RU
+Name Server:NS2.1GB.RU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

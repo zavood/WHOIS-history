@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D153293516-LROR
+Domain Name:SHAREMULA.ORG
+Created On:10-Jul-2008 17:37:50 UTC
+Last Updated On:23-May-2011 07:34:05 UTC
+Expiration Date:10-Jul-2012 17:37:50 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR36283462
+Registrant Name:Silvia Martinez Ramirez
+Registrant Organization:Silvia
+Registrant Street1:venus
+Registrant Street2:3
+Registrant Street3:
+Registrant City:camarena
+Registrant State/Province:Toledo
+Registrant Postal Code:45180
+Registrant Country:ES
+Registrant Phone:+91.000000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:pedidos@bqqweb.com
+Admin ID:CR36283464
+Admin Name:Silvia Martinez Ramirez
+Admin Organization:Silvia
+Admin Street1:venus
+Admin Street2:3
+Admin Street3:
+Admin City:camarena
+Admin State/Province:Toledo
+Admin Postal Code:45180
+Admin Country:ES
+Admin Phone:+91.000000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:pedidos@bqqweb.com
+Tech ID:CR36283463
+Tech Name:Silvia Martinez Ramirez
+Tech Organization:Silvia
+Tech Street1:venus
+Tech Street2:3
+Tech Street3:
+Tech City:camarena
+Tech State/Province:Toledo
+Tech Postal Code:45180
+Tech Country:ES
+Tech Phone:+91.000000
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:pedidos@bqqweb.com
+Name Server:SRV415.INFRANETWORKING.COM
+Name Server:SRV416.INFRANETWORKING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

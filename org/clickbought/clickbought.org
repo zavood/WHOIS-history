@@ -17,9 +17,10 @@ time. By submitting this query, you agree to abide by this policy.
 Domain ID:D162498954-LROR
 Domain Name:CLICKBOUGHT.ORG
 Created On:11-Jun-2011 11:18:15 UTC
-Last Updated On:11-Aug-2011 03:50:13 UTC
+Last Updated On:19-Sep-2011 03:49:41 UTC
 Expiration Date:11-Jun-2012 11:18:15 UTC
 Sponsoring Registrar:Bizcn.com, Inc. (R1248-LROR)
+Status:CLIENT HOLD
 Status:CLIENT TRANSFER PROHIBITED
 Registrant ID:orgad07791092503
 Registrant Name:Anthony Dylanes

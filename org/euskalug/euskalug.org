@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104051911-LROR
+Domain Name:EUSKALUG.ORG
+Created On:03-Mar-2004 15:05:39 UTC
+Last Updated On:07-Feb-2011 18:04:02 UTC
+Expiration Date:03-Mar-2012 15:05:39 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:O-826438-GANDI
+Registrant Name:asso bul
+Registrant Organization:asso bul
+Registrant Street1:aGeNUx
+Registrant Street2:Cafe Foy
+Registrant Street3:Place Jasmin
+Registrant City:AGEN
+Registrant State/Province:
+Registrant Postal Code:47000
+Registrant Country:FR
+Registrant Phone:+33.53683881
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:45452f50e4337a0fa030192fdf94ffc9-828227@owner.gandi.net
+Admin ID:AE496-GANDI
+Admin Name:Association Euskalug
+Admin Organization:Association Euskalug
+Admin Street1:Mairie -Herriko Etxea, 1 place Mattin Trecu
+Admin Street2:
+Admin Street3:
+Admin City:Ahetze
+Admin State/Province:
+Admin Postal Code:64210
+Admin Country:FR
+Admin Phone:+33.559241573
+Admin Phone Ext.:
+Admin FAX:+33.559240552
+Admin FAX Ext.:
+Admin Email:d82afad50c521243ac368ba31b2593a1-310267@contact.gandi.net
+Tech ID:AE496-GANDI
+Tech Name:Association Euskalug
+Tech Organization:Association Euskalug
+Tech Street1:Mairie -Herriko Etxea, 1 place Mattin Trecu
+Tech Street2:
+Tech Street3:
+Tech City:Ahetze
+Tech State/Province:
+Tech Postal Code:64210
+Tech Country:FR
+Tech Phone:+33.559241573
+Tech Phone Ext.:
+Tech FAX:+33.559240552
+Tech FAX Ext.:
+Tech Email:d82afad50c521243ac368ba31b2593a1-310267@contact.gandi.net
+Name Server:NS1.LOST-OASIS.NET
+Name Server:NS2.LOST-OASIS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

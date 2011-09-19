@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; nantes.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      nantes.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    VDN6-FRNIC
+admin-c:     SQ3-FRNIC
+tech-c:      OH251-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1910-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 16/03
+created:     16/03/2001
+last-update: 02/05/2006
+source:      FRNIC
+
+ns-list:     NSL1910-FRNIC
+nserver:     mvinct1.mairie-nantes.fr [80.82.231.234]
+nserver:     ns2.oleane.net
+nserver:     ns3.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     VDN6-FRNIC
+type:        ORGANIZATION
+contact:     ville de nantes
+address:     2, rue de l'Hotel de ville
+address:     44923 Nantes Cedex 9
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     SQ3-FRNIC
+type:        PERSON
+contact:     Serge Quenu
+address:     Mairie de Nantes
+address:     2, rue de l'Hotel de ville
+address:     B.P. 54702
+address:     44923 Nantes Cedex 9
+country:     FR
+phone:       +33 2 40 41 69 40
+fax-no:      +33 2 40 20 38 48
+e-mail:      serge.quenu@nantesmetropole.fr
+changed:     05/07/2004 cgi@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

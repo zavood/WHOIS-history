@@ -1,0 +1,58 @@
+% Access to RESTENA DNS-LU WHOIS information is provided to assist persons
+% in determining the content of a domain name registration record in the LU
+% registration database. The data in this record is provided by RESTENA DNS-LU
+% for information purposes only, and RESTENA DNS-LU does not guarantee its
+% accuracy. Compilation, repackaging, dissemination or other use of the
+% WHOIS database in its entirety, or of a substantial part thereof, is not
+% allowed without the prior written permission of RESTENA DNS-LU.
+%
+% By submitting a WHOIS query, you agree to abide by this policy. You acknowledge
+% that the use of the WHOIS database is regulated by the ACCEPTABLE USE POLICY
+% (http://www.dns.lu/en/EN-LUCharteUtil.html), that you are aware of its
+% content, and that you accept its terms and conditions.
+%
+% You agree especially that you will use this data only for lawful purposes and
+% that you will not use this data to:
+% (1) allow, enable, or otherwise support the transmission of mass unsolicited,
+% commercial advertising or solicitations via e-mail (spam); or
+% (2) enable high volume, automated, electronic processes that apply to
+% RESTENA DNS-LU (or its systems).
+%
+% All rights reserved.
+%
+% powered by Whois Server 3.1, (c) dns.be
+%
+% WHOIS ag2rlamondiale
+domainname:	ag2rlamondiale.lu
+domaintype:	ACTIVE
+nserver:	indom10.indomco.com
+nserver:	indom20.indomco.net
+nserver:	indom30.indomco.fr
+nserver:	indom80.indomco.hk
+ownertype:	ORGANISATION
+registered:	09/09/2009
+org-name:	GROUPE LA MONDIALE
+org-address:	32, avenue Emile Zola
+org-zipcode:	59370
+org-city:	Mons-en-Baroeul
+org-country:	FR
+adm-name:	 Anne-Marie JEAN
+adm-address:	La Mondiale Europartner S.A.
+adm-address:	Atrium Business Park
+adm-address:	BP 2122
+adm-zipcode:	1021
+adm-city:	Luxembourg
+adm-country:	LU
+adm-email:	gestdom.internet@lamondiale.com
+tec-name:	 Indomco Contact
+tec-address:	Indomco.com Domain Names
+tec-address:	44, Rue ND des Victoires
+tec-zipcode:	75002
+tec-city:	Paris
+tec-country:	FR
+tec-email:	indom@indom.com
+registrar-name:		INDOM
+registrar-email:	indom@indom.com
+registrar-url:		http://www.indom.com
+registrar-country:	FR
+

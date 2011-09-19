@@ -1,0 +1,75 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 12:26:01 2011
+
+domain:       olduvsen.cz
+registrant:   MILAN_KALAB
+admin-c:      SAVVY_KONTAKT
+nsset:        NSS:SAVVY:1
+registrar:    REG-MEDIA4WEB
+status:       paid and in zone
+registered:   03.11.2000 17:51:00
+changed:      21.01.2011 18:16:09
+expire:       08.11.2011
+
+contact:      MILAN_KALAB
+name:         Milan Kalab
+address:      Irkutska 2
+address:      Brno
+address:      625 00
+address:      CZ
+registrar:    REG-MEDIA4WEB
+created:      04.05.2009 12:00:59
+
+contact:      SAVVY_KONTAKT
+name:         Zdenek Lukes
+address:      Ludslavice 141
+address:      Ludslavice
+address:      76852
+address:      CZ
+phone:        +420.603511618
+e-mail:       zdenek.lukes@savvy.cz
+registrar:    REG-MEDIA4WEB
+created:      10.08.2001 22:13:00
+changed:      27.11.2003 17:50:00
+
+nsset:        NSS:SAVVY:1
+nserver:      ns2.savvy.cz (81.0.232.150)
+nserver:      ns3.ip-savvy.net
+nserver:      ns1.savvy.cz (193.19.176.160)
+tech-c:       SB:SAVVY
+tech-c:       SAVVY_KONTAKT
+registrar:    REG-MEDIA4WEB
+created:      01.10.2007 02:00:00
+changed:      23.02.2011 00:04:36
+
+contact:      SB:SAVVY
+org:          Savvy, s.r.o.
+name:         Zdenek Lukes
+address:      Ludslavice 141
+address:      Ludslavice
+address:      768 52
+address:      CZ
+phone:        +420.530501900
+fax-no:       +420.549216271
+registrar:    REG-MEDIA4WEB
+created:      10.08.2001 22:13:00
+changed:      24.08.2010 11:13:02
+
+

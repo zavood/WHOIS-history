@@ -1,0 +1,98 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; linkee.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      linkee.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      EM4016-FRNIC
+tech-c:      ST41-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL12535-FRNIC
+registrar:   E.L.B. MULTIMEDIA - Netissime
+anniversary: 12/10
+created:     12/10/2008
+last-update: 17/09/2009
+source:      FRNIC
+
+ns-list:     NSL12535-FRNIC
+nserver:     ns.franceserv.fr [82.240.106.182]
+nserver:     ns.franceserv.net
+source:      FRNIC
+
+registrar:   E.L.B. MULTIMEDIA - Netissime
+type:        Isp Option 1
+address:     13/15/17 Rue Jean Bourgey
+address:     VILLEURBANNE
+country:     FR
+phone:       +33 4 37 43 00 37
+fax-no:      +33 4 37 43 00 38
+e-mail:      info@netissime.com
+website:     http://www.netissime.com
+anonymous:   NO
+registered:  12/07/2000
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     12/10/2008 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     EM4016-FRNIC
+type:        ROLE
+contact:     elb multimedia
+address:     ELB MULTIMEDIA
+address:     17, rue Jean Bourgey
+address:     69100 Villeurbanne
+country:     FR
+phone:       +33 4 37 43 00 37
+e-mail:      info@netissime.com
+admin-c:     DE1803-FRNIC
+tech-c:      DE1803-FRNIC
+notify:      info@netissime.com
+changed:     23/05/2006 info@netissime.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ST41-FRNIC
+type:        PERSON
+contact:     Support Technique
+address:     ELB MULTIMEDIA
+address:     17, rue Jean Bourgey
+address:     69100 Villeurbanne
+country:     FR
+phone:       +33 4 37 43 00 37
+fax-no:      +33 4 37 43 00 38
+e-mail:      help@netissime.com
+changed:     23/05/2006 technique@netissime.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

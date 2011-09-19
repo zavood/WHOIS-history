@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159877112-LROR
+Domain Name:TEACHPRESCHOOL.ORG
+Created On:11-Aug-2010 21:31:11 UTC
+Last Updated On:11-Oct-2010 03:47:57 UTC
+Expiration Date:11-Aug-2012 21:31:11 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR56630804
+Registrant Name:Deborah Stewart
+Registrant Organization:Teach Preschool LLC
+Registrant Street1:19493 Cumberland Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Noblesville
+Registrant State/Province:Indiana
+Registrant Postal Code:46060
+Registrant Country:US
+Registrant Phone:+1.3173798604
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:skettyd@yahoo.com
+Admin ID:CR56630811
+Admin Name:Deborah Stewart
+Admin Organization:Teach Preschool LLC
+Admin Street1:19493 Cumberland Rd
+Admin Street2:
+Admin Street3:
+Admin City:Noblesville
+Admin State/Province:Indiana
+Admin Postal Code:46060
+Admin Country:US
+Admin Phone:+1.3173798604
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:skettyd@yahoo.com
+Tech ID:CR56630806
+Tech Name:Deborah Stewart
+Tech Organization:Teach Preschool LLC
+Tech Street1:19493 Cumberland Rd
+Tech Street2:
+Tech Street3:
+Tech City:Noblesville
+Tech State/Province:Indiana
+Tech Postal Code:46060
+Tech Country:US
+Tech Phone:+1.3173798604
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:skettyd@yahoo.com
+Name Server:NS.INMOTIONHOSTING.COM
+Name Server:NS2.INMOTIONHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

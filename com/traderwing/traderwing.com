@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 15-may-2010
    Expiration Date: 15-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 08:07:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 10:53:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... traderwing.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc311730612-cn
-Registrant Name ................. Kuang Nicholas
-Registrant Organization ......... Nicholas Kuang
-Registrant Address .............. 1st floor no.1 21C, GuangZhou Clifford estate
-Registrant City ................. GuangZhou
-Registrant Province/State ....... Guangdong
-Registrant Postal Code .......... 510000
-Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.013602433888 - 0
-Registrant Fax .................. +86.013602433888 - 0
-Registrant Email ................ mylittlenic@hotmail.com
-Administrative ID ............... hc094065917-cn
-Administrative Name ............. Kuang Nicholas
-Administrative Organization ..... Nicholas Kuang
-Administrative Address .......... 1st floor no.1 21C, GuangZhou Clifford estate
-Administrative City ............. GuangZhou
-Administrative Province/State ... Guangdong
-Administrative Postal Code ...... 510000
-Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.013602433888 - 0
-Administrative Fax .............. +86.013602433888 - 0
-Administrative Email ............ mylittlenic@hotmail.com
-Billing ID ...................... hc142667316-cn
-Billing Name .................... Kuang Nicholas
-Billing Organization ............ Nicholas Kuang
-Billing Address ................. 1st floor no.1 21C, GuangZhou Clifford estate
-Billing City .................... GuangZhou
-Billing Province/State .......... Guangdong
-Billing Postal Code ............. 510000
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.013602433888 - 0
-Billing Fax ..................... +86.013602433888 - 0
-Billing Email ................... mylittlenic@hotmail.com
-Technical ID .................... hc382594863-cn
-Technical Name .................. Kuang Nicholas
-Technical Organization .......... Nicholas Kuang
-Technical Address ............... 1st floor no.1 21C, GuangZhou Clifford estate
-Technical City .................. GuangZhou
-Technical Province/State ........ Guangdong
-Technical Postal Code ........... 510000
-Technical Country Code .......... CN
-Technical Phone Number .......... +86.013602433888 - 0
-Technical Fax ................... +86.013602433888 - 0
-Technical Email ................. mylittlenic@hotmail.com
-Expiration Date ................. 2012-05-15 11:06:20

@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 19-aug-1998
    Expiration Date: 18-aug-2015
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 09:00:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 10:46:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,5 +70,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: lids.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sun Sep 18 04:50:57 EDT 2011
+Date and Time of Query: Mon Sep 19 06:36:04 EDT 2011
 Reason Code: IE

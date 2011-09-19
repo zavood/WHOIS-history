@@ -1,0 +1,82 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; agarik.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      agarik.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    A4532-FRNIC
+admin-c:     AS10922-FRNIC
+tech-c:      AS10922-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1356-FRNIC
+registrar:   AGARIK SAS
+anniversary: 06/11
+created:     01/04/1999
+last-update: 12/03/2009
+source:      FRNIC
+
+ns-list:     NSL1356-FRNIC
+nserver:     ns2.agarik.com
+nserver:     ns3.agarik.com
+source:      FRNIC
+
+registrar:   AGARIK SAS
+type:        Isp Option 2
+address:     20 Rue Dieumegard
+address:     ST OUEN
+country:     FR
+phone:       0 825 602 601
+fax-no:      +33 1 46 91 92 85
+e-mail:      noms@agarik.com
+website:     http://www.agarik.com
+anonymous:   NO
+registered:  22/01/1999
+source:      FRNIC
+
+nic-hdl:     A4532-FRNIC
+type:        ORGANIZATION
+contact:     Agarik
+address:     Agarik SA
+address:     20, rue Dieumegard
+address:     93400 Saint-Ouen
+country:     FR
+phone:       +33 1 46 91 92 93
+fax-no:      +33 1 46 91 92 85
+e-mail:      noms@agarik.com
+changed:     02/02/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AS10922-FRNIC
+type:        ROLE
+contact:     AGARIK SAS
+address:     .
+address:     20, rue Dieumegard
+address:     93400 Saint-Ouen
+country:     FR
+phone:       +33 1 46 91 92 93
+e-mail:      noms@agarik.com
+admin-c:     CB1853-FRNIC
+tech-c:      LS853-FRNIC
+notify:      noms@agarik.com
+changed:     07/01/2009 noms@agarik.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

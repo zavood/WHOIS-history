@@ -1,0 +1,65 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 12:16:37 2011
+
+domain:       move.cz
+registrant:   SB:SAVVY
+admin-c:      SAVVY_KONTAKT
+nsset:        NSS:MOVE
+registrar:    REG-MEDIA4WEB
+status:       paid and in zone
+registered:   10.06.2002 16:11:00
+changed:      21.10.2007 00:40:29
+expire:       09.06.2012
+
+contact:      SB:SAVVY
+org:          Savvy, s.r.o.
+name:         Zdenek Lukes
+address:      Ludslavice 141
+address:      Ludslavice
+address:      768 52
+address:      CZ
+phone:        +420.530501900
+fax-no:       +420.549216271
+registrar:    REG-MEDIA4WEB
+created:      10.08.2001 22:13:00
+changed:      24.08.2010 11:13:02
+
+contact:      SAVVY_KONTAKT
+name:         Zdenek Lukes
+address:      Ludslavice 141
+address:      Ludslavice
+address:      76852
+address:      CZ
+phone:        +420.603511618
+e-mail:       zdenek.lukes@savvy.cz
+registrar:    REG-MEDIA4WEB
+created:      10.08.2001 22:13:00
+changed:      27.11.2003 17:50:00
+
+nsset:        NSS:MOVE
+nserver:      ns2.move.cz (81.0.232.150)
+nserver:      ns1.move.cz (193.19.176.61)
+nserver:      ns3.ip-savvy.net
+tech-c:       SAVVY_KONTAKT
+registrar:    REG-GRANSY
+created:      21.10.2007 00:39:05
+changed:      29.04.2010 22:18:52
+
+

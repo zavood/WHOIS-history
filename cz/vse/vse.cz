@@ -1,0 +1,104 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 12:58:58 2011
+
+domain:       vse.cz
+registrant:   SB:VSE-CZ
+admin-c:      ESC
+admin-c:      KNE
+nsset:        NSS:VSE-CZ:1
+registrar:    REG-ACTIVE24
+status:       paid and in zone
+registered:   25.08.1996 02:00:00
+changed:      10.06.2010 10:35:59
+expire:       27.10.2014
+
+contact:      SB:VSE-CZ
+org:          Vysoka skola ekonomicka
+name:         Vysoka skola ekonomicka
+address:      nam. W. Churchilla 4
+address:      Praha 3
+address:      130 67
+address:      CZ
+e-mail:       network@vse.cz
+registrar:    REG-ACTIVE24
+created:      18.02.2003 17:16:00
+changed:      10.06.2010 10:25:51
+
+contact:      ESC
+name:         Eva Sestakova Cirkvova
+address:      nam. W. Churchilla 4
+address:      Praha 3
+address:      130 67
+address:      CZ
+phone:        +420 224095862
+fax-no:       +420 224095803
+e-mail:       eva@vse.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      21.08.2002 13:51:00
+
+contact:      KNE
+org:          Vysok&Atilde;&iexcl; &Aring;&iexcl;kola ekonomick&Atilde;&iexcl; v Praze
+name:         Karel Nenad&Atilde;&iexcl;l
+address:      n&Atilde;&iexcl;m. W. Churchilla 4
+address:      Praha 3
+address:      13067
+address:      CZ
+e-mail:       nenadal@vse.cz
+registrar:    REG-ACTIVE24
+created:      31.05.2010 11:36:59
+
+nsset:        NSS:VSE-CZ:1
+nserver:      mx1.vse.cz (193.179.244.18)
+nserver:      ns1.vse.cz (146.102.16.16, 2001:718:1e02::16)
+nserver:      ns2.vse.cz (146.102.248.139, 2001:718:2001:148::139)
+tech-c:       SB:VSE-CZ
+tech-c:       ESC
+tech-c:       LP65-RIPE
+tech-c:       IS140-RIPE
+registrar:    REG-ACTIVE24
+created:      01.10.2007 02:00:00
+changed:      04.04.2011 12:43:21
+
+contact:      LP65-RIPE
+name:         Lubos Pavlicek
+address:      nam. W. Churchilla 4
+address:      Praha 3
+address:      130 67
+address:      CR
+address:      CZ
+e-mail:       pavlicek@vse.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      03.12.2009 09:26:54
+
+contact:      IS140-RIPE
+name:         Ivo Smejkal
+address:      nam. W. Churchilla 4
+address:      Praha 3
+address:      13067
+address:      CR
+address:      CZ
+e-mail:       ivo@vse.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      03.12.2009 11:30:31
+
+

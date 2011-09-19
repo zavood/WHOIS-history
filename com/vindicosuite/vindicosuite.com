@@ -9,14 +9,15 @@ for detailed information.
    Registrar: REGISTER.COM, INC.
    Whois Server: whois.register.com
    Referral URL: http://www.register.com
+   Name Server: NS1.VINDICOSUITE.COM
    Name Server: UDNS1.ULTRADNS.NET
    Name Server: UDNS2.ULTRADNS.NET
    Status: ok
-   Updated Date: 11-aug-2011
+   Updated Date: 16-sep-2011
    Creation Date: 01-apr-2007
    Expiration Date: 01-apr-2017
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 03:29:44 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 11:15:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -111,6 +112,7 @@ By submitting this query, you agree to abide by these terms.
    DNS Servers:
       udns2.ultradns.net
       udns1.ultradns.net
+      ns1.vindicosuite.com
 
 
 

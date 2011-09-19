@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D55910439-LROR
+Domain Name:DHAMMADANA.ORG
+Created On:30-Jan-2001 17:57:40 UTC
+Last Updated On:19-Mar-2011 00:26:57 UTC
+Expiration Date:30-Jan-2012 17:57:40 UTC
+Sponsoring Registrar:Online SAS (R99-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:BMN-417347
+Registrant Name:DIDIER NUSBAUMER
+Registrant Street1:Mahasi Meditation Center
+Registrant Street2:16 Sasana Yeiktha road
+Registrant Street3:
+Registrant City:YANGON
+Registrant State/Province:
+Registrant Postal Code:11201
+Registrant Country:MM
+Registrant Phone:+33.173720173
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:flor27@gmail.com
+Admin ID:BMN-188863
+Admin Name:FLORENT GILLES
+Admin Organization:Florent GILLES
+Admin Street1:10 rue Gustave Mahler
+Admin Street2:
+Admin Street3:
+Admin City:lognes
+Admin State/Province:
+Admin Postal Code:77185
+Admin Country:FR
+Admin Phone:+33.660947203
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:florentgilles.188863@spamfree.bookmyname.com
+Tech ID:BMN-188863
+Tech Name:FLORENT GILLES
+Tech Organization:Florent GILLES
+Tech Street1:10 rue Gustave Mahler
+Tech Street2:
+Tech Street3:
+Tech City:lognes
+Tech State/Province:
+Tech Postal Code:77185
+Tech Country:FR
+Tech Phone:+33.660947203
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:florentgilles.188863@spamfree.bookmyname.com
+Name Server:NS1.LOST-OASIS.NET
+Name Server:NS2.LOST-OASIS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

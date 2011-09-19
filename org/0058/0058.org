@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160335872-LROR
+Domain Name:0058.ORG
+Created On:06-Oct-2010 14:30:47 UTC
+Last Updated On:16-Sep-2011 11:23:16 UTC
+Expiration Date:06-Oct-2012 14:30:47 UTC
+Sponsoring Registrar:Xiamen eName Network Technology Corporation Limited dba eName Corp. (R1701-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:ename_az5g8obqyc
+Registrant Name:yanglei
+Registrant Organization:yanglei
+Registrant Street1:8#303
+Registrant Street2:
+Registrant Street3:
+Registrant City:beijing
+Registrant State/Province:Beijing
+Registrant Postal Code:100094
+Registrant Country:CN
+Registrant Phone:+0.0
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:yspl@163.com
+Admin ID:ename_az5g8obqyc
+Admin Name:yanglei
+Admin Organization:yanglei
+Admin Street1:8#303
+Admin Street2:
+Admin Street3:
+Admin City:beijing
+Admin State/Province:Beijing
+Admin Postal Code:100094
+Admin Country:CN
+Admin Phone:+0.0
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:yspl@163.com
+Tech ID:ename_az5g8obqyc
+Tech Name:yanglei
+Tech Organization:yanglei
+Tech Street1:8#303
+Tech Street2:
+Tech Street3:
+Tech City:beijing
+Tech State/Province:Beijing
+Tech Postal Code:100094
+Tech Country:CN
+Tech Phone:+0.0
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:yspl@163.com
+Name Server:NS1.ENAME.NET
+Name Server:NS2.ENAME.NET
+Name Server:NS3.ENAME.NET
+Name Server:NS4.ENAME.NET
+Name Server:NS5.ENAME.NET
+Name Server:NS6.ENAME.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

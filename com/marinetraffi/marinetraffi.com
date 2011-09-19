@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 14-oct-2009
    Expiration Date: 14-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 02:50:22 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 11:19:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -115,6 +115,6 @@ at any time. By submitting this query, you agree to abide by these terms.
 
 
 
-Request number 1 from 5 daily allowed from your IP address.
+Request number 2 from 5 daily allowed from your IP address.
 Email to trick bots (does not work)  MARINETRAFFI.COM@hotmail.com
 

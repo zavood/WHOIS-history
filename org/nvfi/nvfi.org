@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D368841-LROR
+Domain Name:NVFI.ORG
+Created On:21-Jul-1997 04:00:00 UTC
+Last Updated On:25-Jul-2011 00:25:49 UTC
+Expiration Date:20-Jul-2020 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR83906492
+Registrant Name:Robert Haas
+Registrant Organization:National Vitiligo Foundation
+Registrant Street1:76 Garden Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Columbus
+Registrant State/Province:Ohio
+Registrant Postal Code:43214
+Registrant Country:US
+Registrant Phone:+1.6142885105
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rhaas@nvfi.org
+Admin ID:CR83906507
+Admin Name:Robert Haas
+Admin Organization:National Vitiligo Foundation
+Admin Street1:76 Garden Road
+Admin Street2:
+Admin Street3:
+Admin City:Columbus
+Admin State/Province:Ohio
+Admin Postal Code:43214
+Admin Country:US
+Admin Phone:+1.6142885105
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mcleveland@nvfi.org
+Tech ID:CR83906500
+Tech Name:Domain Manager
+Tech Organization:Spydernet, Inc.
+Tech Street1:5528 Old Bullard Rd
+Tech Street2:Suite 107
+Tech Street3:
+Tech City:Tyler
+Tech State/Province:Texas
+Tech Postal Code:75703
+Tech Country:US
+Tech Phone:+1.9035816111
+Tech Phone Ext.:
+Tech FAX:+1.9035977165
+Tech FAX Ext.:
+Tech Email:web@spyderinternet.com
+Name Server:NS519.WEBSITEWELCOME.COM
+Name Server:NS520.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96868028-LROR
+Domain Name:POSTCARBON.ORG
+Created On:08-May-2003 05:30:31 UTC
+Last Updated On:22-Dec-2010 02:38:52 UTC
+Expiration Date:08-May-2012 05:30:31 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37389707
+Registrant Name:Simone Osborn
+Registrant Organization:Post Carbon Institute
+Registrant Street1:613 4th Street, Suite 208
+Registrant Street2:
+Registrant Street3:
+Registrant City:Santa Rosa
+Registrant State/Province:California
+Registrant Postal Code:95404
+Registrant Country:US
+Registrant Phone:+1.7078238700
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@postcarbon.org
+Admin ID:CR37389709
+Admin Name:Simone Osborn
+Admin Organization:Post Carbon Institute
+Admin Street1:613 4th Street, Suite 208
+Admin Street2:
+Admin Street3:
+Admin City:Santa Rosa
+Admin State/Province:California
+Admin Postal Code:95404
+Admin Country:US
+Admin Phone:+1.7078238700
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@postcarbon.org
+Tech ID:CR37389708
+Tech Name:Simone Osborn
+Tech Organization:Post Carbon Institute
+Tech Street1:613 4th Street, Suite 208
+Tech Street2:
+Tech Street3:
+Tech City:Santa Rosa
+Tech State/Province:California
+Tech Postal Code:95404
+Tech Country:US
+Tech Phone:+1.7078238700
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webmaster@postcarbon.org
+Name Server:NS1.POSTCARBON.COM
+Name Server:NS2.POSTCARBON.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

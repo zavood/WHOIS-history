@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D75978856-LROR
+Domain Name:BEST-OF-GOLD.ORG
+Created On:13-Aug-2001 09:02:41 UTC
+Last Updated On:17-Aug-2011 04:06:22 UTC
+Expiration Date:13-Aug-2012 09:02:41 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:tuhrLP6Y8hsvVU9z
+Registrant Name:Contact dagmar kestler
+Registrant Organization:dagmar kestler
+Registrant Street1:c/ san rafael, 21
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fuengirola
+Registrant State/Province:mLAGA
+Registrant Postal Code:29640
+Registrant Country:ES
+Registrant Phone:+34.952199522
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ars_aurum@hotmail.com
+Admin ID:tuZ6FDCeWIjQN0Ym
+Admin Name:dagmar kestler
+Admin Organization:dagmar kestler
+Admin Street1:c/ san rafael, 21
+Admin Street2:
+Admin Street3:
+Admin City:Fuengirola
+Admin State/Province:mLAGA
+Admin Postal Code:29640
+Admin Country:ES
+Admin Phone:+34.952199522
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ars_aurum@hotmail.com
+Tech ID:tu6kld61CFwRqmrI
+Tech Name:Hostmaster Nomitek.com
+Tech Organization:Veloxia Network,S.L.
+Tech Street1:P.O. Box 644
+Tech Street2:
+Tech Street3:
+Tech City:Elda
+Tech State/Province:Alicante
+Tech Postal Code:03600
+Tech Country:ES
+Tech Phone:+34.966981738
+Tech Phone Ext.:
+Tech FAX:+34.965397244
+Tech FAX Ext.:
+Tech Email:hostmaster@nomitek.com
+Name Server:NS1.RENEWYOURNAME.NET
+Name Server:NS2.RENEWYOURNAME.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
