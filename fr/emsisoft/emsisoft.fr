@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; emsisoft.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      emsisoft.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UDA31-FRNIC
+admin-c:     FHUD2-FRNIC
+tech-c:      UD19-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5945-FRNIC
+registrar:   United-domains AG
+anniversary: 20/08
+created:     24/04/2006
+last-update: 20/08/2009
+source:      FRNIC
+
+ns-list:     NSL5945-FRNIC
+nserver:     server1-ns1.udagdns.net
+nserver:     server1-ns2.udagdns.net
+nserver:     server1-ns3.udagdns.net
+source:      FRNIC
+
+registrar:   United-domains AG
+type:        Isp Option 1
+address:     Gautinger Strasse 10
+address:     82319 STARNBERG
+country:     DE
+phone:       +49 8151 36867 0
+fax-no:      +49 8151 36867 77
+e-mail:      info@united-domains.de
+website:     http://www.united-domains.de
+anonymous:   NO
+registered:  06/04/2004
+source:      FRNIC
+
+nic-hdl:     UDA31-FRNIC
+type:        ORGANIZATION
+contact:     united-domains AG
+address:     Gautinger Strasse 10
+address:     82319 Starnberg
+country:     DE
+phone:       +49 8151368670
+e-mail:      trustee-fr@united-domains.de
+changed:     23/03/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     FHUD2-FRNIC
+type:        PERSON
+contact:     Florian Huber United-Domains Ag
+address:     1and1 Internet SARL
+address:     7, place de la gare
+address:     B.P. 70109
+address:     57201 Sarreguemines
+country:     FR
+phone:       +33 1 74 31 11 15
+e-mail:      trustee-fr@united-domains.de
+changed:     10/05/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     UD19-FRNIC
+type:        ROLE
+contact:     United Domains
+address:     united-domains AG
+address:     Gautinger Strasse 10
+address:     82319 Starnberg
+country:     DE
+phone:       +49 8151368670
+fax-no:      +49 3686777
+e-mail:      hostmaster@united-domains.de
+admin-c:     HH93-FRNIC
+tech-c:      HH93-FRNIC
+notify:      hostmaster@united-domains.de
+changed:     13/05/2004 hostmaster@united-domains.de
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

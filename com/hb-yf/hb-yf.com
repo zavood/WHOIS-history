@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 06-jan-2011
    Expiration Date: 06-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 05:13:36 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 06:23:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Domain Name ..................... hb-yf.com
-Name Server ..................... dns23.hichina.com
-                                  dns24.hichina.com
-Registrant ID ................... hc201128478-cn
-Registrant Name ................. li zhichao
-Registrant Organization ......... li zhichao
-Registrant Address .............. Hebei province,Handan City
-Registrant City ................. Handan
-Registrant Province/State ....... Hebei
-Registrant Postal Code .......... 056300
+Name Server ..................... ns1.ultimatecpanel.com
+                                  ns2.ultimatecpanel.com
+Registrant ID ................... hc732392152-cn
+Registrant Name ................. zhiqin ding
+Registrant Organization ......... dingzhiqin
+Registrant Address .............. NO.21 OF LONGKOU STREET,LAIXI,SANDONG PROVINCE
+Registrant City ................. qingdao
+Registrant Province/State ....... shandong
+Registrant Postal Code .......... 266600
 Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.03105560021 - 0
-Registrant Fax .................. +86.03105530053 - 0
-Registrant Email ................ startx@139.com
-Administrative ID ............... hc201128478-cn
-Administrative Name ............. li zhichao
-Administrative Organization ..... li zhichao
-Administrative Address .......... Hebei province,Handan City
-Administrative City ............. Handan
-Administrative Province/State ... Hebei
-Administrative Postal Code ...... 056300
+Registrant Phone Number ......... +86.13969704600 -
+Registrant Fax .................. +86.13969704600 -
+Registrant Email ................ DING-ZHIQIN@163.COM
+Administrative ID ............... hc175701258-cn
+Administrative Name ............. hichina
+Administrative Organization ..... hichina
+Administrative Address .......... hichina
+Administrative City ............. bj
+Administrative Province/State ... bj
+Administrative Postal Code ...... 100120
 Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.03105560021 - 0
-Administrative Fax .............. +86.03105530053 - 0
-Administrative Email ............ startx@139.com
-Billing ID ...................... hc201128478-cn
-Billing Name .................... li zhichao
-Billing Organization ............ li zhichao
-Billing Address ................. Hebei province,Handan City
-Billing City .................... Handan
-Billing Province/State .......... Hebei
-Billing Postal Code ............. 056300
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.03105560021 - 0
-Billing Fax ..................... +86.03105530053 - 0
-Billing Email ................... startx@139.com
-Technical ID .................... hc201128478-cn
-Technical Name .................. li zhichao
-Technical Organization .......... li zhichao
-Technical Address ............... Hebei province,Handan City
-Technical City .................. Handan
-Technical Province/State ........ Hebei
-Technical Postal Code ........... 056300
+Administrative Phone Number ..... +86.1064242266 -
+Administrative Fax .............. +86.1064242299 -
+Administrative Email ............ domainadm@hichina.com
+Technical ID .................... hc477885810-cn
+Technical Name .................. jufeng
+Technical Organization .......... changsha qiuhe wenhua chuangbo
+Technical Address ............... changsha
+Technical City .................. changsha
+Technical Province/State ........ hunan
+Technical Postal Code ........... 410000
 Technical Country Code .......... CN
-Technical Phone Number .......... +86.03105560021 - 0
-Technical Fax ................... +86.03105530053 - 0
-Technical Email ................. startx@139.com
+Technical Phone Number .......... +86.073185951646 -
+Technical Fax ................... +86.073185951646 -
+Technical Email ................. 574229209@qq.com
+Billing ID ...................... hc202645538-cn
+Billing Name .................... kevin
+Billing Organization ............ kevin
+Billing Address ................. jiangsushengsuzhoushiyuanquxieyuyuan15zhuang908shi
+Billing City .................... ganzhou
+Billing Province/State .......... jiangxi
+Billing Postal Code ............. 215000
+Billing Country Code ............ CN
+Billing Phone Number ............ +86.18702003199 -
+Billing Fax ..................... +86.18702003199 -
+Billing Email ................... admin@zmuban.com
 Expiration Date ................. 2012-01-07 00:07:29

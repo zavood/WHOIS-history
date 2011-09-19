@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104100239-LROR
+Domain Name:SMOKEBREAK.ORG
+Created On:15-Mar-2004 13:49:38 UTC
+Last Updated On:11-Mar-2011 11:59:14 UTC
+Expiration Date:15-Mar-2012 13:49:38 UTC
+Sponsoring Registrar:OnlineNIC Inc. (R64-LROR)
+Status:OK
+Registrant ID:ON35-380400200
+Registrant Name:Molnar, Csaba
+Registrant Organization:n/a
+Registrant Street1:Szatymazi u. 27.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Szeged
+Registrant State/Province:n/a
+Registrant Postal Code:6724
+Registrant Country:HU
+Registrant Phone:+36.204362625
+Registrant Phone Ext.:
+Registrant FAX:+36.204362625
+Registrant FAX Ext.:
+Registrant Email:info@smokebreak.org
+Admin ID:ON35-380400201
+Admin Name:FACTORY Domain Admin
+Admin Organization:Factory Creative Studio
+Admin Street1:Jozsef A. sgt. 55.
+Admin Street2:
+Admin Street3:
+Admin City:Szeged
+Admin State/Province:n/a
+Admin Postal Code:6723
+Admin Country:HU
+Admin Phone:+36.62559050
+Admin Phone Ext.:
+Admin FAX:+36.62559053
+Admin FAX Ext.:
+Admin Email:websupport@netfactory.hu
+Tech ID:ON35-380400202
+Tech Name:FACTORY Domain Admin
+Tech Organization:Factory Creative Studio
+Tech Street1:Jozsef A. sgt. 55.
+Tech Street2:
+Tech Street3:
+Tech City:Szeged
+Tech State/Province:n/a
+Tech Postal Code:6723
+Tech Country:HU
+Tech Phone:+36.62559050
+Tech Phone Ext.:
+Tech FAX:+36.62559053
+Tech FAX Ext.:
+Tech Email:websupport@netfactory.hu
+Name Server:NS.JONAPOT.HU
+Name Server:NS1.WWH.HU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

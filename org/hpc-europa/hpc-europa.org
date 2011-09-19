@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94407253-LROR
+Domain Name:HPC-EUROPA.ORG
+Created On:04-Feb-2003 08:19:57 UTC
+Last Updated On:06-Jan-2011 10:05:16 UTC
+Expiration Date:04-Feb-2012 08:19:57 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:01004DB47923BE15
+Registrant Name:Hostmaster Cineca
+Registrant Organization:CINECA
+Registrant Street1:Via Magnanelli 6/3
+Registrant Street2:
+Registrant Street3:
+Registrant City:Casalecchio di Reno
+Registrant State/Province:BO
+Registrant Postal Code:40033
+Registrant Country:IT
+Registrant Phone:+39.516171411
+Registrant Phone Ext.:
+Registrant FAX:+39.512130211
+Registrant FAX Ext.:
+Registrant Email:hostmaster@cineca.it
+Admin ID:01004DB47923BE15
+Admin Name:Hostmaster Cineca
+Admin Organization:CINECA
+Admin Street1:Via Magnanelli 6/3
+Admin Street2:
+Admin Street3:
+Admin City:Casalecchio di Reno
+Admin State/Province:BO
+Admin Postal Code:40033
+Admin Country:IT
+Admin Phone:+39.516171411
+Admin Phone Ext.:
+Admin FAX:+39.512130211
+Admin FAX Ext.:
+Admin Email:hostmaster@cineca.it
+Tech ID:01004DB47923BE15
+Tech Name:Hostmaster Cineca
+Tech Organization:CINECA
+Tech Street1:Via Magnanelli 6/3
+Tech Street2:
+Tech Street3:
+Tech City:Casalecchio di Reno
+Tech State/Province:BO
+Tech Postal Code:40033
+Tech Country:IT
+Tech Phone:+39.516171411
+Tech Phone Ext.:
+Tech FAX:+39.512130211
+Tech FAX Ext.:
+Tech Email:hostmaster@cineca.it
+Name Server:DNS.CINECA.IT
+Name Server:DNS.CINECA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

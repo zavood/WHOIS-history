@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D128419549-LROR
+Domain Name:PITBULL-BG.ORG
+Created On:06-Sep-2006 11:40:27 UTC
+Last Updated On:29-Aug-2011 00:26:18 UTC
+Expiration Date:06-Sep-2012 11:40:27 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:GKG-C000021156
+Registrant Name:Simeon Alexandrov
+Registrant Organization:Sofiahost
+Registrant Street1:Gurko 34
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sofia
+Registrant State/Province:Sofia
+Registrant Postal Code:1000
+Registrant Country:BG
+Registrant Phone:+359.887098866
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:9c0080acf9a7ce877a3d2c252216b02e28562871@whois.gkg.net
+Admin ID:GKG-C000021156
+Admin Name:Simeon Alexandrov
+Admin Organization:Sofiahost
+Admin Street1:Gurko 34
+Admin Street2:
+Admin Street3:
+Admin City:Sofia
+Admin State/Province:Sofia
+Admin Postal Code:1000
+Admin Country:BG
+Admin Phone:+359.887098866
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:9c0080acf9a7ce877a3d2c252216b02e28562871@whois.gkg.net
+Tech ID:GKG-C000021156
+Tech Name:Simeon Alexandrov
+Tech Organization:Sofiahost
+Tech Street1:Gurko 34
+Tech Street2:
+Tech Street3:
+Tech City:Sofia
+Tech State/Province:Sofia
+Tech Postal Code:1000
+Tech Country:BG
+Tech Phone:+359.887098866
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:9c0080acf9a7ce877a3d2c252216b02e28562871@whois.gkg.net
+Name Server:NS1.S803.SURESERVER.COM
+Name Server:NS2.S803.SURESERVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

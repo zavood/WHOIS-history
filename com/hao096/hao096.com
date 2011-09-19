@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 16-apr-2010
    Expiration Date: 16-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 05:12:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 06:22:13 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Domain Name ..................... hao096.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc490351764-cn
-Registrant Name ................. zhang zhi zhang zhi
-Registrant Organization ......... zhang zhi
-Registrant Address .............. fujianshengzhangzhoushiyundongli88hao
-Registrant City ................. zhangzhoushi
-Registrant Province/State ....... Fujian
-Registrant Postal Code .......... 363300
+Name Server ..................... ns1.ultimatecpanel.com
+                                  ns2.ultimatecpanel.com
+Registrant ID ................... hc732392152-cn
+Registrant Name ................. zhiwei zeng
+Registrant Organization ......... Guangzhou TYT Culture Communication co.,LTD.
+Registrant Address .............. Room 213 No.686 Renminbei Road Guangzhou China
+Registrant City ................. guangzhoushi
+Registrant Province/State ....... guangzhou
+Registrant Postal Code .......... 510012
 Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.5962203220 -
-Registrant Fax .................. +86.5962203220 -
-Registrant Email ................ 1007242042@qq.com
-Administrative ID ............... hc490351764-cn
-Administrative Name ............. zhang zhi zhang zhi
-Administrative Organization ..... zhang zhi
-Administrative Address .......... fujianshengzhangzhoushiyundongli88hao
-Administrative City ............. zhangzhoushi
-Administrative Province/State ... Fujian
-Administrative Postal Code ...... 363300
+Registrant Phone Number ......... +86.02026187630 -
+Registrant Fax .................. +86.02026187630 -
+Registrant Email ................ kennyz@foxmail.com
+Administrative ID ............... hc175701258-cn
+Administrative Name ............. hichina
+Administrative Organization ..... hichina
+Administrative Address .......... jiangxi ganzhou yudu
+Administrative City ............. ganzhou
+Administrative Province/State ... jiangxi
+Administrative Postal Code ...... 3423000
 Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.5962203220 -
-Administrative Fax .............. +86.5962203220 -
-Administrative Email ............ 1007242042@qq.com
-Billing ID ...................... hc490351764-cn
-Billing Name .................... zhang zhi zhang zhi
-Billing Organization ............ zhang zhi
-Billing Address ................. fujianshengzhangzhoushiyundongli88hao
-Billing City .................... zhangzhoushi
-Billing Province/State .......... Fujian
-Billing Postal Code ............. 363300
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.5962203220 -
-Billing Fax ..................... +86.5962203220 -
-Billing Email ................... 1007242042@qq.com
-Technical ID .................... hc490351764-cn
-Technical Name .................. zhang zhi zhang zhi
-Technical Organization .......... zhang zhi
-Technical Address ............... fujianshengzhangzhoushiyundongli88hao
-Technical City .................. zhangzhoushi
-Technical Province/State ........ Fujian
-Technical Postal Code ........... 363300
+Administrative Phone Number ..... +86.18702003199 -
+Administrative Fax .............. +86.18702003199 -
+Administrative Email ............ admin@zmuban.com
+Technical ID .................... hc477885810-cn
+Technical Name .................. jufeng
+Technical Organization .......... changsha qiuhe wenhua chuangbo
+Technical Address ............... changsha
+Technical City .................. changsha
+Technical Province/State ........ hunan
+Technical Postal Code ........... 410000
 Technical Country Code .......... CN
-Technical Phone Number .......... +86.5962203220 -
-Technical Fax ................... +86.5962203220 -
-Technical Email ................. 1007242042@qq.com
+Technical Phone Number .......... +86.073185951646 -
+Technical Fax ................... +86.073185951646 -
+Technical Email ................. 574229209@qq.com
+Billing ID ...................... hc202645538-cn
+Billing Name .................... kevin
+Billing Organization ............ kevin
+Billing Address ................. jiangsushengsuzhoushiyuanquxieyuyuan15zhuang908shi
+Billing City .................... ganzhou
+Billing Province/State .......... jiangxi
+Billing Postal Code ............. 215000
+Billing Country Code ............ CN
+Billing Phone Number ............ +86.18702003199 -
+Billing Fax ..................... +86.18702003199 -
+Billing Email ................... admin@zmuban.com
 Expiration Date ................. 2012-04-16 06:50:12

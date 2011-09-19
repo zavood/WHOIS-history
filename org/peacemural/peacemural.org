@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D152166144-LROR
+Domain Name:PEACEMURAL.ORG
+Created On:28-Mar-2008 02:51:34 UTC
+Last Updated On:07-Dec-2010 21:39:18 UTC
+Expiration Date:28-Mar-2020 02:51:34 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:OK
+Registrant ID:2013308dc85bd519
+Registrant Name:John Frank
+Registrant Organization:Peace Mural Foundation, Inc.
+Registrant Street1:Peace Mural Foundation
+Registrant Street2:7900 SW77th Ave
+Registrant Street3:
+Registrant City:Miami
+Registrant State/Province:FL
+Registrant Postal Code:33166
+Registrant Country:US
+Registrant Phone:+1.3052758547
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:peacemuralfoundation@gmail.com
+Admin ID:01392787e98dd708
+Admin Name:John Frank
+Admin Organization:Peace Mural Foundation, Inc.
+Admin Street1:Peace Mural Foundation
+Admin Street2:1552 Greenridge Circle W
+Admin Street3:
+Admin City:Jacksonville
+Admin State/Province:FL
+Admin Postal Code:32259
+Admin Country:US
+Admin Phone:+1.9047054322
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:jwf@talkingthewalk.net
+Tech ID:93946897e9b28564
+Tech Name:Domain Registrar
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027492701
+Tech FAX Ext.:
+Tech Email:domainregistrar@register.com
+Name Server:DNS210.A.REGISTER.COM
+Name Server:DNS084.B.REGISTER.COM
+Name Server:DNS038.C.REGISTER.COM
+Name Server:DNS010.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

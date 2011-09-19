@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 25-nov-2010
    Expiration Date: 25-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 09:02:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 06:41:08 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 95.154.230.221
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain premium-apparel.com
-% Timestamp: 2011-09-10 11:02:56
+% Timestamp: 2011-09-19 08:41:40
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
@@ -161,5 +161,5 @@ changed:                     2010-11-26 07:10:22
 [zone-c] remarks:            E-Mail: support@gerwan.de
 [zone-c] remarks:            Tel: Mo-Fr 10.00 bis 18.00 Uhr +49 (0)228/969677-0
 [zone-c] remarks:            Fax: +49 (0)228/969677-99
-[zone-c] updated:            2011-08-10 16:47:46
+[zone-c] updated:            2011-09-12 15:29:25
 

@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-19 02:41:27 (BRT -03:00)
+
+domain:      inova.com.br
+owner:       Inova Tecnologias de Informa&ccedil;&atilde;o Ltda
+ownerid:     001.427.728/0001-67
+responsible: Alexis Stahis Panagides
+country:     BR
+owner-c:     IIT
+admin-c:     IIT
+tech-c:      IIT
+billing-c:   IIT
+nserver:     dns1.inova.com.br 187.61.57.124
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     dns2.inova.com.br 187.61.57.125
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     19960801 #13090
+expires:     20120801
+changed:     20110809
+status:      published
+
+nic-hdl-br:  IIT
+person:      Inova Tecnologias S/C Ltda
+e-mail:      registrobr@inova.net
+created:     19991028
+changed:     20090106
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

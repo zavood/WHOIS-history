@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 05-oct-1993
    Expiration Date: 04-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 05:04:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 06:05:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -104,7 +104,7 @@ LMK Resources
 
    Record expires on 04-Oct-2012.
    Record created on 05-Oct-1993.
-   Database last updated on 18-Sep-2011 00:54:28 EDT.
+   Database last updated on 19-Sep-2011 01:55:48 EDT.
 
    Domain servers in listed order:
 

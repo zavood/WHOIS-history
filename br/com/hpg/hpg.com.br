@@ -5,7 +5,7 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-17 03:02:19 (BRT -03:00)
+%  2011-09-19 02:55:28 (BRT -03:00)
 
 domain:      hpg.com.br
 owner:       Internet Group do Brasil SA
@@ -17,11 +17,11 @@ admin-c:     IGGDA
 tech-c:      IGGDA
 billing-c:   IGDCO
 nserver:     dnssec1.ig.com.br
-nsstat:      20110914 AA
-nslastaa:    20110914
+nsstat:      20110917 AA
+nslastaa:    20110917
 nserver:     dnssec2.ig.com.br
-nsstat:      20110914 AA
-nslastaa:    20110914
+nsstat:      20110917 AA
+nslastaa:    20110917
 created:     20000211 #260243
 expires:     20120211
 changed:     20110914

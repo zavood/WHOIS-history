@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D9485724-LROR
+Domain Name:CATWHISKER.ORG
+Created On:26-Aug-1999 02:09:13 UTC
+Last Updated On:05-Aug-2010 22:26:09 UTC
+Expiration Date:26-Aug-2015 02:09:12 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-25644
+Registrant Name:David Wolfskill
+Registrant Organization:Wolfskill and Dowling Residence
+Registrant Street1:751 Canyon Rd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Redwood City
+Registrant State/Province:California
+Registrant Postal Code:94062-3023
+Registrant Country:US
+Registrant Phone:+1.6503640253
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:david@catwhisker.org
+Admin ID:CORG-58374
+Admin Name:David Wolfskill
+Admin Organization:Wolfskill and Dowling Residence
+Admin Street1:751 Canyon Rd.
+Admin Street2:
+Admin Street3:
+Admin City:Redwood City
+Admin State/Province:California
+Admin Postal Code:94062-3023
+Admin Country:US
+Admin Phone:+1.6503640253
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:david@catwhisker.org
+Tech ID:CORG-58374
+Tech Name:David Wolfskill
+Tech Organization:Wolfskill and Dowling Residence
+Tech Street1:751 Canyon Rd.
+Tech Street2:
+Tech Street3:
+Tech City:Redwood City
+Tech State/Province:California
+Tech Postal Code:94062-3023
+Tech Country:US
+Tech Phone:+1.6503640253
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:david@catwhisker.org
+Name Server:NS.CATWHISKER.ORG
+Name Server:P.IMAP-PARTNERS.NET
+Name Server:NS1.QUEUE.TO
+Name Server:NEWWINKLE.DEER-RUN.COM
+Name Server:NS1.LORDCOW.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

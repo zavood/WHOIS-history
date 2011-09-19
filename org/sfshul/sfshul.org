@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D107189850-LROR
+Domain Name:SFSHUL.ORG
+Created On:15-Aug-2005 18:16:46 UTC
+Last Updated On:16-Aug-2011 01:23:13 UTC
+Expiration Date:15-Aug-2012 18:16:46 UTC
+Sponsoring Registrar:MyDomain, Inc. (R92-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:DOT-JPVFE8BJ8TKK
+Registrant Name:Chana Zarchi
+Registrant Organization:Congregation Chevra Thilim
+Registrant Street1:751 - 25th Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:San Francisco
+Registrant State/Province:CA
+Registrant Postal Code:94121
+Registrant Country:US
+Registrant Phone:+1.4157522866
+Registrant Phone Ext.:
+Registrant FAX:+1.4157522019
+Registrant FAX Ext.:
+Registrant Email:chaniza@aol.com
+Admin ID:DOT-SESURE1A8T66
+Admin Name:Chana Zarchi
+Admin Organization:Congregation Chevra Thilim
+Admin Street1:751 - 25th Avenue
+Admin Street2:
+Admin Street3:
+Admin City:San Francisco
+Admin State/Province:CA
+Admin Postal Code:94121
+Admin Country:US
+Admin Phone:+1.4157522866
+Admin Phone Ext.:
+Admin FAX:+1.4157522019
+Admin FAX Ext.:
+Admin Email:chaniza@aol.com
+Tech ID:DOT-EY08QZFOS4OU
+Tech Name:Chana Zarchi
+Tech Organization:Congregation Chevra Thilim
+Tech Street1:751 - 25th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:San Francisco
+Tech State/Province:CA
+Tech Postal Code:94121
+Tech Country:US
+Tech Phone:+1.4157522866
+Tech Phone Ext.:
+Tech FAX:+1.4157522019
+Tech FAX Ext.:
+Tech Email:chaniza@aol.com
+Name Server:NS1.CHABADONLINE.COM
+Name Server:NS2.CHABADONLINE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

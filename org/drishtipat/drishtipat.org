@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D80188448-LROR
+Domain Name:DRISHTIPAT.ORG
+Created On:23-Nov-2001 18:42:25 UTC
+Last Updated On:23-Nov-2008 12:56:18 UTC
+Expiration Date:23-Nov-2013 18:42:25 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:10687664278970
+Registrant Name:Asif Saleh
+Registrant Organization:Drishtipat
+Registrant Street1:p o box 568
+Registrant Street2:
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:NY
+Registrant Postal Code:11218
+Registrant Country:US
+Registrant Phone:+1.2125551212
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@drishtipat.org
+Admin ID:10687664282190
+Admin Name:Asif Saleh
+Admin Organization:Drishtipat
+Admin Street1:p o box 568
+Admin Street2:
+Admin Street3:
+Admin City:New York
+Admin State/Province:NY
+Admin Postal Code:11218
+Admin Country:US
+Admin Phone:+1.2125551212
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@drishtipat.org
+Tech ID:10687664289290
+Tech Name:Asif Saleh
+Tech Organization:Drishtipat
+Tech Street1:p o box 568
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:11218
+Tech Country:US
+Tech Phone:+1.2125551212
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@drishtipat.org
+Name Server:NS1.OPENSOURCEHOST.COM
+Name Server:NS2.OPENSOURCEHOST.COM
+Name Server:NS3.OPENSOURCEHOST.COM
+Name Server:NS4.OPENSOURCEHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

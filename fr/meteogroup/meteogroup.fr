@@ -1,0 +1,82 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; meteogroup.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      meteogroup.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      AF307-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL4435-FRNIC
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+anniversary: 22/08
+created:     22/08/2006
+last-update: 27/07/2010
+source:      FRNIC
+
+ns-list:     NSL4435-FRNIC
+nserver:     henry.meteocon.nl
+nserver:     paloma.meteocon.nl
+nserver:     dns.mc-wetter.de
+source:      FRNIC
+
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+type:        Isp Option 1
+address:     12-14, Rond-point des Champs Elys&eacute;es
+address:     PARIS
+country:     FR
+phone:       0 892 55 66 77
+fax-no:      +33 1 40 87 76 89
+e-mail:      afnic@amen.fr
+website:     http://www.amen.fr
+anonymous:   NO
+registered:  17/01/1999
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+changed:     22/08/2006 anonymous@nowhere.xx.fr
+anonymous:   YES
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AF307-FRNIC
+type:        ROLE
+contact:     AMEN France
+address:     Departement Noms de domaine
+address:     12, Rond-Point des Champs-Elysees
+address:     75008 Paris
+country:     FR
+phone:       +33 8 92 55 66 77
+e-mail:      afnic@amen.fr
+admin-c:     AF307-FRNIC
+tech-c:      AF307-FRNIC
+changed:     22/08/2008 afnic@amen.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 20-jun-2007
    Expiration Date: 20-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 05:11:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 06:21:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,54 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Domain Name ..................... hanghairi.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc205602379-cn
-Registrant Name ................. JINGANG LI
-Registrant Organization ......... da lian hang yun zai xian xin xi ji shu you xian gong si
-Registrant Address .............. DALIANSHIZHONGSHANLU305
-Registrant City ................. DA LIAN
-Registrant Province/State ....... Liao Ning
-Registrant Postal Code .......... 116021
+Name Server ..................... ns1.ultimatecpanel.com
+                                  ns2.ultimatecpanel.com
+Registrant ID ................... hc732392152-cn
+Registrant Name ................. Wu Hiu
+Registrant Organization ......... Young Fashion
+Registrant Address .............. Room215,Building 1,508 Jiashan Road
+Registrant City ................. shang hai shi
+Registrant Province/State ....... shang hai
+Registrant Postal Code .......... 200031
 Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.041139660006 - 881
-Registrant Fax .................. +86.041139660007 -
-Registrant Email ................ ljg4244@tom.com
-Administrative ID ............... hc205602379-cn
-Administrative Name ............. JINGANG LI
-Administrative Organization ..... da lian hang yun zai xian xin xi ji shu you xian gong si
-Administrative Address .......... DALIANSHIZHONGSHANLU305
-Administrative City ............. DA LIAN
-Administrative Province/State ... Liao Ning
-Administrative Postal Code ...... 116021
+Registrant Phone Number ......... +86.02164268998 -
+Registrant Fax .................. +86.02133663699 -
+Registrant Email ................ amywuhy@hotmail.com
+Administrative ID ............... hc175701258-cn
+Administrative Name ............. hichina
+Administrative Organization ..... hichina
+Administrative Address .......... jiangxi ganzhou yudu
+Administrative City ............. ganzhou
+Administrative Province/State ... jiangxi
+Administrative Postal Code ...... 3423000
 Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.041139660006 - 881
-Administrative Fax .............. +86.041139660007 -
-Administrative Email ............ ljg4244@tom.com
-Billing ID ...................... hichina001-cn
-Billing Name .................... hichina
-Billing Organization ............ HiChina Web Solutions Limited
-Billing Address ................. 3/F., HiChina Mansion
-                                  No.27 Gulouwai Avenue
-                                  Dongcheng District
-Billing City .................... Beijing
-Billing Province/State .......... Beijing
-Billing Postal Code ............. 100011
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.01064242299 -
-Billing Fax ..................... +86.01064258796 -
-Billing Email ................... domainadm@hichina.com
-Technical ID .................... hichina001-cn
-Technical Name .................. hichina
-Technical Organization .......... HiChina Web Solutions Limited
-Technical Address ............... 3/F., HiChina Mansion
-                                  No.27 Gulouwai Avenue
-                                  Dongcheng District
-Technical City .................. Beijing
-Technical Province/State ........ Beijing
-Technical Postal Code ........... 100011
+Administrative Phone Number ..... +86.18702003199 -
+Administrative Fax .............. +86.18702003199 -
+Administrative Email ............ admin@zmuban.com
+Technical ID .................... hc477885810-cn
+Technical Name .................. jufeng
+Technical Organization .......... changsha qiuhe wenhua chuangbo
+Technical Address ............... changsha
+Technical City .................. changsha
+Technical Province/State ........ hunan
+Technical Postal Code ........... 410000
 Technical Country Code .......... CN
-Technical Phone Number .......... +86.01064242299 -
-Technical Fax ................... +86.01064258796 -
-Technical Email ................. domainadm@hichina.com
+Technical Phone Number .......... +86.073185951646 -
+Technical Fax ................... +86.073185951646 -
+Technical Email ................. 574229209@qq.com
+Billing ID ...................... hc202645538-cn
+Billing Name .................... yao yongjun
+Billing Organization ............ yaoyongjun
+Billing Address ................. Gongcheng jiedao
+Billing City .................... putian
+Billing Province/State .......... fu jian
+Billing Postal Code ............. 351100
+Billing Country Code ............ CN
+Billing Phone Number ............ +86.05942795399 -
+Billing Fax ..................... +86.05942795399 -
+Billing Email ................... jarsion@126.com
 Expiration Date ................. 2012-06-20 06:48:16

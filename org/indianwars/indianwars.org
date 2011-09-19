@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1939794-LROR
+Domain Name:INDIANWARS.ORG
+Created On:19-Aug-1998 04:00:00 UTC
+Last Updated On:13-Aug-2011 13:34:35 UTC
+Expiration Date:18-Aug-2012 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR36963538
+Registrant Name:John Bonk
+Registrant Organization:Land Merchandising Corp
+Registrant Street1:337 McGinnis Circle
+Registrant Street2:
+Registrant Street3:
+Registrant City:Collierville
+Registrant State/Province:Tennessee
+Registrant Postal Code:38017
+Registrant Country:US
+Registrant Phone:+1.9018610195
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:landinfo@earthlink.net
+Admin ID:CR36963540
+Admin Name:John Bonk
+Admin Organization:Land Merchandising Corp
+Admin Street1:337 McGinnis Circle
+Admin Street2:
+Admin Street3:
+Admin City:Collierville
+Admin State/Province:Tennessee
+Admin Postal Code:38017
+Admin Country:US
+Admin Phone:+1.9018610195
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:landinfo@earthlink.net
+Tech ID:CR36963539
+Tech Name:John Bonk
+Tech Organization:Land Merchandising Corp
+Tech Street1:337 McGinnis Circle
+Tech Street2:
+Tech Street3:
+Tech City:Collierville
+Tech State/Province:Tennessee
+Tech Postal Code:38017
+Tech Country:US
+Tech Phone:+1.9018610195
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:landinfo@earthlink.net
+Name Server:NS1.NDOVERDRIVE.COM
+Name Server:NS2.NDOVERDRIVE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

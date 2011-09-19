@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 16-oct-2010
    Expiration Date: 16-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 05:26:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 06:41:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,54 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Domain Name ..................... huaxiamu.com
-Name Server ..................... dns23.hichina.com
-                                  dns24.hichina.com
-Registrant ID ................... hc722479011-cn
-Registrant Name ................. zhiwei zhao
-Registrant Organization ......... zhaozhiwei
-Registrant Address .............. henanshengzhengzhoushihuijiquhongdaluhongdaxiaoqu
-Registrant City ................. zhengzhoushi
-Registrant Province/State ....... henan
-Registrant Postal Code .......... 450000
+Name Server ..................... ns1.ultimatecpanel.com
+                                  ns2.ultimatecpanel.com
+Registrant ID ................... hc732392152-cn
+Registrant Name ................. wang shijun
+Registrant Organization ......... wangshijun
+Registrant Address .............. Garden Road No.42
+Registrant City ................. wu hu shi
+Registrant Province/State ....... an hui
+Registrant Postal Code .......... 241000
 Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.037162107162 -
-Registrant Fax .................. +86.037162107162 -
-Registrant Email ................ 78099918@qq.com
-Administrative ID ............... hc722479011-cn
-Administrative Name ............. zhiwei zhao
-Administrative Organization ..... zhaozhiwei
-Administrative Address .......... henanshengzhengzhoushihuijiquhongdaluhongdaxiaoqu
-Administrative City ............. zhengzhoushi
-Administrative Province/State ... henan
-Administrative Postal Code ...... 450000
+Registrant Phone Number ......... +86.05533117255 -
+Registrant Fax .................. +86.05533117255 -
+Registrant Email ................ shijun-wang@163.com
+Administrative ID ............... hc175701258-cn
+Administrative Name ............. hichina
+Administrative Organization ..... hichina
+Administrative Address .......... hichina
+Administrative City ............. bj
+Administrative Province/State ... bj
+Administrative Postal Code ...... 100120
 Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.037162107162 -
-Administrative Fax .............. +86.037162107162 -
-Administrative Email ............ 78099918@qq.com
-Billing ID ...................... hichina001-cn
-Billing Name .................... hichina
-Billing Organization ............ HiChina Web Solutions Limited
-Billing Address ................. 3/F., HiChina Mansion
-                                  No.27 Gulouwai Avenue
-                                  Dongcheng District
-Billing City .................... Beijing
-Billing Province/State .......... Beijing
-Billing Postal Code ............. 100011
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.01064242299 -
-Billing Fax ..................... +86.01064258796 -
-Billing Email ................... domainadm@hichina.com
-Technical ID .................... hichina001-cn
-Technical Name .................. hichina
-Technical Organization .......... HiChina Web Solutions Limited
-Technical Address ............... 3/F., HiChina Mansion
-                                  No.27 Gulouwai Avenue
-                                  Dongcheng District
-Technical City .................. Beijing
-Technical Province/State ........ Beijing
-Technical Postal Code ........... 100011
+Administrative Phone Number ..... +86.1064242266 -
+Administrative Fax .............. +86.1064242299 -
+Administrative Email ............ domainadm@hichina.com
+Technical ID .................... hc477885810-cn
+Technical Name .................. jufeng
+Technical Organization .......... changsha qiuhe wenhua chuangbo
+Technical Address ............... changsha
+Technical City .................. changsha
+Technical Province/State ........ hunan
+Technical Postal Code ........... 410000
 Technical Country Code .......... CN
-Technical Phone Number .......... +86.01064242299 -
-Technical Fax ................... +86.01064258796 -
-Technical Email ................. domainadm@hichina.com
+Technical Phone Number .......... +86.073185951646 -
+Technical Fax ................... +86.073185951646 -
+Technical Email ................. 574229209@qq.com
+Billing ID ...................... hc202645538-cn
+Billing Name .................... wang shijun
+Billing Organization ............ wangshijun
+Billing Address ................. Garden Road No.42
+Billing City .................... wu hu shi
+Billing Province/State .......... an hui
+Billing Postal Code ............. 241000
+Billing Country Code ............ CN
+Billing Phone Number ............ +86.05533117255 -
+Billing Fax ..................... +86.05533117255 -
+Billing Email ................... shijun-wang@163.com
 Expiration Date ................. 2011-10-16 06:12:40

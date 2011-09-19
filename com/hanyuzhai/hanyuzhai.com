@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 13-dec-2004
    Expiration Date: 13-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 05:12:06 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 06:21:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Domain Name ..................... hanyuzhai.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc028069899-cn
-Registrant Name ................. qingwei cui
-Registrant Organization ......... cui qingwei
-Registrant Address .............. He Ze shi zhong hua lu 688 hao,Heng Tai guo ji gong yu 1911 shi
-Registrant City ................. HeZeShi
-Registrant Province/State ....... shan dong sheng
-Registrant Postal Code .......... 274000
+Name Server ..................... ns1.ultimatecpanel.com
+                                  ns2.ultimatecpanel.com
+Registrant ID ................... hc732392152-cn
+Registrant Name ................. shuzhen jiang
+Registrant Organization ......... tianjin meishuxueyuan meishugaozhong
+Registrant Address .............. tianjinshihebeiquyuanweilu50hao
+Registrant City ................. tianjingshi
+Registrant Province/State ....... tianjin
+Registrant Postal Code .......... 300191
 Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.05306208858 -
-Registrant Fax .................. +86.05306208858 -
-Registrant Email ................ heze2@qq.com
-Administrative ID ............... hc841107919-cn
-Administrative Name ............. qingwei cui
-Administrative Organization ..... cui qingwei
-Administrative Address .......... zhong hua lu heng tai guo ji 1911
-Administrative City ............. heze
-Administrative Province/State ... shan dong sheng
-Administrative Postal Code ...... 274000
+Registrant Phone Number ......... +86.02223622733 - 8012
+Registrant Fax .................. +86.02223622733 - 8012
+Registrant Email ................ domain@net158.com
+Administrative ID ............... hc175701258-cn
+Administrative Name ............. hichina
+Administrative Organization ..... hichina
+Administrative Address .......... jiangxi ganzhou yudu
+Administrative City ............. ganzhou
+Administrative Province/State ... jiangxi
+Administrative Postal Code ...... 3423000
 Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.05306208858 -
-Administrative Fax .............. +86.05306208858 -
-Administrative Email ............ heze2@qq.com
-Billing ID ...................... hc760983298-cn
-Billing Name .................... qingwei cui
-Billing Organization ............ cui qingwei
-Billing Address ................. zhong hua lu heng tai guo ji 1911
-Billing City .................... heze
-Billing Province/State .......... shan dong sheng
-Billing Postal Code ............. 274000
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.05306208858 -
-Billing Fax ..................... +86.05306208858 -
-Billing Email ................... heze2@qq.com
-Technical ID .................... hc496344770-cn
-Technical Name .................. qingwei cui
-Technical Organization .......... cui qingwei
-Technical Address ............... zhong hua lu heng tai guo ji 1911
-Technical City .................. heze
-Technical Province/State ........ shan dong sheng
-Technical Postal Code ........... 274000
+Administrative Phone Number ..... +86.18702003199 -
+Administrative Fax .............. +86.18702003199 -
+Administrative Email ............ admin@zmuban.com
+Technical ID .................... hc477885810-cn
+Technical Name .................. jufeng
+Technical Organization .......... changsha qiuhe wenhua chuangbo
+Technical Address ............... changsha
+Technical City .................. changsha
+Technical Province/State ........ hunan
+Technical Postal Code ........... 410000
 Technical Country Code .......... CN
-Technical Phone Number .......... +86.05306208858 -
-Technical Fax ................... +86.05306208858 -
-Technical Email ................. heze2@qq.com
+Technical Phone Number .......... +86.073185951646 -
+Technical Fax ................... +86.073185951646 -
+Technical Email ................. 574229209@qq.com
+Billing ID ...................... hc202645538-cn
+Billing Name .................... yao yongjun
+Billing Organization ............ yaoyongjun
+Billing Address ................. Gongcheng jiedao
+Billing City .................... putian
+Billing Province/State .......... fu jian
+Billing Postal Code ............. 351100
+Billing Country Code ............ CN
+Billing Phone Number ............ +86.05942795399 -
+Billing Fax ..................... +86.05942795399 -
+Billing Email ................... jarsion@126.com
 Expiration Date ................. 2011-12-13 07:52:58

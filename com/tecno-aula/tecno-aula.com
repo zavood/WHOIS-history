@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 21-feb-2008
    Expiration Date: 21-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 11:33:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 05:57:41 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,26 +84,20 @@ Domain servers in listed order:
 	 ns1.redcoruna.com 	 ns2.redcoruna.com
 
 Administrator:
-	 Name-- Feix JonayMayoral
- EMail-: (JONAY79@HOTMAIL.COM)
- tel --: +34.608580626
-	 org: Feix JonayMayoral
+	 Feix JonayMayoral JONAY79@HOTMAIL.COM +34.608580626
+	 Feix JonayMayoral
 	 C General 2
 	 ARONA,tenerife,SPAIN 38650
 
 Technical Contactor:
-	 Name-- Feix JonayMayoral
- EMail-: (JONAY79@HOTMAIL.COM)
- tel --: +34.608580626
-	 org: Feix JonayMayoral
+	 Feix JonayMayoral JONAY79@HOTMAIL.COM +34.608580626
+	 Feix JonayMayoral
 	 C General 2
 	 ARONA,tenerife,SPAIN 38650
 
 Billing Contactor:
-	 Name-- Felix JonayMayoral
- EMail-: (JONAY79@HOTMAIL.COM)
- tel --: +34.608580626
-	 org: Felix JonayMayoral
+	 Felix JonayMayoral JONAY79@HOTMAIL.COM +34.608580626
+	 Felix JonayMayoral
 	 C General 2
 	 ARONA,tenerife,SPAIN 38650
 

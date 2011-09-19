@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98268335-LROR
+Domain Name:CWCNETWORK.ORG
+Created On:18-Jun-2003 18:20:46 UTC
+Last Updated On:23-Mar-2010 00:48:49 UTC
+Expiration Date:18-Jun-2012 18:20:46 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:OK
+Registrant ID:DOT-YID5OTYJWMZF
+Registrant Name:Tony Mitchell
+Registrant Organization:CT Watershed Conservation Network
+Registrant Street1:111 Main Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Collinsville
+Registrant State/Province:CT
+Registrant Postal Code:06019
+Registrant Country:US
+Registrant Phone:+1.8606931602
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:tony@riversalliance.org
+Admin ID:DOT-ZWNT121XU1YX
+Admin Name:Tony Mitchell
+Admin Organization:CT Watershed Conservation Network
+Admin Street1:111 Main Street
+Admin Street2:
+Admin Street3:
+Admin City:Collinsville
+Admin State/Province:CT
+Admin Postal Code:06019
+Admin Country:US
+Admin Phone:+1.8606931602
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:tony@riversalliance.org
+Tech ID:DOT-EGU4L1QEGH0J
+Tech Name:Tony Mitchell
+Tech Organization:CT Watershed Conservation Network
+Tech Street1:111 Main Street
+Tech Street2:
+Tech Street3:
+Tech City:Collinsville
+Tech State/Province:CT
+Tech Postal Code:06019
+Tech Country:US
+Tech Phone:+1.8606931602
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tony@riversalliance.org
+Name Server:NS1.PUREHOST.COM
+Name Server:NS2.PUREHOST.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

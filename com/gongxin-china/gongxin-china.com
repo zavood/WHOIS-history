@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 23-apr-2010
    Expiration Date: 23-apr-2014
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 05:08:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 06:14:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,54 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Domain Name ..................... gongxin-china.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc785609635-cn
-Registrant Name ................. xinyu zhao
-Registrant Organization ......... nanjinggongxinmaoyiyouxiangongsi
-Registrant Address .............. jiangsushengnanjingshibaixiaqutaipingnanlu1haoxinshijiguangchangAzhuang1501shi
-Registrant City ................. nanjingshi
-Registrant Province/State ....... jiangsu
-Registrant Postal Code .......... 210002
+Name Server ..................... ns1.ultimatecpanel.com
+                                  ns2.ultimatecpanel.com
+Registrant ID ................... hc732392152-cn
+Registrant Name ................. zhou jiongs
+Registrant Organization ......... The success of Xintiandi Shanghai Education Consulting Co., Ltd.
+Registrant Address .............. caobao road 1243 shanghai china
+Registrant City ................. shanghai
+Registrant Province/State ....... shanghai
+Registrant Postal Code .......... 200235
 Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.02584710772 -
-Registrant Fax .................. +86.02584710772 -
-Registrant Email ................ dongshengyan@weblink.cn
-Administrative ID ............... hc785609635-cn
-Administrative Name ............. xinyu zhao
-Administrative Organization ..... nanjinggongxinmaoyiyouxiangongsi
-Administrative Address .......... jiangsushengnanjingshibaixiaqutaipingnanlu1haoxinshijiguangchangAzhuang1501shi
-Administrative City ............. nanjingshi
-Administrative Province/State ... jiangsu
-Administrative Postal Code ...... 210002
+Registrant Phone Number ......... +86.02151707899 -
+Registrant Fax .................. +86.02151707899 -
+Registrant Email ................ 5921055@qq.com
+Administrative ID ............... hc175701258-cn
+Administrative Name ............. hichina
+Administrative Organization ..... hichina
+Administrative Address .......... hichina
+Administrative City ............. bj
+Administrative Province/State ... bj
+Administrative Postal Code ...... 100120
 Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.02584710772 -
-Administrative Fax .............. +86.02584710772 -
-Administrative Email ............ dongshengyan@weblink.cn
-Billing ID ...................... hichina001-cn
-Billing Name .................... hichina
-Billing Organization ............ HiChina Web Solutions Limited
-Billing Address ................. 3/F., HiChina Mansion
-                                  No.27 Gulouwai Avenue
-                                  Dongcheng District
-Billing City .................... Beijing
-Billing Province/State .......... Beijing
-Billing Postal Code ............. 100011
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.01064242299 -
-Billing Fax ..................... +86.01064258796 -
-Billing Email ................... domainadm@hichina.com
-Technical ID .................... hichina001-cn
-Technical Name .................. hichina
-Technical Organization .......... HiChina Web Solutions Limited
-Technical Address ............... 3/F., HiChina Mansion
-                                  No.27 Gulouwai Avenue
-                                  Dongcheng District
-Technical City .................. Beijing
-Technical Province/State ........ Beijing
-Technical Postal Code ........... 100011
+Administrative Phone Number ..... +86.1064242266 -
+Administrative Fax .............. +86.1064242299 -
+Administrative Email ............ domainadm@hichina.com
+Technical ID .................... hc477885810-cn
+Technical Name .................. jufeng
+Technical Organization .......... changsha qiuhe wenhua chuangbo
+Technical Address ............... changsha
+Technical City .................. changsha
+Technical Province/State ........ hunan
+Technical Postal Code ........... 410000
 Technical Country Code .......... CN
-Technical Phone Number .......... +86.01064242299 -
-Technical Fax ................... +86.01064258796 -
-Technical Email ................. domainadm@hichina.com
+Technical Phone Number .......... +86.073185951646 -
+Technical Fax ................... +86.073185951646 -
+Technical Email ................. 574229209@qq.com
+Billing ID ...................... hc202645538-cn
+Billing Name .................... bin gu
+Billing Organization ............ bin gu
+Billing Address ................. jiangsushengsuzhoushiyuanquxieyuyuan15zhuang908shi
+Billing City .................... suzhou
+Billing Province/State .......... jiangsu
+Billing Postal Code ............. 215000
+Billing Country Code ............ CN
+Billing Phone Number ............ +86.051268762949 -
+Billing Fax ..................... +86.051268762949 -
+Billing Email ................... manyuantuan@126.com
 Expiration Date ................. 2014-04-23 06:32:25

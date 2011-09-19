@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 10-may-2010
    Expiration Date: 10-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 05:23:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 06:36:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,50 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Domain Name ..................... honglishipin.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc638698651-cn
-Registrant Name ................. huailiang xu
-Registrant Organization ......... zhengzhoushangjizaixianjisuanjifuwuyouxiangongsi
-Registrant Address .............. zhengzhoushierqiquxidajie166hao1haolou1danyun1610
-Registrant City ................. zhengzhou
-Registrant Province/State ....... henan
-Registrant Postal Code .......... 450002
+Name Server ..................... ns1.ultimatecpanel.com
+                                  ns2.ultimatecpanel.com
+Registrant ID ................... hc732392152-cn
+Registrant Name ................. yaoming john
+Registrant Organization ......... The success of Xintiandi Shanghai Education Consulting Co., Ltd.
+Registrant Address .............. caobao road 1243 shanghai china
+Registrant City ................. shanghai
+Registrant Province/State ....... shanghai
+Registrant Postal Code .......... 200235
 Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.037169326217 -
-Registrant Fax .................. +86.037169326217 -
-Registrant Email ................ sjsousuo@126.com
-Administrative ID ............... hc638698651-cn
-Administrative Name ............. huailiang xu
-Administrative Organization ..... zhengzhoushangjizaixianjisuanjifuwuyouxiangongsi
-Administrative Address .......... zhengzhoushierqiquxidajie166hao1haolou1danyun1610
-Administrative City ............. zhengzhou
-Administrative Province/State ... henan
-Administrative Postal Code ...... 450002
+Registrant Phone Number ......... +86.02151707899 -
+Registrant Fax .................. +86.02151707899 -
+Registrant Email ................ 5921055@qq.com
+Administrative ID ............... hc175701258-cn
+Administrative Name ............. hichina
+Administrative Organization ..... hichina
+Administrative Address .......... hichina
+Administrative City ............. bj
+Administrative Province/State ... bj
+Administrative Postal Code ...... 100120
 Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.037169326217 -
-Administrative Fax .............. +86.037169326217 -
-Administrative Email ............ sjsousuo@126.com
-Billing ID ...................... hc638698651-cn
-Billing Name .................... huailiang xu
-Billing Organization ............ zhengzhoushangjizaixianjisuanjifuwuyouxiangongsi
-Billing Address ................. zhengzhoushierqiquxidajie166hao1haolou1danyun1610
-Billing City .................... zhengzhou
-Billing Province/State .......... henan
-Billing Postal Code ............. 450002
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.037169326217 -
-Billing Fax ..................... +86.037169326217 -
-Billing Email ................... sjsousuo@126.com
-Technical ID .................... hc638698651-cn
-Technical Name .................. huailiang xu
-Technical Organization .......... zhengzhoushangjizaixianjisuanjifuwuyouxiangongsi
-Technical Address ............... zhengzhoushierqiquxidajie166hao1haolou1danyun1610
-Technical City .................. zhengzhou
-Technical Province/State ........ henan
-Technical Postal Code ........... 450002
+Administrative Phone Number ..... +86.1064242266 -
+Administrative Fax .............. +86.1064242299 -
+Administrative Email ............ domainadm@hichina.com
+Technical ID .................... hc477885810-cn
+Technical Name .................. jufeng
+Technical Organization .......... changsha qiuhe wenhua chuangbo
+Technical Address ............... changsha
+Technical City .................. changsha
+Technical Province/State ........ hunan
+Technical Postal Code ........... 410000
 Technical Country Code .......... CN
-Technical Phone Number .......... +86.037169326217 -
-Technical Fax ................... +86.037169326217 -
-Technical Email ................. sjsousuo@126.com
+Technical Phone Number .......... +86.073185951646 -
+Technical Fax ................... +86.073185951646 -
+Technical Email ................. 574229209@qq.com
+Billing ID ...................... hc202645538-cn
+Billing Name .................... kevin
+Billing Organization ............ kevin
+Billing Address ................. jiangsushengsuzhoushiyuanquxieyuyuan15zhuang908shi
+Billing City .................... ganzhou
+Billing Province/State .......... jiangxi
+Billing Postal Code ............. 215000
+Billing Country Code ............ CN
+Billing Phone Number ............ +86.18702003199 -
+Billing Fax ..................... +86.18702003199 -
+Billing Email ................... admin@zmuban.com
 Expiration Date ................. 2012-05-10 06:07:28

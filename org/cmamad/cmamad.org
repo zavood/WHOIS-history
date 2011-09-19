@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D8665068-LROR
+Domain Name:CMAMAD.ORG
+Created On:31-Jul-1999 06:51:29 UTC
+Last Updated On:05-May-2011 14:11:10 UTC
+Expiration Date:31-Jul-2014 06:51:26 UTC
+Sponsoring Registrar:Brandon Gray Internet Services (R1322-LROR)
+Status:OK
+Registrant ID:bGNj#6aM0XRdDfgn
+Registrant Name:Mary Ella Finch
+Registrant Organization:Private Registration
+Registrant Street1:2316 Delaware Ave Suite #266
+Registrant Street2:null
+Registrant Street3:
+Registrant City:Buffalo
+Registrant State/Province:NY
+Registrant Postal Code:14216-2687
+Registrant Country:US
+Registrant Phone:+1.8664340212
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:privacy@droa.com
+Admin ID:bGNj#6aM0XRdDfgn
+Admin Name:Mary Ella Finch
+Admin Organization:Private Registration
+Admin Street1:2316 Delaware Ave Suite #266
+Admin Street2:null
+Admin Street3:
+Admin City:Buffalo
+Admin State/Province:NY
+Admin Postal Code:14216-2687
+Admin Country:US
+Admin Phone:+1.8664340212
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:privacy@droa.com
+Tech ID:bGNj#2ytv9prnTKS
+Tech Name:Ivy Panacopoulos
+Tech Organization:Private Registration
+Tech Street1:2316 Delaware Ave Suite #266
+Tech Street2:null
+Tech Street3:
+Tech City:Buffalo
+Tech State/Province:NY
+Tech Postal Code:14216-2687
+Tech Country:US
+Tech Phone:+1.8664340212
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:privacy@droa.com
+Name Server:NS1.ELEXIO.COM
+Name Server:NS2.ELEXIO.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,102 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ceservices.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ceservices.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CES34-FRNIC
+admin-c:     BT673-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL36738-FRNIC
+registrar:   GANDI
+anniversary: 02/09
+created:     07/06/2005
+last-update: 02/09/2011
+source:      FRNIC
+
+ns-list:     NSL36738-FRNIC
+nserver:     ns1.avencall.com
+nserver:     ns2.avencall.com
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     CES34-FRNIC
+type:        ORGANIZATION
+contact:     COMITE ENTREP SERVICES
+address:     21, place de la r&eacute;publique
+address:     75003 Paris
+country:     FR
+phone:       +33 1 42 77 41 43
+e-mail:      bersonceservice@wanadoo.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     BT673-FRNIC
+type:        PERSON
+contact:     Benoit Thinot
+address:     Pro-formatique SARL
+address:     67, rue Voltaire
+address:     92800 Puteaux
+country:     FR
+phone:       +33 1 41 38 99 60
+e-mail:      dns@proformatique.com
+changed:     07/07/2006 soraya@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
