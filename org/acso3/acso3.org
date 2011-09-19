@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D77350875-LROR
+Domain Name:ACSO3.ORG
+Created On:15-Sep-2001 13:43:58 UTC
+Last Updated On:27-Aug-2011 21:09:57 UTC
+Expiration Date:15-Sep-2012 13:43:58 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:91398218ff874068
+Registrant Name:Marc Meurrens
+Registrant Organization:CGSA scrl
+Registrant Street1:rue du drapeau , 47 / 1
+Registrant Street2:
+Registrant Street3:
+Registrant City:Brussels (Anderlecht)
+Registrant State/Province:
+Registrant Postal Code:B1070
+Registrant Country:BE
+Registrant Phone:+1.32475462812
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:Marc@meurrens.org
+Admin ID:C12332862-RCOM
+Admin Name:Marc Meurrens
+Admin Organization:CGSA scrl
+Admin Street1:place Leemans, 2 / 4
+Admin Street2:
+Admin Street3:
+Admin City:Brussels
+Admin State/Province:BE
+Admin Postal Code:B 1050
+Admin Country:BE
+Admin Phone:+32.25372812
+Admin Phone Ext.:
+Admin FAX:+32.25377645
+Admin FAX Ext.:
+Admin Email:Marc.Meurrens@ACM.org
+Tech ID:C1-RCOM
+Tech Name:Domain Registrar
+Tech Organization:Register.Com
+Tech Street1:575 8th Avenue
+Tech Street2:11th Floor
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027495429
+Tech FAX Ext.:
+Tech Email:domain-registrar@register.com
+Name Server:NS.CASSIOPEA.ORG
+Name Server:NS2.CASSIOPEA.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

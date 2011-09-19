@@ -1,0 +1,38 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: MUS1156D-NORID
+Domain Name................: musikkonline.no
+Domain Holder Handle.......: PA3544O-NORID
+Registrar Handle...........: REG885-NORID
+Legal-c Handle.............: EB3507P-NORID
+Tech-c Handle..............: FIDD4R-NORID
+Name Server Handle.........: PC15H-NORID
+Name Server Handle.........: PC21H-NORID
+Name Server Handle.........: RH10H-NORID
+Name Server Handle.........: RH6H-NORID
+
+Additional information:
+Created:         2002-04-17
+Last updated:    2011-04-19
+
+NORID Handle...............: PA3544O-NORID
+Type.......................: organization
+Name.......................: Phonofile A/S
+Id Type....................: organization_number
+Id Number..................: 980910857
+Registrar Handle...........: REG885-NORID
+Post Address...............: Kongens gate 4
+Postal Code................: NO-0153
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22420940
+Fax Number.................: +47.22427520
+Email Address..............: erik.brataas@phonofile.com
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

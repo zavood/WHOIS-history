@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 12-apr-2010
    Expiration Date: 12-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 07:50:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 10:27:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,55 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... syzfjs.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc554197678-cn
-Registrant Name ................. wei zhao
-Registrant Organization ......... shi yan ri bao she
-Registrant Address .............. hubei shiyan
-Registrant City ................. shiyanshi
-Registrant Province/State ....... hubei
-Registrant Postal Code .......... 442000
-Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.07198208110 -
-Registrant Fax .................. +86.07198208110 -
-Registrant Email ................ binghe3465@163.com
-Administrative ID ............... hc554197678-cn
-Administrative Name ............. wei zhao
-Administrative Organization ..... shi yan ri bao she
-Administrative Address .......... hubei shiyan
-Administrative City ............. shiyanshi
-Administrative Province/State ... hubei
-Administrative Postal Code ...... 442000
-Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.07198208110 -
-Administrative Fax .............. +86.07198208110 -
-Administrative Email ............ binghe3465@163.com
-Billing ID ...................... hichina001-cn
-Billing Name .................... hichina
-Billing Organization ............ HiChina Web Solutions Limited
-Billing Address ................. 3/F., HiChina Mansion
-                                  No.27 Gulouwai Avenue
-                                  Dongcheng District
-Billing City .................... Beijing
-Billing Province/State .......... Beijing
-Billing Postal Code ............. 100011
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.01064242299 -
-Billing Fax ..................... +86.01064258796 -
-Billing Email ................... domainadm@hichina.com
-Technical ID .................... hichina001-cn
-Technical Name .................. hichina
-Technical Organization .......... HiChina Web Solutions Limited
-Technical Address ............... 3/F., HiChina Mansion
-                                  No.27 Gulouwai Avenue
-                                  Dongcheng District
-Technical City .................. Beijing
-Technical Province/State ........ Beijing
-Technical Postal Code ........... 100011
-Technical Country Code .......... CN
-Technical Phone Number .......... +86.01064242299 -
-Technical Fax ................... +86.01064258796 -
-Technical Email ................. domainadm@hichina.com
-Expiration Date ................. 2012-04-13 01:24:44

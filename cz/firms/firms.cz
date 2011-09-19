@@ -1,0 +1,62 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 10:57:47 2011
+
+domain:       firms.cz
+registrant:   SB:WST-CZ
+admin-c:      WST-CZ
+nsset:        NSS:WST-CZ:1
+registrar:    REG-MEDIA4WEB
+status:       paid and in zone
+registered:   19.01.1998 01:00:00
+changed:      06.08.2007 14:26:00
+expire:       06.10.2012
+
+contact:      SB:WST-CZ
+org:          Westcom, s.r.o.
+name:         Westcom, s.r.o.
+address:      U vodarny 2
+address:      Brno
+address:      61600
+address:      CZ
+e-mail:       domeny@westcom.cz
+registrar:    REG-MEDIA4WEB
+created:      10.08.2001 22:13:00
+changed:      06.08.2007 13:35:00
+
+contact:      WST-CZ
+org:          V&Atilde;&shy;t Vrba
+name:         V&Atilde;&shy;t Vrba
+address:      Osikov&Atilde;&iexcl; 31
+address:      Brno
+address:      63700
+address:      CZ
+registrar:    REG-MEDIA4WEB
+created:      14.11.2003 22:50:00
+changed:      01.11.2010 20:19:12
+
+nsset:        NSS:WST-CZ:1
+nserver:      king.firms.cz (217.11.242.184)
+nserver:      sns.nethost.cz
+tech-c:       SB:WST-CZ
+tech-c:       WST-CZ
+registrar:    REG-MEDIA4WEB
+created:      01.10.2007 02:00:00
+
+

@@ -1,0 +1,52 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-19 06:20:21 (BRT -03:00)
+
+domain:      pocos-net.com.br
+owner:       GRAFIX SISTEMAS DE TELECOMUNICACOES S/C LTDA
+ownerid:     000.365.535/0001-66
+responsible: Fl&aacute;vio Marcon
+country:     BR
+owner-c:     TEV4
+admin-c:     REM6
+tech-c:      REM6
+billing-c:   TEV4
+nserver:     server01.pocos-net.com.br 200.165.57.7
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     server02.pocos-net.com.br 200.165.57.8
+nsstat:      20110917 AA
+nslastaa:    20110917
+nserver:     server03.pocos-net.com.br 200.165.57.35
+nsstat:      20110917 AA
+nslastaa:    20110917
+created:     19960617 #9712
+expires:     20120617
+changed:     20110603
+status:      published
+
+nic-hdl-br:  REM6
+person:      Renato E. Miguel
+e-mail:      dominios@pocos-net.com.br
+created:     19980202
+changed:     20110711
+
+nic-hdl-br:  TEV4
+person:      Grafix Sist. Telec. Ltda.
+e-mail:      dir@pocos-net.com.br
+created:     20000203
+changed:     20011212
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

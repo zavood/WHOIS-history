@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D156330021-LROR
+Domain Name:SECICOMP.ORG
+Created On:09-Jun-2009 04:16:19 UTC
+Last Updated On:11-Mar-2011 10:03:09 UTC
+Expiration Date:09-Jun-2012 04:16:19 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR52829665
+Registrant Name:muchammad nasiruddin
+Registrant Street1:Kalibutuh Timur 3 no 34
+Registrant Street2:Penjaringan Asri V no 22
+Registrant Street3:
+Registrant City:Surabaya
+Registrant State/Province:east java
+Registrant Postal Code:60173
+Registrant Country:ID
+Registrant Phone:+62.03177099334
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:nasiruddin43@yahoo.com
+Admin ID:CR52829667
+Admin Name:muchammad nasiruddin
+Admin Street1:Kalibutuh Timur 3 no 34
+Admin Street2:Penjaringan Asri V no 22
+Admin Street3:
+Admin City:Surabaya
+Admin State/Province:east java
+Admin Postal Code:60173
+Admin Country:ID
+Admin Phone:+62.03177099334
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:nasiruddin43@yahoo.com
+Tech ID:CR52829666
+Tech Name:muchammad nasiruddin
+Tech Street1:Kalibutuh Timur 3 no 34
+Tech Street2:Penjaringan Asri V no 22
+Tech Street3:
+Tech City:Surabaya
+Tech State/Province:east java
+Tech Postal Code:60173
+Tech Country:ID
+Tech Phone:+62.03177099334
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:nasiruddin43@yahoo.com
+Name Server:NS2315.HOSTGATOR.COM
+Name Server:NS2316.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

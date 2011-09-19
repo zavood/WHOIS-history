@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 29-may-2003
    Expiration Date: 29-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 20:57:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 10:10:45 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -80,8 +80,8 @@ country:      GB
 phone:        +44.169830
 
 source:       joker.com live whois service
-query-time:   0.008529
-db-updated:   2011-09-17 20:58:31
+query-time:   0.0258
+db-updated:   2011-09-19 10:11:27
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

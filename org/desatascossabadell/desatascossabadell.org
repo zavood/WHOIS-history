@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D160337199-LROR
+Domain Name:DESATASCOSSABADELL.ORG
+Created On:06-Oct-2010 15:51:09 UTC
+Last Updated On:21-Feb-2011 23:19:57 UTC
+Expiration Date:06-Oct-2011 15:51:09 UTC
+Sponsoring Registrar:Arsys Internet, S.L. dba nicline.com (R144-LROR)
+Status:OK
+Registrant ID:ARS1298330400281
+Registrant Name:TRANS-MARTEL S.A.
+Registrant Organization:TRANS-MARTEL S.A.
+Registrant Street1:Carrer del Mig, 45 - Pol.Ind. Pla den Coll
+Registrant Street2:
+Registrant Street3:
+Registrant City:MONTCADA
+Registrant State/Province:I
+Registrant Postal Code:08110
+Registrant Country:ES
+Registrant Phone:+34.935807392
+Registrant Phone Ext.:
+Registrant FAX:+34.935806229
+Registrant FAX Ext.:
+Registrant Email:trans-martel@trans-martel.com
+Admin ID:ARS1298330400726
+Admin Name:SERVISOFT.CAT  SL
+Admin Organization:SERVISOFT.CAT, SL
+Admin Street1:MIQUEL COLL I ALENTORN, 23 LOCAL 2
+Admin Street2:
+Admin Street3:
+Admin City:OLESA
+Admin State/Province:DE
+Admin Postal Code:08640
+Admin Country:ES
+Admin Phone:+34.935807392
+Admin Phone Ext.:
+Admin FAX:+34.937785766
+Admin FAX Ext.:
+Admin Email:bustia@servisoft.cat
+Tech ID:ARS1298330401538
+Tech Name:Adolfo  Molt Herruzo
+Tech Organization:BUSINET SCP
+Tech Street1:Jose Perez Fuster n20 5B
+Tech Street2:
+Tech Street3:
+Tech City:Valencia
+Tech State/Province:Valencia
+Tech Postal Code:46007
+Tech Country:ES
+Tech Phone:+34.902887879
+Tech Phone Ext.:
+Tech FAX:+34.963170905
+Tech FAX Ext.:
+Tech Email:dominios@businet.net
+Name Server:DNS1.BUSINET-ISP.COM
+Name Server:DNS2.BUSINET-ISP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

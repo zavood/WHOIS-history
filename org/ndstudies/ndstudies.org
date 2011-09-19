@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D147920335-LROR
+Domain Name:NDSTUDIES.ORG
+Created On:31-May-2007 22:41:11 UTC
+Last Updated On:21-Jan-2011 19:03:55 UTC
+Expiration Date:31-May-2012 22:41:11 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33390434
+Registrant Name:John Struchynski
+Registrant Organization:North Dakota Center for Distance Education
+Registrant Street1:1510 12th Ave N
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fargo
+Registrant State/Province:North Dakota
+Registrant Postal Code:58102
+Registrant Country:US
+Registrant Phone:+1.7012316000
+Registrant Phone Ext.:
+Registrant FAX:+1.7012316052
+Registrant FAX Ext.:
+Registrant Email:john.struchynski@sendit.nodak.edu
+Admin ID:CR33390436
+Admin Name:John Struchynski
+Admin Organization:North Dakota Center for Distance Education
+Admin Street1:1510 12th Ave N
+Admin Street2:
+Admin Street3:
+Admin City:Fargo
+Admin State/Province:North Dakota
+Admin Postal Code:58102
+Admin Country:US
+Admin Phone:+1.7012316000
+Admin Phone Ext.:
+Admin FAX:+1.7012316052
+Admin FAX Ext.:
+Admin Email:john.struchynski@sendit.nodak.edu
+Tech ID:CR33390435
+Tech Name:Bud McMullen
+Tech Organization:Prairie Public Broadcasting
+Tech Street1:207 North 5th Street
+Tech Street2:PO Box 3240
+Tech Street3:
+Tech City:Fargo
+Tech State/Province:North Dakota
+Tech Postal Code:58108-3240
+Tech Country:US
+Tech Phone:+1.9999999999
+Tech Phone Ext.:
+Tech FAX:+1.9999999999
+Tech FAX Ext.:
+Tech Email:bmcmullen@prairiepublic.org
+Name Server:NS1.NODAK.EDU
+Name Server:NS1.PRAIRIEPUBLIC.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

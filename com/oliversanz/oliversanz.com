@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 01-sep-2003
    Expiration Date: 01-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 02:55:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 10:09:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -87,5 +87,5 @@ The Registry database contains ONLY .COM, .NET and .ORG domains.
      Secondary Name Server Hostname: DNS2.NOMINALIA.COM
 
 
-&gt;&gt;&gt; Last update of whois database: Thu Sep 15 04:10:52 2011 &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon Sep 19 10:03:15 2011 &lt;&lt;&lt;
 

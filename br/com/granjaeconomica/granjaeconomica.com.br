@@ -1,0 +1,49 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-19 06:22:40 (BRT -03:00)
+
+domain:      granjaeconomica.com.br
+owner:       Granja Economica Avicola Ltda
+ownerid:     076.111.335/0001-49
+responsible: Pedro Cornelio Meijer
+country:     BR
+owner-c:     PCM191
+admin-c:     PCM191
+tech-c:      PARCR5
+billing-c:   PARCR5
+nserver:     gw.granjaeconomica.com.br 201.89.60.250
+nsstat:      20110918 AA
+nslastaa:    20110918
+nserver:     dns2.granjaeconomica.com.br 201.89.60.251
+nsstat:      20110918 AA
+nslastaa:    20110918
+created:     20020419 #783522
+expires:     20130419
+changed:     20100427
+status:      published
+
+nic-hdl-br:  PARCR5
+person:      Paulo Ricardo Crimin&aacute;cio
+e-mail:      pcriminacio@granjaeconomica.com.br
+created:     20090121
+changed:     20090121
+
+nic-hdl-br:  PCM191
+person:      Pedro Cornelio Meijer
+e-mail:      pedro@yuppi.com.br
+created:     20030714
+changed:     20080526
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

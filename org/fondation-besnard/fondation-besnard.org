@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101434599-LROR
+Domain Name:FONDATION-BESNARD.ORG
+Created On:08-Sep-2003 19:21:52 UTC
+Last Updated On:10-Jul-2008 18:07:50 UTC
+Expiration Date:08-Sep-2013 19:21:52 UTC
+Sponsoring Registrar:Gandi SAS (R42-LROR)
+Status:OK
+Registrant ID:0-773915-Gandi
+Registrant Name:Franck Mintz
+Registrant Organization:Franck Mintz
+Registrant Street1:33, Rue des Vignoles
+Registrant Street2:
+Registrant Street3:
+Registrant City:Paris
+Registrant State/Province:
+Registrant Postal Code:75020
+Registrant Country:FR
+Registrant Phone:+33.143720954
+Registrant Phone Ext.:
+Registrant FAX:+33.143720954
+Registrant FAX Ext.:
+Registrant Email:1c4e6ad13c3138f156c3ba53a2497f7e-fm835@contact.gandi.net
+Admin ID:FM835-GANDI
+Admin Name:Franck Mintz
+Admin Street1:33, Rue des Vignoles
+Admin Street2:
+Admin Street3:
+Admin City:Paris
+Admin State/Province:
+Admin Postal Code:75020
+Admin Country:FR
+Admin Phone:+33.143720954
+Admin Phone Ext.:
+Admin FAX:+33.143720954
+Admin FAX Ext.:
+Admin Email:1c4e6ad13c3138f156c3ba53a2497f7e-fm835@contact.gandi.net
+Tech ID:AR41-GANDI
+Tech Name:CONTACT NOT AUTHORITATIVE see http://www.gandi.net/whois
+Tech Organization:GANDI SARL
+Tech Street1:15 place de la Nation
+Tech Street2:
+Tech Street3:
+Tech City:Paris
+Tech State/Province:
+Tech Postal Code:75011
+Tech Country:FR
+Tech Phone:+33.1
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@support.gandi.net
+Name Server:C.DNS.GANDI.NET
+Name Server:B.DNS.GANDI.NET
+Name Server:A.DNS.GANDI.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

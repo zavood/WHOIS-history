@@ -1,0 +1,111 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; univ-orleans.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      univ-orleans.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    UDO7-FRNIC
+admin-c:     LG1921-FRNIC
+tech-c:      PM770-FRNIC
+tech-c:      EL204-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5874-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 11/03/2009
+source:      FRNIC
+
+ns-list:     NSL5874-FRNIC
+nserver:     arcturus.ciril.fr [193.50.27.66]
+nserver:     dns.univ-orleans.fr [194.167.30.130]
+nserver:     dns2.univ-orleans.fr [194.167.31.3]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     UDO7-FRNIC
+type:        ORGANIZATION
+contact:     Universite d'Orleans
+address:     avenue du parc Floral
+address:     45067 Orl&eacute;ans
+country:     FR
+phone:       +33 2 38 41 71 30
+e-mail:      secretariat.cri@univ-orleans.fr
+changed:     02/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     PM770-FRNIC
+type:        PERSON
+contact:     Patrick Montagne
+address:     CITU, Universite d'Orleans
+address:     B.P. 6102
+address:     45061 Orl&eacute;ans Cedex 2
+country:     FR
+phone:       +33 2 38 41 71 30
+fax-no:      +33 2 38 41 73 53
+e-mail:      gestion.dns@univ-orleans.fr
+notify:      gestion.dns@univ-orleans.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LG1921-FRNIC
+type:        PERSON
+contact:     Laurent Gougis
+address:     Univ. d'Orl&eacute;ans
+address:     avenue du parc Floral
+address:     45067 Orl&eacute;ans Cedex
+country:     FR
+phone:       +33 2 38 41 71 30
+e-mail:      laurent.gougis@univ-orleans.fr
+changed:     12/10/2007 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     EL204-FRNIC
+type:        PERSON
+contact:     Emmanuel Lethrosne
+address:     CITU, Universite d'Orleans
+address:     B.P. 6102
+address:     45061 Orl&eacute;ans Cedex 2
+country:     FR
+phone:       +33 2 38 41 71 30
+fax-no:      +33 2 38 41 73 53
+e-mail:      gestion.dns@univ-orleans.fr
+notify:      gestion.dns@univ-orleans.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

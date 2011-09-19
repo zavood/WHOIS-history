@@ -1,0 +1,46 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use (http://registro.br/termo/en.html),
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2011-09-19 06:13:11 (BRT -03:00)
+
+domain:      internext.com.br
+owner:       INTERNEXT - REDE DIGITAL AMAZONICA LTDA
+ownerid:     000.957.830/0001-01
+responsible: Gedeon J. dos Santos Filho
+country:     BR
+owner-c:     INL3
+admin-c:     INL3
+tech-c:      INL3
+billing-c:   INL3
+nserver:     dns1.internext.com.br 200.241.116.121
+nsstat:      20110919 AA
+nslastaa:    20110919
+nserver:     dns2.internext.com.br 200.241.116.3
+nsstat:      20110919 AA
+nslastaa:    20110919
+nserver:     dns3.internext.com.br 200.222.52.5
+nsstat:      20110919 AA
+nslastaa:    20110919
+created:     19951211 #4783
+expires:     20111211
+changed:     20071217
+status:      published
+
+nic-hdl-br:  INL3
+person:      INTERNExT Ltda.
+e-mail:      gedeon@internext.com.br
+created:     19980106
+changed:     20070115
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), ticket, provider, ID, CIDR
+% block, IP and ASN.
+

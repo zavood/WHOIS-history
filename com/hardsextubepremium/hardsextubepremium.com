@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 15-apr-2009
    Expiration Date: 15-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 02:15:25 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 10:02:11 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -66,7 +66,7 @@ commercial advertising or solicitations via e-mail (spam); or
 
 By submitting this query, you agree to abide by the above policy.
 
-Whois History: 43 records have been archived since 2009-04-16
+Whois History: 46 records have been archived since 2009-04-16
 http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=hardsextubepremium.com
 
 Domain: hardsextubepremium.com

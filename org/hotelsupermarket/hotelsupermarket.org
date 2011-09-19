@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D31475231-LROR
+Domain Name:HOTELSUPERMARKET.ORG
+Created On:17-Jul-2000 14:29:49 UTC
+Last Updated On:18-Jul-2011 01:24:53 UTC
+Expiration Date:17-Jul-2012 14:29:49 UTC
+Sponsoring Registrar:TierraNet Inc. dba DomainDiscover (R86-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:TNTN-0000217418
+Registrant Name:Rudi Seiberlich
+Registrant Organization:Rudi Seiberlich
+Registrant Street1:Via Costa 9 Acquetico
+Registrant Street2:
+Registrant Street3:
+Registrant City:Pieve di Teco
+Registrant State/Province:IM
+Registrant Postal Code:18026
+Registrant Country:IT
+Registrant Phone:+1.39018336023
+Registrant Phone Ext.:
+Registrant FAX:+1.390183368714
+Registrant FAX Ext.:
+Registrant Email:rs@SKYTOURS.DE
+Admin ID:TNTN-0001050386
+Admin Name:Rudi Seiberlich
+Admin Organization:Skytours GmbH
+Admin Street1:Solar Tower
+Admin Street2:Bismarckallee 9
+Admin Street3:
+Admin City:Freiburg
+Admin State/Province:Baden Wurttemberg
+Admin Postal Code:79098
+Admin Country:DE
+Admin Phone:+49.761459460
+Admin Phone Ext.:
+Admin FAX:+49.7614593636
+Admin FAX Ext.:
+Admin Email:rs@SKYTOURS.DE
+Tech ID:TNTN-0000217418
+Tech Name:Rudi Seiberlich
+Tech Organization:Rudi Seiberlich
+Tech Street1:Via Costa 9 Acquetico
+Tech Street2:
+Tech Street3:
+Tech City:Pieve di Teco
+Tech State/Province:IM
+Tech Postal Code:18026
+Tech Country:IT
+Tech Phone:+1.39018336023
+Tech Phone Ext.:
+Tech FAX:+1.390183368714
+Tech FAX Ext.:
+Tech Email:rs@SKYTOURS.DE
+Name Server:NS00.NS0.COM
+Name Server:NS99.PAIR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

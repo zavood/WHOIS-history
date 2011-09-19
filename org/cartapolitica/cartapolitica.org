@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105993272-LROR
+Domain Name:CARTAPOLITICA.ORG
+Created On:31-Mar-2005 17:11:31 UTC
+Last Updated On:24-Feb-2009 14:38:28 UTC
+Expiration Date:31-Mar-2012 17:11:31 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:5395434632c8d975
+Registrant Name:Hugo Martini
+Registrant Organization:Hugo Martini
+Registrant Street1:Rivadavia 1829
+Registrant Street2:
+Registrant Street3:
+Registrant City:Buenos Aires
+Registrant State/Province:
+Registrant Postal Code:1025
+Registrant Country:AR
+Registrant Phone:+1.63107443
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hmartini@diputados.gov.ar
+Admin ID:C43813115-RCOM
+Admin Name:Hugo Martini
+Admin Organization:Hugo Martini
+Admin Street1:Rivadavia 1829
+Admin Street2:
+Admin Street3:
+Admin City:Buenos Aires
+Admin State/Province:
+Admin Postal Code:1025
+Admin Country:AR
+Admin Phone:+4.63107443
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hugomartini@nuevamayoria.com
+Tech ID:C1-RCOM
+Tech Name:Domain Registrar
+Tech Organization:Register.Com
+Tech Street1:575 8th Avenue
+Tech Street2:11th Floor
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027495429
+Tech FAX Ext.:
+Tech Email:domain-registrar@register.com
+Name Server:NS1.GODNS.NET
+Name Server:NS2.GODNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

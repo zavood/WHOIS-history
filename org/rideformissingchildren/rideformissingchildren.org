@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D112120695-LROR
+Domain Name:RIDEFORMISSINGCHILDREN.ORG
+Created On:18-Jan-2006 20:41:40 UTC
+Last Updated On:09-Dec-2009 21:10:11 UTC
+Expiration Date:18-Jan-2015 20:41:40 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:1489C631F185C881
+Registrant Name:Sally Kittredge
+Registrant Organization:National Center for Missing - Exploited Children
+Registrant Street1:275 Lake Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Rochester
+Registrant State/Province:NY
+Registrant Postal Code:14608
+Registrant Country:US
+Registrant Phone:+1.5852420900
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:skittredge@ncmec.org
+Admin ID:F6ED9D77B10131AB
+Admin Name:Sally Kittredge
+Admin Organization:Nation Center for Missing - Exploited Children
+Admin Street1:275 Lake Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Rochester
+Admin State/Province:NY
+Admin Postal Code:14608
+Admin Country:US
+Admin Phone:+1.5852420900
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:skittredge@ncmec.org
+Tech ID:D7DE6D0660A10A4D
+Tech Name:Network Administration
+Tech Organization:LogicalSolutions.net, Inc.
+Tech Street1:3490 Winton Place
+Tech Street2:
+Tech Street3:
+Tech City:Rochester
+Tech State/Province:NY
+Tech Postal Code:14623
+Tech Country:US
+Tech Phone:+1.5852449930
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dnsadmin@LogicalSolutions.net
+Name Server:NS1.LSWEB.COM
+Name Server:NS2.LSWEB.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

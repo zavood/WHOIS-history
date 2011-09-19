@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 21-jun-2000
    Expiration Date: 21-jun-2014
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 09:13:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 09:52:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,32 +84,35 @@ Domain servers in listed order:
 	 ns.kingsoft.com 	 dns.kingsoft.net
 
 Administrator:
-	 Kingsoft Tower, No.33 Xiaoying-West Road, Haidian, Beijing
-	 Beijing
-Beijing,
-CN
- 100085
+	 name: Zhangzilong
+ mail: ksdomain@kingsoft.com tel: +86.1082334488
+	 org: Beijing Kingsoft DEG.
 
-	 name:(Zhangzilong)
-mail:(ksdomain@kingsoft.com) +86.1082334488
-	 Beijing Kingsoft DEG.
+address: Kingsoft Tower, No.33 Xiaoying-West Road, Haidian, Beijing
+	 city: Beijing
+,province: Beijing
+,country: CN
+ postcode: 100085
+
 Technical Contactor:
-	 Kingsoft Tower, No.33 Xiaoying-West Road, Haidian, Beijing
-	 Beijing
-Beijing,
-CN
- 100085
+	 name: Zhangzilong
+ mail: ksdomain@kingsoft.com tel: +86.1082334488
+	 org: Beijing Kingsoft DEG.
 
-	 name:(Zhangzilong)
-mail:(ksdomain@kingsoft.com) +86.1082334488
-	 Beijing Kingsoft DEG.
+address: Kingsoft Tower, No.33 Xiaoying-West Road, Haidian, Beijing
+	 city: Beijing
+,province: Beijing
+,country: CN
+ postcode: 100085
+
 Billing Contactor:
-	 Kingsoft Tower, No.33 Xiaoying-West Road, Haidian, Beijing
-	 Beijing
-Beijing,
-CN
- 100085
+	 name: Zhangzilong
+ mail: ksdomain@kingsoft.com tel: +86.1082334488
+	 org: Beijing Kingsoft DEG.
 
-	 name:(Zhangzilong)
-mail:(ksdomain@kingsoft.com) +86.1082334488
-	 Beijing Kingsoft DEG.
+address: Kingsoft Tower, No.33 Xiaoying-West Road, Haidian, Beijing
+	 city: Beijing
+,province: Beijing
+,country: CN
+ postcode: 100085
+

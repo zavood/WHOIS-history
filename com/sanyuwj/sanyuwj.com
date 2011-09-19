@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 06-may-2010
    Expiration Date: 06-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 07:19:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 09:52:04 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... sanyuwj.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc120919629-cn
-Registrant Name ................. LI WEIQUN
-Registrant Organization ......... LIN WEIQUN
-Registrant Address .............. Xuefeng West Road, No. 252, 3rd Floor
-Registrant City ................. YI WU
-Registrant Province/State ....... ZHE
-Registrant Postal Code .......... 322000
-Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.57985314141 - 0
-Registrant Fax .................. +86.57985115535 - 0
-Registrant Email ................ 86zhjz@163.com
-Administrative ID ............... hc120919629-cn
-Administrative Name ............. LI WEIQUN
-Administrative Organization ..... LIN WEIQUN
-Administrative Address .......... Xuefeng West Road, No. 252, 3rd Floor
-Administrative City ............. YI WU
-Administrative Province/State ... ZHE
-Administrative Postal Code ...... 322000
-Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.57985314141 - 0
-Administrative Fax .............. +86.57985115535 - 0
-Administrative Email ............ 86zhjz@163.com
-Billing ID ...................... hc120919629-cn
-Billing Name .................... LI WEIQUN
-Billing Organization ............ LIN WEIQUN
-Billing Address ................. Xuefeng West Road, No. 252, 3rd Floor
-Billing City .................... YI WU
-Billing Province/State .......... ZHE
-Billing Postal Code ............. 322000
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.57985314141 - 0
-Billing Fax ..................... +86.57985115535 - 0
-Billing Email ................... 86zhjz@163.com
-Technical ID .................... hc120919629-cn
-Technical Name .................. LI WEIQUN
-Technical Organization .......... LIN WEIQUN
-Technical Address ............... Xuefeng West Road, No. 252, 3rd Floor
-Technical City .................. YI WU
-Technical Province/State ........ ZHE
-Technical Postal Code ........... 322000
-Technical Country Code .......... CN
-Technical Phone Number .......... +86.57985314141 - 0
-Technical Fax ................... +86.57985115535 - 0
-Technical Email ................. 86zhjz@163.com
-Expiration Date ................. 2012-05-06 05:22:52

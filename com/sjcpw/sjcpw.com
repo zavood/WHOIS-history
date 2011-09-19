@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 17-may-2010
    Expiration Date: 17-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 07:29:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 10:03:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... sjcpw.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc102082240-cn
-Registrant Name ................. Jiajun Cai
-Registrant Organization ......... Cai Jiajun
-Registrant Address .............. shenzhen City
-Registrant City ................. shenzhen
-Registrant Province/State ....... Guangdong
-Registrant Postal Code .......... 510000
-Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.075538469950 -
-Registrant Fax .................. +86.075538469950 -
-Registrant Email ................ 7948691@qq.com
-Administrative ID ............... hc633477403-cn
-Administrative Name ............. zhibin xu
-Administrative Organization ..... Cai Jiajun
-Administrative Address .......... shenzhen City
-Administrative City ............. shenzhen
-Administrative Province/State ... Guangdong
-Administrative Postal Code ...... 510000
-Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.075538469950 -
-Administrative Fax .............. +86.075538469950 -
-Administrative Email ............ 7948691@qq.com
-Technical ID .................... hc670440740-cn
-Technical Name .................. zhibin xu
-Technical Organization .......... Cai Jiajun
-Technical Address ............... shenzhen City
-Technical City .................. shenzhen
-Technical Province/State ........ Guangdong
-Technical Postal Code ........... 510000
-Technical Country Code .......... CN
-Technical Phone Number .......... +86.075538469950 -
-Technical Fax ................... +86.075538469950 -
-Technical Email ................. 7948691@qq.com
-Billing ID ...................... hc849507603-cn
-Billing Name .................... zhibin xu
-Billing Organization ............ Cai Jiajun
-Billing Address ................. shenzhen City
-Billing City .................... shenzhen
-Billing Province/State .......... Guangdong
-Billing Postal Code ............. 510000
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.075538469950 -
-Billing Fax ..................... +86.075538469950 -
-Billing Email ................... 7948691@qq.com
-Expiration Date ................. 2012-05-17 07:21:48

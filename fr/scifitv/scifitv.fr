@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; scifitv.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      scifitv.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    USCF4-FRNIC
+admin-c:     FR783-FRNIC
+tech-c:      NAC7-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL614-FRNIC
+registrar:   AXINET COMMUNICATION
+anniversary: 21/04
+created:     21/04/2005
+last-update: 09/08/2005
+source:      FRNIC
+
+ns-list:     NSL614-FRNIC
+nserver:     ns.easynet.fr [195.114.64.193]
+nserver:     ns0.easynet.co.uk
+source:      FRNIC
+
+registrar:   AXINET COMMUNICATION
+type:        Isp Option 1
+address:     34 Avenue de l'Europe
+address:     Immeuble Le Trident - B&acirc;timent A
+address:     GRENOBLE
+country:     FR
+phone:       0811 88 15 15
+fax-no:      +33 4 56 38 15 16
+e-mail:      info@axinet.com
+website:     http://www.axinet.fr
+anonymous:   NO
+registered:  01/04/1999
+source:      FRNIC
+
+nic-hdl:     NAC7-FRNIC
+type:        ROLE
+contact:     NOC Axinet Communication
+address:     AXINET COMMUNICATION
+address:     34, avenue de l'Europe
+address:     immeuble le Trident
+address:     38100 Grenoble
+country:     FR
+phone:       +33 4 56 38 15 15
+e-mail:      supportfr@axinet.com
+trouble:     www.axinet.com
+admin-c:     MB4675-FRNIC
+tech-c:      LC185-FRNIC
+notify:      supportfr@axinet.com
+changed:     10/10/2008 supportfr@axinet.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     FR783-FRNIC
+type:        PERSON
+contact:     Francois Roux
+address:     UNIVERSAL STUDIOS CHANNELS FRANCE SAS
+address:     47, quai Carnot
+address:     92210 Saint-Cloud
+country:     FR
+phone:       +33 1 55 57 35 74
+e-mail:      juridique@nbcuni.com
+changed:     21/04/2005 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     USCF4-FRNIC
+type:        ORGANIZATION
+contact:     UNIVERSAL STUDIOS CHANNELS FRANCE SAS
+address:     47, quai Carnot
+address:     92210 Saint-Cloud
+country:     FR
+phone:       +33 1 55 57 35 74
+e-mail:      juridique@nbcuni.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

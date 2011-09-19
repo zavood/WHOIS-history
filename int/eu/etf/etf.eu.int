@@ -1,0 +1,40 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EU.INT
+
+organisation: European Union
+address:      European Commission
+address:      Brussels  1049
+address:      Belgium
+
+contact:      administrative
+name:         Miguel Gonzalez-Gonzalez
+address:      European Commission
+address:      Brussels  1049
+address:      Belgium
+phone:        +32 2 29 52807
+fax-no:       +32 2 29 90580
+e-mail:       miguel.gonzalez-gonzalez@ec.europa.eu
+
+contact:      technical
+name:         Blandine LERCH
+organisation: European Commission
+address:      Batiment Jean Monnet
+address:      Office JMO C2/69
+address:      L-2920 Luxemburg
+address:      Luxemburg
+phone:        +352 4301 34365
+fax-no:       +352 4301 34422
+e-mail:       blandine.lerch@ec.europa.eu
+
+nserver:      AUTH00.NS.BE.UU.NET 194.7.1.19
+nserver:      NS1LUX.EUROPA.EU 158.169.9.11
+nserver:      TCBRU22.CEC.EU.INT 158.169.131.22
+nserver:      TCLUX1.CEC.EU.INT 158.169.9.11
+
+created:      1997-01-14
+changed:      2007-05-07
+source:       IANA
+

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149141612-LROR
+Domain Name:CANCERINSTITUTEFOUNDATION.ORG
+Created On:15-Sep-2007 22:44:52 UTC
+Last Updated On:13-Sep-2011 19:30:53 UTC
+Expiration Date:15-Sep-2012 22:44:52 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33868125
+Registrant Name:Registration Private
+Registrant Organization:Domains by Proxy, Inc.
+Registrant Street1:DomainsByProxy.com
+Registrant Street2:15111 N. Hayden Rd., Ste 160, PMB 353
+Registrant Street3:
+Registrant City:Scottsdale
+Registrant State/Province:Arizona
+Registrant Postal Code:85260
+Registrant Country:US
+Registrant Phone:+1.4806242599
+Registrant Phone Ext.:
+Registrant FAX:+1.4806242598
+Registrant FAX Ext.:
+Registrant Email:CANCERINSTITUTEFOUNDATION.ORG@domainsbyproxy.com
+Admin ID:CR33868127
+Admin Name:Registration Private
+Admin Organization:Domains by Proxy, Inc.
+Admin Street1:DomainsByProxy.com
+Admin Street2:15111 N. Hayden Rd., Ste 160, PMB 353
+Admin Street3:
+Admin City:Scottsdale
+Admin State/Province:Arizona
+Admin Postal Code:85260
+Admin Country:US
+Admin Phone:+1.4806242599
+Admin Phone Ext.:
+Admin FAX:+1.4806242598
+Admin FAX Ext.:
+Admin Email:CANCERINSTITUTEFOUNDATION.ORG@domainsbyproxy.com
+Tech ID:CR33868126
+Tech Name:Registration Private
+Tech Organization:Domains by Proxy, Inc.
+Tech Street1:DomainsByProxy.com
+Tech Street2:15111 N. Hayden Rd., Ste 160, PMB 353
+Tech Street3:
+Tech City:Scottsdale
+Tech State/Province:Arizona
+Tech Postal Code:85260
+Tech Country:US
+Tech Phone:+1.4806242599
+Tech Phone Ext.:
+Tech FAX:+1.4806242598
+Tech FAX Ext.:
+Tech Email:CANCERINSTITUTEFOUNDATION.ORG@domainsbyproxy.com
+Name Server:NS49.DOMAINCONTROL.COM
+Name Server:NS50.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

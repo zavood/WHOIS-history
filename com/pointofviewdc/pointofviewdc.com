@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 07-sep-2010
    Expiration Date: 07-sep-2016
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 00:49:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 10:18:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: pointofviewdc.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Thu Sep 15 20:39:35 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Mon Sep 19 06:13:46 EDT 2011
 Reason Code: IE

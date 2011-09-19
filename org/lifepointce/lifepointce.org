@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154909228-LROR
+Domain Name:LIFEPOINTCE.ORG
+Created On:15-Dec-2008 21:58:41 UTC
+Last Updated On:11-Oct-2010 16:56:08 UTC
+Expiration Date:15-Dec-2011 21:58:41 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37653146
+Registrant Name:Dale Toney
+Registrant Organization:LifePoint Charitable Endowment
+Registrant Street1:18 Augusta Pines Dr
+Registrant Street2:Suite 200E
+Registrant Street3:
+Registrant City:Spring
+Registrant State/Province:Texas
+Registrant Postal Code:77389
+Registrant Country:US
+Registrant Phone:+1.2812909002
+Registrant Phone Ext.:
+Registrant FAX:+1.2812909001
+Registrant FAX Ext.:
+Registrant Email:daletoney@me.com
+Admin ID:CR37653148
+Admin Name:Dale Toney
+Admin Organization:LifePoint Charitable Endowment
+Admin Street1:18 Augusta Pines Dr
+Admin Street2:Suite 200E
+Admin Street3:
+Admin City:Spring
+Admin State/Province:Texas
+Admin Postal Code:77389
+Admin Country:US
+Admin Phone:+1.2812909002
+Admin Phone Ext.:
+Admin FAX:+1.2812909001
+Admin FAX Ext.:
+Admin Email:daletoney@me.com
+Tech ID:CR37653147
+Tech Name:Dale Toney
+Tech Organization:LifePoint Charitable Endowment
+Tech Street1:18 Augusta Pines Dr
+Tech Street2:Suite 200E
+Tech Street3:
+Tech City:Spring
+Tech State/Province:Texas
+Tech Postal Code:77389
+Tech Country:US
+Tech Phone:+1.2812909002
+Tech Phone Ext.:
+Tech FAX:+1.2812909001
+Tech FAX Ext.:
+Tech Email:daletoney@me.com
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

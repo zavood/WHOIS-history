@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155592734-LROR
+Domain Name:COMPUTINGBOOK.ORG
+Created On:12-Mar-2009 01:55:46 UTC
+Last Updated On:11-May-2009 03:57:50 UTC
+Expiration Date:12-Mar-2019 01:55:46 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:7711915647134688
+Registrant Name:David Evans
+Registrant Organization:David Evans
+Registrant Street1:1629 Appian Way
+Registrant Street2:
+Registrant Street3:
+Registrant City:Charlottesville
+Registrant State/Province:VA
+Registrant Postal Code:22911
+Registrant Country:US
+Registrant Phone:+1.8049822218
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:evans@cs.virginia.edu
+Admin ID:6312965646fe8733
+Admin Name:David Evans
+Admin Organization:David Evans
+Admin Street1:1629 Appian Way
+Admin Street2:
+Admin Street3:
+Admin City:Charlottesville
+Admin State/Province:VA
+Admin Postal Code:22911
+Admin Country:US
+Admin Phone:+1.8049822218
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:evans@cs.virginia.edu
+Tech ID:36600176471c5389
+Tech Name:Domain Registrar
+Tech Organization:Registercom
+Tech Street1:575 8th Avenue
+Tech Street2:
+Tech Street3:
+Tech City:New York
+Tech State/Province:NY
+Tech Postal Code:10018
+Tech Country:US
+Tech Phone:+1.9027492701
+Tech Phone Ext.:
+Tech FAX:+1.9027492701
+Tech FAX Ext.:
+Tech Email:domainregistrar@register.com
+Name Server:DNS100.A.REGISTER.COM
+Name Server:DNS012.B.REGISTER.COM
+Name Server:DNS046.C.REGISTER.COM
+Name Server:DNS010.D.REGISTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

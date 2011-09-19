@@ -1,0 +1,43 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       dagdraumar.is
+descr:        Steinar Hugi Sigur&eth;arson
+descr:        Aspargrund 1
+descr:        IS-200 K&oacute;pavogur
+admin-c:      SS94-IS
+tech-c:       SS94-IS
+zone-c:       LL31-IS
+billing-c:    SS94-IS
+nserver:      ns1.linode.com
+nserver:      ns2.linode.com
+nserver:      ns3.linode.com
+nserver:      ns4.linode.com
+created:      December 14 2007
+expires:      December 14 2011
+source:       ISNIC
+
+person:       Steinar Hugi Sigur&eth;arson
+address:      Aspargrund 1
+address:      IS-200 K&oacute;pavogur
+phone:        +354 867 3122
+e-mail:       steinar@steinar.is
+nic-hdl:      SS94-IS
+created:      December 12 2001
+source:       ISNIC
+
+role:         Linode, LLC
+address:      329 E Jimmie Leeds Road
+address:      Suite A
+address:      Galloway, New Jersey 08205
+address:      US
+phone:        +1 609 5937103
+fax-no:       +1 615 2504945
+e-mail:       dns@linode.com
+nic-hdl:      LL31-IS
+created:      June 23 2010
+source:       ISNIC
+
+

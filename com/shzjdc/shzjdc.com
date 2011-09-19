@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 28-apr-2010
    Expiration Date: 28-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 07:28:02 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 10:03:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... shzjdc.com
-Name Server ..................... dns11.hichina.com
-                                  dns12.hichina.com
-Registrant ID ................... hc272017566-cn
-Registrant Name ................. zhijia sanhe
-Registrant Organization ......... sanhe zhijia
-Registrant Address .............. huaihua
-Registrant City ................. huaihua
-Registrant Province/State ....... Hunan
-Registrant Postal Code .......... 418000
-Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.7452216645 -
-Registrant Fax .................. +86.7452216645 -
-Registrant Email ................ shzjdc@163.com
-Billing ID ...................... hc027415337-cn
-Billing Name .................... zhijia sanhe
-Billing Organization ............ sanhe zhijia
-Billing Address ................. huaihua
-Billing City .................... huaihua
-Billing Province/State .......... Hunan
-Billing Postal Code ............. 418000
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.7452216645 -
-Billing Fax ..................... +86.7452216645 -
-Billing Email ................... shzjdc@163.com
-Administrative ID ............... hc893471798-cn
-Administrative Name ............. zhijia sanhe
-Administrative Organization ..... sanhe zhijia
-Administrative Address .......... huaihua
-Administrative City ............. huaihua
-Administrative Province/State ... Hunan
-Administrative Postal Code ...... 418000
-Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.7452216645 -
-Administrative Fax .............. +86.7452216645 -
-Administrative Email ............ shzjdc@163.com
-Technical ID .................... hc974197215-cn
-Technical Name .................. zhijia sanhe
-Technical Organization .......... sanhe zhijia
-Technical Address ............... huaihua
-Technical City .................. huaihua
-Technical Province/State ........ Hunan
-Technical Postal Code ........... 418000
-Technical Country Code .......... CN
-Technical Phone Number .......... +86.7452216645 -
-Technical Fax ................... +86.7452216645 -
-Technical Email ................. shzjdc@163.com
-Expiration Date ................. 2012-04-28 10:46:04

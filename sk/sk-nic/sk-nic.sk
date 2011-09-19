@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         sk-nic.sk
+Admin-id            EURO-0001
+Admin-name          SK-NIC, a.s.
+Admin-legal-form    akciova spolocnost
+Admin-org.-ID       35698446
+Admin-address       Borska 6, Bratislava 841 04
+Admin-telephone     02/350 350 30
+Admin-email         hostmaster@sk-nic.sk
+Tech-id             EURO-0001
+Tech-name           SK-NIC, a.s.
+Tech-org.-ID        35698446
+Tech-address        Borska 6, Bratislava 841 04
+Tech-telephone      02/350 350 30
+Tech-email          hostmaster@sk-nic.sk
+dns_name            ns.ew.sk
+dns_name            ns1.ew.sk
+dns_name            ns2.ew.sk
+Last-update         2011-05-18
+Valid-date          2012-06-09
+Domain-status       DOM_OK
+

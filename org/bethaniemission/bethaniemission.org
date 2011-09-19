@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D40454624-LROR
+Domain Name:BETHANIEMISSION.ORG
+Created On:10-Nov-2000 00:15:11 UTC
+Last Updated On:19-Mar-2010 14:52:04 UTC
+Expiration Date:10-Nov-2013 00:15:11 UTC
+Sponsoring Registrar:NameSecure, L.L.C. (R58-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:swv7NS964191
+Registrant Name:Mike Fisher
+Registrant Organization:Bethanie Evangelical Missions of Haiti
+Registrant Street1:P.O. Box 341
+Registrant Street2:
+Registrant Street3:
+Registrant City:Frankenmuth
+Registrant State/Province:MI
+Registrant Postal Code:48734
+Registrant Country:US
+Registrant Phone:+1.9896528283
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mjfish2@charter.net
+Admin ID:stt2NS301502
+Admin Name:Mike Fisher
+Admin Organization:Bethanie Evangelical Missions of Haiti
+Admin Street1:P.O. Box 341
+Admin Street2:
+Admin Street3:
+Admin City:Frankenmuth
+Admin State/Province:MI
+Admin Postal Code:48734
+Admin Country:US
+Admin Phone:+1.9896528283
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:mjfish2@charter.net
+Tech ID:who1NS301503
+Tech Name:Namesecure Inc.
+Tech Organization:Namesecure Inc.
+Tech Street1:P.O. Box 785
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20172
+Tech Country:US
+Tech Phone:+1.5707088418
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@namesecure.com
+Name Server:DNS2.NAMESECURE.COM
+Name Server:DNS1.NAMESECURE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

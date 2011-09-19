@@ -1,0 +1,106 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Mon Sep 19 11:15:42 2011
+
+domain:       trilog.cz
+registrant:   SB:TRILOG-CZ
+admin-c:      DN-19990913-TRG
+admin-c:      PS-19990913-TRG
+admin-c:      TN59-RIPE
+temp-c:       JS-20010307-TRG
+nsset:        NSS:TRILOG-CZ:1
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   07.06.1997 02:00:00
+changed:      30.11.2005 08:25:00
+expire:       13.10.2011
+
+contact:      SB:TRILOG-CZ
+org:          nexum Trilog s.r.o.
+name:         nexum Trilog a.s.
+address:      Kolbenova 942/38a
+address:      Praha 9
+address:      190 00
+address:      CZ
+e-mail:       info@nexum.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      25.01.2011 09:23:13
+
+contact:      DN-19990913-TRG
+name:         David Najman
+address:      Plzenska 113/155
+address:      Praha 5
+address:      150 00
+address:      CZ
+phone:        +420 257225300
+fax-no:       +420 257225300
+e-mail:       david.najman@nexum.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+
+contact:      PS-19990913-TRG
+name:         Petr Slovak
+address:      Plzenska 113/155
+address:      Praha 5
+address:      150 00
+address:      CZ
+phone:        +420 257225300
+fax-no:       +420 257225300
+e-mail:       petr.slovak@nexum.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+
+contact:      TN59-RIPE
+name:         Tomas Najman
+address:      Plzenska 113/155
+address:      Praha 5
+address:      150 00
+address:      CZ
+phone:        +420 257225300
+fax-no:       +420 257225300
+e-mail:       domeny@nexum.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      11.11.2006 09:35:00
+
+contact:      JS-20010307-TRG
+name:         Jan Stetina
+address:      Plzenska 113
+address:      Praha 5
+address:      15000
+address:      CZ
+phone:        +420 257225300
+fax-no:       +420 257225299
+e-mail:       domeny@nexum.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      11.11.2006 09:35:00
+
+nsset:        NSS:TRILOG-CZ:1
+nserver:      ns2.trilog.cz (195.250.146.85)
+nserver:      ns.trilog.cz (195.250.146.91)
+tech-c:       SB:TRILOG-CZ
+tech-c:       DN-19990913-TRG
+tech-c:       PS-19990913-TRG
+registrar:    REG-IGNUM
+created:      01.10.2007 02:00:00
+changed:      07.10.2007 09:32:02
+
+

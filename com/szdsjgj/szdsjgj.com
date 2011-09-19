@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 16-apr-2007
    Expiration Date: 16-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 07:52:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 10:29:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... szdsjgj.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc655763848-cn
-Registrant Name ................. jinfeng gu
-Registrant Organization ......... suzhou dingsheng jingujian Co.,Ltd
-Registrant Address .............. suzhou suxu gonglu changqin jiancha zhan
-Registrant City ................. suzhou
-Registrant Province/State ....... jiangsu
-Registrant Postal Code .......... 215000
-Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.051265355950 -
-Registrant Fax .................. +86.051265355950 -
-Registrant Email ................ wqh@21ct.cn
-Administrative ID ............... hc955763848-cn
-Administrative Name ............. gujinfeng
-Administrative Organization ..... suzhou dingsheng jingujian Co.,Ltd
-Administrative Address .......... PingSheng Building(Tower)16F, 98# Songhu Road, Yangpu District,Shanghai, China
-Administrative City ............. shanghai
-Administrative Province/State ... shanghai
-Administrative Postal Code ...... 200433
-Administrative Country Code ..... CN
-Administrative Phone Number ..... 86-02155228297-- -
-Administrative Fax .............. 86-02165332517-- -
-Administrative Email ............ kefu@sinvan.com
-Billing ID ...................... hc355763848-cn
-Billing Name ....................  sinvan
-Billing Organization ............  sinvan
-Billing Address ................. PingSheng Building(Tower)16F, 98# Songhu Road, Yangpu District,Shanghai, China
-Billing City .................... shanghai
-Billing Province/State .......... shanghai
-Billing Postal Code ............. 200433
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.02155228297 -
-Billing Fax ..................... +86.02165332517 -
-Billing Email ................... kefu@sinvan.com
-Technical ID .................... hc855763848-cn
-Technical Name ..................  sinvan
-Technical Organization ..........  sinvan
-Technical Address ............... PingSheng Building(Tower)16F, 98# Songhu Road, Yangpu District,Shanghai, China
-Technical City .................. shanghai
-Technical Province/State ........ shanghai
-Technical Postal Code ........... 200433
-Technical Country Code .......... CN
-Technical Phone Number .......... +86.02155228297 -
-Technical Fax ................... +86.02165332517 -
-Technical Email ................. kefu@sinvan.com
-Expiration Date ................. 2013-04-16 05:19:23

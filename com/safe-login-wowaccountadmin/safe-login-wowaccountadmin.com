@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 30-jan-2011
    Expiration Date: 30-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 07:18:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 09:48:47 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... safe-login-wowaccountadmin.com
-Name Server ..................... dns19.hichina.com
-                                  dns20.hichina.com
-Registrant ID ................... hc138713974-cn
-Registrant Name ................. zhou hai
-Registrant Organization ......... zhou hai hua
-Registrant Address .............. henansheng zhengzhoushi
-Registrant City ................. zhengzhou
-Registrant Province/State ....... HA
-Registrant Postal Code .......... 230023
-Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.037165862108 -
-Registrant Fax .................. +86.037165862108 -
-Registrant Email ................ yyy123456789@qq.com
-Administrative ID ............... hc138713974-cn
-Administrative Name ............. zhou hai
-Administrative Organization ..... zhou hai hua
-Administrative Address .......... henansheng zhengzhoushi
-Administrative City ............. zhengzhou
-Administrative Province/State ... HA
-Administrative Postal Code ...... 230023
-Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.037165862108 -
-Administrative Fax .............. +86.037165862108 -
-Administrative Email ............ yyy123456789@qq.com
-Billing ID ...................... hc138713974-cn
-Billing Name .................... zhou hai
-Billing Organization ............ zhou hai hua
-Billing Address ................. henansheng zhengzhoushi
-Billing City .................... zhengzhou
-Billing Province/State .......... HA
-Billing Postal Code ............. 230023
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.037165862108 -
-Billing Fax ..................... +86.037165862108 -
-Billing Email ................... yyy123456789@qq.com
-Technical ID .................... hc138713974-cn
-Technical Name .................. zhou hai
-Technical Organization .......... zhou hai hua
-Technical Address ............... henansheng zhengzhoushi
-Technical City .................. zhengzhou
-Technical Province/State ........ HA
-Technical Postal Code ........... 230023
-Technical Country Code .......... CN
-Technical Phone Number .......... +86.037165862108 -
-Technical Fax ................... +86.037165862108 -
-Technical Email ................. yyy123456789@qq.com
-Expiration Date ................. 2012-01-30 12:39:30

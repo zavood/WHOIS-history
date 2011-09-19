@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 12-mar-1996
    Expiration Date: 13-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 20:09:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 09:56:52 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -129,8 +129,8 @@ Zone Phone Ext:
 Zone Fax:
 Zone Fax Ext:
 Zone Email: hostmaster@freinet.de
-Name Server: ns.frei.net 213.164.64.1
-Name Server ACE: ns.frei.net 213.164.64.1
 Name Server: ns2.frei.net 216.93.170.129
 Name Server ACE: ns2.frei.net 216.93.170.129
+Name Server: ns.frei.net 213.164.64.1
+Name Server ACE: ns.frei.net 213.164.64.1
 

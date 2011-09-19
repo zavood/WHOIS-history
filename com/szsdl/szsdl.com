@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 31-mar-2010
    Expiration Date: 31-mar-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 07:54:07 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 10:29:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,51 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name ..................... szsdl.com
-Name Server ..................... dns15.hichina.com
-                                  dns16.hichina.com
-Registrant ID ................... hc106625941-cn
-Registrant Name ................. dong li
-Registrant Organization ......... shenzhenshi dongli
-Registrant Address .............. nanshan road
-Registrant City ................. shenzhen
-Registrant Province/State ....... GD
-Registrant Postal Code .......... 518000
-Registrant Country Code ......... CN
-Registrant Phone Number ......... +86.075529105893 -
-Registrant Fax .................. +86.075529105893 -
-Registrant Email ................ weiyongbo@gmail.com
-Administrative ID ............... hc106625941-cn
-Administrative Name ............. dong li
-Administrative Organization ..... shenzhenshi dongli
-Administrative Address .......... nanshan road
-Administrative City ............. shenzhen
-Administrative Province/State ... GD
-Administrative Postal Code ...... 518000
-Administrative Country Code ..... CN
-Administrative Phone Number ..... +86.075529105893 -
-Administrative Fax .............. +86.075529105893 -
-Administrative Email ............ weiyongbo@gmail.com
-Billing ID ...................... hc106625941-cn
-Billing Name .................... dong li
-Billing Organization ............ shenzhenshi dongli
-Billing Address ................. nanshan road
-Billing City .................... shenzhen
-Billing Province/State .......... GD
-Billing Postal Code ............. 518000
-Billing Country Code ............ CN
-Billing Phone Number ............ +86.075529105893 -
-Billing Fax ..................... +86.075529105893 -
-Billing Email ................... weiyongbo@gmail.com
-Technical ID .................... hc106625941-cn
-Technical Name .................. dong li
-Technical Organization .......... shenzhenshi dongli
-Technical Address ............... nanshan road
-Technical City .................. shenzhen
-Technical Province/State ........ GD
-Technical Postal Code ........... 518000
-Technical Country Code .......... CN
-Technical Phone Number .......... +86.075529105893 -
-Technical Fax ................... +86.075529105893 -
-Technical Email ................. weiyongbo@gmail.com
-Expiration Date ................. 2012-03-31 10:14:36

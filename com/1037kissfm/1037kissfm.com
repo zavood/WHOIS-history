@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 06-nov-1998
    Expiration Date: 05-nov-2015
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 07:59:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 09:51:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,5 +71,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: 1037kissfm.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sun Sep 18 03:49:28 EDT 2011
+Date and Time of Query: Mon Sep 19 05:41:16 EDT 2011
 Reason Code: IE

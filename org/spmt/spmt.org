@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D92795334-LROR
+Domain Name:SPMT.ORG
+Created On:03-Dec-2002 21:34:46 UTC
+Last Updated On:16-Oct-2009 14:04:31 UTC
+Expiration Date:03-Dec-2011 21:34:46 UTC
+Sponsoring Registrar:ASCIO Technologies, Inc. - Denmark (R76-LROR)
+Status:OK
+Registrant ID:561009315-NBTo
+Registrant Name:Domain Contact
+Registrant Organization:Silicon Image, Inc
+Registrant Street1:1060 E. Arques Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sunnyvale
+Registrant State/Province:CA
+Registrant Postal Code:94085
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:domain-contact@SIIMAGE.COM
+Admin ID:561206831-NBTa
+Admin Name:Domain Contact
+Admin Organization:Silicon Image, Inc.
+Admin Street1:1060 E. Arques Ave
+Admin Street2:
+Admin Street3:
+Admin City:Sunnyvale
+Admin State/Province:CA
+Admin Postal Code:94085
+Admin Country:US
+Admin Phone:+1.9999999999
+Admin Phone Ext.:
+Admin FAX:+1.9999999999
+Admin FAX Ext.:
+Admin Email:domain-contact@SIIMAGE.COM
+Tech ID:AT51787721-051
+Tech Name:NetNames Hostmaster NetNames Hostmaster
+Tech Organization:NetNames
+Tech Street1:3rd Floor Prospero House
+Tech Street2:
+Tech Street3:
+Tech City:241 Borough High St.
+Tech State/Province:London
+Tech Postal Code:SE1 1GA
+Tech Country:GB
+Tech Phone:+44.2070159370
+Tech Phone Ext.:
+Tech FAX:+44.2070159370
+Tech FAX Ext.:
+Tech Email:hostmaster@netnames.com
+Name Server:UDNS1.ULTRADNS.NET
+Name Server:UDNS2.ULTRADNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,48 @@
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See http://www.isnic.is/copyright.php
+
+domain:       tmd.is
+descr:        R&iacute;kisl&ouml;greglustj&oacute;rinn
+descr:        Sk&uacute;lag&ouml;tu 21
+descr:        IS-101 Reykjav&iacute;k
+admin-c:      RI6-IS
+tech-c:       RI40-IS
+zone-c:       OTA1-IS
+billing-c:    RI6-IS
+nserver:      ns1.simnet.is
+nserver:      ns2.simnet.is
+created:      August 13 1998
+expires:      August 13 2012
+source:       ISNIC
+
+role:         R&iacute;kisl&ouml;greglustj&oacute;rinn
+address:      Sk&uacute;lag&ouml;tu 21
+address:      IS-101 Reykjav&iacute;k
+phone:        +354 444 2560
+e-mail:       rls@rls.is
+nic-hdl:      RI6-IS
+created:      June 13 2003
+source:       ISNIC
+
+role:         R&iacute;kisl&ouml;greglustj&oacute;rinn
+address:      Sk&uacute;lag&ouml;tu 31
+address:      IS-101 Reykjav&iacute;k
+phone:        +354 444 2560
+e-mail:       domainisnic@rls.is
+nic-hdl:      RI40-IS
+created:      March  2 2010
+source:       ISNIC
+
+role:         S&iacute;mnet Hostmaster
+address:      S&iacute;minn hf - Gagnanet
+address:      &Aacute;rm&uacute;la 25
+address:      IS-108 Reykjav&iacute;k
+phone:        +354 550 6000
+e-mail:       hjalp@siminn.is
+nic-hdl:      OTA1-IS
+created:      August 27 1998
+source:       ISNIC
+
+

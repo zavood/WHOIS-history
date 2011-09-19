@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159348786-LROR
+Domain Name:TECHNOTIPS.ORG
+Created On:05-Jun-2010 04:41:44 UTC
+Last Updated On:20-Jun-2011 00:26:21 UTC
+Expiration Date:05-Jun-2013 04:41:44 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:7d9c8d45b4d75730
+Registrant Name:Jayadrathsinh  Champavat
+Registrant Organization:TechnoTips
+Registrant Street1:31, Golden Park, Mahavir Nagar
+Registrant Street2:
+Registrant Street3:
+Registrant City:Himatnagar
+Registrant State/Province:Gujarat
+Registrant Postal Code:383001
+Registrant Country:IN
+Registrant Phone:+91.9998093367
+Registrant Phone Ext.:
+Registrant FAX:+91.9998093367
+Registrant FAX Ext.:
+Registrant Email:Jayadrathsingh@gmail.com
+Admin ID:7d9c8d45b4d75730
+Admin Name:Jayadrathsinh  Champavat
+Admin Organization:TechnoTips
+Admin Street1:31, Golden Park, Mahavir Nagar
+Admin Street2:
+Admin Street3:
+Admin City:Himatnagar
+Admin State/Province:Gujarat
+Admin Postal Code:383001
+Admin Country:IN
+Admin Phone:+91.9998093367
+Admin Phone Ext.:
+Admin FAX:+91.9998093367
+Admin FAX Ext.:
+Admin Email:Jayadrathsingh@gmail.com
+Tech ID:7d9c8d45b4d75730
+Tech Name:Jayadrathsinh  Champavat
+Tech Organization:TechnoTips
+Tech Street1:31, Golden Park, Mahavir Nagar
+Tech Street2:
+Tech Street3:
+Tech City:Himatnagar
+Tech State/Province:Gujarat
+Tech Postal Code:383001
+Tech Country:IN
+Tech Phone:+91.9998093367
+Tech Phone Ext.:
+Tech FAX:+91.9998093367
+Tech FAX Ext.:
+Tech Email:Jayadrathsingh@gmail.com
+Name Server:NS2811.HOSTGATOR.COM
+Name Server:NS2812.HOSTGATOR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

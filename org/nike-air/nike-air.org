@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159916462-LROR
+Domain Name:NIKE-AIR.ORG
+Created On:17-Aug-2010 08:04:29 UTC
+Last Updated On:18-Sep-2011 09:03:33 UTC
+Expiration Date:17-Aug-2012 08:04:29 UTC
+Sponsoring Registrar:Jiangsu Bangning Science and technology Co. Ltd. (R1829-LROR)
+Status:HOLD
+Status:AUTORENEWPERIOD
+Status:PENDING DELETE RESTORABLE
+Registrant ID:bf6397f9-28a5-4
+Registrant Name:zhonglihong
+Registrant Organization:hongzhongli
+Registrant Street1:newyork
+Registrant Street2:
+Registrant Street3:
+Registrant City:newyork
+Registrant State/Province:newyork
+Registrant Postal Code:005010
+Registrant Country:US
+Registrant Phone:+86.065786875465
+Registrant Phone Ext.:4654
+Registrant FAX:+456.56456465456
+Registrant FAX Ext.:456
+Registrant Email:abc76123895@gmail.com
+Admin ID:e9b74078-b956-4
+Admin Name:zhonglihong
+Admin Street1:newyork
+Admin Street2:
+Admin Street3:
+Admin City:newyork
+Admin State/Province:newyork
+Admin Postal Code:005010
+Admin Country:US
+Admin Phone:+86.065786875465
+Admin Phone Ext.:4654
+Admin FAX:+456.56456465456
+Admin FAX Ext.:456
+Admin Email:abc76123895@gmail.com
+Tech ID:152c85ba-bf2b-4
+Tech Name:zhonglihong
+Tech Street1:newyork
+Tech Street2:
+Tech Street3:
+Tech City:newyork
+Tech State/Province:newyork
+Tech Postal Code:005010
+Tech Country:US
+Tech Phone:+86.065786875465
+Tech Phone Ext.:4654
+Tech FAX:+456.56456465456
+Tech FAX Ext.:456
+Tech Email:abc76123895@gmail.com
+Name Server:MNS01.DOMAINCONTROL.COM
+Name Server:MNS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D79096798-LROR
+Domain Name:MYHIGHSCHOOLJOURNALISM.ORG
+Created On:29-Oct-2001 15:16:08 UTC
+Last Updated On:23-Aug-2011 15:01:05 UTC
+Expiration Date:29-Oct-2012 15:16:08 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30341595
+Registrant Name:Diana Mitsu Klos
+Registrant Organization:American Society of News Editors
+Registrant Street1:11690B Sunrise Valley Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Reston
+Registrant State/Province:Virginia
+Registrant Postal Code:20191
+Registrant Country:US
+Registrant Phone:+1.7034531125
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dmk@asne.org
+Admin ID:CR30341597
+Admin Name:Diana Mitsu Klos
+Admin Organization:American Society of News Editors
+Admin Street1:11690B Sunrise Valley Drive
+Admin Street2:
+Admin Street3:
+Admin City:Reston
+Admin State/Province:Virginia
+Admin Postal Code:20191
+Admin Country:US
+Admin Phone:+1.7034531125
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:dmk@asne.org
+Tech ID:CR30341596
+Tech Name:Diana Mitsu Klos
+Tech Organization:American Society of News Editors
+Tech Street1:11690B Sunrise Valley Drive
+Tech Street2:
+Tech Street3:
+Tech City:Reston
+Tech State/Province:Virginia
+Tech Postal Code:20191
+Tech Country:US
+Tech Phone:+1.7034531125
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:dmk@asne.org
+Name Server:NS63.DOMAINCONTROL.COM
+Name Server:NS64.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

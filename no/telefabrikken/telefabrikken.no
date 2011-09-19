@@ -1,0 +1,38 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: TEL2793D-NORID
+Domain Name................: telefabrikken.no
+Domain Holder Handle.......: TA4479O-NORID
+Registrar Handle...........: REG469-NORID
+Legal-c Handle.............: PK1036P-NORID
+Tech-c Handle..............: MAN18P-NORID
+Name Server Handle.........: NSNE176H-NORID
+Name Server Handle.........: NSNE645H-NORID
+Name Server Handle.........: NSNE646H-NORID
+Name Server Handle.........: NSNE647H-NORID
+
+Additional information:
+Created:         2000-11-15
+Last updated:    2011-03-30
+
+NORID Handle...............: TA4479O-NORID
+Type.......................: organization
+Name.......................: Telefabrikken AS
+Id Type....................: organization_number
+Id Number..................: 979419139
+Registrar Handle...........: REG469-NORID
+Post Address...............: Professor Dahlsgate 24F
+Postal Code................: NO-0260
+Postal Area................: Oslo
+Country....................: NO
+Phone Number...............: +47.22441087
+Fax Number.................: +47.22441918
+Email Address..............: firmapost@telefabrikken.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

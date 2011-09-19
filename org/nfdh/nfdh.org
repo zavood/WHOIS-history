@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D507205-LROR
+Domain Name:NFDH.ORG
+Created On:29-May-1997 04:00:00 UTC
+Last Updated On:31-Jan-2010 17:01:54 UTC
+Expiration Date:28-May-2016 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:29336800-NSI
+Registrant Name:NationalFoundationof Dentistry for the Handicapped
+Registrant Organization:NationalFoundationof Dentistry for the Handicapped
+Registrant Street1:1800 15th, Ste. 100
+Registrant Street2:
+Registrant Street3:
+Registrant City:Denver
+Registrant State/Province:CO
+Registrant Postal Code:80202
+Registrant Country:US
+Registrant Phone:+1.30353453
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:fleviton@NFDH.ORG
+Admin ID:29336802-NSI
+Admin Name:NationalFoundationof Dentistry for the
+Admin Organization:NationalFoundationof Dentistry for the
+Admin Street1:1800 15th Street #100
+Admin Street2:
+Admin Street3:
+Admin City:Denver
+Admin State/Province:CO
+Admin Postal Code:80202
+Admin Country:US
+Admin Phone:+1.30353453
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:fleviton@NFDH.ORG
+Tech ID:5528346-NSI
+Tech Name:Qwest Internet Solutions
+Tech Organization:Qwest Internet Solutions
+Tech Street1:600 Stinson Blvd.
+Tech Street2:**
+Tech Street3:
+Tech City:Minneapolis
+Tech State/Province:MN
+Tech Postal Code:55413
+Tech Country:US
+Tech Phone:+1.8006728520
+Tech Phone Ext.:
+Tech FAX:+1.231231234
+Tech FAX Ext.:
+Tech Email:dns-info@QWEST.NET
+Name Server:NS1123.WEBSITEWELCOME.COM
+Name Server:NS1124.WEBSITEWELCOME.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

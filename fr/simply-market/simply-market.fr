@@ -1,0 +1,120 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; simply-market.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      simply-market.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ISS31-FRNIC
+admin-c:     CDG36-FRNIC
+tech-c:      MC8651-FRNIC
+tech-c:      DD195-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL11448-FRNIC
+registrar:   MAILCLUB
+anniversary: 08/01
+created:     08/01/2007
+last-update: 26/11/2009
+source:      FRNIC
+
+ns-list:     NSL11448-FRNIC
+nserver:     ns0.simply-market.fr [62.160.25.65]
+nserver:     ns1.simply-market.fr [195.68.125.36]
+nserver:     ns-slave.eolas-services.com
+nserver:     ns1.intrinsec.com
+nserver:     ns2.intrinsec.com
+source:      FRNIC
+
+registrar:   MAILCLUB
+type:        Isp Option 1
+address:     P&ocirc;le M&eacute;dia de la Belle de Mai
+address:     37 Rue Guibal
+address:     MARSEILLE CEDEX 03
+country:     FR
+phone:       +33 4 88 66 22 22
+fax-no:      +33 4 88 66 22 20
+e-mail:      clientele@mailclub.fr
+website:     http://www.mailclub.fr
+anonymous:   NO
+registered:  01/01/1999
+source:      FRNIC
+
+nic-hdl:     ISS31-FRNIC
+type:        ORGANIZATION
+contact:     International Supermarket Stores
+address:     rue du Marechal de Lattre de Tassigny
+address:     59170 Croix
+country:     FR
+phone:       +33 1 30 67 26 32
+e-mail:      office@pontet-allano.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CDG36-FRNIC
+type:        PERSON
+contact:     Celia Da Gama
+address:     Pontet et Allano SARL
+address:     Parc-Club Orsay Universite
+address:     25, rue Jean Rostand
+address:     91893 Orsay Cedex
+country:     FR
+phone:       +33 1 69 33 21 21
+fax-no:      +33 1 69 41 95 88
+e-mail:      office@pontet-allano.com
+changed:     08/01/2007 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     MC8651-FRNIC
+type:        ROLE
+contact:     Service Clientele
+address:     MailClub
+address:     Pole Media de la Belle de Mai
+address:     37, rue Guibal
+address:     13356 Marseille Cedex 3
+country:     FR
+phone:       +33 4 88 66 22 22
+e-mail:      ripe@mailclub.fr
+admin-c:     CT1010-FRNIC
+tech-c:      CT1010-FRNIC
+notify:      ripe@mailclub.fr
+changed:     20/07/2006 ripe@mailclub.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DD195-FRNIC
+type:        ROLE
+contact:     Service Technique
+address:     MailClub
+address:     Pole Media de la Belle de Mai
+address:     37, rue Guibal
+address:     13356 Marseille Cedex 3
+country:     FR
+phone:       +33 4 88 66 22 22
+e-mail:      technique@mailclub.fr
+admin-c:     CT1010-FRNIC
+tech-c:      CT1010-FRNIC
+notify:      ripe@daydream.org
+changed:     20/07/2006 technique@mailclub.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; mairie-nantes.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      mairie-nantes.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    MDN3-FRNIC
+admin-c:     RP1475-FRNIC
+tech-c:      OH251-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL14749-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 18/05
+created:     05/09/1996
+last-update: 25/02/2011
+source:      FRNIC
+
+ns-list:     NSL14749-FRNIC
+nserver:     mvinct1.mairie-nantes.fr [80.82.231.234]
+nserver:     ns6.oleane.net
+nserver:     ns7.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     MDN3-FRNIC
+type:        ORGANIZATION
+contact:     Mairie de Nantes
+address:     hotel de ville
+address:     44000 Nantes
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    delayed
+source:      FRNIC
+
+nic-hdl:     RP1475-FRNIC
+type:        PERSON
+contact:     Remy Prost
+address:     Nantes Metropole
+address:     Tour Bretagne
+address:     44923 Nantes
+country:     FR
+phone:       +33 2 40 99 93 47
+fax-no:      +33 2 40 20 38 48
+e-mail:      remy.prost@nantesmetropole.fr
+changed:     09/02/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

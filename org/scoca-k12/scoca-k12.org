@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2058226-LROR
+Domain Name:SCOCA-K12.ORG
+Created On:06-May-1998 04:00:00 UTC
+Last Updated On:03-Aug-2011 14:13:04 UTC
+Expiration Date:05-May-2017 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:16049823-NSI
+Registrant Name:SouthCentralOhio Computer Assoc.
+Registrant Organization:SouthCentralOhio Computer Assoc.
+Registrant Street1:PO BOX 577
+Registrant Street2:
+Registrant Street3:
+Registrant City:PIKETON
+Registrant State/Province:OH
+Registrant Postal Code:45661-0577
+Registrant Country:US
+Registrant Phone:+1.7402892908
+Registrant Phone Ext.:
+Registrant FAX:+1.7402892082
+Registrant FAX Ext.:
+Registrant Email:norm@scoca-k12.org
+Admin ID:22169518-NSI
+Admin Name:South Central Ohio Computer Association
+Admin Street1:SCOCA Administrative Offices P
+Admin Street2:577 23365 State Route 124
+Admin Street3:
+Admin City:Piketon,
+Admin State/Province:OH
+Admin Postal Code:45661
+Admin Country:US
+Admin Phone:+614.2892908341
+Admin Phone Ext.:
+Admin FAX:+1.6142892082
+Admin FAX Ext.:
+Admin Email:norm@scoca-k12.org
+Tech ID:6138315-NSI
+Tech Name:OARnet
+Tech Organization:OARnet
+Tech Street1:2455 N STAR RD
+Tech Street2:
+Tech Street3:
+Tech City:COLUMBUS
+Tech State/Province:OH
+Tech Postal Code:43221-3468
+Tech Country:US
+Tech Phone:+1.180072881
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:hostmaster@OAR.NET
+Name Server:NS1.SCOCA.ORG
+Name Server:NS2.SCOCA.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

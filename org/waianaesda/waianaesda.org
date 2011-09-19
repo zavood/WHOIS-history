@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155123600-LROR
+Domain Name:WAIANAESDA.ORG
+Created On:17-Jan-2009 08:49:05 UTC
+Last Updated On:10-Jan-2011 13:32:14 UTC
+Expiration Date:17-Jan-2012 08:49:05 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:258e20181b8
+Registrant Name:VALUE  DOMAIN
+Registrant Organization:VALUE-DOMAIN COM
+Registrant Street1:Honmachi TS Bld. 6F Bakurou-ma
+Registrant Street2:
+Registrant Street3:
+Registrant City:Osaka-shi
+Registrant State/Province:Osaka-fu
+Registrant Postal Code:541-0059
+Registrant Country:JP
+Registrant Phone:+81.662416585
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain-contact@digi-rock.com
+Admin ID:BCADB264BF0B1623
+Admin Name:DIGIROCK INC.
+Admin Organization:DigiRock, Inc.
+Admin Street1:Chuo-ku Bakurou-cho 4-7-5 Honm
+Admin Street2:achi TS Building 6F
+Admin Street3:
+Admin City:Osaka-shi
+Admin State/Province:OSAKA-FU
+Admin Postal Code:541-0059
+Admin Country:JP
+Admin Phone:+81.662416585
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@value-domain.com
+Tech ID:BCADB264BF0B1623
+Tech Name:DIGIROCK INC.
+Tech Organization:DigiRock, Inc.
+Tech Street1:Chuo-ku Bakurou-cho 4-7-5 Honm
+Tech Street2:achi TS Building 6F
+Tech Street3:
+Tech City:Osaka-shi
+Tech State/Province:OSAKA-FU
+Tech Postal Code:541-0059
+Tech Country:JP
+Tech Phone:+81.662416585
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@value-domain.com
+Name Server:NS1.WEB01.CHICAGO.HYPERNIA.COM
+Name Server:NS2.WEB01.CHICAGO.HYPERNIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

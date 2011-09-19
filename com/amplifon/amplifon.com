@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 17-nov-1997
    Expiration Date: 16-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:23:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 09:28:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 174.142.225.246
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain amplifon.com
-% Timestamp: 2011-09-15 00:24:18
+% Timestamp: 2011-09-19 11:29:12
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
