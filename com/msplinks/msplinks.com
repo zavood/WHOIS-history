@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 02-apr-2007
    Expiration Date: 02-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 04:49:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 08:01:24 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -113,8 +113,8 @@ Registrant:
 
     Domain servers in listed order:
 
-    dns12.cotdns.net
     dns11.cotdns.net
+    dns12.cotdns.net
 
 
 
@@ -129,4 +129,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
-
+--

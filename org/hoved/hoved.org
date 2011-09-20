@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98283178-LROR
+Domain Name:HOVED.ORG
+Created On:23-Jun-2003 23:02:27 UTC
+Last Updated On:13-May-2011 07:14:48 UTC
+Expiration Date:23-Jun-2012 23:02:27 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-173427
+Registrant Name:Erik Hepsoe NA
+Registrant Street1:Tranevegen 44A
+Registrant Street2:-
+Registrant Street3:
+Registrant City:KATTEM
+Registrant State/Province:
+Registrant Postal Code:7082
+Registrant Country:NO
+Registrant Phone:+47.91188766
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:erik@hoved.org
+Admin ID:CORG-60278
+Admin Name:- - -
+Admin Organization:Larsen Data ApS
+Admin Street1:Flaesketorvet 68
+Admin Street2:
+Admin Street3:
+Admin City:Koebenhavn V
+Admin State/Province:
+Admin Postal Code:1711
+Admin Country:DK
+Admin Phone:+45.46903232
+Admin Phone Ext.:
+Admin FAX:+45.46903234
+Admin FAX Ext.:
+Admin Email:jokerhostmaster@ldnet.dk
+Tech ID:CORG-60278
+Tech Name:- - -
+Tech Organization:Larsen Data ApS
+Tech Street1:Flaesketorvet 68
+Tech Street2:
+Tech Street3:
+Tech City:Koebenhavn V
+Tech State/Province:
+Tech Postal Code:1711
+Tech Country:DK
+Tech Phone:+45.46903232
+Tech Phone Ext.:
+Tech FAX:+45.46903234
+Tech FAX Ext.:
+Tech Email:jokerhostmaster@ldnet.dk
+Name Server:NS1.GRATISDNS.DK
+Name Server:NS2.GRATISDNS.DK
+Name Server:NS3.GRATISDNS.DK
+Name Server:NS4.GRATISDNS.DK
+Name Server:NS5.GRATISDNS.DK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

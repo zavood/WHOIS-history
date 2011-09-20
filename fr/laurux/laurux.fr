@@ -1,0 +1,79 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; laurux.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      laurux.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    AC5640-FRNIC
+admin-c:     AC1013-FRNIC
+tech-c:      AC1013-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL11445-FRNIC
+registrar:   AB CONNECT
+anniversary: 02/09
+created:     29/08/2005
+last-update: 02/09/2010
+source:      FRNIC
+
+ns-list:     NSL11445-FRNIC
+nserver:     dns1.hosteur.com
+nserver:     dns2.hosteur.com
+source:      FRNIC
+
+registrar:   AB CONNECT
+type:        Isp Option 1
+address:     2 Avenue des D&eacute;port&eacute;s de la R&eacute;sistance
+address:     AIX EN PROVENCE
+country:     FR
+phone:       0 892 701 308
+fax-no:      +33 4 42 92 49 40
+e-mail:      afnic@hosteur.com
+website:     http://www.hosteur.com
+anonymous:   NO
+registered:  13/09/2004
+source:      FRNIC
+
+nic-hdl:     AC1013-FRNIC
+type:        ROLE
+contact:     AB CONNECT
+address:     AB Connect
+address:     21, rue des Vertus
+address:     13005 Marseille
+country:     FR
+phone:       08 92 70 13 08
+e-mail:      contact@hosteur.com
+admin-c:     JDG5-FRNIC
+tech-c:      JDG5-FRNIC
+changed:     24/11/2006 contact@hosteur.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AC5640-FRNIC
+type:        ORGANIZATION
+contact:     AB CONNECT
+address:     le Bas Plessis
+address:     79400 Aug&eacute;
+country:     FR
+phone:       +33 5 49 05 23 91
+e-mail:      contact@hosteur.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

@@ -5,33 +5,13 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-15 18:39:16 (BRT -03:00)
+%  2011-09-20 05:32:07 (BRT -03:00)
+
+% Query rate limit exceeded. Reduced information.
+% Use https://registro.br/cgi-bin/avail/ for domain availability.
 
 domain:      pceengenharia.com.br
-owner:       PCE-Proj. e Consult. de Engenharia LTDA
-ownerid:     035.808.088/0001-57
-responsible: Jose Eduardo Moreira
-country:     BR
-owner-c:     PCL292
-admin-c:     PCL292
-tech-c:      PCL292
-billing-c:   PCL292
-nserver:     mail.pceengenharia.com.br 201.73.46.35
-nsstat:      20110915 AA
-nslastaa:    20110915
-nserver:     ns.embratel.net.br
-nsstat:      20110915 AA
-nslastaa:    20110915
-created:     20040414 #1600644
-expires:     20120414
-changed:     20100428
-status:      published
-
-nic-hdl-br:  PCL292
-person:      PCE-Proj. e Consult. de Engenharia LTDA
-e-mail:      helpdesk@pcebr.com.br
-created:     20001204
-changed:     20090330
+owner:       PCE-Proj. e Consult. de Engenharia LTDA (213032)
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

@@ -1,0 +1,64 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         starbucks.at
+registrant:     SCC3615805-NICAT
+admin-c:        SCAG3615806-NICAT
+tech-c:         IA3615807-NICAT
+nserver:        ns1.isource.ch
+remarks:        194.209.42.24
+nserver:        ns2.isource.ch
+remarks:        194.209.42.25
+changed:        20080612 13:20:28
+source:         AT-DOM
+
+personname:     Marco Fausch
+organization:   Starbucks Coffee Company
+street address: 2401 Utah Avenue South
+postal code:    98134
+city:           Seattle WA
+country:        United States
+nic-hdl:        SCC3615805-NICAT
+changed:        20080612 13:20:04
+source:         AT-DOM
+
+personname:     Marco Fausch
+organization:   Starbucks Coffee Austria GmbH
+street address: Theobaldgasse 20
+postal code:    1060
+city:           Wien
+country:        Austria
+nic-hdl:        SCAG3615806-NICAT
+changed:        20080612 13:20:06
+source:         AT-DOM
+
+personname:     Markus Gasser
+organization:   iSource AG
+street address: Saegereistrasse 24
+postal code:    8152
+city:           Glattbrugg
+country:        Switzerland
+nic-hdl:        IA3615807-NICAT
+changed:        20080612 13:20:09
+source:         AT-DOM
+

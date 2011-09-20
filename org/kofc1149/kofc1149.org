@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154630646-LROR
+Domain Name:KOFC1149.ORG
+Created On:06-Nov-2008 19:13:51 UTC
+Last Updated On:08-Sep-2010 12:53:18 UTC
+Expiration Date:06-Nov-2013 19:13:51 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37259291
+Registrant Name:Trent Upshaw
+Registrant Organization:Knights of Columbus Council 1149
+Registrant Street1:208 W Chippewa
+Registrant Street2:
+Registrant Street3:
+Registrant City:Paola
+Registrant State/Province:Kansas
+Registrant Postal Code:66071
+Registrant Country:US
+Registrant Phone:+1.9137317171
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:upshaw1971@gmail.com
+Admin ID:CR37259293
+Admin Name:Trent Upshaw
+Admin Organization:Knights of Columbus Council 1149
+Admin Street1:208 W Chippewa
+Admin Street2:
+Admin Street3:
+Admin City:Paola
+Admin State/Province:Kansas
+Admin Postal Code:66071
+Admin Country:US
+Admin Phone:+1.9137317171
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:upshaw1971@gmail.com
+Tech ID:CR37259292
+Tech Name:Trent Upshaw
+Tech Organization:Knights of Columbus Council 1149
+Tech Street1:208 W Chippewa
+Tech Street2:
+Tech Street3:
+Tech City:Paola
+Tech State/Province:Kansas
+Tech Postal Code:66071
+Tech Country:US
+Tech Phone:+1.9137317171
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:upshaw1971@gmail.com
+Name Server:NS15.DOMAINCONTROL.COM
+Name Server:NS16.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

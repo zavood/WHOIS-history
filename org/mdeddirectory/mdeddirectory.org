@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154734302-LROR
+Domain Name:MDEDDIRECTORY.ORG
+Created On:20-Nov-2008 15:49:19 UTC
+Last Updated On:16-Nov-2010 21:02:19 UTC
+Expiration Date:20-Nov-2013 15:49:19 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:2706069-NSI
+Registrant Name:MARYLAND STATE DEPARTMENT OF EDUCATION
+Registrant Organization:MARYLAND STATE DEPARTMENT OF EDUCATION
+Registrant Street1:200 W BALTIMORE ST
+Registrant Street2:
+Registrant Street3:
+Registrant City:BALTIMORE
+Registrant State/Province:MD
+Registrant Postal Code:21201-2502
+Registrant Country:US
+Registrant Phone:+1.4107670062
+Registrant Phone Ext.:
+Registrant FAX:+1.4103330257
+Registrant FAX Ext.:
+Registrant Email:tpalcher@msde.state.md.us
+Admin ID:42423689-NSI
+Admin Name:Ruth Baber
+Admin Organization:Maryland State Dept. of Education
+Admin Street1:200 W. Baltimore St.
+Admin Street2:OIT
+Admin Street3:
+Admin City:Baltimore
+Admin State/Province:MD
+Admin Postal Code:21201
+Admin Country:US
+Admin Phone:+1.4107670026
+Admin Phone Ext.:
+Admin FAX:+1.4103330257
+Admin FAX Ext.:
+Admin Email:rbaber@msde.state.md.us
+Tech ID:45675088-NSI
+Tech Name:Maryland State Department of Education
+Tech Street1:200 W. Baltimore Street
+Tech Street2:
+Tech Street3:
+Tech City:Baltimore
+Tech State/Province:MD
+Tech Postal Code:21201
+Tech Country:US
+Tech Phone:+1.4107673004
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tanderson@msde.state.md.us
+Name Server:UDNS1.ULTRADNS.NET
+Name Server:UDNS2.ULTRADNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -11,13 +11,12 @@ for detailed information.
    Referral URL: http://www.melbourneit.com
    Name Server: NS1.MELIT.DSREDIRECTION.COM
    Name Server: NS2.MELIT.DSREDIRECTION.COM
-   Status: clientDeleteProhibited
-   Status: clientTransferProhibited
-   Updated Date: 27-aug-2011
+   Status: redemptionPeriod
+   Updated Date: 19-sep-2011
    Creation Date: 08-aug-2001
-   Expiration Date: 08-aug-2012
+   Expiration Date: 08-aug-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 10:28:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 08:42:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,39 +51,4 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-
-Domain Name.......... hbsms.com
-  Creation Date........ 2001-08-09
-  Registration Date.... 2005-07-27
-  Expiry Date.......... 2011-08-09
-  Organisation Name.... Business Coach I.T. Management Ltd
-  Organisation Address. County House , Beaufort Road
-  Organisation Address.
-  Organisation Address. Swansea
-  Organisation Address. SA6 8JG
-  Organisation Address. West Glamorgan
-  Organisation Address. GREAT BRITAIN (UK)
-
-Admin Name........... Empower Systems Limited
-  Admin Address........ County House
-  Admin Address........ Beaufort Road
-  Admin Address........ Swansea
-  Admin Address........ SA6 8JG
-  Admin Address........ West Glamorgan
-  Admin Address........ GREAT BRITAIN (UK)
-  Admin Email.......... tristan.carroll@empowersystems.net
-  Admin Phone.......... 01792 773399
-  Admin Fax............ 01792 773377
-
-Tech Name............ UKServers Hostmaster
-  Tech Address......... PO Box 34
-  Tech Address.........
-  Tech Address......... Merriott
-  Tech Address......... TA16 5YZ
-  Tech Address......... Somerset
-  Tech Address......... GREAT BRITAIN (UK)
-  Tech Email........... hostmaster@ukservers.net
-  Tech Phone........... +44.8701651416
-  Tech Fax............. +44.8700940342
-
-
+No match for: hbsms.com in the registrar database

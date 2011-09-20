@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D155099861-LROR
+Domain Name:ZAKROMA.ORG
+Created On:14-Jan-2009 10:34:58 UTC
+Last Updated On:20-Mar-2011 00:25:57 UTC
+Expiration Date:14-Jan-2012 10:34:58 UTC
+Sponsoring Registrar:Regional Network Information Center, JSC dba RU-CENTER (R148-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:H3SYODV-RU
+Registrant Name:Anton Kostrzhevskiy
+Registrant Organization:Anton Kostrzhevskiy
+Registrant Street1:Usievicha, 23-257
+Registrant Street2:
+Registrant Street3:
+Registrant City:Moscow
+Registrant State/Province:
+Registrant Postal Code:125315
+Registrant Country:RU
+Registrant Phone:+7.9035800972
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:trudofobic@gmail.com
+Admin ID:H3SYODV-RU
+Admin Name:Anton Kostrzhevskiy
+Admin Organization:Anton Kostrzhevskiy
+Admin Street1:Usievicha, 23-257
+Admin Street2:
+Admin Street3:
+Admin City:Moscow
+Admin State/Province:
+Admin Postal Code:125315
+Admin Country:RU
+Admin Phone:+7.9035800972
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:trudofobic@gmail.com
+Tech ID:H3SYODV-RU
+Tech Name:Anton Kostrzhevskiy
+Tech Organization:Anton Kostrzhevskiy
+Tech Street1:Usievicha, 23-257
+Tech Street2:
+Tech Street3:
+Tech City:Moscow
+Tech State/Province:
+Tech Postal Code:125315
+Tech Country:RU
+Tech Phone:+7.9035800972
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:trudofobic@gmail.com
+Name Server:NS8.NIC.RU
+Name Server:NS.NIC.RU
+Name Server:NS4.NIS.RU
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

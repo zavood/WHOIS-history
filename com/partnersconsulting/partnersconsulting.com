@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 26-oct-1997
    Expiration Date: 25-oct-2015
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 06:48:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 08:52:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -111,7 +111,7 @@ INFORMATION TECHNOLOGY RESOURCES, INC.
 
    Record expires on 25-Oct-2015.
    Record created on 22-Aug-2009.
-   Database last updated on 18-Sep-2011 02:38:50 EDT.
+   Database last updated on 20-Sep-2011 04:41:28 EDT.
 
    Domain servers in listed order:
 

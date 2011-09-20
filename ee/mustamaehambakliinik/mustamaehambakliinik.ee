@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       mustamaehambakliinik.ee
+registrant:   CID:ZONE:162958
+admin-c:      CID:ZONE:162959
+nsset:        NSSID:ZONE:30909
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 04:29:02
+changed:      28.12.2010 09:00:05
+expire:       28.12.2011
+
+contact:      CID:ZONE:162958
+org:          Manzana Invest O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      28.12.2010 09:00:04
+
+contact:      CID:ZONE:162959
+name:         Hainer &Atilde;•unapuu
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      28.12.2010 09:00:03
+
+nsset:        NSSID:ZONE:30909
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:162960
+registrar:    zone
+created:      28.12.2010 09:00:05
+
+contact:      CID:ZONE:162960
+name:         Hainer &Atilde;•unapuu
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      28.12.2010 09:00:04
+
+

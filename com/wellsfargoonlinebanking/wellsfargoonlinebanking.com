@@ -23,7 +23,7 @@ for detailed information.
    Creation Date: 03-apr-2002
    Expiration Date: 03-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 21:52:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 08:44:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -118,13 +118,13 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns3.markmonitor.com
+    ns2.markmonitor.com
     ns1.markmonitor.com
-    ns4.markmonitor.com
     ns6.markmonitor.com
     ns7.markmonitor.com
     ns5.markmonitor.com
-    ns2.markmonitor.com
+    ns3.markmonitor.com
+    ns4.markmonitor.com
 
 
 
@@ -139,4 +139,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
---
+

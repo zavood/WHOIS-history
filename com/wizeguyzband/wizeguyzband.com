@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 08-nov-2008
    Expiration Date: 08-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 04:48:40 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 08:42:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,73 +52,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
----WHOIS details provided by NetRegistry pty ltd.
-
-NOTICE: Access to WHOIS information is provided to assist persons in
-determining the contents of a domain name registration record in the NetRegistry
-registry database. The data in this record is provided by Net Registry
-for informational purposes only, and NetRegistry does not guarantee its
-accuracy.  This service is intended only for query-based access.  You agree
-that you will use this data only for lawful purposes and that, under no
-circumstances will you use this data to: (a) allow, enable, or otherwise
-support the transmission by e-mail, telephone, or facsimile of mass
-unsolicited, commercial advertising or solicitations to entities other than
-the data recipient's own existing customers; or (b) enable high volume,
-automated, electronic processes that send queries or data to the systems of
-Registry Operator or any ICANN-Accredited Registrar, except as reasonably
-necessary to register domain names or modify existing registrations.  All
-rights reserved. NetRegistry reserves the right to modify these terms at any
-time. By submitting this query, you agree to abide by this policy.
-
-Domain Details
-
-Domain Name:                 wizeguyzband.com
-Creation Date:               9-Nov-2008
-Expiration Date:             9-Nov-2011
-Status:                      ok
-
-Registrant ID:               173461
-Registrant Name:             Steve Bervanakis
-Registrant Organization:     BERCOM SERVICES
-Registrant Street 1:         P.O. Box 4003 Taylors Road, Keilor Downs
-Registrant Street 2:
-Registrant Street 3:
-Registrant City:             Melbourne
-Registrant State/Province:   VIC
-Registrant Postal Code:      3038
-Registrant Country:          au
-Registrant Phone:            +61.393904421
-Registrant FAX:
-Registrant Email:            steve@berva.com
-
-Admin Name:                  Steve Bervanakis
-Admin Organization:          BERCOM SERVICES
-Admin Street 1:              P.O. Box 4003 Taylors Road, Keilor Downs
-Admin Street 2:
-Admin Street 3:
-Admin City:                  Melbourne
-Admin State/Province:        VIC
-Admin Postal Code:           3038
-Admin Country:
-Admin Phone:                 +61.393904421
-Admin FAX:
-Admin Email:                 steve@berva.com
-
-Tech Name:                   Steve Bervanakis
-Tech Organization:           BERCOM SERVICES
-Tech Street 1:               P.O. Box 4003 Taylors Road, Keilor Downs
-Tech Street 2:
-Tech Street 3:
-Tech City:                   Melbourne
-Tech State/Province:         VIC
-Tech Postal Code:            3038
-Tech Country:
-Tech Phone:                  +61.393904421
-Tech FAX:
-Tech Email:                  steve@berva.com
-
-Name Server 1:               dns1.bercom.com.au
-Name Server 2:               dns2.bercom.com.au
-Name Server 3:               dns3.bercom.com.au
-
-

@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 17-dec-1997
    Expiration Date: 24-oct-2020
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 06:17:15 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 07:48:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -108,7 +108,7 @@ Millard Refrigerated Services
 
    Record expires on 24-Oct-2020.
    Record created on 24-Oct-2010.
-   Database last updated on 18-Sep-2011 02:07:26 EDT.
+   Database last updated on 20-Sep-2011 03:38:59 EDT.
 
    Domain servers in listed order:
 

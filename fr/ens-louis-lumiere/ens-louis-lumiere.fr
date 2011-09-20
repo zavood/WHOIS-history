@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; ens-louis-lumiere.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      ens-louis-lumiere.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ENSL1-FRNIC
+admin-c:     MC186-FRNIC
+tech-c:      OH251-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL1508-FRNIC
+registrar:   FRANCE TELECOM
+anniversary: 16/02
+created:     18/02/2000
+last-update: 02/05/2006
+source:      FRNIC
+
+ns-list:     NSL1508-FRNIC
+nserver:     ns2.oleane.net
+nserver:     ns3.oleane.net
+source:      FRNIC
+
+registrar:   FRANCE TELECOM
+type:        Isp Option 1
+address:     6 Place d'Alleray
+address:     PARIS CEDEX 15
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+website:     http://www.orange-business.com/
+anonymous:   NO
+registered:  15/02/2006
+source:      FRNIC
+
+nic-hdl:     MC186-FRNIC
+type:        PERSON
+contact:     Mathieu Cloarec
+address:     ECOLE NORMALE SUPERIEURE LOUIS LUMIERE
+address:     7, allee du Promontoire
+address:     B.P. 22
+address:     93161 Noisy-le-Grand Cedex
+country:     FR
+phone:       +33 1 48 15 40 10
+fax-no:      +33 1 48 15 01 99
+e-mail:      webmaster@ens-louis-lumiere.fr
+changed:     10/01/2001 kzo@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     OH251-FRNIC
+type:        ROLE
+contact:     OLEANE Hostmaster
+address:     France Telecom
+address:     13, rue de Javel
+address:     75015 Paris
+country:     FR
+phone:       +33 1 53 95 14 00
+fax-no:      +33 1 53 95 14 01
+e-mail:      domaine-admin@list.orange-ftgroup.com
+admin-c:     CP460-FRNIC
+tech-c:      CW13-FRNIC
+notify:      hm-dbm-msgs@ripe.net
+changed:     29/10/2004 hostmaster@oleane.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ENSL1-FRNIC
+type:        ORGANIZATION
+contact:     Ecole Nationale Superieure LOUIS LUMIERE
+address:     7, allee du Promontoire
+address:     B.P. 22
+address:     93161 Noisy-le-Grand Cedex
+country:     FR
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

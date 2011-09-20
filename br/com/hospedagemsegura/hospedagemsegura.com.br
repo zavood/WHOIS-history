@@ -5,45 +5,13 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-16 00:16:43 (BRT -03:00)
+%  2011-09-20 05:14:28 (BRT -03:00)
+
+% Query rate limit exceeded. Reduced information.
+% Use https://registro.br/cgi-bin/avail/ for domain availability.
 
 domain:      hospedagemsegura.com.br
-owner:       Fabiano Zumach - ME
-ownerid:     001.666.793/0001-45
-responsible: Fabiano Zumach
-country:     BR
-owner-c:     YLC
-admin-c:     HSH14
-tech-c:      HSH14
-billing-c:   MLM147
-nserver:     ns1.matrix.locadados.com.br
-nsstat:      20110914 UDN
-nslastaa:    20110905
-nserver:     ns2.matrix.locadados.com.br
-nsstat:      20110914 AA
-nslastaa:    20110914
-created:     20030806 #1309545
-expires:     20160806
-changed:     20110715
-status:      published
-
-nic-hdl-br:  HSH14
-person:      HS - Solu&ccedil;&otilde;es em Hosting
-e-mail:      abuse@locadados.com.br
-created:     20040715
-changed:     20091123
-
-nic-hdl-br:  MLM147
-person:      Manass&eacute;s Laiber Marchezi
-e-mail:      manasses@hospedagemsegura.com.br
-created:     20010428
-changed:     20100719
-
-nic-hdl-br:  YLC
-person:      Yanez Luis Cibien
-e-mail:      yanezcibien@gmail.com
-created:     19991111
-changed:     20081011
+owner:       Fabiano Zumach - ME (124257)
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106443479-LROR
+Domain Name:EMMAUSWEST.ORG
+Created On:26-May-2005 15:23:56 UTC
+Last Updated On:18-Apr-2011 19:34:19 UTC
+Expiration Date:26-May-2012 15:23:56 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR46604935
+Registrant Name:Web Administrator
+Registrant Organization:AxleTree Media
+Registrant Street1:100 Missionary Ridge
+Registrant Street2:
+Registrant Street3:
+Registrant City:Birmingham
+Registrant State/Province:Alabama
+Registrant Postal Code:35242
+Registrant Country:US
+Registrant Phone:+1.2059916048
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:support@axletreemedia.com
+Admin ID:CR46605055
+Admin Name:Chuck McBryde
+Admin Organization:AxleTree Media
+Admin Street1:100 Missionary Ridge
+Admin Street2:
+Admin Street3:
+Admin City:Birmingham
+Admin State/Province:Alabama
+Admin Postal Code:35242
+Admin Country:US
+Admin Phone:+1.8889426607
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domainrenewals@axletreemedia.com
+Tech ID:CR46605044
+Tech Name:Web Administrator
+Tech Organization:AxleTree Media
+Tech Street1:100 Missionary Ridge
+Tech Street2:
+Tech Street3:
+Tech City:Birmingham
+Tech State/Province:Alabama
+Tech Postal Code:35242
+Tech Country:US
+Tech Phone:+1.2059916048
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@axletreemedia.com
+Name Server:NS47.DOMAINCONTROL.COM
+Name Server:NS48.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

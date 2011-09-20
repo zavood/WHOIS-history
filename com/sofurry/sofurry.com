@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 01-aug-2008
    Expiration Date: 01-aug-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 10:31:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 08:44:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -74,7 +74,7 @@ Janssen, Nico
 
    Record expires on 01-Aug-2013.
    Record created on 11-Dec-2008.
-   Database last updated on 17-Sep-2011 06:21:55 EDT.
+   Database last updated on 20-Sep-2011 04:34:52 EDT.
 
    Domain servers in listed order:
 

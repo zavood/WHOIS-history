@@ -1,0 +1,40 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       lehetusepikoda.ee
+registrant:   CID:ZONE:114452
+admin-c:      CID:ZONE:114453
+nsset:        NSSID:ZONE:17353
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 04:31:38
+changed:      12.11.2010 12:55:04
+expire:       12.11.2012
+
+contact:      CID:ZONE:114452
+org:          Lehetu Sepikoda O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      12.11.2010 12:55:02
+
+contact:      CID:ZONE:114453
+name:         Ergo Paimla
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      12.11.2010 12:55:02
+
+nsset:        NSSID:ZONE:17353
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:114454
+registrar:    zone
+created:      12.11.2010 12:55:03
+
+contact:      CID:ZONE:114454
+name:         Ergo Paimla
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      12.11.2010 12:55:02
+
+
