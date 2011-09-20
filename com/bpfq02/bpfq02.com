@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 12-jun-2010
    Expiration Date: 12-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 16:56:42 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 07:02:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,4 +51,129 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Your ip address 67.231.254.15 has been blocked.  If you believe this is in error please contact info@nameking.com  with your request.
+
+
+
+
+Domain Name:                 bpfq02.com
+
+
+
+
+Registrant
+------------------------------------------------------------
+
+
+
+Name:                        Admin -
+
+
+Organization:                Oversee Domain Management, LLC
+
+Email:                       admin@overseedomainmanagement.com
+Address:                     515 S. Flower Street
+
+                             Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2132653191
+
+
+
+
+
+Admin Contact
+------------------------------------------------------------
+
+
+
+Name:                        Admin -
+
+
+Organization:                Oversee Domain Management, LLC
+
+Email:                       admin@overseedomainmanagement.com
+Address:                     515 S. Flower Street
+
+                             Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2132653191
+
+
+
+
+
+Billing Contact
+------------------------------------------------------------
+
+
+
+Name:                        Admin -
+
+
+Organization:                Oversee Domain Management, LLC
+
+Email:                       admin@overseedomainmanagement.com
+Address:                     515 S. Flower Street
+
+                             Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2132653191
+
+
+
+
+
+Tech Contact
+------------------------------------------------------------
+
+
+
+Name:                        Admin -
+
+
+Organization:                Oversee Domain Management, LLC
+
+Email:                       admin@overseedomainmanagement.com
+Address:                     515 S. Flower Street
+
+                             Suite 4400
+
+City, Province, Post Code:   Los Angeles, California, 90071
+Country:                     US
+Phone:                       1.2132653191
+
+
+
+
+
+
+Creation Date:               06/12/10
+Expiration Date:             06/12/12
+Domain Status:               ACTIVE
+
+
+Domain Servers
+
+
+  ns2.dsredirection.com
+
+  ns1.dsredirection.com
+
+
+
+Registration Provided By:    NAMEKING INC.
+Contact:                     info@nameking.com
+Abuse Desk Email Address:    abuse@nameking.com
+
+
+
+
+
+
+Request 1/20

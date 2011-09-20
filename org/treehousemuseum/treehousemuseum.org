@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D19905395-LROR
+Domain Name:TREEHOUSEMUSEUM.ORG
+Created On:15-Feb-2000 18:34:56 UTC
+Last Updated On:29-Jun-2009 01:38:56 UTC
+Expiration Date:15-Feb-2013 18:34:56 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25328273-NSI
+Registrant Name:Lynne Goodwin
+Registrant Organization:Treehouse Children's Museum
+Registrant Street1:347 22nd Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ogden
+Registrant State/Province:UT
+Registrant Postal Code:84401
+Registrant Country:US
+Registrant Phone:+1.8013949663
+Registrant Phone Ext.:
+Registrant FAX:+1.8015285128
+Registrant FAX Ext.:
+Registrant Email:lgoodwin@relia.net
+Admin ID:25328274-NSI
+Admin Name:Treehouse Children's Museum
+Admin Organization:Treehouse Children's Museum
+Admin Street1:2255 B. Ogden City Mall
+Admin Street2:
+Admin Street3:
+Admin City:Ogden
+Admin State/Province:UT
+Admin Postal Code:84401
+Admin Country:US
+Admin Phone:+1.80139496
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:treehouse@RELIA.NET
+Tech ID:15598847-NSI
+Tech Name:ReliaNET
+Tech Organization:ReliaNET
+Tech Street1:1159 30TH ST
+Tech Street2:
+Tech Street3:
+Tech City:OGDEN
+Tech State/Province:UT
+Tech Postal Code:84403-0354
+Tech Country:US
+Tech Phone:+1.8016260238
+Tech Phone Ext.:
+Tech FAX:+1.8016260237
+Tech FAX Ext.:
+Tech Email:domains@RELIA.NET
+Name Server:NS1.TECHNOVATIONDESIGN.COM
+Name Server:NS3.TECHNOVATIONDESIGN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

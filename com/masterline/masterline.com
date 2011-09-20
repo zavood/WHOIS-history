@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 10-jul-1996
    Expiration Date: 09-jul-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 06:13:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 07:36:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -108,7 +108,7 @@ Univar USA Inc.
 
    Record expires on 09-Jul-2013.
    Record created on 10-Jul-1996.
-   Database last updated on 18-Sep-2011 02:04:37 EDT.
+   Database last updated on 20-Sep-2011 03:26:18 EDT.
 
    Domain servers in listed order:
 

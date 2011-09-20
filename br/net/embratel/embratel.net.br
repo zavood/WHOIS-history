@@ -5,45 +5,13 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-14 12:20:23 (BRT -03:00)
+%  2011-09-20 03:49:04 (BRT -03:00)
+
+% Query rate limit exceeded. Reduced information.
+% Use https://registro.br/cgi-bin/avail/ for domain availability.
 
 domain:      embratel.net.br
-owner:       EMBRATEL-EMPRESA BRASILEIRA DE TELECOMUNICA&Ccedil;&Otilde;ES SA
-ownerid:     033.530.486/0001-29
-responsible: Ger&ecirc;ncia Internet EMBRATEL
-country:     BR
-owner-c:     CAP12
-admin-c:     CAP12
-tech-c:      FSA82
-billing-c:   GCD50
-nserver:     ns.embratel.net.br 200.255.253.241
-nsstat:      20110912 AA
-nslastaa:    20110912
-nserver:     ns2.embratel.net.br 200.245.255.33
-nsstat:      20110912 AA
-nslastaa:    20110912
-created:     before 19950101
-expires:     20140101
-changed:     20090120
-status:      published
-
-nic-hdl-br:  CAP12
-person:      Gerencia T&eacute;cnica de Opera&ccedil;&otilde;es Internet
-e-mail:      domain-admin@embratel.net.br
-created:     19980202
-changed:     20050620
-
-nic-hdl-br:  FSA82
-person:      Ger&ecirc;ncia T&eacute;cnica de Servidores Internet
-e-mail:      hostmaster@embratel.net.br
-created:     20020524
-changed:     20060419
-
-nic-hdl-br:  GCD50
-person:      Ger&ecirc;ncia Contratos Registro Dom&iacute;nios
-e-mail:      gcrd@embratel.com.br
-created:     20050314
-changed:     20050314
+owner:       EMBRATEL-EMPRESA BRASILEIRA DE TELECOMUNICA&Ccedil;&Otilde;ES SA (10525)
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D162317481-LROR
+Domain Name:WISHMEDIA.ORG
+Created On:19-May-2011 21:16:19 UTC
+Last Updated On:19-Jul-2011 03:50:40 UTC
+Expiration Date:19-May-2012 21:16:19 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR83491496
+Registrant Name:Corey Wilson
+Registrant Organization:wishMedia
+Registrant Street1:14050 Silver Valley Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Maple Ridge
+Registrant State/Province:British Columbia
+Registrant Postal Code:v4r2g5
+Registrant Country:CA
+Registrant Phone:+1.7788621305
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:corey@wishmedia.ca
+Admin ID:CR83491498
+Admin Name:Corey Wilson
+Admin Organization:wishMedia
+Admin Street1:14050 Silver Valley Road
+Admin Street2:
+Admin Street3:
+Admin City:Maple Ridge
+Admin State/Province:British Columbia
+Admin Postal Code:v4r2g5
+Admin Country:CA
+Admin Phone:+1.7788621305
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:corey@wishmedia.ca
+Tech ID:CR83491497
+Tech Name:Corey Wilson
+Tech Organization:wishMedia
+Tech Street1:14050 Silver Valley Road
+Tech Street2:
+Tech Street3:
+Tech City:Maple Ridge
+Tech State/Province:British Columbia
+Tech Postal Code:v4r2g5
+Tech Country:CA
+Tech Phone:+1.7788621305
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:corey@wishmedia.ca
+Name Server:NS1.WISHMEDIA.ORG
+Name Server:NS2.WISHMEDIA.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

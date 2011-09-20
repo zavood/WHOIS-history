@@ -48,21 +48,6 @@ anonymous:   NO
 registered:  21/10/1999
 source:      FRNIC
 
-nic-hdl:     RDN15-FRNIC
-type:        ORGANIZATION
-contact:     DUBOIS JEAN CHRISTOPHE PIERRE ANDRE
-address:     Regie du net
-address:     B.P. 10
-address:     62260 Cauchy-&agrave;-la-Tour
-country:     FR
-phone:       +33 3 21 01 38 90
-e-mail:      chris2706@wanadoo.fr
-changed:     22/02/2010 nic@nic.fr
-anonymous:   NO
-obsoleted:   NO
-idstatus:    ok
-source:      FRNIC
-
 nic-hdl:     OVH5-FRNIC
 type:        ROLE
 contact:     OVH NET
@@ -81,5 +66,20 @@ notify:      tech@ovh.net
 changed:     11/10/2006 tech@ovh.net
 anonymous:   NO
 obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     RDN15-FRNIC
+type:        ORGANIZATION
+contact:     DUBOIS JEAN CHRISTOPHE PIERRE ANDRE
+address:     Regie du net
+address:     B.P. 10
+address:     62260 Cauchy-&agrave;-la-Tour
+country:     FR
+phone:       +33 3 21 01 38 90
+e-mail:      chris2706@wanadoo.fr
+changed:     22/02/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
 source:      FRNIC
 

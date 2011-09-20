@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 17-apr-1998
    Expiration Date: 16-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 19:05:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 06:55:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -106,7 +106,7 @@ Alliance Entertainment
 
    Record expires on 16-Apr-2012.
    Record created on 17-Apr-1998.
-   Database last updated on 10-Sep-2011 14:55:56 EDT.
+   Database last updated on 20-Sep-2011 02:50:31 EDT.
 
    Domain servers in listed order:
 

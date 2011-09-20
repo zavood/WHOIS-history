@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 09-dec-2005
    Expiration Date: 09-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 18:42:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 06:59:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -113,8 +113,8 @@ Registrant:
 
     Domain servers in listed order:
 
-    udns1.ultradns.net
     udns2.ultradns.net
+    udns1.ultradns.net
 
 
 

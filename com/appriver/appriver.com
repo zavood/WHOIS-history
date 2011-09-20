@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 21-jan-2002
    Expiration Date: 21-jan-2015
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 01:20:30 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 07:37:30 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -87,37 +87,28 @@ Domain servers in listed order:
 	 use9.akam.net 	 ns1-137.akam.net
 
 Administrator:
-	 name: Michael Murdoch
- mail: jsmith@appriver.com tel: +1.8509345338
+	 Name-- Michael Murdoch
+ EMail-: (jsmith@appriver.com)
+ tel --: +1.8509345338
 	 org: AppRiver
-
-address: 1101 Gulf Breeze Pkwy Suite 121
-	 city: Gulf Breeze
-,province: FL
-,country: US
- postcode: 32561
+	 1101 Gulf Breeze Pkwy Suite 121
+	 Gulf Breeze,FL,US 32561
 
 Technical Contactor:
-	 name: Michael Murdoch
- mail: jsmith@appriver.com tel: +1.8509345338
+	 Name-- Michael Murdoch
+ EMail-: (jsmith@appriver.com)
+ tel --: +1.8509345338
 	 org: AppRiver Exchange Hosting
-
-address: 1101 Gulf Breeze Pkwy Suite 121
-	 city: Gulf Breeze
-,province: FL
-,country: US
- postcode: 32561
+	 1101 Gulf Breeze Pkwy Suite 121
+	 Gulf Breeze,FL,US 32561
 
 Billing Contactor:
-	 name: Michael Murdoch
- mail: jsmith@appriver.com tel: +1.8509345338
+	 Name-- Michael Murdoch
+ EMail-: (jsmith@appriver.com)
+ tel --: +1.8509345338
 	 org: AppRiver Exchange Hosting
-
-address: 1101 Gulf Breeze Pkwy Suite 121
-	 city: Gulf Breeze
-,province: FL
-,country: US
- postcode: 32561
+	 1101 Gulf Breeze Pkwy Suite 121
+	 Gulf Breeze,FL,US 32561
 
 
 Registration Service Provider:

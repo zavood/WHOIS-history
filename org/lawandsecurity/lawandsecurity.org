@@ -1,0 +1,88 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D127599923-LROR
+Domain Name:LAWANDSECURITY.ORG
+Created On:21-Aug-2006 20:18:05 UTC
+Last Updated On:22-Aug-2011 17:39:05 UTC
+Expiration Date:21-Aug-2013 20:18:05 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:CR32327709
+Registrant Name:Web and Program Administrator
+Registrant Organization:Center on Law and Security at NYU School of Law
+Registrant Street1:110 W. 3rd Street
+Registrant Street2:Suite 224/5
+Registrant Street3:
+Registrant City:New York
+Registrant State/Province:New York
+Registrant Postal Code:10023
+Registrant Country:US
+Registrant Phone:+1.2129928854
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cls@juris.law.nyu.edu
+Admin ID:CR32327711
+Admin Name:Web and Program Administrator
+Admin Organization:Center on Law and Security at NYU School of Law
+Admin Street1:110 W. 3rd Street
+Admin Street2:Suite 224/5
+Admin Street3:
+Admin City:New York
+Admin State/Province:New York
+Admin Postal Code:10023
+Admin Country:US
+Admin Phone:+1.2129928854
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cls@juris.law.nyu.edu
+Tech ID:CR32327710
+Tech Name:Web and Program Administrator
+Tech Organization:Center on Law and Security at NYU School of Law
+Tech Street1:110 W. 3rd Street
+Tech Street2:Suite 224/5
+Tech Street3:
+Tech City:New York
+Tech State/Province:New York
+Tech Postal Code:10023
+Tech Country:US
+Tech Phone:+1.2129928854
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cls@juris.law.nyu.edu
+Name Server:NS1.EASYDNS.COM
+Name Server:NS2.EASYDNS.COM
+Name Server:REMOTE2.EASYDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

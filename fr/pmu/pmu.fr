@@ -47,20 +47,6 @@ anonymous:   NO
 registered:  01/01/1999
 source:      FRNIC
 
-nic-hdl:     PMU16-FRNIC
-type:        ORGANIZATION
-contact:     GIE PARI MUTUEL URBAIN
-address:     2, rue du Professeur Florian Delbarre
-address:     75015 Paris
-country:     FR
-phone:       +33 1 56 09 91 00
-e-mail:      noc@ordipat.fr
-changed:     28/04/2010 nic@nic.fr
-anonymous:   NO
-obsoleted:   NO
-idstatus:    ok
-source:      FRNIC
-
 nic-hdl:     EB4111-FRNIC
 type:        PERSON
 contact:     Eric Brion
@@ -89,5 +75,19 @@ e-mail:      eric.willems@atosorigin.com
 changed:     10/03/2010 nic@nic.fr
 anonymous:   NO
 obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PMU16-FRNIC
+type:        ORGANIZATION
+contact:     GIE PARI MUTUEL URBAIN
+address:     2, rue du Professeur Florian Delbarre
+address:     75015 Paris
+country:     FR
+phone:       +33 1 56 09 91 00
+e-mail:      noc@ordipat.fr
+changed:     28/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
 source:      FRNIC
 

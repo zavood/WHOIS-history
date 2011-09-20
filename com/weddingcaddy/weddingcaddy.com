@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 29-apr-2010
    Expiration Date: 29-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 05:08:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 06:36:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,31 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Alex Cheng
-   2321 Desperado Dr
-   Chino Hills, California 91709
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: WEDDINGCADDY.COM
-      Created on: 29-Apr-10
-      Expires on: 29-Apr-12
-      Last Updated on: 29-Apr-10
-
-   Administrative Contact:
-      Cheng, Alex  alexpcheng@yahoo.com
-      2321 Desperado Dr
-      Chino Hills, California 91709
-      United States
-      (909) 618-4725      Fax --
-
-   Technical Contact:
-      Cheng, Alex  alexpcheng@yahoo.com
-      2321 Desperado Dr
-      Chino Hills, California 91709
-      United States
-      (909) 618-4725      Fax --
 
    Domain servers in listed order:
       NS311.HOSTGATOR.COM
       NS312.HOSTGATOR.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=WEDDINGCADDY.COM

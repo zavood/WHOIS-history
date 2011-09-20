@@ -1,0 +1,56 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         plutocr.at
+registrant:     MBK6386849-NICAT
+admin-c:        YK6450649-NICAT
+tech-c:         YK6450649-NICAT
+nserver:        ns11.worldnic.com
+nserver:        ns12.worldnic.com
+changed:        20091113 00:01:58
+source:         AT-DOM
+
+personname:     Matthew Bernhardt Karlsson
+organization:
+street address: MB Gallery
+postal code:    60622
+city:           Chicago
+country:        United States
+phone:          +468242401
+e-mail:         info@mb-gallery.com
+nic-hdl:        MBK6386849-NICAT
+changed:        20091105 14:57:09
+source:         AT-DOM
+
+personname:     Yuka Karlsson
+organization:
+street address: 1689-2
+postal code:    520-1621
+city:           Imazu-cho
+country:        Japan
+phone:          +81740226666
+e-mail:         rephlex@plutocr.at
+nic-hdl:        YK6450649-NICAT
+changed:        20091113 00:01:49
+source:         AT-DOM
+

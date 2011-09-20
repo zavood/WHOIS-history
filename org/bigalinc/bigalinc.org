@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D45664176-LROR
+Domain Name:BIGALINC.ORG
+Created On:30-Nov-2000 05:43:18 UTC
+Last Updated On:21-Nov-2010 09:57:08 UTC
+Expiration Date:30-Nov-2012 05:43:18 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR34275732
+Registrant Name:Alan Twyman
+Registrant Organization:Big Al, Inc.
+Registrant Street1:7 Katie Way
+Registrant Street2:
+Registrant Street3:
+Registrant City:West Chester
+Registrant State/Province:Pennsylvania
+Registrant Postal Code:19380-1185
+Registrant Country:US
+Registrant Phone:+1.6104299178
+Registrant Phone Ext.:
+Registrant FAX:+1.6104299494
+Registrant FAX Ext.:
+Registrant Email:twyman@bigalinc.com
+Admin ID:CR34275734
+Admin Name:Alan Twyman
+Admin Organization:Big Al, Inc.
+Admin Street1:7 Katie Way
+Admin Street2:
+Admin Street3:
+Admin City:West Chester
+Admin State/Province:Pennsylvania
+Admin Postal Code:19380-1185
+Admin Country:US
+Admin Phone:+1.6104299178
+Admin Phone Ext.:
+Admin FAX:+1.6104299494
+Admin FAX Ext.:
+Admin Email:twyman@bigalinc.com
+Tech ID:CR34275733
+Tech Name:Alan Twyman
+Tech Organization:Big Al, Inc.
+Tech Street1:7 Katie Way
+Tech Street2:
+Tech Street3:
+Tech City:West Chester
+Tech State/Province:Pennsylvania
+Tech Postal Code:19380-1185
+Tech Country:US
+Tech Phone:+1.6104299178
+Tech Phone Ext.:
+Tech FAX:+1.6104299494
+Tech FAX Ext.:
+Tech Email:twyman@bigalinc.com
+Name Server:NS28.DOMAINCONTROL.COM
+Name Server:NS27.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

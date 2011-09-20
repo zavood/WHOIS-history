@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D148198493-LROR
+Domain Name:TRANSPROMO.ORG
+Created On:21-Jun-2007 23:26:04 UTC
+Last Updated On:21-Jun-2011 01:55:42 UTC
+Expiration Date:21-Jun-2012 23:26:04 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:D118246200835080
+Registrant Name:Prism Software
+Registrant Organization:Prism Software
+Registrant Street1:15500-C Rockfield Blvd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Irvine
+Registrant State/Province:CA
+Registrant Postal Code:92618
+Registrant Country:US
+Registrant Phone:+1.9498553100
+Registrant Phone Ext.:
+Registrant FAX:+1.8886636648
+Registrant FAX Ext.:
+Registrant Email:dayres@prism-software.com
+Admin ID:D118246200835077
+Admin Name:David Ayres
+Admin Street1:15500-C Rockfield Blvd.
+Admin Street2:
+Admin Street3:
+Admin City:Irvine
+Admin State/Province:CA
+Admin Postal Code:92618
+Admin Country:US
+Admin Phone:+1.9498553100
+Admin Phone Ext.:
+Admin FAX:+1.9498556341
+Admin FAX Ext.:
+Admin Email:dayres@prism-software.com
+Tech ID:D118246200835079
+Tech Name:David Ayres
+Tech Street1:15500-C Rockfield Blvd.
+Tech Street2:
+Tech Street3:
+Tech City:Irvine
+Tech State/Province:CA
+Tech Postal Code:92618
+Tech Country:US
+Tech Phone:+1.9498553100
+Tech Phone Ext.:
+Tech FAX:+1.9498556341
+Tech FAX Ext.:
+Tech Email:hostmaster@VERIO-HOSTING.COM
+Name Server:NS11A.VERIO-WEB.COM
+Name Server:NS11B.VERIO-WEB.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

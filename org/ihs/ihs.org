@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D330173-LROR
+Domain Name:IHS.ORG
+Created On:01-May-1995 04:00:00 UTC
+Last Updated On:16-Sep-2009 20:07:57 UTC
+Expiration Date:02-May-2013 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20472712-NSI
+Registrant Name:Iowa Health System
+Registrant Organization:Iowa Health System
+Registrant Street1:1200 Pleasant St.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Des Moines
+Registrant State/Province:IA
+Registrant Postal Code:50309
+Registrant Country:US
+Registrant Phone:+1.5152417454
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:kurthsd@ihs.org
+Admin ID:20472711-NSI
+Admin Name:Sam Kurth
+Admin Organization:Iowa Health System
+Admin Street1:1200 Plesant St
+Admin Street2:
+Admin Street3:
+Admin City:Des Moines
+Admin State/Province:IA
+Admin Postal Code:50309
+Admin Country:US
+Admin Phone:+1.5152417454
+Admin Phone Ext.:
+Admin FAX:+1.5152417437
+Admin FAX Ext.:
+Admin Email:kurthsd@ihs.org
+Tech ID:20472711-NSI
+Tech Name:Sam Kurth
+Tech Organization:Iowa Health System
+Tech Street1:1200 Plesant St
+Tech Street2:
+Tech Street3:
+Tech City:Des Moines
+Tech State/Province:IA
+Tech Postal Code:50309
+Tech Country:US
+Tech Phone:+1.5152417454
+Tech Phone Ext.:
+Tech FAX:+1.5152417437
+Tech FAX Ext.:
+Tech Email:kurthsd@ihs.org
+Name Server:UDNS1.ULTRADNS.NET
+Name Server:UDNS2.ULTRADNS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

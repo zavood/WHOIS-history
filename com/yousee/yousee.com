@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 10-feb-2002
    Expiration Date: 10-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 00:54:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 07:00:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,20 +84,32 @@ Domain servers in listed order:
 	 ns11.dnbiz.com 	 ns12.dnbiz.com
 
 Administrator:
-	 hangzhou puwang xinxjishu youxiangongsi master@21cn.net +86.13905876068
-	 hangzhou puwang xinxjishu youxiangongsi
 	 No.56 meixi RD.
-	 YueQing,ZheJiang,CN 325600
+	 YueQing
+ZheJiang,
+CN
+ 325600
 
+	 name:(hangzhou puwang xinxjishu youxiangongsi)
+mail:(master@21cn.net) +86.13905876068
+	 hangzhou puwang xinxjishu youxiangongsi
 Technical Contactor:
-	 hangzhou puwang xinxjishu youxiangongsi master@21cn.net +86.13905876068
-	 hangzhou puwang xinxjishu youxiangongsi
 	 No.56 meixi RD.
-	 YueQing,ZheJiang,CN 325600
+	 YueQing
+ZheJiang,
+CN
+ 325600
 
+	 name:(hangzhou puwang xinxjishu youxiangongsi)
+mail:(master@21cn.net) +86.13905876068
+	 hangzhou puwang xinxjishu youxiangongsi
 Billing Contactor:
-	 hangzhou puwang xinxjishu youxiangongsi master@21cn.net +86.13905876068
-	 hangzhou puwang xinxjishu youxiangongsi
 	 No.56 meixi RD.
-	 YueQing,ZheJiang,CN 325600
+	 YueQing
+ZheJiang,
+CN
+ 325600
 
+	 name:(hangzhou puwang xinxjishu youxiangongsi)
+mail:(master@21cn.net) +86.13905876068
+	 hangzhou puwang xinxjishu youxiangongsi

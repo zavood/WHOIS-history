@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D17784671-LROR
+Domain Name:GSDG.ORG
+Created On:16-Jan-2000 22:51:24 UTC
+Last Updated On:26-Oct-2009 15:50:05 UTC
+Expiration Date:16-Jan-2017 22:51:24 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:OK
+Registrant ID:757506107b790815
+Registrant Name:Martin Spriggs
+Registrant Organization:Good Shepherd Lutheran Church
+Registrant Street1:525 63rd Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Downers Grove
+Registrant State/Province:IL
+Registrant Postal Code:60516
+Registrant Country:US
+Registrant Phone:+1.6302261452
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:shawnpipes@comcast.net
+Admin ID:5741682098d53910
+Admin Name:Shawn Pipes
+Admin Organization:Good Shepherd Lutheran Church
+Admin Street1:525 63rd Street
+Admin Street2:
+Admin Street3:
+Admin City:Downers Grove
+Admin State/Province:IL
+Admin Postal Code:60516
+Admin Country:US
+Admin Phone:+1.6308521519
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:shawnpipes@comcast.net
+Tech ID:9140627091e5a610
+Tech Name:Shawn Pipes
+Tech Organization:Good Shepherd Lutheran Church
+Tech Street1:525 63rd Street
+Tech Street2:
+Tech Street3:
+Tech City:Downers Grove
+Tech State/Province:IL
+Tech Postal Code:60516
+Tech Country:US
+Tech Phone:+1.6308521519
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:shawnpipes@comcast.net
+Name Server:DNS2.FINALWEB.NET
+Name Server:DNS1.FINALWEB.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
