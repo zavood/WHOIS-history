@@ -14,11 +14,11 @@ for detailed information.
    Name Server: NS3.SITE-V.COM
    Name Server: NS4.SITE-V.COM
    Status: ok
-   Updated Date: 11-sep-2011
+   Updated Date: 16-sep-2011
    Creation Date: 22-sep-2010
    Expiration Date: 22-sep-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:17:55 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 10:07:12 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

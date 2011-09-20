@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2904886-LROR
+Domain Name:WILDSOUTH.ORG
+Created On:31-Dec-1998 05:00:00 UTC
+Last Updated On:06-Apr-2011 16:10:07 UTC
+Expiration Date:31-Dec-2016 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26269734-NSI
+Registrant Name:Wild South
+Registrant Organization:Wild South
+Registrant Street1:P.O. Box 117
+Registrant Street2:
+Registrant Street3:
+Registrant City:Moulton
+Registrant State/Province:AL
+Registrant Postal Code:35650
+Registrant Country:US
+Registrant Phone:+1.20597431
+Registrant Phone Ext.:
+Registrant FAX:+1.2569745406
+Registrant FAX Ext.:
+Registrant Email:Waruk@AOL.COM
+Admin ID:26269735-NSI
+Admin Name:Lamar Marshall
+Admin Organization:Wild South
+Admin Street1:P.O. Box 117
+Admin Street2:
+Admin Street3:
+Admin City:Moulton
+Admin State/Province:AL
+Admin Postal Code:35650
+Admin Country:US
+Admin Phone:+1.256974616
+Admin Phone Ext.:
+Admin FAX:+1.256974540
+Admin FAX Ext.:
+Admin Email:johnna@sabp.net
+Tech ID:43756087-NSI
+Tech Name:Ad World Services
+Tech Street1:80 Woods Ammons Rd
+Tech Street2:
+Tech Street3:
+Tech City:Mars Hill
+Tech State/Province:NC
+Tech Postal Code:28754
+Tech Country:US
+Tech Phone:+1.8286898543
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@quickbrightsharp.com
+Name Server:NS1.SITEGROUND204.COM
+Name Server:NS2.SITEGROUND204.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

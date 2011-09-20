@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; popi.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      popi.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    BP3145-FRNIC
+admin-c:     CA4784-FRNIC
+tech-c:      CN1312-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL27513-FRNIC
+registrar:   INDOM
+anniversary: 14/01
+created:     06/03/2003
+last-update: 01/06/2011
+source:      FRNIC
+
+ns-list:     NSL27513-FRNIC
+nserver:     indom130.indomco.org
+nserver:     indom10.indomco.com
+nserver:     indom20.indomco.net
+nserver:     indom30.indomco.fr [213.205.102.3]
+nserver:     indom80.indomco.hk
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     BP3145-FRNIC
+type:        ORGANIZATION
+contact:     BAYARD PRESSE
+address:     18, rue Barbes
+address:     92120 Montrouge
+country:     FR
+phone:       +33 4 37 91 62 70
+fax-no:      +33 4 37 91 62 79
+e-mail:      webplasslyon@plass.com
+changed:     27/03/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CN1312-FRNIC
+type:        PERSON
+contact:     Cedric Nilly
+address:     18, rue Barbes
+address:     92128 Montrouge
+country:     FR
+phone:       +33 1 74 31 48 30
+e-mail:      cedric.nilly@bayard-presse.com
+changed:     01/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CA4784-FRNIC
+type:        PERSON
+contact:     Contact Administratif
+address:     immeuble le Rhone-Alpes
+address:     235, cours Lafayette
+address:     69006 Lyon
+country:     FR
+phone:       +33 4 37 91 62 70
+fax-no:      +33 4 37 91 62 79
+e-mail:      webplasslyon@plass.com
+changed:     01/06/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

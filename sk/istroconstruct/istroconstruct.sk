@@ -1,0 +1,29 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         istroconstruct.sk
+Admin-id            ISTR-0002
+Admin-name          WBI, s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       35685018
+Admin-address       Zizkova 42, Bratislava 821 02
+Admin-telephone     +421 2 4341 0285, +421 2 4341 0286, +421 915 788 034
+Admin-email         bkalec@wbi.sk
+Tech-id             ISTR-0002
+Tech-name           WBI, s.r.o.
+Tech-org.-ID        35685018
+Tech-address        Zizkova 42, Bratislava 821 02
+Tech-telephone      +421 2 4341 0285, +421 2 4341 0286, +421 915 788 034
+Tech-email          bkalec@wbi.sk
+dns_name            ns1.istroconstruct.sk
+dns_IPv4            62.152.233.62
+dns_name            ns2.istroconstruct.sk
+dns_IPv4            212.89.225.159
+dns_name            ns1.postel.sk
+dns_name            ns2.postel.sk
+Last-update         2011-02-01
+Valid-date          2012-02-24
+Domain-status       DOM_OK
+

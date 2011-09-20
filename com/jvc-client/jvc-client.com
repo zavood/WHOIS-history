@@ -11,12 +11,12 @@ for detailed information.
    Referral URL: http://www.1api.net
    Name Server: NS0.DNS-SERVICES.ORG
    Name Server: NS1.DNS-SERVICES.ORG
-   Status: redemptionPeriod
-   Updated Date: 17-aug-2011
+   Status: pendingDelete
+   Updated Date: 17-sep-2011
    Creation Date: 29-aug-2003
    Expiration Date: 29-aug-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 21:03:13 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 09:53:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,77 +51,6 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-; This data is provided by 1api GmbH
-; for information purposes, and to assist persons obtaining information
-; about or related to domain name registration records.
-; 1api GmbH does not guarantee its accuracy.
-; By submitting a WHOIS query, you agree that you will use this data
-; only for lawful purposes and that, under no circumstances, you will
-; use this data to
-; 1) allow, enable, or otherwise support the transmission of mass
-;    unsolicited, commercial advertising or solicitations via E-mail
-;    (spam); or
-; 2) enable high volume, automated, electronic processes that apply
-;    to this WHOIS server.
-; These terms may be changed without prior notice.
-; By submitting this query, you agree to abide by this policy.
 
-
-
-DOMAIN: JVC-CLIENT.COM
-
-RSP: 1api GmbH
-URL: http://www.1api.net/
-
-created-date: 2003-08-29 05:21:23
-updated-date: 2011-08-17 13:01:57
-registration-expiration-date: 2011-08-29 05:21:23
-
-owner-organization:
-owner-name: Lars Dam
-owner-street: Ingemannsvej 5 5.th
-owner-city: Frederiksberg C
-owner-state:
-owner-zip: 1964
-owner-country: DK
-owner-phone: +45.35346067
-owner-fax:
-owner-email: larsdam@post2.tele.dk
-
-admin-organization:
-admin-name: Lars Dam
-admin-street: Ingemannsvej 5 5.th
-admin-city: Frederiksberg C
-admin-state:
-admin-zip: 1964
-admin-country: DK
-admin-phone: +45.35346067
-admin-fax:
-admin-email: larsdam@post2.tele.dk
-
-tech-organization: Danhost ApS
-tech-name: Hostmaster Funktionen
-tech-street: Mirabellevej 11H-J
-tech-city: Randers N&Atilde;˜
-tech-state:
-tech-zip: 8930
-tech-country: DK
-tech-phone: +45.70272207
-tech-fax: +45.70271207
-tech-email: hostmaster@danhost.dk
-
-billing-organization: Danhost ApS
-billing-name: Hostmaster Funktionen
-billing-street: Mirabellevej 11H-J
-billing-city: Randers N&Atilde;˜
-billing-state:
-billing-zip: 8930
-billing-country: DK
-billing-phone: +45.70272207
-billing-fax: +45.70271207
-billing-email: hostmaster@danhost.dk
-
-nameserver: ns1.dns-services.org
-nameserver: ns0.dns-services.org
-
+ERROR: domain not found: jvc-client.com
 

@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 02-nov-1998
    Expiration Date: 01-nov-2015
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 19:02:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 10:20:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -60,7 +60,7 @@ Registrars.
 % INDOM Registrar whois database
 %
 
-Date : 2011.09.10 at 21:03:23 CEST
+Date : 2011.09.20 at 12:21:09 CEST
 
 
 -- DOMAIN NAME --

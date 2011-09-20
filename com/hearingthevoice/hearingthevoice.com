@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 11-may-2009
    Expiration Date: 11-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 23:28:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 10:23:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -60,10 +60,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 174.142.225.246
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.world4you.autodns2.de
 % Requesting Object: domain hearingthevoice.com
-% Timestamp: 2011-09-13 01:29:33
+% Timestamp: 2011-09-20 12:23:48
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.world4you.autodns2.de POLICY

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2063337-LROR
+Domain Name:SIGELACADEMY.ORG
+Created On:29-Sep-1998 04:00:00 UTC
+Last Updated On:11-Aug-2011 16:14:50 UTC
+Expiration Date:28-Sep-2011 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:OK
+Registrant ID:28174207-NSI
+Registrant Name:Bess&amp;Paul Sigel Hebrew Academy
+Registrant Organization:Bess&amp;Paul Sigel Hebrew Academy
+Registrant Street1:53 Gabb Road
+Registrant Street2:
+Registrant Street3:
+Registrant City:Bloomfield
+Registrant State/Province:CT
+Registrant Postal Code:06002
+Registrant Country:US
+Registrant Phone:+1.86065823
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:pbryson@MOBILEIS.COM
+Admin ID:35750345-NSI
+Admin Name:Adam Wilkinson
+Admin Organization:HAGH
+Admin Street1:53 Gabb Rd
+Admin Street2:
+Admin Street3:
+Admin City:Bloomfield
+Admin State/Province:CT
+Admin Postal Code:06002
+Admin Country:US
+Admin Phone:+1.8602438333
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:adamwilkinson@sbcglobal.net
+Tech ID:35750345-NSI
+Tech Name:Adam Wilkinson
+Tech Organization:HAGH
+Tech Street1:53 Gabb Rd
+Tech Street2:
+Tech Street3:
+Tech City:Bloomfield
+Tech State/Province:CT
+Tech Postal Code:06002
+Tech Country:US
+Tech Phone:+1.8602438333
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:adamwilkinson@sbcglobal.net
+Name Server:NS2.INMOTIONHOSTING.COM
+Name Server:NS1.INMOTIONHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

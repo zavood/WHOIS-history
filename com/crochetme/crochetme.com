@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 28-feb-2004
    Expiration Date: 28-feb-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 07:11:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 10:40:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,66 +53,23 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-NOTICE AND TERMS OF USE: You are not authorized to access or query our WHOIS
-database through the use of high-volume, automated, electronic processes. The
-Data in Network Solutions' WHOIS database is provided by Network Solutions for information
-purposes only, and to assist persons in obtaining information about or related
-to a domain name registration record. Network Solutions does not guarantee its accuracy.
-By submitting a WHOIS query, you agree to abide by the following terms of use:
-You agree that you may use this Data only for lawful purposes and that under no
-circumstances will you use this Data to: (1) allow, enable, or otherwise support
-the transmission of mass unsolicited, commercial advertising or solicitations
-via e-mail, telephone, or facsimile; or (2) enable high volume, automated,
-electronic processes that apply to Network Solutions (or its computer systems). The
-compilation, repackaging, dissemination or other use of this Data is expressly
-prohibited without the prior written consent of Network Solutions. You agree not to use
-high-volume, automated, electronic processes to access or query the WHOIS
-database. Network Solutions reserves the right to terminate your access to the WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this policy.
-Network Solutions reserves the right to modify these terms at any time.
+Welcome to the Network Solutions(R) Registrar WHOIS Server.
 
-Get a FREE domain name registration, transfer, or renewal with any annual hosting package.
+The IP address from which you have visited the Network Solutions Registrar WHOIS
+database is contained within a list of IP addresses that may have failed
+to abide by Network Solutions' WHOIS policy.  Failure to abide by this policy can
+adversely impact our systems and servers, preventing the processing of
+other WHOIS requests.
 
-http://www.networksolutions.com
+To see the Network Solutions WHOIS Policy, click on or copy and paste the following
+URL into your browser:
 
-Visit AboutUs.org for more information about CROCHETME.COM
-&lt;a href=&quot;http://www.aboutus.org/CROCHETME.COM&quot;&gt;AboutUs: CROCHETME.COM &lt;/a&gt;
+http://www.networksolutions.com/whois/index.jhtml
 
+If you feel that you have received this message in error, please email us using the online
+form at http://www.networksolutions.com/help/email.jsp with the following information:
 
-
-
-Registrant:
-Interweave Press, LLC
-   201 East Fourth Street
-   Loveland, CO 80537
-   US
-
-   Domain Name: CROCHETME.COM
-
-   ------------------------------------------------------------------------
-   Promote your business to millions of viewers for only $1 a month
-   Learn how you can get an Enhanced Business Listing here for your domain name.
-   Learn more at http://www.NetworkSolutions.com/
-   ------------------------------------------------------------------------
-
-   Administrative Contact, Technical Contact:
-      Interweave Press, LLC		dave@heiberg.com
-      201 East Fourth Street
-      Loveland, CO 80537
-      US
-      (970) 613-4653
-
-
-   Record expires on 28-Feb-2013.
-   Record created on 20-Dec-2008.
-   Database last updated on 11-Sep-2011 03:06:45 EDT.
-
-   Domain servers in listed order:
-
-   NS20.NETRIPLEX.COM           208.69.230.5
-   NS21.NETRIPLEX.COM           72.249.147.140
-   NS22.NETRIPLEX.COM           216.176.177.83
-   NS23.NETRIPLEX.COM           216.59.54.6
-
-
+Whois Query: crochetme.com
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Tue Sep 20 06:31:10 EDT 2011
+Reason Code: IE

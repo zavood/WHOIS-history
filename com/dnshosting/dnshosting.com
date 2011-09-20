@@ -21,7 +21,7 @@ for detailed information.
    Creation Date: 23-apr-1998
    Expiration Date: 22-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 19:31:08 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 10:22:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -56,5 +56,96 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-IP Address: 67.231.254.15
-Maximum Daily connection limit reached. Lookup refused.
+Registrant:
+ Tzolkin Corp
+ 78 Main St.
+ Pepperell, MA 01463
+ US
+
+ Domain name: DNSHOSTING.COM
+
+
+ Administrative Contact:
+    Registrar, Domain  domreg@tzo.com
+    78 Main St.
+    Pepperell, MA 01463
+    US
+    978 433 6865    Fax: 978 433 6535
+
+ Technical Contact:
+    Registrar, Domain  domreg@tzo.com
+    78 Main St.
+    Pepperell, MA 01463
+    US
+    978 433 6865    Fax: 978 433 6535
+
+
+
+ Registration Service Provider:
+    Tzolkin Corp, domreg@tzo.com
+    +1.9784336865
+    http://www.tzo.com/
+    TZO offers Dynamic DNS and Static DNS services.
+    Run your own Server, IP Camera, Mail Server, DVR,
+    Home Control and more!
+
+    Enterprise Automatic Site Failover Service also available.
+    http://www.autofailover.com/
+
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
+
+
+ Registrar of Record: TUCOWS, INC.
+ Record last updated on 23-Mar-2011.
+ Record expires on 22-Apr-2012.
+ Record created on 23-Apr-1998.
+
+ Registrar Domain Name Help Center:
+    http://tucowsdomains.com
+
+ Domain servers in listed order:
+    NS6.DNSHOSTING.COM   108.59.162.155
+    NS3.DNSHOSTING.COM   108.59.170.20
+    NS4.DNSHOSTING.COM   108.59.166.220
+    NS1.DNSHOSTING.COM   108.59.160.180
+    NS2.DNSHOSTING.COM   108.59.164.120
+    NS5.DNSHOSTING.COM   108.59.168.93
+    NS7.DNSHOSTING.COM   108.59.169.185
+
+
+ Domain status: ok
+
+The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
+for information purposes only, and may be used to assist you in obtaining
+information about or related to a domain name's registration record.
+
+Tucows makes this information available &quot;as is,&quot; and does not guarantee its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising or
+solicitations to entities other than the data recipient's own existing
+customers; or (b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator or
+ICANN-Accredited registrar, except as reasonably necessary to register
+domain names or modify existing registrations.
+
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of Tucows.
+
+Tucows reserves the right to terminate your access to the Tucows WHOIS
+database in its sole discretion, including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this
+policy.
+
+Tucows reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by these terms.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
+RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
+
+

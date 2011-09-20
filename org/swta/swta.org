@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6628754-LROR
+Domain Name:SWTA.ORG
+Created On:19-May-1999 18:40:31 UTC
+Last Updated On:01-Apr-2011 15:50:16 UTC
+Expiration Date:19-May-2016 18:40:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:522067-NSI
+Registrant Name:SOUTH WEST TRANSIT ASSOCIATION
+Registrant Organization:SOUTH WEST TRANSIT ASSOCIATION
+Registrant Street1:PO Box 153157
+Registrant Street2:
+Registrant Street3:
+Registrant City:Austin
+Registrant State/Province:TX
+Registrant Postal Code:78715
+Registrant Country:US
+Registrant Phone:+1.5122918870
+Registrant Phone Ext.:
+Registrant FAX:+1.5122928879
+Registrant FAX Ext.:
+Registrant Email:kjoyner@swta.org
+Admin ID:522173-NSI
+Admin Name:Kristen Joyner
+Admin Organization:South West Transit Association
+Admin Street1:PO Box 153157
+Admin Street2:
+Admin Street3:
+Admin City:Austin
+Admin State/Province:TX
+Admin Postal Code:78715
+Admin Country:US
+Admin Phone:+1.5122379733
+Admin Phone Ext.:
+Admin FAX:+1.5122379713
+Admin FAX Ext.:
+Admin Email:kjoyner@swta.org
+Tech ID:522173-NSI
+Tech Name:Kristen Joyner
+Tech Organization:South West Transit Association
+Tech Street1:PO Box 153157
+Tech Street2:
+Tech Street3:
+Tech City:Austin
+Tech State/Province:TX
+Tech Postal Code:78715
+Tech Country:US
+Tech Phone:+1.5122379733
+Tech Phone Ext.:
+Tech FAX:+1.5122379713
+Tech FAX Ext.:
+Tech Email:kjoyner@swta.org
+Name Server:NS39.WORLDNIC.COM
+Name Server:NS40.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

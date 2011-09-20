@@ -12,11 +12,11 @@ for detailed information.
    Name Server: NS06.BYODNS.COM
    Name Server: NS07.BYODNS.COM
    Status: clientTransferProhibited
-   Updated Date: 21-jul-2011
+   Updated Date: 13-sep-2011
    Creation Date: 22-dec-2005
    Expiration Date: 22-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 19:04:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 09:34:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
