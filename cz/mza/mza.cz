@@ -1,0 +1,86 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 20 00:54:25 2011
+
+domain:       mza.cz
+registrant:   SB:MZA-CZ
+admin-c:      MBLAZEK
+temp-c:       MW1569-RIPE
+nsset:        NSS:MTW-CZ:1
+registrar:    REG-ZONER
+status:       paid and in zone
+registered:   21.05.2004 01:35:00
+changed:      29.10.2004 12:15:00
+expire:       20.05.2013
+
+contact:      SB:MZA-CZ
+org:          CR-MZA Brno
+name:         CR-MZA Brno
+address:      &Aring;&frac12;erot&Atilde;&shy;novo n&Atilde;&iexcl;m. 3/5
+address:      Brno
+address:      656 01
+address:      CZ
+e-mail:       blazek@sokabk.cz
+registrar:    REG-ZONER
+created:      14.05.2004 12:15:00
+
+contact:      MBLAZEK
+name:         Miroslav Blazek
+address:      Komensk&Atilde;&copy;ho 9
+address:      Blansko
+address:      678 01
+address:      CZ
+phone:        +420.606666709
+fax-no:       +420.516418684
+e-mail:       blazek@sokabk.cz
+registrar:    REG-ZONER
+created:      14.05.2004 11:55:00
+
+contact:      MW1569-RIPE
+name:         Martin Wetter
+address:      Velenova 12
+address:      Boskovice
+address:      680 01
+address:      CZ
+phone:        +420 516453026
+fax-no:       +420 516453026
+e-mail:       wetter@mtw.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+
+nsset:        NSS:MTW-CZ:1
+nserver:      ns.mtw.cz (193.179.179.2)
+nserver:      sns.mtw.cz (193.86.232.10)
+tech-c:       SB:MTW-CZ
+tech-c:       MW1569-RIPE
+registrar:    REG-ZONER
+created:      01.10.2007 02:00:00
+changed:      08.04.2011 23:40:47
+
+contact:      SB:MTW-CZ
+name:         Martin Wetter
+address:      Velenova 12
+address:      Boskovice
+address:      680 01
+address:      CZ
+e-mail:       wetter@mtw.cz
+registrar:    REG-ZONER
+created:      10.08.2001 22:13:00
+
+

@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 01-jan-2005
    Expiration Date: 01-jan-2015
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 00:16:57 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 23:09:35 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Sunday, 11-Sep-2011 02:17:42 CEST
-# gmt time      : Sunday, 11-Sep-2011 00:17:42 GMT
+# local time    : Tuesday, 20-Sep-2011 01:10:10 CEST
+# gmt time      : Monday, 19-Sep-2011 23:10:10 GMT
 # last modify   : Sunday, 07-Feb-2010 22:15:06 CET
-# request from  : 192.168.248.1:13528
+# request from  : 192.168.248.1:13746
 
 Domain name: chine-informations.com
 

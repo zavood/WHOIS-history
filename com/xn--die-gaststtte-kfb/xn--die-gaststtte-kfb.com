@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 01-jul-2008
    Expiration Date: 01-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 22:07:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 23:28:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain xn--die-gaststtte-kfb.com
-% Timestamp: 2011-09-19 00:08:28
+% Timestamp: 2011-09-20 01:28:45
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

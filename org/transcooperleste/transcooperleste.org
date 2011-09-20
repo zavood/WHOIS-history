@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D149163666-LROR
+Domain Name:TRANSCOOPERLESTE.ORG
+Created On:18-Sep-2007 11:30:07 UTC
+Last Updated On:19-Sep-2011 10:27:25 UTC
+Expiration Date:18-Sep-2012 11:30:07 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:9A4BD6E0C32E810A
+Registrant Name:Sergio Melle
+Registrant Organization:Transcooper Cooperativa de Trabalho dos Profissionais no Tra
+Registrant Street1:Estrada do Pessego, 541
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sao Paulo
+Registrant State/Province:
+Registrant Postal Code:08260000
+Registrant Country:BR
+Registrant Phone:+55.65231600
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:sergio@transcooper.org.br
+Admin ID:9A4BD6E0C32E810A
+Admin Name:Sergio Melle
+Admin Organization:Transcooper Cooperativa de Trabalho dos Profissionais no Tra
+Admin Street1:Estrada do Pessego, 541
+Admin Street2:
+Admin Street3:
+Admin City:Sao Paulo
+Admin State/Province:
+Admin Postal Code:08260000
+Admin Country:BR
+Admin Phone:+55.65231600
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:sergio@transcooper.org.br
+Tech ID:9A4BD6E0C32E810A
+Tech Name:Sergio Melle
+Tech Organization:Transcooper Cooperativa de Trabalho dos Profissionais no Tra
+Tech Street1:Estrada do Pessego, 541
+Tech Street2:
+Tech Street3:
+Tech City:Sao Paulo
+Tech State/Province:
+Tech Postal Code:08260000
+Tech Country:BR
+Tech Phone:+55.65231600
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:sergio@transcooper.org.br
+Name Server:DNS1.NAME-SERVICES.COM
+Name Server:DNS2.NAME-SERVICES.COM
+Name Server:DNS3.NAME-SERVICES.COM
+Name Server:DNS4.NAME-SERVICES.COM
+Name Server:DNS5.NAME-SERVICES.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

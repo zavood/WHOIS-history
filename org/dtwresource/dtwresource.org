@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96671514-LROR
+Domain Name:DTWRESOURCE.ORG
+Created On:26-Mar-2003 15:29:47 UTC
+Last Updated On:01-Mar-2011 19:48:23 UTC
+Expiration Date:26-Mar-2012 15:29:47 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:16994426-NSI
+Registrant Name:RBC Ministries
+Registrant Organization:RBC Ministries
+Registrant Street1:3000 Kraft Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Grand Rapids
+Registrant State/Province:MI
+Registrant Postal Code:49512
+Registrant Country:US
+Registrant Phone:+1.6169742687
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:JCanfield@rbc.org
+Admin ID:16994426-NSI
+Admin Name:RBC Ministries
+Admin Organization:RBC Ministries
+Admin Street1:3000 Kraft Ave
+Admin Street2:
+Admin Street3:
+Admin City:Grand Rapids
+Admin State/Province:MI
+Admin Postal Code:49512
+Admin Country:US
+Admin Phone:+1.6169742687
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:JCanfield@rbc.org
+Tech ID:16994426-NSI
+Tech Name:RBC Ministries
+Tech Organization:RBC Ministries
+Tech Street1:3000 Kraft Ave
+Tech Street2:
+Tech Street3:
+Tech City:Grand Rapids
+Tech State/Province:MI
+Tech Postal Code:49512
+Tech Country:US
+Tech Phone:+1.6169742687
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:JCanfield@rbc.org
+Name Server:NS1.RBC.ORG
+Name Server:NS2.RBC.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

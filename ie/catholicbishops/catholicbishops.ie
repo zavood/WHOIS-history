@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      catholicbishops.ie
+descr:       Hierarchy General Purpose Fund
+descr:       Charity
+descr:       Discretionary Name
+admin-c:     AGU703-IEDR
+tech-c:      IL14-IEDR
+renewal:     15-March-2012
+status:      Active
+nserver:     NS.ITXPERTISE.COM
+nserver:     NS2.ITXPERTISE.COM
+source:      IEDR
+
+person:      Martin Long
+nic-hdl:     AGU703-IEDR
+source:      IEDR
+
+person:      Deep Blue Internet Services
+nic-hdl:     IL14-IEDR
+source:      IEDR
+

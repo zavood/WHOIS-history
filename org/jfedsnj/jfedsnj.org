@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2169386-LROR
+Domain Name:JFEDSNJ.ORG
+Created On:06-May-1998 04:00:00 UTC
+Last Updated On:01-May-2009 13:43:24 UTC
+Expiration Date:05-May-2014 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:42783277-NSI
+Registrant Name:Jewish Federation
+Registrant Organization:Jewish Federation
+Registrant Street1:1301 Springdale Road Suite 200
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cherry Hill
+Registrant State/Province:NJ
+Registrant Postal Code:08003
+Registrant Country:US
+Registrant Phone:+1.856751950
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:no.valid.email@worldnic.com
+Admin ID:42783277-NSI
+Admin Name:Jewish Federation
+Admin Organization:Jewish Federation
+Admin Street1:1301 Springdale Road Suite 200
+Admin Street2:
+Admin Street3:
+Admin City:Cherry Hill
+Admin State/Province:NJ
+Admin Postal Code:08003
+Admin Country:US
+Admin Phone:+1.856751950
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:no.valid.email@worldnic.com
+Tech ID:42783277-NSI
+Tech Name:Jewish Federation
+Tech Organization:Jewish Federation
+Tech Street1:1301 Springdale Road Suite 200
+Tech Street2:
+Tech Street3:
+Tech City:Cherry Hill
+Tech State/Province:NJ
+Tech Postal Code:08003
+Tech Country:US
+Tech Phone:+1.856751950
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:no.valid.email@worldnic.com
+Name Server:NS2.WWWCOMM.COM
+Name Server:NS.WWWCOMM.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

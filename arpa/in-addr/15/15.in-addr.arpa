@@ -1,0 +1,19 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       15.in-addr.arpa
+
+organisation: Hewlett-Packard Company
+
+nserver:      NS1.HP.NET.
+nserver:      NS2.HP.NET.
+nserver:      NS3.HP.NET.
+nserver:      NS4.HP.NET.
+nserver:      NS5.HP.NET.
+nserver:      NS6.HP.NET.
+
+changed:      1994-07
+changed:      2011-01-08
+source:       IANA
+

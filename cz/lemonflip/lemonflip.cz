@@ -1,0 +1,81 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 20 01:10:38 2011
+
+domain:       lemonflip.cz
+registrant:   SB:MF16082007-SBJCT
+admin-c:      MF16082007-CONTC
+temp-c:       JZ23102001-CONTC
+nsset:        BLUEHOST
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   16.08.2007 19:45:00
+changed:      23.01.2008 00:34:03
+expire:       16.08.2012
+
+contact:      SB:MF16082007-SBJCT
+name:         Mari&Atilde;&iexcl;n Fo&Aring;™t
+address:      V. &Aring;&nbsp;&Atilde;&shy;p&Aring;&iexcl;a 9/54
+address:      Martin
+address:      03601
+address:      CZ
+e-mail:       studio@adag.sk
+registrar:    REG-IGNUM
+created:      16.08.2007 19:35:00
+
+contact:      MF16082007-CONTC
+name:         Mari&Atilde;&iexcl;n Fo&Aring;™t
+address:      V. &Aring;&nbsp;&Atilde;&shy;p&Aring;&iexcl;a 9/54
+address:      Martin
+address:      03601
+address:      CZ
+e-mail:       studio@adag.sk
+registrar:    REG-IGNUM
+created:      16.08.2007 19:25:00
+
+contact:      JZ23102001-CONTC
+name:         Jiri Zraly
+address:      &Auml;Œesk&Atilde;&iexcl; 1
+address:      Praha 5
+address:      158 00
+address:      CZ
+phone:        +420.775086575
+registrar:    REG-IGNUM
+created:      12.10.2001 01:56:00
+changed:      03.06.2010 19:06:02
+
+nsset:        BLUEHOST
+nserver:      shinzon.blueboard.cz
+nserver:      ns2.blueboard.cz
+tech-c:       JZ23102001-CONTC
+tech-c:       TR01102007-CONTC
+registrar:    REG-IGNUM
+created:      01.10.2007 16:43:02
+
+contact:      TR01102007-CONTC
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Randa
+address:      Na H&Aring;™ebenk&Atilde;&iexcl;ch 1902/43
+address:      Praha 5
+address:      150 00
+address:      CZ
+registrar:    REG-IGNUM
+created:      01.10.2007 14:31:05
+changed:      03.06.2010 17:05:04
+
+

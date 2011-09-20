@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 11-dec-2009
    Expiration Date: 11-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 08:32:53 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 22:57:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -62,10 +62,10 @@ Registrars.
 %
 % All requests are logged.
 %
-% Requesting IP: 174.142.225.246
+% Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain auto-dns.com
-% Timestamp: 2011-09-14 10:33:36
+% Timestamp: 2011-09-20 00:58:04
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
@@ -100,7 +100,7 @@ changed:                     2010-12-13 06:13:11
 [owner-c] fax:               +31-512-842182
 [owner-c] email:             info@xxlwebhosting.nl
 [owner-c] protection:        B
-[owner-c] updated:           2011-08-25 13:15:38
+[owner-c] updated:           2011-09-16 13:16:02
 
 [admin-c] handle:            9718201
 [admin-c] type:              ORG
@@ -117,7 +117,7 @@ changed:                     2010-12-13 06:13:11
 [admin-c] fax:               +31-512-842182
 [admin-c] email:             info@xxlwebhosting.nl
 [admin-c] protection:        B
-[admin-c] updated:           2011-08-25 13:15:38
+[admin-c] updated:           2011-09-16 13:16:02
 
 [tech-c] handle:            9718201
 [tech-c] type:              ORG
@@ -134,7 +134,7 @@ changed:                     2010-12-13 06:13:11
 [tech-c] fax:               +31-512-842182
 [tech-c] email:             info@xxlwebhosting.nl
 [tech-c] protection:        B
-[tech-c] updated:           2011-08-25 13:15:38
+[tech-c] updated:           2011-09-16 13:16:02
 
 [zone-c] handle:            9718201
 [zone-c] type:              ORG
@@ -151,5 +151,5 @@ changed:                     2010-12-13 06:13:11
 [zone-c] fax:               +31-512-842182
 [zone-c] email:             info@xxlwebhosting.nl
 [zone-c] protection:        B
-[zone-c] updated:           2011-08-25 13:15:38
+[zone-c] updated:           2011-09-16 13:16:02
 

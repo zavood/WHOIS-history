@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: UNI1286D-NORID
+Domain Name................: unisoft.no
+Domain Holder Handle.......: UF36O-NORID
+Registrar Handle...........: REG580-NORID
+Legal-c Handle.............: TF2177P-NORID
+Tech-c Handle..............: SH35R-NORID
+Name Server Handle.........: NSSE23H-NORID
+Name Server Handle.........: TOMM4H-NORID
+
+Additional information:
+Created:         2002-04-11
+Last updated:    2011-04-13
+
+NORID Handle...............: UF36O-NORID
+Type.......................: organization
+Name.......................: UniSoft Farmen
+Id Type....................: organization_number
+Id Number..................: 977476704
+Registrar Handle...........: REG580-NORID
+Post Address...............: Farmen
+Postal Code................: NO-3282
+Postal Area................: Kvelde
+Country....................: NO
+Phone Number...............: +47.33116549
+Fax Number.................: +47.33115123
+Email Address..............: thore@farmen.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

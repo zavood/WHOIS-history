@@ -1,0 +1,39 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'blogskin.ir'
+
+
+domain:		blogskin.ir
+ascii:		blogskin.ir
+remarks:	(Domain Holder) mohammad khodadadi
+remarks:	(Domain Holder Address) 20 metry lalaeh, 23rd alley, No.434,, Shiraz, Fars, IR
+holder-c:	mk61-irnic
+admin-c:	mr218-irnic
+tech-c:		mr218-irnic
+nserver:	ns7.hostdl.com
+nserver:	ns8.hostdl.com
+last-updated:	2011-04-09
+source:		IRNIC # Filtered
+
+nic-hdl:	mk61-irnic
+person:		mohammad khodadadi
+e-mail:		mohammad.khodadadi@gmail.com
+address:	20 metry lalaeh, 23rd alley, No.434,, Shiraz, Fars, IR
+phone:		+98 711 2348176
+fax-no:		+98 711 2351736
+source:		IRNIC # Filtered
+
+nic-hdl:	mr218-irnic
+person:		mohammad rahimi
+e-mail:		amrdesign.m@gmail.com
+address:	afif abad st., 1 Alley, No. 42,, shiraz, fars, IR
+phone:		+98 935 3521617
+fax-no:		+98 935 3521617
+source:		IRNIC # Filtered
+

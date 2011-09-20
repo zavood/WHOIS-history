@@ -1,0 +1,30 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'and-roid.ir'
+
+
+domain:		and-roid.ir
+ascii:		and-roid.ir
+remarks:	(Domain Holder) Saeed Ebadi
+remarks:	(Domain Holder Address) No.8 Ahmadi Alley , Ostad Moien St. Azadi St., Tehran, Tehran, IR
+holder-c:	se347-irnic
+admin-c:	se347-irnic
+tech-c:		se347-irnic
+nserver:	ns7.hostdl.com
+nserver:	ns8.hostdl.com
+last-updated:	2011-02-22
+source:		IRNIC # Filtered
+
+nic-hdl:	se347-irnic
+person:		Saeed Ebadi
+e-mail:		Ebadi_Saeed@Yahoo.com
+address:	No.8 Ahmadi Alley , Ostad Moien St. Azadi St., Tehran, Tehran, IR
+phone:		+98 21 66066777
+source:		IRNIC # Filtered
+

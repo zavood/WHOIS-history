@@ -1,0 +1,28 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      americanairlines.ie
+descr:       American Airlines
+descr:       Body Corporate (Ltd,PLC,Company)
+descr:       Registered Business Name
+admin-c:     ABD634-IEDR
+tech-c:      ALE831-IEDR
+renewal:     13-January-2012
+status:      Active
+nserver:     dns11.domainnetwork.com
+nserver:     dns12.domainnetwork.com
+nserver:     dns13.domainnetwork.com
+nserver:     dns14.domainnetwork.net
+nserver:     dns15.domainnetwork.net
+nserver:     dns16.domainnetwork.net
+source:      IEDR
+
+person:      Evelien de Boer
+nic-hdl:     ABD634-IEDR
+source:      IEDR
+
+person:      MelbourneIT Billing
+nic-hdl:     ALE831-IEDR
+source:      IEDR
+

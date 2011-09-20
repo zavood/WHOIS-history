@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158057286-LROR
+Domain Name:WESTOPTHEKILLINGS.ORG
+Created On:14-Jan-2010 20:06:59 UTC
+Last Updated On:15-Jan-2011 09:28:25 UTC
+Expiration Date:14-Jan-2012 20:06:59 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR40375869
+Registrant Name:Ezoba Design Inc.
+Registrant Organization:Ezoba Design Inc.
+Registrant Street1:5269 Elliott Dr
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hoffman Estates
+Registrant State/Province:Illinois
+Registrant Postal Code:60192
+Registrant Country:US
+Registrant Phone:+1.3122850915
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:armin21@comcast.net
+Admin ID:CR40375875
+Admin Name:Ezoba Design Inc.
+Admin Organization:Ezoba Design Inc.
+Admin Street1:5269 Elliott Dr
+Admin Street2:
+Admin Street3:
+Admin City:Hoffman Estates
+Admin State/Province:Illinois
+Admin Postal Code:60192
+Admin Country:US
+Admin Phone:+1.3122850915
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:armin21@comcast.net
+Tech ID:CR40375872
+Tech Name:Ezoba Design Inc.
+Tech Organization:Ezoba Design Inc.
+Tech Street1:5269 Elliott Dr
+Tech Street2:
+Tech Street3:
+Tech City:Hoffman Estates
+Tech State/Province:Illinois
+Tech Postal Code:60192
+Tech Country:US
+Tech Phone:+1.3122850915
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:armin21@comcast.net
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

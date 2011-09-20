@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      weddingdates.ie
+descr:       Conal Crossan
+descr:       Sole Trader
+descr:       Registered Business Name
+admin-c:     ADN219-IEDR
+tech-c:      AAM456-IEDR
+renewal:     04-July-2012
+status:      Active
+nserver:     ns.blacknightsolutions.com
+nserver:     ns2.blacknightsolutions.com
+source:      IEDR
+
+person:      Conal Crossan
+nic-hdl:     ADN219-IEDR
+source:      IEDR
+
+person:      Blacknight.ie Hostmaster
+nic-hdl:     AAM456-IEDR
+source:      IEDR
+

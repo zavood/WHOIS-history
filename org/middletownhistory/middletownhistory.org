@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D80186038-LROR
+Domain Name:MIDDLETOWNHISTORY.ORG
+Created On:23-Nov-2001 16:48:39 UTC
+Last Updated On:19-Mar-2010 14:12:22 UTC
+Expiration Date:23-Nov-2017 16:48:39 UTC
+Sponsoring Registrar:NameSecure, L.L.C. (R58-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:mfb2NS962811
+Registrant Name:Gary Paquette
+Registrant Organization:Gary Paquette
+Registrant Street1:37 White Terrace
+Registrant Street2:
+Registrant Street3:
+Registrant City:Middletown
+Registrant State/Province:RI
+Registrant Postal Code:02842
+Registrant Country:US
+Registrant Phone:+1.4016193254
+Registrant Phone Ext.:
+Registrant FAX:+1.4018491585
+Registrant FAX Ext.:
+Registrant Email:ftsne@cox.net
+Admin ID:nsm5NS449728
+Admin Name:Gary Paquette
+Admin Organization:Gary Paquette
+Admin Street1:37 White Terrace
+Admin Street2:
+Admin Street3:
+Admin City:Middletown
+Admin State/Province:RI
+Admin Postal Code:02842
+Admin Country:US
+Admin Phone:+1.4016193254
+Admin Phone Ext.:
+Admin FAX:+1.4018491585
+Admin FAX Ext.:
+Admin Email:ftsne@cox.net
+Tech ID:qak8NS449729
+Tech Name:Namesecure Inc.
+Tech Organization:Namesecure Inc.
+Tech Street1:P.O. Box 785
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20172
+Tech Country:US
+Tech Phone:+1.5707088418
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:support@namesecure.com
+Name Server:DNS2.NAMESECURE.COM
+Name Server:DNS1.NAMESECURE.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

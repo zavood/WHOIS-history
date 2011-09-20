@@ -53,20 +53,6 @@ anonymous:   NO
 registered:  21/10/1999
 source:      FRNIC
 
-nic-hdl:     WMF24-FRNIC
-type:        ORGANIZATION
-contact:     WARNER MUSIC FRANCE
-address:     29, avenue Mac Mahon
-address:     75017 Paris
-country:     FR
-phone:       +33 1 56 60 40 00
-e-mail:      itoperation.wmf@warnermusic.com
-changed:     08/09/2011 nic@nic.fr
-anonymous:   NO
-obsoleted:   NO
-idstatus:    ok
-source:      FRNIC
-
 nic-hdl:     OVH5-FRNIC
 type:        ROLE
 contact:     OVH NET
@@ -85,5 +71,19 @@ notify:      tech@ovh.net
 changed:     11/10/2006 tech@ovh.net
 anonymous:   NO
 obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     WMF24-FRNIC
+type:        ORGANIZATION
+contact:     WARNER MUSIC FRANCE
+address:     29, avenue Mac Mahon
+address:     75017 Paris
+country:     FR
+phone:       +33 1 56 60 40 00
+e-mail:      itoperation.wmf@warnermusic.com
+changed:     08/09/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
 source:      FRNIC
 

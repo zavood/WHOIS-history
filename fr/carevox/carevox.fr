@@ -1,0 +1,89 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; carevox.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      carevox.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    PI934-FRNIC
+admin-c:     PI934-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL41582-FRNIC
+registrar:   GANDI
+anniversary: 01/07
+created:     26/02/2008
+last-update: 07/04/2011
+source:      FRNIC
+
+ns-list:     NSL41582-FRNIC
+nserver:     storm.pharmagest.com
+nserver:     venus.pharmagest.com
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     PI934-FRNIC
+type:        ORGANIZATION
+contact:     PHARMAGEST INTERACTIVE
+address:     5, allee Saint Cloud
+address:     54600 Villers-l&egrave;s-Nancy
+country:     FR
+phone:       +33 3 83 15 90 69
+fax-no:      +33 3 83 41 07 81
+e-mail:      gandi@pharmagest.com
+changed:     20/05/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

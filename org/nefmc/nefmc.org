@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1535782-LROR
+Domain Name:NEFMC.ORG
+Created On:12-Feb-1996 05:00:00 UTC
+Last Updated On:05-Dec-2009 06:31:24 UTC
+Expiration Date:13-Feb-2013 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR32264178
+Registrant Name:Lou Goodreau
+Registrant Organization:New England Fishery Management
+Registrant Street1:50 Water Street
+Registrant Street2:Mill 2
+Registrant Street3:
+Registrant City:Newburyport
+Registrant State/Province:Massachusetts
+Registrant Postal Code:01950
+Registrant Country:US
+Registrant Phone:+1.19784650492
+Registrant Phone Ext.:
+Registrant FAX:+1.9784653116
+Registrant FAX Ext.:
+Registrant Email:ljgoodreau@nefmc.org
+Admin ID:CR32264180
+Admin Name:Lou Goodreau
+Admin Organization:New England Fishery Management
+Admin Street1:50 Water Street
+Admin Street2:Mill 2
+Admin Street3:
+Admin City:Newburyport
+Admin State/Province:Massachusetts
+Admin Postal Code:01950
+Admin Country:US
+Admin Phone:+1.19784650492
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:lgoodreau@nefmc.org
+Tech ID:CR32264179
+Tech Name:Joan OLeary
+Tech Organization:New England Fishery Management
+Tech Street1:50 Water Street
+Tech Street2:Mill 2
+Tech Street3:
+Tech City:Newburyport
+Tech State/Province:Massachusetts
+Tech Postal Code:01950
+Tech Country:US
+Tech Phone:+1.9784650492
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:joleary@nefmc.org
+Name Server:NS1.COMCASTBUSINESS.NET
+Name Server:NS2.COMCASTBUSINESS.NET
+Name Server:NS3.COMCASTBUSINESS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

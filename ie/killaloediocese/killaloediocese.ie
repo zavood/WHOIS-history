@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      killaloediocese.ie
+descr:       The Catholic Diocese of Killaloe
+descr:       Unincorporated Association
+descr:       Unincorporated Association Name
+admin-c:     AAM955-IEDR
+tech-c:      IL14-IEDR
+renewal:     04-November-2011
+status:      Active
+nserver:     NS.BLACKNIGHTSOLUTIONS.COM
+nserver:     NS2.BLACKNIGHTSOLUTIONS.COM
+source:      IEDR
+
+person:      Fr. Gerry Kenny
+nic-hdl:     AAM955-IEDR
+source:      IEDR
+
+person:      Deep Blue Internet Services
+nic-hdl:     IL14-IEDR
+source:      IEDR
+

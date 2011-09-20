@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 19-oct-1999
    Expiration Date: 19-oct-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 22:00:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 23:22:15 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -67,7 +67,7 @@ NOTICE: You are not authorized to access or query our WHOIS database through the
    Registrant:
       WebTrends Inc
       Domain Administrator
-      851 SW 6th Av Suite 700
+      851 SW 6th Ave Suite 600
       Portland, OR 97204
       US
       Email: hostmaster@webtrends.com
@@ -80,25 +80,25 @@ NOTICE: You are not authorized to access or query our WHOIS database through the
 
       Created on..............: Tue, Oct 19, 1999
       Expires on..............: Fri, Oct 19, 2012
-      Record last updated on..: Fri, Oct 15, 2010
+      Record last updated on..: Mon, Sep 19, 2011
 
    Administrative Contact:
       WebTrends Inc
-      Jason White
+      Domain Administrator
       851 SW 6th Ave Suite 600
       Portland, OR 97204
       US
-      Phone: +1.5035532589
-      Email: jason.white@webtrends.com
+      Phone: +1.5032947025
+      Email: hostmaster@webtrends.com
 
    Technical Contact:
       WebTrends Inc
-      Operations Network
+      Web Administrator
       851 SW 6th Ave Suite 600
       Porland, OR 97204
       US
       Phone: +1.5032947025
-      Email: noc@webtrends.com
+      Email: webmaster@webtrends.com
 
    DNS Servers:
 

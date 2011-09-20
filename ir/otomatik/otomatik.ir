@@ -1,0 +1,30 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'otomatik.ir'
+
+
+domain:		otomatik.ir
+ascii:		otomatik.ir
+remarks:	(Domain Holder) MohammadHossein Fakhraei
+remarks:	(Domain Holder Address) Gohardasht Crossroad, Yaser 3 , Sakhteman Yas, No. 9, Unit 8,, Karaj, Tehran, IR
+holder-c:	mf207-irnic
+admin-c:	mf207-irnic
+tech-c:		mf207-irnic
+nserver:	ns3.iranbackup.com
+nserver:	ns4.iranbackup.com
+last-updated:	2011-06-18
+source:		IRNIC # Filtered
+
+nic-hdl:	mf207-irnic
+person:		MohammadHossein Fakhraei
+e-mail:		eng.fakhraei@gmail.com
+address:	Gohardasht Crossroad, Yaser 3 , Sakhteman Yas, No. 9, Unit 8,, Karaj, Tehran, IR
+phone:		09363030433
+source:		IRNIC # Filtered
+

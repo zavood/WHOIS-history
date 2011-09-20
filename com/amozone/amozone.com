@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 22-feb-2001
    Expiration Date: 22-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 14:39:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 23:32:49 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -114,9 +114,9 @@ Registrant:
 
     Domain servers in listed order:
 
+    ns-3.amazon.com
     ns-2.amazon.com
     ns-1.amazon.com
-    ns-3.amazon.com
 
 
 

@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105647100-LROR
+Domain Name:MCAULIFFEREGIONAL.ORG
+Created On:28-Jan-2005 18:18:27 UTC
+Last Updated On:31-Mar-2010 00:23:16 UTC
+Expiration Date:28-Jan-2015 18:18:27 UTC
+Sponsoring Registrar:Dynamic Network Services, Inc. (R1450-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DYNDNS118748
+Registrant Name:Robert Kaufman
+Registrant Organization:McAuliffe Regional Charter
+Registrant Street1:25 Clinton Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Framingham
+Registrant State/Province:MA
+Registrant Postal Code:01701
+Registrant Country:US
+Registrant Phone:+1.5088799000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:rkaufman@McAuliffeRegional.org
+Admin ID:DYNDNS118748
+Admin Name:Robert Kaufman
+Admin Organization:McAuliffe Regional Charter
+Admin Street1:25 Clinton Street
+Admin Street2:
+Admin Street3:
+Admin City:Framingham
+Admin State/Province:MA
+Admin Postal Code:01701
+Admin Country:US
+Admin Phone:+1.5088799000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rkaufman@McAuliffeRegional.org
+Tech ID:DYNDNS118750
+Tech Name:MIS Alliance Hostmaster
+Tech Organization:MIS Alliance
+Tech Street1:1 Gateway Center
+Tech Street2:Suite 506
+Tech Street3:
+Tech City:Newton
+Tech State/Province:MA
+Tech Postal Code:02458
+Tech Country:US
+Tech Phone:+1.6179655800
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:Hostmaster@misalliance.com
+Name Server:NS1.INFINOLOGY.COM
+Name Server:NS2.INFINOLOGY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

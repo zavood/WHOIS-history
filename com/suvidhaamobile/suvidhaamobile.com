@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 14-may-2009
    Expiration Date: 14-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 09:53:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 22:45:36 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,73 +51,13 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registration Service Provided By: INDIAACCESS
-Contact: +91.28130029
-Website: http://www.indiaaccess.com
+The IP Address 67.231.254.15 you are using to query our Whois Server has exceeded the 100 Whois queries per day limit. Any further queries from this IP Address will not result in a response until 24 hours.
 
-Domain Name: SUVIDHAAMOBILE.COM
+You could have received this message, if 67.231.254.15 is a Public IP Address and has been used to query our Whois Server today, by multiple individuals before your query.
 
-Registrant:
-    Suvidhaa Infoserve Pvt Ltd
-    Paresh        (vijay@suvidhaa.net)
-    9 senior estate,7-C,Parsi Panchayat Road,
-    Andheri E
-    mumbai
-    Maharashtra,400069
-    IN
-    Tel. +91.2267765300
+This limit is set to effectively dissuade Whois Contact Details harvesting, apart from balancing load on our Whois Server.
 
-Creation Date: 14-May-2009
-Expiration Date: 14-May-2012
+If you wish to continue your investigation, please perform a Whois Lookup at http://manage.logicboxes.com/whois.
 
-Domain servers in listed order:
-    ns1.netmagicians.com
-    ns2.netmagicians.com
-
-
-Administrative Contact:
-    Suvidhaa Infoserve Pvt Ltd
-    Paresh        (vijay@suvidhaa.net)
-    9 senior estate,7-C,Parsi Panchayat Road,
-    Andheri E
-    mumbai
-    Maharashtra,400069
-    IN
-    Tel. +91.2267765300
-
-Technical Contact:
-    Suvidhaa Infoserve Pvt Ltd
-    Paresh        (vijay@suvidhaa.net)
-    9 senior estate,7-C,Parsi Panchayat Road,
-    Andheri E
-    mumbai
-    Maharashtra,400069
-    IN
-    Tel. +91.2267765300
-
-Billing Contact:
-    Suvidhaa Infoserve Pvt Ltd
-    Paresh        (vijay@suvidhaa.net)
-    9 senior estate,7-C,Parsi Panchayat Road,
-    Andheri E
-    mumbai
-    Maharashtra,400069
-    IN
-    Tel. +91.2267765300
-
-Status:ACTIVE
-
-The data in this whois database is provided to you for information purposes only,
-that is, to assist you in obtaining information about or related
-to a domain name registration record. We make this information available &quot;as is&quot;,
-and do not guarantee its accuracy. By submitting a whois query, you agree that you will
-use this data only for lawful purposes and that, under no circumstances will you use this data to:
-(1) enable high volume, automated, electronic processes that stress
-or load this whois database system providing you this information; or
-(2) allow, enable, or otherwise support the transmission of mass unsolicited,
-commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
-The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
-prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
-We reserve the right to modify these terms at any time.
-By submitting this query, you agree to abide by these terms.
+In order to increase this limit, please write to compliance@logicboxes.com with your IP Address and an explanation as to why you require a higher limit.
 

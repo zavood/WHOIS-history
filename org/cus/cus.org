@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D3485321-LROR
+Domain Name:CUS.ORG
+Created On:16-Jul-1998 04:00:00 UTC
+Last Updated On:02-Jul-2011 09:27:39 UTC
+Expiration Date:15-Jul-2012 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:30517324-NSI
+Registrant Name:Cambridge Union Society
+Registrant Organization:Cambridge Union Society
+Registrant Street1:9A Bridge Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cambridge
+Registrant State/Province:
+Registrant Postal Code:CB2 1UB
+Registrant Country:GB
+Registrant Phone:+1.440122
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:admin@CUS.ORG
+Admin ID:30517326-NSI
+Admin Name:Cambridge Union Society
+Admin Organization:Cambridge Union Society
+Admin Street1:9A Bridge Street
+Admin Street2:Cambridge, CB2 1UB
+Admin Street3:
+Admin City:Unknown
+Admin State/Province:
+Admin Postal Code:99999
+Admin Country:GB
+Admin Phone:+1.440122
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin@CUS.ORG
+Tech ID:17083523-NSI
+Tech Name:Claranet Ltd
+Tech Organization:Claranet Ltd
+Tech Street1:21 Southampton Row
+Tech Street2:
+Tech Street3:
+Tech City:Holborn
+Tech State/Province:London
+Tech Postal Code:WC1B 5HA
+Tech Country:GB
+Tech Phone:+44.08452340711
+Tech Phone Ext.:
+Tech FAX:+44.08453304955
+Tech FAX Ext.:
+Tech Email:hostmaster@uk.clara.net
+Name Server:NS0.CLARA.NET
+Name Server:NS1.CLARA.NET
+Name Server:NS2.CLARA.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

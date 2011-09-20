@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 29-jun-2010
    Expiration Date: 29-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 10:35:34 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 22:45:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -77,36 +77,14 @@ is not the registrant of domain names listed in this database.
 
 Registrant:
    Domains by Proxy, Inc.
-   DomainsByProxy.com
-   15111 N. Hayden Rd., Ste 160, PMB 353
-   Scottsdale, Arizona 85260
-   United States
 
    Registered through: GoDaddy.com, Inc. (http://www.godaddy.com)
    Domain Name: SURVIVALANDPREPAREDNESSFORUM.COM
-      Created on: 29-Jun-10
-      Expires on: 29-Jun-13
-      Last Updated on: 06-Jun-11
-
-   Administrative Contact:
-      Private, Registration  SURVIVALANDPREPAREDNESSFORUM.COM@domainsbyproxy.com
-      Domains by Proxy, Inc.
-      DomainsByProxy.com
-      15111 N. Hayden Rd., Ste 160, PMB 353
-      Scottsdale, Arizona 85260
-      United States
-      (480) 624-2599      Fax -- (480) 624-2598
-
-   Technical Contact:
-      Private, Registration  SURVIVALANDPREPAREDNESSFORUM.COM@domainsbyproxy.com
-      Domains by Proxy, Inc.
-      DomainsByProxy.com
-      15111 N. Hayden Rd., Ste 160, PMB 353
-      Scottsdale, Arizona 85260
-      United States
-      (480) 624-2599      Fax -- (480) 624-2598
 
    Domain servers in listed order:
       NS11.DOMAINCONTROL.COM
       NS12.DOMAINCONTROL.COM
 
+
+   For complete domain details go to:
+   http://who.godaddy.com/whoischeck.aspx?Domain=SURVIVALANDPREPAREDNESSFORUM.COM

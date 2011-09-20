@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158428043-LROR
+Domain Name:ICCMWORLDWIDE.ORG
+Created On:22-Feb-2010 21:28:23 UTC
+Last Updated On:24-Apr-2010 03:49:56 UTC
+Expiration Date:22-Feb-2012 21:28:23 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR42622393
+Registrant Name:Michael Chitwood
+Registrant Organization:Chitwood &amp; Chitwood
+Registrant Street1:5746 Marlin Rd
+Registrant Street2:Suite 500
+Registrant Street3:
+Registrant City:Chattanooga
+Registrant State/Province:Tennessee
+Registrant Postal Code:37411
+Registrant Country:US
+Registrant Phone:+1.8008545891
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@iccm-1.org
+Admin ID:CR42622395
+Admin Name:Michael Chitwood
+Admin Organization:Chitwood &amp; Chitwood
+Admin Street1:5746 Marlin Rd
+Admin Street2:Suite 500
+Admin Street3:
+Admin City:Chattanooga
+Admin State/Province:Tennessee
+Admin Postal Code:37411
+Admin Country:US
+Admin Phone:+1.8008545891
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@iccm-1.org
+Tech ID:CR42622394
+Tech Name:Michael Chitwood
+Tech Organization:Chitwood &amp; Chitwood
+Tech Street1:5746 Marlin Rd
+Tech Street2:Suite 500
+Tech Street3:
+Tech City:Chattanooga
+Tech State/Province:Tennessee
+Tech Postal Code:37411
+Tech Country:US
+Tech Phone:+1.8008545891
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@iccm-1.org
+Name Server:NS5.WEBCONTROLCENTER.COM
+Name Server:NS6.WEBCONTROLCENTER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

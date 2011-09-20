@@ -1,0 +1,30 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'talab.ir'
+
+
+domain:		talab.ir
+ascii:		talab.ir
+remarks:	(Domain Holder) Mehdi Ganjeali
+remarks:	(Domain Holder Address) Bozorgmer, 3rd Moshtagh, Shahrak Roshan shahr, Block 11, Unit 5,, Esfahan, Esfahan, IR
+holder-c:	mg191-irnic
+admin-c:	mg191-irnic
+tech-c:		mg191-irnic
+nserver:	ns23.hostdl.com
+nserver:	ns24.hostdl.com
+last-updated:	2011-08-12
+source:		IRNIC # Filtered
+
+nic-hdl:	mg191-irnic
+person:		Mehdi Ganjeali
+e-mail:		taknaz4000@gmail.com
+address:	Bozorgmer, 3rd Moshtagh, Shahrak Roshan shahr, Block 11, Unit 5,, Esfahan, Esfahan, IR
+phone:		09139038714
+source:		IRNIC # Filtered
+

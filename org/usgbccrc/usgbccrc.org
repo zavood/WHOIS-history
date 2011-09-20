@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159818744-LROR
+Domain Name:USGBCCRC.ORG
+Created On:04-Aug-2010 15:04:08 UTC
+Last Updated On:02-Aug-2011 22:00:19 UTC
+Expiration Date:04-Aug-2012 15:04:08 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR54821708
+Registrant Name:Sandra Doherty
+Registrant Organization:US Green Building Council Charlotte Region Chapter
+Registrant Street1:P.O. Box 31384
+Registrant Street2:
+Registrant Street3:
+Registrant City:Charlotte
+Registrant State/Province:North Carolina
+Registrant Postal Code:28231-1384
+Registrant Country:US
+Registrant Phone:+1.7049369433
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:usgbcadmin@gmail.com
+Admin ID:CR54821743
+Admin Name:Sandra Doherty
+Admin Organization:US Green Building Council Charlotte Region Chapter
+Admin Street1:P.O. Box 31384
+Admin Street2:
+Admin Street3:
+Admin City:Charlotte
+Admin State/Province:North Carolina
+Admin Postal Code:28231-1384
+Admin Country:US
+Admin Phone:+1.7049369433
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:usgbcadmin@gmail.com
+Tech ID:CR54821720
+Tech Name:Sandra Doherty
+Tech Organization:US Green Building Council Charlotte Region Chapter
+Tech Street1:P.O. Box 31384
+Tech Street2:
+Tech Street3:
+Tech City:Charlotte
+Tech State/Province:North Carolina
+Tech Postal Code:28231-1384
+Tech Country:US
+Tech Phone:+1.7049369433
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:usgbcadmin@gmail.com
+Name Server:NS57.DOMAINCONTROL.COM
+Name Server:NS58.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

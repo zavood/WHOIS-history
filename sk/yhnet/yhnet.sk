@@ -1,0 +1,26 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         yhnet.sk
+Admin-id            PETE-0332
+Admin-name          Yhman, s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       36340138
+Admin-address       Zlatovska 27, Trencin 91101
+Admin-telephone     0911366606, 0911366001, +421902350242
+Admin-email         dns@pese.sk
+Tech-id             PETE-0332
+Tech-name           Yhman, s.r.o.
+Tech-org.-ID        36340138
+Tech-address        Zlatovska 27, Trencin 91101
+Tech-telephone      0911366606, 0911366001, +421902350242
+Tech-email          dns@pese.sk
+dns_name            kuang.yhnet.sk
+dns_name            ns.pese.sk
+dns_name            ns.svf.stuba.sk
+Last-update         2010-12-13
+Valid-date          2011-12-18
+Domain-status       DOM_OK
+

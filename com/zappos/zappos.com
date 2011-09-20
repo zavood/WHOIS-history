@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 12-jul-1999
    Expiration Date: 12-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 22:36:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 23:48:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,5 +71,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: zappos.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sun Sep 18 18:25:46 EDT 2011
+Date and Time of Query: Mon Sep 19 19:44:06 EDT 2011
 Reason Code: IE

@@ -1,0 +1,86 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 20 00:01:31 2011
+
+domain:       paklic.cz
+registrant:   SB:IC-KLIC
+admin-c:      IC-RD
+temp-c:       JZ23102001-CONTC
+nsset:        LEMONFLIP
+registrar:    REG-IGNUM
+status:       paid and in zone
+registered:   19.02.2001 17:24:00
+changed:      22.07.2008 23:14:09
+expire:       20.02.2012
+
+contact:      SB:IC-KLIC
+org:          Klic - Zamecnicka pohotovost
+name:         Klic - Zamecnicka pohotovost
+address:      Africka 11
+address:      Praha 6
+address:      160 00
+address:      CZ
+e-mail:       info@paklic.cz
+registrar:    REG-IGNUM
+created:      10.08.2001 22:13:00
+changed:      13.03.2007 15:15:00
+
+contact:      IC-RD
+name:         Roman Dusek
+address:      Nam. Dr. Holeho 12
+address:      Praha 8
+address:      18000
+address:      CZ
+phone:        +420.605204520
+fax-no:       +420.234602270
+e-mail:       roman.dusek@iclub.cz
+registrar:    REG-ACTIVE24
+created:      10.08.2001 22:13:00
+changed:      04.01.2006 16:55:00
+
+contact:      JZ23102001-CONTC
+name:         Jiri Zraly
+address:      &Auml;Œesk&Atilde;&iexcl; 1
+address:      Praha 5
+address:      158 00
+address:      CZ
+phone:        +420.775086575
+registrar:    REG-IGNUM
+created:      12.10.2001 01:56:00
+changed:      03.06.2010 19:06:02
+
+nsset:        LEMONFLIP
+nserver:      ns2.blueboard.cz
+nserver:      server.dle.cz (81.0.214.195)
+tech-c:       TR01102007-CONTC
+registrar:    REG-IGNUM
+created:      04.02.2008 15:15:10
+changed:      17.02.2011 23:36:12
+
+contact:      TR01102007-CONTC
+name:         Tom&Atilde;&iexcl;&Aring;&iexcl; Randa
+address:      Na H&Aring;™ebenk&Atilde;&iexcl;ch 1902/43
+address:      Praha 5
+address:      150 00
+address:      CZ
+registrar:    REG-IGNUM
+created:      01.10.2007 14:31:05
+changed:      03.06.2010 17:05:04
+
+

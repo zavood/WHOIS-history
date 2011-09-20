@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 09-aug-2011
    Expiration Date: 09-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 22:06:21 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 23:27:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -86,5 +86,5 @@ Contact E-mail:          frolov1985@hotmail.com
 
 Registrar:               Regional Network Information Center, JSC dba RU-CENTER
 
-Last updated on 2011.09.19 02:06:53 MSK/MSD
+Last updated on 2011.09.20 03:27:57 MSK/MSD
 

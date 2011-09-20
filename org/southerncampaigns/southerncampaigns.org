@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D151897539-LROR
+Domain Name:SOUTHERNCAMPAIGNS.ORG
+Created On:01-Mar-2008 22:01:29 UTC
+Last Updated On:01-Aug-2011 01:34:36 UTC
+Expiration Date:01-Mar-2012 22:01:29 UTC
+Sponsoring Registrar:CSL Computer Service Langenbach GmbH d/b/a joker.com a German GmbH (R25-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:CORG-215285
+Registrant Name:TechSupportWeb - www.techsupport-web.com
+Registrant Organization:TechSupportWeb - www.techsupport-web.com
+Registrant Street1:PO Box 334
+Registrant Street2:-
+Registrant Street3:
+Registrant City:Turramurra
+Registrant State/Province:NSW
+Registrant Postal Code:2074
+Registrant Country:AU
+Registrant Phone:+31.3550
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:registrant@whois.techsupport-web.com
+Admin ID:CORG-302454
+Admin Name:TechSupportWeb - www.techsupport-web.com
+Admin Organization:TechSupportWeb - www.techsupport-web.com
+Admin Street1:PO Box 334
+Admin Street2:
+Admin Street3:
+Admin City:Turramurra
+Admin State/Province:NSW
+Admin Postal Code:2074
+Admin Country:AU
+Admin Phone:+41.0313550
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:admin@whois.techsupport-web.com
+Tech ID:CORG-302455
+Tech Name:TechSupportWeb - www.techsupport-web.com
+Tech Organization:TechSupportWeb - www.techsupport-web.com
+Tech Street1:PO Box 334
+Tech Street2:
+Tech Street3:
+Tech City:Turramurra
+Tech State/Province:NSW
+Tech Postal Code:2074
+Tech Country:AU
+Tech Phone:+41.0313550
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:tech@whois.techsupport-web.com
+Name Server:NS1.INFINOLOGY.COM
+Name Server:NS2.INFINOLOGY.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

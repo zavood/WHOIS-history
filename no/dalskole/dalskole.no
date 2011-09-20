@@ -1,0 +1,38 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: DAL593D-NORID
+Domain Name................: dalskole.no
+Domain Holder Handle.......: FK254O-NORID
+Registrar Handle...........: REG897-NORID
+Legal-c Handle.............: RM2642P-NORID
+Tech-c Handle..............: ITF1R-NORID
+Name Server Handle.........: ITFA1H-NORID
+Name Server Handle.........: ITFA2H-NORID
+Name Server Handle.........: UNIS1H-NORID
+
+Additional information:
+Created:         2006-01-19
+Last updated:    2011-06-24
+
+NORID Handle...............: FK254O-NORID
+Type.......................: organization
+Name.......................: Frogn kommune
+Id Type....................: organization_number
+Id Number..................: 963999089
+Registrar Handle...........: REG897-NORID
+Post Address...............: R&aring;dhusveien 6
+Post Address...............: Postboks 10
+Postal Code................: NO-1440
+Postal Area................: Dr&oslash;bak
+Country....................: NO
+Phone Number...............: +47.64906000
+Fax Number.................: +47.64906001
+Email Address..............: postmaster@frogn.kommune.no
+
+Additional information:
+Created:         2010-10-01
+Last updated:    2010-10-01
+

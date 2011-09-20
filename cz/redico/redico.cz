@@ -1,0 +1,83 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 20 00:56:04 2011
+
+domain:       redico.cz
+registrant:   SB:SPACEWEB-SUB-040402-085247
+admin-c:      SPACEWEB-040402-085247
+temp-c:       FILIPSVEHLA
+nsset:        FLYWEB
+registrar:    REG-INTERNET-CZ
+status:       paid and in zone
+registered:   04.04.2002 11:01:00
+changed:      21.02.2011 15:39:57
+expire:       03.04.2012
+
+contact:      SB:SPACEWEB-SUB-040402-085247
+org:          REDICO s.r.o.
+name:         Jana &Aring;&nbsp;t&Auml;õp&Atilde;&iexcl;nkov&Atilde;&iexcl;
+address:      Za Po&Aring;ô&Atilde;&shy;&Auml;çskou br&Atilde;&iexcl;nou 334/4
+address:      Praha 8
+address:      186 00
+address:      CZ
+e-mail:       info@redico.cz
+registrar:    REG-MEDIA4WEB
+created:      04.04.2002 11:01:00
+changed:      01.04.2008 12:45:31
+
+contact:      SPACEWEB-040402-085247
+name:         Jana Stepankova
+address:      CZ
+e-mail:       stepankova@redico.cz
+registrar:    REG-MEDIA4WEB
+created:      04.04.2002 11:01:00
+changed:      14.08.2007 15:45:00
+
+contact:      FILIPSVEHLA
+name:         Filip Svehla
+address:      Vesinova 10
+address:      Praha 10
+address:      100 00
+address:      CZ
+phone:        +420.245009008
+registrar:    REG-GRANSY
+created:      10.08.2001 22:13:00
+changed:      13.03.2010 11:26:03
+
+nsset:        FLYWEB
+nserver:      ns2.flyweb.cz
+nserver:      ns.flyweb.cz
+tech-c:       FLYWEB
+registrar:    REG-IGNUM
+created:      11.10.2007 16:29:22
+changed:      25.01.2010 16:02:01
+
+contact:      FLYWEB
+org:          FlyNetwork s.r.o.
+name:         Lubo&Aring;&iexcl; Kov&Atilde;&iexcl;&Aring;ô
+address:      Na V&Atilde;&frac12;slun&Atilde;&shy; 518
+address:      Jablonn&Atilde;&copy; nad Orlic&Atilde;&shy;
+address:      56164
+address:      CZ
+phone:        +420.777922442
+e-mail:       domain@flynetwork.cz
+registrar:    REG-IGNUM
+created:      14.10.2007 12:35:01
+
+

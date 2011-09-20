@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158500455-LROR
+Domain Name:SNTINDIA.ORG
+Created On:03-Mar-2010 05:47:39 UTC
+Last Updated On:03-May-2010 03:50:26 UTC
+Expiration Date:03-Mar-2015 05:47:39 UTC
+Sponsoring Registrar:Visesh Infotecnics Ltd (R66-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_11273038
+Registrant Name:Hemant Suri
+Registrant Organization:Slim N Healthy
+Registrant Street1:Janakpuri, District Center
+Registrant Street2:
+Registrant Street3:
+Registrant City:New Delhi
+Registrant State/Province:Delhi
+Registrant Postal Code:110032
+Registrant Country:IN
+Registrant Phone:+91.25503541
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:slimnhealthy.help@gmail.com
+Admin ID:DI_11273038
+Admin Name:Hemant Suri
+Admin Organization:Slim N Healthy
+Admin Street1:Janakpuri, District Center
+Admin Street2:
+Admin Street3:
+Admin City:New Delhi
+Admin State/Province:Delhi
+Admin Postal Code:110032
+Admin Country:IN
+Admin Phone:+91.25503541
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:slimnhealthy.help@gmail.com
+Tech ID:DI_11273038
+Tech Name:Hemant Suri
+Tech Organization:Slim N Healthy
+Tech Street1:Janakpuri, District Center
+Tech Street2:
+Tech Street3:
+Tech City:New Delhi
+Tech State/Province:Delhi
+Tech Postal Code:110032
+Tech Country:IN
+Tech Phone:+91.25503541
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:slimnhealthy.help@gmail.com
+Name Server:NS1.GEOMATIC.IN
+Name Server:NS2.GEOMATIC.IN
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

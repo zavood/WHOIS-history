@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104145119-LROR
+Domain Name:NWIFS.ORG
+Created On:24-Mar-2004 17:20:42 UTC
+Last Updated On:27-Jun-2010 00:23:07 UTC
+Expiration Date:24-Mar-2015 17:20:42 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:OK
+Registrant ID:CORG-183818
+Registrant Name:--
+Registrant Organization:Beyond Play Inc.
+Registrant Street1:11045 Broadway
+Registrant Street2:Suite F
+Registrant Street3:
+Registrant City:Crown Point
+Registrant State/Province:IN
+Registrant Postal Code:46307
+Registrant Country:US
+Registrant Phone:+1.2196627790
+Registrant Phone Ext.:
+Registrant FAX:+219.6627510
+Registrant FAX Ext.:
+Registrant Email:cmann@nwifs.org
+Admin ID:CORG-183815
+Admin Name:Clare Mann
+Admin Organization:Beyond Play Inc.
+Admin Street1:9222 Indianapolis Blvd
+Admin Street2:
+Admin Street3:
+Admin City:Highland
+Admin State/Province:Indiana
+Admin Postal Code:46322
+Admin Country:US
+Admin Phone:+1.2198384555
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:c.mann@comcast.net
+Tech ID:CORG-183816
+Tech Name:Apollo Hosting
+Tech Organization:Apollo Hosting, Inc.
+Tech Street1:2303 RR 620 S Ste 135-301
+Tech Street2:
+Tech Street3:
+Tech City:Austin
+Tech State/Province:TX
+Tech Postal Code:78734
+Tech Country:US
+Tech Phone:+1.5122611203
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:registration@apollohosting.com
+Name Server:NS0.HERITAGEDNS.COM
+Name Server:NS1.HERITAGEDNS.COM
+Name Server:NS2.HERITAGEDNS.COM
+Name Server:NS3.HERITAGEDNS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
