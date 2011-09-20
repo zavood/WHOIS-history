@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 05-mar-2003
    Expiration Date: 05-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Thu, 15 Sep 2011 05:54:38 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 11:49:00 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,35 +84,32 @@ Domain servers in listed order:
 	 ns.kugou.net 	 ns1.kugou.net
 
 Administrator:
-	 name: KuGou Tecnology Information Co. Ltd.
- mail: gaojin@kugou.net tel: +86.02085559005
-	 org: KuGou Tecnology Information Co. Ltd.
+	 guangzhou
+	 guangzhou
+Guangdong,
+CN
+ 510000
 
-address: guangzhou
-	 city: guangzhou
-,province: Guangdong
-,country: CN
- postcode: 510000
-
+	 name:(KuGou Tecnology Information Co. Ltd.)
+mail:(gaojin@kugou.net) +86.02085559005
+	 KuGou Tecnology Information Co. Ltd.
 Technical Contactor:
-	 name: Kugou Technology Information Co.Ltd
- mail: gaojin@kugou.net tel: +86.02085559005
-	 org: Kugou Technology Information Co.Ltd
+	 guangzhou
+	 guangzhou
+Guangdong,
+CN
+ 510000
 
-address: guangzhou
-	 city: guangzhou
-,province: Guangdong
-,country: CN
- postcode: 510000
-
+	 name:(Kugou Technology Information Co.Ltd)
+mail:(gaojin@kugou.net) +86.02085559005
+	 Kugou Technology Information Co.Ltd
 Billing Contactor:
-	 name: Kugou Technology Information Co.Ltd
- mail: gaojin@kugou.net tel: +86.02085559005
-	 org: Kugou Technology Information Co.Ltd
+	 guangzhou
+	 guangzhou
+Guangdong,
+CN
+ 510000
 
-address: guangzhou
-	 city: guangzhou
-,province: Guangdong
-,country: CN
- postcode: 510000
-
+	 name:(Kugou Technology Information Co.Ltd)
+mail:(gaojin@kugou.net) +86.02085559005
+	 Kugou Technology Information Co.Ltd

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 14-mar-1997
    Expiration Date: 15-mar-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 22:28:52 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 10:50:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -68,6 +68,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: flexonline.com
-YOUR IP address is 174.142.225.246
-Date and Time of Query: Wed Sep 14 18:24:35 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Tue Sep 20 06:40:32 EDT 2011
 Reason Code: IE

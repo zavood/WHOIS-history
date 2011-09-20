@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D151833577-LROR
+Domain Name:NETDEPVIET.ORG
+Created On:25-Feb-2008 07:47:03 UTC
+Last Updated On:27-Aug-2011 03:16:18 UTC
+Expiration Date:25-Feb-2018 07:47:03 UTC
+Sponsoring Registrar:UK2 Group Ltd. (R123-LROR)
+Status:OK
+Registrant ID:DI_7797261
+Registrant Name:Nguyen Khac Long
+Registrant Organization:Net Dep Viet
+Registrant Street1:Xom 13 Ngoc Mach - Xuan Phuong
+Registrant Street2:
+Registrant Street3:
+Registrant City:Tu Liem
+Registrant State/Province:Ha Noi
+Registrant Postal Code:10000
+Registrant Country:VN
+Registrant Phone:+84.982168520
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:info@vtc1.info
+Admin ID:DI_7797261
+Admin Name:Nguyen Khac Long
+Admin Organization:Net Dep Viet
+Admin Street1:Xom 13 Ngoc Mach - Xuan Phuong
+Admin Street2:
+Admin Street3:
+Admin City:Tu Liem
+Admin State/Province:Ha Noi
+Admin Postal Code:10000
+Admin Country:VN
+Admin Phone:+84.982168520
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:info@vtc1.info
+Tech ID:DI_7797261
+Tech Name:Nguyen Khac Long
+Tech Organization:Net Dep Viet
+Tech Street1:Xom 13 Ngoc Mach - Xuan Phuong
+Tech Street2:
+Tech Street3:
+Tech City:Tu Liem
+Tech State/Province:Ha Noi
+Tech Postal Code:10000
+Tech Country:VN
+Tech Phone:+84.982168520
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:info@vtc1.info
+Name Server:NS1.SITELUTIONS.COM
+Name Server:NS2.SITELUTIONS.COM
+Name Server:NS3.SITELUTIONS.COM
+Name Server:NS4.SITELUTIONS.COM
+Name Server:NS5.SITELUTIONS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

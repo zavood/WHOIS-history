@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94737243-LROR
+Domain Name:BUSINESSKUMDO.ORG
+Created On:05-Mar-2003 07:25:39 UTC
+Last Updated On:09-May-2011 02:25:07 UTC
+Expiration Date:05-Mar-2012 07:25:39 UTC
+Sponsoring Registrar:Hangang Systems Inc. dba Doregi.com (R45-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:O0121pmw1
+Registrant Name:Jin OK
+Registrant Organization:Jin OK
+Registrant Street1:477
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hoiyang-Ku
+Registrant State/Province:County Derry
+Registrant Postal Code:630-490
+Registrant Country:KR
+Registrant Phone:+55.2922796
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:vj6mm@paran.com
+Admin ID:A0121lObe
+Admin Name:Jin OK
+Admin Organization:Jin OK
+Admin Street1:477
+Admin Street2:
+Admin Street3:
+Admin City:Hoiyang-Ku
+Admin State/Province:County Derry
+Admin Postal Code:630-490
+Admin Country:KR
+Admin Phone:+55.2922796
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:vj6mm@paran.com
+Tech ID:A0121lObe
+Tech Name:Jin OK
+Tech Organization:Jin OK
+Tech Street1:477
+Tech Street2:
+Tech Street3:
+Tech City:Hoiyang-Ku
+Tech State/Province:County Derry
+Tech Postal Code:630-490
+Tech Country:KR
+Tech Phone:+55.2922796
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:vj6mm@paran.com
+Name Server:NS.INODEA.CO.KR
+Name Server:NS2.INODEA.CO.KR
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

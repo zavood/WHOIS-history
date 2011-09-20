@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106717776-LROR
+Domain Name:PETRIGO.ORG
+Created On:25-Jun-2005 01:22:43 UTC
+Last Updated On:27-Jun-2011 21:03:22 UTC
+Expiration Date:25-Jun-2016 01:22:43 UTC
+Sponsoring Registrar:GKG.NET, INC. (Formerly GK Group L.L.C.) (R164-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:GKG-C00001EE04
+Registrant Name:Greg Petrigo
+Registrant Organization:.
+Registrant Street1:406-1155 Beach Ave.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Vancouver
+Registrant State/Province:BC
+Registrant Postal Code:V6E 1V2
+Registrant Country:CA
+Registrant Phone:+1.6046884734
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:5791196895b35bb4f24a75bab15093b18c16705f@whois.gkg.net
+Admin ID:GKG-C00001EE04
+Admin Name:Greg Petrigo
+Admin Organization:.
+Admin Street1:406-1155 Beach Ave.
+Admin Street2:
+Admin Street3:
+Admin City:Vancouver
+Admin State/Province:BC
+Admin Postal Code:V6E 1V2
+Admin Country:CA
+Admin Phone:+1.6046884734
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:5791196895b35bb4f24a75bab15093b18c16705f@whois.gkg.net
+Tech ID:GKG-C00001EE04
+Tech Name:Greg Petrigo
+Tech Organization:.
+Tech Street1:406-1155 Beach Ave.
+Tech Street2:
+Tech Street3:
+Tech City:Vancouver
+Tech State/Province:BC
+Tech Postal Code:V6E 1V2
+Tech Country:CA
+Tech Phone:+1.6046884734
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:5791196895b35bb4f24a75bab15093b18c16705f@whois.gkg.net
+Name Server:NS3.GKG.NET
+Name Server:NS4.GKG.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

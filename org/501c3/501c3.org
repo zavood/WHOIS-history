@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1108255-LROR
+Domain Name:501C3.ORG
+Created On:24-Mar-1998 05:00:00 UTC
+Last Updated On:06-May-2011 00:26:19 UTC
+Expiration Date:23-Mar-2013 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR77119669
+Registrant Name:GREG MCRAY
+Registrant Organization:FOUNDATION GROUP, INC.
+Registrant Street1:2736 OLD ELM HILL PIKE
+Registrant Street2:
+Registrant Street3:
+Registrant City:NASHVILLE
+Registrant State/Province:Tennessee
+Registrant Postal Code:37214
+Registrant Country:US
+Registrant Phone:+1.6153619445
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:gmcray@foundationgroup.com
+Admin ID:CR77119682
+Admin Name:GREG MCRAY
+Admin Organization:FOUNDATION GROUP, INC.
+Admin Street1:2736 OLD ELM HILL PIKE
+Admin Street2:
+Admin Street3:
+Admin City:NASHVILLE
+Admin State/Province:Tennessee
+Admin Postal Code:37214
+Admin Country:US
+Admin Phone:+1.6153619445
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gmcray@foundationgroup.com
+Tech ID:CR77119674
+Tech Name:GREG MCRAY
+Tech Organization:FOUNDATION GROUP, INC.
+Tech Street1:2736 OLD ELM HILL PIKE
+Tech Street2:
+Tech Street3:
+Tech City:NASHVILLE
+Tech State/Province:Tennessee
+Tech Postal Code:37214
+Tech Country:US
+Tech Phone:+1.6153619445
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:gmcray@foundationgroup.com
+Name Server:NS25.DOMAINCONTROL.COM
+Name Server:NS26.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D104972980-LROR
+Domain Name:C4KONLINE.ORG
+Created On:07-Oct-2004 04:15:04 UTC
+Last Updated On:08-Oct-2010 01:22:48 UTC
+Expiration Date:07-Oct-2011 04:15:04 UTC
+Sponsoring Registrar:TierraNet Inc. dba DomainDiscover (R86-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:TNTN-0000349918
+Registrant Name:Bryan Sarlitt
+Registrant Organization:TechXpress.net
+Registrant Street1:3450 Broad St
+Registrant Street2:Suite 101
+Registrant Street3:
+Registrant City:San Luis Obispo
+Registrant State/Province:CA
+Registrant Postal Code:93401
+Registrant Country:US
+Registrant Phone:+1.8055414400
+Registrant Phone Ext.:
+Registrant FAX:+1.8055414494
+Registrant FAX Ext.:
+Registrant Email:domains@techxpress.net
+Admin ID:TNTN-0000349918
+Admin Name:Bryan Sarlitt
+Admin Organization:TechXpress.net
+Admin Street1:3450 Broad St
+Admin Street2:Suite 101
+Admin Street3:
+Admin City:San Luis Obispo
+Admin State/Province:CA
+Admin Postal Code:93401
+Admin Country:US
+Admin Phone:+1.8055414400
+Admin Phone Ext.:
+Admin FAX:+1.8055414494
+Admin FAX Ext.:
+Admin Email:domains@techxpress.net
+Tech ID:TNTN-0000349918
+Tech Name:Bryan Sarlitt
+Tech Organization:TechXpress.net
+Tech Street1:3450 Broad St
+Tech Street2:Suite 101
+Tech Street3:
+Tech City:San Luis Obispo
+Tech State/Province:CA
+Tech Postal Code:93401
+Tech Country:US
+Tech Phone:+1.8055414400
+Tech Phone Ext.:
+Tech FAX:+1.8055414494
+Tech FAX Ext.:
+Tech Email:domains@techxpress.net
+Name Server:NS1.TECHXPRESS.NET
+Name Server:NS2.TECHXPRESS.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -11,12 +11,12 @@ for detailed information.
    Referral URL: http://www.melbourneit.com
    Name Server: NS1.MELIT.DSREDIRECTION.COM
    Name Server: NS2.MELIT.DSREDIRECTION.COM
-   Status: redemptionPeriod
-   Updated Date: 17-aug-2011
+   Status: pendingDelete
+   Updated Date: 17-sep-2011
    Creation Date: 06-jul-2001
    Expiration Date: 06-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 18:10:46 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 11:55:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

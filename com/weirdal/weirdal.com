@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 21-oct-1997
    Expiration Date: 20-oct-2018
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 11:28:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 11:37:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: weirdal.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Mon Sep 19 07:18:25 EDT 2011
+Date and Time of Query: Tue Sep 20 07:26:57 EDT 2011
 Reason Code: IE

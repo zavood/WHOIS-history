@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D84280851-LROR
+Domain Name:WELDONFOP.ORG
+Created On:07-Mar-2002 16:20:32 UTC
+Last Updated On:08-Feb-2011 12:03:36 UTC
+Expiration Date:07-Mar-2016 16:20:32 UTC
+Sponsoring Registrar:Internet.bs Corp. (R1601-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:INTE822854gqdiwl
+Registrant Name:Peter J. Weldon
+Registrant Organization:none
+Registrant Street1:700 Via Lombardy
+Registrant Street2:
+Registrant Street3:
+Registrant City:Winter Park
+Registrant State/Province:
+Registrant Postal Code:32789
+Registrant Country:US
+Registrant Phone:+1.4076453476
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:pweldon@earthlink.net
+Admin ID:INTEx2pymtue133u
+Admin Name:Peter J. Weldon
+Admin Organization:none
+Admin Street1:700 Via Lombardy
+Admin Street2:
+Admin Street3:
+Admin City:Winter Park
+Admin State/Province:
+Admin Postal Code:32789
+Admin Country:US
+Admin Phone:+1.4076453476
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:pweldon@earthlink.net
+Tech ID:INTExc1mwf97glsg
+Tech Name:Peter J. Weldon
+Tech Organization:none
+Tech Street1:700 Via Lombardy
+Tech Street2:
+Tech Street3:
+Tech City:Winter Park
+Tech State/Province:
+Tech Postal Code:32789
+Tech Country:US
+Tech Phone:+1.4076453476
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:pweldon@earthlink.net
+Name Server:NS1.SERVER299.COM
+Name Server:NS2.SERVER299.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

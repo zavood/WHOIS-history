@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 09-jun-1997
    Expiration Date: 08-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 01:05:48 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 12:01:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: tracklights.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 20:56:05 EDT 2011
+Date and Time of Query: Tue Sep 20 07:50:56 EDT 2011
 Reason Code: IE

@@ -19,7 +19,7 @@ for detailed information.
    Creation Date: 11-aug-2005
    Expiration Date: 11-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 11:10:35 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 11:34:03 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -98,7 +98,7 @@ Name Servers:
    dns5.name-services.com
 
 Creation date: 11 Aug 2005 03:12:41
-Expiration date: 11 Aug 2011 07:12:00
+Expiration date: 11 Aug 2012 07:12:00
 
 
 

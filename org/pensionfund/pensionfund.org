@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D5542425-LROR
+Domain Name:PENSIONFUND.ORG
+Created On:21-Jan-1998 05:00:00 UTC
+Last Updated On:22-Dec-2010 09:30:19 UTC
+Expiration Date:20-Jan-2012 05:00:00 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:GODA-015652855
+Registrant Name:Elexio Elexio
+Registrant Organization:Elexio
+Registrant Street1:1148 Elizabeth Ave
+Registrant Street2:Suite 11006
+Registrant Street3:
+Registrant City:Lancaster
+Registrant State/Province:Pennsylvania
+Registrant Postal Code:17601
+Registrant Country:US
+Registrant Phone:+1.8889979947
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:dhollick@elexio.com
+Admin ID:GODA-215652855
+Admin Name:Elexio Elexio
+Admin Organization:Elexio
+Admin Street1:P.O. Box 501
+Admin Street2:
+Admin Street3:
+Admin City:Elizabethtown
+Admin State/Province:Pennsylvania
+Admin Postal Code:17022
+Admin Country:US
+Admin Phone:+1.7172993700
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:Dream3Domains@elexio.com
+Tech ID:GODA-115652855
+Tech Name:Dream3 Dream3
+Tech Organization:Dream3
+Tech Street1:8606 Allisonville Rd
+Tech Street2:Suite 260
+Tech Street3:
+Tech City:Indianapolis
+Tech State/Province:Indiana
+Tech Postal Code:46250
+Tech Country:US
+Tech Phone:+1.3175704744
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mbradshaw@dream3.org
+Name Server:NS1.ELEXIO.COM
+Name Server:NS2.ELEXIO.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

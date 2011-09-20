@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D668073-LROR
+Domain Name:SANTEE.ORG
+Created On:05-Dec-1997 05:00:00 UTC
+Last Updated On:04-Dec-2010 16:19:39 UTC
+Expiration Date:04-Dec-2020 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25037260-NSI
+Registrant Name:SanteeElectric Cooperative, Inc.
+Registrant Organization:SanteeElectric Cooperative, Inc.
+Registrant Street1:PO Box 548
+Registrant Street2:
+Registrant Street3:
+Registrant City:Kingstree
+Registrant State/Province:SC
+Registrant Postal Code:29556
+Registrant Country:US
+Registrant Phone:+1.8433556187
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:mrichardson@SANTEE.ORG
+Admin ID:25037263-NSI
+Admin Name:Santee Electric Cooperative
+Admin Organization:Santee Electric Cooperative
+Admin Street1:PO Box 548
+Admin Street2:
+Admin Street3:
+Admin City:Kingstree
+Admin State/Province:SC
+Admin Postal Code:29556
+Admin Country:US
+Admin Phone:+1.84335561
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:rhigbe@SANTEE.ORG
+Tech ID:25037260-NSI
+Tech Name:SanteeElectric Cooperative, Inc.
+Tech Organization:SanteeElectric Cooperative, Inc.
+Tech Street1:PO Box 548
+Tech Street2:
+Tech Street3:
+Tech City:Kingstree
+Tech State/Province:SC
+Tech Postal Code:29556
+Tech Country:US
+Tech Phone:+1.8433556187
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:mrichardson@SANTEE.ORG
+Name Server:NS.TZO.COM
+Name Server:NS2.TZO.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

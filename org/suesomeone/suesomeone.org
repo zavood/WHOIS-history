@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D161535496-LROR
+Domain Name:SUESOMEONE.ORG
+Created On:18-Feb-2011 01:05:35 UTC
+Last Updated On:19-Apr-2011 03:51:06 UTC
+Expiration Date:18-Feb-2012 01:05:35 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR75677791
+Registrant Name:Andrew Uhacz
+Registrant Street1:11900 NE 18th St
+Registrant Street2:Apt. 456
+Registrant Street3:
+Registrant City:Vancouver
+Registrant State/Province:Washington
+Registrant Postal Code:98684
+Registrant Country:US
+Registrant Phone:+1.3609049120
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:uhacz82@yahoo.com
+Admin ID:CR75677793
+Admin Name:Andrew Uhacz
+Admin Street1:11900 NE 18th St
+Admin Street2:Apt. 456
+Admin Street3:
+Admin City:Vancouver
+Admin State/Province:Washington
+Admin Postal Code:98684
+Admin Country:US
+Admin Phone:+1.3609049120
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:uhacz82@yahoo.com
+Tech ID:CR75677792
+Tech Name:Andrew Uhacz
+Tech Street1:11900 NE 18th St
+Tech Street2:Apt. 456
+Tech Street3:
+Tech City:Vancouver
+Tech State/Province:Washington
+Tech Postal Code:98684
+Tech Country:US
+Tech Phone:+1.3609049120
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:uhacz82@yahoo.com
+Name Server:NS67.DOMAINCONTROL.COM
+Name Server:NS68.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

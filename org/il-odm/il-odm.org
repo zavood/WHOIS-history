@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D105701609-LROR
+Domain Name:IL-ODM.ORG
+Created On:09-Feb-2005 02:16:13 UTC
+Last Updated On:10-Feb-2011 13:42:05 UTC
+Expiration Date:09-Feb-2012 02:16:13 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR33559567
+Registrant Name:Web Admin
+Registrant Organization:Outdoor Ministries
+Registrant Street1:26449 1340 N Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Princeton
+Registrant State/Province:Illinois
+Registrant Postal Code:61356
+Registrant Country:US
+Registrant Phone:+1.8154472390
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:webmaster@wanderwebdesign.com
+Admin ID:CR33559569
+Admin Name:Web Admin
+Admin Organization:Outdoor Ministries
+Admin Street1:26449 1340 N Ave
+Admin Street2:
+Admin Street3:
+Admin City:Princeton
+Admin State/Province:Illinois
+Admin Postal Code:61356
+Admin Country:US
+Admin Phone:+1.8154472390
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:webmaster@wanderwebdesign.com
+Tech ID:CR33559568
+Tech Name:Web Admin
+Tech Organization:Outdoor Ministries
+Tech Street1:26449 1340 N Ave
+Tech Street2:
+Tech Street3:
+Tech City:Princeton
+Tech State/Province:Illinois
+Tech Postal Code:61356
+Tech Country:US
+Tech Phone:+1.8154472390
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:webmaster@wanderwebdesign.com
+Name Server:NS2.WANDERWEBDESIGN.COM
+Name Server:NS1.WANDERWEBDESIGN.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 19-nov-2010
    Expiration Date: 19-nov-2015
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 11:08:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 11:12:16 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +51,55 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain Name ..................... uszjly.com
+Name Server ..................... dns23.hichina.com
+                                  dns24.hichina.com
+Registrant ID ................... hc943907375-cn
+Registrant Name ................. yaodong guo
+Registrant Organization ......... LiYuan Material Corp of China Construction Co.,Ltd.
+Registrant Address .............. beijingshi daxingqu weishanzhuangzhen longhailu 13 haoyuan
+Registrant City ................. beijingshi
+Registrant Province/State ....... beijing
+Registrant Postal Code .......... 102611
+Registrant Country Code ......... CN
+Registrant Phone Number ......... +86.01089203077 -
+Registrant Fax .................. +86.01089202007 -
+Registrant Email ................ gyd926927@163.com
+Administrative ID ............... hc943907375-cn
+Administrative Name ............. yaodong guo
+Administrative Organization ..... LiYuan Material Corp of China Construction Co.,Ltd.
+Administrative Address .......... beijingshi daxingqu weishanzhuangzhen longhailu 13 haoyuan
+Administrative City ............. beijingshi
+Administrative Province/State ... beijing
+Administrative Postal Code ...... 102611
+Administrative Country Code ..... CN
+Administrative Phone Number ..... +86.01089203077 -
+Administrative Fax .............. +86.01089202007 -
+Administrative Email ............ gyd926927@163.com
+Billing ID ...................... hichina001-cn
+Billing Name .................... hichina
+Billing Organization ............ HiChina Web Solutions Limited
+Billing Address ................. 3/F., HiChina Mansion
+                                  No.27 Gulouwai Avenue
+                                  Dongcheng District
+Billing City .................... Beijing
+Billing Province/State .......... Beijing
+Billing Postal Code ............. 100011
+Billing Country Code ............ CN
+Billing Phone Number ............ +86.01064242299 -
+Billing Fax ..................... +86.01064258796 -
+Billing Email ................... domainadm@hichina.com
+Technical ID .................... hichina001-cn
+Technical Name .................. hichina
+Technical Organization .......... HiChina Web Solutions Limited
+Technical Address ............... 3/F., HiChina Mansion
+                                  No.27 Gulouwai Avenue
+                                  Dongcheng District
+Technical City .................. Beijing
+Technical Province/State ........ Beijing
+Technical Postal Code ........... 100011
+Technical Country Code .......... CN
+Technical Phone Number .......... +86.01064242299 -
+Technical Fax ................... +86.01064258796 -
+Technical Email ................. domainadm@hichina.com
+Expiration Date ................. 2015-11-19 06:28:33

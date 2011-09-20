@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D6225391-LROR
+Domain Name:KIDSHOUSE.ORG
+Created On:04-May-1999 09:13:58 UTC
+Last Updated On:15-Jan-2011 18:50:16 UTC
+Expiration Date:04-May-2014 09:12:19 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:24193021-NSI
+Registrant Name:Kid's House of Seminole. Inc
+Registrant Organization:Kid's House of Seminole. Inc
+Registrant Street1:5467 N. Ronald Reagan Blvd.
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sanford
+Registrant State/Province:FL
+Registrant Postal Code:32773
+Registrant Country:US
+Registrant Phone:+1.407324303
+Registrant Phone Ext.:
+Registrant FAX:+1.407324304
+Registrant FAX Ext.:
+Registrant Email:telkamp@ASPD.ORG
+Admin ID:24193022-NSI
+Admin Name:Kids House of Seminole, Inc.
+Admin Organization:Kids House of Seminole, Inc.
+Admin Street1:5467 North Ronald Reagan Blvd.
+Admin Street2:
+Admin Street3:
+Admin City:Sanford
+Admin State/Province:FL
+Admin Postal Code:32773
+Admin Country:US
+Admin Phone:+1.40730244
+Admin Phone Ext.:
+Admin FAX:+1.4073024495
+Admin FAX Ext.:
+Admin Email:crawford@kidshouse.org
+Tech ID:43140912-NSI
+Tech Name:Dana Turner
+Tech Street1:5467 N. Ronald Reagan Blvd.
+Tech Street2:
+Tech Street3:
+Tech City:Sanford
+Tech State/Province:FL
+Tech Postal Code:32773
+Tech Country:US
+Tech Phone:+407.3243036235
+Tech Phone Ext.:
+Tech FAX:+407.3243036235
+Tech FAX Ext.:
+Tech Email:turner@kidshouse.org
+Name Server:DNS1.APPRIVER.COM
+Name Server:DNS2.APPRIVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

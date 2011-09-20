@@ -1,0 +1,104 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; wowmania.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      wowmania.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    H1933-FRNIC
+admin-c:     PM3954-FRNIC
+tech-c:      GR283-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL13550-FRNIC
+registrar:   GANDI
+anniversary: 16/04
+created:     19/07/2008
+last-update: 23/04/2009
+source:      FRNIC
+
+ns-list:     NSL13550-FRNIC
+nserver:     a.dns.gandi.net
+nserver:     b.dns.gandi.net
+nserver:     c.dns.gandi.net
+source:      FRNIC
+
+registrar:   GANDI
+type:        Isp Option 1
+address:     15 Place de la Nation
+address:     PARIS
+country:     FR
+phone:       +33 1 70 37 76 61
+fax-no:      +33 1 43 73 18 51
+e-mail:      contact@gandi.net
+website:     http://www.gandi.net
+anonymous:   NO
+registered:  09/03/2004
+source:      FRNIC
+
+nic-hdl:     GR283-FRNIC
+type:        ROLE
+contact:     GANDI ROLE
+address:     Gandi
+address:     15, place de la Nation
+address:     75011 Paris
+country:     FR
+e-mail:      noc@gandi.net
+trouble:     -------------------------------------------------
+trouble:     GANDI is an ICANN accredited registrar
+trouble:     for more information:
+trouble:     Web:   http://www.gandi.net
+trouble:     -------------------------------------------------
+trouble:     - network troubles: noc@gandi.net
+trouble:     - SPAM:             abuse@gandi.net
+trouble:     -------------------------------------------------
+admin-c:     NL346-FRNIC
+tech-c:      NL346-FRNIC
+tech-c:      TUF1-FRNIC
+notify:      noc@gandi.net
+changed:     03/03/2006 noc@gandi.net
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     H1933-FRNIC
+type:        ORGANIZATION
+contact:     Hevenet
+address:     Hevenet
+address:     38, avenue de la Rapublique
+address:     92340 Bourg-la-Reine
+country:     FR
+phone:       +33 6 88 37 57 98
+e-mail:      pierre.massat@hevenet.com
+changed:     06/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     PM3954-FRNIC
+type:        PERSON
+contact:     Pierre Massat
+address:     Hevenet
+address:     38, avenue de la Republique
+address:     92340 Bourg-la-Reine
+country:     FR
+phone:       +33 6 88 37 57 98
+e-mail:      0e000f5cc765c3a29a59312b36f4c786-946778@contact.gandi.net
+changed:     16/04/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

@@ -6,17 +6,17 @@ with many different competing registrars. Go to http://www.internic.net
 for detailed information.
 
    Domain Name: HPDNS.COM
-   Registrar: DIRECTI INTERNET SOLUTIONS PVT. LTD. D/B/A PUBLICDOMAINREGISTRY.COM
-   Whois Server: whois.PublicDomainRegistry.com
-   Referral URL: http://www.PublicDomainRegistry.com
-   Name Server: DNS.PARKPAGE.FOUNDATIONAPI.COM
-   Name Server: DNS2.PARKPAGE.FOUNDATIONAPI.COM
-   Status: pendingDelete
-   Updated Date: 13-sep-2011
-   Creation Date: 04-jul-2005
-   Expiration Date: 04-jul-2011
+   Registrar: DYNADOT, LLC
+   Whois Server: whois.dynadot.com
+   Referral URL: http://www.dynadot.com
+   Name Server: NS1.DREAMHOST.COM
+   Name Server: NS2.DREAMHOST.COM
+   Status: clientTransferProhibited
+   Updated Date: 20-sep-2011
+   Creation Date: 19-sep-2011
+   Expiration Date: 19-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 03:54:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 10:47:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,4 +51,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Whois Error: No Match for &quot;HPDNS.COM&quot;

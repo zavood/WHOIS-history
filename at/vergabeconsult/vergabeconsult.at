@@ -1,0 +1,54 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         vergabeconsult.at
+registrant:     TG7389590-NICAT
+admin-c:        TG7389590-NICAT
+tech-c:         EW2863515-NICAT
+nserver:        f2.de.ha-dns.net
+nserver:        ka2.de.ha-dns.net
+nserver:        lxa.us.ha-dns.net
+nserver:        m.de.ha-dns.net
+changed:        20100823 20:02:57
+source:         AT-DOM
+
+personname:     Andreas Fey
+organization:   Testroom GmbH
+street address: Grossneumarkt 20
+postal code:    20459
+city:           Hamburg
+country:        Germany
+nic-hdl:        TG7389590-NICAT
+changed:        20100823 20:02:54
+source:         AT-DOM
+
+personname:     Ingo Fritz
+organization:   ECS-Webhosting
+street address: Oedenberger Str. 155
+postal code:    90491
+city:           Nuernberg
+country:        Germany
+nic-hdl:        EW2863515-NICAT
+changed:        20110824 10:01:54
+source:         AT-DOM
+

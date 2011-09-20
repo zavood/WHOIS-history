@@ -48,6 +48,21 @@ anonymous:   NO
 registered:  17/10/2006
 source:      FRNIC
 
+nic-hdl:     DNM1-FRNIC
+type:        PERSON
+contact:     Domain Name Manager
+address:     Turner Broadcasting System FRANCE SAS
+address:     le France, 115-123 avenue Charles de Gaulle
+address:     92200 Neuilly-sur-Seine
+country:     FR
+phone:       +33 1 72 25 18 28
+fax-no:      +33 1 53 30 41 27
+e-mail:      tmgroup@turner.com
+changed:     01/05/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
 nic-hdl:     TBSF3-FRNIC
 type:        ORGANIZATION
 contact:     TURNER BROADCASTING SYSTEM FRANCE
@@ -62,21 +77,6 @@ changed:     01/02/2010 nic@nic.fr
 anonymous:   NO
 obsoleted:   NO
 idstatus:    ok
-source:      FRNIC
-
-nic-hdl:     DNM1-FRNIC
-type:        PERSON
-contact:     Domain Name Manager
-address:     Turner Broadcasting System FRANCE SAS
-address:     le France, 115-123 avenue Charles de Gaulle
-address:     92200 Neuilly-sur-Seine
-country:     FR
-phone:       +33 1 72 25 18 28
-fax-no:      +33 1 53 30 41 27
-e-mail:      tmgroup@turner.com
-changed:     01/05/2009 nic@nic.fr
-anonymous:   NO
-obsoleted:   NO
 source:      FRNIC
 
 nic-hdl:     TSO2-FRNIC

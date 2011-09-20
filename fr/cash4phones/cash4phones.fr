@@ -1,0 +1,80 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; cash4phones.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cash4phones.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    T4776-FRNIC
+admin-c:     T4776-FRNIC
+tech-c:      CL5883-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL36024-FRNIC
+registrar:   KEY-SYSTEMS GmbH
+anniversary: 05/08
+created:     06/05/2010
+last-update: 05/08/2011
+source:      FRNIC
+
+ns-list:     NSL36024-FRNIC
+nserver:     ns3.101domain.com
+nserver:     ns4.101domain.com
+source:      FRNIC
+
+registrar:   KEY-SYSTEMS GmbH
+type:        Isp Option 1
+address:     Im Oberen Werk 1
+address:     DE-66386 ST. INGBERT
+country:     DE
+phone:       +49 (0) 68 94 93 96 850
+fax-no:      +49 (0) 68 94 93 96 851
+e-mail:      info@key-systems.net
+website:     http://www.key-systems.net
+anonymous:   NO
+registered:  25/07/2006
+source:      FRNIC
+
+nic-hdl:     T4776-FRNIC
+type:        ORGANIZATION
+contact:     TheFlyingMedia
+address:     TheFlyingMedia
+address:     81, rue Reaumur
+address:     75002 Paris
+country:     FR
+phone:       +33 1 83 62 30 29
+fax-no:      +33 1 83 62 30 89
+e-mail:      contact@theflyingmedia.com
+changed:     27/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     CL5883-FRNIC
+type:        ORGANIZATION
+contact:     Carnic Ltd
+address:     Carnic Ltd
+address:     30 Crown Place, London
+address:     EC2A 4EB London
+country:     GB
+phone:       +44 0207856
+e-mail:      louise@cash4phones.com
+changed:     10/09/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+

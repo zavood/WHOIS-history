@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 10-jul-2007
    Expiration Date: 10-jul-2016
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 10:48:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 10:50:44 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -51,3 +51,55 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
+Domain Name ..................... tongtongmodel.com
+Name Server ..................... dns15.hichina.com
+                                  dns16.hichina.com
+Registrant ID ................... hc876761898-cn
+Registrant Name ................. xiurong chen
+Registrant Organization ......... shenzhenshitongtongjingpinyouxiangongsi
+Registrant Address .............. shenzhenshifutianquhuaqiangbeisaigekejiyuan
+Registrant City ................. shenzhen
+Registrant Province/State ....... guangdong
+Registrant Postal Code .......... 518000
+Registrant Country Code ......... CN
+Registrant Phone Number ......... +86.075528288506 -
+Registrant Fax .................. +86.075528288516 -
+Registrant Email ................ info@diantong.net
+Administrative ID ............... hc876761898-cn
+Administrative Name ............. xiurong chen
+Administrative Organization ..... shenzhenshitongtongjingpinyouxiangongsi
+Administrative Address .......... shenzhenshifutianquhuaqiangbeisaigekejiyuan
+Administrative City ............. shenzhen
+Administrative Province/State ... guangdong
+Administrative Postal Code ...... 518000
+Administrative Country Code ..... CN
+Administrative Phone Number ..... +86.075528288506 -
+Administrative Fax .............. +86.075528288516 -
+Administrative Email ............ info@diantong.net
+Billing ID ...................... hichina001-cn
+Billing Name .................... hichina
+Billing Organization ............ HiChina Web Solutions Limited
+Billing Address ................. 3/F., HiChina Mansion
+                                  No.27 Gulouwai Avenue
+                                  Dongcheng District
+Billing City .................... Beijing
+Billing Province/State .......... Beijing
+Billing Postal Code ............. 100011
+Billing Country Code ............ CN
+Billing Phone Number ............ +86.01064242299 -
+Billing Fax ..................... +86.01064258796 -
+Billing Email ................... domainadm@hichina.com
+Technical ID .................... hichina001-cn
+Technical Name .................. hichina
+Technical Organization .......... HiChina Web Solutions Limited
+Technical Address ............... 3/F., HiChina Mansion
+                                  No.27 Gulouwai Avenue
+                                  Dongcheng District
+Technical City .................. Beijing
+Technical Province/State ........ Beijing
+Technical Postal Code ........... 100011
+Technical Country Code .......... CN
+Technical Phone Number .......... +86.01064242299 -
+Technical Fax ................... +86.01064258796 -
+Technical Email ................. domainadm@hichina.com
+Expiration Date ................. 2016-07-11 03:57:06

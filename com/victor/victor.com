@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 22-jun-1994
    Expiration Date: 21-jun-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 11:13:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 11:19:06 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -53,38 +53,38 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-&lt;pre&gt;&lt;a href=&quot;http://www.bb-online.co.uk&quot;&gt;&lt;img src=&quot;http://bbonline.useradmin.co.uk/adverts/bb-online.co.uk/BB-Online_468x60_P1.jpg&quot;&gt;&lt;/a&gt;&lt;/pre&gt;
-
-  Domain name victor.com
-
-@@tech. Details@@
-BB Online UK Ltd, Robert Fox, PO Box 2162, Luton, Beds, LU3 4ZS, UK
-  Telephone 44 1582 572148
-  Fax 44 1582 585057
-  Email info@bb-online.co.uk
-
-@@Admin Details@@
-Victor Chandler, Larry Eeles, 50 Town Range Leanse Place, GX11 1AA, GI
-  Telephone
-  Electronic Fax
-  Email Larry.Eeles@vcint.com
-
-  Registration Date 22 June 1994
-  Registered Until Date 21 June 2013
-  Updated Date 21 July 2011
-
-@@Nameserver Details@@
-  pdns3.ultradns.org
-  pdns2.ultradns.net
-  pdns1.ultradns.net
-  pdns4.ultradns.org
-
-@@Registrant Details@@
-Victor Chandler International, Leanse Place, 50 Town Range, Gibraltar, UK
-
 This whois service is provided by BB Online UK Limited.
 
 BB Online UK Ltd may be contacted via their website www.bb-online.co.uk
+
+    Domain name; victor.com
+
+[Nameserver Details]
+    pdns3.ultradns.org
+    pdns2.ultradns.net
+    pdns1.ultradns.net
+    pdns4.ultradns.org
+
+[Technical Details]
+BB Online UK Ltd, Robert Fox, PO Box 2162, Luton, Beds, LU3 4ZS, UK
+    Phone; 44 1582 572148
+    Fax; 44 1582 585057
+    Email; info@bb-online.co.uk
+
+[Registered Owner Details]
+Victor Chandler International, Leanse Place, 50 Town Range, Gibraltar, UK
+
+    Expires; 21 Jun 2013
+    Registration; 22 Jun 1994
+    Modified; 21 Jul 2011
+
+[Admin Details]
+Victor Chandler, Larry Eeles, 50 Town Range Leanse Place, GX11 1AA, GI
+    Telephone;
+    Fax;
+    Email; Larry.Eeles@vcint.com
+
+&lt;pre&gt;&lt;a href=&quot;http://www.bb-online.co.uk&quot;&gt;&lt;img src=&quot;http://bbonline.useradmin.co.uk/adverts/bb-online.co.uk/BB-Online_468x60_P1.jpg&quot;&gt;&lt;/a&gt;&lt;/pre&gt;
 
 This service is for information purposes only and to assist persons in
 obtaining information about or related to a domain name registration record.
@@ -92,7 +92,7 @@ We do not guarantee its accuracy.
 
 The Whois database contains ONLY .COM, .NET, .EDU domains.
 
-&gt;&gt;&gt; Last update of whois database: Mon 19 Sep 2011 12:13:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue 20 Sep 2011 12:18:51 UTC &lt;&lt;&lt;
 
 A result merely shows an entry in our database, it does not show ownership.
 BB Online shall permit use of data it provides in response to queries for any

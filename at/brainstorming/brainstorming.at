@@ -1,0 +1,72 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         brainstorming.at
+registrant:     MS2538097-NICAT
+admin-c:        MS2538097-NICAT
+tech-c:         GG702595-NICAT
+tech-c:         JK541251-NICAT
+nserver:        ns1.world4you.at
+remarks:        80.243.163.5
+nserver:        ns2.world4you.at
+remarks:        80.243.163.6
+changed:        20061120 09:24:00
+source:         AT-DOM
+
+personname:     Martina Smekal
+organization:
+street address: Untere Weststrasse 5
+postal code:    A-3004
+city:           Ried Am Riederberg
+country:        Austria
+phone:          +436765014430
+e-mail:         martina.smekal@troubleshoot.at
+nic-hdl:        MS2538097-NICAT
+changed:        20061120 09:23:58
+source:         AT-DOM
+
+personname:     Gerald Gruenberger
+organization:   World4You Internet Services GmbH
+street address: Hafenstrasse 47-51
+postal code:    4020
+city:           Linz
+country:        Austria
+phone:          +4373293035
+fax-no:         +437329303510
+e-mail:         techadmin@world4you.com
+nic-hdl:        GG702595-NICAT
+changed:        20110404 10:25:08
+source:         AT-DOM
+
+personname:     Johannes Kuehrer
+organization:   World4You Internet Services GmbH
+street address: Hafenstrasse 47-51
+postal code:    A-4020
+city:           Linz
+country:        Austria
+phone:          +4373293035
+e-mail:         domainadmin@world4you.com
+nic-hdl:        JK541251-NICAT
+changed:        20061218 15:41:46
+source:         AT-DOM
+

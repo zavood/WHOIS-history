@@ -1,0 +1,28 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         postel.sk
+Admin-id            SWAN-0002
+Admin-name          SWAN, a.s.
+Admin-legal-form    akciova spolocnost
+Admin-org.-ID       35680202
+Admin-address       Borska 6, Bratislava 84104
+Admin-telephone     +421 2 35000516, +421 2 35000516
+Admin-email         domeny@swan.sk
+Tech-id             SWAN-0002
+Tech-name           SWAN, a.s.
+Tech-org.-ID        35680202
+Tech-address        Borska 6, Bratislava 84104
+Tech-telephone      +421 2 35000516, +421 2 35000516
+Tech-email          domeny@swan.sk
+dns_name            ns1.postel.sk
+dns_IPv4            62.152.224.10
+dns_name            ns1.swan.sk
+dns_name            ns2.swan.sk
+dns_name            ns3.swan.sk
+Last-update         2010-12-21
+Valid-date          2012-01-16
+Domain-status       DOM_OK
+

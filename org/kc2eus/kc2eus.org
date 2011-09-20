@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D98327330-LROR
+Domain Name:KC2EUS.ORG
+Created On:09-Jul-2003 00:40:14 UTC
+Last Updated On:22-Aug-2011 05:20:23 UTC
+Expiration Date:09-Jul-2012 00:40:14 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR90652753
+Registrant Name:Charles Lee
+Registrant Street1:15111 N. Hayden Rd., Ste 160
+Registrant Street2:
+Registrant Street3:
+Registrant City:Scottsdale
+Registrant State/Province:Arizona
+Registrant Postal Code:85260
+Registrant Country:US
+Registrant Phone:+1.4806242599
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:DBP0125@gmail.com
+Admin ID:CR90652790
+Admin Name:Charles Lee
+Admin Street1:15111 N. Hayden Rd., Ste 160
+Admin Street2:
+Admin Street3:
+Admin City:Scottsdale
+Admin State/Province:Arizona
+Admin Postal Code:85260
+Admin Country:US
+Admin Phone:+1.4806242599
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:DBP0125@gmail.com
+Tech ID:CR90652774
+Tech Name:Charles Lee
+Tech Street1:15111 N. Hayden Rd., Ste 160
+Tech Street2:
+Tech Street3:
+Tech City:Scottsdale
+Tech State/Province:Arizona
+Tech Postal Code:85260
+Tech Country:US
+Tech Phone:+1.4806242599
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:DBP0125@gmail.com
+Name Server:F1G1NS1.DNSPOD.NET
+Name Server:F1G1NS2.DNSPOD.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

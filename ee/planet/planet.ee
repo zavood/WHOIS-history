@@ -1,0 +1,42 @@
+%  This Whois Server contains information on
+% Estonian Top Level Domain ee TLD
+
+domain:       planet.ee
+registrant:   CID:ZONE:54340
+admin-c:      CID:ZONE:54330
+nsset:        NSSID:ZONE:5947
+registrar:    zone
+status:       paid and in zone
+registered:   04.07.2010 04:35:48
+changed:      30.08.2010 19:18:49
+expire:       14.07.2012
+
+contact:      CID:ZONE:54340
+org:          Zone Media O&Atilde;œ
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      15.07.2010 15:03:39
+changed:      20.07.2010 17:10:56
+
+contact:      CID:ZONE:54330
+name:         Martti Varik
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      15.07.2010 14:50:54
+
+nsset:        NSSID:ZONE:5947
+nserver:      ns.zone.eu (217.146.66.65)
+nserver:      ns2.zone.ee (194.204.49.1)
+nserver:      ns3.zonedata.net (90.191.225.242)
+tech-c:       CID:ZONE:69031
+registrar:    zone
+created:      30.08.2010 19:18:48
+
+contact:      CID:ZONE:69031
+org:          Zone Media O&Atilde;œ
+name:         Zone Hostmaster
+e-mail:       Not Disclosed - Visit www.eestiinternet.ee for webbased WHOIS
+registrar:    zone
+created:      30.08.2010 19:18:48
+
+

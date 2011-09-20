@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 02-aug-1998
    Expiration Date: 01-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 08:28:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 11:32:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain webconomy.com
-% Timestamp: 2011-09-18 10:29:40
+% Timestamp: 2011-09-20 13:33:10
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY

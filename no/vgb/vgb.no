@@ -1,0 +1,36 @@
+% Kopibeskyttet, se http://www.norid.no/domenenavnbaser/whois/kopirett.html
+% Rights restricted by copyright. See http://www.norid.no/domenenavnbaser/whois/kopirett.en.html
+
+Domain Information
+
+NORID Handle...............: VGB16D-NORID
+Domain Name................: vgb.no
+Domain Holder Handle.......: VMA302O-NORID
+Registrar Handle...........: REG42-NORID
+Legal-c Handle.............: AY145P-NORID
+Tech-c Handle..............: DH38R-NORID
+Name Server Handle.........: NSHY11H-NORID
+Name Server Handle.........: NSHY46H-NORID
+Name Server Handle.........: NSHY81H-NORID
+
+Additional information:
+Created:         2011-06-10
+Last updated:    2011-06-10
+
+NORID Handle...............: VMA302O-NORID
+Type.......................: organization
+Name.......................: VG MOBIL AS
+Id Type....................: organization_number
+Id Number..................: 985066345
+Registrar Handle...........: REG42-NORID
+Post Address...............: Postboks 1185 Sentrum
+Postal Code................: NO-0107
+Postal Area................: OSLO
+Country....................: NO
+Phone Number...............: +47.22000000
+Email Address..............: m5hpt8jyy8ot@emailprotection.domainnameshop.com
+
+Additional information:
+Created:         2011-02-14
+Last updated:    2011-02-14
+

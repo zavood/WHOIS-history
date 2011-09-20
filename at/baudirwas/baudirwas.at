@@ -1,0 +1,72 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         baudirwas.at
+registrant:     WCA2709125-NICAT
+admin-c:        WCA2709125-NICAT
+tech-c:         JK541251-NICAT
+tech-c:         GG702595-NICAT
+nserver:        ns1.world4you.at
+remarks:        80.243.163.5
+nserver:        ns2.world4you.at
+remarks:        80.243.163.6
+changed:        20070620 09:16:13
+source:         AT-DOM
+
+personname:     Christian Aigner
+organization:   Werbeagentur Christian Aigner
+street address: Buntsteig 109
+postal code:    6103
+city:           Reith b. Seefeld
+country:        Austria
+phone:          +436645343676
+e-mail:         info@baudirwas.at
+nic-hdl:        WCA2709125-NICAT
+changed:        20070308 14:49:47
+source:         AT-DOM
+
+personname:     Johannes Kuehrer
+organization:   World4You Internet Services GmbH
+street address: Hafenstrasse 47-51
+postal code:    A-4020
+city:           Linz
+country:        Austria
+phone:          +4373293035
+e-mail:         domainadmin@world4you.com
+nic-hdl:        JK541251-NICAT
+changed:        20061218 15:41:46
+source:         AT-DOM
+
+personname:     Gerald Gruenberger
+organization:   World4You Internet Services GmbH
+street address: Hafenstrasse 47-51
+postal code:    4020
+city:           Linz
+country:        Austria
+phone:          +4373293035
+fax-no:         +437329303510
+e-mail:         techadmin@world4you.com
+nic-hdl:        GG702595-NICAT
+changed:        20110404 10:25:08
+source:         AT-DOM
+

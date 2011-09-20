@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 24-aug-1999
    Expiration Date: 24-aug-2014
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 12:11:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 12:15:02 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: zawya.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Mon Sep 19 08:01:23 EDT 2011
+Date and Time of Query: Tue Sep 20 08:05:00 EDT 2011
 Reason Code: IE

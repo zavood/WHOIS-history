@@ -1,0 +1,66 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-20T23:24:32+12:00
+domain_name: presbyterian.org.nz
+query_status: 200 Active
+domain_dateregistered: 1998-01-30T00:00:00+13:00
+domain_datebilleduntil: 2011-09-30T00:00:00+13:00
+domain_datelastmodified: 2011-08-30T23:31:15+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: ICONZ
+registrar_address1: Private Bag 92080
+registrar_address2: Victoria Street West
+registrar_city: Auckland
+registrar_postalcode: 1142
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 9 977-3500
+registrar_fax: +64 9 977-3535
+registrar_email: soa@iconz.co.nz
+%
+registrant_contact_name: Presbyterian Church of Aotearoa New Zealand
+registrant_contact_address1: PO Box 9049
+registrant_contact_city: WELLINGTON
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 4 8016000
+registrant_contact_fax: +64 4 8016001
+registrant_contact_email: webmaster@presbyterian.org.nz
+%
+admin_contact_name: Amanda Wells
+admin_contact_address1: P.O. Box 9049
+admin_contact_city: Wellington
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 4 8016000
+admin_contact_fax: +64 4 8016001
+admin_contact_email: amanda@presbyterian.org.nz
+%
+technical_contact_name: SOA
+technical_contact_address1: Ground Floor, ICONZ House
+technical_contact_address2: 60 Airdale St
+technical_contact_city: Auckland
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 9 977-3500
+technical_contact_fax: +64 9 977-3535
+technical_contact_email: soa@iconz.co.nz
+%
+ns_name_01: ns1.iconz.co.nz
+ns_name_02: ns2.iconz.co.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

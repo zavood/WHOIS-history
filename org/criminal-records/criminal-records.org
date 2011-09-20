@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D127467636-LROR
+Domain Name:CRIMINAL-RECORDS.ORG
+Created On:18-Aug-2006 23:33:49 UTC
+Last Updated On:19-Aug-2011 01:26:34 UTC
+Expiration Date:18-Aug-2012 23:33:49 UTC
+Sponsoring Registrar:000Domains, LLC (R69-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Status:AUTORENEWPERIOD
+Registrant ID:DOT-3CWLHGUKDAJ1
+Registrant Name:CIS Nationwide
+Registrant Organization:CIS Nationwide
+Registrant Street1:1120 Finch Avenue West, Suite 701 - 107
+Registrant Street2:
+Registrant Street3:
+Registrant City:Toronto
+Registrant State/Province:Ontario
+Registrant Postal Code:M3J 3H7
+Registrant Country:CA
+Registrant Phone:+1.6172629302
+Registrant Phone Ext.:
+Registrant FAX:+1.8008597375
+Registrant FAX Ext.:
+Registrant Email:info@cisnationwide.com
+Admin ID:DOT-X5PDZOTNJIUU
+Admin Name:CIS Nationwide
+Admin Organization:CIS Nationwide
+Admin Street1:4915 Bathurst St. Unit # 209-107
+Admin Street2:
+Admin Street3:
+Admin City:Toronto
+Admin State/Province:ON
+Admin Postal Code:M2R 1X9
+Admin Country:CA
+Admin Phone:+1.8008597375
+Admin Phone Ext.:
+Admin FAX:+1.8884461229
+Admin FAX Ext.:
+Admin Email:info@cisnationwide.com
+Tech ID:DOT-SVFXCJZBTJ7F
+Tech Name:CIS Nationwide
+Tech Organization:CIS Nationwide
+Tech Street1:4915 Bathurst St. Unit # 209-107
+Tech Street2:
+Tech Street3:
+Tech City:Toronto
+Tech State/Province:ON
+Tech Postal Code:M2R 1X9
+Tech Country:CA
+Tech Phone:+1.8008597375
+Tech Phone Ext.:
+Tech FAX:+1.8884461229
+Tech FAX Ext.:
+Tech Email:info@cisnationwide.com
+Name Server:NS.WEBAIR.NET
+Name Server:NS2.WEBAIR.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 05-apr-2006
    Expiration Date: 05-apr-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 12:09:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 12:12:59 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,12 +117,12 @@ Registrant:
 
     Domain servers in listed order:
 
-    a4.nstld.com
-    j4.nstld.com
-    h4.nstld.com
-    l4.nstld.com
     g4.nstld.com
+    h4.nstld.com
+    j4.nstld.com
+    l4.nstld.com
     f4.nstld.com
+    a4.nstld.com
 
 
 
@@ -137,4 +137,4 @@ Corporate Consulting Services
 Visit MarkMonitor at www.markmonitor.com
 Contact us at 1 800 745 9229
 In Europe, at +44 (0) 20 7840 1300
-
+--

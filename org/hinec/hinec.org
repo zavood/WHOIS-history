@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2277375-LROR
+Domain Name:HINEC.ORG
+Created On:27-Oct-1998 05:00:00 UTC
+Last Updated On:14-Mar-2007 14:29:08 UTC
+Expiration Date:26-Oct-2011 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26791802-NSI
+Registrant Name:Housing Initiatives of New England
+Registrant Organization:Housing Initiatives of New England
+Registrant Street1:415 Congress Street, Suite 204
+Registrant Street2:
+Registrant Street3:
+Registrant City:Portland
+Registrant State/Province:ME
+Registrant Postal Code:04101
+Registrant Country:US
+Registrant Phone:+1.20777488
+Registrant Phone Ext.:
+Registrant FAX:+1.9999999999
+Registrant FAX Ext.:
+Registrant Email:ctaylor@HINEC.ORG
+Admin ID:26791804-NSI
+Admin Name:HousingInitiativesof New England Corporation
+Admin Organization:HousingInitiativesof New England Corporation
+Admin Street1:415 Congress Street
+Admin Street2:
+Admin Street3:
+Admin City:Portland
+Admin State/Province:ME
+Admin Postal Code:04101
+Admin Country:US
+Admin Phone:+1.20777488
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ctaylor@HINEC.ORG
+Tech ID:15398223-NSI
+Tech Name:Maine's Hostmaster
+Tech Organization:Maine Hosting Solutions
+Tech Street1:Web Hosting Made Easy
+Tech Street2:122 Front St.
+Tech Street3:
+Tech City:Bath
+Tech State/Province:ME
+Tech Postal Code:04530
+Tech Country:US
+Tech Phone:+1.2074429006
+Tech Phone Ext.:
+Tech FAX:+1.2074434326
+Tech FAX Ext.:
+Tech Email:domreg@mainehost.com
+Name Server:NS3.MAINEHOST.NET
+Name Server:NS4.MAINEHOST.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

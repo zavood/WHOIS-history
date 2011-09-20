@@ -1,0 +1,95 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; lookvoyages.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      lookvoyages.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LV744-FRNIC
+admin-c:     LV761-FRNIC
+tech-c:      IDN17-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL13600-FRNIC
+registrar:   INDOM
+anniversary: 14/02
+created:     13/08/1999
+last-update: 23/12/2009
+source:      FRNIC
+
+ns-list:     NSL13600-FRNIC
+nserver:     indom10.indomco.com
+nserver:     indom20.indomco.net
+nserver:     indom30.indomco.fr [213.205.102.3]
+nserver:     indom80.indomco.hk
+source:      FRNIC
+
+registrar:   INDOM
+type:        Isp Option 1
+address:     124/126 Rue de Provence
+address:     PARIS
+country:     FR
+phone:       0 820 77 70 00
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+website:     http://www.indom.com
+anonymous:   NO
+registered:  05/01/2000
+source:      FRNIC
+
+nic-hdl:     LV744-FRNIC
+type:        ORGANIZATION
+contact:     LOOK VOYAGES
+address:     12, rue Truillot
+address:     94204 Ivry-sur-Seine Cedex
+country:     FR
+phone:       +33 1 45 15 17 72
+e-mail:      juri@look-voyages.fr
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     IDN17-FRNIC
+type:        ORGANIZATION
+contact:     Indomco.com Domain Names
+address:     44, rue Nd des Victoires
+address:     75002 Paris
+country:     FR
+phone:       +33 1 48 01 83 60
+fax-no:      +33 1 48 01 67 73
+e-mail:      indom@indom.com
+changed:     23/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+
+nic-hdl:     LV761-FRNIC
+type:        ORGANIZATION
+contact:     LOOK VOYAGES
+address:     12, rue Truillot
+address:     94204 Ivry-sur-Seine
+country:     FR
+phone:       +33 1 45 15 17 72
+fax-no:      +33 1 45 15 31 03
+e-mail:      juri@look-voyages.fr
+changed:     23/12/2009 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    not identified
+source:      FRNIC
+

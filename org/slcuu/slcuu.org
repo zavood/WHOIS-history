@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4995959-LROR
+Domain Name:SLCUU.ORG
+Created On:05-Apr-1999 04:00:00 UTC
+Last Updated On:05-Apr-2011 16:20:55 UTC
+Expiration Date:05-Apr-2012 04:00:00 UTC
+Sponsoring Registrar:Dotster, Inc. (R34-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:DOT-XIPUGWABKTR3
+Registrant Name:Hal Gonzales
+Registrant Organization:First Unitarian Church of SLC
+Registrant Street1:569 S. 1300 East
+Registrant Street2:
+Registrant Street3:
+Registrant City:Salt Lake City
+Registrant State/Province:UT
+Registrant Postal Code:84102
+Registrant Country:US
+Registrant Phone:+1.8015828687
+Registrant Phone Ext.:
+Registrant FAX:+1.8015820250
+Registrant FAX Ext.:
+Registrant Email:uuadmin@slcuu.org
+Admin ID:DOT-9IE0MUJCEMW9
+Admin Name:Hal Gonzales
+Admin Organization:First Unitarian Church of SLC
+Admin Street1:569 S. 1300 East
+Admin Street2:
+Admin Street3:
+Admin City:Salt Lake City
+Admin State/Province:UT
+Admin Postal Code:84102
+Admin Country:US
+Admin Phone:+1.8015828687
+Admin Phone Ext.:
+Admin FAX:+1.8015820250
+Admin FAX Ext.:
+Admin Email:uuadmin@slcuu.org
+Tech ID:DOT-P3D49QP60CAD
+Tech Name:Hal Gonzales
+Tech Organization:First Unitarian Church of SLC
+Tech Street1:569 S. 1300 East
+Tech Street2:
+Tech Street3:
+Tech City:Salt Lake City
+Tech State/Province:UT
+Tech Postal Code:84102
+Tech Country:US
+Tech Phone:+1.8015828687
+Tech Phone Ext.:
+Tech FAX:+1.8015820250
+Tech FAX Ext.:
+Tech Email:uuadmin@slcuu.org
+Name Server:NS5.NS0.COM
+Name Server:NS480.PAIR.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -9,14 +9,14 @@ for detailed information.
    Registrar: HICHINA ZHICHENG TECHNOLOGY LTD.
    Whois Server: grs-whois.hichina.com
    Referral URL: http://www.net.cn
-   Name Server: DNS5.HICHINA.COM
-   Name Server: DNS6.HICHINA.COM
+   Name Server: DOMAIN3.EXPIREDNS.COM
+   Name Server: DOMAIN4.EXPIREDNS.COM
    Status: ok
    Updated Date: 18-sep-2011
    Creation Date: 17-sep-2003
    Expiration Date: 17-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 08:52:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 12:03:07 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,8 +52,8 @@ reserves the right to modify these terms at any time.
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
 Domain Name ..................... xn--l9qz4xmt1cryf.com
-Name Server ..................... dns5.hichina.com
-                                  dns6.hichina.com
+Name Server ..................... domain3.expiredns.com
+                                  domain4.expiredns.com
 Registrant ID ................... hc072669164-cn
 Registrant Name ................. Zhongjia Mao
 Registrant Organization ......... Qingdao Fengming Chemical Co., Ltd

@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159543481-LROR
+Domain Name:LARRYNIVEN.ORG
+Created On:30-Jun-2010 14:30:07 UTC
+Last Updated On:22-Aug-2011 15:08:39 UTC
+Expiration Date:30-Jun-2012 14:30:07 UTC
+Sponsoring Registrar:AtlanticFriendNames.com LLC (R1478-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:1157_2536311
+Registrant Name:Markus
+Registrant Organization:MeBeMe GmbH
+Registrant Street1:Torstrasse 177
+Registrant Street2:
+Registrant Street3:
+Registrant City:Berlin
+Registrant State/Province:Berlin
+Registrant Postal Code:10115
+Registrant Country:DE
+Registrant Phone:+49.493030364361
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domains@mebeme-gmbh.de
+Admin ID:1157_2536311
+Admin Name:Markus
+Admin Organization:MeBeMe GmbH
+Admin Street1:Torstrasse 177
+Admin Street2:
+Admin Street3:
+Admin City:Berlin
+Admin State/Province:Berlin
+Admin Postal Code:10115
+Admin Country:DE
+Admin Phone:+49.493030364361
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domains@mebeme-gmbh.de
+Tech ID:1157_2536311
+Tech Name:Markus
+Tech Organization:MeBeMe GmbH
+Tech Street1:Torstrasse 177
+Tech Street2:
+Tech Street3:
+Tech City:Berlin
+Tech State/Province:Berlin
+Tech Postal Code:10115
+Tech Country:DE
+Tech Phone:+49.493030364361
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domains@mebeme-gmbh.de
+Name Server:NS5.ASEOSERVER.COM
+Name Server:NS6.ASEOSERVER.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

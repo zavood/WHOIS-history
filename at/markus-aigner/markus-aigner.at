@@ -1,0 +1,60 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         markus-aigner.at
+registrant:     AH7526684-NICAT
+admin-c:        RS7526685-NICAT
+tech-c:         RS7526685-NICAT
+nserver:        f2.de.ha-dns.net
+nserver:        ka2.de.ha-dns.net
+nserver:        lxa.us.ha-dns.net
+nserver:        m.de.ha-dns.net
+changed:        20101216 22:31:09
+source:         AT-DOM
+
+personname:     Atussa Hinedi
+organization:   Atussa Hinedi
+street address: Arnsdorf 34
+postal code:    5112
+city:           Lamprechtshausen
+country:        Austria
+phone:          +436648348356
+fax-no:         +436648348356
+e-mail:         domain@jalda.at
+nic-hdl:        AH7526684-NICAT
+changed:        20101015 11:44:12
+source:         AT-DOM
+
+personname:     Reschka Markus
+organization:   Reschka Services
+street address: Am Bahnhof 241
+postal code:    4222
+city:           Luftenberg
+country:        Austria
+phone:          +436502112277
+fax-no:         +43702100224499
+e-mail:         domain@reschka.at
+nic-hdl:        RS7526685-NICAT
+changed:        20101015 11:44:12
+source:         AT-DOM
+

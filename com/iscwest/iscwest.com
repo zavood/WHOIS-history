@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 19-apr-2001
    Expiration Date: 19-apr-2013
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 03:53:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 12:13:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: iscwest.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 23:48:38 EDT 2011
+Date and Time of Query: Tue Sep 20 08:03:10 EDT 2011
 Reason Code: IE

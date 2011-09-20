@@ -1,0 +1,99 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; vlex.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      vlex.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    VNS14-FRNIC
+admin-c:     CC8505-FRNIC
+tech-c:      NIS37-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5661-FRNIC
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+anniversary: 24/07
+created:     04/04/2006
+last-update: 13/01/2010
+source:      FRNIC
+
+ns-list:     NSL5661-FRNIC
+nserver:     ns0.dnsmadeeasy.com
+nserver:     ns1.dnsmadeeasy.com
+nserver:     ns2.dnsmadeeasy.com
+nserver:     ns3.dnsmadeeasy.com
+nserver:     ns4.dnsmadeeasy.com
+source:      FRNIC
+
+registrar:   AMEN / Agence des M&eacute;dias Num&eacute;riques
+type:        Isp Option 1
+address:     12-14, Rond-point des Champs Elys&eacute;es
+address:     PARIS
+country:     FR
+phone:       0 892 55 66 77
+fax-no:      +33 1 40 87 76 89
+e-mail:      afnic@amen.fr
+website:     http://www.amen.fr
+anonymous:   NO
+registered:  17/01/1999
+source:      FRNIC
+
+nic-hdl:     NIS37-FRNIC
+type:        ROLE
+contact:     Nominalia Internet SL
+address:     Nominalia Internet, S.L.
+address:     Josep Pla, 2. Torres Diagonal Litoral. Edificio B3, planta 3-D
+address:     E-08019 Barcelona
+address:     Spain
+address:     ES
+phone:       +34 935074360
+e-mail:      cctld@nominalia.com
+trouble:     http://www.nominalia.com
+admin-c:     JHZ1-FRNIC
+tech-c:      APM3-FRNIC
+changed:     13/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CC8505-FRNIC
+type:        PERSON
+contact:     Claudio Corbetta
+address:     AMEN - Agence des Medias Numeriques
+address:     12-14, Rond-Point des Champs Elysees
+address:     75008 Paris
+country:     FR
+phone:       +33 8 92 55 66 77
+fax-no:      +34 937289289
+e-mail:      internic@amen.fr
+changed:     02/09/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     VNS14-FRNIC
+type:        ORGANIZATION
+contact:     VLEX NETWORKS SL
+address:     Rambla de Cataluna 43
+address:     08007 Barcelona
+country:     ES
+phone:       +34 932722685
+e-mail:      lfaus@corp.vlex.com
+changed:     13/01/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

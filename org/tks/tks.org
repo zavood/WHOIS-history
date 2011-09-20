@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1310038-LROR
+Domain Name:TKS.ORG
+Created On:21-May-1998 04:00:00 UTC
+Last Updated On:21-May-2011 13:38:53 UTC
+Expiration Date:20-May-2013 04:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30375873
+Registrant Name:Roy Greenhill Sr
+Registrant Organization:Greenhill Ministries
+Registrant Street1:6851 Roswell Rd
+Registrant Street2:Q-22
+Registrant Street3:
+Registrant City:Atalanta
+Registrant State/Province:Georgia
+Registrant Postal Code:30328
+Registrant Country:US
+Registrant Phone:+1.7703951564
+Registrant Phone Ext.:
+Registrant FAX:+1.7703957223
+Registrant FAX Ext.:
+Registrant Email:rgreenhill@yahoo.com
+Admin ID:CR30375875
+Admin Name:Roy Greenhill, Sr
+Admin Organization:Greenhill Ministries
+Admin Street1:6851 Roswell Rd
+Admin Street2:Q-22
+Admin Street3:
+Admin City:Atalanta
+Admin State/Province:Georgia
+Admin Postal Code:30328
+Admin Country:US
+Admin Phone:+1.7703951564
+Admin Phone Ext.:
+Admin FAX:+1.7703957223
+Admin FAX Ext.:
+Admin Email:rgreenhill@yahoo.com
+Tech ID:CR30375874
+Tech Name:Roy Greenhill, Sr
+Tech Organization:Greenhill Ministries
+Tech Street1:6851 Roswell Rd
+Tech Street2:Q-22
+Tech Street3:
+Tech City:Atalanta
+Tech State/Province:Georgia
+Tech Postal Code:30328
+Tech Country:US
+Tech Phone:+1.7703951564
+Tech Phone Ext.:
+Tech FAX:+1.7703957223
+Tech FAX Ext.:
+Tech Email:rgreenhill@yahoo.com
+Name Server:NS1.ACENET-INC.NET
+Name Server:NS2.ACENET-INC.NET
+Name Server:NS3.ACENET-INC.NET
+Name Server:NS4.ACENET-INC.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
