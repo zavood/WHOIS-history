@@ -23,7 +23,7 @@ for detailed information.
    Creation Date: 09-aug-2000
    Expiration Date: 09-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 01:54:39 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 02:38:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -76,5 +76,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: 1mo.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sun Sep 18 21:44:28 EDT 2011
+Date and Time of Query: Mon Sep 19 22:28:07 EDT 2011
 Reason Code: IE

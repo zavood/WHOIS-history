@@ -1,0 +1,71 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         austriatoday.at
+registrant:     MBZG5032789-NICAT
+admin-c:        TB5032790-NICAT
+tech-c:         DA5032791-NICAT
+nserver:        ns1.easyname.eu
+nserver:        ns2.easyname.eu
+changed:        20090525 01:24:21
+source:         AT-DOM
+
+personname:     Elfi Mayr
+organization:   M&amp;B Zeitschriftenproduktion GmbH
+street address: Toepfelgasse 8
+postal code:    A-1140
+city:           Wien
+country:        Austria
+phone:          +4319175118
+fax-no:         +431917511823
+e-mail:         e.mayr@austriatoday.at
+nic-hdl:        MBZG5032789-NICAT
+changed:        20090519 12:19:11
+source:         AT-DOM
+
+personname:     Thomas Brey
+organization:
+street address: A-3370 Ybbs/Donau
+street address: M&amp;B Zeitschriftenproduktion GmbH
+street address: Austria
+street address: Irnfriedstr. 4
+postal code:
+city:
+country:
+phone:          +43187913260
+fax-no:         +43187913262
+e-mail:         jenner@proteus.at
+nic-hdl:        TB5032790-NICAT
+changed:        20090519 12:19:13
+source:         AT-DOM
+
+personname:     Domain Admin
+organization:
+street address: Fadingerstrasse 6
+postal code:    A-4020
+city:           Linz
+country:        Austria
+nic-hdl:        DA5032791-NICAT
+changed:        20090519 12:19:13
+source:         AT-DOM
+

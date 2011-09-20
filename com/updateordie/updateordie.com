@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 15-feb-2005
    Expiration Date: 15-feb-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 12:28:23 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 02:11:27 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -105,8 +105,8 @@ US
 Phone:         +1.3034596012
 Email Address: updateordie.com@protecteddomainservices.com
 
-Timestamp: 1315830533.1423
+Timestamp: 1316484720.3226
 
 The Data in the Spot Domain LLC WHOIS database is provided by Spot Domain LLC for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.  Spot Domain LLC does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to:  (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or (2) enable high volume, automated, electronic processes that apply to Spot Domain LLC (or its systems). Spot Domain LLC reserves the right to modify these terms at any time.  By submitting this query, you agree to abide by this policy.
 
-Cached on: 2011-09-12T06:28:53-06:00
+Cached on: 2011-09-19T20:12:00-06:00

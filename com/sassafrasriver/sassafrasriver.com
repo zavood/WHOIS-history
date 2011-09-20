@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 19-oct-1999
    Expiration Date: 19-oct-2015
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 15:14:27 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 03:09:34 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,6 +70,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: sassafrasriver.com
-YOUR IP address is 95.154.230.221
-Date and Time of Query: Sat Sep 10 11:04:54 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Mon Sep 19 22:59:56 EDT 2011
 Reason Code: IE

@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 11-oct-2004
    Expiration Date: 11-oct-2014
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 14:57:31 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 03:06:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,6 +70,6 @@ If you feel that you have received this message in error, please email us using 
 form at http://www.networksolutions.com/help/email.jsp with the following information:
 
 Whois Query: moccasinsales.com
-YOUR IP address is 95.154.230.221
-Date and Time of Query: Sat Sep 10 10:53:14 EDT 2011
+YOUR IP address is 67.231.254.15
+Date and Time of Query: Mon Sep 19 22:56:57 EDT 2011
 Reason Code: IE

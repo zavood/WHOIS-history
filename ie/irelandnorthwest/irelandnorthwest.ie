@@ -1,0 +1,24 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+domain:      irelandnorthwest.ie
+descr:       Stephen Hone
+descr:       Natural Person
+descr:       Discretionary Name
+admin-c:     AJZ696-IEDR
+tech-c:      ABG704-IEDR
+renewal:     14-October-2011
+status:      Active
+nserver:     ns7.ns0.com
+nserver:     ns84.pair.com
+source:      IEDR
+
+person:      Stephen Hone
+nic-hdl:     AJZ696-IEDR
+source:      IEDR
+
+person:      Lets Host Domain Services
+nic-hdl:     ABG704-IEDR
+source:      IEDR
+

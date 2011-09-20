@@ -11,12 +11,12 @@ for detailed information.
    Referral URL: http://www.melbourneit.com
    Name Server: NS1.WHITELABELPARKED.COM
    Name Server: NS2.WHITELABELPARKED.COM
-   Status: redemptionPeriod
-   Updated Date: 17-aug-2011
+   Status: pendingDelete
+   Updated Date: 17-sep-2011
    Creation Date: 06-jul-2009
    Expiration Date: 06-jul-2011
 
-&gt;&gt;&gt; Last update of whois database: Sun, 11 Sep 2011 23:53:00 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 02:16:29 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is

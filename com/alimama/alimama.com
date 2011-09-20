@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 21-apr-1999
    Expiration Date: 21-apr-2016
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 01:39:50 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 02:54:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -117,9 +117,9 @@ Registrant:
 
     Domain servers in listed order:
 
-    nscm3.alimama.com
     nscm2.alimama.com
     nscm4.alimama.com
+    nscm3.alimama.com
 
 
 

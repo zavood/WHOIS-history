@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 16-aug-2005
    Expiration Date: 16-aug-2014
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 18:15:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 02:07:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -72,7 +72,7 @@ commercial advertising or solicitations via e-mail (spam); or
 
 By submitting this query, you agree to abide by the above policy.
 
-Whois History: 891 records have been archived since 2005-08-30
+Whois History: 906 records have been archived since 2005-08-30
 http://www.domaintools.com/research/whois-history/?page=results&amp;Affiliate_ID=1001861&amp;q=mofosex.com
 
 Domain: mofosex.com

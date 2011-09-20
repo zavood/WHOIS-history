@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D142237548-LROR
+Domain Name:KOFC12769.ORG
+Created On:25-Mar-2007 14:32:33 UTC
+Last Updated On:12-Mar-2011 03:14:03 UTC
+Expiration Date:25-Mar-2012 14:32:33 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuutlsK494QTVlu4
+Registrant Name:Charles Schumacher
+Registrant Organization:K of C Council 12769
+Registrant Street1:711 7th Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Secaucus
+Registrant State/Province:NJ
+Registrant Postal Code:07094-3009
+Registrant Country:US
+Registrant Phone:+1.2013300304
+Registrant Phone Ext.:
+Registrant FAX:+1.2013300305
+Registrant FAX Ext.:
+Registrant Email:cschu@threebee.com
+Admin ID:tuutlsK494QTVlu4
+Admin Name:Charles Schumacher
+Admin Organization:K of C Council 12769
+Admin Street1:711 7th Street
+Admin Street2:
+Admin Street3:
+Admin City:Secaucus
+Admin State/Province:NJ
+Admin Postal Code:07094-3009
+Admin Country:US
+Admin Phone:+1.2013300304
+Admin Phone Ext.:
+Admin FAX:+1.2013300305
+Admin FAX Ext.:
+Admin Email:cschu@threebee.com
+Tech ID:tuSvAkhXiaCsjMN1
+Tech Name:Hostmaster Frontline
+Tech Organization:Frontline Communications
+Tech Street1:PO Box 98
+Tech Street2:
+Tech Street3:
+Tech City:Orangeburg
+Tech State/Province:NY
+Tech Postal Code:10962
+Tech Country:US
+Tech Phone:+1.8883766854
+Tech Phone Ext.:
+Tech FAX:+1.8459477399
+Tech FAX Ext.:
+Tech Email:hostmaster@frontline.net
+Name Server:NS3.FRONTLINE.NET
+Name Server:NS1.FRONTLINE.NET
+Name Server:NS2.FRONTLINE.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

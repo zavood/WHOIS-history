@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 08-feb-2004
    Expiration Date: 08-feb-2014
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 02:09:17 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 02:52:10 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,5 +71,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: 6pm.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sun Sep 18 21:59:08 EDT 2011
+Date and Time of Query: Mon Sep 19 22:42:37 EDT 2011
 Reason Code: IE

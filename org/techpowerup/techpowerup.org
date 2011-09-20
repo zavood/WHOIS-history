@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106346288-LROR
+Domain Name:TECHPOWERUP.ORG
+Created On:17-May-2005 21:39:27 UTC
+Last Updated On:18-May-2011 01:22:31 UTC
+Expiration Date:17-May-2012 21:39:27 UTC
+Sponsoring Registrar:1API GmbH (R1724-LROR)
+Status:OK
+Registrant ID:P-1269970
+Registrant Name:M. v. Khurja
+Registrant Organization:techpowerup.com
+Registrant Street1:Fortis Bank Tower
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hong Kong
+Registrant State/Province:
+Registrant Postal Code:2410
+Registrant Country:HK
+Registrant Phone:+852.525256754
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:contact@techpowerup.com
+Admin ID:P-1269970
+Admin Name:M. v. Khurja
+Admin Organization:techpowerup.com
+Admin Street1:Fortis Bank Tower
+Admin Street2:
+Admin Street3:
+Admin City:Hong Kong
+Admin State/Province:
+Admin Postal Code:2410
+Admin Country:HK
+Admin Phone:+852.525256754
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:contact@techpowerup.com
+Tech ID:P-1269970
+Tech Name:M. v. Khurja
+Tech Organization:techpowerup.com
+Tech Street1:Fortis Bank Tower
+Tech Street2:
+Tech Street3:
+Tech City:Hong Kong
+Tech State/Province:
+Tech Postal Code:2410
+Tech Country:HK
+Tech Phone:+852.525256754
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:contact@techpowerup.com
+Name Server:NS1.TECHPOWERUP.COM
+Name Server:NS2.TECHPOWERUP.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

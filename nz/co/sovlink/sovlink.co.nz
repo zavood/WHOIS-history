@@ -1,0 +1,64 @@
+% New Zealand Domain Name Registry Limited
+% Users confirm on submission their agreement to all published Terms
+%
+version: 5.00
+query_datetime: 2011-09-20T14:20:44+12:00
+domain_name: sovlink.co.nz
+query_status: 200 Active
+domain_dateregistered: 2001-08-22T09:53:00+12:00
+domain_datebilleduntil: 2018-11-08T09:47:13+13:00
+domain_datelastmodified: 2011-09-01T14:28:33+12:00
+domain_delegaterequested: yes
+domain_signed: no
+%
+registrar_name: Domainz Limited
+registrar_address1: Private Bag 1810
+registrar_city: Wellington
+registrar_country: NZ (NEW ZEALAND)
+registrar_phone: +64 4 473 4567
+registrar_fax: +64 4 473 4569
+registrar_email: 4service@domainz.net.nz
+%
+registrant_contact_name: ASB Bank Limited
+registrant_contact_address1: PO Box 35
+registrant_contact_address2: Shortland St
+registrant_contact_city: AUCKLAND
+registrant_contact_country: NZ (NEW ZEALAND)
+registrant_contact_phone: +64 9 4148595
+registrant_contact_fax: +64 9 4148008
+registrant_contact_email: suzy.clarke@asb.co.nz
+%
+admin_contact_name: domain Administrator
+admin_contact_address1: PO Box 35
+admin_contact_address2: Shortland St
+admin_contact_city: AUCKLAND
+admin_contact_country: NZ (NEW ZEALAND)
+admin_contact_phone: +64 9 4148595
+admin_contact_fax: +64 9 4148008
+admin_contact_email: suzy.clarke@asb.co.nz
+%
+technical_contact_name: Domains Admin
+technical_contact_address1: Po Box 35
+technical_contact_city: Auckland
+technical_contact_country: NZ (NEW ZEALAND)
+technical_contact_phone: +64 9 4148000
+technical_contact_email: domains@asb.co.nz
+%
+ns_name_01: ns1.asb.co.nz
+ns_name_02: ns2.asb.co.nz
+%
+% Users are advised that the following activities are strictly forbidden.
+%
+% Using multiple WHOIS queries, or using the output of multiple WHOIS
+% queries in conjunction with any other facility or service, to enable
+% or effect a download of part or all of the .nz Register.
+%
+% Using any information contained in the WHOIS query output to attempt a
+% targeted contact campaign with any person, or any organisation, using any
+% medium.
+%
+% A breach of these conditions will be treated as a breach of the .nz Policies
+% and Procedures.  Sanctions in line with those specified in the policies and
+% procedures at www.dnc.org.nz may result from any breach.
+%
+% Copyright InternetNZ

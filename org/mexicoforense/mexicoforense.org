@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D120619375-LROR
+Domain Name:MEXICOFORENSE.ORG
+Created On:17-Apr-2006 20:51:23 UTC
+Last Updated On:01-Jul-2011 22:46:02 UTC
+Expiration Date:17-Apr-2013 20:51:23 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:OK
+Registrant ID:tu9jhTvHvC8c2wGJ
+Registrant Name:Internet Networks, S.A de C.V
+Registrant Organization:Internet Networks, S.A. de C.V.
+Registrant Street1:Calle Seis No. 47 Col. Espartaco
+Registrant Street2:
+Registrant Street3:
+Registrant City:Mexico City
+Registrant State/Province:D.F.
+Registrant Postal Code:04870
+Registrant Country:MX
+Registrant Phone:+52.5556847999
+Registrant Phone Ext.:
+Registrant FAX:+52.5556847999
+Registrant FAX Ext.:
+Registrant Email:nic@internetworks.com.mx
+Admin ID:tu3wTRsY61W30Qda
+Admin Name:Internet Networks, S.A de C.V
+Admin Organization:Internet Networks, S.A. de C.V.
+Admin Street1:Calle Seis No. 47 Col. Espartaco
+Admin Street2:
+Admin Street3:
+Admin City:Mexico City
+Admin State/Province:D.F.
+Admin Postal Code:04870
+Admin Country:MX
+Admin Phone:+52.5556847999
+Admin Phone Ext.:
+Admin FAX:+52.5556847999
+Admin FAX Ext.:
+Admin Email:nic@internetworks.com.mx
+Tech ID:tuiw8IWtfTG3Ba8e
+Tech Name:Internet Networks, S.A de C.V
+Tech Organization:Internet Networks, S.A. de C.V.
+Tech Street1:Calle Seis No. 47 Col. Espartaco
+Tech Street2:
+Tech Street3:
+Tech City:Mexico City
+Tech State/Province:D.F.
+Tech Postal Code:04870
+Tech Country:MX
+Tech Phone:+52.5556847999
+Tech Phone Ext.:
+Tech FAX:+52.5556847999
+Tech FAX Ext.:
+Tech Email:nic@internetworks.com
+Name Server:NS5.INTERNETWORKS.COM
+Name Server:NS6.INTERNETWORKS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
