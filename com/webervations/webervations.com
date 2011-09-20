@@ -20,7 +20,7 @@ for detailed information.
    Creation Date: 24-jun-1998
    Expiration Date: 23-jun-2015
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 03:24:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 03:27:33 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -115,10 +115,10 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns3.p13.dynect.net
-    ns4.p13.dynect.net
     ns2.p13.dynect.net
     ns1.p13.dynect.net
+    ns3.p13.dynect.net
+    ns4.p13.dynect.net
 
 
 

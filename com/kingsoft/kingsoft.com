@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 06-mar-2000
    Expiration Date: 06-mar-2016
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 23:13:14 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 03:37:25 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: kingsoft.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sun Sep 18 19:03:34 EDT 2011
+Date and Time of Query: Mon Sep 19 23:32:54 EDT 2011
 Reason Code: IE

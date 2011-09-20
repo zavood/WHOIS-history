@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D26001563-LROR
+Domain Name:NOTTINGHAMFOREST.ORG
+Created On:30-Apr-2000 19:34:04 UTC
+Last Updated On:01-May-2008 22:08:12 UTC
+Expiration Date:30-Apr-2013 19:34:04 UTC
+Sponsoring Registrar:Register.com, Inc. (R71-LROR)
+Status:OK
+Registrant ID:4A07180117CDC0D2
+Registrant Name:Lisa Harpold
+Registrant Organization:Nottingham Forest Homes Association, Inc.
+Registrant Street1:P.O. Box 25523
+Registrant Street2:
+Registrant Street3:
+Registrant City:Overland Park
+Registrant State/Province:KS
+Registrant Postal Code:66225
+Registrant Country:US
+Registrant Phone:+1.9136851996
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bigangel@kc.rr.com
+Admin ID:4A07180117CDC0D2
+Admin Name:Lisa Harpold
+Admin Organization:Nottingham Forest Homes Association, Inc.
+Admin Street1:P.O. Box 25523
+Admin Street2:
+Admin Street3:
+Admin City:Overland Park
+Admin State/Province:KS
+Admin Postal Code:66225
+Admin Country:US
+Admin Phone:+1.9136851996
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bigangel@kc.rr.com
+Tech ID:CD8DE9AF4AD9DFEE
+Tech Name:Registration Services
+Tech Organization:Globalspace Solutions, LLC
+Tech Street1:PO Box 36461
+Tech Street2:
+Tech Street3:
+Tech City:Dallas
+Tech State/Province:TX
+Tech Postal Code:75235
+Tech Country:US
+Tech Phone:+1.8176840212
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:registration@globalspace.net
+Name Server:NS.HOST4U.NET
+Name Server:NS2.HOST4U.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

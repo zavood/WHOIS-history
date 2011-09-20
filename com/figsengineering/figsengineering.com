@@ -11,13 +11,12 @@ for detailed information.
    Referral URL: http://domainhelp.opensrs.net
    Name Server: NS1.IPOWER.COM
    Name Server: NS2.IPOWER.COM
-   Status: clientTransferProhibited
-   Status: clientUpdateProhibited
-   Updated Date: 20-oct-2008
+   Status: ok
+   Updated Date: 19-sep-2011
    Creation Date: 20-oct-2008
    Expiration Date: 20-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 00:57:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 04:15:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,82 +51,5 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Registrant:
- FIGS Engineering
- 1310 5th Street
- Golden, CO 80403
- US
-
- Domain name: FIGSENGINEERING.COM
-
-
- Administrative Contact:
-    Figaro, Michael  figbline@msn.com
-    1310 5th Street
-    Golden, CO 80403
-    US
-    +1.3039495729
- Technical Contact:
-    Administrator, Domain  domreg@ipower.com
-    70 Blanchard Road
-    Burlington, MA 01803
-    US
-    +1.8885114678    Fax: +1.7812726550
-
-
-
- Registration Service Provider:
-    IPOWER, Inc., support@ipower-inc.com
-    888 511 4678
-
-
-
- Registrar of Record: TUCOWS, INC.
- Record last updated on 20-Oct-2008.
- Record expires on 20-Oct-2011.
- Record created on 20-Oct-2008.
-
- Registrar Domain Name Help Center:
-    http://tucowsdomains.com
-
- Domain servers in listed order:
-    NS1.IPOWER.COM
-    NS2.IPOWER.COM
-
-
- Domain status: clientTransferProhibited
-                clientUpdateProhibited
-
-The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
-for information purposes only, and may be used to assist you in obtaining
-information about or related to a domain name's registration record.
-
-Tucows makes this information available &quot;as is,&quot; and does not guarantee its
-accuracy.
-
-By submitting a WHOIS query, you agree that you will use this data only for
-lawful purposes and that, under no circumstances will you use this data to:
-a) allow, enable, or otherwise support the transmission by e-mail,
-telephone, or facsimile of mass, unsolicited, commercial advertising or
-solicitations to entities other than the data recipient's own existing
-customers; or (b) enable high volume, automated, electronic processes that
-send queries or data to the systems of any Registry Operator or
-ICANN-Accredited registrar, except as reasonably necessary to register
-domain names or modify existing registrations.
-
-The compilation, repackaging, dissemination or other use of this Data is
-expressly prohibited without the prior written consent of Tucows.
-
-Tucows reserves the right to terminate your access to the Tucows WHOIS
-database in its sole discretion, including without limitation, for excessive
-querying of the WHOIS database or for failure to otherwise abide by this
-policy.
-
-Tucows reserves the right to modify these terms at any time.
-
-By submitting this query, you agree to abide by these terms.
-
-NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
-RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
-
-
+IP Address: 67.231.254.15
+Maximum Daily connection limit reached. Lookup refused.

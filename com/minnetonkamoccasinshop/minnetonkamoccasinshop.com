@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 26-may-2004
    Expiration Date: 26-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 10 Sep 2011 23:25:54 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 04:06:56 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -99,7 +99,7 @@ Sterling Leather
    ------------------------------------------------------------------------
 
    Administrative Contact:
-      rubinstein, stan		fw9sb4ax7p2@networksolutionsprivateregistration.com
+      rubinstein, stan		jm7qk7kr7hw@networksolutionsprivateregistration.com
       ATTN MINNETONKAMOCCASINSHOP.COM
       care of Network Solutions
       PO Box 459
@@ -108,7 +108,7 @@ Sterling Leather
       570-708-8780
 
    Technical Contact:
-      Sterling Leather		yq3265qa6vr@networksolutionsprivateregistration.com
+      Sterling Leather		xf3pk45942s@networksolutionsprivateregistration.com
       ATTN MINNETONKAMOCCASINSHOP.COM
       care of Network Solutions
       PO Box 459
@@ -119,7 +119,7 @@ Sterling Leather
 
    Record expires on 26-May-2012.
    Record created on 26-May-2004.
-   Database last updated on 10-Sep-2011 19:16:26 EDT.
+   Database last updated on 19-Sep-2011 23:56:16 EDT.
 
    Domain servers in listed order:
 

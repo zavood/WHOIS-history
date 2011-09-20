@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 06-aug-2005
    Expiration Date: 06-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 00:20:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 03:36:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: panthercdn.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 20:11:04 EDT 2011
+Date and Time of Query: Mon Sep 19 23:26:50 EDT 2011
 Reason Code: IE

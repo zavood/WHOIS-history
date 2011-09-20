@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 05-apr-2001
    Expiration Date: 05-apr-2016
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 02:39:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 03:21:28 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -95,7 +95,7 @@ Domain name servers listed in order:
 	ns2.inmotionhosting.com
 
 
-Accesses today: 14 / 20
+Accesses today: 12 / 20
 
 The data in Domainit.com's WHOIS database is provided to you by
 Domainit.com for information purposes only, namely to assist you in

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 14-jun-1995
    Expiration Date: 13-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 03:23:20 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 03:44:58 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: broderbund.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sun Sep 18 23:18:58 EDT 2011
+Date and Time of Query: Mon Sep 19 23:35:17 EDT 2011
 Reason Code: IE

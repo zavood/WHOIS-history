@@ -1,37 +1,13 @@
-
 % Copyright (c) Nic.br
 %  The use of the data below is only permitted as described in
 %  full by the terms of use (http://registro.br/termo/en.html),
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-15 11:32:14 (BRT -03:00)
+%  [67.231.254.15] 2011-09-20 01:02:03 (BRT -03:00)
 
-domain:      hdfree.com.br
-owner:       HostDime.com.br Data Center
-ownerid:     008.369.210/0001-63
-responsible: Filipe Mendes
-country:     BR
-owner-c:     HOBIN
-admin-c:     HOBIN
-tech-c:      HOBIN
-billing-c:   HOBIN
-nserver:     ns1.hdfree.com.br 66.7.194.190
-nsstat:      20110914 AA
-nslastaa:    20110914
-nserver:     ns2.hdfree.com.br 66.7.194.191
-nsstat:      20110914 AA
-nslastaa:    20110914
-created:     20090326 #5406537
-expires:     20120326
-changed:     20110316
-status:      published
 
-nic-hdl-br:  HOBIN
-person:      HostDime Brasil Internet
-e-mail:      network.br@dimenoc.com
-created:     20061020
-changed:     20101222
+% Query rate limit exceeded
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 14-aug-2003
    Expiration Date: 14-aug-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 04:26:58 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 04:46:55 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -65,7 +65,7 @@ Registrars.
 % Requesting IP: 67.231.254.15
 % Requesting URL: http://whois.psi-usa.info
 % Requesting Object: domain dornmx.net
-% Timestamp: 2011-09-18 06:27:22
+% Timestamp: 2011-09-20 06:47:23
 %
 % You can see the policy that you agree by submitting a query to this server:
 % whois -h whois.psi-usa.info POLICY
@@ -83,7 +83,7 @@ nserver:                     c.ns14.net
 nserver:                     d.ns14.net
 created:                     2003-08-14 09:23:55
 expire:                      2012-08-14 09:23:55 (registry time)
-changed:                     2011-08-18 14:24:50
+changed:                     2011-09-19 07:40:36
 
 [owner-c] handle:            10696484
 [owner-c] type:              PERSON

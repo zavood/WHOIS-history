@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D96660800-LROR
+Domain Name:CLUBFOTOGRAFICO.ORG
+Created On:23-Mar-2003 06:33:29 UTC
+Last Updated On:17-Feb-2011 18:45:04 UTC
+Expiration Date:23-Mar-2013 06:33:29 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:OK
+Registrant ID:A126572553098281
+Registrant Name:Alfonso Batres
+Registrant Organization:Alfonso Batres
+Registrant Street1:31 ave B 4-53 zona 7
+Registrant Street2:
+Registrant Street3:
+Registrant City:Guatemala
+Registrant State/Province:-
+Registrant Postal Code:01007
+Registrant Country:GT
+Registrant Phone:+243.11779
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:alfonso@guatemalaontheweb.com
+Admin ID:B126581141923865
+Admin Name:Alfonso Batres
+Admin Organization:Alfonso Batres
+Admin Street1:31 ave B 4-53 zona 7
+Admin Street2:
+Admin Street3:
+Admin City:Guatemala
+Admin State/Province:Guatemala
+Admin Postal Code:01007
+Admin Country:GT
+Admin Phone:+243.11779
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:alfonso@guatemalaontheweb.com
+Tech ID:B126581141923866
+Tech Name:Alfonso Batres
+Tech Street1:31 ave B 4-53 zona 7
+Tech Street2:
+Tech Street3:
+Tech City:Guatemala
+Tech State/Province:Guatemala
+Tech Postal Code:01007
+Tech Country:GT
+Tech Phone:+243.11779
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:alfonso@guatemalaontheweb.com
+Name Server:NS.INMOTIONHOSTING.COM
+Name Server:NS2.INMOTIONHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

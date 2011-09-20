@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 07-jun-1994
    Expiration Date: 07-dec-2011
 
-&gt;&gt;&gt; Last update of whois database: Wed, 14 Sep 2011 05:09:05 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 04:07:42 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -108,7 +108,7 @@ Theatre Direct NY, Inc
 
    Record expires on 07-Dec-2011.
    Record created on 07-Jun-1994.
-   Database last updated on 14-Sep-2011 01:04:47 EDT.
+   Database last updated on 19-Sep-2011 23:57:58 EDT.
 
    Domain servers in listed order:
 

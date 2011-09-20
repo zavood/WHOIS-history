@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 13-feb-1999
    Expiration Date: 13-feb-2015
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 13:33:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 03:33:37 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,5 +71,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: freeroms.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 09:29:31 EDT 2011
+Date and Time of Query: Mon Sep 19 23:29:10 EDT 2011
 Reason Code: IE

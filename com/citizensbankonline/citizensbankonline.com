@@ -25,7 +25,7 @@ for detailed information.
    Creation Date: 06-aug-1998
    Expiration Date: 05-aug-2015
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 03:51:49 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 04:04:39 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -120,14 +120,14 @@ Registrant:
 
     Domain servers in listed order:
 
-    ns4.markmonitor.com
     udns2.ultradns.net
-    ns3.markmonitor.com
-    ns6.markmonitor.com
     ns5.markmonitor.com
-    udns1.ultradns.net
     ns7.markmonitor.com
+    ns3.markmonitor.com
+    udns1.ultradns.net
+    ns4.markmonitor.com
     ns2.markmonitor.com
+    ns6.markmonitor.com
     ns1.markmonitor.com
 
 

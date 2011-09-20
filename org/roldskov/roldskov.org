@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D108619945-LROR
+Domain Name:ROLDSKOV.ORG
+Created On:17-Nov-2005 08:03:39 UTC
+Last Updated On:17-Nov-2010 11:12:57 UTC
+Expiration Date:17-Nov-2012 08:03:39 UTC
+Sponsoring Registrar:Safenames Ltd. (R130-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:AT10303477-014
+Registrant Name:Rebild-Skoerping Turistbureau
+Registrant Organization:Rebild-Skoerping Turistbureau
+Registrant Street1:KulturStationen
+Registrant Street2:
+Registrant Street3:
+Registrant City:Skoerping
+Registrant State/Province:
+Registrant Postal Code:9520
+Registrant Country:DK
+Registrant Phone:+45.99828440
+Registrant Phone Ext.:
+Registrant FAX:+45.96820223
+Registrant FAX Ext.:
+Registrant Email:info@roldskovturist.dk
+Admin ID:AT9268210-014
+Admin Name:Bo Fallesen
+Admin Organization:A/S ScanNet
+Admin Street1:Fjordvej 78
+Admin Street2:
+Admin Street3:
+Admin City:Kolding
+Admin State/Province:
+Admin Postal Code:6000
+Admin Country:DK
+Admin Phone:+45.75533500
+Admin Phone Ext.:
+Admin FAX:+45.75533509
+Admin FAX Ext.:
+Admin Email:hostmaster@scannet.dk
+Tech ID:AT9268210-014
+Tech Name:Bo Fallesen
+Tech Organization:A/S ScanNet
+Tech Street1:Fjordvej 78
+Tech Street2:
+Tech Street3:
+Tech City:Kolding
+Tech State/Province:
+Tech Postal Code:6000
+Tech Country:DK
+Tech Phone:+45.75533500
+Tech Phone Ext.:
+Tech FAX:+45.75533509
+Tech FAX Ext.:
+Tech Email:hostmaster@scannet.dk
+Name Server:NS1.DYNAMICSYSTEMS.DK
+Name Server:NS2.DYNAMICSYSTEMS.DK
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 26-nov-2010
    Expiration Date: 26-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:13:37 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 03:53:32 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,50 +52,3 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-Domain Name : yxcpm.com
-
-Registrant Contact Information :
-&eacute;ƒ&shy;&aring;&raquo;&ordm;
-&eacute;ƒ&shy;&aring;&raquo;&ordm;
-zsrmail@163.com
-&eacute;•&iquest;&aring;…&acute;&egrave;&iexcl;—, 510600
-tel: 86 02012345678
-fax: 86 02012345678
-
-Administrative Contact Information :
-&eacute;ƒ&shy;&aring;&raquo;&ordm;
-&eacute;ƒ&shy;&aring;&raquo;&ordm;
-zsrmail@163.com
-&eacute;•&iquest;&aring;…&acute;&egrave;&iexcl;—, 510600
-tel: 86 02012345678
-fax: 86 02012345678
-
-Technical Contact Information :
-&eacute;ƒ&shy;&aring;&raquo;&ordm;
-&eacute;ƒ&shy;&aring;&raquo;&ordm;
-zsrmail@163.com
-&eacute;•&iquest;&aring;…&acute;&egrave;&iexcl;—, 510600
-tel: 86 02012345678
-fax: 86 02012345678
-
-Billing Contact Information :
-&eacute;ƒ&shy;&aring;&raquo;&ordm;
-&eacute;ƒ&shy;&aring;&raquo;&ordm;
-zsrmail@163.com
-&eacute;•&iquest;&aring;…&acute;&egrave;&iexcl;—, 510600
-tel: 86 02012345678
-fax: 86 02012345678
-
-Status :
-clientDeleteProhibited
-clientTransferProhibited
-
-Domain Name Server :
-ns1.dnsv3.com
-ns2.dnsv3.com
-
-Registration Date :2010-11-26
-Expiration Date : 2011-11-26
-
-For more information, please go to http://whois.ename.com.
-

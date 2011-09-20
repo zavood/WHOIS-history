@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 01-jun-2005
    Expiration Date: 01-jun-2019
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 03:32:19 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 03:59:23 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -69,5 +69,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: charlesluck.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sat Sep 17 23:27:52 EDT 2011
+Date and Time of Query: Mon Sep 19 23:49:03 EDT 2011
 Reason Code: IE

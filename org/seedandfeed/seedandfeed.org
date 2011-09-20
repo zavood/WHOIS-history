@@ -1,0 +1,86 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D33206651-LROR
+Domain Name:SEEDANDFEED.ORG
+Created On:18-Aug-2000 19:57:27 UTC
+Last Updated On:21-Nov-2009 00:30:48 UTC
+Expiration Date:18-Aug-2014 19:57:27 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR14715020
+Registrant Name:Seed and Feed MA
+Registrant Organization:Seed and Feed MA
+Registrant Street1:P.O. Box 5396
+Registrant Street2:
+Registrant Street3:
+Registrant City:Atlanta
+Registrant State/Province:Georgia
+Registrant Postal Code:31107
+Registrant Country:US
+Registrant Phone:+1.4043731862
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:randyrt@aol.com
+Admin ID:CR14715026
+Admin Name:Ben Klang
+Admin Street1:P.O. Box 5396
+Admin Street2:
+Admin Street3:
+Admin City:Atlanta
+Admin State/Province:Georgia
+Admin Postal Code:31107
+Admin Country:US
+Admin Phone:+1.4046886688
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@alkaloid.net
+Tech ID:CR14715025
+Tech Name:Ben Klang
+Tech Organization:Seed and Feed MA
+Tech Street1:P.O. Box 5396
+Tech Street2:
+Tech Street3:
+Tech City:Atlanta
+Tech State/Province:Georgia
+Tech Postal Code:31107
+Tech Country:US
+Tech Phone:+1.4046886688
+Tech Phone Ext.:
+Tech FAX:+1.4046886688
+Tech FAX Ext.:
+Tech Email:hostmaster@alkaloid.net
+Name Server:DNS02.ALKALOID.NET
+Name Server:DNS01.ALKALOID.NET
+Name Server:DNS03.ALKALOID.NET
+Name Server:DNS04.ALKALOID.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

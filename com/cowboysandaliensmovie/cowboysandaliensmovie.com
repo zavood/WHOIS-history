@@ -22,7 +22,7 @@ for detailed information.
    Creation Date: 20-jun-2007
    Expiration Date: 20-jun-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 04:10:59 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 04:14:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -120,7 +120,7 @@ Universal City Studios - UPG Domains
 
    Record expires on 20-Jun-2012.
    Record created on 20-Jun-2007.
-   Database last updated on 19-Sep-2011 00:00:42 EDT.
+   Database last updated on 20-Sep-2011 00:05:03 EDT.
 
    Domain servers in listed order:
 

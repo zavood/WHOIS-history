@@ -1,0 +1,101 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; allposters.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      allposters.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    A63-FRNIC
+admin-c:     DT1523-FRNIC
+tech-c:      MC239-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL7302-FRNIC
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+anniversary: 29/08
+created:     16/08/2005
+last-update: 02/09/2008
+source:      FRNIC
+
+ns-list:     NSL7302-FRNIC
+nserver:     pdns1.ultradns.net
+nserver:     pdns2.ultradns.net
+nserver:     pdns3.ultradns.org
+nserver:     pdns4.ultradns.org
+nserver:     pdns5.ultradns.info
+source:      FRNIC
+
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+type:        Isp Option 1
+address:     Emerald Tech Center
+address:     391 N. Ancestor Place
+address:     ID 83704 BOISE
+country:     US
+phone:       +1 208 389 5740
+fax-no:      +1 208 389 5771
+e-mail:      ccops@markmonitor.com
+website:     http://www.markmonitor.com
+anonymous:   NO
+registered:  10/01/2002
+source:      FRNIC
+
+nic-hdl:     MC239-FRNIC
+type:        ROLE
+contact:     MARKMONITOR CCOPS
+address:     eMarkmonitor Inc. dba MarkMonitor
+address:     PMB 155
+address:     10400 Overland Road
+address:     83709-1433 Boise, Id
+address:     US
+phone:       +01 2083895740
+e-mail:      ccops@markmonitor.com
+admin-c:     DL534-FRNIC
+tech-c:      DL534-FRNIC
+changed:     10/10/2008 ccops@markmonitor.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     DT1523-FRNIC
+type:        PERSON
+contact:     David Taylor
+address:     Art.com, Inc.
+address:     6, avenue Kleber
+address:     75116 Paris
+country:     FR
+phone:       +33 1 53 67 47 47
+fax-no:      +33 1 53 67 47 48
+e-mail:      drd@lovells.com
+changed:     16/11/2007 ccops@markmonitor.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     A63-FRNIC
+type:        ORGANIZATION
+contact:     Allposters.com
+address:     2100, Powell Street
+address:     13, th Floor
+address:     94608 Emeryville
+country:     US
+phone:       +15 10 87 94 70 0
+fax-no:      +15 10 87 94 74 1
+e-mail:      registrar@art.com
+changed:     09/10/2008 whoismaster@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

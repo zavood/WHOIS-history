@@ -24,7 +24,7 @@ for detailed information.
    Creation Date: 22-mar-2000
    Expiration Date: 22-mar-2013
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 02:49:26 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 03:29:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -119,14 +119,14 @@ Registrant:
 
     Domain servers in listed order:
 
+    usc2.akam.net
+    use1.akam.net
     eur1.akam.net
+    eur2.akam.net
     usw2.akam.net
+    asia3.akam.net
     ns1-118.akam.net
     ns1-119.akam.net
-    eur2.akam.net
-    asia3.akam.net
-    use1.akam.net
-    usc2.akam.net
 
 
 

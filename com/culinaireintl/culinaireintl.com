@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 11-feb-1997
    Expiration Date: 12-feb-2014
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 04:18:18 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 04:19:22 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -113,7 +113,7 @@ Culinaire International
 
    Record expires on 12-Feb-2014.
    Record created on 11-Feb-1997.
-   Database last updated on 19-Sep-2011 00:07:56 EDT.
+   Database last updated on 20-Sep-2011 00:09:14 EDT.
 
    Domain servers in listed order:
 

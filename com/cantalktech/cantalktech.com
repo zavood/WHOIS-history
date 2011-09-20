@@ -12,11 +12,11 @@ for detailed information.
    Name Server: NS1479.HOSTGATOR.COM
    Name Server: NS1480.HOSTGATOR.COM
    Status: ok
-   Updated Date: 17-sep-2011
+   Updated Date: 19-sep-2011
    Creation Date: 27-nov-2007
    Expiration Date: 27-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 03:36:11 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 03:52:01 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -88,8 +88,8 @@ Technical Contact:
 Status: Active
 
 Name Servers:
-   ns1479.hostgator.com
-   ns1480.hostgator.com
+   NS1479.HOSTGATOR.COM
+   NS1480.HOSTGATOR.COM
 
 Creation date: 27 Nov 2007 11:47:00
 Expiration date: 27 Nov 2011 11:47:00

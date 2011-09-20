@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 03-jan-2005
    Expiration Date: 03-jan-2012
 
-&gt;&gt;&gt; Last update of whois database: Mon, 19 Sep 2011 03:28:51 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 03:49:14 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,5 +71,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: buywhistler.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Sun Sep 18 23:18:33 EDT 2011
+Date and Time of Query: Mon Sep 19 23:39:40 EDT 2011
 Reason Code: IE

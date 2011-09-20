@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D159827841-LROR
+Domain Name:PUENTEDEIXTLATURISMO.ORG
+Created On:05-Aug-2010 15:53:24 UTC
+Last Updated On:05-Aug-2011 16:16:42 UTC
+Expiration Date:05-Aug-2012 15:53:24 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_12112133
+Registrant Name:Carlos Enrique Hernandez Marquina
+Registrant Organization:MUNICIPIO DE PUENTE DE IXTLA
+Registrant Street1:INTERIOR JARDIN JUAREZ SN
+Registrant Street2:Col. CENTRO
+Registrant Street3:
+Registrant City:PUENTE DE IXTLA
+Registrant State/Province:MOR
+Registrant Postal Code:62660
+Registrant Country:MX
+Registrant Phone:+52.5550044262
+Registrant Phone Ext.:
+Registrant FAX:+52.5550044262
+Registrant FAX Ext.:
+Registrant Email:carlosehm@prodigy.net.mx
+Admin ID:DI_12112133
+Admin Name:Carlos Enrique Hernandez Marquina
+Admin Organization:MUNICIPIO DE PUENTE DE IXTLA
+Admin Street1:INTERIOR JARDIN JUAREZ SN
+Admin Street2:Col. CENTRO
+Admin Street3:
+Admin City:PUENTE DE IXTLA
+Admin State/Province:MOR
+Admin Postal Code:62660
+Admin Country:MX
+Admin Phone:+52.5550044262
+Admin Phone Ext.:
+Admin FAX:+52.5550044262
+Admin FAX Ext.:
+Admin Email:carlosehm@prodigy.net.mx
+Tech ID:DI_9941982
+Tech Name:Administracion De Dominios
+Tech Organization:Internet Networks, S.A. de C.V.
+Tech Street1:Nubes 213
+Tech Street2:Col. Jardines del Pedregal
+Tech Street3:
+Tech City:Mexico
+Tech State/Province:DF
+Tech Postal Code:01900
+Tech Country:MX
+Tech Phone:+52.5550044262
+Tech Phone Ext.:
+Tech FAX:+52.5550044263
+Tech FAX Ext.:
+Tech Email:nic@internetworks.com
+Name Server:NS5.INTERNETWORKS.COM
+Name Server:NS6.INTERNETWORKS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

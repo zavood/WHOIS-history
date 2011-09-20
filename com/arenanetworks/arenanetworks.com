@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 10-jul-2001
    Expiration Date: 10-jul-2012
 
-&gt;&gt;&gt; Last update of whois database: Tue, 13 Sep 2011 20:54:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 03:26:31 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -71,7 +71,7 @@ status:       lock
 created:      2001-07-10 15:54:01 UTC
 modified:     2011-06-09 18:06:57 UTC
 expires:      2012-07-10 19:54:01 UTC
-query-source: 174.142.225.246
+query-source: 67.231.254.15
 
 contact-hdl:  CCOM-354982
 person:       Mike OBrien
@@ -85,8 +85,8 @@ country:      US
 phone:        +425.4629444
 
 source:       joker.com live whois service
-query-time:   0.086939
-db-updated:   2011-09-13 20:54:43
+query-time:   0.022436
+db-updated:   2011-09-20 03:27:17
 NOTE: By submitting a WHOIS query, you agree to abide by the following
 NOTE: terms of use: You agree that you may use this data only for lawful
 NOTE: purposes and that under no circumstances will you use this data to:

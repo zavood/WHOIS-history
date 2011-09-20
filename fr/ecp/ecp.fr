@@ -52,34 +52,6 @@ anonymous:   NO
 registered:  01/01/1998
 source:      FRNIC
 
-nic-hdl:     ECP8-FRNIC
-type:        ORGANIZATION
-contact:     ECOLE CENTRALE ARTS ET MANUFACTURES
-address:     Grande Voie des Vignes
-address:     92295 Ch&acirc;Tenay Malabry
-country:     FR
-phone:       +33 1 41 13 10 00
-changed:     13/10/2010 nic@nic.fr
-anonymous:   NO
-obsoleted:   NO
-idstatus:    ok
-source:      FRNIC
-
-nic-hdl:     HB1017-FRNIC
-type:        PERSON
-contact:     Herve Biausser
-address:     Ecole Centrale Paris
-address:     Grande Voie des Vignes
-address:     92295 Ch&acirc;tenay-Malabry
-country:     FR
-phone:       +33 1 41 13 12 54
-fax-no:      +33 1 41 13 10 10
-e-mail:      herve.biausser@ecp.fr
-changed:     30/04/2009 nic@nic.fr
-anonymous:   NO
-obsoleted:   NO
-source:      FRNIC
-
 nic-hdl:     GR1378-FRNIC
 type:        ROLE
 contact:     GIP RENATER
@@ -104,6 +76,34 @@ tech-c:      CT1053-FRNIC
 tech-c:      SEH1-FRNIC
 tech-c:      FXA1-FRNIC
 changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     ECP8-FRNIC
+type:        ORGANIZATION
+contact:     ECOLE CENTRALE ARTS ET MANUFACTURES
+address:     Grande Voie des Vignes
+address:     92295 Ch&acirc;Tenay Malabry
+country:     FR
+phone:       +33 1 41 13 10 00
+changed:     13/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     HB1017-FRNIC
+type:        PERSON
+contact:     Herve Biausser
+address:     Ecole Centrale Paris
+address:     Grande Voie des Vignes
+address:     92295 Ch&acirc;tenay-Malabry
+country:     FR
+phone:       +33 1 41 13 12 54
+fax-no:      +33 1 41 13 10 10
+e-mail:      herve.biausser@ecp.fr
+changed:     30/04/2009 nic@nic.fr
 anonymous:   NO
 obsoleted:   NO
 source:      FRNIC

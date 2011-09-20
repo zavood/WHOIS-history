@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106961577-LROR
+Domain Name:IAPEM.ORG
+Created On:20-Jul-2005 15:12:13 UTC
+Last Updated On:07-Jul-2010 02:31:24 UTC
+Expiration Date:20-Jul-2012 15:12:13 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuEDtiwReZycmGDl
+Registrant Name:frank gyondla
+Registrant Organization:frank gyondla
+Registrant Street1:PO Box 957257
+Registrant Street2:
+Registrant Street3:
+Registrant City:Hoffman Estates
+Registrant State/Province:IL
+Registrant Postal Code:60169
+Registrant Country:US
+Registrant Phone:+1.8473487082
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:fgyondla@ci.schaumburg.il.us
+Admin ID:tuHelhef3COXkAjt
+Admin Name:frank gyondla
+Admin Organization:frank gyondla
+Admin Street1:PO Box 957257
+Admin Street2:
+Admin Street3:
+Admin City:Hoffman Estates
+Admin State/Province:IL
+Admin Postal Code:60169
+Admin Country:US
+Admin Phone:+1.8473487082
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:fgyondla@ci.schaumburg.il.us
+Tech ID:tuTYpXG6eUWULvNW
+Tech Name:network administrator
+Tech Organization:Timehost
+Tech Street1:1935 Hollywood Blvd
+Tech Street2:
+Tech Street3:
+Tech City:Hollywood
+Tech State/Province:Florida
+Tech Postal Code:33020
+Tech Country:US
+Tech Phone:+1.9549224088
+Tech Phone Ext.:
+Tech FAX:+1.9549223072
+Tech FAX Ext.:
+Tech Email:support@diversehost.net
+Name Server:NS.DIVERSEHOST.NET
+Name Server:NS2.DIVERSEHOST.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 27-oct-1995
    Expiration Date: 26-oct-2011
 
-&gt;&gt;&gt; Last update of whois database: Fri, 16 Sep 2011 12:23:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 03:10:50 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -70,5 +70,5 @@ form at http://www.networksolutions.com/help/email.jsp with the following inform
 
 Whois Query: postandcourier.com
 YOUR IP address is 67.231.254.15
-Date and Time of Query: Fri Sep 16 08:14:13 EDT 2011
+Date and Time of Query: Mon Sep 19 23:00:22 EDT 2011
 Reason Code: IE
