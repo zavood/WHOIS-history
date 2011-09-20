@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106412757-LROR
+Domain Name:TECHBUGS.ORG
+Created On:23-May-2005 12:18:19 UTC
+Last Updated On:14-May-2011 11:19:26 UTC
+Expiration Date:23-May-2012 12:18:19 UTC
+Sponsoring Registrar:Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com (R27-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:DI_1172497
+Registrant Name:Siddharth Upmanyu
+Registrant Organization:Techbugs
+Registrant Street1:P-2C, 074, Princetons Estate
+Registrant Street2:DLF Phase 5
+Registrant Street3:
+Registrant City:Gurgaon
+Registrant State/Province:Haryana
+Registrant Postal Code:122001
+Registrant Country:IN
+Registrant Phone:+91.9970067800
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:siddharth@techbugs.org
+Admin ID:DI_1172497
+Admin Name:Siddharth Upmanyu
+Admin Organization:Techbugs
+Admin Street1:P-2C, 074, Princetons Estate
+Admin Street2:DLF Phase 5
+Admin Street3:
+Admin City:Gurgaon
+Admin State/Province:Haryana
+Admin Postal Code:122001
+Admin Country:IN
+Admin Phone:+91.9970067800
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:siddharth@techbugs.org
+Tech ID:DI_1172497
+Tech Name:Siddharth Upmanyu
+Tech Organization:Techbugs
+Tech Street1:P-2C, 074, Princetons Estate
+Tech Street2:DLF Phase 5
+Tech Street3:
+Tech City:Gurgaon
+Tech State/Province:Haryana
+Tech Postal Code:122001
+Tech Country:IN
+Tech Phone:+91.9970067800
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:siddharth@techbugs.org
+Name Server:NS1.HOSTNSEO.COM
+Name Server:NS2.HOSTNSEO.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

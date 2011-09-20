@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2913927-LROR
+Domain Name:SDHCA.ORG
+Created On:05-Dec-1998 05:00:00 UTC
+Last Updated On:07-Oct-2009 20:59:17 UTC
+Expiration Date:04-Dec-2013 05:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:25123761-NSI
+Registrant Name:SouthDakotaHealth Care Association
+Registrant Organization:SouthDakotaHealth Care Association
+Registrant Street1:804 N. Western Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sioux Falls
+Registrant State/Province:SD
+Registrant Postal Code:57104
+Registrant Country:US
+Registrant Phone:+1.9999999999
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:SDHCA@WORLDNET.ATT.NET
+Admin ID:25123763-NSI
+Admin Name:SouthDakotaHealth Care Association
+Admin Organization:SouthDakotaHealth Care Association
+Admin Street1:804 N. Western Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Sioux Falls
+Admin State/Province:SD
+Admin Postal Code:57104
+Admin Country:US
+Admin Phone:+1.6053392071
+Admin Phone Ext.:
+Admin FAX:+1.6053391354
+Admin FAX Ext.:
+Admin Email:SDHCA@SDHCA.ORG
+Tech ID:25123763-NSI
+Tech Name:SouthDakotaHealth Care Association
+Tech Organization:SouthDakotaHealth Care Association
+Tech Street1:804 N. Western Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Sioux Falls
+Tech State/Province:SD
+Tech Postal Code:57104
+Tech Country:US
+Tech Phone:+1.6053392071
+Tech Phone Ext.:
+Tech FAX:+1.6053391354
+Tech FAX Ext.:
+Tech Email:SDHCA@SDHCA.ORG
+Name Server:NS1.DAKOTAWEBCOMPOSERS.COM
+Name Server:NS2.DAKOTAWEBCOMPOSERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

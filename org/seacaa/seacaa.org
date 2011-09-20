@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D67336060-LROR
+Domain Name:SEACAA.ORG
+Created On:09-Mar-2001 15:51:34 UTC
+Last Updated On:20-Aug-2010 00:23:44 UTC
+Expiration Date:09-Mar-2013 15:51:34 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR50563088
+Registrant Name:Audubon Area Community Services
+Registrant Organization:Audubon Area Community Services
+Registrant Street1:P.O. Box 20004
+Registrant Street2:
+Registrant Street3:
+Registrant City:Owensboro
+Registrant State/Province:Kentucky
+Registrant Postal Code:42304-0004
+Registrant Country:US
+Registrant Phone:+1.270686162
+Registrant Phone Ext.:
+Registrant FAX:+1.270686161
+Registrant FAX Ext.:
+Registrant Email:tstenberg@mindspring.com
+Admin ID:CR50563090
+Admin Name:Audubon Area Community Service
+Admin Organization:Audubon Area Community Service
+Admin Street1:1800 W 4TH ST
+Admin Street2:
+Admin Street3:
+Admin City:OWENSBORO
+Admin State/Province:Kentucky
+Admin Postal Code:42301-0423
+Admin Country:US
+Admin Phone:+1.2706861622
+Admin Phone Ext.:
+Admin FAX:+1.231231234
+Admin FAX Ext.:
+Admin Email:tstenberg@mindspring.com
+Tech ID:CR50563089
+Tech Name:LLC. Network Solutions
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:Virginia
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:NS51.DOMAINCONTROL.COM
+Name Server:NS52.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

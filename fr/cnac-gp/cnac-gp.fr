@@ -1,0 +1,125 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; cnac-gp.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      cnac-gp.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    CNDA37-FRNIC
+admin-c:     LG393-FRNIC
+tech-c:      GR1378-FRNIC
+tech-c:      LG393-FRNIC
+tech-c:      AGDV1-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5771-FRNIC
+registrar:   RENATER
+anniversary: 01/01
+created:     01/01/1995
+last-update: 31/05/2010
+source:      FRNIC
+
+ns-list:     NSL5771-FRNIC
+nserver:     maelzel.ircam.fr [129.102.1.10 2001:660:3004:4000::10:53]
+nserver:     nadia.ircam.fr [129.102.1.8 2001:660:3004:4000::8:53]
+nserver:     vaslav.ircam.fr [129.102.1.6 2001:660:3004:4000::6:53]
+nserver:     piston.ecp.fr [138.195.33.3]
+source:      FRNIC
+
+registrar:   RENATER
+type:        Isp Option 1
+address:     23-25 Rue Daviel
+address:     PARIS
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      domaine@renater.fr
+website:     http://www.renater.fr
+anonymous:   NO
+registered:  01/01/1998
+source:      FRNIC
+
+nic-hdl:     LG393-FRNIC
+type:        PERSON
+contact:     Laurent Ghys
+address:     Institut de Recherche et Coordination Acoutisque/Musique
+address:     1, place Igor Stravinsky
+address:     75004 Paris
+country:     FR
+phone:       +33 1 44 78 48 47
+fax-no:      +33 1 44 78 15 40
+e-mail:      laurent.ghys@ircam.fr
+changed:     15/10/2000 migration-dbm@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     GR1378-FRNIC
+type:        ROLE
+contact:     GIP RENATER
+address:     GIP RENATER
+address:     Ensam
+address:     151, boulevard de l'Hopital
+address:     75013 Paris
+country:     FR
+phone:       +33 1 53 94 20 30
+fax-no:      +33 1 53 94 20 31
+e-mail:      rensvp@renater.fr
+trouble:     Information: http://www.Renater.fr/
+trouble:     abuse reports, ... mailto:CertSVP@Renater.fr
+trouble:     questions: mailto:RenSVP@Renater.Fr
+admin-c:     DV321-FRNIC
+tech-c:      FS65-FRNIC
+tech-c:      BT261-FRNIC
+tech-c:      MD5336-FRNIC
+tech-c:      SJ94-FRNIC
+tech-c:      ED168-FRNIC
+tech-c:      CT1053-FRNIC
+tech-c:      SEH1-FRNIC
+tech-c:      FXA1-FRNIC
+changed:     08/11/2005 rensvp@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     CNDA37-FRNIC
+type:        ORGANIZATION
+contact:     CTRE NAT ART ET CULTURE GEORGES POMPID
+address:     Georges Pompidou
+address:     75191 Paris
+country:     FR
+phone:       +33 1 44 78 48 47
+e-mail:      laurent.ghys@ircam.fr
+changed:     01/06/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     AGDV1-FRNIC
+type:        PERSON
+contact:     Arnaud Gomes Do Vale
+address:     IRCAM
+address:     1, place Igor-Stravinsky
+address:     75004 Paris
+country:     FR
+phone:       +33 1 44 78 15 77
+fax-no:      +33 1 44 78 15 40
+e-mail:      arnaud.gomes@ircam.fr
+changed:     01/08/2006 domaine@renater.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

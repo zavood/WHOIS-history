@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D154468070-LROR
+Domain Name:NCLGBA.ORG
+Created On:14-Oct-2008 22:04:05 UTC
+Last Updated On:17-Dec-2009 04:20:20 UTC
+Expiration Date:14-Oct-2011 22:04:05 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR37085322
+Registrant Name:Kevin Etheridge
+Registrant Organization:North Carolina Local Government Budget Association
+Registrant Street1:200 East Main St.
+Registrant Street2:4th Floor
+Registrant Street3:
+Registrant City:Durham
+Registrant State/Province:North Carolina
+Registrant Postal Code:27701
+Registrant Country:US
+Registrant Phone:+1.9195600018
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:ketheridge@co.durham.nc.us
+Admin ID:CR37085324
+Admin Name:Kevin Etheridge
+Admin Organization:North Carolina Local Government Budget Association
+Admin Street1:200 East Main St.
+Admin Street2:4th Floor
+Admin Street3:
+Admin City:Durham
+Admin State/Province:North Carolina
+Admin Postal Code:27701
+Admin Country:US
+Admin Phone:+1.9195600018
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:ketheridge@co.durham.nc.us
+Tech ID:CR37085323
+Tech Name:Kevin Etheridge
+Tech Organization:North Carolina Local Government Budget Association
+Tech Street1:200 East Main St.
+Tech Street2:4th Floor
+Tech Street3:
+Tech City:Durham
+Tech State/Province:North Carolina
+Tech Postal Code:27701
+Tech Country:US
+Tech Phone:+1.9195600018
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:ketheridge@co.durham.nc.us
+Name Server:NS39.DOMAINCONTROL.COM
+Name Server:NS40.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

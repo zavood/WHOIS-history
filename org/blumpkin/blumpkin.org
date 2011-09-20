@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D162364308-LROR
+Domain Name:BLUMPKIN.ORG
+Created On:25-May-2011 19:32:15 UTC
+Last Updated On:25-Jul-2011 03:50:26 UTC
+Expiration Date:25-May-2012 19:32:15 UTC
+Sponsoring Registrar:OVH (R135-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:ovh4ddd5cf4be2o
+Registrant Name:Krzysztof Lesniak
+Registrant Street1:blumpkin.org, office #3422148
+Registrant Street2:c/o OwO, BP80157
+Registrant Street3:
+Registrant City:Roubaix Cedex 1
+Registrant State/Province:
+Registrant Postal Code:59053
+Registrant Country:FR
+Registrant Phone:+33.899701761
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:8t3zc04rnbfz5ayzdj6a@n.o-w-o.info
+Admin ID:ovh4ddd5cf4wxsl
+Admin Name:Krzysztof Lesniak
+Admin Street1:blumpkin.org, office #3422148
+Admin Street2:c/o OwO, BP80157
+Admin Street3:
+Admin City:Roubaix Cedex 1
+Admin State/Province:
+Admin Postal Code:59053
+Admin Country:FR
+Admin Phone:+33.899701761
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:c7k3u5hhgw0k56oua27z@k.o-w-o.info
+Tech ID:ovh4ddd5cf4wxsl
+Tech Name:Krzysztof Lesniak
+Tech Street1:blumpkin.org, office #3422148
+Tech Street2:c/o OwO, BP80157
+Tech Street3:
+Tech City:Roubaix Cedex 1
+Tech State/Province:
+Tech Postal Code:59053
+Tech Country:FR
+Tech Phone:+33.899701761
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:c7k3u5hhgw0k56oua27z@k.o-w-o.info
+Name Server:NS.KIMSUFI.COM
+Name Server:KS306065.KIMSUFI.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

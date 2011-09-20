@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D103829462-LROR
+Domain Name:NJUSTICE.ORG
+Created On:19-Jan-2004 04:09:00 UTC
+Last Updated On:05-Dec-2010 09:36:13 UTC
+Expiration Date:19-Jan-2013 04:09:00 UTC
+Sponsoring Registrar:Hangang Systems Inc. dba Doregi.com (R45-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:O01213zIc
+Registrant Name:yonggoon
+Registrant Organization:yonggoon
+Registrant Street1:297-56 (4 floor)
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ogya-dong, Andong-si
+Registrant State/Province:County Derry
+Registrant Postal Code:760-240
+Registrant Country:KR
+Registrant Phone:+54.8415077
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain@andong.com
+Admin ID:A01215hCj
+Admin Name:WanSok
+Admin Organization:WanSok
+Admin Street1:297-56 (4 floor)
+Admin Street2:
+Admin Street3:
+Admin City:Ogya-dong, Andong-si
+Admin State/Province:County Derry
+Admin Postal Code:760-240
+Admin Country:KR
+Admin Phone:+25.039247
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:eagle-4@hanmail.net
+Tech ID:A01215hCj
+Tech Name:WanSok
+Tech Organization:WanSok
+Tech Street1:297-56 (4 floor)
+Tech Street2:
+Tech Street3:
+Tech City:Ogya-dong, Andong-si
+Tech State/Province:County Derry
+Tech Postal Code:760-240
+Tech Country:KR
+Tech Phone:+25.039247
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:eagle-4@hanmail.net
+Name Server:NS1.HOST114.COM
+Name Server:NS2.HOST114.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

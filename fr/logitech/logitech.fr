@@ -1,0 +1,96 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; logitech.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      logitech.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    LI229-FRNIC
+admin-c:     LR2330-FRNIC
+tech-c:      MC239-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL6811-FRNIC
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+anniversary: 28/01
+created:     28/01/2004
+last-update: 03/11/2010
+source:      FRNIC
+
+ns-list:     NSL6811-FRNIC
+nserver:     ns-1.logitech.com
+nserver:     ns-2.logitech.com
+source:      FRNIC
+
+registrar:   eMARKMONITOR Inc. dba MARKMONITOR
+type:        Isp Option 1
+address:     Emerald Tech Center
+address:     391 N. Ancestor Place
+address:     ID 83704 BOISE
+country:     US
+phone:       +1 208 389 5740
+fax-no:      +1 208 389 5771
+e-mail:      ccops@markmonitor.com
+website:     http://www.markmonitor.com
+anonymous:   NO
+registered:  10/01/2002
+source:      FRNIC
+
+nic-hdl:     MC239-FRNIC
+type:        ROLE
+contact:     MARKMONITOR CCOPS
+address:     eMarkmonitor Inc. dba MarkMonitor
+address:     PMB 155
+address:     10400 Overland Road
+address:     83709-1433 Boise, Id
+address:     US
+phone:       +01 2083895740
+e-mail:      ccops@markmonitor.com
+admin-c:     DL534-FRNIC
+tech-c:      DL534-FRNIC
+changed:     10/10/2008 ccops@markmonitor.com
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LI229-FRNIC
+type:        ORGANIZATION
+contact:     Logitech International
+address:     Moulin-Du-Choc
+address:     CH-1122 Romanel-sur-Morges
+country:     CH
+phone:       +1 510713556
+e-mail:      DNSAdmin@logitech.com
+changed:     27/10/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+
+nic-hdl:     LR2330-FRNIC
+type:        PERSON
+contact:     Laura Rosen
+address:     SAS LOGITECH FRANCE
+address:     3-5, rue Saint-Georges
+address:     75009 Paris
+country:     FR
+phone:       +33 1 44 58 98 98
+fax-no:      +33 1 44 58 98 90
+e-mail:      dnsadmin@logitech.com
+changed:     12/05/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+

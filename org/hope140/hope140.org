@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D158164379-LROR
+Domain Name:HOPE140.ORG
+Created On:22-Jan-2010 20:05:38 UTC
+Last Updated On:01-Jul-2011 00:26:19 UTC
+Expiration Date:22-Jan-2014 20:05:38 UTC
+Sponsoring Registrar:Melbourne IT, Ltd (R52-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:A130382647137571
+Registrant Name:Twitter, Inc.
+Registrant Organization:Twitter, Inc.
+Registrant Street1:795 Folsom Street
+Registrant Street2:Suite 600
+Registrant Street3:
+Registrant City:San Francisco
+Registrant State/Province:CA
+Registrant Postal Code:94107
+Registrant Country:US
+Registrant Phone:+415.2229670
+Registrant Phone Ext.:
+Registrant FAX:+415.2220922
+Registrant FAX Ext.:
+Registrant Email:domains@twitter.com
+Admin ID:B130400286027950
+Admin Name:Domain Admin
+Admin Organization:Twitter, Inc.
+Admin Street1:795 Folsom Street
+Admin Street2:Suite 600
+Admin Street3:
+Admin City:San Francisco
+Admin State/Province:CA
+Admin Postal Code:94107
+Admin Country:US
+Admin Phone:+415.2229670
+Admin Phone Ext.:
+Admin FAX:+415.2220922
+Admin FAX Ext.:
+Admin Email:admin@melbourneitdbs.com
+Tech ID:B130400286027951
+Tech Name:Tech Admin
+Tech Organization:Twitter, Inc.
+Tech Street1:795 Folsom Street
+Tech Street2:Suite 600
+Tech Street3:
+Tech City:San Francisco
+Tech State/Province:CA
+Tech Postal Code:94107
+Tech Country:US
+Tech Phone:+415.2229670
+Tech Phone Ext.:
+Tech FAX:+415.2220922
+Tech FAX Ext.:
+Tech Email:domains-tech@twitter.com
+Name Server:NS1.P34.DYNECT.NET
+Name Server:NS2.P34.DYNECT.NET
+Name Server:NS3.P34.DYNECT.NET
+Name Server:NS4.P34.DYNECT.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

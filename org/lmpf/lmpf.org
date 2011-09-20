@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D131726504-LROR
+Domain Name:LMPF.ORG
+Created On:28-Oct-2006 15:42:10 UTC
+Last Updated On:13-Oct-2010 11:19:01 UTC
+Expiration Date:28-Oct-2011 15:42:10 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tuvA8GtCv61gUbQr
+Registrant Name:Kurt Friel
+Registrant Organization:--
+Registrant Street1:35 Dudley Rd
+Registrant Street2:
+Registrant Street3:
+Registrant City:Sutton
+Registrant State/Province:MA
+Registrant Postal Code:01590
+Registrant Country:US
+Registrant Phone:+1.5088650658
+Registrant Phone Ext.:
+Registrant FAX:+1.0000000000
+Registrant FAX Ext.:
+Registrant Email:k_friel@charter.net
+Admin ID:tuvA8GtCv61gUbQr
+Admin Name:Kurt Friel
+Admin Organization:--
+Admin Street1:35 Dudley Rd
+Admin Street2:
+Admin Street3:
+Admin City:Sutton
+Admin State/Province:MA
+Admin Postal Code:01590
+Admin Country:US
+Admin Phone:+1.5088650658
+Admin Phone Ext.:
+Admin FAX:+1.0000000000
+Admin FAX Ext.:
+Admin Email:k_friel@charter.net
+Tech ID:tuxv6gPZlKY9imbH
+Tech Name:Domain Manager
+Tech Organization:ipowerweb
+Tech Street1:2800 28th Street
+Tech Street2:Ste. 205
+Tech Street3:
+Tech City:Santa Monica
+Tech State/Province:CA
+Tech Postal Code:90405
+Tech Country:US
+Tech Phone:+1.8773785349
+Tech Phone Ext.:
+Tech FAX:+1.6023912829
+Tech FAX Ext.:
+Tech Email:hostmaster@dot5hosting.com
+Name Server:NS1.DOT5NAMESERVERS.COM
+Name Server:NS2.DOT5NAMESERVERS.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

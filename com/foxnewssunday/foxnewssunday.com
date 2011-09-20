@@ -23,7 +23,7 @@ for detailed information.
    Creation Date: 18-sep-2001
    Expiration Date: 18-sep-2012
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 04:59:45 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 05:26:20 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -121,9 +121,9 @@ Registrant:
     asia3.akam.net
     usc4.akam.net
     usc2.akam.net
-    ns1-157.akam.net
-    usw1.akam.net
     usw3.akam.net
+    usw1.akam.net
+    ns1-157.akam.net
     ns1-253.akam.net
 
 

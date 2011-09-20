@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101921366-LROR
+Domain Name:SCVF.ORG
+Created On:03-Nov-2003 09:31:58 UTC
+Last Updated On:20-Oct-2009 03:35:02 UTC
+Expiration Date:03-Nov-2011 09:31:58 UTC
+Sponsoring Registrar:Bizcn.com, Inc. (R1248-LROR)
+Status:OK
+Registrant ID:orgyl72697166492
+Registrant Name:YongJian Lin
+Registrant Organization:LinYongJian
+Registrant Street1:3C BaoLi Dasa QiWanDao DongQu Zhongshan
+Registrant Street2:
+Registrant Street3:
+Registrant City:Zhongshan
+Registrant State/Province:GuangDong
+Registrant Postal Code:528403
+Registrant Country:CN
+Registrant Phone:+86.13923323603
+Registrant Phone Ext.:
+Registrant FAX:+86.76088384782
+Registrant FAX Ext.:
+Registrant Email:scvf@21cn.com
+Admin ID:orgyl72697167264
+Admin Name:YongJian Lin
+Admin Organization:LinYongJian
+Admin Street1:3C BaoLi Dasa QiWanDao DongQu Zhongshan
+Admin Street2:
+Admin Street3:
+Admin City:Zhongshan
+Admin State/Province:GuangDong
+Admin Postal Code:528403
+Admin Country:CN
+Admin Phone:+86.13923323603
+Admin Phone Ext.:
+Admin FAX:+86.7603323603
+Admin FAX Ext.:
+Admin Email:scvf@21cn.com
+Tech ID:orgpt72697168089
+Tech Name:Product Team
+Tech Organization:LinYongJian
+Tech Street1:Ocean Towers No.550 East of Yan An Road
+Tech Street2:
+Tech Street3:
+Tech City:Shanghai
+Tech State/Province:Shanghai
+Tech Postal Code:200001
+Tech Country:CN
+Tech Phone:+86.63605880350
+Tech Phone Ext.:
+Tech FAX:+86.59263605338
+Tech FAX Ext.:
+Tech Email:cs_eservice_cn@lycos-asia.com
+Name Server:NS.MYRICEDNS.COM
+Name Server:NS5.CNMSN.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

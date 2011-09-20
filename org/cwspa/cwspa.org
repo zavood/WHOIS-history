@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D93057194-LROR
+Domain Name:CWSPA.ORG
+Created On:12-Dec-2002 11:22:55 UTC
+Last Updated On:03-Dec-2010 17:38:12 UTC
+Expiration Date:12-Dec-2014 11:22:55 UTC
+Sponsoring Registrar:eNom, Inc. (R39-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:e57929c785a
+Registrant Name:CWS  P/A
+Registrant Organization:Church World Service Pakistan/Afghanistan
+Registrant Street1:42-H Block 6 Dr Mehmood hasan
+Registrant Street2:
+Registrant Street3:
+Registrant City:Karachi
+Registrant State/Province:Sindh
+Registrant Postal Code:74200
+Registrant Country:PK
+Registrant Phone:+92.43905412
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:cwsitkhi@cyber.net.pk
+Admin ID:3553d81a57b
+Admin Name:Alvin  CWSPA
+Admin Organization:Church World Service Pakistan/Afghanistan
+Admin Street1:42-H Block 6 Dr Mehmood hasan
+Admin Street2:
+Admin Street3:
+Admin City:Karachi
+Admin State/Province:
+Admin Postal Code:74200
+Admin Country:PK
+Admin Phone:+92.43905412
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:cwsitkhi@cyber.net.pk
+Tech ID:3553d81a57b
+Tech Name:Alvin  CWSPA
+Tech Organization:Church World Service Pakistan/Afghanistan
+Tech Street1:42-H Block 6 Dr Mehmood hasan
+Tech Street2:
+Tech Street3:
+Tech City:Karachi
+Tech State/Province:
+Tech Postal Code:74200
+Tech Country:PK
+Tech Phone:+92.43905412
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:cwsitkhi@cyber.net.pk
+Name Server:NS.NEXUSHOSTING.COM
+Name Server:NS2.NEXUSHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

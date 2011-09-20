@@ -1,0 +1,91 @@
+%  (c) 2006-2011 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.4.0
+% Timestamp: Tue Sep 20 07:25:49 2011
+
+domain:       name.cz
+registrant:   SB:ONE
+admin-c:      ME426-RIPE
+admin-c:      OC101-RIPE
+nsset:        NSS:ONE:1
+registrar:    REG-ONE
+status:       paid and in zone
+registered:   17.06.2001 17:32:00
+changed:      26.05.2011 10:55:04
+expire:       27.06.2012
+
+contact:      SB:ONE
+org:          ONE.CZ s.r.o.
+name:         ONE.CZ s.r.o.
+address:      Krakovsk&Atilde;&iexcl; 25
+address:      Praha 1
+address:      110 00
+address:      CZ
+e-mail:       domeny@one.cz,domeny@newmedia.cz
+registrar:    REG-ONE
+created:      10.08.2001 22:13:00
+changed:      16.09.2010 12:33:18
+
+contact:      ME426-RIPE
+name:         Martin Eigl
+address:      &Aring;&frac12;i&Aring;&frac34;kova 30
+address:      Blansko
+address:      67801
+address:      CZ
+phone:        +420.516419986
+fax-no:       +420.516411965
+e-mail:       eigl@one.cz
+registrar:    REG-ONE
+created:      10.08.2001 22:13:00
+changed:      31.10.2006 16:25:00
+
+contact:      OC101-RIPE
+name:         Old&Aring;™ich Migel
+address:      Okru&Aring;&frac34;n&Atilde;&shy; 3c
+address:      Blansko
+address:      678 01
+address:      CZ
+phone:        +420.277279333
+fax-no:       +420.516410976
+e-mail:       domeny@one.cz,domeny@newmedia.cz
+registrar:    REG-ONE
+created:      10.08.2001 22:13:00
+changed:      19.08.2010 11:44:35
+
+nsset:        NSS:ONE:1
+nserver:      ns2.one.cz
+nserver:      ns1.one.cz
+tech-c:       REGISTRATOR_R_ORAVEC
+tech-c:       ME426-RIPE
+tech-c:       OC101-RIPE
+tech-c:       SB:ONE
+registrar:    REG-ONE
+created:      01.10.2007 02:00:00
+changed:      06.04.2011 18:26:21
+
+contact:      REGISTRATOR_R_ORAVEC
+name:         Roman Oravec
+address:      Okru&Aring;&frac34;n&Atilde;&shy; 3c
+address:      Blansko
+address:      678 01
+address:      CZ
+e-mail:       reg-ro@one.cz
+registrar:    REG-ONE
+created:      02.10.2003 17:20:00
+
+

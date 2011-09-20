@@ -1,0 +1,83 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D79651-LROR
+Domain Name:FOWA.ORG
+Created On:05-Dec-1996 05:00:00 UTC
+Last Updated On:12-Dec-2010 22:36:24 UTC
+Expiration Date:04-Dec-2015 05:00:00 UTC
+Sponsoring Registrar:PacNames Ltd. (R107-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:PN-54538
+Registrant Name:Florida Outdoor Writers Association, Inc.
+Registrant Street1:411 NE 18th Ave
+Registrant Street2:
+Registrant Street3:
+Registrant City:Ocala
+Registrant State/Province:FL
+Registrant Postal Code:34770
+Registrant Country:US
+Registrant Phone:+00.00000000
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:REGISTRANT@FOWA.ORG
+Admin ID:PN-54538
+Admin Name:Florida Outdoor Writers Association, Inc.
+Admin Street1:411 NE 18th Ave
+Admin Street2:
+Admin Street3:
+Admin City:Ocala
+Admin State/Province:FL
+Admin Postal Code:34770
+Admin Country:US
+Admin Phone:+00.00000000
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:REGISTRANT@FOWA.ORG
+Tech ID:PN-127647
+Tech Name:Mike Richards
+Tech Organization:Classic Communications
+Tech Street1:PO Box 276
+Tech Street2:
+Tech Street3:
+Tech City:Frostproof
+Tech State/Province:FL
+Tech Postal Code:33843
+Tech Country:US
+Tech Phone:+1.8636357238
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:MIKE@CLASSCOMM.COM
+Name Server:NS.INMOTIONHOSTING.COM
+Name Server:NS2.INMOTIONHOSTING.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

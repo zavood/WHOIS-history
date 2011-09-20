@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 25-nov-2007
    Expiration Date: 25-nov-2011
 
-&gt;&gt;&gt; Last update of whois database: Mon, 12 Sep 2011 16:52:10 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 05:50:38 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -84,28 +84,40 @@ Domain servers in listed order:
 	 ns1.duu.pl 	 ns2.duu.pl
 
 Administrator:
-	 Name-- NetArt Spolka Akcyjna S.K.A.
- EMail-: (info@nazwa.pl)
- tel --: +48.122978810
-	 org: NetArt Spolka Akcyjna S.K.A.
+	 name:(NetArt Spolka Akcyjna S.K.A.)
+	Email:(info@nazwa.pl) tel-- +48.122978810
+	 NetArt Spolka Akcyjna S.K.A.
 	 Rondo Mogilskie 1
-	 Krakow,Malopolskie,PL 31-516
+\r
+t Krakow
+Malopolskie,
+PL
+
+ zipcode:31-516
 
 Technical Contactor:
-	 Name-- NetArt Spolka Akcyjna S.K.A.
- EMail-: (info@nazwa.pl)
- tel --: +48.122978810
-	 org: NetArt Spolka Akcyjna S.K.A.
+	 name:(NetArt Spolka Akcyjna S.K.A.)
+	Email:(info@nazwa.pl) tel-- +48.122978810
+	 NetArt Spolka Akcyjna S.K.A.
 	 Rondo Mogilskie 1
-	 Krakow,Malopolskie,PL 31-516
+\r
+t Krakow
+Malopolskie,
+PL
+
+ zipcode:31-516
 
 Billing Contactor:
-	 Name-- ITea - Przemyslaw Podsiadly
- EMail-: (itea.pp@gmail.com)
- tel --: +48.600831427
-	 org: Przemyslaw Podsiadly
+	 name:(ITea - Przemyslaw Podsiadly)
+	Email:(itea.pp@gmail.com) tel-- +48.600831427
+	 Przemyslaw Podsiadly
 	 ul. Modrzewiowa 12
-	 Siedlce,mazowieckie,pl 08-110
+\r
+t Siedlce
+mazowieckie,
+pl
+
+ zipcode:08-110
 
 
 Registration Service Provider:

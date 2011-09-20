@@ -1,0 +1,48 @@
+% request from 2620:0:2e40:2:20a:95ff:fe71:cab0
+% This is the Ukrainian Whois query server #B.
+% Rights restricted by copyright.
+%
+
+
+% % .UA whois
+% Domain Record:
+% =============
+domain:     tur.com.ua
+admin-c:    AS1087-UANIC
+tech-c:     CVB32-UANIC
+status:     OK-UNTIL 20120219141246
+dom-public: NO
+nserver:    netname.com.ua
+nserver:    ns.prohosting.com.ua
+mnt-by:     UARR12-UANIC (ua.forward)
+remark:     forward.com.ua customer
+created:    0-UANIC 20040219141247
+changed:    UARR12-UANIC 20100224171112
+source:     UANIC
+
+
+% Administrative Contact:
+% ======================
+nic-handle: AS1087-UANIC
+remark:     Whois privacy protection service
+remark:     http://hostmaster.ua/priv.html
+e-mail:     as1087-uanic@priv.uanic.ua
+mnt-by:     NONE
+source:     UANIC
+
+% Technical Contact:
+% =================
+nic-handle: CVB32-UANIC
+remark:     Whois privacy protection service
+remark:     http://hostmaster.ua/priv.html
+e-mail:     cvb32-uanic@priv.uanic.ua
+mnt-by:     NONE
+source:     UANIC
+
+
+% % .UA whois
+
+% Last update of whois database: 20 Sep 2011 07:48:45 +0200 (EET)
+
+% Query time:   26 msec
+

@@ -16,7 +16,7 @@ for detailed information.
    Creation Date: 14-nov-1997
    Expiration Date: 13-nov-2015
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 04:48:56 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 05:10:40 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -112,7 +112,7 @@ The Espoma Company
 
    Record expires on 13-Nov-2015.
    Record created on 14-Nov-1997.
-   Database last updated on 18-Sep-2011 00:39:22 EDT.
+   Database last updated on 20-Sep-2011 01:00:15 EDT.
 
    Domain servers in listed order:
 
