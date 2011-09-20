@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D4509774-LROR
+Domain Name:COMMUNISM.ORG
+Created On:16-Feb-1996 05:00:00 UTC
+Last Updated On:02-Dec-2009 04:03:23 UTC
+Expiration Date:17-Feb-2014 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR30731093
+Registrant Name:Ben Stevens
+Registrant Organization:Weapon of Transparency
+Registrant Street1:Rua Agro de Moinhos, 199 2-D
+Registrant Street2:
+Registrant Street3:
+Registrant City:Vila Nova de Gaia
+Registrant State/Province:Portugal
+Registrant Postal Code:4430
+Registrant Country:PT
+Registrant Phone:+351.5058899
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:domain_guy_2@struggle.net
+Admin ID:CR30731095
+Admin Name:Ben Stevens
+Admin Organization:Weapon of Transparency
+Admin Street1:Rua Agro de Moinhos, 199 2-D
+Admin Street2:
+Admin Street3:
+Admin City:Vila Nova de Gaia
+Admin State/Province:Portugal
+Admin Postal Code:4430
+Admin Country:PT
+Admin Phone:+351.5058899
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:domain_guy_2@struggle.net
+Tech ID:CR30731094
+Tech Name:Ben Stevens
+Tech Organization:Weapon of Transparency
+Tech Street1:Rua Agro de Moinhos, 199 2-D
+Tech Street2:
+Tech Street3:
+Tech City:Vila Nova de Gaia
+Tech State/Province:Portugal
+Tech Postal Code:4430
+Tech Country:PT
+Tech Phone:+351.5058899
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:domain_guy_2@struggle.net
+Name Server:NS43.DOMAINCONTROL.COM
+Name Server:NS44.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

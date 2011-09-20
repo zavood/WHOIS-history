@@ -1,0 +1,28 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         stuba.sk
+Admin-id            SLOV-0612
+Admin-name          Slovenska technicka univerzita - Centrum vypoctovej techniky
+Admin-legal-form    ina pravna forma
+Admin-org.-ID       397687
+Admin-address       Nam. Slobody 17, Bratislava 812 43
+Admin-telephone     02/52451301
+Admin-email         nmc@bts.sk
+Tech-id             TELE-0028
+Tech-name           GTS Slovakia, a.s.
+Tech-org.-ID        35795662
+Tech-address        Einsteinova 24, Bratislava 851 01
+Tech-telephone      +421232232232 hotline, +421258228111 desk
+Tech-email          registry@gts.sk
+dns_name            ns.cvt.stuba.sk
+dns_IPv4            147.175.1.11
+dns_name            ns.stuba.sk
+dns_IPv4            147.175.111.15
+dns_name            sun.uakom.sk
+Last-update         2010-11-08
+Valid-date          2011-11-24
+Domain-status       DOM_OK
+

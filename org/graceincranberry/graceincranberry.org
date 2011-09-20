@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D78561432-LROR
+Domain Name:GRACEINCRANBERRY.ORG
+Created On:12-Oct-2001 23:02:58 UTC
+Last Updated On:21-Apr-2011 15:11:22 UTC
+Expiration Date:12-Oct-2014 23:02:58 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:16869074-NSI
+Registrant Name:Grace Community Church
+Registrant Organization:Grace Community Church
+Registrant Street1:216 Mystic Pine Trail
+Registrant Street2:
+Registrant Street3:
+Registrant City:Cranberry Township
+Registrant State/Province:PA
+Registrant Postal Code:16066-4343
+Registrant Country:US
+Registrant Phone:+1.7247797997
+Registrant Phone Ext.:
+Registrant FAX:+1.7247797996
+Registrant FAX Ext.:
+Registrant Email:dryfka@iname.com
+Admin ID:44034670-NSI
+Admin Name:Grace Community Church
+Admin Street1:216 Mystic Pine Trail
+Admin Street2:
+Admin Street3:
+Admin City:Cranberry Twp
+Admin State/Province:PA
+Admin Postal Code:16066
+Admin Country:US
+Admin Phone:+1.7247797997
+Admin Phone Ext.:
+Admin FAX:+1.7247797996
+Admin FAX Ext.:
+Admin Email:taf@graceincranberry.org
+Tech ID:44034670-NSI
+Tech Name:Grace Community Church
+Tech Street1:216 Mystic Pine Trail
+Tech Street2:
+Tech Street3:
+Tech City:Cranberry Twp
+Tech State/Province:PA
+Tech Postal Code:16066
+Tech Country:US
+Tech Phone:+1.7247797997
+Tech Phone Ext.:
+Tech FAX:+1.7247797996
+Tech FAX Ext.:
+Tech Email:taf@graceincranberry.org
+Name Server:NS95.WORLDNIC.COM
+Name Server:NS96.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

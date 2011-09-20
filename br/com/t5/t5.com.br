@@ -5,33 +5,13 @@
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-18 19:49:53 (BRT -03:00)
+%  2011-09-19 20:57:11 (BRT -03:00)
+
+% Query rate limit exceeded. Reduced information.
+% Use https://registro.br/cgi-bin/avail/ for domain availability.
 
 domain:      t5.com.br
-owner:       ALQG TECNOLOGIA LTDA.
-ownerid:     006.052.910/0001-02
-responsible: Hostgold Internet
-country:     BR
-owner-c:     HOI27
-admin-c:     HOI27
-tech-c:      HOI27
-billing-c:   HOI27
-nserver:     ns1.t5.com.br 201.33.16.75
-nsstat:      20110914 AA
-nslastaa:    20110914
-nserver:     ns2.t5.com.br 201.33.16.76
-nsstat:      20110914 AA
-nslastaa:    20110914
-created:     20040308 #1562405
-expires:     20120308
-changed:     20110620
-status:      published
-
-nic-hdl-br:  HOI27
-person:      Hostgold Internet
-e-mail:      registro@hostgold.com.br
-created:     20060220
-changed:     20110117
+owner:       ALQG TECNOLOGIA LTDA. (509121)
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

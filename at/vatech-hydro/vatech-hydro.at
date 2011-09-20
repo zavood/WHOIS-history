@@ -1,0 +1,74 @@
+% Copyright (c)2011 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         vatech-hydro.at
+registrant:     VTHG7061876-NICAT
+admin-c:        VTHG7061877-NICAT
+tech-c:         LDMG7061944-NICAT
+nserver:        ns1.lemarit.de
+nserver:        ns1.lemarit.net
+nserver:        ns2.lemarit.de
+nserver:        ns2.lemarit.net
+nserver:        ns3.lemarit.de
+changed:        20100512 13:49:43
+source:         AT-DOM
+
+personname:
+organization:   VA TECH HYDRO GmbH
+street address: Penzinger Strasse 76
+postal code:    1141
+city:           Wien
+country:        Austria
+phone:          +4331669020
+fax-no:         +433166902415
+e-mail:         andritz@lemarit.com
+nic-hdl:        VTHG7061876-NICAT
+changed:        20100401 16:40:09
+source:         AT-DOM
+
+personname:
+organization:   VA TECH HYDRO GmbH
+street address: Penzinger Strasse 76
+postal code:    1141
+city:           Wien
+country:        Austria
+phone:          +431891000
+fax-no:         +4318946046
+e-mail:         andritz@lemarit.com
+nic-hdl:        VTHG7061877-NICAT
+changed:        20100401 16:40:09
+source:         AT-DOM
+
+personname:     LEMARIT Technical
+organization:   LEMARIT Domain Management GmbH
+street address: Werkstr. 12
+postal code:    24955
+city:           Harrislee
+country:        Germany
+phone:          +494615050350
+fax-no:         +4946150503535
+e-mail:         technical@lemarit.com
+nic-hdl:        LDMG7061944-NICAT
+changed:        20100419 13:03:09
+source:         AT-DOM
+

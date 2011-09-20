@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101468427-LROR
+Domain Name:AITSA.ORG
+Created On:17-Sep-2003 07:06:37 UTC
+Last Updated On:18-Sep-2011 01:26:34 UTC
+Expiration Date:17-Sep-2012 07:06:37 UTC
+Sponsoring Registrar:Web Werks India pvt (R1587-LROR)
+Status:OK
+Status:AUTORENEWPERIOD
+Registrant ID:df!@d_779809600
+Registrant Name:Koustubha Kale
+Registrant Organization:Koustubha Kale
+Registrant Street1:C/D 105,Shrirang Society
+Registrant Street2:C/D 105,Shrirang Society
+Registrant Street3:
+Registrant City:Thane (w)
+Registrant State/Province:maharashtra
+Registrant Postal Code:400601
+Registrant Country:IN
+Registrant Phone:+91.25345539
+Registrant Phone Ext.:000
+Registrant FAX:+91.25345539
+Registrant FAX Ext.:000
+Registrant Email:koustubha_kale@yahoo.com
+Admin ID:df!@d_1404059983
+Admin Name:Koustubha Kale
+Admin Organization:Koustubha Kale
+Admin Street1:C/D 105,Shrirang Society
+Admin Street2:C/D 105,Shrirang Society
+Admin Street3:
+Admin City:Thane (w)
+Admin State/Province:maharashtra
+Admin Postal Code:400601
+Admin Country:IN
+Admin Phone:+91.25345539
+Admin Phone Ext.:000
+Admin FAX:+91.25345539
+Admin FAX Ext.:000
+Admin Email:koustubha_kale@yahoo.com
+Tech ID:df!@d_1189175790
+Tech Name:Koustubha Kale
+Tech Organization:Koustubha Kale
+Tech Street1:C/D 105,Shrirang Society
+Tech Street2:C/D 105,Shrirang Society
+Tech Street3:
+Tech City:Thane (w)
+Tech State/Province:maharashtra
+Tech Postal Code:400601
+Tech Country:IN
+Tech Phone:+91.25345539
+Tech Phone Ext.:000
+Tech FAX:+91.25345539
+Tech FAX Ext.:000
+Tech Email:koustubha_kale@yahoo.com
+Name Server:NS1.THISDOMAINHASEXPIRED.NET
+Name Server:NS2.THISDOMAINHASEXPIRED.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

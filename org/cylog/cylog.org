@@ -1,0 +1,82 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D69129231-LROR
+Domain Name:CYLOG.ORG
+Created On:11-Apr-2001 13:21:16 UTC
+Last Updated On:11-Apr-2008 21:28:41 UTC
+Expiration Date:11-Apr-2013 13:21:19 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:6239232-NSI
+Registrant Name:Konstantinos Symeonidis
+Registrant Street1:Flat 12, The Glasshouse
+Registrant Street2:55 Lacy Road
+Registrant Street3:
+Registrant City:London
+Registrant State/Province:
+Registrant Postal Code:SW15 1PR
+Registrant Country:GB
+Registrant Phone:+44.2087882354
+Registrant Phone Ext.:
+Registrant FAX:+44.1231231234
+Registrant FAX Ext.:
+Registrant Email:ksymeon@cylog.org
+Admin ID:6239232-NSI
+Admin Name:Konstantinos Symeonidis
+Admin Street1:Flat 12, The Glasshouse
+Admin Street2:55 Lacy Road
+Admin Street3:
+Admin City:London
+Admin State/Province:
+Admin Postal Code:SW15 1PR
+Admin Country:GB
+Admin Phone:+44.2087882354
+Admin Phone Ext.:
+Admin FAX:+44.1231231234
+Admin FAX Ext.:
+Admin Email:ksymeon@cylog.org
+Tech ID:5358805-NSI
+Tech Name:Network Solutions, LLC.
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:VA
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:NS5.WORLDNIC.COM
+Name Server:NS6.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

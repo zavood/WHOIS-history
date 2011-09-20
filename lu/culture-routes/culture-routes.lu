@@ -1,0 +1,55 @@
+% Access to RESTENA DNS-LU WHOIS information is provided to assist persons
+% in determining the content of a domain name registration record in the LU
+% registration database. The data in this record is provided by RESTENA DNS-LU
+% for information purposes only, and RESTENA DNS-LU does not guarantee its
+% accuracy. Compilation, repackaging, dissemination or other use of the
+% WHOIS database in its entirety, or of a substantial part thereof, is not
+% allowed without the prior written permission of RESTENA DNS-LU.
+%
+% By submitting a WHOIS query, you agree to abide by this policy. You acknowledge
+% that the use of the WHOIS database is regulated by the ACCEPTABLE USE POLICY
+% (http://www.dns.lu/en/EN-LUCharteUtil.html), that you are aware of its
+% content, and that you accept its terms and conditions.
+%
+% You agree especially that you will use this data only for lawful purposes and
+% that you will not use this data to:
+% (1) allow, enable, or otherwise support the transmission of mass unsolicited,
+% commercial advertising or solicitations via e-mail (spam); or
+% (2) enable high volume, automated, electronic processes that apply to
+% RESTENA DNS-LU (or its systems).
+%
+% All rights reserved.
+%
+% powered by Whois Server 3.1, (c) dns.be
+%
+% WHOIS culture-routes
+domainname:	culture-routes.lu
+domaintype:	ACTIVE
+nserver:	ns1.restena.lu
+nserver:	ns2.restena.lu
+ownertype:	ORGANISATION
+registered:	22/10/1998
+org-name:	Institut Europ&eacute;en des Itin&eacute;raires Culturels
+org-address:	Abbaye de Neumunster - 28 rue Munster
+org-zipcode:	2160
+org-city:	Luxembourg
+org-country:	LU
+adm-name:	Sorina Capp
+adm-address:	Institut Europ&eacute;en des Itin&eacute;raires Culturels
+adm-address:	Abbaye de Neumunster - 28 rue Munster
+adm-zipcode:	2160
+adm-city:	Luxembourg
+adm-country:	LU
+adm-email:	sorinacapp@culture-routes.lu
+tec-name:	Sorina Capp
+tec-address:	Institut Europ&eacute;en des Itin&eacute;raires Culturels
+tec-address:	Abbaye de Neumunster - 28 rue Munster
+tec-zipcode:	2160
+tec-city:	Luxembourg
+tec-country:	LU
+tec-email:	sorinacapp@culture-routes.lu
+registrar-name:		Fondation RESTENA
+registrar-email:	domreg@dns.lu
+registrar-url:		http://www.dns.lu
+registrar-country:	LU
+

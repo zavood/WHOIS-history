@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D2659591-LROR
+Domain Name:COOPERHEALTH.ORG
+Created On:16-Jan-1996 05:00:00 UTC
+Last Updated On:28-Apr-2010 00:24:41 UTC
+Expiration Date:17-Jan-2020 05:00:00 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR42876277
+Registrant Name:Cooper University Hospital
+Registrant Organization:Cooper University Hospital
+Registrant Street1:One Cooper Plaza
+Registrant Street2:
+Registrant Street3:
+Registrant City:Camden
+Registrant State/Province:New Jersey
+Registrant Postal Code:08103
+Registrant Country:US
+Registrant Phone:+1.8569687388
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:gradel-andrew@cooperhealth.edu
+Admin ID:CR42876288
+Admin Name:Andrew Gradel
+Admin Organization:Cooper University Hospital
+Admin Street1:Three Executive Campus
+Admin Street2:Suite 240-B
+Admin Street3:
+Admin City:Cherry Hill
+Admin State/Province:New Jersey
+Admin Postal Code:08002
+Admin Country:US
+Admin Phone:+1.856382644
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:gradel-andrew@cooperhealth.edu
+Tech ID:CR42876283
+Tech Name:LLC. Network Solutions
+Tech Organization:Network Solutions, LLC.
+Tech Street1:13200 Woodland Park Drive
+Tech Street2:
+Tech Street3:
+Tech City:Herndon
+Tech State/Province:Virginia
+Tech Postal Code:20171-3025
+Tech Country:US
+Tech Phone:+1.8886429675
+Tech Phone Ext.:
+Tech FAX:+1.5714344620
+Tech FAX Ext.:
+Tech Email:customerservice@networksolutions.com
+Name Server:DNS3.VERTEX.NET
+Name Server:DNS4.VERTEX.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

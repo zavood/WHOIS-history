@@ -1,0 +1,11 @@
+
+No_Se_Encontro_El_Objeto/Object_Not_Found
+
+&amp;PARAMETROS VALIDOS:
+
+ &amp;NombreObjeto    Busca en la base de datos de NIC Mexico el objeto solicitado.
+ &amp;=NombreDominio  Verifica la disponibilidad de un nombre de dominio.
+ &amp;?               Muestra este mensaje.
+
+&amp;NOTA:
+ &amp;Si se busca informacion sobre un dominio este debe pertenecer al ccTLD .mx

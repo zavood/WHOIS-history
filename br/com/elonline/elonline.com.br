@@ -1,37 +1,13 @@
-
 % Copyright (c) Nic.br
 %  The use of the data below is only permitted as described in
 %  full by the terms of use (http://registro.br/termo/en.html),
 %  being prohibited its distribution, comercialization or
 %  reproduction, in particular, to use it for advertising or
 %  any similar purpose.
-%  2011-09-15 20:27:00 (BRT -03:00)
+%  [67.231.254.15] 2011-09-19 22:20:32 (BRT -03:00)
 
-domain:      elonline.com.br
-owner:       E&amp;L Produ&ccedil;&otilde;es de Software Ltda
-ownerid:     039.781.752/0001-72
-responsible: Holz, Estevao Henrique
-country:     BR
-owner-c:     THR107
-admin-c:     THR107
-tech-c:      THR107
-billing-c:   THR107
-nserver:     ns0.elonline.com.br 189.53.196.29
-nsstat:      20110913 AA
-nslastaa:    20110913
-nserver:     ns1.elonline.com.br 187.61.62.218
-nsstat:      20110913 AA
-nslastaa:    20110913
-created:     20010404 #545382
-expires:     20160404
-changed:     20110609
-status:      published
 
-nic-hdl-br:  THR107
-person:      Thiago Rocha
-e-mail:      thiago.rocha@bsd.com.br
-created:     20050730
-changed:     20090717
+% Query rate limit exceeded
 
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/, respectivelly to cert@cert.br

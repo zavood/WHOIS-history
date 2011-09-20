@@ -1,0 +1,26 @@
+[Domain]
+Domain: data-centr.lv
+Status: active
+Changed: 2010-06-18T13:45:09+03:00
+
+[Holder]
+Type: Legal person
+Name: SIA VPS Hosting
+Email: oranze@mail.ru
+Fax: 67248898
+Phone: +371 29694403
+Address: Zemes iela 4-10, Riga, LV-1082, Latvia
+RegNr: 40103298690
+
+[Tech]
+Type: Natural person
+Email: oranze@mail.ru
+Fax: 67248898
+Phone: +371 29694403
+
+[Nservers]
+Nserver: ns1.data-centr.lv
+Nserver: ns2.data-centr.lv
+
+[Whois]
+Updated: 2011-09-19T23:12:24.904768+00:00

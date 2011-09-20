@@ -1,0 +1,30 @@
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'onde.ir'
+
+
+domain:		onde.ir
+ascii:		onde.ir
+remarks:	(Domain Holder) BasFas Co.
+remarks:	(Domain Holder Address) cp 492gramado, BR95670-000
+holder-c:	---
+admin-c:	ba88-irnic
+tech-c:		ba88-irnic
+nserver:	dns1.basfas.com.br
+nserver:	dns2.basfas.com.br
+last-updated:	2007-12-03
+source:		IRNIC # Filtered
+
+nic-hdl:	ba88-irnic
+org:		BasFas
+e-mail:		jarbas@basfas.com.br
+address:	cp 492, Gramado, Rio Grande do Sul, BR
+phone:		54 3286 4159
+source:		IRNIC # Filtered
+

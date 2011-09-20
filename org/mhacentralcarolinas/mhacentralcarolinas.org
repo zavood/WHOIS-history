@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D94424894-LROR
+Domain Name:MHACENTRALCAROLINAS.ORG
+Created On:10-Feb-2003 14:30:46 UTC
+Last Updated On:05-Jan-2010 18:49:12 UTC
+Expiration Date:10-Feb-2015 14:30:46 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:26407269-NSI
+Registrant Name:MentalHealthAssn. of Central Carolinas,
+Registrant Organization:MentalHealthAssn. of Central Carolinas,
+Registrant Street1:3701 Latrobe Drive
+Registrant Street2:Suite 140
+Registrant Street3:
+Registrant City:Charlotte
+Registrant State/Province:NC
+Registrant Postal Code:28211
+Registrant Country:US
+Registrant Phone:+1.70436534
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:hostmaster@BTITELECOM.NET
+Admin ID:26407269-NSI
+Admin Name:MentalHealthAssn. of Central Carolinas,
+Admin Organization:MentalHealthAssn. of Central Carolinas,
+Admin Street1:3701 Latrobe Drive
+Admin Street2:Suite 140
+Admin Street3:
+Admin City:Charlotte
+Admin State/Province:NC
+Admin Postal Code:28211
+Admin Country:US
+Admin Phone:+1.70436534
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:hostmaster@BTITELECOM.NET
+Tech ID:5624921-NSI
+Tech Name:Business Telecommunications Inc.
+Tech Organization:Business Telecommunications Inc.
+Tech Street1:4300 SIX FORKS RD STE 500
+Tech Street2:
+Tech Street3:
+Tech City:RALEIGH
+Tech State/Province:NC
+Tech Postal Code:27609-5734
+Tech Country:US
+Tech Phone:+1.8002393000
+Tech Phone Ext.:
+Tech FAX:+1.8002325341
+Tech FAX Ext.:
+Tech Email:hostmaster@BTITELECOM.NET
+Name Server:NS9.WORLDNIC.COM
+Name Server:NS10.WORLDNIC.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

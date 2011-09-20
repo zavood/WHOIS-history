@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106263675-LROR
+Domain Name:HOGEYEFOLKARTS.ORG
+Created On:07-May-2005 21:25:21 UTC
+Last Updated On:08-May-2011 11:00:14 UTC
+Expiration Date:07-May-2012 21:25:21 UTC
+Sponsoring Registrar:Wild West Domains, Inc. (R120-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31289570
+Registrant Name:Doug Tweedie
+Registrant Organization:Hogeye Folk Arts, Ltd.
+Registrant Street1:2648 Ewing Avenue
+Registrant Street2:
+Registrant Street3:
+Registrant City:Evanston
+Registrant State/Province:Illinois
+Registrant Postal Code:60201
+Registrant Country:US
+Registrant Phone:+1.6308403817
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:bertwst@hotmail.com
+Admin ID:CR31289572
+Admin Name:Doug Tweedie
+Admin Organization:Hogeye Folk Arts, Ltd.
+Admin Street1:2648 Ewing Avenue
+Admin Street2:
+Admin Street3:
+Admin City:Evanston
+Admin State/Province:Illinois
+Admin Postal Code:60201
+Admin Country:US
+Admin Phone:+1.6308403817
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:bertwst@hotmail.com
+Tech ID:CR31289571
+Tech Name:Doug Tweedie
+Tech Organization:Hogeye Folk Arts, Ltd.
+Tech Street1:2648 Ewing Avenue
+Tech Street2:
+Tech Street3:
+Tech City:Evanston
+Tech State/Province:Illinois
+Tech Postal Code:60201
+Tech Country:US
+Tech Phone:+1.6308403817
+Tech Phone Ext.:
+Tech FAX:
+Tech FAX Ext.:
+Tech Email:bertwst@hotmail.com
+Name Server:NS01.DOMAINCONTROL.COM
+Name Server:NS02.DOMAINCONTROL.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

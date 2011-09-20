@@ -1,0 +1,19 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     GTK.SU
+descr:      Supported by Nodex
+nserver:    ns.nodex.ru.
+nserver:    ns4.nodex.ru.
+state:      REGISTERED, DELEGATED
+person:     Private Person
+e-mail:     admin@gtk.su
+registrar:  GPT-REG-FID
+created:    2004.05.18
+paid-till:  2012.05.18
+source:     TCI
+
+Last updated on 2011.09.20 04:25:46 MSK/MSD
+

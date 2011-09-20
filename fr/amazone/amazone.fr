@@ -1,0 +1,97 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [67.231.254.15 REQUEST] &gt;&gt; amazone.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      amazone.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    AWHD2-FRNIC
+admin-c:     HN70-FRNIC
+tech-c:      LT1526-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL33927-FRNIC
+registrar:   NETIM
+anniversary: 03/12
+created:     24/09/2004
+last-update: 03/12/2010
+source:      FRNIC
+
+ns-list:     NSL33927-FRNIC
+nserver:     ns1.lemarit.de
+nserver:     ns2.lemarit.de
+nserver:     ns3.lemarit.de
+nserver:     ns1.lemarit.net
+nserver:     ns2.lemarit.net
+source:      FRNIC
+
+registrar:   NETIM
+type:        Isp Option 1
+address:     Euratechnologies
+address:     165 Avenue de Bretagne
+address:     LILLE
+country:     FR
+phone:       +33 9 72 11 33 52
+fax-no:      +33 3 59 35 03 74
+e-mail:      contact@netim.fr
+website:     http://www.netim.fr
+anonymous:   NO
+registered:  04/01/2005
+source:      FRNIC
+
+nic-hdl:     HN70-FRNIC
+type:        PERSON
+contact:     Hostmaster Netim
+address:     165, avenue de bretagne, Euratechnologies
+address:     59000 Lille
+country:     FR
+phone:       +33 0 00 00 00 00
+fax-no:      +33 3 66 72 05 04
+e-mail:      support@netim.com
+changed:     27/04/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     LT1526-FRNIC
+type:        PERSON
+contact:     Lemarit Technical
+address:     LEMARIT DOMAIN MANAGEMENT GMBH
+address:     Werkstr. 12
+address:     24955 HARRISLEE
+country:     DE
+phone:       +49 4615050350
+fax-no:      +49 46150503535
+e-mail:      technical@lemarit.com
+changed:     24/11/2010 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+source:      FRNIC
+
+nic-hdl:     AWHD2-FRNIC
+type:        ORGANIZATION
+contact:     AMAZONEN-WERKE H. Dreyer GmbH &amp; Co. KG
+address:     Am Amazonenwerk 9-13
+address:     49205 HASBERGEN
+country:     DE
+phone:       +49 54055010
+fax-no:      +49 5405501147
+e-mail:      amazone@lemarit.com
+changed:     20/04/2011 nic@nic.fr
+anonymous:   NO
+obsoleted:   NO
+idstatus:    ok
+source:      FRNIC
+

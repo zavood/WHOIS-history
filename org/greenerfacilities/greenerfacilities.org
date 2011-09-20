@@ -1,0 +1,87 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D106965253-LROR
+Domain Name:GREENERFACILITIES.ORG
+Created On:20-Jul-2005 20:49:13 UTC
+Last Updated On:07-Jun-2010 21:34:25 UTC
+Expiration Date:20-Jul-2012 20:49:13 UTC
+Sponsoring Registrar:GoDaddy.com, Inc. (R91-LROR)
+Status:CLIENT DELETE PROHIBITED
+Status:CLIENT RENEW PROHIBITED
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:CR31393221
+Registrant Name:Deborah Remich
+Registrant Organization:Braun &amp; Zurawski, Inc.
+Registrant Street1:5150 N. Port Washington Road
+Registrant Street2:Suite 260
+Registrant Street3:
+Registrant City:Milwaukee
+Registrant State/Province:Wisconsin
+Registrant Postal Code:53217
+Registrant Country:US
+Registrant Phone:+1.3321500
+Registrant Phone Ext.:
+Registrant FAX:+1.3326998
+Registrant FAX Ext.:
+Registrant Email:debr@bzmarcom.com
+Admin ID:CR31393223
+Admin Name:Deborah Remich
+Admin Organization:Braun &amp; Zurawski, Inc.
+Admin Street1:5150 N. Port Washington Road
+Admin Street2:Suite 260
+Admin Street3:
+Admin City:Milwaukee
+Admin State/Province:Wisconsin
+Admin Postal Code:53217
+Admin Country:US
+Admin Phone:+1.3321500
+Admin Phone Ext.:
+Admin FAX:+1.3326998
+Admin FAX Ext.:
+Admin Email:debr@bzmarcom.com
+Tech ID:CR31393222
+Tech Name:Deborah Remich
+Tech Organization:Braun &amp; Zurawski, Inc.
+Tech Street1:5150 N. Port Washington Road
+Tech Street2:Suite 260
+Tech Street3:
+Tech City:Milwaukee
+Tech State/Province:Wisconsin
+Tech Postal Code:53217
+Tech Country:US
+Tech Phone:+1.3321500
+Tech Phone Ext.:
+Tech FAX:+1.3326998
+Tech FAX Ext.:
+Tech Email:debr@bzmarcom.com
+Name Server:NS1.STARKMEDIA.COM
+Name Server:NS2.STARKMEDIA.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

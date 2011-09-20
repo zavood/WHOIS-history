@@ -1,0 +1,23 @@
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:     NTS.SU
+nserver:    ns.nts.su. 82.117.160.130
+nserver:    ns2.nts.su. 82.117.163.210
+nserver:    ns3.nts.su. 82.117.162.140
+state:      REGISTERED, DELEGATED
+org:        New Telesystems, Ltd.
+phone:      +7 3822 600620
+fax-no:     +7 3822 600623
+e-mail:     avi@nts.su
+e-mail:     hag@nts.su
+e-mail:     tea@nts.su
+registrar:  RUCENTER-REG-FID
+created:    2003.10.09
+paid-till:  2011.10.09
+source:     TCI
+
+Last updated on 2011.09.20 03:40:46 MSK/MSD
+

@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 29-may-2010
    Expiration Date: 29-may-2012
 
-&gt;&gt;&gt; Last update of whois database: Sat, 17 Sep 2011 00:08:12 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 01:40:19 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -97,10 +97,10 @@ Registrars.
 # Nous nous  r&Atilde;&copy;servons  le  droit  de  modifier  ces  termes  &Atilde;&nbsp; tout moment. En
 # soumettant une requ&Atilde;&ordf;te au Whois vous consentez &Atilde;&nbsp; vous soumettre &Atilde;&nbsp; ces termes.
 
-# local time    : Saturday, 17-Sep-2011 02:08:44 CEST
-# gmt time      : Saturday, 17-Sep-2011 00:08:44 GMT
+# local time    : Tuesday, 20-Sep-2011 03:40:56 CEST
+# gmt time      : Tuesday, 20-Sep-2011 01:40:56 GMT
 # last modify   : Wednesday, 31-Aug-2011 06:32:05 CEST
-# request from  : 192.168.248.1:15899
+# request from  : 192.168.248.1:14562
 
 Domain name: eficiens-serving2.com
 

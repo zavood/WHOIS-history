@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D1612960-LROR
+Domain Name:LBL.ORG
+Created On:03-Sep-1996 04:00:00 UTC
+Last Updated On:07-Aug-2008 18:40:05 UTC
+Expiration Date:02-Sep-2017 04:00:00 UTC
+Sponsoring Registrar:Network Solutions LLC (R63-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Registrant ID:20201141-NSI
+Registrant Name:Denise Schmittou
+Registrant Organization:Land Between The Lakes
+Registrant Street1:100 Van Morgan Drive
+Registrant Street2:
+Registrant Street3:
+Registrant City:Golden Pond
+Registrant State/Province:KY
+Registrant Postal Code:42211-9001
+Registrant Country:US
+Registrant Phone:+1.270924200
+Registrant Phone Ext.:
+Registrant FAX:+1.270924208
+Registrant FAX Ext.:
+Registrant Email:curtisd@ISDN.NET
+Admin ID:20201141-NSI
+Admin Name:Denise Schmittou
+Admin Organization:Land Between The Lakes
+Admin Street1:100 Van Morgan Drive
+Admin Street2:
+Admin Street3:
+Admin City:Golden Pond
+Admin State/Province:KY
+Admin Postal Code:42211-9001
+Admin Country:US
+Admin Phone:+1.270924200
+Admin Phone Ext.:
+Admin FAX:+1.270924208
+Admin FAX Ext.:
+Admin Email:curtisd@ISDN.NET
+Tech ID:20201141-NSI
+Tech Name:Denise Schmittou
+Tech Organization:Land Between The Lakes
+Tech Street1:100 Van Morgan Drive
+Tech Street2:
+Tech Street3:
+Tech City:Golden Pond
+Tech State/Province:KY
+Tech Postal Code:42211-9001
+Tech Country:US
+Tech Phone:+1.270924200
+Tech Phone Ext.:
+Tech FAX:+1.270924208
+Tech FAX Ext.:
+Tech Email:curtisd@ISDN.NET
+Name Server:NS4.ISDN.NET
+Name Server:NS5.ISDN.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

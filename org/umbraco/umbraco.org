@@ -1,0 +1,84 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D101522530-LROR
+Domain Name:UMBRACO.ORG
+Created On:30-Sep-2003 18:59:08 UTC
+Last Updated On:01-Oct-2010 01:22:50 UTC
+Expiration Date:30-Sep-2011 18:59:08 UTC
+Sponsoring Registrar:ASCIO Technologies, Inc. - Denmark (R76-LROR)
+Status:OK
+Registrant ID:ASCIO4623745-001
+Registrant Name:Hartvig, Niels
+Registrant Organization:Niels Hartvig
+Registrant Street1:Fredensborggade 6, 2th
+Registrant Street2:
+Registrant Street3:
+Registrant City:Copenhagen N
+Registrant State/Province:
+Registrant Postal Code:2200
+Registrant Country:DK
+Registrant Phone:+45.20854357
+Registrant Phone Ext.:
+Registrant FAX:
+Registrant FAX Ext.:
+Registrant Email:niels@hartvig.com
+Admin ID:ASCIO4623746-001
+Admin Name:Niels Hartvig
+Admin Organization:Niels Hartvig
+Admin Street1:Fredensborggade 6, 2th
+Admin Street2:
+Admin Street3:
+Admin City:Copenhagen N
+Admin State/Province:
+Admin Postal Code:2200
+Admin Country:DK
+Admin Phone:+45.20854357
+Admin Phone Ext.:
+Admin FAX:
+Admin FAX Ext.:
+Admin Email:niels@hartvig.com
+Tech ID:ASCIO4623747-001
+Tech Name:Technical Hostmaster
+Tech Organization:Speednames
+Tech Street1:Rejsbygade 8a
+Tech Street2:
+Tech Street3:
+Tech City:Copenhagen
+Tech State/Province:
+Tech Postal Code:1759
+Tech Country:DK
+Tech Phone:+45.33886300
+Tech Phone Ext.:
+Tech FAX:+45.33886301
+Tech FAX Ext.:
+Tech Email:hostmaster@speednames.com
+Name Server:NS2.ASCIO.NET
+Name Server:NS1.ASCIO.NET
+Name Server:NS3.ASCIO.NET
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+

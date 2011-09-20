@@ -1,0 +1,27 @@
+%
+% whois.sk-nic.sk - whois server for TLD .sk
+%
+
+
+Domain-name         viega.sk
+Admin-id            YEGO-0001
+Admin-name          Yegon s.r.o.
+Admin-legal-form    s.r.o
+Admin-org.-ID       35797924
+Admin-address       Ruzova dolina 6, Bratislava 82108
+Admin-telephone     02/20633171, 0905 612570
+Admin-email         registrator@yegon.sk
+Tech-id             YEGO-0001
+Tech-name           Yegon s.r.o.
+Tech-org.-ID        35797924
+Tech-address        Ruzova dolina 6, Bratislava 82108
+Tech-telephone      02/20633171, 0905 612570
+Tech-email          registrator@yegon.sk
+dns_name            ns1.lemarit.de
+dns_name            ns2.lemarit.de
+dns_name            ns3.lemarit.de
+dns_name            ns1.lemarit.net
+Last-update         2010-10-06
+Valid-date          2011-11-02
+Domain-status       DOM_OK
+

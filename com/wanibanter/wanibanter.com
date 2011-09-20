@@ -17,7 +17,7 @@ for detailed information.
    Creation Date: 07-jan-2010
    Expiration Date: 07-jan-2013
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 18:54:47 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 00:25:21 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -52,13 +52,78 @@ reserves the right to modify these terms at any time.
 
 The Registry database contains ONLY .COM, .NET, .EDU domains and
 Registrars.
-The IP Address 67.231.254.15 you are using to query our Whois Server has exceeded the 100 Whois queries per day limit. Any further queries from this IP Address will not result in a response until 24 hours.
+Registration Service Provided By: JAGOAN HOSTING
+Contact: +62.318419700
+Website: http://www.jagoanhosting.com
 
-You could have received this message, if 67.231.254.15 is a Public IP Address and has been used to query our Whois Server today, by multiple individuals before your query.
+Domain Name: WANIBANTER.COM
 
-This limit is set to effectively dissuade Whois Contact Details harvesting, apart from balancing load on our Whois Server.
+Registrant:
+    N/A
+    Suparno Suparno        (var_now@yahoo.com)
+    Tegal Malang, Dk. Grujugan
+    RT : 10, Bantul, Bantul
+    Yogyakarta
+    Yogyakarta,55711
+    ID
+    Tel. +62.85643148879
 
-If you wish to continue your investigation, please perform a Whois Lookup at http://manage.logicboxes.com/whois.
+Creation Date: 07-Jan-2010
+Expiration Date: 07-Jan-2013
 
-In order to increase this limit, please write to compliance@logicboxes.com with your IP Address and an explanation as to why you require a higher limit.
+Domain servers in listed order:
+    ns1.jagoanhosting.com
+    ns2.jagoanhosting.com
+    ns3.jagoanhosting.com
+
+
+Administrative Contact:
+    N/A
+    Suparno Suparno        (var_now@yahoo.com)
+    Tegal Malang, Dk. Grujugan
+    RT : 10, Bantul, Bantul
+    Yogyakarta
+    Yogyakarta,55711
+    ID
+    Tel. +62.85643148879
+
+Technical Contact:
+    N/A
+    Suparno Suparno        (var_now@yahoo.com)
+    Tegal Malang, Dk. Grujugan
+    RT : 10, Bantul, Bantul
+    Yogyakarta
+    Yogyakarta,55711
+    ID
+    Tel. +62.85643148879
+
+Billing Contact:
+    N/A
+    Suparno Suparno        (var_now@yahoo.com)
+    Tegal Malang, Dk. Grujugan
+    RT : 10, Bantul, Bantul
+    Yogyakarta
+    Yogyakarta,55711
+    ID
+    Tel. +62.85643148879
+
+Status:LOCKED
+	Note: This Domain Name is currently Locked. In this status the domain
+	name cannot be transferred, hijacked, or modified. The Owner of this
+	domain name can easily change this status from their control panel.
+	This feature is provided as a security measure against fraudulent domain name hijacking.
+
+The data in this whois database is provided to you for information purposes only,
+that is, to assist you in obtaining information about or related
+to a domain name registration record. We make this information available &quot;as is&quot;,
+and do not guarantee its accuracy. By submitting a whois query, you agree that you will
+use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress
+or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone.
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from us. The Registrar of record is Directi Internet Solutions Pvt. Ltd. d/b/a PublicDomainRegistry.com.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
 

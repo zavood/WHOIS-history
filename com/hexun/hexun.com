@@ -18,7 +18,7 @@ for detailed information.
    Creation Date: 24-aug-2003
    Expiration Date: 24-aug-2016
 
-&gt;&gt;&gt; Last update of whois database: Sun, 18 Sep 2011 11:27:33 UTC &lt;&lt;&lt;
+&gt;&gt;&gt; Last update of whois database: Tue, 20 Sep 2011 01:26:26 UTC &lt;&lt;&lt;
 
 NOTICE: The expiration date displayed in this record is the date the
 registrar's sponsorship of the domain name registration in the registry is
@@ -86,38 +86,32 @@ Domain servers in listed order:
 	 ns.hexun.com 	 ns2.hexun.com
 
 Administrator:
-	 name:(Beijing Hexunzaixian Xinxizixun)
-	Email:(govunit@staff.hexun.com) tel-- +86.1085650803
-	 Beijing Hexunzaixian Xinxizixun
 	 No.22 chao-yang-man-wai street,beijing
-\r
-t beijing
+	 beijing
 Beijing,
 CN
+ 100020
 
- zipcode:100020
-
+	 name:(Beijing Hexunzaixian Xinxizixun)
+mail:(govunit@staff.hexun.com) +86.1085650803
+	 Beijing Hexunzaixian Xinxizixun
 Technical Contactor:
-	 name:(Beijing Hexunzaixian Xinxizixun)
-	Email:(govunit@staff.hexun.com) tel-- +86.1085650803
-	 Beijing Hexunzaixian Xinxizixun
 	 No.22 chao-yang-man-wai street,beijing
-\r
-t beijing
+	 beijing
 Beijing,
 CN
+ 100020
 
- zipcode:100020
-
+	 name:(Beijing Hexunzaixian Xinxizixun)
+mail:(govunit@staff.hexun.com) +86.1085650803
+	 Beijing Hexunzaixian Xinxizixun
 Billing Contactor:
-	 name:(Beijing Hexunzaixian Xinxizixun)
-	Email:(govunit@staff.hexun.com) tel-- +86.1085650803
-	 Beijing Hexunzaixian Xinxizixun
 	 No.22 chao-yang-man-wai street,beijing
-\r
-t beijing
+	 beijing
 Beijing,
 CN
+ 100020
 
- zipcode:100020
-
+	 name:(Beijing Hexunzaixian Xinxizixun)
+mail:(govunit@staff.hexun.com) +86.1085650803
+	 Beijing Hexunzaixian Xinxizixun

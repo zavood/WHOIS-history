@@ -1,0 +1,85 @@
+NOTICE: Access to .ORG WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the Public Interest Registry
+registry database. The data in this record is provided by Public Interest Registry
+for informational purposes only, and Public Interest Registry does not guarantee its
+accuracy.  This service is intended only for query-based access.  You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations.  All
+rights reserved. Public Interest Registry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+
+Domain ID:D507268-LROR
+Domain Name:NMAJH.ORG
+Created On:06-Sep-1997 04:00:00 UTC
+Last Updated On:13-Dec-2010 22:25:25 UTC
+Expiration Date:05-Sep-2013 04:00:00 UTC
+Sponsoring Registrar:Tucows Inc. (R11-LROR)
+Status:CLIENT TRANSFER PROHIBITED
+Status:CLIENT UPDATE PROHIBITED
+Registrant ID:tu9t3UsML1lDUWoK
+Registrant Name:Stephen Donato
+Registrant Organization:National Museum of American Jewish History
+Registrant Street1:101 South Independence Mall East
+Registrant Street2:
+Registrant Street3:
+Registrant City:Philadelphia
+Registrant State/Province:PA
+Registrant Postal Code:19106-2197
+Registrant Country:US
+Registrant Phone:+1.2159233811
+Registrant Phone Ext.:
+Registrant FAX:+1.2159230763
+Registrant FAX Ext.:
+Registrant Email:sdonato@nmajh.org
+Admin ID:tuBWX2FiLNEPcJKz
+Admin Name:Bee.Net Hostmaster
+Admin Organization:Bee.Net Internet Services
+Admin Street1:64 E. Uwchlan Ave., PMB 239
+Admin Street2:
+Admin Street3:
+Admin City:Exton
+Admin State/Province:PA
+Admin Postal Code:19341
+Admin Country:US
+Admin Phone:+1.6102802274
+Admin Phone Ext.:
+Admin FAX:+1.6102802276
+Admin FAX Ext.:
+Admin Email:rgold@BEE.NET
+Tech ID:tupNuAs77AxHlTYR
+Tech Name:Bee.Net Hostmaster
+Tech Organization:Bee.Net Internet Services
+Tech Street1:64 E. Uwchlan Ave., PMB 239
+Tech Street2:
+Tech Street3:
+Tech City:Exton
+Tech State/Province:PA
+Tech Postal Code:19341
+Tech Country:US
+Tech Phone:+1.6102802274
+Tech Phone Ext.:
+Tech FAX:+1.6102802276
+Tech FAX Ext.:
+Tech Email:rgold@BEE.NET
+Name Server:DNS0.4BEENET.COM
+Name Server:DNS1.4BEENET.COM
+Name Server:DNS2.4BEENET.COM
+Name Server:DNS3.4BEENET.COM
+Name Server:DNS4.4BEENET.COM
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+
